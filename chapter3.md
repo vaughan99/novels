@@ -160,7 +160,7 @@ Muninn: "It is a title with history. He is an older hate than the Vikings. He’
 
 ]]
 
-But behind the red-capped murder-gnome, at the entry to the hovel, there was a small, childish giggle. The powrie-spirit turned on heel, and let out a mad scream of slicked hate and curious pitch. He lunged at the voice in the entrance, even if there was no body to go with it. Loops of rope, thick and woven with deathcap mushrooms, attacked the red cap from all sides. He struggled and bit, tossed and fought, but the cords held him tight. The redcap's knife dropped from his hand and broke like glass on the floor.
+But behind the red-capped murder-gnome, at the entry to the hovel, there was a small, childish giggle. The powrie-spirit turned on heel, and let out a mad scream of slicked hate and curious pitch. He lunged at the voice in the entrance, even if there was no body to go with it. Loops of rope, thick and woven with deathcap mushrooms, attacked the red cap from all sides. He struggled and bit, tossed and fought, but the cords held him tight. The redcap's knife, silver blade bound by iron hilt as his family-name poem suggested, dropped from his hand and broke like glass on the floor.
 
 The giggle disappeared into the night, as quickly as it had arrived. The redcap had vanished too, his voice muffled by a stuffing of mushrooms. The redcap and his jailer disappeared quickly into the night.
 
