@@ -1,12 +1,23 @@
 ## Afterword (Work in Progress)
 
 
-Welandes Cynn (Weyland's Kin), the forge-elves that carry on the tradition of magical blade-making.
+### Welandes Cynn (Weyland's Kin)
 
-Maker's Mark: Closer than shown, but basically the two runes at a diagonal. These represent Welandes Cynn initials, with the Cynn being diminuitive (what is called a vassal mark), showing that the Cynn are reliant on the success of the name of Welandes.
+These are the forge-elves that carry on the tradition of magical blade-making. In reality, it's just us. We're the ones creating the stories, making blades that look like the descriptions, and having fun (giggling like little children when things actually work out ok). Hugrinn makes up stories about these things we make and dream up, and tells them to imaginary children :)
 
+I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions.
+
+* Name: this is the name, obviously
+* Title: this is like "The Goblin-Slayer"
+* Oath/Ward: this is a phrase outwardly visible to the world as to the contract of what this weapon will do, e.g. "Beware night-goers!"
+* Spell: this is the phrase (if present, would be on the thigh-side of scabbard) that triggers or encompasses a phrase that begins the effect, e.g. "Wodbora says: Terrible Wodhere, no longer bound thou art!"
+
+I imagine the Welandes Cynn would have a shared maker's mark. Closer than shown, but basically it should be a simple two runes below, at a diagonal. These represent Welandes Cynn initials, with the Cynn being diminuitive (what is called a vassal mark), showing that the Cynn are reliant on the success of the name of Welandes.
+
+```
 ᚹ
   ᚳ
+```
 
 
 ### Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos
@@ -82,7 +93,7 @@ All inscriptions should be damascened into the wrought iron. The wrought represe
 
 On one side, the name and title should be inscribed in copper in the wrought iron in a simple line near the spine.
 
-On the other side, the two lines of the spell should be directly over each other, with the last words ending directly over/under each other (basically right-justified). Since the words are nearly identical, this causes a mirror effect. The first line should be inscribed on the blade in copper, that represents the fire of the hearth and warmth of the heart. The second line should be inscribed on the blade in silver, that represents will/action, and the cold nature of Osric's ordeal.
+On the other side, the two lines of the oath should be directly over each other, with the last words ending directly over/under each other (basically right-justified). Since the words are nearly identical, this causes a mirror effect. The first line should be inscribed on the blade in copper, that represents the fire of the hearth and warmth of the heart. The second line should be inscribed on the blade in silver, that represents will/action, and the cold nature of Osric's ordeal.
 The edge is silvery... this is the edge that changes nature depending on its target, being either white-hot or rime-slaked.
 
 + The Name/Title: Fyrleoht | Heorðweard
@@ -90,13 +101,13 @@ Runes: ᚠᚣᚱᛚᛖᚩᚻᛏ : ᚻᛖᚩᚱᚦᚹᛖᚪᚱᛞ
 Phonetic Pronunciation: FÜRE-lay-okht [pause] HAY-orth-way-ard
 Meaning: "Firelight, the Hearth-Watcher"
 
-+ Line 1: Recognition
++ Oath Line 1: Recognition
 Old English: Ic eom fȳre ācenned
 Runes: ᛇᚳ·ᛖᚩᛗ·ᚠᚣᚱᛖ·ᚪᚳᛖᚾᚾᛖᛞ
 Pronunciation: Ik ay-om FOO-ruh ah-KEN-ned
 Meaning: "I am of fire born/brought forth."
 
-+ Line 2: Call to action
++ Oath Line 2: Call to action
 Old English: Ic eom þurh willan āwacned
 Runes: ᛇᚳ·ᛖᚩᛗ·ᚦᚢᚱᚻ·ᚹᛁᛚᛚᚪᚾ·ᚪᚹᚪᚳᚾᛖᛞ
 Pronunciation: Ik ay-om thoor-kh WILL-ahn ah-WAHK-ned
@@ -123,7 +134,7 @@ Literal Meaning: "Moonlight the Battle-Dancer"
 Runes: ᛗᚩᚾᚪᚾᛚᛖᚩᚻᛏ ᛬ ᛒᛡᚪᛞᚩᚻᛚᛡᚪᛗᛡᚱ
 Pronunciation: MOH-nahn-lay-okht [pause] BEH-ah-doe HLAY-ah-per
 
-+ The Warning
++ The Ward
 Old English: "Uton be-stelan and dēof"
 Literal Meaning: "Let's dance and die"
 Runes: ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛞᛠᚠ
