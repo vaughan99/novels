@@ -1,7 +1,5 @@
 ## Epilogue
 
----
-
 Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The childrens' beaks aren't ready for tougher meat, Hugrinn! The way YOU tell it, the murder-gnome was straight up Brothers-Grimm-meets-Deadpool!"
 
 Muninn reaches down with his beak and snatches the loose tailfeather from Hugrinn's tail. 
