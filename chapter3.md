@@ -34,7 +34,7 @@ She dragged herself from the hollow, knuckles white around a hand-knife that had
 
 "Dowry-Cap... I've never heard that type of name, " she whispered. 
 
-"
+```
 Gnomish name, my playful dear!
 My kin took name most sincere.
 For in meadow they did see,
@@ -43,7 +43,7 @@ We brought a gift of silver fine,
 Bound in iron to mark the line,
 A bridal tax to win her heart,
 And see that we should never part.
-"
+```
 
 He recounted the story, with a whimsical beat and a smile in the corner of this face.
 
@@ -59,34 +59,34 @@ Fussleton took her deeper into the wood, and set about training her how to live 
 
 There was a song for the safe button and field mushrooms of the leigh:
 
-"
+```
 Fingerwide three, count with me,
 leather-in-leigh, for the pot it be.
 None for the forest, none for the tree,
 all for the pot, and all for thee.
-"
+```
 
 There was a song to ward against the powerful deathcap mushroom:
 
-"
+```
 White the gills and white the ring,
 Death is what the Goblins bring.
 Egg of silver, cap of green,
 Never let its face be seen.
-"
+```
 
 And there was his favorite ward. This one made him smile, for no apparent reason. This one warded against the Fly Agaric, the red-skinned cap of deadly madness:
 
-"
+```
 Red as berry, white as bone,
 Leave the spotted king alone.
 Bite the side to touch the sky,
 Bite the other, and you’ll die.
-"
+```
 
 And finally, he taught her how to trap martens of the forest. Their fur was fine, making collars for expensive cloaks, and cuffs for winter sleeves.
 
-"
+```
 Soft of foot and quick of eye,
 Where the pine and hardwood lie.
 Climb the leaning, slanted tree,
@@ -95,7 +95,7 @@ Honeyed bait and tainted meat,
 Lures the high-road’s silent feet.
 Snap the wire, hold the hair,
 Find the feasting in the snare.
-"
+```
 
 ---
 
@@ -127,7 +127,7 @@ That night, as she slept, a figure crept into the shell of the coaler's hut. It 
 
 "Wake up 'Meadow-Bud'... hee hee hee... Time to die!" It was the gnome. His face had turned with twisted hate. His teeth were sharpened and snapping. He wanted her to see him do his deed, and he seemed to soak in the horror of her barely-wakened face.
 
-"
+```
 The hearth is cold, the roof is ash,
 The deer is caught in the hunter’s lash.
 Ten years to run, and one to grow,
@@ -138,7 +138,7 @@ It's time to pay dowry's cap,
 Soaking in meadow-bud sap.
 The Dowry's spent, the Cap must red,
 Meadow-bud girl, thou art dead.
-"
+```
 
 "I lied. Fustian Powrie-Cap, at your service! I am the Powrie Redcap of the Gaels, the Fly Agaric of the Night-North! The Spotted King!... arrived for HARVEST. I shall wet my cap on your trunk-blood, Meadow-Bud, and invite my brethren to do the same."
 

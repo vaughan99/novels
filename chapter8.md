@@ -24,9 +24,9 @@ The redcap resumed his commanding, authoritative tone.
 
 Those last words came with almost a bow - if he could bow - just before the dance was to begin. The eyes of the redcap sheared towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
-"
-Ohhh, a young wolf. He thinks he is MIGHT-Y! You know, big shields only hide a shivering skin... Repeat after me!
+"Ohhh, a young wolf. He thinks he is MIGHT-Y! You know, big shields only hide a shivering skin... Repeat after me!"
 
+```
 This one has the stabby pole,
 Wood on arm, but find the hole,
 Wait right here for pointy end,
@@ -43,7 +43,7 @@ Stand up tall, he has no pole,
 Watch him howl, ha! fragile foal,
 He drops the wood for slicey steel,
 But make his ... hand ... into ... your ... meal. 
-"
+```
 
 Time resumed, and flew fast, but Elswyth was sharp-to-tongue and moved on the flea's-leg - exactly on the beat. The young wolf stepped forward. He had a spear and shield at the ready.
 
@@ -63,18 +63,20 @@ The second Ulfhednar was slow to approach from the pool, being wary of what he'd
 
 "
 Oh, watch out for this one now. He's quick to the step. Well-balanced. Very seasoned. Heavy iron in his blood. Start the music!
+"
 
+```
 Shiny shirt of iron rings,
 Let us see what safety brings.
 Iron hat and fuzzy head,
 Soon you will be cold and dead.
 Show me how you hold the wood,
 Let me taste if it is good.
-"
+```
 
 The Viking didn't bite. He kept his chin tucked behind the heavy rim of his stout shield, stepping forward with absolute metric precision. Monanlieht lunged, pulling Elswyth's movements into a blurring succession of testing strikes that rang out in a fast clip.
 
-"
+```
 Biting top and chewing low,
 Checking where the blade can go.
 Rap upon the iron boss,
@@ -83,29 +85,37 @@ Steel against the woven chain,
 Looking for a chink of pain.
 Stubborn shield and heavy guard,
 Making all my harvest hard!
-"
+```
 
 The Ulfhednar was impressed. Elswyth's strikes had been faster than expected, but he deftly guarded his flanks with his axe-grip low and his shield ready. He took a test swing to measure her guard.
 
-"Miss the belly, cup the meat!
+```
+Miss the belly, cup the meat!
 Lean it back on your heel feet!"
+```
 
 The hand-axe whistled toward her midsection, a heavy, cleaving arc meant to open her up. Instead of raising Mōnanlīeht to block, Elsywth simply hollowed her core. She cupped her hands over her stomach to pull her flesh away from the steel, her voice carrying the redcap's rhythm, as the axe shaved the air inches from her shirt.
 
 Realizing his caution was getting him mocked, the seasoned Ulfhednar went full on attack. He abandoned his patient defense, unleashing a measured, blinding storm of steel and seasoned shield-craft. Every strike was dodged. As the hand-axe hacked left in a brutal opening strike, the iron in her mind buzzed a split second before the steel arrived, forcing her to duck her head.
 
-"Axe is coming from the right,
-Drop the skull and slip the white."
+```
+Axe is coming from the right,
+Drop the skull and slip the white.
+```
 
 The blade bit empty air, shaving the wolf-pelt of his headdress across her forehead. The veteran didn't reset. He sensed she was on her back-heels, and immediately capitalized on her evasion by throwing a heavy, driving axe-swipe at her opposite shoulder to force her back. The internal rhyme snapped into her skull, forcing her torso to twist:
 
-"Shoulder strike is coming fast,
-Twist the bone and let it past!"
+```
+Shoulder strike is coming fast,
+Twist the bone and let it past!
+```
 
 She spun out of the path of the axe. Three more attempts were futile, but the Ulfhednar was undeterred, realizing it was foolish to give up the initiative. She felt the wall against her back. She couldn't retreat any more, and the veteran realized her plight. He lunged forward to pin Elswyth to the wall with his shield.
 
-"Abandon guard, roll at boots,
-face to stone without his roots!"
+```
+Abandon guard, roll at boots,
+face to stone without his roots!
+```
 
 Elswyth dove to his feet, and rolled. He tripped over her torso, and crashed into the wall, face first. He felt a quick stunning pain of the bruise on his cheek, but it was nothing. He felt Elswyth untangle herself from his legs... he couldn't trap her.
 
@@ -113,52 +123,63 @@ The crash had brought him to his knees. In one fluid motion, he stood and wheele
 
 The Viking decided on a deadly feint. He cocked his right arm back, hoisting his hand-axe high for a devastating, winding swing aimed at her left shoulder. It was a threat meant to force her guard upward. But as her attention tracked the steel, he violently pivoted his torso, tilting his shield horizontally and driving the sharp bottom-edge of the rim straight at the opposite side of her face. The Redcap wasn't fooled by the high iron.
 
-"Axe is high to cheat the eye,
-Duck the wood and let it fly!"
+```
+Axe is high to cheat the eye,
+Duck the wood and let it fly!
+```
 
 The whistling wooden edge missed her head as she quickly ducked beneath the blunt trajectory. To generate the sheer power needed for that massive, cross-body shield punch, the Viking had been forced to throw all his weight forward, anchoring his lead foot in the mud to steady his balance. His axe he had pulled back in, tight against his chest to protect his vitals. His knee had pulled into the slit of his chainmail's skirt, leaving the top of his soft leather boot completely stationary and utterly exposed. He had stepped into a space abandoned by the tile, and was directly over clay. The blade saw the opening and commanded the strike instantly:
 
-"
+```
 Plunge the iron through the shoe,
 Pin him down and drive it through.
-"
+```
 
 With a single, explosive downward plunge, Elsywth drove Mōnanlīeht straight through the top of his planted foot, burying the silver steel deep into the earth beneath him. The Ulfhednar shrieked, pinned like a beetle to a forest floor. Elsywth tugged at the hilt, but the steel was wedged fast in the clay. She lacked the raw muscle to wrench the weapon free. Her hands snapped away from the leather handle, but the weapon did not go silent. Even disconnected from her flesh, the blade whispered its next dark instruction, offering a cruel solution to her lack of strength:
 
-"Pull the wolf down by the snout,
-Put his heavy vision out."
+```
+Pull the wolf down by the snout,
+Put his heavy vision out.
+```
 
 Instantly catching the rhythm, Elsywth lunged upward. She grabbed the thick fur of the wolf headdress draping over his spangenhelm and dragged the heavy pelt over his face, blinding him in darkness beneath the coarse gray hide. Even blinded, the veteran's professional discipline held. He unleashed a fierce, sweeping horizontal swing with his hand-axe to carve out a protective circle of space. The blade screamed into her mind to dodge the blind steel:
 
-"
+```
 Blind man swings a wide design,
 Spin away from danger line!
-"
+```
 
 Elsywth swung back, out of the weapon’s arc just in time. The Viking drew his shield tightly against his chest, and used the blunt top of his axe-haft to frantically wedge the pelt back up away from his eyes. He was recovering his sight, but the desperate, blind movement forced his upper body to twist, pulling his stout shield briefly out of position. His left flank was left utterly unguarded. Before Elsywth could even think, the cold pulse of the blade dictated her next movement with cruel precision:
 
-"
+```
 Step right now, and coil the spring,
 Drop the knee of castled king!
-"
+```
 
 Elsywth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Mōnanlīeht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the leather hilt sticking right up out of his ruined boot. The voice in her head snapped shut like a trap, demanding the harvest be finished:
 
-"Take iron from the leather,
-End the wolf altogether."
+```
+Take iron from the leather,
+End the wolf altogether.
+```
 
 Elsywth stepped forward, re-engaging her grip on the hilt. She smoothly pulled the blade free. His legs were before her, unguarded, as he tried to drag himself to safety. But the rhyme was merciless:
 
-"Hack the pillar, slice the vein,
-Let the crimson river rain."
+```
+Hack the pillar, slice the vein,
+Let the crimson river rain.
+```
 
 Without a shred of hesitation, Elsywth brought Mōnanlīeht down in a rapid, heavy succession of hacking strikes. The silver steel tore through the leather and flesh of his defenseless thighs, slicing deep into the fertile arteries beneath.
 
 The redcap gave her a finishing command: to watch him bleed.
 
-"Soak the field for mushroom leigh,
-Blood to tile, and none for thee!"
+```
+Soak the field for mushroom leigh,
+Blood to tile, and none for thee!
+```
 
+"
 Oh meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! for the hogs-head of the feast! 
 "
 
@@ -166,9 +187,9 @@ Wolfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power 
 
 But the Redcap's eyes widened with glee.
 
-"
-He looks mean, but watch how easy this is!
+"He looks mean, but watch how easy this is!"
 
+```
 Draw the hog onto the break,
 Broken tile his gait forsake,
 Great Dane axe of mountain oak,
@@ -179,18 +200,18 @@ Down it crashes in the mud,
 Splitting wood instead of blood.
 Past the handle I have stepped,
 Where his ribs are poorly kept.
-"
+```
 
 The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elsywth side-stepped the blow easily. His boot crashed through the broken tile, wedged tight. He couldn't recover. 
 
 Without waiting for more rhyme, Elsywth drove full into the thrust with both hands, and Mōnanlīeht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elsywth, in a breath of heated rage, whispered in Wulfhere's ear:
 
-“
+```
 You took me for easy prey,
 Parents stolen from the clay.
 Take the coalgirl’s blade and see…
 Blood to earth, and none for thee.
-”
+```
 
 Wulfhere dropped his axe and gripped Elsywth's shirt with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her linen as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
 
@@ -198,10 +219,10 @@ Wulfhere dropped his axe and gripped Elsywth's shirt with both hands, as if to t
 
 Then, without a heartbeat of warning, the silver steel twitched violently in her palm. The blade aggressively spun backward, the satin edge slicing through the air toward Elswyth’s own throat as the Redcap lunged to harvest her trunk-blood from within the metal. Inside her head, his voice frantically scrambled into a desperate, rushing meter:
 
-"
+```
 The dance is done, the moon is high,
 Now it's time for you to —
-"
+```
 
 Elswyth’s knuckles turned white. Her grip clamped down like an iron vise, shattering his rhythm and forcing the blade to a grinding, vibrating halt a mere hair's breadth from her collarbone.
 
@@ -209,10 +230,10 @@ She didn't panic. Because she knew his tell — knew he was a slave to the song 
 
 Inside her skull, the Redcap let out a high, cackling, unhinged laugh. 
 
-"
+```
 die?
 Curse those little fiddle-cynn,
 I had you twice but now I sin!
+```
 
-Ohh... but you knew I had to try! 
-"
+"Ohh... but you knew I had to try!" The redcap relented.

@@ -90,16 +90,16 @@ The coal turned a violent yellow breed, causing the redcap's eyes to glow demoni
 
 Then he broke into song, trying to steal the voice of the forge-elves. But they countered with their own. They matched his timing perfectly, to within... a flea's leg.
 
-"
+```
 Spotted King: Sing your songs, you stone-bound rats!
 Cynn:         We’ve split the skulls of better brats!
 Spotted King: Your little fire cannot tame—
 Cynn:         The beast that wears the bloody name!
-"
+```
 
 They cut him off mid-breath. The temerity! The redcap slammed his weight into the handle, willingly this time, to accelerate the jaunt. He thought, "The speed is the thing! I will outwit these idiots yet!". He forced his lungs to move faster, spitting his verses like rapid hammer-blows to outpace the choir.
 
-"
+```
 Spotted King: You wall-lice crawl inside the dead!
 Cynn:         But we know where your boots did tread!
 Spotted King: You cannot say I am soul-blight!
@@ -108,11 +108,11 @@ Spotted King: I am the better of us two!
 Cynn:         It is too late, you cannot sue!
 Spotted King: The wooded realm I gave to her!
 Cynn:         But only to cut down her fur!
-"
+```
 
 The bricks hummed back in perfect, mocking ten-part harmony. The pace of the duel accelerated, the alternating voices snapping back and forth like string-plucks on a driving mandolin, matching the frantic, chaotic clink-clink-clink of the invisible hammers on the anvil. A hundred more rounds it went. A thousand more. Nobody kept count. The redcap was now driving his bruised body full into the bellows, desperate to outpace the Cynn. At that moment, a ray of pure moonlight shone on the forge.
 
-"
+```
 Spotted King: I have you now, the moon released!
 Cynn:         It will not help the angry beast!
 Spotted King: I know its name, to me it's sent!
@@ -147,7 +147,7 @@ Spotted King: My anger break!
 Cynn:         Your will we take!
 Spotted King: This steely cage...
 Cynn:         Holds all your RAGE!
-"
+```
 
 Their voices suddenly dropped his rhythm entirely to strike a heavy, unified chord. The redcap’s copper eyes widened, his breath fracturing as the invisible hammers delivered a final, devastating blow to the metal.
 

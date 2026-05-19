@@ -1,12 +1,6 @@
 ## Chapter 4: The Tale of the Highwayman Priest
 
-This story starts earlier, 910 AD, for Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.
-
----
-"See brother, I got it right this time!"
----
-
-The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
+This story starts earlier, 910 AD, for Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
 
 Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somber-down at his child confessing before the seated priest.
 
