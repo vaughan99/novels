@@ -1,4 +1,4 @@
-Chapter 1: A Promise of Piles
+## Chapter 1: A Promise of Piles
 
 The steady rain had given way to fog that morning, one that smelled of wet log-smoke and death. The previous night's funeral pyres were fed by the fallen logs of a rampart. The Viking King, Olaf Guthfrithson, and his Bishop, Wulfstan I of York, had fled in the night. But before they left, they negotiated a peace with Bishop Oda of Canterbury, working on behalf of the Saxons. The Five Boroughs of the Midlands would be surrendered to the Vikings, the lands of the Danelaw, lands hard-won to re-conquer over decades of Viking conquest. Given back freely to purchase peace.
 
@@ -28,7 +28,7 @@ After traveling a short distance, Wulfhere gathered his Ulfhednar to a meeting. 
 
 "These Saxons keep making the same mistakes. They think parchment is payment for a wolf. A wolf cannot eat parchment. I have seen the broken bands, burnt sticks, and char-smoked girls they have guarding their baggage. And they are deer for the slaughter, friends. Travel not far, we are circling back tonight. Let the others go to the Burroughs, we will collect the hoard-pile we were expecting yet. And if we fail, our reward is Valhall-caw-cackle!"
 
-[[
+---
 
 Hugrinn's voice is cracked. He coughs, to clear his voice. "No, wait... ahem... Valhallaaaaaaa...!!!
 
@@ -38,4 +38,3 @@ Muninn: "Bad intentions? Those don't smell. Otherwise you would be most ripe ind
 
 Hugrinn: "Yes, I remember it as clearly as sitting on Osric's hearthstone. Which reminds me..."
 
-]]

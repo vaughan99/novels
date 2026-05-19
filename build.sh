@@ -11,3 +11,5 @@ do
     echo "" >> book.md
     cat $file >> book.md
 done
+
+cp book.md book.txt

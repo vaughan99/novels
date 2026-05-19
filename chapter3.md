@@ -1,10 +1,10 @@
-Chapter Three: The Tale of the Charcoaler's Daughter
+## Chapter Three: The Tale of the Charcoaler's Daughter
 
 Back in 930 AD, Elswyth and her mother and father lived in a coaler's hut, a small squat building of stone walls and thatch roof. Back then, Elswyth was of ten winters, and she had been learning the family trade. Her father would go into the forest to find the hardwood, and Elswyth and her mother would manage the coalpit.
 
 Once the charcoal was cooled, harvested, separated, and bagged, she would accompany her father to the church side-gate. The Church of Saint Nicholas cast a shadow...
 
-[[
+---
 
 Muninn: "Hold on brother. You're off by three whole centuries. That was the Norman name. The church was dedicated to two saints, Augustine and Columba. One from Canterbury, one from the Gaels. Never hurts to have extra spiritual insurance."
 
@@ -18,7 +18,7 @@ Muninn: "No, Hugrinn. They didn't play football. But they did play mob ball. It 
 
 Hugrinn: "Ah, mob ball! Splendid game. A hundred men screaming, broken shins, mud, and best of all... the pig didn't need its bladder anymore! Piles of discarded viscera at the goalposts. A true feast for the eyes!" 
 
-]]
+---
 
 The church was a monument of stone, stolen from the giants - Romans by another name - who built the Jewry Wall of Leicester. There she learned the art of the trade, watching her father sell the coal to a young strapping deacon, black with soot and sweat from heating and casting the bells and molds. His name was Cynewulf, and he was kind, but a little distant. He showed respect for their craft and that was enough for her, for their charcoal was often called the best in the Danelaw.
 
@@ -97,7 +97,7 @@ Snap the wire, hold the hair,
 Find the feasting in the snare.
 "
 
-[[
+---
 
 Muninn: "Brother I must protest. Old English songs and spells DO NOT RHYME. They rely on witty use of alliteration and syllable-timing. You're making up these songs out of whole cloth, and mail."
 
@@ -107,7 +107,7 @@ Muninn: "And what do you know of magic rhymes?"
 
 Hugrinn: "That they drown out boring ravens..."
 
-]]
+---
 
 On the first anniversary of that night of the wolf, she grew homesick for the coaler's hut. The gnome had taught her everything she needed to survive as a child on the edge of the darkwood. "Every year for the next ten, on a day of the full moon, one year for each minute you outran the wolf, I shall visit you and review the rhymes. I will check on you and make sure you are safe," Fussleton said.
 
@@ -142,7 +142,7 @@ Meadow-bud girl, thou art dead.
 
 "I lied. Fustian Powrie-Cap, at your service! I am the Powrie Redcap of the Gaels, the Fly Agaric of the Night-North! The Spotted King!... arrived for HARVEST. I shall wet my cap on your trunk-blood, Meadow-Bud, and invite my brethren to do the same."
 
-[[
+---
 
 Hugrinn looks at the children with alarm.
 
@@ -158,7 +158,7 @@ Hugrinn: "The Powrie Redcap of the Gaels, brother, the Fly Agaric of the Night-N
 
 Muninn: "It is a title with history. He is an older hate than the Vikings. He’s telling the Meadow-Bud that he belongs to the very stones of the North... Now let the story unfold. Enough of this modern fairy-tale interruption. Finish the redcap, and then we visit the priest! He's still waiting at the shadow-gate for his story to unfold."
 
-]]
+---
 
 But behind the red-capped murder-gnome, at the entry to the hovel, there was a small, childish giggle. The powrie-spirit turned on heel, and let out a mad scream of slicked hate and curious pitch. He lunged at the voice in the entrance, even if there was no body to go with it. Loops of rope, thick and woven with deathcap mushrooms, attacked the red cap from all sides. He struggled and bit, tossed and fought, but the cords held him tight. The redcap's knife, silver blade bound by iron hilt as his family-name poem suggested, dropped from his hand and broke like glass on the floor.
 

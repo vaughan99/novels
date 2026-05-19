@@ -1,6 +1,12 @@
-Chapter 4: The Tale of the Highwayman Priest
+## Chapter 4: The Tale of the Highwayman Priest
 
-This story starts earlier, 910 AD, for Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba. --- "See brother, I got it right this time!" ---The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
+This story starts earlier, 910 AD, for Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.
+
+---
+"See brother, I got it right this time!"
+---
+
+The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
 
 Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somber-down at his child confessing before the seated priest.
 
@@ -88,7 +94,7 @@ But he had changed. He was more broken than whole — a man who had seen the evi
 
 Cynewulf's warband was a mercenary in the battle on the Saxon side, and it was hollowed by the fighting. The parchment-peace came, but only after Cynewulf's band could only muster enough strength to rearguard the host. As the Vikings strode by, the Ulfhednar had already spied their prize. The giant ragged wolf, Rognvaldr, the Ulfhednar lieutenant, spied Cynewulf's thread-bare byrnie in the light, like a hunter might spy a deer-skin for his rack. He knew his next prize. And he didn't need Wolfhere's permission to take it.
 
-[[
+---
 
 Hugrinn: "Look brother, the hollowed out priest is back to the hollowed out town! His church bells now ring for the raven-feast!"
 
@@ -104,4 +110,3 @@ Muninn: "'they work'??? Really Hugrinn? They're not dwarves in a fairy-tale."
 
 Hugrinn: "They are forge-masters at play. And play-time has begun."
 
-]]

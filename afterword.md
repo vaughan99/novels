@@ -1,7 +1,7 @@
-Afterword
-=========
+## Afterword (Work in Progress)
 
-Welandes Cynn (Weyland's Kin), the elves that carry on the tradition of magical blade-making.
+
+Welandes Cynn (Weyland's Kin), the forge-elves that carry on the tradition of magical blade-making.
 
 Maker's Mark: Closer than shown, but basically the two runes at a diagonal. These represent Welandes Cynn initials, with the Cynn being diminuitive (what is called a vassal mark), showing that the Cynn are reliant on the success of the name of Welandes.
 
@@ -9,17 +9,19 @@ Maker's Mark: Closer than shown, but basically the two runes at a diagonal. Thes
   ᚳ
 
 
-++ Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos
+### Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos
 
-+ Description:
+Wodbora is a Gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the grip is clenched, Woden's ravens start an inquisition, to prepare the soul for what it is about to unleash.
 
-Wodbora is a Gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the grip is clenched, Woden's ravens start an inquisition, to prepare the soul for what it is about to unleash. When pulled from the scabbard, it releases the Wodhere's binding, allowing it to do as it wills (suggesting that it will find the sword and commence its horrible and frightful business right there). The blade still tries to act as a shield from judgement while this is taking place. It asks for judgement for enemies, which is effectively a bane/curse. That's a plea (phrased as an imperative prayer), but NOT a guarantee... it's Woden's (and eventually God's) will after all.
+When pulled from the scabbard, it releases the Wodhere's binding, allowing it to do as it wills (suggesting that it will find the sword and commence its horrible and frightful business right there). The blade still tries to act as a shield from judgement while this is taking place.
 
-The role of the blade is more about foretelling the impending doom that it can no longer keep quiet. The madness should end when Wodbora is sheathed, however, giving the wielder some control over collateral damage, and making the act more chaotic than evil.
+The madness should end when Wodbora is sheathed, however, giving the wielder some control over collateral damage, and making the act more chaotic than evil.
+
+The blade construction should be single-edged, with a 9-layer nomai. The spine should be wrought iron, with alternating layers of 1084 and 15n20. Once etched, this will yield 2 rivers of 15n20 running through a dark grey field, with grainy spine. Done right, you could interpret the wrought iron as the sky, or as the ground. The carbon transfer among the ribbons of 1084 and 15n20 will blur, giving the 15n20 less of a defined line. Depending on which way you look, it's a real Rorshach test. The silvery 15n20 could be the mist on the ground, and light grey shapes are flowing through it. Or the silvery 15n20 are the clouds, and the darker shapes represent the Wodhere in full ride.
 
 The scabbard is split into two sides with different themes:
 
-+ Scabbard Obverse Side A: The Prayer of Fate (Raven Side)
++ Scabbard Obverse Side A: The Ward (Raven Side)
 
 This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade, the prayer for asking Woden/God to protect us and doom my enemies, and Woden's (and God's) ravens facing inward on either side, witnessing the name/title and prayer as if to acknowledge it as their contract. The ravens should be in the jelling style, with scrollwork containing and framing the name/title and prayer. Since Woden is not invoked directly, the prayer is also to God, on off-chance that Woden isn't listening to the ravens.
 
@@ -35,7 +37,7 @@ Pronunciation: "SHARE-an SAY-ah-pum [pause] DAY-ahth WULF-um"
 
 + Scabbard Reverse Side B: The Spell of Impending Chaos (Wolf Side)
 
-This side is body-facing and contains the "secret" spell that Wodbora will cast on behalf of the wielder when the sword is drawn. This side could have a Mammen-style snake (to represent the host) tightly bound, getting looser towards the chape. This signifies that the spell is a release of the host as it gets closer to the end of the statement. The throat should be where the runes are tightest, and the chape should be where they are the loosest. If this is too complex, a two line line-boxed construction would suffice, with the Header portion in a smaller runic font size than the Incantation.
+This side is body-facing and contains the "secret" spell that Wodbora will cast on behalf of the wielder when the sword is drawn. This side could have a Mammen-style snake (to represent the Wodhere) tightly bound, getting looser towards the chape. This signifies that the spell is a release of the host as it gets closer to the end of the statement. The throat should be where the runes are tightest, and the chape should be where they are the loosest. If this is too complex, a two line line-boxed construction would suffice, with the Header portion in a smaller runic font size than the Incantation.
 
 The Header: Wodbora cwiþ
 Meaning: "Wodbora says" (critical for acting as a metaphysical buffer so as not to offend the Wodhere)
@@ -43,7 +45,7 @@ Runes: ᚹᚩᛞᛒᚩᚱᚪ·ᚳᚹᛁᚦ
 Pronunciation: WOD-bor-ah QUITH
 
 The Incantation: Atola Wodhere, ne þū lencg gebunden eart!
-Meaning: "Hideous Mad-Host, thou art bound no longer!" (or as my wife might want to hear me say... "Ok Woden-dude and your mad peeps, I RELEASE YOU!")
+Meaning: "Hideous Mad-Host, thou art bound no longer!"
 Runes: ᚪᛏᚩᛚᚪ·ᚹᚩᛞᚻᛖᚱᛖ·ᚾᛖ·ᚦᚢ·ᛚᛖᚾᚳᚷ·ᚷᛖᛒᚢᚾᛞᛖᚾ·ᛖᚪᚱᛏ
 Pronunciation: AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt!
 
@@ -64,52 +66,56 @@ As a side note, here's a rough history of The Wild Hunt to provide context for t
 
 -------------------------------
 
-++ Fyrleoht, the Hearth-Watcher
+### Fyrleoht, the Hearth-Watcher
 
-The blade is a 14" heavy chopping broad seax, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth. It is named for the fire light bouncing off the campfire and shining in the enemy's eye. It is a witness to its own birth, and acknowledges that it only has life and meaning in the hands of a beloved wielder. This is a North Sea hearth version of the "Riddle of Steel" from Conan. It is rumored to break objects with fire as kindling, but bring ice to the flesh as it steals their warmth and life. That life is transferred to the wielder, to fill the belly, the mind, and the warmth of the heart. The blade remembers the bitter cold of Osric's agony, and the warmth of the hearth and life of his Ealhild. 
+The blade is a 14-16" heavy chopping broad seax, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth. It is named for the fire light bouncing off the fire and shining in the enemy's eye. 
 
-The blade itself should have the name and title inscribe in runes on one side, and the warning and oath on the other.
-The scabbard should be embellished but does not need inscriptions
+This is a North Sea hearth version of the "Riddle of Steel" from Conan. It is a witness to its own birth, and acknowledges that it only has life and meaning in the hands of a beloved wielder who has suffered.
 
-The construction should be a 2-bar of wrought iron spine and 15n20 (bright silver-steel) edge. The geometry should match the Northolt Manor seax, which is a broad heavy chopper meant for two hands. These specialized broad seaxes were used for hearth-work, equal parts campfire axe and meat cleaver. Since iron was precious and expensive, some farmers used this instead of a separate knife and axe.
+The blade itself should have the name and title inscribe in runes on one side, and the oath on the other. There should be no fullers, as this blade is meant to be forward heavy for the chop. The long handle gives you many choices about swing intensity.
 
-The first line should be inscribed on the blade in copper, that represents the fire of the hearth and warmth of the heart.
-The second line should be inscribed on the blade in silver, that represents will/action, and the cold nature of Osric's ordeal.
-Both lines should be inscribed into the wrought iron spine, which acts as both the stone of the hearth and the smoke of the fire. The inscription should be damascened, with undercuts made into the softer wrought to ensure the copper and silver wire don't pop out.
-The edge is silvery... it turns white-hot or frosty-ice depending on what it touches.
+The scabbard should be simple leather over wood, like a farmer's scabbard. There might be slight embellishment, but to the outsider this should appear nothing more than a camp broadseax.
+
+The construction should be a 2-bar of wrought iron spine and 15n20 (bright silver-steel) edge. The geometry should match the Northolt Manor seax, which is a broad heavy chopper meant for two hands. These specialized broad seaxes were used for hearth-work, equal parts campfire axe and meat cleaver. Since iron was precious and expensive, a few farmers preferred this kind of blade instead of a separate large seax and axe.
+
+All inscriptions should be damascened into the wrought iron. The wrought represents the stone and smoke of the hearth or forge.
+
+On one side, the name and title should be inscribed in copper in the wrought iron in a simple line near the spine.
+
+On the other side, the two lines of the spell should be directly over each other, with the last words ending directly over/under each other (basically right-justified). Since the words are nearly identical, this causes a mirror effect. The first line should be inscribed on the blade in copper, that represents the fire of the hearth and warmth of the heart. The second line should be inscribed on the blade in silver, that represents will/action, and the cold nature of Osric's ordeal.
+The edge is silvery... this is the edge that changes nature depending on its target, being either white-hot or rime-slaked.
 
 + The Name/Title: Fyrleoht | Heorðweard
 Runes: ᚠᚣᚱᛚᛖᚩᚻᛏ : ᚻᛖᚩᚱᚦᚹᛖᚪᚱᛞ
 Phonetic Pronunciation: FÜRE-lay-okht [pause] HAY-orth-way-ard
 Meaning: "Firelight, the Hearth-Watcher"
 
-+ Line 1: The Warning
++ Line 1: Recognition
 Old English: Ic eom fȳre ācenned
 Runes: ᛇᚳ·ᛖᚩᛗ·ᚠᚣᚱᛖ·ᚪᚳᛖᚾᚾᛖᛞ
 Pronunciation: Ik ay-om FOO-ruh ah-KEN-ned
 Meaning: "I am of fire born/brought forth."
 
-+ Line 2: The Oath
++ Line 2: Call to action
 Old English: Ic eom þurh willan āwacned
 Runes: ᛇᚳ·ᛖᚩᛗ·ᚦᚢᚱᚻ·ᚹᛁᛚᛚᚪᚾ·ᚪᚹᚪᚳᚾᛖᛞ
 Pronunciation: Ik ay-om thoor-kh WILL-ahn ah-WAHK-ned
 Meaning: "I am through will awakened."
 
-The words "acenned" and "awacned" should be lined up vertically to match, as that provides the perfect symmetry of the dichotomy that reflects the "Riddle of Steel" motif.
-The words look almost identical, so the onlooker has to work to distinguish the two words. They are drawn into the light to see the difference.
-
 
 -------------------------------
 
-++ Monanlieht, the Battle-Dancer
+### Monanlieht, the Battle-Dancer
 
-This is the deep-iron (mithril) blade of the Spotted King redcap's prison. He is the memory of the blade, and it is both vicious and lyrical. For the blade to taste blood, and wet the murder-gnome's cap, he must teach the wielder how to fight like he does... in a lyrical mushroom-enhanced battle dance.
+This is the deep-iron blade of the Spotted King redcap's prison. He is the memory of the blade, and it is both vicious and lyrical. For the blade to taste blood, and wet the murder-gnome's cap, he must teach the wielder how to fight like he does... in a lyrical mushroom-enhanced battle dance.
 
-The blade is a light two-handed broken-back langseax, with a blade of about 20". The break should be roughly half way down the blade, making the tip extremely fast and maneuverable. The blade should be a light variant of the Little Bealings langseax. It should be constructed of monosteel silvery 15n20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. The polish should be just hazy enough to blur the wielder's eyes, to make them look different, as if the redcap is peeking back at you. There should be no fullers or inscriptions on the blade.
+The blade is a light two-handed broken-back langseax, with a blade of about 20". The break should be roughly half way down the blade, making the tip extremely fast and maneuverable, similar to a later period cut-and-thrust sword. The blade should be a light variant of the Little Bealings langseax.
 
-This time, the name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. The handle should be spiral wrapped in black leather. 
+It should be constructed of monosteel silvery 15n20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. The polish should be just hazy enough to blur the wielder's eyes, to make them look different, as if the redcap is peeking back at you. There should be no fullers or inscriptions on the blade.
 
-The scabbard has. Both sides should look identical, and have flowing lines and inscriptions. The runic inscriptions are identical except fot the last word, and so both sides will look almost exactly the same. Both sides should have flowing elaborate decoration, signifying a dance.
+This time, the name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. The runes should traverse the guard and pommel as if they are in mid-dance. The handle should be spiral or braid-wrapped in black leather and treated with wax. 
+
+The scabbard sides should look almost identical, and have flowing lines and inscriptions. The runic inscriptions are identical except for the last word. Both sides should have flowing elaborate decoration, signifying a dance. "Let's dance and die", belongs on the outside as a ward. "Let's dance and dine" is the oath and spell of the sword, facing inward towards the thigh.
 
 + Name/Title:
 Old English: Mōnanleoht ᛬ Beado-Hleaper

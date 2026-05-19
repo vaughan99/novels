@@ -1,4 +1,4 @@
-Chapter 6: The Night of Blood
+## Chapter 6: The Night of Blood
 
 The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled in the shadow of Leicester's jagged fringe, just outside the yawning, ruined arches of the ancient Roman marketplace.
 

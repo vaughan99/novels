@@ -1,4 +1,4 @@
-Chapter 2: The Tale of the Hearth-Warm Fyrdman
+## Chapter 2: The Tale of the Hearth-Warm Fyrdman
 
 Osric was a man of the earth, his hands calloused by wood and iron long before they ever held a shield. For many winters, his grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare. He was also a proud fyrdman, too, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer 10 years previous, after the raids of 930. The pole was a thick ash limb straight and true.
 
@@ -14,7 +14,7 @@ And so she set to work. She started with the obvious things. "Maybe the feet of 
 
 Above, Ealhild had already begun the work of boiling the elderberry syrup for the use during winter. The work of syrup-making required long hours of boiling, for elderberries were the goblins of the hedge. Their purple juice, boiled properly, made strong medicine. But if the boiling ran afoul, the goblins would play their foul magic into the blood. While Ealhild was busy with the cellar, the fire had grown dim, letting the elderberry pot go still.
 
-[[
+---
 
 Hugrinn: "The goblins are waking, Muninn! They feel the lukewarm water. They’re stretching their purple limbs in the pot!"
 
@@ -22,7 +22,7 @@ Muninn: "She called for a medicine, but the brew is their doom. The 'goblins' ha
 
 Hugrinn: "Even ravens skip over the goblin-sick. It's such a slow hateful malice."
 
-]]
+---
 
 Ealhild retreated back upstairs, confident that her measures would at least track the theft. The fire under the elderberries had grown dim, so the syrup must be complete. She ladled the syrup into their clay-bottles. They seemed warm still, and so surely the fire had warded the goblin-magic.
 
@@ -42,7 +42,7 @@ The children were playing by the hearth when the sickness hit. Their skin turned
 
 Ever curious, the hob prowled their beds in the wee hours, and saw the purple stains of the goblin-magic on their dead and dying lips. He realized that the goblins were not meant for him in his cream-bowl... it was meant for all, a mistake of the cold hearth. His expression turned from anger to grim. He knew the cold was next, and the hunger that followed was his doing. He went back to the cellar, and pulled at his black oiled hair. What could he do? The goblins' magic can't be undone! He felt ashamed, for he had gotten too greedy, and Ealhild had spent too much time chasing his theft and not paying attention to the elderberries. He grabbed the oil-string, the proof of his theft, and left in the cold. He knew of only the forge-elves who could attempt to right this wrong.
 
-[[
+---
 
 Muninn interrupts: "A hob in the cold and no home, he drags his oil-string behind him like a prison-thief carries the chain. There is no coat for this kind of soul-snow."
 
@@ -52,7 +52,7 @@ Muninn: "A life-time, Hugrinn. A life-time of toil for the forge. His tiny hob-h
 
 Hugrinn: "That's right. The hob will not know the work of the kitchen and the pinches of oats. He will know the charcoal dust and hot ash now. Dust and ash."
 
-]]
+---
 
 By the morning, Ealhild was too weak to leave the bed. She knew from the polish-mirror what her face showed, the goblin-magic of old, wrought skin to purple. Osric was weak too, but the goblins had not taken him fully. He saw the grey on his children that morning, and feared Ealhild was next. "My love, this is the goblins of the hedge. The thief in the cellar blinded me to the syrup's boil and the unstoked flame. This is my fault." But Osric disagreed, "My heart, it is I who has failed you. I could have watched the pot. I could have stirred the flame... the blame is all mine."
 
@@ -84,7 +84,7 @@ Next he needed the laughter of summer, a sense of the children lost. He found th
 
 And last, he took ash from the heath, a stone as well, and the spit for the roast. Satisfied, he slinked off towards the forge-elves home hopeful, his oil-string in tow.
 
-[[
+---
 
 Muninn: "The hob has returned. He collected the life of the home, to provide memory to the steel he wanted the forge-elves to make!"
 
@@ -104,4 +104,3 @@ Hugrinn: "And look at the 'Fyrd-Anchor' on the road to Leicester... he’s walki
 
 Muninn: "Where Elswyth waits, remembering her family..."
 
-]]

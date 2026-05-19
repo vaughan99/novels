@@ -1,4 +1,4 @@
-Chapter 5: The Cynn
+## Chapter 5: The Cynn
 
 Deep in the heart of Leicester, behind the Jewry wall, lies the tall stone home of ancient giants. The home is free of human souls now, or so most people think as they pass by the crumbling arches in the dusk. The townsfolk cross themselves and quicken their pace, believing the red-brick vaults hold nothing but stagnant rainwater and the memory of the dead.
 
@@ -44,7 +44,7 @@ The Cynn did not demand a lifetime of slavery from their new brother. They respe
 
 He was free. The hob had been prepared to work a lifetime, but was given a new chance to find a home. He took the chance, and scurried away, never to be seen again.
 
-[[
+---
 
 Muninn: "See? They're not dwarves in a fairy-tale! They seem nice, too."
 
@@ -58,7 +58,7 @@ Muninn: "A lover of bad poetry and worse ditch-meat..."
 
 Hugrinn: "Quiet! The bellows need new hands. If they fit a hob's hand, I wonder if they fit a gnome's."
 
-]]
+---
 
 The hob had barely vanished before the prisoner arrived.
 
@@ -155,7 +155,7 @@ Their voices suddenly dropped his rhythm entirely to strike a heavy, unified cho
 
 And into the quench it went, moving quickly this time, so as to catch the moonlight and the fury before they escaped the steel. It dropped. A tornado of green flame erupted from the vat, cut short with a sharp, violent hiss. The blade lifted and levitated. It glided back to the second anvil and settled with a soft 'tink'.
 
-[[
+---
 
 Hugrinn: "DUN... DUN... DUUUUUUUUUUUUUUUHHHN!"
 
@@ -183,7 +183,7 @@ Hugrinn: "All-Father's eye... would you look at us? Do we really look that scruf
 
 Muninn: "You do. Your feathers are molting in the tail. Tuck those feathers in, brother."
 
-]]
+---
 
 Below them, the physical shadows of the two ravens glided into the high masonry, settling silently above the furnace hood. A heartbeat later, the old grey shepherd stepped through the ruined threshold of the smithy. The tattered cloak smelled of sheep's lanolin and night air, and his broad-brimmed hat cast a deep, unyielding shadow over his missing eye. He carried his gnarled ash staff, but it made no sound against the dirt floor. The old man approached the blank Roman wall.
 
@@ -195,7 +195,7 @@ The All-Father locked his single star-like eye onto a dark knot in the mortar. "
 
 The third blade, "Wodbora", the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos, slowly emerged from the darkest of the stone roots. Woden turned his back to the wall without even spying it, his staff lifting to signal his birds, and stepped back out into the changing night air.
 
-[[
+---
 
 Hugrinn: "DUN...DUN.."
 
@@ -213,4 +213,3 @@ Muninn: "You didn't bird-brain. All-Father knew what to tell them."
 
 Hugrinn: "I'm getting hungry. The sun is setting. Let's see if the Night of Blood has begun."
 
-]]
