@@ -6,7 +6,7 @@ Cynewulf sensed that his time was short. He had no shield, and no other weapon. 
 
 Time stopped, and a dark, hazy mind-dream came over him.
 
-The ravens, Hunginn and Muninn, the figures on the scabbard, landed on the ancient market stalls. They spoke to him, as the air had frozen Roganvaldr in a trance of horrific snarl.
+The ravens, Hunginn and Muninn, the figures on the scabbard, landed on the steps of the church. They spoke to him, as the air had frozen Roganvaldr in a trance of horrific snarl.
 
 Huginn: "Speak now, priest! The steel waits."
 
@@ -24,7 +24,7 @@ Huginn: "Time is short, priest of the road. You don't know what you hold."
 
 Cynewulf: "Who are you?"
 
-Muninn: "We are the long memory, and the cold realization. We're here to see if you have anything to offer."
+Muninn: "We are the long memory, and the collectors of tariffs. We're here to see if you have anything to offer."
 
 Cynewulf: "Of... what?"
 
@@ -72,9 +72,9 @@ Huginn: "Confess!"
 
 Cynewulf thought forward from that moment of his first confession. There had been the stealing of the small coins, and exchange of whispered glances, soft hands in the dark.
 
-Cynewulf: "I... stole money... from the church. It wasn't much. There were also ale-women. I wasn't a very good priest."
+Cynewulf: "I... stole money... from the church. It wasn't much. There were also ale-women. I... I wasn't a very good priest."
 
-Muninn: "That's a one-worm meal for a magpie, priest. This bird you face is ravenous, and it remembers the whole corpse."
+Muninn: "That's a one-worm meal for a magpie, priest. This bird you face is ravenous, and it remembers the *whole* corpse."
 
 Cynewulf thought back at all the unholy deeds he had done. All the mercenary work, the killing. He endured the cries of women being raped. He dug harder, the widows that he stole from, the men he had butchered. Some deserved it, most probably didn't. He's had drunken rages and ale-house slayings. He has killed women, and a few children too. Shame swept over him like a tidal force of nature.
 
@@ -96,15 +96,15 @@ Cynewulf whispered... "I don't know what you want me to say." His world collapse
 
 Muninn: "The flood is rising. The memory is sweeping. He's almost there!"
 
-Huginn: "The boy was a fresh scroll, priest, barely seventeen words on the page! He could've been your sheep, but instead you ripped the page."
+Huginn: "The boy was a fresh scroll, priest, barely seventeen words on the page! He could've been your sheep, but instead you tossed the scroll into the fire."
 
-Muninn: "He will have no memories. Few will remember him."
+Muninn: "He will have no memories. Few will remember *him*."
 
 Huginn: "What would you tell him priest? What *should* you have told him?"
 
 Cynewulf's tears overflowed, and he cried. It was an authentic, forceful weep.
 
-Cynewulf: "... TO TAKE THE SILVER ON THE TABLE! LEAVE MY STUDENTS IN MY CARE... LEAVE!"
+Cynewulf: "... TO TAKE THE SILVER ON THE TABLE! LEAVE MY STUDENTS IN MY CARE... JUST LEAVE!"
 
 Huginn: "Powerful, but that still doesn't name the boy. How can you apologize to him if you haven't named him?"
 
@@ -122,7 +122,7 @@ Muninn: "The memory debt is paid, brother."
 
 Huginn: "It is time."
 
-Cynewulf looked up through his tears, and in the deep obsidian eyes of the inquisitors, he finally understood the terrifying symmetry fate. The old grey shepherd had confessed to abandoning his wolves. This was the tariff. This sword was not a gift of protection. The sword was a leash on the howling hungry past to make mayhem on the present . He was given an instrument to destroy the wolves that the shepherd refused to call his own anymore. They needed a priest with sins that could measure up to the terrifying reality. Only a soul bound to penance could survive the weight of Woden's confession.
+Cynewulf looked up through his tears, and in the deep obsidian eyes of the inquisitors, he finally understood the terrifying symmetry of fate. The old grey shepherd had confessed to abandoning his wolves. This was the tariff. This sword was not a gift of protection. The sword was a leash on the howling hungry past to make mayhem on the present. He was given an instrument to destroy the wolves that the shepherd refused to call his own anymore. They needed a priest with sins that could measure up to the terrifying reality. Only a soul bound to penance could survive the weight of Woden's confession.
 
 Muninn and Huginn both bowed, their heads held low, solemnly.
 
@@ -202,7 +202,7 @@ It was clear... there was only one witness to the event.
 
 Then, the blacksmith raised his torch, the light falling directly across Cynewulf’s weathered, scarred face. The old man gasped, his grip loosening on his iron club. He didn't see a calloused highwayman or a brutal mercenary of the rearguard. He looked into the priest's eyes and stepped forward, his voice trembling with a sudden, reverent awe.
 
-"Father... Father Cynewulf?" the blacksmith whispered. "By the saints, it is you. You've come back to us. You stood against the wolves." An elderly woman from the parish dropped to her knees in the slush, crossing herself as she looked up at him. "Father Cynewulf... you’re alive. You saved the holy house." The words hit Cynewulf like a physical blow, vibrating deep down into the very marrow of his soul.
+"Father... Father Cynewulf?" the blacksmith whispered. "By the saints, it is you. You've come back to us. You stood against the wolves." An elderly woman from the parish dropped to her knees in the slush, crossing herself as she looked up at him. "Father Cynewulf... you’re alive. You saved the holy house." It was hard for him to remember a time when he saved anything. 
 
 For eleven years on the road, he had lived as a faceless, broken monster, entirely convinced that the highway had peeled away every single shred of his humanity, leaving nothing but scar tissue. He had thought himself entirely unsavable. But looking into the tear-filled, recognizing eyes of his former flock, a strange, bittersweet warmth bloomed behind his ribs.
 
@@ -212,8 +212,8 @@ He didn't speak of the Wodhere. He didn't tell them about the black, humming lan
 
 Osric and Elswyth stood in the shadows of the stone wall, watching the interaction in dead silence. They looked at the weeping townspeople, then back at the cynical, hollowed-out mercenary they had been tracking through the mud. For the first time, they realized the true weight of the man standing beside them.
 
-Cynewulf turned to the two strangers, kin-by-anvil, his face flat and unreadable in the torchlight, but his eyes steadier than they had been in a decade. "The rearguard is finished here," Cynewulf said softly to Osric and Elswyth, his voice carrying the faint, long-forgotten cadence of the altar.
+Cynewulf turned to the two strangers, kin-by-anvil-hammer, his face flat and unreadable in the torchlight, but his eyes steadier than they had been in a decade. "The rearguard is finished here," Cynewulf said softly to Osric and Elswyth, his voice carrying the faint, long-forgotten cadence of the altar.
 
-We might want to believe they marched down that hill to play the savior. We might want a tale where the broken farmer, the coal-girl, and the highwayman priest used their new, terrifying steel to cleave the hemp ropes from the three shivering thralls left at the carts. We might want for them to charge down and beat the wolves in satisfying hard-won battles.
+We might want to believe they marched through Leicester looking to play the savior, carving up enemies and freeing slaves with their new steel. We might demand a tale where the blades defeat of adventure and harrowing escapes.
 
-But that is a fairy tale. That is the luxury of a warm hearth or an ale-tavern, not the reality of the Leicester mud. In the dark of the shifting night, the three strangers simply turned their backs on the ruin, carrying their burdens out into the breaking dawn to face their own ghosts. They left the questions behind on the church steps. It's not even determined if they left together. The road doesn't offer clean narratives... It only offers choices, and the next step.
+But that would be a *fairy* tale. That is the luxury of a warm hearth or an ale-tavern, not the reality of the Leicester mud. They left the questions behind on the church steps. It's not even determined if they left together. The road doesn't offer clean narratives... It only offers choices, and the next step.
