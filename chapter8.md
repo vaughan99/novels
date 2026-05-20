@@ -211,17 +211,22 @@ But the Redcap's eyes widened with glee.
 ```
 Draw the hog onto the break,
 Broken tile his gait forsake,
+```
+
+Elswyth was shaking, and Wulfhere grew ever more confident. She retreated slowly, and Wulfhere followed, never taking his eyes off hers. "Where are you going? There's nowhere to run," he mocked.
+
+```
 Great Dane axe of mountain oak,
 Heavy-winding for the stroke.
 All his weight is in the blow
 But momentum leaves him slow.
-Down it crashes in the mud,
-Splitting wood instead of blood.
+Down it crashes on the tile,
+Shattered stone instead of bile.
 Past the handle I have stepped,
 Where his ribs are poorly kept.
 ```
 
-The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elsywth side-stepped the blow easily. His boot crashed through the broken tile, wedged tight. He couldn't recover. 
+The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elsywth side-stepped the blow easily. His boot crunched through the broken tile, wedged tight. He couldn't recover. 
 
 Without waiting for more rhyme, Elsywth drove full into the thrust with both hands, and Mōnanlīeht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elsywth, in a breath of heated rage, whispered in Wulfhere's ear:
 
@@ -234,7 +239,7 @@ Blood to earth, and none for thee.
 
 Wulfhere dropped his axe and gripped Elsywth's shirt with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her linen as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
 
-"Well, meadow-bud, you've got a taste for it now. I won't share with you the flavor of that last one though... very... personal. But you did well."
+"Well, meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
 
 Then, without a heartbeat of warning, the silver steel twitched violently in her palm. The blade aggressively spun backward, the satin edge slicing through the air toward Elswyth’s own throat as the Redcap lunged to harvest her trunk-blood from within the metal. Inside her head, his voice frantically scrambled into a desperate, rushing meter:
 
