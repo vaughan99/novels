@@ -55,11 +55,11 @@ This side is body-facing and contains the "secret" spell that Wodbora will cast 
 
 | Location | Function | Old English | Futhorc Runes | Pronunciation | Meaning |
 | -------- | -------- | ----------- | ------------- | ------------- | ------- |
-| Scabbard Obverse Line 1, Left | Name | Wodbora | ```ᚹᚩᛞᛒᚩᚱᚪ``` | WOD-bor-ah | Madness-Bringer, Prophet |
-| Scabbard Obverse Line 1, Right | Title | Wōdes Weard | ```ᚹᚩᛞᛖᛋ·ᚹᛖᚪᚱᛞ``` | WO-dess WEE-ard | Guardian of Chaos |
-| Scabbard Obverse Line 2 | Ward | Sceran sēapum : dēað wulfum | ```ᛋᚳᛡᚱᚪᚾ ᛫ ᛋᛡᚪᛡᚷᚢᛗ ᛬ ᛡᛠᚦ ᛫ ᚹᚢᛚᚠᚢᛗ``` | SHARE-an SAY-ah-pum [pause] DAY-ahth WULF-um | Shears for sheep. Death for wolves. |
-| Scabbard Reverse Line 1 (small font) | Spell haelu | Wodbora cwiþ | ```ᚹᚩᛞᛒᚩᚱᚪ·ᚳᚹᛁᚦ``` | WOD-bor-ah QUITH | Wodbora says: |
-| Scabbard Reverse Line 2 (large font) | Spell | Atola Wodhere, ne þū lencg gebunden eart! | ```ᚪᛏᚩᛚᚪ·ᚹᚩᛞᚻᛖᚱᛖ·ᚾᛖ·ᚦᚢ·ᛚᛖᚾᚳᚷ·ᚷᛖᛒᚢᚾᛞᛖᚾ·ᛖᚪᚱᛏ``` | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer! |
+| Scabbard Obverse Line 1, Left | Name | Wodbora | ᚹᚩᛞᛒᚩᚱᚪ | WOD-bor-ah | Madness-Bringer, Prophet |
+| Scabbard Obverse Line 1, Right | Title | Wōdes Weard | ᚹᚩᛞᛖᛋ · ᚹᛖᚪᚱᛞ | WO-dess WEE-ard | Guardian of Chaos |
+| Scabbard Obverse Line 2 | Ward | Sceran sēapum : dēað wulfum | ᛋᚳᛡᚱᚪᚾ ᛫ ᛋᛡᚪᛡᚷᚢᛗ ᛬ ᛡᛠᚦ ᛫ ᚹᚢᛚᚠᚢᛗ | SHARE-an SAY-ah-pum [pause] DAY-ahth WULF-um | Shears for sheep. Death for wolves. |
+| Scabbard Reverse Line 1 (small font) | Spell haelu | Wodbora cwiþ | ᚹᚩᛞᛒᚩᚱᚪ · ᚳᚹᛁᚦ | WOD-bor-ah QUITH | Wodbora says: |
+| Scabbard Reverse Line 2 (large font) | Spell | Atola Wodhere, ne þū lencg gebunden eart! | ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer! |
 
 
 #### Fyrleoht, the Hearth-Watcher
@@ -94,10 +94,10 @@ All the inscriptions are on the wrought iron spine-side of the blade, on both si
 
 | Location | Function | Old English | Futhorc Runes | Pronunciation | Meaning |
 | -------- | -------- | ----------- | ------------- | ------------- | ------- |
-| Blade Side A, Left (copper) | Name | Fyrleoht | ```ᚠᚣᚱᛚᛖᚩᚻᛏ``` | FÜRE-lay-okht | Firelight |
-| Blade Side A, Right (copper) | Title | Heorðweard | ```ᚻᛖᚩᚱᚦᚹᛖᚪᚱᛞ``` | HAY-orth-way-ard | Hearth-Watcher |
-| Blade Side B, Top (copper) | Oath | Ic eom fȳre ācenned | ```ᛇᚳ·ᛖᚩᛗ·ᚠᚣᚱᛖ·ᚪᚳᛖᚾᚾᛖᛞ``` | Ik ay-om FOO-ruh ah-KEN-ned | I am of fire born/brought forth. |
-| Blade Side B, Bottom (silver) | Oath | Ic eom þurh willan āwacned | ```ᛇᚳ·ᛖᚩᛗ·ᚦᚢᚱᚻ·ᚹᛁᛚᛚᚪᚾ·ᚪᚹᚪᚳᚾᛖᛞ``` | Ik ay-om thoor-kh WILL-ahn ah-WAHK-ned | I am through will awakened. |
+| Blade Side A, Left (copper) | Name | Fyrleoht | ᚠᚣᚱᛚᛖᚩᚻᛏ | FÜRE-lay-okht | Firelight |
+| Blade Side A, Right (copper) | Title | Heorðweard | ᚻᛖᚩᚱᚦᚹᛖᚪᚱᛞ | HAY-orth-way-ard | Hearth-Watcher |
+| Blade Side B, Top (copper) | Oath | Ic eom fȳre ācenned | ᛇᚳ · ᛖᚩᛗ · ᚠᚣᚱᛖ · ᚪᚳᛖᚾᚾᛖᛞ | Ik ay-om FOO-ruh ah-KEN-ned | I am of fire born/brought forth. |
+| Blade Side B, Bottom (silver) | Oath | Ic eom þurh willan āwacned | ᛇᚳ · ᛖᚩᛗ · ᚦᚢᚱᚻ · ᚹᛁᛚᛚᚪᚾ · ᚪᚹᚪᚳᚾᛖᛞ | Ik ay-om thoor-kh WILL-ahn ah-WAHK-ned | I am through will awakened. |
 
 
 #### Monanlieht, the Battle-Dancer
@@ -126,6 +126,7 @@ The scabbard should be standard sheepskin-lined wooden core, with leather wrap.
 
 This blade is about style, and the scabbard should represent that. The scabbard sides should look almost identical, and have flowing lines and inscriptions. The runic inscriptions are identical except for the last word. Both sides should have flowing elaborate decoration, signifying a dance. "Let's dance and die", belongs on the outside as a ward. "Let's dance and dine" is the oath and spell of the sword, facing inward towards the thigh.
 
+##### Inscriptions
 
 | Location | Function | Old English | Futhorc Runes | Pronunciation | Meaning |
 | -------- | -------- | ----------- | ------------- | ------------- | ------- |
