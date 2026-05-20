@@ -177,29 +177,29 @@ For Wodbora, the scabbard's inscription thus includes "Wodbora says:". To the me
 By making the blade be the invoker and have its own agency, the wielder is absolved of association... the blade is both prophet (predicting what will occur) and agent (breaking open the hole in the Universe through which the Mad-Host will ride). From the Mad-Host perspective, the wielder is just a dude holding the thing that is unleashing and foretelling the ride. The wielder is not calling the Mad-Host to action, he is just directing where it should go. It's kind of like the wielder is the guy holding the airplane flags at the airport... he is directing the airplane to a particular runway, not telling it to start flying. The blade is like the air traffic controller... it gives the order to take the foot off the brakes.
 
 
-### The Historical Metamorphosis of the Wodhere
+#### The Historical Metamorphosis of the Wodhere
 
 The terrifying apparition of the Wild Hunt — known in Old English as the *Wodhere* (the Mad-Host) — did not remain static. As England transitioned from a fractured pagan frontier into a centralized Norman-Christian kingdom, the mythology of the Hunt evolved across four distinct tactical and theological phases:
 
-#### 1. The Migration Period (5th–8th Century): The Sovereign Psychopomp
+##### 1. The Migration Period (5th–8th Century): The Sovereign Psychopomp
 During the high pagan era, the *Wodhere* operated as a sovereign, cosmic cleanup crew. It was a thunderous procession of dark riders, ghostly warriors, and Woden’s primordial wolves, *Geri* and *Freki*. 
 
 *   **The Theological Law:** Within this early Germanic worldview, the concepts of a default Christian Heaven, a sulfurous Hell, or a final apocalyptic Ragnarök were absent. Souls possessed no automated default destination. Without intervention, human spirits lingered as unruly, persistent entities (*hobs* and *goblins*) that plagued the living. 
 *   **The Sovereign’s Duty:** Woden operated as a cosmic soul-janitor. His terrifying, wolf-infused battle frenzy (*wod*) was a functional necessity. The Hunt swept across the winter skies to systematically collect, evaluate, and guide the dead to their proper ancestral realms. It was a grim, janitorial sorting of the dead, executed by a rabid god.
 
-#### 2. The 10th Century (The Danelaw Friction): The Necessary Evil
+##### 2. The 10th Century (The Danelaw Friction): The Necessary Evil
 By the 940s AD, the era of *The Cynn*, England stood at a highly volatile religious crossroads. Most citizens claimed Christianity, but ancient pagan echoes actively haunted the Danelaw borderlands. *Wodbora* emerges from this specific architectural friction.
 
 *   **The Theological Law:** The Church introduced the binary defaults of Heaven and Hell, yet local folklore struggled to explain why sudden, spectral storms still tore through the belfries. The clergy re-mapped Woden into a fallen angel or a localized ghostly specter-king. 
 *   **The Divine Loophole:** God passively permitted the *Wodhere* to ride because it served a vital, unglamorous purpose. While the Almighty refused to dirty his hands with the base mechanics of reaping, the fallen Woden and his raven cleanup crew (*Huginn* and *Muninn*) acted as a sovereign vacuum — sweeping up lost, hiding, or wicked souls trying to escape their final judgment. It was a necessary evil, tolerated by the heavens to enforce cosmic math.
 
-#### 3. The 11th Century (The Herlathing): The Demonic Lieutenant
+##### 3. The 11th Century (The Herlathing): The Demonic Lieutenant
 As the millennium turned, the Church aggressively sought to erase the lingering Nordic and Germanic names of the old gods. Woden was systematically scrubbed from the cultural ledger and replaced by the tragic, localized myth of *King Herla* — a legendary British monarch trapped in a centuries-long subterranean temporal loop.
 
 *   **The Theological Law:** The name of the procession officially shifted from *Wodenes Hunt* to the *Herlathing* (Herla’s Gathering). The wolves were replaced by sulfurous hellhounds, anchoring the phenomenon firmly to the geography of Hell.
 *   **The Shift in Agency:** Woden’s ancient janitorial office was relegated to a demonic lieutenant. The Devil, too busy torturing souls within the pit, deployed the cursed, ghostly King Herla to drive the sky-train. Getting caught in this iteration of the Hunt offered zero compromise—any soul swept up by the *Herlathing* bypassed judgment entirely, bound instantly for eternal damnation.
 
-#### 4. The 12th Century (The Norman Conquest): The Sermon on Wheels
+##### 4. The 12th Century (The Norman Conquest): The Sermon on Wheels
 Following the Battle of Hastings in 1066 AD, the Norman-French administration fully colonized the English linguistic landscape. King Herla was translated into the French portmanteau *Harlequin* (or *Hellequin*), and his terrifying entourage was completely repurposed by ecclesiastical theater.
 
 *   **The Theological Law:** The Church shifted God from a passive observer into an active commissioner of the Hunt. The *Wodhere* was transformed into an interactive showcase of Purgatory — a literal fire-and-brimstone sermon-on-wheels designed to terrify the illiterate populace into immediate repentance.
