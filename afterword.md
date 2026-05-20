@@ -20,7 +20,9 @@ I imagine the Welandes Cynn would have a shared maker's mark. Closer than shown,
 ```
 
 
-### Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos
+### The Blades
+
+#### Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos
 
 Wodbora is a Gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the grip is clenched, Woden's ravens start an inquisition, to prepare the soul for what it is about to unleash.
 
@@ -77,7 +79,7 @@ As a side note, here's a rough history of The Wild Hunt to provide context for t
 
 -------------------------------
 
-### Fyrleoht, the Hearth-Watcher
+#### Fyrleoht, the Hearth-Watcher
 
 The blade is a 14-16" heavy chopping broad seax, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth. It is named for the fire light bouncing off the fire and shining in the enemy's eye. 
 
@@ -116,7 +118,7 @@ Meaning: "I am through will awakened."
 
 -------------------------------
 
-### Monanlieht, the Battle-Dancer
+#### Monanlieht, the Battle-Dancer
 
 This is the deep-iron blade of the Spotted King redcap's prison. He is the memory of the blade, and it is both vicious and lyrical. For the blade to taste blood, and wet the murder-gnome's cap, he must teach the wielder how to fight like he does... in a lyrical mushroom-enhanced battle dance.
 
@@ -145,4 +147,44 @@ Old English: "Uton be-stelan and etan"
 Literal Meaning: "Let's dance and dine"
 Runes: ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛖᛏᚪᚾ
 Pronunciation: "OO-ton beh-STEL-an and ET-an"
+
+
+### History
+
+#### Seige of Leicester in 941 AD
+
+King Olaf Guthfrithson ruled a fractured dual-kingdom bridging Dublin (Ireland) and York (north-central England).
+
+In the late autumn of 940 AD, the lightning invasion launched by Olaf Guthfrithson mutated from a sprawling, predatory blitzkrieg into a desperate, claustrophobic retreat behind the ancient stone walls of Leicester. The shift from open-field conquest to a panicked winter lockdown was driven by overextended supply lines, a catastrophic check at Northampton, and the rapid mobilization of the southern Saxons.The chronological campaign collapse unfolded across four distinct tactical phases:
+
+1. The Death of Æthelstan and the Blitzkrieg
+
+When King Æthelstan died unexpectedly in late 939 AD, the fragile peace keeping the Viking factions at bay vaporized. Olaf Guthfrithson immediately crossed the Irish Sea from Dublin, slipped into York, and unified the fickle Northumbrian lords under his banner. Keen to reclaim the old boundaries of the York kingdom, Olaf moved south into Mercia in early 940 AD with terrifying speed, leading a massive, mobile strike force of Ulfhednar veterans and Danish horse-raiders deep into the English heartland.
+
+2. The Overextension and the Bloody Nose at Northampton
+
+Olaf's initial strategy relied entirely on fear, momentum, and the assumption that the new 18-year-old Saxon King, Edmund I, would be too inexperienced to mount a defense. Guthfrithson marched his raven-banners all the way down to Northampton, intending to smash the borough and establish a permanent southern foothold. However, Olaf drastically miscalculated the local resistance. Northampton’s fortified burh garrison held the line with brutal, unexpected tenacity. The assault failed miserably, giving the Vikings a severe "bloody nose" and shattering their aura of invincibility. Worse, the delay at Northampton allowed the local Mercian fyrdmen to recover from their panic and begin aggressively mobilizing across the frontier.
+
+3. The Desperate Plunder of Tamworth
+
+Realizing he had overextended his lines and lost the element of surprise, Olaf violently pivoted west. He launched a vengeful, localized counter-strike against Tamworth — the ancient, symbolic royal seat of the Mercian kings. The Vikings took the town by storm, executing a horrific, high-casualty sack to secure massive amounts of silver and immediate winter provisions.But the victory at Tamworth was a strategic trap. The heavy plunder, captured livestock, and wagon-loads of stolen grain severely slowed the army’s mobility just as the volatile autumn weather began to turn.
+
+4. The Trap Snaps: The Hasty Retreat into Leicester
+
+While Olaf’s men were busy looting Tamworth, the young King Edmund completed his southern mobilization and marched a massive West Saxon warhost north with relentless speed. Scouts brought word to Guthfrithson that his retreat route north to York was about to be completely cut off by the advancing Saxon pincer.Caught in a dangerous tactical pocket—with an angry, mobilizing Mercian population at his back, a massive royal army racing up the road, and heavy baggage trains dragging through the freezing mud—Olaf abandoned his plans for open-field conquest. He executed a frantic, hasty retreat to the nearest defensible shelter: the old Roman borough of Leicester.The Vikings slammed the massive oaken gates shut and dug into the crumbling Roman masonry just as the historic, surreal deep freeze of late 940 AD locked the earth into iron. They had successfully survived the immediate Saxon trap, but their blitzkrieg was dead—leaving them isolated, running out of wood, and forced to hole up for a brutal winter inside a hostile city.
+
+
+By Spring 941, the Saxons had begun The Encirclement, and were actively trying to choke the Vikings out of Leicester and bleed them dry. They called on allies wherever they could, for two reasons:
+1. to keep the Vikings from breaking through and marching again, and
+2. to keep reinforcments from York from exploiting the Saxons' flanks
+
+The Saxons drew into its army a hodgepodge from quickly formed units from Mercia, and mercenary units from Northumbria, such as Osric's fyrd, loaned for a favor-payment.
+
+Unfortunately for the Saxons, they didn't mobilize quickly enough when fyrdmen are part of the military. The peace of 941 was borne out of desperation... farmers needed to get back to the spring planting. The bishops knew this.
+
+The cold had ruined farmsteads, and the ugly process of rebuilding had to begin. Reeves like Galindo would've looked at the situation of the fyrd wagon train with pure math. The farmers needed to get back ASAP for the planting, and they couldn't wait even hours for a wagon train.
+
+The peace deal had an interesting clause that the armies of both sides didn't really appreciate... the Five Burroughs of the Danelaw would be permanently given to King Olaf Guthfrithson if he outlived King Edmund I. If not, upon Olaf's death, the Danelaw would be given back to the Saxons. The Bishops of York and Canterbury who negotiated the deal knew that peace wasn't going to last, and there would be reprisals. So, they believed they were letting God settle the matter.
+
+As it turns out, Olaf died roughly six months later, ironically during a botched raid into northern territory. The Danelaw permanently dismantled, and Saxon law reigned.
 
