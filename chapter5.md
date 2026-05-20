@@ -191,7 +191,7 @@ Muninn: "You do. Your feathers are molting in the tail. Tuck those feathers in, 
 
 Below them, the physical shadows of the two ravens glided into the high masonry, settling silently above the furnace hood. A heartbeat later, the old grey shepherd stepped through the ruined threshold of the smithy. The tattered cloak smelled of sheep's lanolin and night air, and his broad-brimmed hat cast a deep, unyielding shadow over his missing eye. He carried his gnarled ash staff, but it made no sound against the dirt floor. The old man approached the blank Roman wall.
 
-The seeking bellows instantly stopped expanding, freezing in mid-breath. The fire of the forge went instantly cold, and the implements of the forging retreated back into the wall. The two forged blades, named "Fyrleoht", the Hearth-Watcher, and "Monanlieht", the Battle-Dancer, retreated too. Their handles and scabbards were frantically finished in the dark before being left on their respective anvils.
+The seeking bellows instantly stopped expanding, freezing in mid-breath. The fire of the forge went instantly cold, and the implements of the forging retreated back into the wall. The two forged blades, named "Fyrleoht", the Hearth-Watcher, and "Monanleoht", the Battle-Dancer, retreated too. Their handles and scabbards were frantically finished in the dark before being left on their respective anvils.
 
 From inside the solid brickwork, the child-giggles did not return. The playground taunts and the ten-part harmony vanished into a sudden, freezing silence. The Cynn did not mock this visitor.
 

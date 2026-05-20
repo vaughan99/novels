@@ -18,7 +18,7 @@ I imagine the Welandes Cynn would have a shared maker's mark. Closer than shown,
 ᚹ
   ᚳ
 ```
-
+---
 
 ### The Blades
 
@@ -61,6 +61,7 @@ This side is body-facing and contains the "secret" spell that Wodbora will cast 
 | Scabbard Reverse Line 1 (small font) | Spell haelu | Wodbora cwiþ | ᚹᚩᛞᛒᚩᚱᚪ · ᚳᚹᛁᚦ | WOD-bor-ah QUITH | Wodbora says: |
 | Scabbard Reverse Line 2 (large font) | Spell | Atola Wodhere, ne þū lencg gebunden eart! | ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer! |
 
+---
 
 #### Fyrleoht, the Hearth-Watcher
 
@@ -100,7 +101,9 @@ All the inscriptions are on the wrought iron spine-side of the blade, on both si
 | Blade Side B, Bottom (silver) | Oath | Ic eom þurh willan āwacned | ᛇᚳ · ᛖᚩᛗ · ᚦᚢᚱᚻ · ᚹᛁᛚᛚᚪᚾ · ᚪᚹᚪᚳᚾᛖᛞ | Ik ay-om thoor-kh WILL-ahn ah-WAHK-ned | I am through will awakened. |
 
 
-#### Monanlieht, the Battle-Dancer
+---
+
+#### Monanleoht, the Battle-Dancer
 
 ##### Description
 
@@ -135,6 +138,7 @@ This blade is about style, and the scabbard should represent that. The scabbard 
 | Scabbard Obverse (Outward) | Ward | Uton be-stelan and dēof | ```ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛞᛠᚠ``` | OO-ton beh-STEL-an and DAY-o | Let's dance and die |
 | Scabbard Reverse (Inward) | Spell | Uton be-stelan and etan | ```ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛖᛏᚪᚾ``` | OO-ton beh-STEL-an and ET-an" | Let's dance and dine |
 
+---
 
 ### History
 
@@ -163,19 +167,21 @@ The Saxons drew into its army a hodgepodge from quickly formed units from Mercia
 
 Unfortunately for the Saxons, they didn't mobilize quickly enough when fyrdmen are part of the military. The peace of 941 was borne out of desperation... farmers needed to get back to the spring planting. The bishops knew this. The cold had ruined farmsteads, and the ugly process of rebuilding had to begin. Reeves like Galindo would've looked at the situation of the fyrd wagon train with pure math. The farmers needed to get back ASAP for the planting, and they couldn't wait even hours for a wagon train.
 
-The peace deal had an interesting clause that the armies of both sides didn't really appreciate... the Five Burroughs of the Danelaw would be permanently given to King Olaf Guthfrithson if he outlived King Edmund I. If not, upon Olaf's death, the Danelaw would be given back to the Saxons. The Bishops of York and Canterbury who negotiated the deal knew that peace wasn't going to last, and there would be reprisals. So, they believed they were letting God settle the matter.
+The peace deal had an interesting clause that the armies of both sides didn't really appreciate... the Five Boroughs of the Danelaw would be permanently given to King Olaf Guthfrithson if he outlived King Edmund I. If not, upon Olaf's death, the Danelaw would be given back to the Saxons. The Bishops of York and Canterbury who negotiated the deal knew that peace wasn't going to last, and there would be reprisals. So, they believed they were letting God settle the matter.
 
 As it turns out, Olaf died roughly six months later, ironically during a botched raid into northern territory. The Danelaw permanently dismantled, and Saxon law reigned.
 
+---
 
 #### Agency of Magical Artifacts
 
-The inscriptions of runic "magic spells" on Viking and Saxon artefacts show that, back then, items had their own "hælu", or luck/agency/destiny. For weighty attributions of spells to a thing, it would often be inscribed as the name of the thing "saying" what the spell is. This construct is used, for example, on the Franks Casket, and would be used for weapons with identity as well.
+The inscriptions of runic "magic spells" on Viking and Saxon artifacts show that, back then, items had their own "hælu", or luck/agency/destiny. For weighty attributions of spells to a thing, it would often be inscribed as the name of the thing "saying" what the spell is. This construct is used, for example, on the Franks Casket, and would be used for weapons with identity as well.
 
 For Wodbora, the scabbard's inscription thus includes "Wodbora says:". To the medieval ear, a person should not invite the Wild Hunt to commence or be unleashed, as that would represent immense hubris, and would be a massive insult to the Wodhere (and Odin/Woden). How dare a mere mortal order the Wodhere around??? That would invite the Mad-Host to visit equal destruction to the wielder. So, to get around that meta-physical trap, you need a loophole.  
 
 By making the blade be the invoker and have its own agency, the wielder is absolved of association... the blade is both prophet (predicting what will occur) and agent (breaking open the hole in the Universe through which the Mad-Host will ride). From the Mad-Host perspective, the wielder is just a dude holding the thing that is unleashing and foretelling the ride. The wielder is not calling the Mad-Host to action, he is just directing where it should go. It's kind of like the wielder is the guy holding the airplane flags at the airport... he is directing the airplane to a particular runway, not telling it to start flying. The blade is like the air traffic controller... it gives the order to take the foot off the brakes.
 
+---
 
 #### The Historical Metamorphosis of the Wodhere
 

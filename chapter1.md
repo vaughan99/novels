@@ -4,7 +4,7 @@ The steady rain had given way to fog that morning, one that smelled of wet log-s
 
 The news of the parchment-peace was fresh on the ears that morning. The Vikings of King Olaf Guthfrithson had largely been defeated. The battle walls were teetering, the resistance weakened. Most of the warriors left were still Vikings stout-to-a-man, but their numbers had dwindled. Their time for a brokered peace had arrived.
 
-Up and down the lines, there was disbelief. The Vikings had been cornered. Victory was near, and yet, Canterbury had bargained it away. After the crier announced the resolution from the walls that morning, and produced the parchment-deal, the Vikings slowly gathered the remains of their host and trophies. With all their dead in the pyres, all that remained was the short road to the Burroughs, to their recovered sanctuaries of the Danelaw.
+Up and down the lines, there was disbelief. The Vikings had been cornered. Victory was near, and yet, Canterbury had bargained it away. After the crier announced the resolution from the walls that morning, and produced the parchment-deal, the Vikings slowly gathered the remains of their host and trophies. With all their dead in the pyres, all that remained was the short road to the Boroughs, to their recovered sanctuaries of the Danelaw.
 
 Osric paid no attention. He was a man of tall stature but hollowed by hunger, sickness, and wounded pride. He was an outsider like many from his fyrd, strange accents in a strange land. These fyrdmen, some 105 strong, had been delivered for this battle, a favor from his Northumbrian lord to a Saxon debtor. His sweat and toil were payment for a debt he didn't know. His own lord sat in his hall in Northumbria, far from the battle, warm and dry.
 
@@ -28,7 +28,7 @@ The other Vikings laughed and joked at the state of the Saxons and Northumbrian 
 
 After traveling a short distance, Wulfhere gathered his Ulfhednar to a meeting. Among them were his best. His second-in-command was a giant, over seven feet of bone and muscle, Rognvaldr the Ragged. His frame was so large, no single mail coat could cover it. His armor served as the testament to the war-band's kills, as it was built from the pieces of armor of the fallen. The others were strong, mostly young but well-trained, eager for the treasure-pile that had once been promised.
 
-"These Saxons keep making the same mistakes. They think parchment is payment for a wolf. A wolf cannot eat parchment. I have seen the broken bands, burnt sticks, and char-smoked girls they have guarding their baggage. And they are deer for the slaughter, friends. Travel not far, we are circling back tonight. Let the others go to the Burroughs, we will collect the hoard-pile we were expecting yet. And if we fail, our reward is Valhall-caw-cackle!"
+"These Saxons keep making the same mistakes. They think parchment is payment for a wolf. A wolf cannot eat parchment. I have seen the broken bands, burnt sticks, and char-smoked girls they have guarding their baggage. And they are deer for the slaughter, friends. Travel not far, we are circling back tonight. Let the others go to the Boroughs, we will collect the hoard-pile we were expecting yet. And if we fail, our reward is Valhall-caw-cackle!"
 
 ---
 

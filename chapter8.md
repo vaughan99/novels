@@ -1,10 +1,10 @@
 ## Chapter 8: The Battle-Dancer
 
-Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured, that the sword was hers. She grabbed the hilt of *Monanlieht* and drew. The world became a frozen haze, as a silver mind-sleep claimed her.
+Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured, that the sword was hers. She grabbed the hilt of *Monanleoht* and drew. The world became a frozen haze, as a silver mind-sleep claimed her.
 
 "Hello, MEADOW-BUD!"
 
-The redcap's voice boomed inside her skull, dropping to a heavy, mocking sneer as it pronounced her name. In the misty reflection of *Monanlieht's* steel, the monster's eyes emerged from the flat of the blade.
+The redcap's voice boomed inside her skull, dropping to a heavy, mocking sneer as it pronounced her name. In the misty reflection of *Monanleoht's* steel, the monster's eyes emerged from the flat of the blade.
 
 "No! NOO! I saw you stolen away. You were trying to..."
 
@@ -47,11 +47,11 @@ But make his ... hand ... into ... your ... meal.
 
 Time resumed, and flew fast, but Elswyth was sharp-to-tongue and moved on the flea's-leg - exactly on the beat. The young wolf stepped forward. He had a spear and shield at the ready.
 
-She waited for him to commit to the stab. Like the poem said, he did. Mouthing the words, she dodged to the left, two steps, and her hands were almost guided by the blade itself. She cut upward to the sleeve of his arm. *Monanlieht* flew forth like a beam of light and sliced through his stout leather vambrace, leaving a deep cut. He dropped his spear with a grunt, his shield hand snapping instantly to the wound.
+She waited for him to commit to the stab. Like the poem said, he did. Mouthing the words, she dodged to the left, two steps, and her hands were almost guided by the blade itself. She cut upward to the sleeve of his arm. *Monanleoht* flew forth like a beam of light and sliced through his stout leather vambrace, leaving a deep cut. He dropped his spear with a grunt, his shield hand snapping instantly to the wound.
 
 The reflex pulled his shield away, exposing his lower leg. Elswyth rolled right, seeing a gap in the armor - three fingers wide. She slashed from her knees. The moonlight blade bit into the leg just above the knee, grating into bone. The Viking screamed and staggered back. Blood flowed freely, but she hadn't caught the artery. She stood up as he howled through the pain. He dropped the shield. His sword-arm had no feeling, and it was awkward to draw his knife with his shield hand.
 
-She stepped into his struggling guard, gripped *Monanlieht* with both hands and brought it down in a hard, crushing arc. The blade sheared through his wrist. A spray of hot blood was followed by the meat hitting the tile. His battle was done.
+She stepped into his struggling guard, gripped *Monanleoht* with both hands and brought it down in a hard, crushing arc. The blade sheared through his wrist. A spray of hot blood was followed by the meat hitting the tile. His battle was done.
 
 Elswyth had handled the first Viking, and she thought it was miraculous. The blade was leaping to targets, as if its hands were on the grip, urging it where to strike. She had control, yes, but the will of the gnome gave it a hint of direction too. She smiled nervously. "I can't believe..."
 
@@ -74,7 +74,7 @@ Show me how you hold the wood,
 Let me taste if it is good.
 ```
 
-The Viking didn't bite. He kept his chin tucked behind the heavy rim of his stout shield, stepping forward with absolute metric precision. Monanlieht lunged, pulling Elswyth's movements into a blurring succession of testing strikes that rang out in a fast clip.
+The Viking didn't bite. He kept his chin tucked behind the heavy rim of his stout shield, stepping forward with absolute metric precision. Monanleoht lunged, pulling Elswyth's movements into a blurring succession of testing strikes that rang out in a fast clip.
 
 ```
 Biting top and chewing low,
@@ -258,6 +258,8 @@ Inside her skull, the Redcap let out a high, cackling, unhinged laugh.
 die?
 Curse those little fiddle-cynn,
 I had you twice but now I sin!
+Sweet dessert was sitting nigh,
+So you knew I had to try!
 ```
 
-"Ohh... but you knew I had to try!" The redcap relented.
+Click. Elswyth put Monanleoht back in its cage, the pommel's lock silencing the gnome.

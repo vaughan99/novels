@@ -88,7 +88,7 @@ He leaned forward, tracing a faint rune in the dirt with the tip of his cane.
 
 "And the small one? Meadow-Bud?" the boy asked.
 
-"Elswyth lived a long life, too," Woden nodded. "But the *Mōnanlieht* took its toll. By the end, the redcap's words flowed like those of the gnome, over smoother teeth. But his wisdom made the town feel too loud. She left her cottage and walked into the deep woods. I met her soul myself when she finally let go — I guided her out of the thicket and toward the Great Hall in the sky, for we were kin by then. But her blade? She left it buried deep within the roots of an ancient oak. It only shines when the moon is exactly right."
+"Elswyth lived a long life, too," Woden nodded. "But the *Mōnanleoht* took its toll. By the end, the redcap's words flowed like those of the gnome, over smoother teeth. But his wisdom made the town feel too loud. She left her cottage and walked into the deep woods. I met her soul myself when she finally let go — I guided her out of the thicket and toward the Great Hall in the sky, for we were kin by then. But her blade? She left it buried deep within the roots of an ancient oak. It only shines when the moon is exactly right."
 
 The boy bit his lip. "And the man with the... tornado sword? The one who confessed?"
 
