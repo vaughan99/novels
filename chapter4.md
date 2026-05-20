@@ -8,7 +8,7 @@ Cynewulf was not born to the sword. He was born to carpenters, and had a fairly 
 
 "Cynewulf, that is an ember-hate. You must watch it carefully, and see that it dies quickly," the priest uttered confidently yet softly. The priest released his grip on Cynewulf's shoulder and consulted the penitential, a book of soul-tariffs. He had a solution in mind, but he needed to consult the book to ensure it was not over-harsh. The book snapped closed quickly, the sound echoing through the church. "Cynewulf, you shall see the work of bell-pits of the church from now through Lent. You will know the bite of embers on your skin and the glow-heat of the castings. Do this, and your sin shall be forgiven. Go forth, report this to your father, and steal yourself to the bell-master."
 
-The confession that day brought him to the church. The work did not seem like work. He worked the Lent season in the bell-pits, pressing clay for the mold, shoveling charcoal, setting the burn, standing back as the brass is finally poured. The heat of the process felt cleansing. He also saw the work of the priesthood itself, the deference they received and the catharsis they delivered. It felt like a calling.
+The confession that day brought him to the church. The work did not seem like work. He worked the Lent season in the bell-pits, pressing clay for the mold, shoveling charcoal, setting the burn, standing back as the bronze was finally poured. The heat of the process felt cleansing. He also saw the work of the priesthood itself, the deference they received and the catharsis they delivered. It felt like a calling.
 
 His penance served, he told his father that he was destined for the bell-pits and then the priesthood. The bell-master had evaluated him, and there was space for a new apprentice. There was also space for a new acolyte-to-come, and so his path was clear. His time spent in the pits would pay for his Latin lessons and the tutelage he required. His father was proud, as that was a noble beginning for his son, an apprenticeship of trade and a life of humble privilege. He smiled as he thought that every time the church bells would ring, that his son had a hand in it.
 
@@ -102,5 +102,5 @@ Huginn: "Listen! High and sharp, like a needle through a shroud. That isn't the 
 
 Muninn: "'they work'??? Really Huginn? They're not dwarves in a fairy-tale."
 
-Huginn: "They are forge-masters at play. And play-time has begun."
+Huginn: "No, I suppose not. They are forge-masters at play. And play-time has begun."
 
