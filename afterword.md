@@ -1,11 +1,11 @@
-## Afterword (Work in Progress)
+## Afterword
 
 
 ### Welandes Cynn (Weyland's Kin)
 
-These are the forge-elves that carry on the tradition of magical blade-making. In reality, it's just us. We're the ones creating the stories, making blades that look like the descriptions, and having fun (giggling like little children when things actually work out ok). Huginn makes up stories about these things we make and dream up, and tells them to imaginary children :)
+These are the forge-elves that carry on the tradition of magical blade-making. In reality, it's just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun (giggling like little children when things actually work out ok). Huginn makes up stories about these things we make and dream up, and tells them to imaginary children :)
 
-I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions.
+I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions.
 
 * Name: this is the name, obviously
 * Title: this is like "The Goblin-Slayer"
@@ -24,115 +24,115 @@ I imagine the Welandes Cynn would have a shared maker's mark. Closer than shown,
 
 #### Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos
 
-Wodbora is a Gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the grip is clenched, Woden's ravens start an inquisition, to prepare the soul for what it is about to unleash.
+##### Description
 
-When pulled from the scabbard, it releases the Wodhere's binding, allowing it to do as it wills (suggesting that it will find the sword and commence its horrible and frightful business right there). The blade still tries to act as a shield from judgement while this is taking place.
+Wodbora is a gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the grip is clenched, Woden's ravens appear and start an inquisition. They know your soul and your history, and act as a safety valve for the chaos. They know that to survive, you *must* admit to a sin that carries the same weight as what you're about to unleash. They can't tell you what to say, so they speak cryptically. You must arrive at your specific confession independently.
 
-The madness should end when Wodbora is sheathed, however, giving the wielder some control over collateral damage, and making the act more chaotic than evil.
+When pulled from the scabbard, it releases the Wodhere's binding, allowing it to do as it wills (suggesting that it will find the sword and commence its horrible and frightful business right there). The madness should end when Wodbora is sheathed, however, giving the wielder some control over collateral damage. The will of the ride is its own, and it will destroy any that have not recently cleaned their soul.
 
-The blade construction should be single-edged, with a 9-layer nomai. The spine should be wrought iron, with alternating layers of 1084 and 15n20. Once etched, this will yield 2 rivers of 15n20 running through a dark grey field, with grainy spine. Done right, you could interpret the wrought iron as the sky, or as the ground. The carbon transfer among the ribbons of 1084 and 15n20 will blur, giving the 15n20 less of a defined line. Depending on which way you look, it's a real Rorshach test. The silvery 15n20 could be the mist on the ground, and light grey shapes are flowing through it. Or the silvery 15n20 are the clouds, and the darker shapes represent the Wodhere in full ride.
+##### Blade Construction
 
-The scabbard is split into two sides with different themes:
+The blade construction should be single-edged, with a 9-layer nomai. The spine should be wrought iron, with alternating layers of 1084 and 15n20. Once etched, this will yield 2 rivers of 15n20 running through a dark grey field, with grainy spine. Done right, you could interpret the wrought iron as the sky, or as the ground. The carbon transfer among the ribbons of 1084 and 15n20 should blur, giving the 15n20 less of a defined line. Depending on which way you look, it's a real Rorshach test. When Tobin showed me his first etch of the prototype Wodbora blade, I couldn't decide which way was up! The silvery 15n20 could be the mist on the ground, and light grey shapes are flowing through it. Or the silvery 15n20 are the clouds, and the darker shapes represent the Wodhere in full ride sweeping the earth.
 
-+ Scabbard Obverse Side A: The Ward (Raven Side)
+##### Handle Construction
 
-This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade, the prayer for asking Woden/God to protect us and doom my enemies, and Woden's (and God's) ravens facing inward on either side, witnessing the name/title and prayer as if to acknowledge it as their contract. The ravens should be in the jelling style, with scrollwork containing and framing the name/title and prayer. Since Woden is not invoked directly, the prayer is also to God, on off-chance that Woden isn't listening to the ravens.
+The handle should be two handed for grip, with a wood core. Instead of a guard and pommel, the handle should be wrapped in wire with Turk's head knots on either end, with simple plates acting as the caps of the blade. The visual effect should be one of a wire cage binding the Wodhere in the blade, so it doesn't spill out of the handle. This is a slight anachronism... steel wire typically wasn't used for binding handles, but silver and copper alloys certainly were for higher end blades. We're using steel to stand-in for silver, I suppose.
 
-The Name and Title: Wodbora | Wōdes Weard
-Meaning: Madness-Bringer/Prophet, the Guardian of Chaos
-Runes: ᚹᚩᛞᛒᚩᚱᚪ ᛬ ᚹᚩᛞᛖᛋ·ᚹᛖᚪᚱᛞ
-Pronunciation: WOD-bor-ah [pause] WO-dess WEE-ard
+##### Scabbard Construction
 
-The Ward: "Sceran sēapum : dēað wulfum"
-Meaning: "Shears for sheep. Death for wolves."
-Runes: ᛋᚳᛡᚱᚪᚾ ᛫ ᛋᛡᚪᛡᚷᚢᛗ ᛬ ᛡᛠᚦ ᛫ ᚹᚢᛚᚠᚢᛗ
-Pronunciation: "SHARE-an SAY-ah-pum [pause] DAY-ahth WULF-um"
+The scabbard should be lambskin-lined, woodcore. It should have simple steel throat and chape. The outer covering should be leather.
 
-+ Scabbard Reverse Side B: The Spell of Impending Chaos (Wolf Side)
+###### Scabbard Obverse (Outer) Side: The Inquisitors
 
-This side is body-facing and contains the "secret" spell that Wodbora will cast on behalf of the wielder when the sword is drawn. This side could have a Mammen-style snake (to represent the Wodhere) tightly bound, getting looser towards the chape. This signifies that the spell is a release of the host as it gets closer to the end of the statement. The throat should be where the runes are tightest, and the chape should be where they are the loosest. If this is too complex, a two line line-boxed construction would suffice, with the Header portion in a smaller runic font size than the Incantation.
+This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade on the first line, and the ward of the blade on the second line. Two ravens, one on each side of the inscription, should be facing inward, so as to witness the ward. The ward is there not just for the public, but for the wielder too... for they must suffer the inquisition. The ravens should be in the jelling style, with scrollwork containing and framing the name/title and prayer. Since Woden is not invoked directly, the prayer is also to God, on off-chance that Woden isn't listening to the ravens.
 
-The Header: Wodbora cwiþ
-Meaning: "Wodbora says" (critical for acting as a metaphysical buffer so as not to offend the Wodhere)
-Runes: ᚹᚩᛞᛒᚩᚱᚪ·ᚳᚹᛁᚦ
-Pronunciation: WOD-bor-ah QUITH
+###### Scabbard Reverse (Inner) Side: The Invocation
 
-The Incantation: Atola Wodhere, ne þū lencg gebunden eart!
-Meaning: "Hideous Mad-Host, thou art bound no longer!"
-Runes: ᚪᛏᚩᛚᚪ·ᚹᚩᛞᚻᛖᚱᛖ·ᚾᛖ·ᚦᚢ·ᛚᛖᚾᚳᚷ·ᚷᛖᛒᚢᚾᛞᛖᚾ·ᛖᚪᚱᛏ
-Pronunciation: AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt!
+This side is body-facing and contains the "secret" spell that Wodbora will cast on behalf of the wielder when the sword is drawn. This side could have a Mammen-style snake (to represent the Wodhere) tightly bound, getting looser towards the chape. This signifies that the spell is a release of the host as it gets closer to the end of the statement. The throat should be where the runes are tightest, and the chape should be where they are the loosest. If this is too complex, a two line line-boxed construction would suffice, with the Spell Haelu portion in a smaller runic font size than the Incantation.
 
 
--------------------------------
+##### Inscriptions
+
+| Location | Function | Old English | Futhorc Runes | Pronunciation | Meaning |
+| -------- | -------- | ----------- | ------------- | ------------- | ------- |
+| Scabbard Obverse Line 1, Left | Name | Wodbora | ```ᚹᚩᛞᛒᚩᚱᚪ``` | WOD-bor-ah | Madness-Bringer, Prophet |
+| Scabbard Obverse Line 1, Right | Title | Wōdes Weard | ```ᚹᚩᛞᛖᛋ·ᚹᛖᚪᚱᛞ``` | WO-dess WEE-ard | Guardian of Chaos |
+| Scabbard Obverse Line 2 | Ward | Sceran sēapum : dēað wulfum | ```ᛋᚳᛡᚱᚪᚾ ᛫ ᛋᛡᚪᛡᚷᚢᛗ ᛬ ᛡᛠᚦ ᛫ ᚹᚢᛚᚠᚢᛗ``` | SHARE-an SAY-ah-pum [pause] DAY-ahth WULF-um | Shears for sheep. Death for wolves. |
+| Scabbard Reverse Line 1 (small font) | Spell haelu | Wodbora cwiþ | ```ᚹᚩᛞᛒᚩᚱᚪ·ᚳᚹᛁᚦ``` | WOD-bor-ah QUITH | Wodbora says: |
+| Scabbard Reverse Line 2 (large font) | Spell | Atola Wodhere, ne þū lencg gebunden eart! | ```ᚪᛏᚩᛚᚪ·ᚹᚩᛞᚻᛖᚱᛖ·ᚾᛖ·ᚦᚢ·ᛚᛖᚾᚳᚷ·ᚷᛖᛒᚢᚾᛞᛖᚾ·ᛖᚪᚱᛏ``` | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer! |
+
 
 #### Fyrleoht, the Hearth-Watcher
+
+##### Description
 
 The blade is a 14-16" heavy chopping broad seax, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth. It is named for the fire light bouncing off the fire and shining in the enemy's eye. 
 
 This is a North Sea hearth version of the "Riddle of Steel" from Conan. It is a witness to its own birth, and acknowledges that it only has life and meaning in the hands of a beloved wielder who has suffered.
 
+##### Blade Construction
+
+These specialized broad seaxes were used for hearth-work, equal parts campfire axe and meat cleaver. Since iron was precious and expensive, a few farmers preferred this kind of blade instead of a separate large seax and axe.
+
+The blade should be a 2-bar construction with a large section of wrought iron married to an edge of 15n20. It should be exceptionally thick and wide, and the 15n20 line should be right around where the plunge-grind starts towards the edge. The wrought iron represents the stone and smoke of the hearth. Inscriptions will be on both sides, so it would be highly recommended to use a fiber laser and brazing techniques rather than damascening.
+
+The silver 15n20 edge is both the frost and the fire of the edge. The first line of the oath should be in copper/brass/bronze, to hint at warmth. The second line and the name/title should be in silver, to represent the sheer will to withstand the long cold of Osric's winter of 940.
+
+##### Handle Construction
+
+Since this is a farmer's blade, the handle should be simple. It should be two-handed, like the Northolt Manor seax. The handle should probably be wood. The guard and pommel should be thick wrought iron, and a simple symmetric river stone should be embedded in the pommel.
+
+##### Scabbard Construction
+
+The scabbard should be the epitome of simple. This is a farmer's blade on the outside. All the cool stuff is hidden from the world. I would suggest just the simple seax leather-fold scabbard with a stitched welt or a simple unadorned brass edge-runner with rivets.
+
 The blade itself should have the name and title inscribe in runes on one side, and the oath on the other. There should be no fullers, as this blade is meant to be forward heavy for the chop. The long handle gives you many choices about swing intensity.
 
-The scabbard should be simple leather over wood, like a farmer's scabbard. There might be slight embellishment, but to the outsider this should appear nothing more than a camp broadseax.
+##### Inscriptions
 
-The construction should be a 2-bar of wrought iron spine and 15n20 (bright silver-steel) edge. The geometry should match the Northolt Manor seax, which is a broad heavy chopper meant for two hands. These specialized broad seaxes were used for hearth-work, equal parts campfire axe and meat cleaver. Since iron was precious and expensive, a few farmers preferred this kind of blade instead of a separate large seax and axe.
+All the inscriptions are on the wrought iron spine-side of the blade, on both sides. The name/title appear on one side, and the two lines of the oath are on the other. The oath is interesting, because of the similarity of the last two words. Those two lines should be right-justified, so that the words are directly over each other vertically. The first line should have a copper/bronze/brass color, to signify warmth. All others should be silver.
 
-All inscriptions should be damascened into the wrought iron. The wrought represents the stone and smoke of the hearth or forge.
+| Location | Function | Old English | Futhorc Runes | Pronunciation | Meaning |
+| -------- | -------- | ----------- | ------------- | ------------- | ------- |
+| Blade Side A, Left (copper) | Name | Fyrleoht | ```ᚠᚣᚱᛚᛖᚩᚻᛏ``` | FÜRE-lay-okht | Firelight |
+| Blade Side A, Right (copper) | Title | Heorðweard | ```ᚻᛖᚩᚱᚦᚹᛖᚪᚱᛞ``` | HAY-orth-way-ard | Hearth-Watcher |
+| Blade Side B, Top (copper) | Oath | Ic eom fȳre ācenned | ```ᛇᚳ·ᛖᚩᛗ·ᚠᚣᚱᛖ·ᚪᚳᛖᚾᚾᛖᛞ``` | Ik ay-om FOO-ruh ah-KEN-ned | I am of fire born/brought forth. |
+| Blade Side B, Bottom (silver) | Oath | Ic eom þurh willan āwacned | ```ᛇᚳ·ᛖᚩᛗ·ᚦᚢᚱᚻ·ᚹᛁᛚᛚᚪᚾ·ᚪᚹᚪᚳᚾᛖᛞ``` | Ik ay-om thoor-kh WILL-ahn ah-WAHK-ned | I am through will awakened. |
 
-On one side, the name and title should be inscribed in copper in the wrought iron in a simple line near the spine.
-
-On the other side, the two lines of the oath should be directly over each other, with the last words ending directly over/under each other (basically right-justified). Since the words are nearly identical, this causes a mirror effect. The first line should be inscribed on the blade in copper, that represents the fire of the hearth and warmth of the heart. The second line should be inscribed on the blade in silver, that represents will/action, and the cold nature of Osric's ordeal.
-The edge is silvery... this is the edge that changes nature depending on its target, being either white-hot or rime-slaked.
-
-+ The Name/Title: Fyrleoht | Heorðweard
-Runes: ᚠᚣᚱᛚᛖᚩᚻᛏ : ᚻᛖᚩᚱᚦᚹᛖᚪᚱᛞ
-Phonetic Pronunciation: FÜRE-lay-okht [pause] HAY-orth-way-ard
-Meaning: "Firelight, the Hearth-Watcher"
-
-+ Oath Line 1: Recognition
-Old English: Ic eom fȳre ācenned
-Runes: ᛇᚳ·ᛖᚩᛗ·ᚠᚣᚱᛖ·ᚪᚳᛖᚾᚾᛖᛞ
-Pronunciation: Ik ay-om FOO-ruh ah-KEN-ned
-Meaning: "I am of fire born/brought forth."
-
-+ Oath Line 2: Call to action
-Old English: Ic eom þurh willan āwacned
-Runes: ᛇᚳ·ᛖᚩᛗ·ᚦᚢᚱᚻ·ᚹᛁᛚᛚᚪᚾ·ᚪᚹᚪᚳᚾᛖᛞ
-Pronunciation: Ik ay-om thoor-kh WILL-ahn ah-WAHK-ned
-Meaning: "I am through will awakened."
-
-
--------------------------------
 
 #### Monanlieht, the Battle-Dancer
 
-This is the deep-iron blade of the Spotted King redcap's prison. He is the memory of the blade, and it is both vicious and lyrical. For the blade to taste blood, and wet the murder-gnome's cap, he must teach the wielder how to fight like he does... in a lyrical mushroom-enhanced battle dance.
+##### Description
 
-The blade is a light two-handed broken-back langseax, with a blade of about 20". The break should be roughly half way down the blade, making the tip extremely fast and maneuverable, similar to a later period cut-and-thrust sword. The blade should be a light variant of the Little Bealings langseax.
+This is the deep-iron blade of the Spotted King redcap's prison. He is the memory of the blade, and it is both vicious and lyrical. For the blade to taste blood, and wet the murder-gnome's cap, he must teach the wielder how to fight like he does... in a lyrical mushroom-enhanced battle dance. Now PAY ATTENTION! :)
 
-It should be constructed of monosteel silvery 15n20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. The polish should be just hazy enough to blur the wielder's eyes, to make them look different, as if the redcap is peeking back at you. There should be no fullers or inscriptions on the blade.
+##### Blade Construction
 
-This time, the name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. The runes should traverse the guard and pommel as if they are in mid-dance. The handle should be spiral or braid-wrapped in black leather and treated with wax. 
+It should be constructed of monosteel silvery 15n20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. Your eyes should appear different when you look into the blade like a mirror, as if the gnome is staring back at you.
 
-The scabbard sides should look almost identical, and have flowing lines and inscriptions. The runic inscriptions are identical except for the last word. Both sides should have flowing elaborate decoration, signifying a dance. "Let's dance and die", belongs on the outside as a ward. "Let's dance and dine" is the oath and spell of the sword, facing inward towards the thigh.
+The blade is a light two-handed broken-back langseax, with a blade of anywhere from 20-26". The break should be roughly half way down the blade, making the tip extremely fast and maneuverable. The blade should basically be a light variant of the Little Bealings langseax.
 
-+ Name/Title:
-Old English: Mōnanleoht ᛬ Beado-Hleaper
-Literal Meaning: "Moonlight the Battle-Dancer"
-Runes: ᛗᚩᚾᚪᚾᛚᛖᚩᚻᛏ ᛬ ᛒᛡᚪᛞᚩᚻᛚᛡᚪᛗᛡᚱ
-Pronunciation: MOH-nahn-lay-okht [pause] BEH-ah-doe HLAY-ah-per
+There should be no fullers or inscriptions on the blade. The blade has no adornment or inscriptions... how can you scratch the skin of the redcap himself? He would most... put out, and start to question your vintage.
 
-+ The Ward
-Old English: "Uton be-stelan and dēof"
-Literal Meaning: "Let's dance and die"
-Runes: ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛞᛠᚠ
-Pronunciation: "OO-ton beh-STEL-an and DAY-of"
+##### Handle Construction
 
-+ The Spell
-Old English: "Uton be-stelan and etan"
-Literal Meaning: "Let's dance and dine"
-Runes: ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛖᛏᚪᚾ
-Pronunciation: "OO-ton beh-STEL-an and ET-an"
+The handle should two-handed, to have maximum tip-control, since it is both sharp and ultra-stabby. It should also be very, very grippy. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping black leather lace, spiralled or braid-wrapped with just enough 15n20 guard and pommel to counter-balance the thinner blade.
+
+This time, the name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. The runes should traverse the guard and pommel as if they are in mid-dance, each rune slightly askew angle-wise of what would be it's normal scripture-line. 
+
+##### Scabbard Construction
+
+The scabbard should be standard sheepskin-lined wooden core, with leather wrap.
+
+This blade is about style, and the scabbard should represent that. The scabbard sides should look almost identical, and have flowing lines and inscriptions. The runic inscriptions are identical except for the last word. Both sides should have flowing elaborate decoration, signifying a dance. "Let's dance and die", belongs on the outside as a ward. "Let's dance and dine" is the oath and spell of the sword, facing inward towards the thigh.
+
+
+| Location | Function | Old English | Futhorc Runes | Pronunciation | Meaning |
+| -------- | -------- | ----------- | ------------- | ------------- | ------- |
+| Guard Top | Name | Mōnanleoht | ```ᛗᚩᚾᚪᚾᛚᛖᚩᚻᛏ``` | MOH-nahn-lay-okht | Moonlight |
+| Pommel Bottom | Title | Beado-Hleaper | ```ᛒᛡᚪᛞᚩᚻᛚᛡᚪᛗᛡᚱ``` | BEH-ah-doe HLAY-ah-per | Battle-Dancer |
+| Scabbard Obverse (Outward) | Ward | Uton be-stelan and dēof | ```ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛞᛠᚠ``` | OO-ton beh-STEL-an and DAY-o | Let's dance and die |
+| Scabbard Reverse (Inward) | Spell | Uton be-stelan and etan | ```ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛖᛏᚪᚾ``` | OO-ton beh-STEL-an and ET-an" | Let's dance and dine |
 
 
 ### History
@@ -143,30 +143,29 @@ King Olaf Guthfrithson ruled a fractured dual-kingdom bridging Dublin (Ireland) 
 
 In the late autumn of 940 AD, the lightning invasion launched by Olaf Guthfrithson mutated from a sprawling, predatory blitzkrieg into a desperate, claustrophobic retreat behind the ancient stone walls of Leicester. The shift from open-field conquest to a panicked winter lockdown was driven by overextended supply lines, a catastrophic check at Northampton, and the rapid mobilization of the southern Saxons.The chronological campaign collapse unfolded across four distinct tactical phases:
 
-1. *The Death of Æthelstan and the Blitzkrieg* - When King Æthelstan died unexpectedly in late 939 AD, the fragile peace keeping the Viking factions at bay vaporized. Olaf Guthfrithson immediately crossed the Irish Sea from Dublin, slipped into York, and unified the fickle Northumbrian lords under his banner. Keen to reclaim the old boundaries of the York kingdom, Olaf moved south into Mercia in early 940 AD with terrifying speed, leading a massive, mobile strike force of Ulfhednar veterans and Danish horse-raiders deep into the English heartland.
+##### 1.The Death of Æthelstan and the Blitzkrieg
+When King Æthelstan died unexpectedly in late 939 AD, the fragile peace keeping the Viking factions at bay vaporized. Olaf Guthfrithson immediately crossed the Irish Sea from Dublin, slipped into York, and unified the fickle Northumbrian lords under his banner. Keen to reclaim the old boundaries of the York kingdom, Olaf moved south into Mercia in early 940 AD with terrifying speed, leading a massive, mobile strike force of Ulfhednar veterans and Danish horse-raiders deep into the English heartland.
 
-2. *The Overextension and the Bloody Nose at Northampton* - Olaf's initial strategy relied entirely on fear, momentum, and the assumption that the new 18-year-old Saxon King, Edmund I, would be too inexperienced to mount a defense. Guthfrithson marched his raven-banners all the way down to Northampton, intending to smash the borough and establish a permanent southern foothold. However, Olaf drastically miscalculated the local resistance. Northampton’s fortified burh garrison held the line with brutal, unexpected tenacity. The assault failed miserably, giving the Vikings a severe "bloody nose" and shattering their aura of invincibility. Worse, the delay at Northampton allowed the local Mercian fyrdmen to recover from their panic and begin aggressively mobilizing across the frontier.
+##### 2. The Overextension and the Bloody Nose at Northampton
+Olaf's initial strategy relied entirely on fear, momentum, and the assumption that the new 18-year-old Saxon King, Edmund I, would be too inexperienced to mount a defense. Guthfrithson marched his raven-banners all the way down to Northampton, intending to smash the borough and establish a permanent southern foothold. However, Olaf drastically miscalculated the local resistance. Northampton’s fortified burh garrison held the line with brutal, unexpected tenacity. The assault failed miserably, giving the Vikings a severe "bloody nose" and shattering their aura of invincibility. Worse, the delay at Northampton allowed the local Mercian fyrdmen to recover from their panic and begin aggressively mobilizing across the frontier.
 
-3. *The Desperate Plunder of Tamworth* - Realizing he had overextended his lines and lost the element of surprise, Olaf violently pivoted west. He launched a vengeful, localized counter-strike against Tamworth — the ancient, symbolic royal seat of the Mercian kings. The Vikings took the town by storm, executing a horrific, high-casualty sack to secure massive amounts of silver and immediate winter provisions.But the victory at Tamworth was a strategic trap. The heavy plunder, captured livestock, and wagon-loads of stolen grain severely slowed the army’s mobility just as the volatile autumn weather began to turn.
+##### 3. The Desperate Plunder of Tamworth
+Realizing he had overextended his lines and lost the element of surprise, Olaf violently pivoted west. He launched a vengeful, localized counter-strike against Tamworth — the ancient, symbolic royal seat of the Mercian kings. The Vikings took the town by storm, executing a horrific, high-casualty sack to secure massive amounts of silver and immediate winter provisions.But the victory at Tamworth was a strategic trap. The heavy plunder, captured livestock, and wagon-loads of stolen grain severely slowed the army’s mobility just as the volatile autumn weather began to turn.
 
-4. *The Trap Snaps: The Hasty Retreat into Leicester* - While Olaf’s men were busy looting Tamworth, the young King Edmund completed his southern mobilization and marched a massive West Saxon warhost north with relentless speed. Scouts brought word to Guthfrithson that his retreat route north to York was about to be completely cut off by the advancing Saxon pincer.Caught in a dangerous tactical pocket—with an angry, mobilizing Mercian population at his back, a massive royal army racing up the road, and heavy baggage trains dragging through the freezing mud—Olaf abandoned his plans for open-field conquest. He executed a frantic, hasty retreat to the nearest defensible shelter: the old Roman borough of Leicester.The Vikings slammed the massive oaken gates shut and dug into the crumbling Roman masonry just as the historic, surreal deep freeze of late 940 AD locked the earth into iron. They had successfully survived the immediate Saxon trap, but their blitzkrieg was dead—leaving them isolated, running out of wood, and forced to hole up for a brutal winter inside a hostile city.
+##### 4. The Trap Snaps: The Hasty Retreat into Leicester
+While Olaf’s men were busy looting Tamworth, the young King Edmund completed his southern mobilization and marched a massive West Saxon warhost north with relentless speed. Scouts brought word to Guthfrithson that his retreat route north to York was about to be completely cut off by the advancing Saxon pincer.Caught in a dangerous tactical pocket—with an angry, mobilizing Mercian population at his back, a massive royal army racing up the road, and heavy baggage trains dragging through the freezing mud—Olaf abandoned his plans for open-field conquest. He executed a frantic, hasty retreat to the nearest defensible shelter: the old Roman borough of Leicester.The Vikings slammed the massive oaken gates shut and dug into the crumbling Roman masonry just as the historic, surreal deep freeze of late 940 AD locked the earth into iron. They had successfully survived the immediate Saxon trap, but their blitzkrieg was dead—leaving them isolated, running out of wood, and forced to hole up for a brutal winter inside a hostile city.
 
 
-By Spring 941, the Saxons had begun The Encirclement, and were actively trying to choke the Vikings out of Leicester and bleed them dry. They called on allies wherever they could, for two reasons:
-
-1. to keep the Vikings from breaking through and marching again, and
-
-2. to keep reinforcments from York from exploiting the Saxons' flanks
+By Spring 941, the Saxons had begun The Encirclement, and were actively trying to choke the Vikings out of Leicester and bleed them dry. They called on allies wherever they could. They needed to keep the Vikings from breaking out, and they needed to keep reinforcements from York from exploiting the Saxons flanks.
 
 The Saxons drew into its army a hodgepodge from quickly formed units from Mercia, and mercenary units from Northumbria, such as Osric's fyrd, loaned for a favor-payment.
 
-Unfortunately for the Saxons, they didn't mobilize quickly enough when fyrdmen are part of the military. The peace of 941 was borne out of desperation... farmers needed to get back to the spring planting. The bishops knew this.
-
-The cold had ruined farmsteads, and the ugly process of rebuilding had to begin. Reeves like Galindo would've looked at the situation of the fyrd wagon train with pure math. The farmers needed to get back ASAP for the planting, and they couldn't wait even hours for a wagon train.
+Unfortunately for the Saxons, they didn't mobilize quickly enough when fyrdmen are part of the military. The peace of 941 was borne out of desperation... farmers needed to get back to the spring planting. The bishops knew this. The cold had ruined farmsteads, and the ugly process of rebuilding had to begin. Reeves like Galindo would've looked at the situation of the fyrd wagon train with pure math. The farmers needed to get back ASAP for the planting, and they couldn't wait even hours for a wagon train.
 
 The peace deal had an interesting clause that the armies of both sides didn't really appreciate... the Five Burroughs of the Danelaw would be permanently given to King Olaf Guthfrithson if he outlived King Edmund I. If not, upon Olaf's death, the Danelaw would be given back to the Saxons. The Bishops of York and Canterbury who negotiated the deal knew that peace wasn't going to last, and there would be reprisals. So, they believed they were letting God settle the matter.
 
 As it turns out, Olaf died roughly six months later, ironically during a botched raid into northern territory. The Danelaw permanently dismantled, and Saxon law reigned.
+
 
 #### Agency of Magical Artifacts
 
