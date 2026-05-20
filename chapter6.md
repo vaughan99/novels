@@ -4,19 +4,19 @@ The freezing slush of the East Midlands was a slow-killing beast. For the fifth 
 
 The mud here was a thick, sucking soup mixed with late-spring snow, thick enough to pull iron-bound wheels clean off their pins and snap seasoned ash wood like dry twigs.
 
-Reeve Galindo sat high on his noble Andalusian horse, his silken coat speckled with cold grease. He looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
+Reeve Galindo sat high on his noble Andalusian horse, his silken coat speckled with the spitefulness of the road. He looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
 
 "My lord reeve, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted sword. "The Ulfhednar did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "That - is - why - you - were - hired! These men will not die... we've hired you!"
 
 Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for the help, but you have to know those wolf-types are a hard lot. I'd trust the Devil to grow a halo before I trust them to keep peace."
 
-The Reeve ignored him. He turned his horse’s head, tapped his southern stirrups, and led the main body of the fyrd away into the gathering dusk. That left a sparse, hollow rearguard to manage the struggle: Murdock the short Scottish wagon-master, Osric the hollowed-out Northumbrian farmer, Cynewulf, Elswyth, two bruised men from Cynewulf’s spent mercenary band, three trembling thrall-slaves, and six weary fyrdmen whose shields were soft with dry-rot.
+The Reeve ignored them both. He turned his horse’s head, tapped his southern stirrups, and led the main body of the fyrd away into the gathering dusk. That left a sparse, hollow rearguard to manage the struggle: Murdock the short Scottish wagon-master, Osric the hollowed-out Northumbrian farmer, Cynewulf, Elswyth, two bruised men from Cynewulf’s spent mercenary band, three trembling thrall-slaves, and six weary fyrdmen whose shields were soft with dry-rot.
 
 Osric dropped a heavy, splintered piece of oak into the slush, his hands shaking from numbing cold, hunger, and the lingering ache of the goblin-sickness. He wiped the cold sweat from his brow and looked at Murdock. "The spares are spent, master," Osric reported, his voice flat with exhaustion. "We are out of axles. The last seasoned beam snapped when the left cart took the ditch. "
 
 Elswyth stirred forward towards the conversation, to get a better ear for it. Cynewulf tracked her, and it clicked how he knew her. "Murdock! This one! The girl! She lives on the edge of the forest. She knows the trees. She makes coal on the edges, at the hill's bottom."
 
-Murdock side-stared Elswyth, knowing that his full glare was a snare only for stronger animals. "Is this true, lass? You know the darkwood well enough for axle-timber?" he asked, his voice taking a slightly softer edge than average. She nodded, but didn't say a word. "Well, we'd best keep you here then. 
+Murdock side-stared Elswyth, knowing that his full glare was a snare only for stronger animals. "Is this true, lass? You know the darkwood well enough for axle-timber?" he asked, his voice taking a slightly softer edge than average. She nodded, but didn't say a word. "Well, we'd best keep you here then." She didn't fight it, but she'd rather have been far away from here.
 
 Osric smiled... if but for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light."
 
@@ -26,7 +26,7 @@ He stepped into the center of the stalled host, his voice cracking like a whip. 
 
 The men grappled the heavy baggage boxes, stacking them beneath the wagon beds to block the gaps. Osric and Cynewulf worked side by side, their movements heavy and full of unspoken dread. They both knew the truth of the night. A cart-fort was a fine thing against common highwaymen, but Ulfhednar are hunters of better craft.
 
-Elswyth stood near the edge of the line, her cowl pulled tight against her soot-stained cheeks. She looked out toward the dark, whispering canopy of the forest, then down at the ruined Roman vaults where the stagnant rainwater shone like black glass. The forest was her home, but tonight, the forest was bit further walk than she thought safe. She chose the wood-staves and spears over the shadows. Slipping over the tail-gate, she decided to stay inside the wagon-fort, huddling beneath a heavy wool blanket by the central axle.
+Elswyth stood near the edge of the line, her cowl pulled tight against her soot-stained cheeks. She looked out toward the dark, patient canopy of the forest, then down at the ruined Roman vaults where the stagnant rainwater shone like black glass. Slipping over the tail-gate, she decided to stay inside the wagon-fort, huddling beneath a heavy wool blanket by the central axle.
 
 Night descended like a heavy iron lid. Murdock set the watches, placing Cynewulf’s two mercenaries at the northern gap and three fyrdmen by the oxen lines. The environment went dead, horribly quiet. The steady rain had ceased, leaving nothing but a thick, choking fog that muffled the sound of the stamping hooves. The only light was a single, guttering torch mounted on Murdock’s central cart.
 
@@ -42,15 +42,15 @@ The oxen cleared the gap, trampling down the road into the town, and before the 
 
 Osric stood in the breach, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole, but it didn't last long. A veteran Ulfhednar lunged at him, a broad-axe swinging low. Osric parried with the pole, but the ash wood sheared in two with a single, mocking crack.
 
-The fight was useless. The fyrdmen around him were being hacked down in their tracks. Osric dropped the broken stick. The Ulfhednar had advanced so quickly into the breach, that he slipped past through the breach. He ran for his life, lunging back through the dark alleys of the Roman market. The moon was full, and offered just enough light to navigate the maze. As he ran, he heard hard steps behind him, and he knew he was being chased.
+The fight was useless. The fyrdmen around him were being hacked down in their tracks. Osric dropped the broken stick. The Ulfhednar had advanced so quickly into the breach, that he slipped past them through to the other side. He ran for his life, lunging back through the dark alleys of the Roman market. The moon was full, and offered just enough light to navigate the maze. As he ran, he heard hard steps behind him, and he knew he was being chased.
 
 Then he heard... A child's giggle. High and playful, it echoed from a narrow stone cellar-mouth to his left. The giggle whispered instructions. "Quickly! Here!" He followed the voice instinctively, without thinking. Osric stumbled into a half-building home of an ancient forge. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze put forth a heavy, flickering orange light. The new light illuminated the outline of an anvil, atop it a simple hearth broadseax in a stout iron-bound scabbard with writing on the side. It was Fyrleoht, the Hearth-Watcher, and it was waiting for him.
 
-Elswyth knew she was no warrior. She didn't even bother with her small handseax... she needed both hands for her sprint. As the first wolf-man leaped into the fort, she scrambled over the opposite side of the baggage cart, dropping down into the deep mud. She saw Osric break for the ruins and, with no other choice, she followed his shadow into the stone maze.
+Elswyth knew she was no warrior. She didn't even bother with her small handseax... she needed both hands for her sprint. As the first wolf-man leaped into the fort, she scrambled over the opposite side of the baggage cart, dropping down into the deep mud. She saw Osric break for the ruins and, with few good options, she followed his shadow into the stone maze. She knew an exit on the outskirts that led her back to home.
 
 As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path deviated from Osric's, which led her past a narrow stone aqueduct into a Roman cistern and bath-house. A giggling child voice called to her, "Down! Here!". She stopped in bewilderment, if but for a brief second. The aqueduct was dark, and the building was partially collapsed, which would offer many hiding places. She slid in.
 
-The aqueduct was wet and slimy from centuries of algae. Elswyth slid helplessly down a smooth, stone chute until she landed with a heavy splash in the ancient moonlit cistern. It was a vast, underground chamber filled with rainwater up to her hips. Beyond was the bathhouse, built with cracked Roman tile.
+The aqueduct was wet and slimy from centuries of algae. Elswyth slid helplessly down a smooth, stone chute until she landed with a heavy splash in the ancient moonlit cistern, the cold of the water a poorly-held secret that screamed at her body. It was a vast, underground chamber filled with rainwater up to her hips. Beyond was the bathhouse, built with cracked Roman tile.
 
 She waded through the near-freezing water, each splash stealing air from her lungs. The pool led to steps, which climbed up into the bathhouse. The ceiling was collapsed in parts, and the night sky was visible. The floor of the bathhouse was cracked marble tile, built on moist clay.
 
