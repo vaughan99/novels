@@ -1,20 +1,20 @@
 ## Chapter 7: The Hearth-Watcher
 
-The air in the subterranean forge was thick, heavy with the scent of undisturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the deep, ambient crucible glow of the Cynn’s work from that very afternoon, bathing the room in a heavy, flickering orange light and casting long, monstrous shadows behind the columns.
+The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the deep, ambient crucible glow of the Cynn’s work from that very afternoon. The glow bathed the room in a heavy, flickering orange light and casting long, monstrous shadows behind the columns.
 
-His fingers, cracked and raw from digging axles from mud, clutched the remaining half of his charred campfire stick. It was a pathetic defense.Outside, the stone maze of the old forum market echoed with the heavy, calculated crunch of iron-nailed boots. Three veteran Ulfhednar stepped through the collapsed archway of the smithy, their shapes silhouetted against the dim orange glow. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.
+His fingers, cracked and raw from digging axles from mud, clutched nothing. The char-stick was long gone. Outside, the stone maze of the old forum market echoed with the heavy, calculated crunch of iron-nailed boots. Three veteran Ulfhednar stepped through the collapsed archway of the smithy, their shapes silhouetted against the dim orange glow. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.
 
 Their hand-axes glinted with a dull, murderous light. Osric’s heart hammered against his hollowed ribs. He was starving, shivering from the lingering rot of the goblin-sickness, and completely spent. He wanted to lie down in the dirt. He wanted the cold night to finally take him so he could join Ealhild and the children in the soft snow.
 
-Then, the forge erupted in a yellow angry heat. The new light illuminated the outline of an anvil, atop it a simple hearth broadseax in a stout iron-bound scabbard with writing on the side. This was no mere kitchen-blade... this kind was familiar, two-handed, thick, useful. His father used one instead of the axe, for felling wood-limbs and performing the fall butchery.
+Then, the forge erupted in a yellow angry heat. The new light illuminated the outline of an anvil, atop it a simple hearth broadseax in a stout iron-bound scabbard with no adornment. As plain as it appeared, this was no mere kitchen-blade... this kind was familiar, two-handed, thick, useful. His father used one instead of the axe, for felling wood-limbs and performing the fall butchery.
 
-Osric did not know why his feet moved. Guided by a phantom pull that seemed to vibrate through the very soles of his boots, he dropped the charred stick and stumbled toward the iron. His hand closed around the hilt of Fyrleoht. Osric pulled Fyrleoht from the scabbard, and his mind was instantly caught in the warm-sleep.
+The broadseax called to him... not literally, but he *knew* it, as if it hung from his father's belt when he was just a child. His hand closed around the hilt of Fyrleoht, and it felt *known*. *Welcomed*. 
 
-Time froze.
+Osric pulled Fyrleoht from the scabbard, and his mind was instantly caught in the warm-sleep. Time froze.
 
 The damp, soot-stained walls of the Roman ruin vanished, and he was thrust back in time to his cottage. The hearth was warm, blazing with a gentle, crackling light. Ealhild's embrace was warmer still, her arms wrapping around his broad shoulders, and the sweet, bright laughing of his children echoed through his ears. The rich, heavy smell of the harvest was cooking over the flames. Ealhild's fingers ran up and down his arm, soothing him into stillness.
 
-"My love, I will guard the fires of the hearth," she whispered against his neck. "You must defend the home. The fyrd needs you, as we do. It's time to man the wall." 
+"My love, I will guard the fires of the hearth," she whispered against his neck. "You must defend the home. The fyrd needs you, as we do. It's time to hold the gate." 
 
 Time violently resumed.
 
@@ -26,9 +26,9 @@ The blade bit into the forearm of the Viking, and the metal instantly became an 
 
 The ice had flared up the Viking's arm, but to Osric, the blade had drawn the heat through the blade... into him. The warmth of Ealhild's embrace flashed across his chest. The taste of honey-oat cakes briefly touched his lips. The smell of mutton-roast as on the air. His strength was restored, if but a bit.
 
-But there was no time to celebrate the broken line, as the second Viking arrived like a hammer. Sensing that this tall Northumbrian was hollowed by hunger and lacked true physical strength, the second Ulfhednar lunged forward into a brutal, low-driving tackle. His iron-clad shoulders aimed directly for Osric's hips, intending to crush the farmer against the stone floor before the broadseax could swing back.The Dane hit with the full force of a charging boar, his arms wrapping tightly around Osric’s thighs.
+But there was no time to celebrate the broken line, as the second Viking arrived like a hammer. Sensing that this tall Northumbrian was hollowed by hunger and lacked true physical strength, the second Ulfhednar lunged forward into a brutal, low-driving tackle. His iron-clad shoulders aimed directly for Osric's hips, intending to crush the farmer against the stone floor before the broadseax could swing back. The Dane hit with the full force of a charging boar, his arms wrapping tightly around Osric’s thighs.
 
-But the smiths of the Cynn had secured a stone from Osric's river-rock fireplace directly into the pommel. The hearth-wall stood strong. The moment the Dane’s weight slammed into him, the heavy blade dropped Osric's center of gravity straight into the bedrock of the ancient Roman foundations. Osric did not fly backward. He did not buckle.
+But the smiths of the Cynn had secured a stone from Osric's river-rock fireplace directly into the pommel. The hearth-wall stood strong. The moment the Dane’s weight slammed into him, the blade summoned the hearth's weight to reinforce his,  straight through to the bedrock of the ancient Roman foundations. Osric did not fly backward. He did not buckle. In face, he barely felt it.
 
 The tackle was met with stone. The Viking hit him and rebounded with a dull, sickening thud, as if he had driven his shoulders full-force into a massive, deep-rooted stone block. As the tackled Dane stumbled sideways, Osric brought the broadseax around in a frantic, awkward hacking motion, aiming for the man's exposed flank.
 

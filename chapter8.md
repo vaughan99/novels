@@ -12,7 +12,7 @@ He cut her off mid-sentence with a high-theatrical mocking whine.
 
 "Oh, boo, hoo, hoooooo! *A murder-gnome's trying to drain my trunk-blood and chew my bones!!!* Stop your quibblin' and gibblin'! There's no time. I'm to... teach... you... how to fight. Blech... I still can't believe this. Of all the mud-muckin', bone-stealin', grub-mushin' things those slag-brained smithy-ticks *could* have thought up, they thought it would *be funny* to trap me in this blade, to teach *a little girl* how to **PLAY WAR**! The monstrosity! The temerity! Those smelt-pot-scraping soul-slackers will rue... the... moon-day that they thought this up."
 
-Elswyth's confidence flagged. "I can't do this! I've never done this! I've seen the fyrds train, but I've never held a sword."
+Elswyth's confidence flagged. "I can't do this! I've never done... this! I've seen the fyrds train, but I've never held a sword."
 
 The redcap's tone dropped into one of pure, mocking dejection.
 
@@ -121,7 +121,7 @@ Elswyth dove to his feet, and rolled. He tripped over her torso, and crashed int
 
 The crash had brought him to his knees. In one fluid motion, he stood and wheeled around, angered by her move. Elswyth had by then picked herself up off the ground and leveled her feet. She finally had space to operate again.
 
-The Viking decided on a deadly feint. He cocked his right arm back, hoisting his hand-axe high for a devastating, winding swing aimed at her left shoulder. It was a threat meant to force her guard upward. But as her attention tracked the steel, he violently pivoted his torso, tilting his shield horizontally and driving the sharp bottom-edge of the rim straight at the opposite side of her face. The Redcap wasn't fooled by the high iron.
+The Viking decided on a deadly feint. He cocked his right arm back, hoisting his hand-axe high for a devastating, winding swing aimed at her left shoulder. It was a threat meant to force her guard sideways. But as her attention tracked the steel, he violently pivoted his torso, tilting his shield horizontally and driving the sharp bottom-edge of the rim straight at the opposite side of her face. The Redcap wasn't fooled by the high iron.
 
 ```
 Axe is high to cheat the eye,
@@ -156,7 +156,7 @@ Step right now, and coil the spring,
 Drop the knee of castled king!
 ```
 
-Elsywth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Mōnanlīeht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the leather hilt sticking right up out of his ruined boot. The voice in her head snapped shut like a trap, demanding the harvest be finished:
+Elsywth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Mōnanlīeht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the leather hilt sticking right up out of his ruined boot. The voice in her head snapped shut like a trap, demanding the harvest be finished:
 
 ```
 Take iron from the leather,
@@ -180,10 +180,29 @@ Blood to tile, and none for thee!
 ```
 
 "
-Oh meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! for the hogs-head of the feast! 
+Oh meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast! 
 "
 
-Wolfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay. The Ulfhednar chief's muscles swelled beneath his furs, shifting his wide center of gravity as he prepared to deliver a world-shattering cleave.
+Wolfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
+
+"You... girl from darkwood... I know you. The wolf has caught your scent again," Wolfhere taunted. He smiled confidently. Nobody had bested him in a tactical fight, not even Rognvaldr.
+
+"I'm... not afraid... of you," Elswyth stammered.
+
+But the redcap saw the Ulfhednar he *had* been after that day, 11 years ago, before he stumbled on Elswyth in the log-hollow.
+
+```
+Tap the cask and slice the meat!
+What a strapping, heavy treat!
+Eleven winters since the day,
+I spied him, chased him, to your way!
+I could not steer this boasting buck,
+But to you drove me, what luck!
+Tempt him, sway him, come to play,
+I'll have him now for lunch... today!
+```
+
+The Ulfhednar chief's muscles swelled beneath his furs, shifting his wide bearance as he prepared to deliver a world-shattering cleave.
 
 But the Redcap's eyes widened with glee.
 

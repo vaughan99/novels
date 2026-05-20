@@ -154,7 +154,7 @@ It was a squall so vicious, it was stitched from uncountable pieces of broken so
 
 It first hit the bells themselves, ringing eerily into the night to announce the coming doom.
 
-Rognvaldr's axe could not fight against it. Pinned in mid-air, the giant's eyes filled with white, reflecting the spectral monstrosity screaming toward him.
+Rognvaldr's sword could not fight against it. Pinned in mid-air, the giant's eyes filled with white, reflecting the spectral monstrosity screaming toward him.
 
 The Hate swept over him like a breaking wave. The giant rolled in the ethereal current, careening head-over-toe five times across the cobblestones as the host of talons and mouths slashed, chewed, and screamed. Bones broke. His mind split from the sheer, unyielding chaos. He tried to let out a final war-howl, but he heard no sound other than a thousand hungry voices ripping into his thoughts. Every limb was eaten; every morsel devoured. He was... unmade.
 
@@ -196,7 +196,9 @@ The frantic ringing of the bells had awakened the townspeople. Down the hill, to
 
 Cynewulf heard them coming. His first mercenary instinct was to run, to hide his face in the shadows. But he was tired of running.
 
-First came the priests and church-wardens from the priest-homes. A small cluster of elderly villagers and a stout blacksmith burst through the churchyard gate, their torches casting a harsh, dancing orange light across the stone steps. They stopped dead in their tracks. Their eyes darted from the spray of black blood to the massive, hollowed patchwork armor of the giant lying flat in the mud.
+First came the church-wardens and clergy, fully-clothed with candles in hand, from the priest-homes. They were followers of the Rule of Saint Benedict, to sleep fully clothed. Then clusters of townsolk mustered onto the road to the church, demanding to know why the bells rang at night. A stout blacksmith and two town-guards came running, their torches casting a harsh, dancing orange light across the stone steps. All of them stopped dead in their tracks. Their eyes darted from the spray of black blood to the massive, hollowed patchwork armor of the giant lying flat in the mud. There arose a cloud of whispers.
+
+It was clear... there was only one witness to the event.
 
 Then, the blacksmith raised his torch, the light falling directly across Cynewulf’s weathered, scarred face. The old man gasped, his grip loosening on his iron club. He didn't see a calloused highwayman or a brutal mercenary of the rearguard. He looked into the priest's eyes and stepped forward, his voice trembling with a sudden, reverent awe.
 

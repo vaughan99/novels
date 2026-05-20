@@ -22,7 +22,7 @@ The hob dropped his barrel-pack onto the dirt floor with a heavy, metallic clatt
 
 Behind him, on the floor, his oil-string suddenly stopped its frantic dancing. It went completely slack, lying motionless on the floor like a dead snake.
 
-From somewhere inside the solid wall, a tiny, wet sound broke the silence. A child’s giggle. "He brought them," said one. "I spy a child's toy," said another. "Tools of the kitchen!" said a third. "I smell her herbs!" cried a fourth, the voices coming from all the corners, competing with each other. There were many, and their voices found all the items, as if they had dark fingers in the barrel poking through them all.
+From somewhere inside the solid wall, a tiny sound broke the silence. A child’s giggle. "He brought them," said one. "I spy a child's toy," said another. "Tools of the kitchen!" said a third. "I smell her herbs!" cried a fourth, the voices coming from all the corners, competing with each other. There were many, and their voices found all the items, as if they had dark fingers in the barrel poking through them all.
 
 The hob dropped to his knees, and the giggles and exclamations went silent. They knew what came next, and they knew the sacrifice was grim. The hob took the oil string, and tied his hand to the bellows. He gave a few breath-tests, and the cloud of dust filled the air. "I am ready," said the hob.
 
@@ -62,7 +62,11 @@ Hugrinn: "Quiet! The bellows need new hands. If they fit a hob's hand, I wonder 
 
 The hob had barely vanished before the prisoner arrived.
 
-A new anvil thrust up from the cobble-stones. It was waiting for its next blade. The barrel tipped and spilled its old quench-oil into a gutter. More oil filled the space, same as before. A marten skin of white and silver danced through the door. Next, a clay pipe entered, being smoked by invisible lungs. A gnome's cap entered next. One by one, they dropped into the fresh oil.
+A new anvil thrust up from the cobble-stones. It was waiting for its next blade. The barrel tipped and spilled its old quench-oil into a gutter. More oil filled the space, same as before.
+
+A marten skin of white and silver danced through the door. It was kept separate, held in midair not daring to touch a thing.
+
+Next, a clay pipe entered, being smoked by invisible lungs. A gnome's cap entered next, now red in the forge's true light. Redcap mushrooms in a basket. One by one, they dropped into the fresh oil.
 
 The redcap did not kneel, nor did he come by choice. Invisible currents dragged him kicking through the soot, his small, muscular frame writhing against a thick, poisonous cord of woven deathcap mushrooms that bound his arms to his chest. The pale fungal caps bruised against his leather jerkin, leaking a milky, toxic sap into the air. His mouth was filled with mushrooms.
 
@@ -82,7 +86,7 @@ The voices stopped, as if waiting. Then they cried out in a cascade.
 
 "Give him the deep-iron!" a hundred voices chirped in overlapping sequence.
 
-"Let the blade taste his spit. We have a dark cage to build, and the steel needs to be mean."
+"Let the blade taste his spit. We have a cage to build, and the steel needs to be mean."
 
 A billet of curious steel emerged from the wall and landed in the forge. 
 
