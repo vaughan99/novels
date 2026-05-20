@@ -90,17 +90,17 @@ Cynewulf's warband was a mercenary in the battle on the Saxon side, and it was h
 
 ---
 
-Hugrinn: "Look brother, the hollowed out priest is back to the hollowed out town! His church bells now ring for the raven-feast!"
+Huginn: "Look brother, the hollowed out priest is back to the hollowed out town! His church bells now ring for the raven-feast!"
 
-Muninn: "Ravens saved their hunger Hugrinn. The night had more blood, remember?"
+Muninn: "Ravens saved their hunger Huginn. The night had more blood, remember?"
 
-Hugrinn: "Yes, but the sound I hear are the bells, and now they're calling a new tune. The giggle-song of the forge-elves has found its breath. Do you hear them, Muninn?"
+Huginn: "Yes, but the sound I hear are the bells, and now they're calling a new tune. The giggle-song of the forge-elves has found its breath. Do you hear them, Muninn?"
 
 Muninn: "I hear the silver-song. Not the lacking coins in the priest's purse, but the chime of the deep-iron calling to its kin. The Cynn are waking once more in the shadow of the Hill."
 
-Hugrinn: "Listen! High and sharp, like a needle through a shroud. That isn't the wind in the Leicester eaves... it’s the child-giggles of the makers. They're whistling while..."
+Huginn: "Listen! High and sharp, like a needle through a shroud. That isn't the wind in the Leicester eaves... it’s the child-giggles of the makers. They're whistling while..."
 
-Muninn: "'they work'??? Really Hugrinn? They're not dwarves in a fairy-tale."
+Muninn: "'they work'??? Really Huginn? They're not dwarves in a fairy-tale."
 
-Hugrinn: "They are forge-masters at play. And play-time has begun."
+Huginn: "They are forge-masters at play. And play-time has begun."
 

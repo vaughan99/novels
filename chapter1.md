@@ -20,9 +20,11 @@ High above, on a ruined stone wall, a tall and proud Viking war-band leader stud
 
 The Vikings filed forward past the lines and finally the baggage train of the Saxons. Wulfhere, ever an eye of the hunter, spotted the wagons and their guardians. His keen eye pushed past the broken horse-carts and saw the true nature of the Saxon rearguard. His eyes then fell on Elswyth.
 
-She sensed his eyes on her, and quickly moved to avoid eye contact. But it was a look of recognition, in both directions. He knew the smell of the charcoal and the look of a girl he had seen before. The other Vikings laughed and joked at the state of the Saxons and Northumbrian mercenary fyrd as they passed by. Vikings were often blind to their own state, for they carried no excuses for themselves. Instead, they carried on with their merry advance on the Boroughs. But not Wulfhere. He was studying, and now he finally liked what he saw.
+She sensed his eyes on her, and quickly moved to avoid eye contact. But it was a look of recognition, in both directions. He knew the smell of the charcoal and the look of a girl he had seen before.
 
-"Move along, wolf-men. Our quarrels are buried," said Cynewulf, trying to ensure a fight does not break out. He knew that a fight in the open with Ulfhednar is not a fight easily won. Many would die that day if peace was not kept. One of the wolfmen jumped to Cynewulf standing toe-to-toe, with a wide grin. He smiled, knowing that Cynewulf's leash was the parchment. The wolfman howled, the sound a wet, guttural spray against Cynewulf's cheek. Cynewulf didn't blink. He just stared through the man, his eyes as flat and grey as the Leicester mud.
+The other Vikings laughed and joked at the state of the Saxons and Northumbrian mercenary fyrd as they passed by. Vikings were often blind to their own state, for they carried no excuses for themselves. Instead, they carried on with their merry advance on the Boroughs. But not Wulfhere. He was studying, and now he finally liked what he saw.
+
+"Move along, wolf-men. Our quarrels are buried," said Cynewulf, trying to ensure a fight did not break out. He knew that a fight in the open with Ulfhednar is not a fight easily won. Many would die that day if peace was not kept. One of the wolfmen jumped to Cynewulf standing toe-to-toe, with a wide grin. He smiled, knowing that Cynewulf's leash was the parchment. The wolfman howled, the sound a wet, guttural spray against Cynewulf's cheek. Cynewulf didn't blink. He just stared through the man, his eyes as flat and grey as the Leicester mud.
 
 After traveling a short distance, Wulfhere gathered his Ulfhednar to a meeting. Among them were his best. His second-in-command was a giant, over seven feet of bone and muscle, Rognvaldr the Ragged. His frame was so large, no single mail coat could cover it. His armor served as the testament to the war-band's kills, as it was built from the pieces of armor of the fallen. The others were strong, mostly young but well-trained, eager for the treasure-pile that had once been promised.
 
@@ -30,11 +32,11 @@ After traveling a short distance, Wulfhere gathered his Ulfhednar to a meeting. 
 
 ---
 
-Hugrinn's voice is cracked. He coughs, to clear his voice. "No, wait... ahem... Valhallaaaaaaa...!!!
+Huginn's voice is cracked. He coughs, to clear his voice. "No, wait... ahem... Valhallaaaaaaa...!!!
 
-Hugrinn: "Those Ulfhednar were truly stink-foul, weren't they brother? They smelled of rancid fat and bad intentions."
+Huginn: "Those Ulfhednar were truly stink-foul, weren't they brother? They smelled of rancid fat and bad intentions."
 
-Muninn: "Bad intentions? Those don't smell. Otherwise you would be most ripe indeed. As for the Ulfhednar, they *were* our best providers you know... piles of dead warriors, Hugrinn. PILES. Our brothers would feast for moons."
+Muninn: "Bad intentions? Those don't smell. Otherwise you would be most ripe indeed. As for the Ulfhednar, they *were* our best providers you know... piles of dead warriors, Huginn. PILES. Our brothers would feast for moons."
 
-Hugrinn: "Yes, I remember it as clearly as sitting on Osric's hearthstone. Which reminds me..."
+Huginn: "Yes, I remember it as clearly as sitting on Osric's hearthstone. Which reminds me..."
 

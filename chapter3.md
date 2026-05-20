@@ -8,15 +8,15 @@ Once the charcoal was cooled, harvested, separated, and bagged, she would accomp
 
 Muninn: "Hold on brother. You're off by three whole centuries. That was the Norman name. The church was dedicated to two saints, Augustine and Columba. One from Canterbury, one from the Gaels. Never hurts to have extra spiritual insurance."
 
-Hugrinn: "Augustine and Columba! I stand corrected, brother. A two-saint wall for the price of one."
+Huginn: "Augustine and Columba! I stand corrected, brother. A two-saint wall for the price of one."
 
-Muninn: "It covered the Memory, Hugrinn. The names changed, but the stone remained."
+Muninn: "It covered the Memory, Huginn. The names changed, but the stone remained."
 
-Hugrinn: "Do you think they argued about naming rights, like football stadiums?"
+Huginn: "Do you think they argued about naming rights, like football stadiums?"
 
-Muninn: "No, Hugrinn. They didn't play football. But they did play mob ball. It used an inflated pig's bladder."
+Muninn: "No, Huginn. They didn't play football. But they did play mob ball. It used an inflated pig's bladder."
 
-Hugrinn: "Ah, mob ball! Splendid game. A hundred men screaming, broken shins, mud, and best of all... the pig didn't need its bladder anymore! Piles of discarded viscera at the goalposts. A true feast for the eyes!" 
+Huginn: "Ah, mob ball! Splendid game. A hundred men screaming, broken shins, mud, and best of all... the pig didn't need its bladder anymore! Piles of discarded viscera at the goalposts. A true feast for the eyes!" 
 
 ---
 
@@ -101,11 +101,11 @@ Find the feasting in the snare.
 
 Muninn: "Brother I must protest. Old English songs and spells DO NOT RHYME. They rely on witty use of alliteration and syllable-timing. You're making up these songs out of whole cloth, and mail."
 
-Hugrinn: "I'm... keeping it interesting... for the children. Young ears these days see the magic in rhymes. To them, the original just sounds like... words."
+Huginn: "I'm... keeping it interesting... for the children. Young ears these days see the magic in rhymes. To them, the original just sounds like... words."
 
 Muninn: "And what do you know of magic rhymes?"
 
-Hugrinn: "That they drown out boring ravens..."
+Huginn: "That they drown out boring ravens..."
 
 ---
 
@@ -144,17 +144,17 @@ Meadow-bud girl, thou art dead.
 
 ---
 
-Hugrinn looks at the children with alarm.
+Huginn looks at the children with alarm.
 
-Hugrinn: "Children, now she doesn't die at this time. She is not eaten by the redcap. I only say this because..."
+Huginn: "Children, now she doesn't die at this time. She is not eaten by the redcap. I only say this because..."
 
-Muninn: "Cah! You're stealing the air, Hugrinn... Princess Bride, REALLY? I think the children are more worried about you mixing metaphors." 
+Muninn: "Cah! You're stealing the air, Huginn... Princess Bride, REALLY? I think the children are more worried about you mixing metaphors." 
 
-Hugrinn: "Oh of course, how horrible of me, I'm so sorry..."
+Huginn: "Oh of course, how horrible of me, I'm so sorry..."
 
-Hugrinn giggled, mimicking the Grandfather of that story.
+Huginn giggled, mimicking the Grandfather of that story.
 
-Hugrinn: "The Powrie Redcap of the Gaels, brother, the Fly Agaric of the Night-North! Such heavy titles for a small spirit. It sounds like he’s trying to swallow the whole North in two bites!"
+Huginn: "The Powrie Redcap of the Gaels, brother, the Fly Agaric of the Night-North! Such heavy titles for a small spirit. It sounds like he’s trying to swallow the whole North in two bites!"
 
 Muninn: "It is a title with history. He is an older hate than the Vikings. He’s telling the Meadow-Bud that he belongs to the very stones of the North... Now let the story unfold. Enough of this modern fairy-tale interruption. Finish the redcap, and then we visit the priest! He's still waiting at the shadow-gate for his story to unfold."
 

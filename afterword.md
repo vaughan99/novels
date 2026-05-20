@@ -3,7 +3,7 @@
 
 ### Welandes Cynn (Weyland's Kin)
 
-These are the forge-elves that carry on the tradition of magical blade-making. In reality, it's just us. We're the ones creating the stories, making blades that look like the descriptions, and having fun (giggling like little children when things actually work out ok). Hugrinn makes up stories about these things we make and dream up, and tells them to imaginary children :)
+These are the forge-elves that carry on the tradition of magical blade-making. In reality, it's just us. We're the ones creating the stories, making blades that look like the descriptions, and having fun (giggling like little children when things actually work out ok). Huginn makes up stories about these things we make and dream up, and tells them to imaginary children :)
 
 I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions.
 

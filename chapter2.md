@@ -16,11 +16,11 @@ Above, Ealhild had already begun the work of boiling the elderberry syrup for th
 
 ---
 
-Hugrinn: "The goblins are waking, Muninn! They feel the lukewarm water. They’re stretching their purple limbs in the pot!"
+Huginn: "The goblins are waking, Muninn! They feel the lukewarm water. They’re stretching their purple limbs in the pot!"
 
-Muninn: "She called for a medicine, but the brew is their doom. The 'goblins' have long memory Hugrinn, and they don't forget or forgive a cold hearth. They’ll play their 'foul magic' into the blood yet."
+Muninn: "She called for a medicine, but the brew is their doom. The 'goblins' have long memory Huginn, and they don't forget or forgive a cold hearth. They’ll play their 'foul magic' into the blood yet."
 
-Hugrinn: "Even ravens skip over the goblin-sick. It's such a slow hateful malice."
+Huginn: "Even ravens skip over the goblin-sick. It's such a slow hateful malice."
 
 ---
 
@@ -46,11 +46,11 @@ Ever curious, the hob prowled their beds in the wee hours, and saw the purple st
 
 Muninn interrupts: "A hob in the cold and no home, he drags his oil-string behind him like a prison-thief carries the chain. There is no coat for this kind of soul-snow."
 
-Hugrinn: "He goes to find the forge-elves. He thinks he can bargain for something the forge-elves can give Osric. What do you think he will pay the forge-elves, Muninn?"
+Huginn: "He goes to find the forge-elves. He thinks he can bargain for something the forge-elves can give Osric. What do you think he will pay the forge-elves, Muninn?"
 
-Muninn: "A life-time, Hugrinn. A life-time of toil for the forge. His tiny hob-hands will work the bellows, will scoop the coal. His oil-string will be his bind to the bellow-handles."
+Muninn: "A life-time, Huginn. A life-time of toil for the forge. His tiny hob-hands will work the bellows, will scoop the coal. His oil-string will be his bind to the bellow-handles."
 
-Hugrinn: "That's right. The hob will not know the work of the kitchen and the pinches of oats. He will know the charcoal dust and hot ash now. Dust and ash."
+Huginn: "That's right. The hob will not know the work of the kitchen and the pinches of oats. He will know the charcoal dust and hot ash now. Dust and ash."
 
 ---
 
@@ -72,7 +72,7 @@ Galindo tilted his head to the side, then looked over Osric's shoulder to the co
 
 Osric knew this was coming. He gathered what little he could, and trudged the trail to the fyrd's clearing. There was no point in running, or even bargaining. He knew that survival now depended on staying useful to his lord, even if he had lost the trust of the fyrd.
 
-He arrived to a swell of activity. Everyone had withstood the brutal cold, all better than Osric. Nobody had time for Osric, even his neighbors and friends. The wagon-master was Murdock, a short burly Scot with a sense only for hard ale and hard-driving horses, met with Galindo, still high on horse. After a brief conversation with Galindo, Murdoch found Osric and puts him to task immediately. "The wagons must be loaded for the road. I want to see the wagons full by the time the sun sets, or there will be screams!". He grabbed Osric by the shirt and threw him towards the wagons. Osric asked about what happens if they are attacked, what he should use to defend himself from the Vikings. Murdoch replies, "I spy a pitchfork, fallen into the campfire of the night. Sharpen the coal-end stick. And there, a spent training shield. Take them before another thrall does. But don't worry, you'll be far from the fighting. And do that AFTER the wagons are loaded, not before."
+He arrived to a swell of activity. Everyone had withstood the brutal cold, all better than Osric. Nobody had time for Osric, even his neighbors and friends. The wagon-master was Murdock, a short burly Scot with a sense only for hard ale and hard-driving horses, met with Galindo, still high on horse. After a brief conversation with Galindo, Murdoch found Osric and put him to task immediately. "The wagons must be loaded for the road. I want to see the wagons full by the time the sun sets, or there will be screams!". He grabbed Osric by the shirt and threw him towards the wagons. Osric asked about what happens if they are attacked, what he should use to defend himself from the Vikings. Murdoch replies, "I spy a pitchfork, fallen into the campfire of the night. Sharpen the coal-end stick. And there, a spent training shield. Take them before another thrall does. But don't worry, you'll be far from the fighting. And do that AFTER the wagons are loaded, not before."
 
 The next morning, the wagons and the fyrd made towards Leicester for the siege. Osric walked behind, his burn-pole and spent shield like an anchor on his hollowed frame. Unbeknownst to him, the hob had returned to the cottage with a mandate from the forge-elves. He spied the chaos and death, the emptiness of the dwelling. The forge-elves had provided a barrel with a sling, and the hob had secured it with stout leather to the curve of his back.
 
@@ -88,19 +88,19 @@ And last, he took ash from the heath, a stone as well, and the spit for the roas
 
 Muninn: "The hob has returned. He collected the life of the home, to provide memory to the steel he wanted the forge-elves to make!"
 
-Hugrinn: "Was it enough?"
+Huginn: "Was it enough?"
 
 Muninn: "Why must I remember everything brother? You're the one telling the story."
 
-Hugrinn: "Cah... of course. I was just checking to see if you were listening."
+Huginn: "Cah... of course. I was just checking to see if you were listening."
 
-Muninn: "I'm ALWAYS listening Hugrinn. That's my job. I'm the memory. When have I ever stopped?"
+Muninn: "I'm ALWAYS listening Huginn. That's my job. I'm the memory. When have I ever stopped?"
 
-Hugrinn: "There it is. A barrel full of 'Used-to-Be.' He’s carrying the laughter and the hair into the Black-Iron Hill."
+Huginn: "There it is. A barrel full of 'Used-to-Be.' He’s carrying the laughter and the hair into the Black-Iron Hill."
 
 Muninn: "The Smith-Elves will smell the Nine Herbs, play with the children's toys and know their songs. They will taste the char-meat on the spit, and smell the Hearth-Stone, and they will remember the family's life. The hob is serious."
 
-Hugrinn: "And look at the 'Fyrd-Anchor' on the road to Leicester... he’s walking with a stick-spear of charcoal, unaware that his own 'Hearth' is following him on the road in a barrel."
+Huginn: "And look at the 'Fyrd-Anchor' on the road to Leicester... he’s walking with a stick-spear of charcoal, unaware that his own 'Hearth' is following him on the road in a barrel."
 
 Muninn: "Where Elswyth waits, remembering her family..."
 

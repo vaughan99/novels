@@ -8,7 +8,7 @@ Time stopped, and a dark, hazy mind-dream came over him.
 
 The ravens, Hunginn and Muninn, the figures on the scabbard, landed on the ancient market stalls. They spoke to him, as the air had frozen Roganvaldr in a trance of horrific snarl.
 
-Hugrinn: "Speak now, priest! The steel waits."
+Huginn: "Speak now, priest! The steel waits."
 
 Muninn: "Why were you chosen?"
 
@@ -20,7 +20,7 @@ Muninn: "Why were you chosen?"
 
 Cynewulf: "What is going on..?"
 
-Hugrinn: "Time is short, priest of the road. You don't know what you hold."
+Huginn: "Time is short, priest of the road. You don't know what you hold."
 
 Cynewulf: "Who are you?"
 
@@ -28,7 +28,7 @@ Muninn: "We are the long memory, and the cold realization. We're here to see if 
 
 Cynewulf: "Of... what?"
 
-Hugrinn: "To the coming storm. You hold the *Wodbora*, the Madness-Bringer. If you do not pay it's price, you will become part of the flight."
+Huginn: "To the coming storm. You hold the *Wodbora*, the Madness-Bringer. If you do not pay it's price, you will become part of the flight."
 
 Muninn: "So now, priest, why were you chosen?"
 
@@ -38,7 +38,7 @@ Cynewulf: "This... *Wodbora*, it must think I have... something to offer?"
 
 Muninn: "Brother, look! His memory is stirring."
 
-Hugrinn: "The storm is building! Quickly, the storm demands a sacrifice."
+Huginn: "The storm is building! Quickly, the storm demands a sacrifice."
 
 Cynewulf heart drops cold.
 
@@ -50,9 +50,9 @@ Cynewulf frantically searched his mind.
 
 Cynewulf: "The old shepherd. He mentioned something about an Old Hate. A wuudheree."
 
-Hugrinn: "That's the Wodhere. The hunting. The reaper of soul and flesh, priest-man. It's growing, waiting, hungering. Inside this."
+Huginn: "That's the Wodhere. The hunting. The reaper of soul and flesh, priest-man. It's growing, waiting, hungering. Inside this."
 
-Hugrinn pointed his wing at the swordhilt in Cynewulf's hand. The blade had yet to be drawn, but it is starting to WANT to be drawn.
+Huginn pointed his wing at the swordhilt in Cynewulf's hand. The blade had yet to be drawn, but it is starting to WANT to be drawn.
 
 Cynewulf: "Take it back! I don't want this!"
 
@@ -62,13 +62,13 @@ Cynewulf: "The old shepherd? He gave me a confession."
 
 Muninn: "Yesssssss... the memory is taking to flight, brother."
 
-Hugrinn: "The Wild Hunt passes over the clean. You must show it that the road has not sullied your soul. It's time to be clean, priest."
+Huginn: "The Wild Hunt passes over the clean. You must show it that the road has not sullied your soul. It's time to be clean, priest."
 
 Cynewulf: "Well... my first confession..."
 
 Muninn: "That's an old memory, Cynewulf. The Wodhere demands unpaid-for meat priest, not your carrion-confession. Confess."
 
-Hugrinn: "Confess!"
+Huginn: "Confess!"
 
 Cynewulf thought forward from that moment of his first confession. There had been the stealing of the small coins, and exchange of whispered glances, soft hands in the dark.
 
@@ -80,7 +80,7 @@ Cynewulf thought back at all the unholy deeds he had done. All the mercenary wor
 
 Muninn: "His memory is a flood, brother. He needs to focus!"
 
-Hugrinn: "Choose ONE! QUICKLY!"
+Huginn: "Choose ONE! QUICKLY!"
 
 Cynewulf thought back to the first time he had taken a life. Back in that day in his priest-home. Yes, there where sins before that, many of them very unclean, but that was the first life he had taken. It was the beginning of his journey on the road.
 
@@ -90,27 +90,27 @@ Muninn: "Finally, a singular memory. Tell me priest, what was his name?"
 
 Cynewulf: "We didn't have time to pass pleasantries!!"
 
-Hugrinn: "No priest. To name a thing is to respect a thing. What was his name?"
+Huginn: "No priest. To name a thing is to respect a thing. What was his name?"
 
 Cynewulf whispered... "I don't know what you want me to say." His world collapsed. Tears flooded his eyes, as the memory of that day filled his soul. "He DID'T HAVE... A NAME!"
 
 Muninn: "The flood is rising. The memory is sweeping. He's almost there!"
 
-Hugrinn: "The boy was a fresh scroll, priest, barely seventeen words on the page! He could've been your sheep, but instead you ripped the page."
+Huginn: "The boy was a fresh scroll, priest, barely seventeen words on the page! He could've been your sheep, but instead you ripped the page."
 
 Muninn: "He will have no memories. Few will remember him."
 
-Hugrinn: "What would you tell him priest? What *should* you have told him?"
+Huginn: "What would you tell him priest? What *should* you have told him?"
 
 Cynewulf's tears overflowed, and he cried. It was an authentic, forceful weep.
 
 Cynewulf: "... TO TAKE THE SILVER ON THE TABLE! LEAVE MY STUDENTS IN MY CARE... LEAVE!"
 
-Hugrinn: "Powerful, but that still doesn't name the boy. How can you apologize to him if you haven't named him?"
+Huginn: "Powerful, but that still doesn't name the boy. How can you apologize to him if you haven't named him?"
 
 Cynewulf: "I'M SORRY!!!! I can't take back his death. I can't unring the bell."
 
-Hugrinn: "Wodere is almost here. Penance waits for no man."
+Huginn: "Wodere is almost here. Penance waits for no man."
 
 Cynewulf clinged to the words that ravens had said... that few will remember the boy. But the last phrase struck Cynewulf like a physical blow, vibrating down into the very meadow of his soul. Penance. The raven meant it as a threat — a promise of the crushing tariff about to fall upon his head. But as the word hung in the freezing air. It was a lifeline thrown into his dark. If the boy had been denied a name by the road, and needed remembrance, then Cynewulf would give him this one. He would turn their punishment into a promise.
 
@@ -120,13 +120,13 @@ The last words fell off his lips like a weary prayer.
 
 Muninn: "The memory debt is paid, brother."
 
-Hugrinn: "It is time."
+Huginn: "It is time."
 
 Cynewulf looked up through his tears, and in the deep obsidian eyes of the inquisitors, he finally understood the terrifying symmetry fate. The old grey shepherd had confessed to abandoning his wolves. This was the tariff. This sword was not a gift of protection. The sword was a leash on the howling hungry past to make mayhem on the present . He was given an instrument to destroy the wolves that the shepherd refused to call his own anymore. They needed a priest with sins that could measure up to the terrifying reality. Only a soul bound to penance could survive the weight of Woden's confession.
 
-Muninn and Hugrinn both bowed, their heads held low, solemnly.
+Muninn and Huginn both bowed, their heads held low, solemnly.
 
-Muninn and Hugrinn together: "Oremus."
+Muninn and Huginn together: "Oremus."
 
 Cynewulf knew this phrase well. "Let us pray."
 
@@ -138,7 +138,7 @@ The silver steel cleared the wood-staves, and the sky above the church's belltow
 
 ---
 
-Hugrinn: "Avada Kedebra!!!!"
+Huginn: "Avada Kedebra!!!!"
 
 Muninn: "Kedavra, you fool — please!"
 
@@ -160,17 +160,17 @@ The Hate swept over him like a breaking wave. The giant rolled in the ethereal c
 
 Cynewulf did not feel the Hate. It parted over his head, leaving his flesh completely untouched. His mind, however, recoiled from the sheer madness of what he had unleashed. He crossed himself with a trembling hand and prayed—the kind of desperate prayer a man makes when he thinks he has just released an unforgivable sin into the world.
 
-Hugrinn: "The sheath!"
+Huginn: "The sheath!"
 
 Cynewulf snapped to the present, and sheathed the sword. The wind and scream, the mouths and wings, the talons of ripping Hate dissipated into a cloud of shadow and nothingness. The figure in the sky was gone. The ravens stayed.
 
 Muninn: "Remember this well, priest."
 
-Hugrinn: "You have in your hands the Wodbora, the Madness-Bringer, the Prophet of the Wodhere."
+Huginn: "You have in your hands the Wodbora, the Madness-Bringer, the Prophet of the Wodhere."
 
 Muninn: "It has the memories of everyone's sins. It knows the hates of the heart. If you stand in its presence having not confessed to one, it will *unmake* you. And you will join its host and join its memory."
 
-Hugrinn: "Be wise, Cynewulf, and ensure your heart is clean. Every time you grip the handle, the bell tolls anew for a confession. One that matches the gravity of the unleashing." 
+Huginn: "Be wise, Cynewulf, and ensure your heart is clean. Every time you grip the handle, the bell tolls anew for a confession. One that matches the gravity of the unleashing." 
 
 Cynewulf realized quickly that he must never draw the sword again. Not in good faith. How could he ensure that any in the presence of this horrible nightmare would be spared? Could he even offer such a terrible confession again?
 
@@ -178,7 +178,7 @@ Cynewulf: "I shall remember my Penance. I shall never call on the Wodhere... I d
 
 Muninn: "You're wise. But you remember still the clawing hands of the road. This weapon isn't safe anywhere. It will exist, in your care, until the last ride."
 
-Hugrinn: "Others will see it Cynewulf, and try to take it for themselves. They will bring the Wodhere, and it will consume them. You must protect the flock from the wolves ... and from themselves."
+Huginn: "Others will see it Cynewulf, and try to take it for themselves. They will bring the Wodhere, and it will consume them. You must protect the flock from the wolves ... and from themselves."
 
 With that, the Ravens of Woden took to flight.
 

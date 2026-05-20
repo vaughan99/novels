@@ -48,15 +48,15 @@ He was free. The hob had been prepared to work a lifetime, but was given a new c
 
 Muninn: "See? They're not dwarves in a fairy-tale! They seem nice, too."
 
-Hugrinn: "Alright, alright, you made your point. No singing about gold, no braided beards, and absolutely no helpful advice for any of our heroes."
+Huginn: "Alright, alright, you made your point. No singing about gold, no braided beards, and absolutely no helpful advice for any of our heroes."
 
 Muninn: "Exactly. Just child-giggles, stolen cookware, a little person tied to a wooden handle, and a hot-billet of love. But that's your feast-field, not mine."
 
-Hugrinn: "You're right. I am a lover, not a fighter."
+Huginn: "You're right. I am a lover, not a fighter."
 
 Muninn: "A lover of bad poetry and worse ditch-meat..."
 
-Hugrinn: "Quiet! The bellows need new hands. If they fit a hob's hand, I wonder if they fit a gnome's."
+Huginn: "Quiet! The bellows need new hands. If they fit a hob's hand, I wonder if they fit a gnome's."
 
 ---
 
@@ -161,29 +161,29 @@ And into the quench it went, moving quickly this time, so as to catch the moonli
 
 ---
 
-Hugrinn: "DUN... DUN... DUUUUUUUUUUUUUUUHHHN!"
+Huginn: "DUN... DUN... DUUUUUUUUUUUUUUUHHHN!"
 
-Hugrinn squawked, his voice cracking on the final note. He froze mid-dance, his left wing still extended toward the stars and his tail feathers flared, completely locked in place as his brother turned a cold eye toward him.
+Huginn squawked, his voice cracking on the final note. He froze mid-dance, his left wing still extended toward the stars and his tail feathers flared, completely locked in place as his brother turned a cold eye toward him.
 
 Muninn: "What in the All-Father's name are you doing, brother?"
 
-Hugrinn: "I was dancing to the beat, and now I am playing the air-organ!"
+Huginn: "I was dancing to the beat, and now I am playing the air-organ!"
 
-Hugrinn smiled, released his dance posture, and smoothed down his ruffled wing-feathers with a look of immense dignity.
+Huginn smiled, released his dance posture, and smoothed down his ruffled wing-feathers with a look of immense dignity.
 
-Hugrinn: "For dramatic effect. It felt like the scene needed a...  heavy chord... right there."
+Huginn: "For dramatic effect. It felt like the scene needed a...  heavy chord... right there."
 
 Muninn: "An organ? We are in tenth-century Leicester, you fool. Pipe organs haven't even been invented for parish churches yet. You are ruining the historical authenticity. Never do that again. Ever."
 
-Hugrinn: "It was a metaphoooorical organ. Besides, look at the redcap below. Wait, where did he go?"
+Huginn: "It was a metaphoooorical organ. Besides, look at the redcap below. Wait, where did he go?"
 
 Munnin: "He's screaming inside the steel now. They were the judges, and the gavel came down hard. And leave the music to the Cynn. They broke a murderer's spirit with Elswyth's prized coal, which is far more respectable than your dancing and squawking."
 
-Hugrinn: "Fine. But you have to admit, it DID really lift the mood."
+Huginn: "Fine. But you have to admit, it DID really lift the mood."
 
 Muninn: "Quiet! Look back down through the rafters. The door-shadow is moving. That's us! Remember, we flew in before he did."
 
-Hugrinn: "All-Father's eye... would you look at us? Do we really look that scruffy down there?"
+Huginn: "All-Father's eye... would you look at us? Do we really look that scruffy down there?"
 
 Muninn: "You do. Your feathers are molting in the tail. Tuck those feathers in, brother."
 
@@ -201,19 +201,19 @@ The third blade, "Wodbora", the Madness-Bringer, the Prophet of Wodhere, the Gua
 
 ---
 
-Hugrinn: "DUN...DUN.."
+Huginn: "DUN...DUN.."
 
 Muninn: "For the LAST TIME! THERE. ARE. NO. ORGANS. IN. A. FORGE!!"
 
-Hugrinn stared blankly. This isn't the first time he's been yelled at for forgetting rules. He was eager to change the subject.
+Huginn stared blankly. This isn't the first time he's been yelled at for forgetting rules. He was eager to change the subject.
 
-Hugrinn: "That was a spooooky night. We didn't even chatter!"
+Huginn: "That was a spooooky night. We didn't even chatter!"
 
 Muninn: "I was too busy staring at those awful tailfeathers."
 
-Hugrinn: "I think I spy there, in the dark, our faces on the scabbard. I don't remember sitting for a portrait!"
+Huginn: "I think I spy there, in the dark, our faces on the scabbard. I don't remember sitting for a portrait!"
 
 Muninn: "You didn't bird-brain. All-Father knew what to tell them."
 
-Hugrinn: "I'm getting hungry. The sun is setting. Let's see if the Night of Blood has begun."
+Huginn: "I'm getting hungry. The sun is setting. Let's see if the Night of Blood has begun."
 

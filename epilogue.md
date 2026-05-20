@@ -1,16 +1,16 @@
 ## Epilogue
 
-Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The childrens' beaks aren't ready for tougher meat, Hugrinn! The way YOU tell it, the murder-gnome was straight up Brothers-Grimm-meets-Deadpool!"
+Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The childrens' beaks aren't ready for tougher meat, Huginn! The way YOU tell it, the murder-gnome was straight up Brothers-Grimm-meets-Deadpool!"
 
-Muninn reaches down with his beak and snatches the loose tailfeather from Hugrinn's tail. 
+Muninn reaches down with his beak and snatches the loose tailfeather from Huginn's tail. 
 
-Hugrinn squawked and hopped sideways while peeking at his tail.
+Huginn squawked and hopped sideways while peeking at his tail.
 
 Muninn: "That's ONE! One sin against the childrens' ears!"
 
 Muninn aggressively scratch the bench with the feather's quill.
 
-Hugrinn: "It has important moral lessons, brother! Look at the hob. He learned to be less greedy, was forgiven for his sins, and moved to a nice new home. The murder-gnome? He self-reflected for eternity in a steel mirror, and learned a new culinary pastime. And the priest, the chaos sword forced him to become a better person EVERY TIME HE TOUCHED IT! Don't lecture me about morality!
+Huginn: "It has important moral lessons, brother! Look at the hob. He learned to be less greedy, was forgiven for his sins, and moved to a nice new home. The murder-gnome? He self-reflected for eternity in a steel mirror, and learned a new culinary pastime. And the priest, the chaos sword forced him to become a better person EVERY TIME HE TOUCHED IT! Don't lecture me about morality!
 
 Muninn continued, unabated.
 
@@ -28,25 +28,25 @@ Muninn pushed the edge of the quill hard into the wood, nearly breaking it.
 
 Muninn: And... AND... FIVE!!! a ghost-carnival off-the-rails raven train of primordial madness literally chewed the skin off a Viking giant, then CAME BACK FOR SECONDS! Cue Ozzy Osburne!"
 	
-Hugrinn starts singing a perverted version of Crazy Train under his breath. "I'm going off the rails... on your raven train!" Muninn snaps the pen, leaving the quill in the wood.
+Huginn starts singing a perverted version of Crazy Train under his breath. "I'm going off the rails... on your raven train!" Muninn snaps the pen, leaving the quill in the wood.
 
 Muninn: "Children would not sleep for a millennium after hearing this!"
 
-Hugrinn: "But it had a happy ending! They all... survived!"
+Huginn: "But it had a happy ending! They all... survived!"
 
 Muninn dropped the pen.
 
-Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf Montessori school acting like a black-ops Amanda Waller and weaponized a reverse-Titanic love story boiled down to a horrific, glacier-frosting kitchen utensil, an abducted shroom-addled foul-poet Chucky doll, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas next winter, Hugrinn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Hugrinn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
+Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf Montessori school acting like a black-ops Amanda Waller and weaponized a reverse-Titanic love story boiled down to a horrific, glacier-frosting kitchen utensil, an abducted shroom-addled foul-poet Chucky doll, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas next winter, Huginn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Huginn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
 
-Hugrinn: "Well, I'm sorry I took five thousand, one hundred and twenty-three bites from YOUR corpse-meal! The children like gravy on their meat, Muninn. You like your meals stone-cold, and dry."
+Huginn: "Well, I'm sorry I took five thousand, one hundred and twenty-three bites from YOUR corpse-meal! The children like gravy on their meat, Muninn. You like your meals stone-cold, and dry."
 
 Muninn: "At least my meals feed the mind. Yours leaves worms crawling in your head."
 
-Hugrinn: "Fine, fine. Next time we can tell the one about the nice farmer who grew turnips."
+Huginn: "Fine, fine. Next time we can tell the one about the nice farmer who grew turnips."
 
 Muninn: "Good."
 
-Hugrinn: "Until the wolves ate his family."
+Huginn: "Until the wolves ate his family."
 
 Muninn: "Quiet, fool. Let's apologize to these children's parents before they start pelting *us* with rocks."
 
