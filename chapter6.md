@@ -6,15 +6,21 @@ The mud here was a thick, sucking soup mixed with late-spring snow, thick enough
 
 Reeve Galindo sat high on his noble Andalusian horse, his silken coat speckled with cold grease. He looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
 
-"My lord reeve, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted. "The Ulfhednar did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men."
+"My lord reeve, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted sword. "The Ulfhednar did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "That - is - why - you - were - hired! These men will not die... we've hired you!"
 
-Galindo did not answer... perhaps he did not hear. He merely turned his horse’s head, tapped his southern stirrups, and led the main body of the fyrd away into the gathering dusk. That left a sparse, hollow rearguard to manage the struggle: Murdock the short Scottish wagon-master, Osric the hollowed-out Northumbrian farmer, Cynewulf, Elswyth, two bruised men from Cynewulf’s spent mercenary band, three trembling thrall-slaves, and six weary fyrdmen whose shields were soft with dry-rot.
+Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for the help, but you have to know those wolf-types are a hard lot. I'd trust the Devil to grow a halo before I trust them to keep peace."
 
-Osric dropped a heavy, splintered piece of oak into the slush, his hands shaking from numbing cold, hunger, and the lingering ache of the goblin-sickness. He wiped the cold sweat from his brow and looked at Murdock.
+The Reeve ignored him. He turned his horse’s head, tapped his southern stirrups, and led the main body of the fyrd away into the gathering dusk. That left a sparse, hollow rearguard to manage the struggle: Murdock the short Scottish wagon-master, Osric the hollowed-out Northumbrian farmer, Cynewulf, Elswyth, two bruised men from Cynewulf’s spent mercenary band, three trembling thrall-slaves, and six weary fyrdmen whose shields were soft with dry-rot.
 
-"The spares are spent, master," Osric reported, his voice flat with exhaustion. "We are out of axles. The last seasoned beam snapped when the left cart took the ditch. New axles must be cut and carved from the forest wood, but we cannot find true grain in the dark. It must wait for the morning light." Murdock was devastated by the news, but at least it shared the same grit and sweat suited to the ears of the Fir Alban, the Scotsmen. The Northumbrian accent was far easier to understand than the cold indifference of the Spanish tongue.
+Osric dropped a heavy, splintered piece of oak into the slush, his hands shaking from numbing cold, hunger, and the lingering ache of the goblin-sickness. He wiped the cold sweat from his brow and looked at Murdock. "The spares are spent, master," Osric reported, his voice flat with exhaustion. "We are out of axles. The last seasoned beam snapped when the left cart took the ditch. "
 
-Murdock spat into the mud, his red beard bristling with fury. "Morning light? By the blood of the saints, man, if we bide here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon-master did not waste time weeping.
+Elswyth stirred forward towards the conversation, to get a better ear for it. Cynewulf tracked her, and it clicked how he knew her. "Murdock! This one! The girl! She lives on the edge of the forest. She knows the trees. She makes coal on the edges, at the hill's bottom."
+
+Murdock side-stared Elswyth, knowing that his full glare was a snare only for stronger animals. "Is this true, lass? You know the darkwood well enough for axle-timber?" he asked, his voice taking a slightly softer edge than average. She nodded, but didn't say a word. "Well, we'd best keep you here then. 
+
+Osric smiled... if but for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light."
+
+"First light? By the blood of the saints, man, if we bide here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon-master did not waste time weeping or wanting.
 
 He stepped into the center of the stalled host, his voice cracking like a whip. "Move the healthy beasts! Unhitch the rear carts and wheel them broadside! I want a wall of oak and leather before the sky turns black!" Murdock took charge with a feral, driving energy, dragging everyone into the toil.
 
