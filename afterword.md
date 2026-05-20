@@ -183,9 +183,15 @@ By making the blade be the invoker and have its own agency, the wielder is absol
 
 ---
 
-#### The Historical Metamorphosis of the Wodhere
+#### The Historical Metamorphosis of the Wodhere Myth
 
-The terrifying apparition of the Wild Hunt — known in Old English as the *Wodhere* (the Mad-Host) — did not remain static. As England transitioned from a fractured pagan frontier into a centralized Norman-Christian kingdom, the mythology of the Hunt evolved across four distinct tactical and theological phases:
+The terrifying apparition of the Wild Hunt — known in Old English as the *Wodhere* (the Mad-Host) — did not remain static.
+
+It had been borne out of real phenomena... specifically what was theorized as storm activity (lightning, wind, rain) around church bellfrys. As the tallest timber structures in the early English landscape, these high belfry towers acted as literal lightning rods during volatile winter tempests. Severe high-altitude gales forcing through the narrow wooden louvers generated a terrifying, low-frequency acoustic roar that simulated howling wolves, while the violent wind-shear physically shook the frames until the bronze bells swung and clanged on their own in the dark.
+
+An aside: What's SUPER CRAZY is that I wrote Cynewulf's character as a bell-caster/priest, and he summons the Wodhere in the churchyard with Woden sending it through the belfry first... I accidentally got it 100% spot-on with the myth! That was a surreal moment when AI told me that I was right, historically.
+
+However, as England transitioned from a fractured pagan frontier into a centralized Norman-Christian kingdom, the mythology of the Hunt evolved across four distinct tactical and theological phases:
 
 ##### 1. The Migration Period (5th–8th Century): The Sovereign Psychopomp
 During the high pagan era, the *Wodhere* operated as a sovereign, cosmic cleanup crew. It was a thunderous procession of dark riders, ghostly warriors, and Woden’s primordial wolves, *Geri* and *Freki*. 
