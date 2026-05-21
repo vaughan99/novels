@@ -62,7 +62,7 @@ Back at the wagons, Cynewulf fought with the vicious, pragmatic rhythm of a man 
 
 He wrenched the blade free to face the next assault. The next Dane was quickly upon him. Cynewulf swung hard to threaten the Dane and buy space. His sword struck a heavy, iron-bound Viking shield. The brittle, iron edge couldn't take the bite. With a sharp, metallic snap, the steel sheared off at the hilt, leaving him standing defenseless.
 
-Around him, his mercenary band and the fyrdmen were being overwhelmed, their throats cut in the mud. Cynewulf knew the battle's flow, and he had the wits of a highwayman to know that the fight was not theirs to win. He thought about grabbing a fresh weapon, but the breach of the wagon cart called to him. And so her ran. Rognvaldr, fresh from killing one of the fyrdmen, saw Cynewulf's escape from the corner of his eye, and decided there would be no escape tonight.
+Around him, his mercenary band and the fyrdmen were being overwhelmed, their throats cut in the mud. Cynewulf knew the battle's flow, and he had the wits of a highwayman to know that the fight was not theirs to win. He thought about grabbing a fresh weapon, but the breach of the wagon cart called to him. And so he ran. Rognvaldr, fresh from killing one of the fyrdmen, saw Cynewulf's escape from the corner of his eye, and decided there would be no escape tonight.
 
 Murdock the Scot stood atop a listing baggage box, his movements devoid of panic, governed entirely by cold, professional instinct. He leveled his first light, antler-locked Scottish crossbow and squeezed the trigger. The string snapped home with a dull thwack, driving a short iron bolt clean through a charging wolfman’s leather collar.
 
