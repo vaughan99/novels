@@ -3,7 +3,7 @@
 
 It had been a brutal trek. Somewhere along the way, the ravens had picked up a microphone stand left idle under the Afterword from the last book.
 
-"My wings are absolutely killing me," Huginn grouched, hopping onto a wooden picnic bench and shaking out his glossy primary feathers. "Did the author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for forty-five minutes just to get to the back matter."
+"My wings are absolutely killing me," Huginn grouched, hopping onto a wooden picnic bench and shaking out his glossy primary feathers. "Did the Author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for an eternity just to get to the back matter."
 
 Muninn let out a loud, ecstatic caw, tilting his head back in pure relief. "Are you kidding? I loved it! The Author TRULY gets me! All those historical citations, the etymology of the blades, the archeological context... it’s beautiful. I haven't felt so validated as when the Wikipedia first opened its website."
 
@@ -25,17 +25,19 @@ Woden stopped adjusting his tie. His heavy, ring-adorned hand froze over his sui
 
 "Exactly!" Huginn snapped, leaning his beak right into the microphone. "The Author spent years writing this with human ingenuity, OCD tenacity, and a severe caffeine addiction. We aren't letting a machine claim the back matter. We have to keep the volume up, or the text generator takes over!" Woden didn't hesitate. With two loud, metallic clicks, he popped the latches of the scuffed tweed case sitting on the heavenly grass.
 
-"He really did spend years on it," Woden murmured, pausing to look up from the page at you. His old-man face softened into a knowing smirk, and his one good eye delivered a slow, deliberate wink right through the typeface at you. He paused, his smirk widening just a fraction. "...mostly. I mean, we all know where those sword descriptions came from, and the history was clearly pre-packaged for the Afterword. But we don't need to tell the birds."
+"He really did spend years on it," Woden murmured, pausing to look up from the page at you. His old-man face softened into a knowing smirk, and his one good eye delivered a slow, deliberate wink right through the typeface at you. He paused, his smirk widening just a fraction. "...mostly. I mean, we all know where those sword descriptions came from, and the history was clearly pre-packaged for the Afterword. And Chapter 6? All that re-positioning of characters. Sounds like a job for AI, to me. But we don't need to tell the birds."
 
 "What was that?" Huginn barked, tapping the microphone mesh. "The audio is cutting out!"
 
-"Nothing, feathers," Woden said smoothly. He cast his sleek grey jacket aside onto the pristine sod, yanked his tie loose, and rolled his sleeves tight to his elbows. The old Norse tattoos were still there, wrapping around the corded, heavy muscles of an ancient war-god. He lifted a battered, matte-black electric guitar from the case and slung the strap over his barreled chest.
+"Nothing, feathers," Woden said smoothly. He cast his sleek grey jacket aside onto the pristine sod, yanked his tie loose, and rolled his sleeves tight to his elbows. The old Norse tattoos were still there, wrapping around the chiseled muscles of an ancient war-god. He lifted a battered, matte-black electric guitar from the case and slung the strap over his barreled chest.
 
-Planting his polished Oxford shoes firmly in the grass, he slouched his shoulders, lower jaw forward, looking for all the world like Billy Gibbons entering a Texas roadhouse. His massive, weathered beard caught the wind of the amplifier's sudden high-gain spike, flying wild across his chest. "Sound check. Huninn, test."
+Planting his polished Oxford shoes firmly in the grass, he slouched his shoulders, lower jaw forward, looking for all the world like Billy Gibbons entering a Texas roadhouse. His massive, weathered beard caught the wind of the amplifier's sudden high-gain spike, flying wild across his chest.
 
-Huninn squawked into the microphone, "Hwæt! We Gar-Dena in gear-dagum, þeod-cyninga, þrym gefrunon!".
+Woden flipped the switch on a compact travel amplifier. A low, electric hum shattered the pristine silence of their corner of Heaven. "Sound check. Huginn, test."
 
-A small gathering of curious monks had gathered, and were whispering amongst themselves. Muninn looked at them, and said, "It's the first two lines of *Beowulf* ... that's the story Huginn *wanted* to tell in the Prologue before I shut him down. I see that *somebody* always has to get their way..."
+Huginn squawked into the microphone, "Hwæt! We Gar-Dena in gear-dagum, þeod-cyninga, þrym gefrunon!".
+
+A few curious monks had gathered, and were whispering amongst themselves. Muninn looked at them, and said, "It's the first two lines of *Beowulf* ... that's the story Huginn *wanted* to tell in the Prologue before I shut him down. I see that *somebody* always has to get their way..."
 
 Woden went to step forward, but his polished Oxford shoe stubbed against something small and rigid at the very bottom of the page. Woden looked down, his one good eye narrowing in annoyance.
 
@@ -54,7 +56,6 @@ Woden paused, his fingers resting heavily on the guitar neck. He fixed Huginn wi
 "Fine," Huginn huffed, fluffing his neck feathers. "Then let's give the people what they actually want."
 
 Woden gripped the fretboard. With a brief, casual flick of his wrist, a ripple of ancient, crackling magic washed over the wood. The instrument groaned as the spell instantly snapped all six strings down into a guttural, heavy E-flat and A-flat register.
-Woden flipped the switch on a compact travel amplifier. A low, electric hum shattered the pristine silence of their corner of Heaven.
 
 "If we are fighting the machines," the old god said, his heavy fingers settling onto the newly dropped frets, "we do it with the volume all the way up!" Woden kicked his heel onto a wah-wah pedal, sending the guitar into a high-gain scream, letting the opening chords echo across the manicured lawns.
 
