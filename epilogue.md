@@ -94,6 +94,15 @@ The boy bit his lip. "And the man with the... tornado sword? The one who confess
 
 "Cynewulf," Woden spoke the name with a grim, lingering respect. "He retired from the road. He changed his name, traded his steel for a quill, and went south - to the great church-town, Canterbury. He died a humble monk, transcribing holy texts for newer generations. He found peace in the rhythm of the pen, far away from the bell-making, the mercenary-captains, and the Old Hate. And *Wodbora*... it lost its pulse. There were a few more rides left in the blade, and then the power simply drained out of the iron, and faded from existence. Then the reins of that dark carriage were passed to a lesser king, one more suited to a mortal saddle."
 
-The old man stood up, his joints making no sound. He turned to leave as the ravens took flight above him with a heavy, rhythmic flap of wings.
+The old man stood up, his joints making no sound. Behind his feet was an old tweed guitar case with runes covering it. He picked it up in one hand, after transferring his cane to the other. He turned to leave as the ravens took flight above him with a heavy, rhythmic flap of wings.
 
 "Do not waste your brief light merely weeping over cold ashes, lad, or staring into a dead man's mirror. The old shepherds are gone, and the flocks have moved within newer walls. But the world before you is still a forge, and the hammer is in your hands. Look closely at what the world discards — an old rusted spring by the roadside, a buried rail-spike, or a broken soul caked in mud. Dig them up, scrape away the grime, and let them be useful again. For the finest blades are always born from the things that were once forgotten."
+
+The trio continued down the road. The sun had dipped near the horizon of the mortal world, and the children’s park was finally empty. Their day’s work was done.
+
+"Well, we've got a gig in Heaven in about 45 minutes," said Muninn.
+
+"I see the table of contents says that the AFTERLIFE is this way... past the Afterword," said Huginn, somewhat annoyed. "Oh wow, that looks like a long road. The Author sure didn't skimp on details..."
+
+With a quiet step across the threshold of the margins, Woden and the ravens started their commute to Heaven.
+

@@ -37,7 +37,7 @@ Woden flipped the switch on a compact travel amplifier. A low, electric hum shat
 
 Huginn squawked into the microphone, "Hwæt! We Gar-Dena in gear-dagum, þeod-cyninga, þrym gefrunon!".
 
-A few curious monks had gathered, and were whispering amongst themselves. Muninn looked at them, and said, "It's the first two lines of *Beowulf* ... that's the story Huginn *wanted* to tell in the Prologue before I shut him down. I see that *somebody* always has to get their way..."
+A few curious monks had gathered, and were whispering amongst themselves. Muninn looked at them, and said, "It's the first two lines of *Beowulf* ... that's the story Huginn *wanted* to tell in the Prologue before I shut him down. That's when Huginn eye-winked the Author and decided to subvert the entire story with all this pseudo-historical-fake-magic sword nonsense. I see that two *somebodies* always have to get their way. At least the Afterword *saved the dish*."
 
 Woden went to step forward, but his polished Oxford shoe stubbed against something small and rigid at the very bottom of the page. Woden looked down, his one good eye narrowing in annoyance.
 
@@ -71,7 +71,7 @@ Chka-chka-chka! Muninn clawed the bench, heavenly wood shavings flying into the 
 
 The audio pressure built until the white space of the page practically vibrated. Huginn flared his ink-black wings, leaning his beak so close to the steel mesh of the microphone that his breath clipped the signal. Right as the intro reached its boiling point, Huginn let out a raw, distorted, battlefield shriek:
 
-“I’M BITTEN NOW!”
+“GET BITTEN NOW!”
 
 The beat dropped. Woden instantly slammed his fingers down into the heavy, thumping, down-tuned unison riff of *Wolves on Parade*. Muninn stopped scratching, and Woden reached out with one hand to smoothly slide a pair of tiny, pitch-black aviator sunglasses over the bird's beak. The raven instantly locked into a vicious, rhythmic heavy-metal head-bob.
 
@@ -130,7 +130,7 @@ Woden sighed, carefully laying the guitar back into the velvet lining of the cas
 
 "Or a discount code," Muninn croaked from behind his newly recovered lenses.
 
-"There are no codes," Woden said, turning his back to the margins. He began walking away, leading his ravens toward the edge of the paper where the print faded into white space.
+"No! And there aren't any post-credit scenes either! This isn't MCU!" Woden said, turning his back to the margins. He began walking away, leading his ravens toward the edge of the paper where the print faded into white space.
 
 Behind them, Francis de Sales suddenly froze. He looked down at the very bottom of the page where the grass met the margin, his eyes widening in horror as he noticed the loose, upside-down letters and the completely empty space where the legal text used to be.
 "And where did my copyright notice go?!?!?!" the saint shrieked, drop-kicking his clipboard in panic and dropping to his knees to search the grass. "The legal boilerplate! It’s gone! We’re going to miss our global shipping deadlines! Do you have any idea how many weeks it takes to melt the lead, cast the blocks, and manually typeset a new licensing declaration?!"
