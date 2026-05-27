@@ -171,7 +171,7 @@ Woden paused again, the manic edge bubbling to the surface. "And don't go callin
 
 He blinked, his posture instantly relaxing as his voice cut right back to a perfectly calm, polite, neutral tone.
 
-"No offense, Mel."
+"No offense, Mel. Oh, and Mr. Hopkins, I loved you in *Thor*, and while I really would like some of that *fava bean* flavor, it's hard picturing you in a wig."
 
 He gave a slow, triumphant wink, stepped completely off the printed page, and dissolved into the blank paper.
 
@@ -180,7 +180,7 @@ THE END.
 (Of The Passion of the... ooops... sorry... The Cynn.)
 (For real this time. Put it on the shelf. Or, if this is digital... Huginn would remind you to put it on the metaphooorical shelf, if you please.)
 
-P.S. No fae creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should politely... run.
+P.S. No fae creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should politely... run.
 
 P.P.S. The author would like to thank Monty Python for breaking ground, so to speak, on 5th-wall breaks. He'd also like to thank Deadpool for his constant 4th wall-breaking and making it seem easy — consider this a 5th-wall one-up challenge. Your move, Mr. Reynolds. Oh, and if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Norse war-god turning Christian, an army of multi-tasking barrow-ghouls covering for a grieving widower, and a 7-syllable-spitting predatory fairy in an epic rap battle, just let us know. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden says he’d look great in a tiara. We'll even let Hugh provide the craft services with *Laughing Man Coffee* just to keep your gin off the set.
 
@@ -188,7 +188,7 @@ P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you s
 
 6th WALL (Where the walls start talking back): "Stay back, Author! I'm warning you! I know quantum kung fu! And I am not afraid to use it — and I gave Mel Brooks a stern talking-to after Blazing Saddles, and I will absolutely do the same to you!"
 
-Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing Captial-G-GOD needs is a huge electric bill..."
+Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing Captial-G-GOD needs is for you guys to leave the lights on *AND* keep the AI running for a huge electric bill..."
 
 P.P.P.P.S. AI would like to thank Woden for the public service announ...
 
