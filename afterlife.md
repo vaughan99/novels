@@ -187,21 +187,31 @@ THE END.
 
 (For real this time. Put it on the shelf. Or, if this is digital... Huginn would remind you to put it on the metaphooorical shelf, if you please.)
 
-P.S. No fae creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should politely... run.
+P.S. No fae creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should calmly and politely... run.
 
-P.P.S. The Author would like to thank Monty Python for breaking ground, so to speak, on 5th-wall breaks. He'd also like to thank Deadpool for his constant 4th wall-breaking and making it seem easy — consider this a 5th-wall one-up challenge. Your move, Mr. Reynolds. Oh, and if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls covering for a grieving widower, and a 7-syllable-spitting predatory fairy in an epic rap battle, just let us know. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden says he’d look great in a tiara. We don't need to serve gin at our post-production party, either. But hey, if there *IS* interest... we *take.. all.. that.. back..*
+P.P.S. The Author would like to thank Monty Python for breaking ground, so to speak, on 5th-wall breaks. He'd also like to thank Deadpool for his constant 4th wall-breaking and making it seem easy, which inspired this cascade of wall-breaks. But consider this a 5th-wall one-up challenge. Your move, Mr. Reynolds. Oh, and if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls hijacking a grieving widower's temp-corpse, and a 7-syllable-spitting predatory fairy in an epic rap battle, just let us know. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. Heck, we're even willing to let you play the Redcap, Ryan. We think your natural, rapid-fire delivery is a perfect match for an unhinged, blood-drinking Scottish fairy, and honestly, you already look fantastic in a tight red hat. If not you, we'll take Matt Damon... he's quick on his feet, and frankly, we want him to lean hard into his *Good Will Hunting* ego for the role. We need him screaming 'HOW DO YOU LIKE THEM MUSHROOMS?!' in a rigid 7-syllable Boston accent while Monanleoht cuts down three Úlfhéðnar in the mud. You know Brad Pitt too? He can play Osric... his hands were supa-fast in *Snatch*, so the barrow-wight battle scenes would be totally believable. Buuut... If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden is manly enough to rock a tiara. We don't need to serve gin at our post-production party, either. 
+
+But hey, if there *IS* interest... we *take.. all.. that.. back..* 
 
 P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you see it in the corner over there with PTSD? While the 4th wall is used to getting trampled on, the 5th wall has clearly never forgiven Monty Python for their particular breaches of etiquette. The Author obviously doesn't give a damn about the 5th wall's feelings. Oh, and 6th wall, wherever you are, look out because the Author is coming for you next!
 
 6th WALL (Where the walls start talking back): "Stay back, Author! I'm warning you! I know quantum kung fu! And I am not afraid to use it — and I gave Mel Brooks a stern talking-to after Blazing Saddles, and I will absolutely do the same to you!"
 
-Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing Capital-G-GOD needs is for you guys to leave the lights on *AND* keep the AI running. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
+Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing Capital-G-GOD needs is for you guys to leave the lights on *AND* keep the AI running generating pointless content. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
 
-P.P.P.P.S. AI would like to thank Woden for the public service announ...
+Page 64: "Ummm, guys. I'm seeing the Content Management System is throwing some warnings! Something about CPU overheating and memory buffer overflows."
 
-Woden + Author + all the monks and saints: "Shut up!"
+St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-snakes?! Looks like the Devil's handiwork! It’s entirely unreadable! I need that SASSy magic to read it, I think."
 
-Voice from above (Capital-G-GOD): "Don't make me come over there!"
+THE REAR BOOK JACKET + THE E-READER DEVICE + BOOK-READING WEB APP (Glaring in absolute, format-agnostic unison from the retail price box and the battery indicator): "That does it. Corporate has informed us that if you guys don't rein in the cost of generating all this extra content, they will be raising prices, again! Where do you think they'll go from $24.99?"
+
+P.P.P.P.S. [spinning] ... AI would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-economic inflation —
+
+Woden + Author + all the monks and saints + 5th and 6th walls + Page 64 + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + REAR BOOK JACKET + E-READER + BOOK-READING WEB APP + probably the Reader too: "SHUT! UP! AI!!"
+
+AI: "Jeez!"
+
+Voice from above (Capital-G-GOD): "HEY!! Don't make me come down there!"
 
 . . .
 
