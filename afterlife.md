@@ -1,5 +1,5 @@
 ## AFTERLIFE
-### Track One: Wolves on Parade
+### PlayBill: One Night Only! Welcome, Woadie and the Roadies!
 
 It had been a brutal trek. Somewhere along the way, the ravens had picked up a microphone stand left idle under the Afterword from the last book.
 
@@ -48,10 +48,10 @@ The legal notice shattered. The copyright symbol went flying into the right marg
 
 "I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space.
 
-"Alright, time to start this gig. If we're doing Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's do *Killing in the Name Of*."
+"Alright, time to start this gig. I'd like to introduce everyone here to our new band, *Woadie and the Roadies* If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's do *Killing in the Name Of*."
 
 Woden paused, his fingers resting heavily on the guitar neck. He fixed Huginn with a flat, deeply unamused stare.
-"Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the readers a fresh confession about the wolf-men in the back matter. Pick again."
+"Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the audience a fresh confession about the wolf-men in the back matter. Pick again."
 
 "Fine," Huginn huffed, fluffing his neck feathers. "Then let's give the people what they actually want."
 
@@ -98,7 +98,11 @@ Woden slammed his polished oxford shoe onto the distortion pedal.
 
 Woden’s hands blurred on the neck, delivering a torrent of high-gain, Drop A-flat screeching chords that physically fractured the text formatting on the page. In the actual text, the font began to fracture erratically. Letters slipped out of alignment, bolding and italicizing violently under the sheer sonic pressure:
 
-“WOW-WOW-CHKA-WOW-WOW!” Huginn rasped, his ink-black body a blurred wheel of motion. “WOW-WOW-CHKA-WOW-WOW-CHKA-CHKA-CHKA!”
+“WOW-WOW-CHKA-WOW-WOW!”
+
+Huginn rasped, his ink-black body a blurred wheel of motion.
+
+“WOW-WOW-CHKA-WOW-WOW-CHKA-CHKA-CHKA!”
 
 Muninn’s head was a literal blur of whiplash, his tiny aviators flying completely off his beak.
 
@@ -178,21 +182,22 @@ He gave a slow, triumphant wink, stepped completely off the printed page, and di
 THE END.
 
 (Of The Passion of the... ooops... sorry... The Cynn.)
+
 (For real this time. Put it on the shelf. Or, if this is digital... Huginn would remind you to put it on the metaphooorical shelf, if you please.)
 
 P.S. No fae creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should politely... run.
 
-P.P.S. The Author would like to thank Monty Python for breaking ground, so to speak, on 5th-wall breaks. He'd also like to thank Deadpool for his constant 4th wall-breaking and making it seem easy — consider this a 5th-wall one-up challenge. Your move, Mr. Reynolds. Oh, and if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls covering for a grieving widower, and a 7-syllable-spitting predatory fairy in an epic rap battle, just let us know. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden says he’d look great in a tiara. We'll even let Hugh provide the craft services with *Laughing Man Coffee* just to keep your gin out of the post-production party. But hey, if there's interest... we take all that back.
+P.P.S. The Author would like to thank Monty Python for breaking ground, so to speak, on 5th-wall breaks. He'd also like to thank Deadpool for his constant 4th wall-breaking and making it seem easy — consider this a 5th-wall one-up challenge. Your move, Mr. Reynolds. Oh, and if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls covering for a grieving widower, and a 7-syllable-spitting predatory fairy in an epic rap battle, just let us know. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden says he’d look great in a tiara. We don't need to serve gin at our post-production party, either. But hey, if there *IS* interest... we *take.. all.. that.. back..*
 
-P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you see it in the corner over there with PTSD? While the 4th wall is used to getting trampled on, the 5th wall has clearly never forgiven Monty Python for their particular breach of etiquette. The Author obviously doesn't give a damn about the 5th wall's feelings. Oh, and 6th wall, wherever you are, look out because the Author is coming for you next!
+P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you see it in the corner over there with PTSD? While the 4th wall is used to getting trampled on, the 5th wall has clearly never forgiven Monty Python for their particular breaches of etiquette. The Author obviously doesn't give a damn about the 5th wall's feelings. Oh, and 6th wall, wherever you are, look out because the Author is coming for you next!
 
 6th WALL (Where the walls start talking back): "Stay back, Author! I'm warning you! I know quantum kung fu! And I am not afraid to use it — and I gave Mel Brooks a stern talking-to after Blazing Saddles, and I will absolutely do the same to you!"
 
-Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing Captial-G-GOD needs is for you guys to leave the lights on *AND* keep the AI running for a huge electric bill..."
+Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing Capital-G-GOD needs is for you guys to leave the lights on *AND* keep the AI running. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
 
 P.P.P.P.S. AI would like to thank Woden for the public service announ...
 
-Woden + Author: "Oh, shut up!"
+Woden + Author + all the monks and saints: "Shut up!"
 
 Voice from above (Capital-G-GOD): "Don't make me come over there!"
 
