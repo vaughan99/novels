@@ -5,7 +5,7 @@ It had been a brutal trek. Somewhere along the way, the ravens had picked up a m
 
 "My wings are absolutely killing me," Huginn grouched, hopping onto a wooden picnic bench and shaking out his glossy primary feathers. "Did the Author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for an eternity just to get to the back matter."
 
-Muninn let out a loud, ecstatic caw, tilting his head back in pure relief. "Are you kidding? I loved it! The Author TRULY gets me! All those historical citations, the etymology of the blades, the archeological context... it’s beautiful. I haven't felt so validated as when the Wikipedia first opened its website."
+Muninn let out a loud, ecstatic caw, tilting his head back in pure relief. "Are you kidding? I loved it! The Author TRULY gets me! All those historical citations, the etymology of the blades, the archeological context... it’s beautiful. I haven't felt so validated as when Wikipedia first opened its website."
 
 "You're a nerd, bro," Huginn muttered, gently righting the microphone stand with his claws onto the ground.
 
@@ -25,9 +25,9 @@ Woden stopped adjusting his tie. His heavy, ring-adorned hand froze over his sui
 
 "Exactly!" Huginn snapped, leaning his beak right into the microphone. "The Author spent years writing this with human ingenuity, OCD tenacity, and a severe caffeine addiction. We aren't letting a machine claim the back matter. We have to keep the volume up, or the text generator takes over!" Woden didn't hesitate. With two loud, metallic clicks, he popped the latches of the scuffed tweed case sitting on the heavenly grass.
 
-"He really did spend years on it," Woden murmured, pausing to look up from the page at you. His old-man face softened into a knowing smirk, and his one good eye delivered a slow, deliberate wink right through the typeface at you. He paused, his smirk widening just a fraction. "...mostly. I mean, we all know where those sword descriptions came from, and the history was clearly pre-packaged for the Afterword. And Chapter 6? All that re-positioning of characters. Sounds like a job for AI, to me. But we don't need to tell the birds."
+"He really did spend years on it," Woden murmured, pausing to look up from the page at you. His old-man face softened into a knowing smirk, and his one good eye delivered a slow, deliberate wink right through the typeface at you. He paused, his smirk widening just a fraction. "...mostly. I mean, we all know where those sword descriptions came from, and the history was clearly pre-packaged for the Afterword. And Chapter 6? All that re-positioning of characters. Sounds like a job for AI, if you ask me. But we don't need to tell the birds."
 
-"What was that?" Huginn barked, tapping the microphone mesh. "The audio is cutting out!"
+"What was that?" Huginn barked, tapping the microphone mesh. "The audio isn't up yet!"
 
 "Nothing, feathers," Woden said smoothly. He cast his sleek grey jacket aside onto the pristine sod, yanked his tie loose, and rolled his sleeves tight to his elbows. The old Norse tattoos were still there, wrapping around the chiseled muscles of an ancient war-god. He lifted a battered, matte-black electric guitar from the case and slung the strap over his barreled chest.
 
@@ -37,21 +37,21 @@ Woden flipped the switch on a compact travel amplifier. A low, electric hum shat
 
 Huginn squawked into the microphone, "Hwæt! We Gar-Dena in gear-dagum, þeod-cyninga, þrym gefrunon!".
 
-A few curious monks had gathered, and were whispering amongst themselves. Muninn looked at them, and said, "It's the first two lines of *Beowulf* ... that's the story Huginn *wanted* to tell in the Prologue before I shut him down. That's when Huginn eye-winked the Author and decided to subvert the entire story with all this pseudo-historical-fake-magic sword nonsense. I see that two *somebodies* always have to get their way. At least the Afterword *saved the dish*."
+A few curious monks had gathered, and were whispering amongst themselves at the bizarre spectacle. Muninn looked at them, and said, "It's the first two lines of *Beowulf* ... that's the story Huginn *wanted* to tell in the Prologue before I shut him down. That's when Huginn eye-winked the Author and decided to subvert the entire story with all this pseudo-historical-fake-magic sword nonsense. I see that two *somebodies* always have to get their way. At least the Afterword *saved the dish*."
 
 Woden went to step forward, but his polished Oxford shoe stubbed against something small and rigid at the very bottom of the page. Woden looked down, his one good eye narrowing in annoyance.
 
 Printed in microscopic, faded gray font right across the heavenly grass was a line of text: © 2026 All Rights Reserved. No part of this publication may be reproduced or transmitted in any form...
 
 "Oh, for the love of — " Woden muttered. He wound back his foot and delivered a sharp, aggressive kick to the letter C.
-The legal notice shattered. The copyright symbol went flying into the right margin, the 2026 splintered into loose ink dust, and the words All Rights Reserved tumbled upside down into the white space at the bottom of the paper.
+The legal notice shattered. The copyright symbol went flying into the right margin, the 2026 splintered into loose ink dust, and the words *All Rights Reserved* tumbled upside down into the white space at the bottom of the paper.
 
 "I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space.
 
-"Alright, time to start this gig. If we're doing Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's do 'Killing in the Name Of.' It's a classic!"
+"Alright, time to start this gig. If we're doing Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's do *Killing in the Name Of*."
 
 Woden paused, his fingers resting heavily on the guitar neck. He fixed Huginn with a flat, deeply unamused stare.
-"Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the readers a free confession about the wolf-men in the back matter. Pick again."
+"Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the readers a fresh confession about the wolf-men in the back matter. Pick again."
 
 "Fine," Huginn huffed, fluffing his neck feathers. "Then let's give the people what they actually want."
 
@@ -63,7 +63,7 @@ Woden gripped the fretboard. With a brief, casual flick of his wrist, a ripple o
 
 “WOW-WOW-MM-WOW-WOW!” the guitar rasped through the speakers.
 
-Right on the beat, Muninn hopped forward on the wooden picnic bench. Leaning his weight into his front legs, the raven dragged his sharp talons rapidly back and forth across the varnished wood, perfectly mimicking the high-pitched, rhythmic screech of a hip-hop DJ scratching a vinyl record. Chka-chka-shhh-chka!
+Right on the beat, Muninn hopped forward on the wooden picnic bench. Leaning his weight into his front legs, the raven dragged his sharp talons rapidly back and forth across the varnished wood, perfectly mimicking the high-pitched, rhythmic screech of a hip-hop DJ scratching a vinyl record. Chka-chka-chka!
 
 Woden’s fingers blurred on the neck, building the looping, hypnotic intro groove. “WOW-WOW-MM-WOW-WOW!”
 
@@ -114,7 +114,7 @@ Suddenly, a massive, standard wooden office door manifested out of thin air righ
 
 "I don't care about the machines, you overgrown crow! I care about the style guide!" Francis snapped. He reached down and violently yanked the power cord out of Woden’s travel amp.
 
-The heavy *Wolves on Parade* riff cut out with a pathetic, high-pitched "skrrrrt" sound. Total, mandatory heavenly silence slammed back over the park. The mosh-pitting monks instantly froze, smoothed down their robes, and pretended to pray.
+The heavy *Wolves on Parade* riff cut out with a pathetic, high-pitched "skrrrrt" sound. Total, mandatory heavenly silence fell back over the park. The mosh-pitting monks instantly froze, smoothed down their robes, and pretended to pray.
 
 Woden slowly lowered the matte-black guitar. He didn't look angry; he just looked deeply, profoundly bored.
 "You've got no sense of rhythm, Francis," the old god murmured, adjusting his grey tie.
@@ -137,7 +137,7 @@ Behind them, Francis de Sales suddenly froze. He looked down at the very bottom 
 
 Muninn adjusted his sunglasses to be a little cock-eyed, looking down at the frantic saint with pure, digital-age condescension.
 
-"Francis, you died in 1622," the raven croaked. "The author updates the styling instantaneously with three lines of CSS. Get with the times."
+"Francis, you died in 1622," the raven croaked. "The Author updates the styling instantaneously with three lines of CSS. Get with the times."
 
 Francis de Sales stared blankly at the bird, his hands covered in wet grass. "What on earth is a CSS?"
 
@@ -182,9 +182,9 @@ THE END.
 
 P.S. No fae creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should politely... run.
 
-P.P.S. The author would like to thank Monty Python for breaking ground, so to speak, on 5th-wall breaks. He'd also like to thank Deadpool for his constant 4th wall-breaking and making it seem easy — consider this a 5th-wall one-up challenge. Your move, Mr. Reynolds. Oh, and if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls covering for a grieving widower, and a 7-syllable-spitting predatory fairy in an epic rap battle, just let us know. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden says he’d look great in a tiara. We'll even let Hugh provide the craft services with *Laughing Man Coffee* just to keep your gin off the set.
+P.P.S. The Author would like to thank Monty Python for breaking ground, so to speak, on 5th-wall breaks. He'd also like to thank Deadpool for his constant 4th wall-breaking and making it seem easy — consider this a 5th-wall one-up challenge. Your move, Mr. Reynolds. Oh, and if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls covering for a grieving widower, and a 7-syllable-spitting predatory fairy in an epic rap battle, just let us know. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden says he’d look great in a tiara. We'll even let Hugh provide the craft services with *Laughing Man Coffee* just to keep your gin out of the post-production party. But hey, if there's interest... we take all that back.
 
-P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you see it in the corner over there with PTSD? While the 4th wall is used to getting trampled on, the 5th wall has clearly never forgiven Monty Python for this breach of etiquette. The Author obviously doesn't give a damn about the 5th wall's feelings. Oh, and 6th wall, wherever you are, look out because the Author is coming for you next!
+P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you see it in the corner over there with PTSD? While the 4th wall is used to getting trampled on, the 5th wall has clearly never forgiven Monty Python for their particular breach of etiquette. The Author obviously doesn't give a damn about the 5th wall's feelings. Oh, and 6th wall, wherever you are, look out because the Author is coming for you next!
 
 6th WALL (Where the walls start talking back): "Stay back, Author! I'm warning you! I know quantum kung fu! And I am not afraid to use it — and I gave Mel Brooks a stern talking-to after Blazing Saddles, and I will absolutely do the same to you!"
 
