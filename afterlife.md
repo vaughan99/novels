@@ -31,7 +31,7 @@ Woden stopped adjusting his tie. His heavy, ring-adorned hand froze over his sui
 
 "Nothing, feathers," Woden said smoothly. He cast his sleek grey jacket aside onto the pristine sod, yanked his tie loose, and rolled his sleeves tight to his elbows. The old Norse tattoos were still there, wrapping around the chiseled muscles of an ancient war-god. He lifted a battered, matte-black electric guitar from the case and slung the strap over his barreled chest.
 
-Planting his polished Oxford shoes firmly in the grass, he slouched his shoulders, lower jaw forward, looking for all the world like Billy Gibbons entering a Texas roadhouse. His massive, weathered beard caught the wind of the amplifier's sudden high-gain spike, flying wild across his chest.
+Planting his polished Oxford shoes firmly in the grass, he slouched his shoulders, lower jaw forward, looking for all the world like Billy Gibbons entering a Texas roadhouse. His massive, weathered beard caught the heavenly breeze just right, flying wild across his chest.
 
 Woden flipped the switch on a compact travel amplifier. A low, electric hum shattered the pristine silence of their corner of Heaven. "Sound check. Huginn, test."
 
@@ -41,14 +41,16 @@ A few curious monks had gathered, and were whispering amongst themselves at the 
 
 Woden went to step forward, but his polished Oxford shoe stubbed against something small and rigid at the very bottom of the page. Woden looked down, his one good eye narrowing in annoyance.
 
-Printed in microscopic, faded gray font right across the heavenly grass was a line of text: © 2026 All Rights Reserved. No part of this publication may be reproduced or transmitted in any form...
+Printed in microscopic, faded gray font right across the heavenly grass was a line of text:
+
+© 2026 All Rights Reserved. No part of this publication may be reproduced or transmitted in any form...
 
 "Oh, for the love of — " Woden muttered. He wound back his foot and delivered a sharp, aggressive kick to the letter C.
 The legal notice shattered. The copyright symbol went flying into the right margin, the 2026 splintered into loose ink dust, and the words *All Rights Reserved* tumbled upside down into the white space at the bottom of the paper.
 
 "I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space.
 
-"Alright, time to start this gig. I'd like to introduce everyone here to our new band, *Woadie and the Roadies* If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's do *Killing in the Name Of*."
+"Alright, time to start this gig. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this of with *Killing in the Name Of*."
 
 Woden paused, his fingers resting heavily on the guitar neck. He fixed Huginn with a flat, deeply unamused stare.
 "Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the audience a fresh confession about the wolf-men in the back matter. Pick again."
@@ -171,9 +173,9 @@ Woden paused, his eye narrowing as he leaned an inch closer to the frame, his to
 
 "Oh, and if they hock the movie rights, tell them that we absolutely need Ian McKellen to play me. If he isn't available... tell the AI we need a Liam Neeson and Mel Gibson mashup. You need that bad-ass set of skills and some wild *Braveheart* hair to capture this war-trickster awesomeness. That should work."
 
-Woden paused again, the manic edge bubbling to the surface. "And don't go calling it *The Passion of the Woden*. That would really piss me off!"
+Woden paused again, the manic edge bubbling to the surface and pointed his finger straight at you, the reader. "And don't go calling it *The Passion of the Woden*. That would really piss me off!"
 
-He blinked, his posture instantly relaxing as his voice cut right back to a perfectly calm, polite, neutral tone.
+He blinked, his posture instantly relaxing as his voice cut right back to a perfectly calm, polite, neutral tone. His hands came back together in peace.
 
 "No offense, Mel. Oh, and Mr. Hopkins, I loved you in *Thor*, and while I really would like some of that *fava bean* flavor, it's hard picturing you in a wig."
 
