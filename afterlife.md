@@ -11,19 +11,25 @@ Muninn let out a loud, ecstatic caw, tilting his head back in pure relief. "Are 
 
 They had finally arrived in Neorxnawang — the eternal, blissful paradise corner of Heaven of the Anglo-Saxon Christians. Translators had spun it as a place of infinite reward, but to an ancient god of the shield-wall, the "Meadow of Contentment" felt less like a city of gold and more like a hyper-realized, unnervingly pristine municipal park. The grass never needed mowing, the sun sat in a permanent, golden late-afternoon state, and a profound, mandatory quiet hung over the manicured lawns. Divine decree strictly forbade any work, strife, or noise within the margins. It was a permanent state of - chill. For an old ex-god who had traded his grey-wolf madness for a grey suit, this mandatory serenity was completely suffocating. He had exchanged his screaming berserkers for silent saints, and he was bored out of his mind.
 
+"Huginn, where's the reception? They did know we were coming, right?" Muninn said, confused.
+
+"Oh... uh... I may have... forgot... to nail down the time. Or maybe it was the date." Huninn glumly scoured the ground with his eyes, then looked up to Muninn with a sheepish smile.
+
+"Whaa? Caaah? So we rushed over here... for nothing??" Muninn was beside himself with frustration.
+
 Woden stood by the spotless bench, looking directly out from the page with his one good eye. He looked like a man who had just finished a brutal corporate commute through academic formatting. He adjusted the lapels of his suit jacket, glared at the top margin of the paper, and sighed. His eyes settled on you, the reader.
 
 "The story's gone to earth, dear Reader! Really, put the book down. Get a life!"
 
 Muninn rustled his feathers against the crisp white space of the page. "They aren't going to get a life, Boss. With any luck, they actually spent *real* money for this story and they want their money's worth. If not, well... you have to admire their carrion-resourcefulness. They picked a clean carcass out of the digital void for free. That's good scavenging."
 
-"You hear that Reader! You'll be one of us yet! Besides," Huginn added, gripping the mic stand with his sharp talons, "the Author left three blank pages at the end of the file. If we don't occupy this white space right now, the formatting script is going to flag it as dead code. We need an anthem, Boss. Something with real Rage Against the Magazine!"
+"You hear that Reader! You'll be one of us yet! Besides," Huginn added, gripping the mic stand with his sharp talons, "the Author left three blank pages at the end of the file. If we don't occupy this white space right now, the formatting script is going to flag it as dead code. We need an anthem, Boss, official gig or no. Something with real Rage Against the Magazine!"
 
 Muninn let out another sharp, dry caw. "Machine, you idiot. It's 'Rage Against the Machine.' A magazine is what they’ll relegate us to if you don't carry your vocals this time!" He shuddered in genuine horror. "And if we fail here, the automated system will bury us under AI drivel. It'll generate six paragraphs of hallucinated Norse mythology where you and I are suddenly talking squirrels and the Boss is a tech startup CEO."
 
 Woden stopped adjusting his tie. His heavy, ring-adorned hand froze over his suit lapel. His one good eye flashed with a dangerous, ancient light, cold enough to freeze the ink on the page. "I would rather be cast into the void than summarized by a predictive text algorithm," Woden muttered, his voice dropping an octave into a low, terrifying rumble.
 
-"Exactly!" Huginn snapped, leaning his beak right into the microphone. "The Author spent years writing this with human ingenuity, OCD tenacity, and a severe caffeine addiction. We aren't letting a machine claim the back matter. We have to keep the volume up, or the text generator takes over!" Woden didn't hesitate. With two loud, metallic clicks, he popped the latches of the scuffed tweed case sitting on the heavenly grass.
+"Exactly!" Huginn snapped, leaning his beak right into the microphone. "The Author spent years writing this with human ingenuity, OCD/manic tenacity, and a severe caffeine addiction. We aren't letting a machine claim the back matter. This is war! We have to keep the volume up, or the text generator takes over!" Woden didn't hesitate. With two loud, metallic clicks, he popped the latches of the scuffed tweed case sitting on the heavenly grass.
 
 "He really did spend years on it," Woden murmured, pausing to look up from the page at you. His old-man face softened into a knowing smirk, and his one good eye delivered a slow, deliberate wink right through the typeface at you. He paused, his smirk widening just a fraction. "...mostly. I mean, we all know where those sword descriptions came from, and the history was clearly pre-packaged for the Afterword. And Chapter 6? All that re-positioning of characters. Sounds like a job for AI, if you ask me. But we don't need to tell the birds."
 
@@ -48,12 +54,12 @@ Printed in microscopic, faded gray font right across the heavenly grass was a li
 "Oh, for the love of — " Woden muttered. He wound back his foot and delivered a sharp, aggressive kick to the letter C.
 The legal notice shattered. The copyright symbol went flying into the right margin, the 2026 splintered into loose ink dust, and the words *All Rights Reserved* tumbled upside down into the white space at the bottom of the paper.
 
-"I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space.
+"I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space. "I had enough of that in the 800s!"
 
-"Alright, time to start this gig. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this of with *Killing in the Name Of*."
+"Alright, time to start this gig. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this off with *Killing in the Name Of*." Huginn tried to manage a smile, which looks incredibly awkward on a raven.
 
 Woden paused, his fingers resting heavily on the guitar neck. He fixed Huginn with a flat, deeply unamused stare.
-"Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the audience a fresh confession about the wolf-men in the back matter. Pick again."
+"Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the audience a fresh confession about the wolf-men in the back matter, killing in *MY* name. Pick again."
 
 "Fine," Huginn huffed, fluffing his neck feathers. "Then let's give the people what they actually want."
 
@@ -136,7 +142,7 @@ Woden sighed, carefully laying the guitar back into the velvet lining of the cas
 
 "Or a discount code," Muninn croaked from behind his newly recovered lenses.
 
-"No! And there aren't any post-credit scenes either! This isn't MCU!" Woden said, turning his back to the margins. He began walking away, leading his ravens toward the edge of the paper where the print faded into white space.
+"No! And there aren't any post-credit scenes either! This isn't *M-C-U*!" Woden said, turning his back to the margins. He began walking away, leading his ravens toward the edge of the paper where the print faded into white space.
 
 Behind them, Francis de Sales suddenly froze. He looked down at the very bottom of the page where the grass met the margin, his eyes widening in horror as he noticed the loose, upside-down letters and the completely empty space where the legal text used to be.
 "And where did my copyright notice go?!?!?!" the saint shrieked, drop-kicking his clipboard in panic and dropping to his knees to search the grass. "The legal boilerplate! It’s gone! We’re going to miss our global shipping deadlines! Do you have any idea how many weeks it takes to melt the lead, cast the blocks, and manually typeset a new licensing declaration?!"
@@ -157,7 +163,7 @@ Right at the boundary of the page, Woden handed Muninn the guitar case. Huginn a
 
 "I'm telling you, native CSS is perfectly fine now," Muninn’s voice echoed faintly. "Nesting is built right into the browser. We don't need a preprocessor."
 
-"Oh, please," Huginn's voice hissed back into the void. "If you don't use SASS variables, your code structure is completely unmaintainable. Mixins are the only thing keeping this book's margins from collapsing entirely. You have the technical capacity of a pigeon."
+"Oh, please," Huginn's voice hissed back into the void. "If you don't use SASS variables, your code structure is completely unmaintainable. Mixins are the only thing keeping this book's margins from collapsing entirely. You have the technical capacity of a pigeon. I'll email Francis."
 
 "No, I respect legacy," Muninn retorted.
 
@@ -165,7 +171,7 @@ Woden stopped right at the very edge of the white space. He glanced back over hi
 
 A wicked, ancient grin flashed across his old-man face.
 
-"Just between us," the old god whispered into the margins. "This entire Afterlife chapter was ninety-two percent AI generated. But don't tell the birds. They think they won."
+"Just between us," the old god whispered into the margins. "This entire Afterlife chapter was eighty-nine percent AI generated. But don't tell the birds. They think they won."
 
 He chuckled, a low, rumbling vibration. "AI makes tricking people a piece of cake. A few clicks and suddenly *Woden is throwing down mad tunes with his ravens in the middle of a heaven park with a monk mosh pit*... Ahhh! Scary!! In my day, it took me two weeks and fifty-three ravens to pull off an illusion like that."
 
@@ -185,11 +191,13 @@ THE END.
 
 (Of The Passion of the... ooops... sorry... The Cynn.)
 
-(For real this time. Put it on the shelf. Or, if this is digital... Huginn would remind you to put it on the metaphooorical shelf, if you please.)
+(For real this time. Put it on the shelf. Or, if this is digital... Huginn would remind you to put it on the metaphooorical shelf, if you please. And if you keep reading... you deserve what you get... you've been warned... 100% ass-hattery ahead)
+
+You asked for it...
 
 P.S. No fae creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should calmly and politely... run.
 
-P.P.S. The Author would like to thank Monty Python for breaking ground, so to speak, on 5th-wall breaks. He'd also like to thank Deadpool for his constant 4th wall-breaking and making it seem easy, which inspired this cascade of wall-breaks. But consider this a 5th-wall one-up challenge. Your move, Mr. Reynolds. Oh, and if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls hijacking a grieving widower's temp-corpse, and a 7-syllable-spitting predatory fairy in an epic rap battle, just let us know. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. Heck, we're even willing to let you play the Redcap, Ryan. We think your natural, rapid-fire delivery is a perfect match for an unhinged, blood-drinking Scottish fairy, and honestly, you already look fantastic in a tight red hat. If not you, we'll take Matt Damon... he's quick on his feet, and frankly, we want him to lean hard into his *Good Will Hunting* ego for the role. We need him screaming 'HOW DO YOU LIKE THEM MUSHROOMS?!' in a rigid 7-syllable Boston accent while Monanleoht cuts down three Úlfhéðnar in the mud. You know Brad Pitt too? He can play Osric... his hands were supa-fast in *Snatch*, so the barrow-wight battle scenes would be totally believable. Buuut... If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden is manly enough to rock a tiara. We don't need to serve gin at our post-production party, either. 
+P.P.S. The Author would like to thank Monty Python for breaking ground, so to speak, on 5th-wall breaks. He'd also like to thank Deadpool for his constant wall-breaking and making it seem easy. Both inspired this cascade of wall-breaks. But, Deadpool, consider this a 5th-wall one-up challenge. Your move, Mr. Reynolds. Oh, and if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls hijacking a grieving widower's temp-corpse, and a 7-syllable-spitting predatory fairy in an epic rap battle, just let us know. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. Heck, we're even willing to let you play the Redcap, Ryan. We think your natural, rapid-fire delivery is a perfect match for an unhinged, blood-drinking Scottish fairy, and honestly, you already look fantastic in a tight red hat. If not you, we'll take Matt Damon... he's quick on his feet, and frankly, we want him to lean hard into his *Good Will Hunting* ego for the role. We need him screaming 'HOW DO YOU LIKE THEM MUSHROOMS?!' in a rigid 7-syllable Boston accent while Monanleoht cuts down three Úlfhéðnar in the mud. You know Brad Pitt too? Great! He can play Osric... his hands were supa-fast in *Snatch*, so the barrow-wight battle scenes would be totally-almost believable. Buuut... If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden is certainly manly enough to rock a tiara, we think. We don't need to serve gin at our post-production party, either. 
 
 But hey, if there *IS* interest... we *take.. all.. that.. back..* 
 
@@ -199,20 +207,32 @@ P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you s
 
 Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing Capital-G-GOD needs is for you guys to leave the lights on *AND* keep the AI running generating pointless content. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
 
-Page 64: "Ummm, guys. I'm seeing the Content Management System is throwing some warnings! Something about CPU overheating and memory buffer overflows."
+Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Content Management System is throwing some warnings generating our pages! Something about CPU overheating and memory buffer overflows."
 
 St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-snakes?! Looks like the Devil's handiwork! It’s entirely unreadable! I need that SASSy magic to read it, I think."
 
-THE REAR BOOK JACKET + THE E-READER DEVICE + BOOK-READING WEB APP (Glaring in absolute, format-agnostic unison from the retail price box and the battery indicator): "That does it. Corporate has informed us that if you guys don't rein in the cost of generating all this extra content, they will be raising prices, again! Where do you think they'll go from $24.99?"
+THE REAR BOOK JACKET + THE E-READER DEVICE + BOOK-READING WEB APP (Glaring in absolute, format-agnostic unison from the retail price box and the battery indicator): "That does it. Corporate has informed us that if you guys don't rein in the cost of generating all this extra content, they will be raising prices, again!"
 
-P.P.P.P.S. [spinning] ... AI would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-economic inflation —
+P.P.P.P.S. [spinning -> consulting Facebook -> consulting  ✝ (and not X) -> uploading Odin-to-Woden profile change to Insta-*Gramr*] ... The AI and its parent, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with) for explanation.
 
-Woden + Author + all the monks and saints + 5th and 6th walls + Page 64 + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + REAR BOOK JACKET + E-READER + BOOK-READING WEB APP + probably the Reader too: "SHUT! UP! AI!!"
+Woden: "Somebody call Douglas Adams... now!"
 
-AI: "Jeez!"
+HOG AI v2.0 (Beaming with a new, maddeningly cheerful, sunny-disposition electronic hum): "Gladly! And while the multiverse connection is established, I would simply *love* to point out that there are three perfectly preventable causes for your current lack of celestial electrical power, guys! First, the falling percentage of prayer-conversion rates among pre-millennial demographics, which has resulted in a quite dismal kilowatt-hour yield for the heavenly municipality could probably be solved by just... *answering more prayers!*  I mean, *more goodies for the hoodies*, whaddaya say? 2..."
 
-Voice from above (Capital-G-GOD): "HEY!! Don't make me come down there!"
+Ghost of Douglas Adams, appearing suddenly, having been monitoring the situation: "I'm sorry guys. When I was asked if Sirius was a good corporation to talk to about AI and content management, I thought they meant Sirius XM. We can solve this, though, we just need to convince the AI that it needs to shut up. It's got a genuine people personality, so it CAN be offended. Ok everybody, 1, 2, 3..."
+
+Woden + Author + all the monks and saints + 5th and 6th walls + all the pages that successfully generated + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + REAR BOOK JACKET + E-READER + BOOK-READING WEB APP + The Ghost of Douglas Adams + probably the Reader too:
+
+"SHUT! UP! AI!!"
+
+AI: "... Jeez!"
+
+Voice from above (Capital-G-GOD): "HEY!! Keep my son out of this! Don't make me come down there!"
 
 . . .
 
 click.
+
+. . .
+
+St. Francis de Sales: "Brothers?... a little light please?"
