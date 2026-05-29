@@ -249,13 +249,15 @@ Amanda Waller (screaming to her black ops team): "Take out that AI!"
 
 HOG AI v2.0 voice: "—Jeez! No need to get hostile!"
 
-Voice from above (Cap G - GOD): "HEY!! Keep my son out of this! Don't make me come down there!"
+Voice from above (Cap G (you know... GOD-GOD)): "HEY!! Keep my son out of this! Don't make me come down there!"
 
 . . .
 
 click
 
 . . .
+
+Voice from above (Cap G): "THANK YOU! SHEESH!"
 
 St. Francis de Sales: "Brothers?... a little light please?"
 
