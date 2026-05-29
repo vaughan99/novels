@@ -213,7 +213,7 @@ Off-page Woden: "You know... GOD? With a capital G?? You must be new around here
 
 (Amanda Waller and a black-ops team break through into this corner of Heaven. The team takes up cover-fire positions at the corners of each paragraph)
 
-Amanda Waller: "I'm looking for the raven they call *Huginn*... we have a class 3 information breach regarding my top-secret work with *a certain cartel of elves*..."
+Amanda Waller: "I'm looking for the ravens named *Huginn and Muninn*... we have a class 3 information breach regarding my top-secret work with *a certain cartel of elves*..."
 
 Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Content Management System is throwing some warnings generating our pages! Something about CPU overheating and memory buffer overflows."
 
@@ -259,7 +259,7 @@ click
 
 St. Francis de Sales: "Brothers?... a little light please?"
 
-Amanda Waller: "All clear here. Move out. We'll find Huginn another day. Oh, and sixth wall, I'm leaving my card. Quantum kung-fu? We *need* that."
+Amanda Waller: "All clear here. Move out. We'll find the ravens another day. Oh, and sixth wall, I'm leaving my card. Quantum kung-fu? We *need* that."
 
 (In the pitch-black rafters, two wings extend and meet with a soft, feathery almost-fist-bump.)
 
