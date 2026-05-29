@@ -177,7 +177,7 @@ He chuckled, a low, rumbling vibration. "AI makes tricking people a piece of cak
 
 Woden paused, his eye narrowing as he leaned an inch closer to the frame, his tone shifting into a haughty, dangerously manic rumble.
 
-"Oh, and if they hock the movie rights, tell them that we absolutely need Ian McKellen to play me. If he isn't available... tell the AI we need a Liam Neeson and Mel Gibson mashup. You need that bad-ass set of skills and some wild *Braveheart* hair to capture this war-trickster awesomeness. That should work."
+"Oh, and if they hock the movie rights, tell them that I have some casting notes. I do *NOT* want to be played as Gandalf! I must be strict on this point. Sorry, Sir Ian, but my first choice is Captain Barbossa. Mr. Rush, if you're listening, you would make the *perfect* Woden. If he's not available, call *The Green Goblin* and ask him if Mr. Dafoe is available. He played an Odin shaman... I say maybe it's time for an *upgrade*, hmm?  If all else fails, tell the AI we need a Liam Neeson and Mel Gibson mashup. You need that bad-ass set of skills and some wild *Braveheart* hair to capture this war-trickster awesomeness. That should work."
 
 Woden paused again, the manic edge bubbling to the surface and pointed his finger straight at you, the reader. "And don't go calling it *The Passion of the Woden*. That would really piss me off!"
 
