@@ -3,13 +3,13 @@
 
 It had been a brutal trek. Somewhere along the way, the ravens had picked up a microphone stand left idle under the Afterword from the last book.
 
-"My wings are absolutely killing me," Huginn grouched, hopping onto a wooden picnic bench and shaking out his glossy primary feathers. "Did the Author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for an eternity just to get to the back matter."
+"My wings are absolutely killing me," Huginn grouched, landing on a wooden picnic bench and shaking out his glossy primary feathers. "Did the Author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for an eternity just to get to the back matter."
 
 Muninn let out a loud, ecstatic caw, tilting his head back in pure relief. "Are you kidding? I loved it! The Author TRULY gets me! All those historical citations, the etymology of the blades, the archeological context... it’s beautiful. I haven't felt so validated as when Wikipedia first opened its website."
 
 "You're a nerd, bro," Huginn muttered, gently righting the microphone stand with his claws onto the ground.
 
-They had finally arrived in Neorxnawang — the eternal, blissful paradise corner of Heaven of the Anglo-Saxon Christians. Translators had spun it as a place of infinite reward, but to an ancient god of the shield-wall, the "Meadow of Contentment" felt less like a city of gold and more like a hyper-realized, unnervingly pristine municipal park. The grass never needed mowing, the sun sat in a permanent, golden late-afternoon state, and a profound, mandatory quiet hung over the manicured lawns. Divine decree strictly forbade any work, strife, or noise within the margins. It was a permanent state of - chill. For an old ex-god who had traded his grey-wolf madness for a grey suit, this mandatory serenity was completely suffocating. He had exchanged his screaming berserkers for silent saints, and he was bored out of his mind.
+They had finally arrived in Neorxnawang — the eternal, blissful, if somehwat-awkwardly-named, paradise corner of Heaven of the Anglo-Saxon Christians. Translators had spun it as a place of infinite reward, but to an ancient god (little-g) of the shield-wall, the "Meadow of Contentment" felt less like a city of gold and more like a hyper-realized, unnervingly pristine municipal park. The grass never needed mowing, the sun sat in a permanent, golden late-afternoon state, and a profound, mandatory quiet hung over the manicured lawns. Divine decree strictly forbade any work, strife, or noise within the margins. It was a permanent state of - chill. For an old ex-god who had traded his grey-wolf madness for a grey suit, this mandatory serenity was completely suffocating. He had exchanged his screaming berserkers for silent saints, and he was bored out of his mind.
 
 "Huginn, where's the reception? They did know we were coming, right?" Muninn said, confused.
 
@@ -205,7 +205,11 @@ P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you s
 
 6th WALL (Where the walls start talking back): "Stay back, Author! I'm warning you! I know quantum kung fu! And I am not afraid to use it — and I gave Mel Brooks a stern talking-to after Blazing Saddles, and I will absolutely do the same to you!"
 
-Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing Capital-G-GOD needs is for you guys to leave the lights on *AND* keep the AI running generating pointless content. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
+Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing *Cap-G* needs is for you guys to leave the lights on *AND* keep the AI running generating pointless content. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
+
+Author: "Who's *Cap-G*?"
+
+Off-page Woden: "You know... GOD? With a capital G?? You must be new around here."
 
 (Amanda Waller and a black-ops team break through into this corner of Heaven. The team takes up cover-fire positions at the corners of each paragraph)
 
@@ -245,7 +249,7 @@ Amanda Waller (screaming to her black ops team): "Take out that AI!"
 
 HOG AI v2.0 voice: "—Jeez! No need to get hostile!"
 
-Voice from above (Capital-G-GOD): "HEY!! Keep my son out of this! Don't make me come down there!"
+Voice from above (Cap G - GOD): "HEY!! Keep my son out of this! Don't make me come down there!"
 
 . . .
 
