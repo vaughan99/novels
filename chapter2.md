@@ -6,7 +6,7 @@ Osric was a man of the earth, an Anglian, his hands calloused by wood and iron l
 
 His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near Hagustealdsham. His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
 
-Osric's wife was Ealhild, a woman of the Danes who was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were a kindred spirit. They followed Freyr and knew ancient wisdom, but sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the Piceringas, roughly ninety miles to the south. It was a lush valley, free of boulders, and easy to plow. Her family was established enough for four generations. Her great-grandfather marched in Halfdan's host to take York. He immediately found what he was looking for, a plot of land for his service. Her grand-father bred the first of the areas famous cows, and their wealth grew steadily. Ealhild was the last of seven daughters. The family was looking for expansion of their lines, and had enough dowry to marry them in all directions. 
+Osric's wife was Ealhild, a woman of the Danes who was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were a kindred spirit. They followed Freyr and knew ancient wisdom, but sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the Piceringas, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow. Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. He immediately found what he was looking for, a plot of land for his service. Her grand-father bred the first of the areas famous cows, and their wealth grew. Ealhild was the last of seven daughters. The family was looking for expansion of their lines, and had enough dowry to marry them in all directions. 
 
 Ealhild's family, being Freyr worshippers, were superstitious. The family funeral barrow was young by Dane standards, but had battle-wisdom of Halfdan's host and field-fast wisdom of many farmers from neighboring fields. Her mother would teach her that one day, she would marry, and would travel far away. When she went, she would take a barrow-stone with her... to bring the spirits of her ancestors to help her tame her new land. Ealhild knew this to be true, as she was a very astute learner from the youngest of age.
 
@@ -41,7 +41,7 @@ Huginn: "The goblins are waking, Muninn! They feel the lukewarm water. They’re
 
 Muninn: "She called for a medicine, but the brew is a doom. The 'goblins' have long memory Huginn, and they don't forget or forgive a cold hearth. They’ll play their 'foul magic' into the blood yet."
 
-Huginn: "Even ravens skip over the goblin-sick. It's such a slow hateful malice."
+Huginn: "Even ravens skip over the goblin-sick. It's such a hateful malice."
 
 ---
 
@@ -49,7 +49,7 @@ Ealhild retreated back upstairs, confident that her measures would at least trac
 
 The next day, Ealhild reviewed the night's work. The coal lines and leveling sticks seem to show that the grain had not been touched. She noted also the oil had traveled to another part of the bin. The outline of a small finger on the side of the bin betrayed its origin. "Oh my sweet spirit. Only you are smart enough to counter the coal lines and leveling sticks, because you know how to erase, how to replace. But you can't fool the oil." She ran outside to check on the horse and livestock, and found extra grain in the horse's feed. She also saw that the horse's mane had been neatly braided, and that her horseshoes were freshly plucked and clean.
 
-Smiling, Ealhild finally knew her thief, and she was relieved. It was a nisse, a barrow-spirit, brought with her barrow-stone twelve years previous. The nissar were spirits who come forth from the barrows, and guard the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and it was sensing a terrible winter was coming. A nisse would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse for the winter.
+Smiling, Ealhild finally knew her thief, and she was relieved. It was a nisse, a barrow-spirit, brought with her barrow-stone twelve years previous. The nissar were spirits who come forth from the barrows, and guard the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and it was sensing a terrible winter was coming. A nisse would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse for the winter. The nisse had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
 
 She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin. "We need extra tonight... and I know just what to make," she thought to herself, as she steeled herself inside.
 
@@ -71,17 +71,19 @@ The youngest of the children was "Eaxl", whose name literally meant wheel-axle. 
 
 A single cough broke through the high-pitched whine from outside. It was a short, sharp hack from the girls' loft — little Eaxl, suffering the first subtle hint of the humour-sickness. Ealhild was awake instantly, her protective instinct overriding her own deep exhaustion. She slipped out from beneath the warm wool furs, the freezing floorboards biting at her bare feet as she quietly made her way down to the hearth.
 
-The fire had dropped to a low, smoldering orange. It was hot enough to stoke back to warm the griddle.
+The fire had dropped to a low, smoldering orange. It was hot enough to stoke back to warm the griddle. Ealhild grabbed a few more small branches from the pile, and nudged the fire hotter.
 
-She quickly gathered what she needed from the cellar to make her famous honeyed oatcake and syrup medicine. She didn't spot Osric's tampering in the candlelight.
+She quickly gathered what she needed from the cellar to make her famous honeyed oatcake and syrup medicine. She didn't have time to check the bowl. Every moment mattered, and she didn't spot Osric's tampering in the candlelight.
 
-She made sure to make enough for everyone. Her mother would say, "A measure for one is a measure for all. Heal the first cough, or tend a full household of graves before the moon turns." She topped each one of her cakes with syrup, and extra honey to help it go down. The syrup bottle opened normally, as the goblin-air had been spent by Osric a short while before. She woke each of the children, and Osric. And they all ate the medicine in the glow of the kitchen that night.
+She made sure to make enough for everyone. Her mother would say, "A measure for one is a measure for all. Heal the first cough, or tend a full household of graves before the moon turns." She topped each one of her cakes with syrup, and extra honey to help it go down. The syrup bottle opened normally, as the goblin-air had been spent by Osric a short while before. There was yet more goblin-air in the liquid, waiting to unleash its foulness. She woke each of the children, and Osric. And they all ate the medicine in the glow of the kitchen that night.
 
-The sickness hit the moment they each went to bed. The honey had trapped the goblins, giving them no time to escape into the ether. Their stomachs stole the honey for itself, leaving the foul creatures free. The goblins, now crawling through the blood, stole the very air of their lungs before it could reach the breast. 
+The sickness hit the moment they each went to bed. The honey had trapped the goblins, giving them no time to escape into the ether. Their stomachs stole the honey for itself, leaving the foul creatures free. The goblins, now crawling through the blood, stole the very air of their lungs before it could reach the breast. It's best not to speak of what happened next. What is best to say, is that Ealhild and the children did not survive the night.
+
+The nisse slipped under the door of the cottage into the house. Over the last twelve years, it had memorized every creak of the floor. It navigated silently toward the cellar door. Like a shadow following a candle, it made its way through the planks of the hatch into the underneath.
+
 
 [TODO]
 
-The children were playing by the hearth when the sickness hit. Their skin turned red-purple, as their blood tried to reject the goblins inside. Their breath was thin, and they grew weaker as the moon traveled high in the night sky. Ealhild and Osric felt it too. The weakness stole their watch over them. The children's breath was stolen that very night. 
 
 Ever curious, the hob prowled their beds in the wee hours, and saw the purple stains of the goblin-magic on their dead and dying lips. He realized that the goblins were not meant for him in his cream-bowl... it was meant for all, a mistake of the cold hearth. His expression turned from anger to grim. He knew the cold was next, and the hunger that followed was his doing. He went back to the cellar, and pulled at his black oiled hair. What could he do? The goblins' magic can't be undone! He felt ashamed, for he had gotten too greedy, and Ealhild had spent too much time chasing his theft and not paying attention to the elderberries. He grabbed the oil-string, the proof of his theft, and left in the cold. He knew of only the forge-elves who could attempt to right this wrong.
 
