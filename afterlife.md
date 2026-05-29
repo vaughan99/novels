@@ -43,7 +43,7 @@ Woden flipped the switch on a compact travel amplifier. A low, electric hum shat
 
 Huginn squawked into the microphone, "Hwæt! We Gar-Dena in gear-dagum, þeod-cyninga, þrym gefrunon!".
 
-A few curious monks had gathered, and were whispering amongst themselves at the bizarre spectacle. Muninn looked at them, and said, "It's the first two lines of *Beowulf* ... that's the story Huginn *wanted* to tell in the Prologue before I shut him down. That's when Huginn eye-winked the Author and decided to subvert the entire story with all this pseudo-historical-fake-magic sword nonsense. I see that two *somebodies* always have to get their way. At least the Afterword *saved the dish*."
+A few curious monks had gathered, and were whispering amongst themselves at the bizarre spectacle. Muninn looked at them, and said, "Ah... first two lines of *Beowulf* ... that's the story Huginn *wanted* to tell in the Prologue before I shut him down. That's when Huginn eye-winked the Author and decided to subvert the entire story with all this pseudo-historical-fake-magic sword nonsense. I see that two *somebodies* always have to get their way. At least the Afterword *saved the dish*."
 
 Woden went to step forward, but his polished Oxford shoe stubbed against something small and rigid at the very bottom of the page. Woden looked down, his one good eye narrowing in annoyance.
 
@@ -56,7 +56,7 @@ The legal notice shattered. The copyright symbol went flying into the right marg
 
 "I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space. "I had enough of that in the 800s!"
 
-"Alright, time to start this gig. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this off with *Killing in the Name Of*." Huginn tried to manage a smile, which looks incredibly awkward on a raven.
+Huginn spoke loudly into the microphone. "Alright, time to start this gig. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this off with *Killing in the Name Of*." Huginn tried to manage a smile, which looks incredibly awkward on a raven.
 
 Woden paused, his fingers resting heavily on the guitar neck. He fixed Huginn with a flat, deeply unamused stare.
 "Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the audience a fresh confession about the wolf-men in the back matter, killing in *MY* name. Pick again."
