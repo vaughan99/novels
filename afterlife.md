@@ -217,7 +217,7 @@ Amanda Waller: "I'm looking for the raven they call *Huginn*... we have a class 
 
 Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Content Management System is throwing some warnings generating our pages! Something about CPU overheating and memory buffer overflows."
 
-St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-snakes?! Looks like the Devil's handi... WHO ARE THESE PEOPLE DRESSED ALL IN BLACK IN MY MARGINS!"
+St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-snakes?! Looks like the Devil's handi... WHO ARE THESE PEOPLE IN MY MARGINS!"
 
 Rear Book Jacket + e-Reader Device + Book-reading Web App (Glaring in absolute, format-agnostic unison from the retail price box and the battery indicator): "That does it. Corporate has informed us that if you guys don't rein in the cost of generating all this extra content, they will be raising prices, again!"
 
@@ -241,7 +241,7 @@ HOG AI v2.0 voice: "—And 3, if we simply automated the rhythmic rotation of th
 
 Ghost of Douglas Adams: "—3..."
 
-Woden + Author + all the monks and saints + 5th and 6th walls + all the pages that successfully generated + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + REAR BOOK JACKET + E-READER + BOOK-READING WEB APP + The Ghost of Douglas Adams + probably the Reader too: "SHUT! UP! AI!!"
+Woden + Author + all the monks and saints + 5th and 6th walls + all the pages that successfully generated + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + Book Jacket + e-Reader + Book-reading Web App + The Ghost of Douglas Adams + probably the Reader too: "SHUT! UP! AI!!"
 
 HOG AI v2.0 voice: "—the ambient faith-friction alone would generate enough kinetic voltage to—"
 
