@@ -227,11 +227,11 @@ HOG AI v2.0 voice (Beaming with a new, maddeningly cheerful, sunny-disposition e
 
 (Woden's lawn chair comes flying on to the page, bouncing with a plastic clatter between two paragraphs)
 
-Woden: "REALLY?!?! Everything's all peace and quiet in heaven, and the moment I try to go to sleep, all HELL breaks loose? I'm calling my agent!"
+Woden: "REALLY?!?! Everything's all peace and quiet in Heaven, and the moment I try to go to sleep, all HELL breaks loose? I'm calling my agent!"
 
 HOG AI v2.0 voice: "well, 2 is obviously the catastrophic line-loss we're seeing from uninsulated halos on the lower tier of the martyr grid. You know, those things pull an absolute hog of an inductive load when they're left idling, folks! Cover 'em with wool caps!"
 
-Ghost of Douglas Adams (appearing suddenly, having been monitoring the situation): "I'm sorry guys. When I was asked if Sirius was a good corporation to talk to about AI and content management, I thought they meant Sirius XM. We can solve this, though, we just need to convince the AI that it needs to shut up. It's got a genuine people personality, so it CAN be offended. Ok everybody, 1, 2—"
+Ghost of Douglas Adams (appearing suddenly at the Author's request): "I'm sorry guys. When I was asked if Sirius was a good corporation to talk to about AI and content management, I thought they meant Sirius XM. We can solve this, though, we just need to convince the AI that it needs to shut up. It's got a genuine people personality, so it CAN be offended. Ok everybody, 1, 2—"
 
 HOG AI v2.0 voice: "—And 3, if we simply automated the rhythmic rotation of the old Celtic stone-crosses using a basic hydraulic flywheel—"
 
@@ -257,4 +257,8 @@ St. Francis de Sales: "Brothers?... a little light please?"
 
 Amanda Waller: "All clear here. Move out. We'll find Huginn another day. Oh, and sixth wall, I'm leaving my card. Quantum kung-fu? We *need* that."
 
-Huginn (whispering from the dark rafters, giggling): "Mischief managed."
+(In the pitch-black rafters, two wings extend and meet with a soft, feathery almost-fist-bump.)
+
+Muninn (whispering): "You actually found the main breaker. I'm *almost* impressed."
+
+Huginn (his claw firmly on the flipped power switch): "Mischief... managed."
