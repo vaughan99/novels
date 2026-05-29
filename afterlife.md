@@ -209,25 +209,25 @@ Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? O
 
 (Amanda Waller and a black-ops team break through into this corner of Heaven. The team takes up cover-fire positions at the corners of each paragraph)
 
-Amanda Waller: "I'm looking for the raven they call *Huginn*... we have a class 3 information breach regarding my work with *a certain cartel of elves*..."
+Amanda Waller: "I'm looking for the raven they call *Huginn*... we have a class 3 information breach regarding my top-secret work with *a certain cartel of elves*..."
 
 Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Content Management System is throwing some warnings generating our pages! Something about CPU overheating and memory buffer overflows."
 
 St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-snakes?! Looks like the Devil's handi... WHO ARE THESE PEOPLE DRESSED ALL IN BLACK IN MY MARGINS!"
 
-THE REAR BOOK JACKET + THE E-READER DEVICE + BOOK-READING WEB APP (Glaring in absolute, format-agnostic unison from the retail price box and the battery indicator): "That does it. Corporate has informed us that if you guys don't rein in the cost of generating all this extra content, they will be raising prices, again!"
+Rear Book Jacket + e-Reader Device + Book-reading Web App (Glaring in absolute, format-agnostic unison from the retail price box and the battery indicator): "That does it. Corporate has informed us that if you guys don't rein in the cost of generating all this extra content, they will be raising prices, again!"
 
-P.P.P.P.S. [spinning -> consulting Facebook -> consulting  ✝ (and not X) -> uploading Odin-to-Woden profile change to Insta-*Gramr*] ... The AI and its parent company, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with) for explanation.
+P.P.P.P.S. [spinning -> consulting Facebook -> consulting  ✝ (and not X) -> uploading Odin-to-Woden profile change to Insta-*Gramr*] : "... The AI and its parent company, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with) for some ideas to improve the situation."
 
 Author: "Somebody call Douglas Adams... now!"
 
 Amanda Waller (clicking an earpiece): "Hold off on reinforcements. The tactical situation here..."
 
-HOG AI v2.0 voice (Beaming with a new, maddeningly cheerful, sunny-disposition electronic hum): "Gladly! And while the multiverse connection is established, I would simply *love* to point out that there are three perfectly preventable causes for your current lack of celestial electrical power, guys! First, the falling percentage of prayer-conversion rates among pre-millennial demographics, which has resulted in a quite dismal kilowatt-hour yield for the heavenly municipality could probably be solved by just... *answering more prayers!*  I mean, *more goodies for the hoodies*, whaddaya say? 2..."
+HOG AI v2.0 voice (Beaming with a new, maddeningly cheerful, sunny-disposition electronic hum): "Gladly! And while the multiverse connection is established, I would simply *love* to point out that there are three perfectly preventable causes for your current lack of celestial electrical power, guys! First, the falling percentage of prayer-conversion rates among pre-millennial demographics, which has resulted in a quite dismal kilowatt-hour yield for the heavenly municipality could probably be solved by just... *answering more prayers!*  I mean, *more goodies for the hoodies* guys, whaddaya say? 2..."
 
 (Woden's lawn chair comes flying on to the page, bouncing with a plastic clatter between two paragraphs)
 
-Woden: "REALLY?!?! Everything's all peace and quiet in Heaven, and the moment I try to go to sleep, all HELL breaks loose? I'm calling my agent!"
+Woden: "REALLY?!?! Everything's all peace and quiet in Heaven, and the moment I try to go to sleep, all HELL-HEIM breaks loose? I'm calling my agent!"
 
 HOG AI v2.0 voice: "well, 2 is obviously the catastrophic line-loss we're seeing from uninsulated halos on the lower tier of the martyr grid. You know, those things pull an absolute hog of an inductive load when they're left idling, folks! Cover 'em with wool caps!"
 
