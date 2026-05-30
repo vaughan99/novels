@@ -70,8 +70,8 @@ There was a song for the safe button and field mushrooms of the leigh:
 ```
 Fingerwide three, count with me,
 leather-in-leigh, for the pot it be.
-None for the forest, none for the tree,
-all for the pot, and all for thee.
+None for the forest, none for tree,
+all for the pot, all for thee.
 ```
 
 There was a song to ward against the powerful deathcap mushroom:

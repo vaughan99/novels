@@ -6,7 +6,7 @@ Muninn reaches down with his beak and snatches the loose tailfeather from Huginn
 
 Huginn squawked and hopped sideways while peeking at his tail.
 
-Muninn: "That's ONE! One sin against the childrens' ears!"
+Muninn: "That's ONE! One sin against the children's ears!"
 
 Muninn aggressively scratch the bench with the feather's quill.
 
@@ -18,7 +18,7 @@ Muninn: "TWO! A mother and her two children *poisoned* ... TO DEATH ... by some 
 
 Muninn made another scratch.
 
-Muninn: "THREE! A man’s innards turned into a Damien Hirst macabre ice sculpture because Fyrleoht decided to act out 'A Song of Ice and Fire' for her man?!"
+Muninn: "THREE! A grieving widower is jammed into a winter meat-locker with a giant monster for THREE MONTHS, then you torture him in the mud, THEN he gets abducted by the same monster-turned-wifey while his kids hack away at Viking-weeds? 11 out of 10 on the horror meter!"
 
 Muninn made another scratch, yet deeper.
 
@@ -36,7 +36,7 @@ Huginn: "But it had a happy ending! They all... survived!"
 
 Muninn dropped the pen.
 
-Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf Montessori school acting like a black-ops Amanda Waller and weaponized a reverse-Titanic love story boiled down to a horrific, glacier-frosting kitchen utensil, an abducted shroom-addled foul-poet Chucky doll, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas next winter, Huginn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Huginn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
+Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf Montessori school acting like a black-ops Amanda Waller and weaponized a ghoulish crying tiny-giant crammed into a kitchen utensil, an abducted shroom-addled foul-poet Chucky doll, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas next winter, Huginn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Huginn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
 
 Huginn: "Well, I'm sorry I took five thousand, one hundred and twenty-three bites from YOUR corpse-meal! The children like gravy on their meat, Muninn. You like your meals stone-cold, and dry."
 

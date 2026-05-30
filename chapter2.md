@@ -29,7 +29,7 @@ The cold is not what marked the season for Osric. No, the beginning of winter wa
 
 Ealhild would note that each time she pulled grain from the chests in the cellar, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints or leavings of rats. She brought Osric down, candle in hand, to show him. He was tired from late fall's work, sowing the fields, fixing thatch, mending and insulating pens, and had not yet even begun stocking the wood-stack. He had no time for such matters of the cellar. "Ealhild, I trust you to work the cellar. The cellar is your field. Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
 
-And so she set to work. She started with the obvious things. "Maybe the feet of these rats are not heavy to make tracks?" With the width of her fingers as a guide, she meticulously measured each gap and every seal, every box and every salted wrap. Nothing. "Maybe my memory is failing. I need to track the theft." So she delved deep into her Freyr-family's wisdom. "Lines of charcoal on the box, counting one two and three. A leveling stick in the center, notched one two and three. Those will mark the theft, if the thief be of flesh and bone. But... " She searched her mind for all the possibilities. She grabbed the vial of linseed oil, and bit of yarn from her knitting basket. "The last ward... a linseed-oil string to mark the opening of the lid, all the way 'round." She oiled the string, nailed it to the inside lid of the massive chest of grain, and saw the mark of oil it left. "Now let the thief come reveal its nature."
+And so she set to work. She started with the obvious things. "Maybe the feet of these rats are not heavy to make tracks?" With the width of her fingers as a guide, she meticulously measured each gap and every seal, every box and every salted wrap. Nothing. "Maybe my memory is failing. I need to track the theft." So she delved deep into her Freyr-family's wisdom. "Lines of charcoal on the box, counting one two and three. A leveling stick in the center, notched one two and three. That's good enough for rats and children's hands. But... " She searched her mind for all the possibilities. She grabbed the vial of linseed oil, and bit of yarn from her knitting basket. "The last ward... I'll seal the chests with tallow, save a small hole at the top. I'll nail a linseed-oil string to mark the opening of the lid. If this is what I think it is, it will see the hole as an opening, and use the string to get out." She smeared tallow into the lines between the boards. She oiled the string, nailed it to the inside lid of the massive chest of grain. "Now let the thief come reveal its nature."
 
 She reminded the children. "Do not visit the cellar for any reason. I have wards in place for a visitor. You must not warn them." And the children obeyed.
 
@@ -79,8 +79,23 @@ She made sure to make enough for everyone. Her mother would say, "A measure for 
 
 The sickness hit the moment they each went to bed. The honey had trapped the goblins, giving them no time to escape into the ether. Their stomachs stole the honey for itself, leaving the foul creatures free. The goblins, now crawling through the blood, stole the very air of their lungs before it could reach the breast. It's best not to speak of what happened next. What is best to say, is that Ealhild and the children did not survive the night.
 
-The nisse slipped under the door of the cottage into the house. Over the last twelve years, it had memorized every creak of the floor. It navigated silently toward the cellar door. Like a shadow following a candle, it made its way through the planks of the hatch into the underneath.
+The nisse slipped under the door of the cottage into the house. Over the last twelve years, it had memorized every creak of the floor. It navigated silently toward the cellar door. Like a shadow following a candle, it made its way through the very planks of the hatch into the underneath. It went to claim what was owed. From a narrow knot-hole in the wood, it had watched her boots move back and forth across the cellar floor all day, tracking the winter math of its domain.
 
+The nisse centered its gaze, downward over the bowl in the cellar. "Sturdy bowl. Sturdy offering." it thought. The nisse picked up the bowl and narrowed its gaze further. "Rye. Bread. Belly meat. Swine. This??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Nuts... Burnt... Sick-Wet."
+
+The nisse brought the finger to his snout and deeply inhaled. The last of the goblin-air tried to invade his lungs. The nisse realized instantly it was poison.
+
+"Vile. Poison. MY. PRIZE." Each thought punched against its skull.
+
+"GOBLINS! FAMILY! BROKEN! ... SEAL!!"
+
+The small nisse's fury grew with each word. The madness oozed from its pores like a grey miasma. Just as it leaked out, it breathed, and flushed back in through every pore and orifice. It swelled into every corner of the creature. It grew, its heart pumping miasmic hate out of, and back into its being.
+
+It was brought here. Given this land to tend. For twelve years, the nisse had watched, learned, listened, and protected. No wolves had approached the door. It picked all the blighted plants before their sickness could spread. It earned its keep. It earned respect. It earned... love.
+
+The nisse's fury turned inward. The swelling touched every sinew, every muscle. It hardened and softened with every beat, becoming stone, then mud, over and over as it grew larger. The nisse grew to the size of a giant in that small cellar. With both hands, it grabbed beams of the foundation, timbers that reached all the way into the ceiling. It lifted the entire thatch roof off the walls with a primal yet *silent*... scream. 
+
+It stopped, holding the roof's foundation high in the air, with a silent scream in its mind. Its arms were steady, its legs unshakeable. Then, the nisse let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold rushed in, slapping the faces of Ealhild and the children... purple from the goblin sickness, and frozen in time.
 
 [TODO]
 

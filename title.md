@@ -1,1 +1,1 @@
-# The Cynn: A Forge-Punk Fantasy
+# The Cynn: Not Your Average Grimm-Medieval Fantasy

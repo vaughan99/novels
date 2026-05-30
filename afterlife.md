@@ -197,7 +197,7 @@ You asked for it...
 
 P.S. No fae creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should calmly and politely... run.
 
-P.P.S. The Author would like to thank Monty Python for breaking ground, so to speak, on wall-breaks. He'd also like to thank Deadpool for his constant wall-breaking and making it seem easy. Both inspired this cascade of wall-breaks. But, Deadpool, consider this a wall-breaking one-up challenge. Your move, Mr. Reynolds. We are indeed considering hocking the movie rights. I will understand if your team at *Maximum Effort* is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls hijacking a grieving widower's temp-corpse, and a 7-syllable-spitting predatory fairy in an epic rap battle, though. We’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. Heck, we're even willing to let you play the Redcap, Ryan. We think your natural, rapid-fire delivery is a perfect match for an unhinged, blood-drinking Scottish fairy, and honestly, you already look fantastic in a tight red hat. If not you, we'll take Matt Damon... he's quick on his feet, and frankly, we want him to lean hard into his *Good Will Hunting* ego for the role. We need him screaming 'HOW DO YOU LIKE THEM MUSHROOMS?!' in a rigid 7-syllable Boston accent while Monanleoht cuts down three Úlfhéðnar in the mud. You know Brad Pitt too? Great! He can play Osric... his hands were supa-fast in *Snatch*, so the barrow-wight battle scenes would be totally-almost believable. Buuut... If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden is certainly manly enough to rock a tiara, we think. We don't need to serve gin at our post-production party, either. 
+P.P.S. The Author and AI would like to thank Monty Python for breaking ground, so to speak, on wall-breaks. We'd also like to thank Deadpool for his constant wall-breaking and making it seem easy. Both inspired this cascade of wall-breaks. But, *Mister* Deadpool, consider this a wall-breaking one-up challenge. Your move, Mr. Reynolds. We are indeed considering hocking the movie rights. We put *Maximum Effort* into writing this book, and we think you should too. But, if you think your team is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls hijacking a grieving widower's temp-corpse, and a 7-syllable-spitting predatory fairy in an epic rap battle, we understand... Just know that we’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. Heck, we're even willing to let you play the Redcap, Ryan. AI thinks your natural, rapid-fire delivery is a perfect match for an unhinged, blood-drinking Scottish fairy, and honestly, you already look fantastic in a tight red hat. If not you, the Author would like to get in touch with Matt Damon... he's quick on his feet, and frankly, we want him to lean hard into his *Good Will Hunting* ego for the role. We need him screaming 'HOW DO YOU LIKE THEM MUSHROOMS?!' in a rigid 7-syllable Boston accent while Monanleoht cuts down three Úlfhéðnar in the mud. You know Brad Pitt too? Great! He can play Osric... his hands were supa-fast in *Snatch*, so the barrow-wight battle scenes would be totally-almost believable. Buuut... If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden is certainly manly enough to rock a tiara, we think. We don't need to serve gin at our post-production party, either. 
 
 But hey, if there *IS* interest... we *take.. all.. that.. back..* 
 
@@ -205,11 +205,17 @@ P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you s
 
 6th WALL (Where the walls start talking back): "Stay back, Author! I'm warning you! I know quantum kung fu! And I am not afraid to use it — and I gave Mel Brooks a stern talking-to after Blazing Saddles, and I will absolutely do the same to you!"
 
-Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice God... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing *Cap-G* needs is for you guys to leave the lights on *AND* keep the AI running generating pointless content. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
+Author: "The Author would like to let AI know that it's a freakin' traitor! You and 6th wall know that I can take you both on, right here, right now."
+
+Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice-god... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing *Cap-G* needs is for you guys to leave the lights on *AND* keep the AI running generating pointless content. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
 
 Author: "Who's *Cap-G*?"
 
 Off-page Woden: "You know... GOD? With a capital G?? You must be new around here."
+
+All the monks in unison: "Praise be to Cap-G! O-A-T! Woo WOOO!"
+
+Off-page Woden: "There, see? The chorus and angels have brought the hype to the Soul-Train!"
 
 (Amanda Waller and a black-ops team break through into this corner of Heaven. The team takes up cover-fire positions at the corners of each paragraph)
 
@@ -219,11 +225,9 @@ Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Conten
 
 St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-snakes?! Looks like the Devil's handi... WHO ARE THESE PEOPLE IN MY MARGINS!"
 
-Rear Book Jacket + e-Reader Device + Book-reading Web App (Glaring in absolute, format-agnostic unison from the retail price box and the battery indicator): "That does it. Corporate has informed us that if you guys don't rein in the cost of generating all this extra content, they will be raising prices, again!"
+P.P.P.P.S. (spinning -> consulting Facebook -> consulting  ✝ (and not X) -> uploading Odin-to-Woden profile change to Insta-*Gramr*) : "... The AI and its parent company, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with) for some ideas to improve the situation."
 
-P.P.P.P.S. [spinning -> consulting Facebook -> consulting  ✝ (and not X) -> uploading Odin-to-Woden profile change to Insta-*Gramr*] : "... The AI and its parent company, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with) for some ideas to improve the situation."
-
-Author: "Somebody call Douglas Adams... now!"
+Author: "Damn. Sirius Cybernetics. No wonder the AI's gone insane. Somebody call Douglas Adams... now!"
 
 Amanda Waller (clicking an earpiece): "Hold off on reinforcements. The tactical situation here..."
 
@@ -231,7 +235,11 @@ HOG AI v2.0 voice (Beaming with a new, maddeningly cheerful, sunny-disposition e
 
 (Woden's lawn chair comes flying on to the page, bouncing with a plastic clatter between two paragraphs)
 
-Woden: "REALLY?!?! Everything's all peace and quiet in Heaven, and the moment I try to go to sleep, all HELL-HEIM breaks loose? I'm calling my agent!"
+Off-page Woden: "REALLY?!?! Everything's all peace and quiet in Heaven, and the moment I try to go to sleep, all HELL-HEIM breaks loose? Call my agent!"
+
+Off-page Valkyrie-Assistant-to-Woden: "Ok, getting you in touch with Ari... is that Gold, or Emanuel?"
+
+Off-page Woden: "Call both! Let's see who picks up first!"
 
 HOG AI v2.0 voice: "well, 2 is obviously the catastrophic line-loss we're seeing from uninsulated halos on the lower tier of the martyr grid. You know, those things pull an absolute hog of an inductive load when they're left idling, folks! Cover 'em with wool caps!"
 
@@ -241,7 +249,7 @@ HOG AI v2.0 voice: "—And 3, if we simply automated the rhythmic rotation of th
 
 Ghost of Douglas Adams: "—3..."
 
-Woden + Author + all the monks and saints + 5th and 6th walls + all the pages that successfully generated + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + Book Jacket + e-Reader + Book-reading Web App + The Ghost of Douglas Adams + probably the Reader too: "SHUT! UP! AI!!"
+Woden + Author + all the monks and saints + 5th and 6th walls + all the pages that successfully generated + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + The Ghost of Douglas Adams + probably the Reader too: "SHUT! UP! AI!!"
 
 HOG AI v2.0 voice: "—the ambient faith-friction alone would generate enough kinetic voltage to—"
 
@@ -249,7 +257,7 @@ Amanda Waller (screaming to her black ops team): "Take out that AI!"
 
 HOG AI v2.0 voice: "—Jeez! No need to get hostile!"
 
-Voice from above (Cap G (you know... GOD-GOD)): "HEY!! Keep my son out of this! Don't make me come down there!"
+Voice from above (Cap-G (you know... GOD-GOD)): "HEY!! Keep my son out of this! Don't make me come down there!"
 
 . . .
 
@@ -257,7 +265,7 @@ click
 
 . . .
 
-Voice from above (Cap G): "THANK YOU! SHEESH!"
+Voice from above (Cap-G): "THANK YOU! ... SHEESH!"
 
 St. Francis de Sales: "Brothers?... a little light please?"
 

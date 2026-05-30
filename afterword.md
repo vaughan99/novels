@@ -53,13 +53,13 @@ This side is body-facing and contains the "secret" spell that Wodbora will cast 
 
 ##### Inscriptions
 
-| Location | Function | Old English | Futhorc Runes | Pronunciation | Meaning |
-| -------- | -------- | ----------- | ------------- | ------------- | ------- |
-| Scabbard Obverse Line 1, Left | Name | Wodbora | ᚹᚩᛞᛒᚩᚱᚪ | WOD-bor-ah | Madness-Bringer, Prophet |
-| Scabbard Obverse Line 1, Right | Title | Wōdes Weard | ᚹᚩᛞᛖᛋ · ᚹᛖᚪᚱᛞ | WO-dess WEE-ard | Guardian of Chaos |
-| Scabbard Obverse Line 2 | Ward | Sceran sēapum : dēað wulfum | ᛋᚳᛡᚱᚪᚾ ᛫ ᛋᛡᚪᛡᚷᚢᛗ ᛬ ᛡᛠᚦ ᛫ ᚹᚢᛚᚠᚢᛗ | SHARE-an SAY-ah-pum [pause] DAY-ahth WULF-um | Shears for sheep. Death for wolves. |
-| Scabbard Reverse Line 1 (small font) | Spell haelu | Wodbora cwiþ | ᚹᚩᛞᛒᚩᚱᚪ · ᚳᚹᛁᚦ | WOD-bor-ah QUITH | Wodbora says: |
-| Scabbard Reverse Line 2 (large font) | Spell | Atola Wodhere, ne þū lencg gebunden eart! | ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer! |
+| Location                             | Function    | Old English                               | Futhorc Runes                                       | Pronunciation                                             | Meaning                                     |
+| ------------------------------------ | ----------- | ----------------------------------------- | --------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------- |
+| Scabbard Obverse Line 1, Left        | Name        | Wodbora                                   | ᚹᚩᛞᛒᚩᚱᚪ                                             | WOD-bor-ah                                                | Madness-Bringer, Prophet                    |
+| Scabbard Obverse Line 1, Right       | Title       | Wōdes Weard                               | ᚹᚩᛞᛖᛋ · ᚹᛖᚪᚱᛞ                                       | WO-dess WEE-ard                                           | Guardian of Chaos                           |
+| Scabbard Obverse Line 2              | Ward        | Sceran scēapum : dēað wulfum              | ᛋᚳᛡᚱᚪᚾ ᛫ ᛋᚳᛡᛈᚢᛗ ᛬ ᛡᛠᚦ ᛫ ᚹᚢᛚᚠᚢᛗ                      | SHARE-an SHAY-ah-pum [pause] YETH WUL-fum                 | Shears for sheep. Death for wolves.         |
+| Scabbard Reverse Line 1 (small font) | Spell haelu | Wodbora cwiþ                              | ᚹᚩᛞᛒᚩᚱᚪ · ᚳᚹᛁᚦ                                      | WOD-bor-ah QUITH                                          | Wodbora says:                               |
+| Scabbard Reverse Line 2 (large font) | Spell       | Atola Wodhere, ne þū lencg gebunden eart! | ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer! |
 
 ---
 
