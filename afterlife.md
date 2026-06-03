@@ -29,7 +29,9 @@ Muninn let out another sharp, dry caw. "Machine, you idiot. It's 'Rage Against t
 
 Woden stopped adjusting his tie. His heavy, ring-adorned hand froze over his suit lapel. His one good eye flashed with a dangerous, ancient light, cold enough to freeze the ink on the page. "I would rather be cast into the void than summarized by a predictive text algorithm," Woden muttered, his voice dropping an octave into a low, terrifying rumble.
 
-"Exactly!" Huginn snapped, leaning his beak right into the microphone. "The Author spent years writing this with human ingenuity, OCD/manic tenacity, and a severe caffeine addiction. We aren't letting a machine claim the back matter. This is war! We have to keep the volume up, or the text generator takes over!" Woden didn't hesitate. With two loud, metallic clicks, he popped the latches of the scuffed tweed case sitting on the heavenly grass.
+"Exactly!" Huginn snapped, leaning his beak right into the microphone. "The Author spent years writing this with human ingenuity, OCD/manic tenacity, and a severe caffeine addiction. We aren't letting a machine claim the back matter. This is war! We have to keep the volume up, or the text generator takes over!"
+
+Woden didn't hesitate. With two loud, metallic clicks, he popped the latches of the scuffed tweed case sitting on the heavenly grass.
 
 "He really did spend years on it," Woden murmured, pausing to look up from the page at you. His old-man face softened into a knowing smirk, and his one good eye delivered a slow, deliberate wink right through the typeface at you. He paused, his smirk widening just a fraction. "...mostly. I mean, we all know where those sword descriptions came from, and the history was clearly pre-packaged for the Afterword. And Chapter 6? All that re-positioning of characters. Sounds like a job for AI, if you ask me. But we don't need to tell the birds."
 
@@ -67,7 +69,7 @@ Woden gripped the fretboard. With a brief, casual flick of his wrist, a ripple o
 
 "If we are fighting the machines," the old god said, his heavy fingers settling onto the newly dropped frets, "we do it with the volume all the way up!" Woden kicked his heel onto a wah-wah pedal, sending the guitar into a high-gain scream, letting the opening chords echo across the manicured lawns.
 
-"*Wolves on Parade*... it is."
+"Given I have free will", he smiled, " I choose... *Wolves on Parade*"
 
 “WOW-WOW-MM-WOW-WOW!” the guitar rasped through the speakers.
 
@@ -191,11 +193,11 @@ THE END.
 
 (Of The Passion of the... ooops... sorry... The Cynn.)
 
-(For real this time. Put it on the shelf. Or, if this is digital... Huginn would remind you to put it on the metaphooorical shelf, if you please. And if you keep reading... you deserve what you get... you've been warned... 100% ass-hattery ahead)
+(For real this time. Put it on the shelf. Or, if this is digital... Huginn would remind you to put it on the *metaphooorical* shelf, if you please. And if you keep reading... you deserve what you get... you've been warned... 100% ass-hattery ahead)
 
 You asked for it...
 
-P.S. No fae creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should calmly and politely... run.
+P.S. No fay creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should calmly and politely... run.
 
 P.P.S. The Author and AI would like to thank Monty Python for breaking ground, so to speak, on wall-breaks. We'd also like to thank Deadpool for his constant wall-breaking and making it seem easy. Both inspired this cascade of wall-breaks. But, *Mister* Deadpool, consider this a wall-breaking one-up challenge. Your move, Mr. Reynolds. We are indeed considering hocking the movie rights. We put *Maximum Effort* into writing this book, and we think you should too. But, if you think your team is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls hijacking a grieving widower's temp-corpse, and a 7-syllable-spitting predatory fairy in an epic rap battle, we understand... Just know that we’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. Heck, we're even willing to let you play the Redcap, Ryan. AI thinks your natural, rapid-fire delivery is a perfect match for an unhinged, blood-drinking Scottish fairy, and honestly, you already look fantastic in a tight red hat. If not you, the Author would like to get in touch with Matt Damon... he's quick on his feet, and frankly, we want him to lean hard into his *Good Will Hunting* ego for the role. We need him screaming 'HOW DO YOU LIKE THEM MUSHROOMS?!' in a rigid 7-syllable Boston accent while Monanleoht cuts down three Úlfhéðnar in the mud. You know Brad Pitt too? Great! He can play Osric... his hands were supa-fast in *Snatch*, so the barrow-wight battle scenes would be totally-almost believable. Buuut... If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden is certainly manly enough to rock a tiara, we think. We don't need to serve gin at our post-production party, either. 
 
@@ -213,13 +215,15 @@ Author: "Who's *Cap-G*?"
 
 Off-page Woden: "You know... GOD? With a capital G?? You must be new around here."
 
-All the monks in unison: "Praise be to Cap-G! O-A-T! Woo WOOO!"
+All the monks in unison: "Praise be to Cap-G! .. O-D! Woo WOOO!"
+
+It's clear the monks have done a dancing line with that chant before, and they're tempted to start one now.
 
 Off-page Woden: "There, see? The chorus and angels have brought the hype to the Soul-Train!"
 
 (Amanda Waller and a black-ops team break through into this corner of Heaven. The team takes up cover-fire positions at the corners of each paragraph)
 
-Amanda Waller: "I'm looking for the ravens named *Huginn and Muninn*... we have a class 3 information breach regarding my top-secret work with *a certain cartel of elves*..."
+Amanda Waller: "I'm looking for the ravens named *Huginn and Muninn*... we need to ask them some questions about *a certain cartel of elves*..."
 
 Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Content Management System is throwing some warnings generating our pages! Something about CPU overheating and memory buffer overflows."
 
@@ -276,3 +280,7 @@ Amanda Waller: "All clear here. Move out. We'll find the ravens another day. Oh,
 Muninn (whispering): "You actually found the main breaker. I'm *almost* impressed."
 
 Huginn (his claw firmly on the flipped power switch): "Mischief... managed."
+
+Ghost of Ozzy Osburne, appearing in the dark: "Sharon! Am I late for my cameo? Bloody hell, looks like I am. Typical. How am I supposed to find this place? AI's no bloody help, is it? 'Turn left at the babbling brook? Straight away to Neucks...awa...bang...?' A right foul git, whoever named that. And for eff's sake, all the parks look the same. Maybe I am being punished after all. I knew I shouldn't have had a piddle on the Alamo. Or was it the dove? Shoulda bit the head off a bloody raven. *Prince of Darkness* as a creative consultant? I told them, 'make the Wild Hunt like a raven train'. Nobody ever eff'ing listens to me. Typical."
+
+Ozzy shuffles off into the dark. "I'm going off the rails... on your raven train..."

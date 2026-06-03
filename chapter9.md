@@ -1,18 +1,18 @@
-## Chapter 9: The Madness-Bringer
+## Chapter 9: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
 Cynewulf stood in the center of the churchyard. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. Roganvaldr swung his sword in circles, back and forth in front of his shield. He was proving that his prowess of the blade was equal to the might of his sword-arm. Many had seen Roganvaldr taunt them this way, and none had survived.
 
 Cynewulf sensed that his time was short. He had no shield, and no other weapon. He grabbed the wire-wrapped handle of the Wodbora just as Roganvaldr charged.
 
-Time stopped, and a dark, hazy mind-dream came over him.
+Time stopped, and a dark, hazy mind-dream came over him. This was the *witan-sleep*. His eyes went dark for a brief moment, then he stood in the middle of a churchyard, but not Leicester's churchyard. He had never seen this place before. It was like every church he had every visited, like it was a combination of every church he had seen in his travels. Off in the near distance, he could still see the world. He saw Roganvaldr frozen in time, a trance with a horrific snarl.
 
-The ravens, Hunginn and Muninn, the figures on the scabbard, landed on the steps of the church. They spoke to him, as the air had frozen Roganvaldr in a trance of horrific snarl.
+The ravens, Hunginn and Muninn, the figures on the scabbard, landed on the opposite branches of a large stone cross in the middle of the yard. They spoke to him in the still night air.
 
 Huginn: "Speak now, priest! The steel waits."
 
 Muninn: "Why were you chosen?"
 
-The ravens were talking to him, and he could only muster spoken responses.
+The ravens were *talking to him*, and he could only muster spoken responses.
 
 Cynewulf: "What... do you mean?"
 
@@ -40,21 +40,21 @@ Muninn: "Brother, look! His memory is stirring."
 
 Huginn: "The storm is building! Quickly, the storm demands a sacrifice."
 
-Cynewulf heart drops cold.
+Cynewulf heart dropped cold.
 
 Cynewulf: "It wants... My soul?"
 
-Muninn: "No, but that's what it will get if you don't think harder. Back to the conversation. The Old Hate."
+Muninn: "CAAH! No! But that's what it will get if you don't think harder. Back to the conversation. The Old Hate."
 
 Cynewulf frantically searched his mind.
 
-Cynewulf: "The old shepherd. He mentioned something about an Old Hate. A wuudheree."
+Cynewulf: "The old shepherd. He mentioned something about an *Old Hate*. A *wuudheree*?"
 
 Huginn: "That's the Wodhere. The hunting. The reaper of soul and flesh, priest-man. It's growing, waiting, hungering. Inside this."
 
 Huginn pointed his wing at the swordhilt in Cynewulf's hand. The blade had yet to be drawn, but it is starting to WANT to be drawn.
 
-Cynewulf: "Take it back! I don't want this!"
+Cynewulf: "Take it back! I don't want this! My hands have touched the dark one's stain. Why am I even talking to birds? Christ, save me!"
 
 Muninn: "You can protect yourself. There's still time. Why did it choose... YOU?"
 
@@ -130,7 +130,7 @@ Muninn and Huginn together: "Oremus."
 
 Cynewulf knew this phrase well. "Let us pray."
 
-Time began again.
+Time began again, and his spirit was thrust back into his living body at violent speed.
 
 Cynewulf felt the raw jolting power as Wodbora threatened to leap from the scabbard. Rognvaldr was a sword-swing away, raised in the air as he charged. The hand pulled Wodbora.
 

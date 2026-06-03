@@ -1,43 +1,315 @@
 
-* The nisse  tells the forge-elves to put him into a farmer-blade for Osric. He uses his illusion magic to placate Osric in the "barrow sleep", while he uses his legacy battle knowledge from Ealhild's ancestors to destroy enemies. While in the "barrow sleep", Osric temporarily dies. When battle ends, he is brought back to life, exhausted and freezing (his body had run cold while he was a ghoul), and elderberry syrup runs out of his nose. The nisse-as-Osric on the battlefield will only stop when there are no threats left. He feels no pain, and his stance takes on that of the hearth and the barrow - immovable as stone. His eyes become stone, and his skin turns shadowy. He has compact strength (as a nisse is a compact giant), and can effortlessly catch weapons in mid-swing and rend shields. The blade is a Northolt Manor seax at max specs, and is laced with elderberry poison (leaving the victim breathless).
+### Working Title
 
-* " I am the fly agaric! And you it is that I pick! Your blood is prime and full-worth, For Nebbed King of the Night-North!"
+- [The Cynn: Strangers to Wyrd](app://obsidian.md/The%20Cynn:%20Strangers%20to%20Wyrd)
+- This is the current working title for book 1.
+- It works because “strangers” does heavy lifting:
+    - the central characters are strangers to one another
+    - they are strangers to a pure or exclusive religious framework; instead two are syncretic, and one is apostate
+    - they are strangers to the wyrd/destiny that seems to call them
+- It preserves mystery, thematic depth, and sequel potential without requiring a sequel.
+- We will revisit the title at the end of the project.
 
-* Elswyth enters the "dwale sleep", and the effects are the fly agaric's poison on her central nervous system. All threats are magnified in the senses, and all non-threats are minimized. The redcap's instructions are booming and all-present in her ears. On the outside, her eyes are wide and pupils are impossibly wide. She twitches, and seems agitated. Her battle stances are shifty, as she never stands perfectly still. Her skin is abnormally red and warm. She is constantly speaking nonsense under her breath. When coming out of the "dwale sleep", she repeats rhyming couplets compulsively, as that's the only way she can communicate. She vomits several times. She falls into and out of sleep, and is trapped in a living nightmare where her senses randomly expand and contract in intensity.
+### Alternate Title Candidates, in Order
 
-* Cynewulf enters the "witan sleep" when he is confronted by the ravens. His demeanor is that his eye sockets turn the color of obsidian and glassy, and he is covered by the shadows of two ravens from up high, one on each side. The eye sockets are the ravens stealing his sight of the battlefield for their inquisition.
+- [The Cynn: The Mud of Leicester](app://obsidian.md/The%20Cynn:%20The%20Mud%20of%20Leicester)
+- [The Cynn: The First Inquisition](app://obsidian.md/The%20Cynn:%20The%20First%20Inquisition)
+- [The Cynn: Three Tests](app://obsidian.md/The%20Cynn:%20Three%20Tests)
+- [The Cynn: Giggles in the Dark](app://obsidian.md/The%20Cynn:%20Giggles%20in%20the%20Dark)
+- [The Cynn: Debates of Old Men](app://obsidian.md/The%20Cynn:%20Debates%20of%20Old%20Men)
+### [prologue](obsidian://open?file=prologue.md)
 
-* When the forge-elves cast and hammered Barrow-Fast, they literally married Osric's two worlds together in the metalwork:The Spine and Core: Made from the recycled wrought iron of his father's plowshare and the family hearth tools. This is the part that generates the wavy, fibrous shadow-grains on the wielder's skin, symbolizing his life as a farmer.The Cutting Edge: Made from the high-carbon steel of his old military spear. This edge is cold, dark, and uniform—sharpened to a razor finish.
+- The prologue should function as the frame and tonal key for the whole book.
+- Huginn and Muninn are not just narrators; they are a dual consciousness:
+    - one playful, one corrective
+    - one prone to self-mythologizing, one committed to memory and accuracy
+- The “two mouths, one shadow” concept should stay central.
+- The prologue should establish:
+    - the raven voice
+    - the story-as-memory frame
+    - the tension between tale and fact
+    - the sense that the story is being retold from outside normal time
+- The children-in-the-park frame can remain a gentle modern portal into the saga voice.
+- The opening should feel like the ravens are choosing what kind of story the children are ready to hear.
 
-* The nisse would carry things: The Threshold Barrow-Stone: The stone Ealhild brought from her childhood burial mound. It carries the ancestral fae connection and the legal boundary of the doorway.The Hearth River-Stone: The stone Osric's father hauled from the river to line the fireplace. It carries the memory of the fire, the warmth, and the family meals.The Fyrd Gear: Osric’s broken spear-tip, or the horn he blew to call the militia—the items of his failed protection.The Domestic Relics: Ealhild’s spinning whorl, the wooden milk ladle, or a charred piece of the oak door-frame. The hearth's spit. The cookware.
+### [chapter1](obsidian://open?file=chapter1.md)
 
-* Barrow-fast
-Old English Spelling: Beorgfæst
-Runic Name: ᛒᛠᚱᚷᚠᚪᛋᛏ
-Pronunciation: BAHR-oh-fahst
-The Title: The Hearth's Hunger, The Oath-Eater
-Title Runes: ᚦᛡ ᚻᛡᚪᚱᚦᛋ ᚻᚢᚾᚷᛡᚱ / ᚦᛡ ᚩᚪᚦᛡᚪᛏᛡᚱ
+- Chapter 1 should establish the broad historical pressure:
+    - the siege
+    - the treaty
+    - the uneasy pause in violence
+    - the sense that peace has been purchased, not earned
+- The chapter should emphasize the emotional dissonance:
+    - victory appears near
+    - yet the bargain robs the Saxons of final triumph
+    - and the Danes regain time and territory
+- This chapter is a geopolitical hinge, not yet a supernatural one.
+- It should set up the human vulnerability that the later blade tests will exploit.
 
-Hearth's Hunger
-Old English Spelling: Heorðes Hungor
-Literal Breakdown: Heorðes (of the hearth/fireplace) + hungor (famine, intense craving).
-Pronunciation Guide: HAY-or-thess HOON-gor (The "ð" is voiced softly, exactly like the "th" in the modern English word other)
+### [chapter2](obsidian://open?file=chapter2.md)
 
-Oath-Eater
-Old English Spelling: Āðēta
-Literal Breakdown: Āð (sacred oath, solemn vow) + ēta (devourer, consumer). In early medieval English poetry, compound nouns for agents or monsters often end in -ēta to denote something that greedily consumes a specific concept.
-Pronunciation Guide: AHTH-ay-tah (The macron over the "Ā" means it is a long, held vowel sound, like the "ah" in father).
+- Chapter 2 should ground Osric as a man of labor, hearth, and practical faith.
+- He should feel deeply tied to:
+    - land
+    - family
+    - fieldwork
+    - defensive duty
+- His worldview should be rooted in:
+    - the worth of making and maintaining
+    - the dignity of keeping a home intact
+    - the idea that survival is built, not assumed
+- This chapter should make Osric’s eventual barrow-sleep transformation feel tragic, because he comes from a life of stewardship rather than violence-for-its-own-sake.
 
-* While in the barrow-sleep, Osric communes with the nisse, who is Ealhild. His children, though playing in the background, are actually barrow-spirit thralls that work for the nisse,  from Ealhild's family legacy. They act like children, but speak profound old Freyr-wisdom to Osric. Then the nisse orders them into the yard to perform chores. Chop and stack firewood (hack enemies and stack them like kindling), pull the weeds (rip weapons and shields from enemies), take the eggs from the noisiest of the chickens to convince the other chickens to become quiet (harvest heads, or maybe testicles), feed the horse (plunge the sword into an enemy's mouth), clean the stalls (drag dead bodies away), etc. The cottage window acts as a view of the battlefield as the yard metaphor... the children are blurry and seem to be active doing things. When the nisse opens the door to yell new commands to the children, he sees the reality... he is on the battlefield, performing horrifically brutal things in combat, a ghoul controlled by barrow spirits. She closes the door, and the illusion snaps firmly back into place. The children return, sweep the transition stone clean, and wash up for dinner. While this is happening, Ealhild is trying to make smalltalk with her husband and strokes his arm. Once the children return, she Ealhild leans forward to kiss Osric, but instead blows out the candle on the table, and he finds himself on the battlefield, surrounded by neatened-death. He was literally dead during the battle... his heart had stopped, and now his heart was sparked live, and his blood started flowing again. But his blood is cold (like 88 degrees), and hypothermia sets in badly. He can do nothing but shiver as his blood returns to normal temperature.
+### [chapter3](obsidian://open?file=chapter3.md)
 
-* Anyone who tries to pick up Barrow-fast will have a blip of a few seconds, and find that they've neatly put the blade back in the sheath. The nisse is adamant that only Osric wields it. Anybody else is an intruder, and the nisse doesn't want to give itself away. So, it politely blanks out the would-be user, directs the hand to re-sheath, and lets go. The user experiences a brief heart flutter (frightening but not dramatic), and its as if their hand refused to follow the command to unsheath the blade.
+- Chapter 3 should establish Elswyth’s early life, trade, and family context.
+- She should feel capable and observant, but not battle-shaped.
+- The chapter should emphasize:
+    - work
+    - craft
+    - adaptation
+    - displacement
+- Her location near the old stones and graveyard should feel like a threshold condition, not just scenery.
+- If there is mythic correction or raven commentary, it should reinforce that memory and place are layered, not flattened.
 
-* The redcap is obsessed with the number 13. His cap runs dry in 13 days (roughly half a lunar cycle), so he must kill that often to avoid dying. Change the chase to 13 minutes. He releases her after 13 lunar cycles of training (a little over a year), to visit her every full moon for 13 lunar years. It's on the last full moon of the 13th lunar year he attempts to kill her.
+### [chapter4](obsidian://open?file=chapter4.md)
 
-* The Dawn of the Curse: May 1st, 930 ADThe Cosmic Setting: A brilliant, silver full moon hangs over the charred remains of her family's home following the spring Viking raid on Leicester [C1]. A traumatized 13-year-old Elswyth flees into the pitch-black woods, where her unique scent pauses the wild Redcap’s internal death clock [C4].The Night of the Forge: April 29th, 941 AD  The Cosmic Setting: Exactly 136 lunar months (spanning 13 complete lunar years) later to the day, the Paschal Full Moon of spring rises over the siege lines of Leicester [C1]. Her blood reaches peak, effervescent, moon-steeped perfection [C4]. The Redcap opens his mouth to strike, only for the forge-elves to launch their trap [C4].
+- Chapter 4 should establish Cynewulf as morally serious, inwardly burdened, and not born to war.
+- The confession scene should be the emotional center.
+- The focus should stay on:
+    - conscience
+    - guilt
+    - discipline
+    - the beginnings of inner judgment
+- This chapter should prepare Cynewulf to be the blade-bearer whose trial is weight rather than spectacle.
+- It should feel like the beginning of his long entanglement with responsibility.
 
-* The redcap figures out that he is no longer bound to 13, because his cap never dries. He is overjoyed to be held in the Monanleoht prison, because now he can savor everything. Time is on his side now.
+### [chapter5](obsidian://open?file=chapter5.md) — [The Debate](app://obsidian.md/The%20Debate)
 
-* The redcap smells through the handle. He allows Elswyth to handle him because he can smell her perfect mooned and mushroomed blood. Anybody else will be subject to a smell test. Anybody who doesn't pass muster will be given extra fly agaric poison, and they'll go into convulsions, coma and die.
+- [chapter5](obsidian://open?file=chapter5.md) is the book’s high-level metaphysical argument, presented as a story scene rather than a doctrinal lecture.
+- The chapter should be clean, simple, and accessible.
+- It should take place in an abstract, etheric, or nowhere-like setting.
+- Only Freyr and Woden should appear in the scene.
+- Christ should not appear as a character.
+- Freyr carries the argument that would otherwise feel Christian-adjacent:
+    - mercy
+    - transformation
+    - translation rather than annihilation
+    - death and rebirth
+- Freyr can also argue that Christianity may be a continuation in altered form:
+    - a new name for an old pattern
+    - a new devotional road
+    - a shift in language rather than a total break
+- Woden should represent the opposing instinct:
+    - endurance through hardness
+    - refusal
+    - submission
+    - transformation through ordeal
+    - or the need to let the old order pass, depending on the final tonal choice
+- The two of them should be understood as two halves of the same religious inheritance.
+- Their debate should also touch on the future of their dying religion:
+    - should it be pressed forward?
+    - should it be allowed to fade?
+    - should it be translated?
+    - should it be revived?
+- The purpose of the chapter is to establish the initial hypothesis for the blades:
+    - what are they testing?
+    - what do the gods think they are trying to prove?
+    - what is the initial state of the experiment?
+- The chapter should be understandable to a reader with general education, not specialist theology.
+- Any deeper doctrinal unpacking should be reserved for [afterword](obsidian://open?file=afterword.md).
+- The chapter should feel like the opening of a long inquiry, not a final verdict.
+### [chapter5.5](app://obsidian.md/chapter5.5)
 
-* In 930 AD, Shrove Tuesday fell on March 2nd. That's when Woden confessed to Cynewulf.
+- [chapter5.5](app://obsidian.md/chapter5.5) is the rapid forge sequence that follows [The Debate](app://obsidian.md/The%20Debate).
+- It is the point where abstract argument becomes material consequence.
+- The pacing should be sharp, tight, and irreversible.
+- This chapter is the activation step:
+    - the debate has established the terms
+    - the forge now answers those terms in metal, blood, and binding
+- If [chapter5](obsidian://open?file=chapter5.md) is the question, [chapter5.5](app://obsidian.md/chapter5.5) is the first hard response.
+- This chapter should feel like the story has crossed a threshold into mechanism.
+- It should be brief, intense, and decisive.
+### [chapter6](obsidian://open?file=chapter6.md)
+
+- Chapter 6 should be treated as the routing / deployment chapter.
+- Its function is to move the characters into their distinct blade tests.
+- It is not just a battle setup scene; it is the chapter where each person is separated into the form of ordeal that suits them.
+- The road, mud, delay, and broken logistics should all contribute to the sense that the world itself is forcing the division.
+- The chapter should make the coming blade chapters feel inevitable.
+- By the end of it, the story should have clearly funneled into:
+    - Osric’s bodily surrender
+    - Elswyth’s threat-tuned perception
+    - Cynewulf’s moral inquisition
+
+---
+
+## Cross-Chapter Structural Notes
+
+- The early chapters should foreshadow the three distinct modes of ordeal:
+    - bodily surrender and return
+    - altered perception under pressure
+    - moral burden under interrogation
+- The blade chapters should each feel like the answer to a prior chapter’s pressure.
+- The story should increasingly move from historical context into mythic mechanism.
+- The prose should preserve historical texture, but not at the expense of clarity.
+- Keep the ravens’ framing voice in the background as a structural echo, even when they are not speaking directly.
+
+
+## Refactor Notes / Current Canon
+
+- Odin/Woden and Freyr both accept that free will and fate (wyrd) coexist.
+    
+- Fate is woven by the Norns, but agency determines how one faces that fate.
+    
+- The broader theological question is not whether fate exists, but whether Christ disrupts the old ordering by severing the Norns, removing fate and leaving only free will.
+    
+- The blades are tests of agency under pressure.
+    
+- They are not just weapons; they are mechanisms for forcing a choice into matter.
+    
+
+---
+
+## [Barrow-Edge, the Hedge-Stalker](app://obsidian.md/Barrow-Edge,%20the%20Hedge-Stalker) / Osric
+
+- Osric enters barrow-sleep by drawing the blade.
+- During barrow-sleep, Osric is physically dead or near-dead.
+- His consciousness is held in Alfheimr in a constructed cottage by the nisse and the barrow-spirits.
+- The nisse is Ealhild, or at least appears to Osric that way in the cottage-space.
+- Osric has no control over the battlefield body during this time.
+- The Champion occupies Osric’s corpse / near-death vessel and carries out methodical slaughter.
+- Osric can only witness the violence from the cottage threshold.
+- The nisse and the barrow-spirits maintain the illusion of domestic calm while the battle proceeds.
+- The children in the cottage are not literal children, but spirit-thralls / household forms.
+- They speak in old Freyr-wisdom and then are sent out to perform “chores” that correspond to battlefield actions.
+- Their chores should be framed in domestic language:
+    - stacking wood
+    - pulling weeds
+    - feeding animals
+    - cleaning stalls
+    - tidying the hearth
+- The battlefield action is reflected back through the cottage as a yard metaphor.
+- The more the nisse comforts Osric, the more violent the contrast becomes when he is slammed back into his body.
+- Once barrow-sleep ends, the body returns cold, blood-stiff, and gore-soaked.
+- The heart restarts violently.
+- Osric has no memory of the slaughter.
+- His memory is only of the cottage in Alfheimr.
+- The return should be visceral, horrifying, and bodily.
+- Osric’s agency is minimal:
+    - he chooses to pull the blade
+    - then he loses control
+    - and regains selfhood only when the Champion decides the chores are done
+
+---
+
+## [Monanleoht, the Battle-Dancer](app://obsidian.md/Monanleoht,%20the%20Battle-Dancer) / Elswyth
+
+- Elswyth enters dwale sleep under the influence of fly agaric / redcap magic.
+- The mushroom does not change physics; it changes perception.
+- Her senses become tuned to threat.
+- Time becomes elastic and macro-scaled around hostile motion.
+- Danger appears in enormous, specific, hallucinatory images tied to the threat itself.
+- The effect should feel like fly agaric dosing:
+    - macro
+    - elastic
+    - specific
+    - narcotic
+    - threat-shaped
+- She is not battle-oriented at the start, but she is more self-sure and capable than before.
+- She should not be forced to fight all enemies at once.
+- Her survivability should remain believable.
+- The redcap’s rhymed instructions run through her auditory / speech centers in real time.
+- He directs her motion through rhythm, rhyme, and command.
+- When the influence fades, the redcap’s control over the poison releases, but the poison remains.
+- Her perception stays altered after the battle, but now without threat orientation.
+- That makes the post-battle state dangerous.
+- Her language is also affected:
+    - compulsive rhyming
+    - palilalia
+    - residual patterned speech
+- While the influence wanes, she can still understand rhyme.
+- The redcap knows her blood by scent and uses it as the key to his control.
+- He is no longer bound by the old 13-cycle limitation because his cap never dries.
+- He experiences the prison not as loss, but as duration: time is now on his side.
+
+---
+
+## [Wodbora](app://obsidian.md/Wodbora) / Cynewulf
+
+- Cynewulf enters witan sleep when confronted by the ravens.
+- The ravens are inquisitors, not merely symbols.
+- Their arrival steals his sight of the battlefield and turns his eyes obsidian / glassy in appearance.
+- The shadows of the ravens frame him from above, one on each side.
+- The raven interrogation is a test of conscience, burden, and readiness.
+- Cynewulf’s blade carries greater metaphysical weight than the others, even if it accomplishes less outwardly.
+- He may not be publicly restored to identity afterward.
+- He may remain frightened, burdened, and unwilling to reveal himself.
+- The ending should preserve that fear rather than forcing catharsis.
+- The lesson is not triumph, but responsibility.
+
+---
+
+## Chapter Structure / Story Design
+
+- Chapter 5 is the philosophical / theological debate.
+- Chapter 5.5 is the rapid, high-pressure forge sequence.
+- Chapter 5.5 should be fast and intense, like a hammer strike.
+- Chapter 6 is the organization of the battle.
+- Its real purpose is to move the characters into their individual tests.
+- Each blade gets its own battle chapter.
+- Those chapters should be titled by blade name and title.
+
+---
+
+## [afterlife](obsidian://open?file=afterlife.md) / Meta-Coda
+
+- [afterlife](obsidian://open?file=afterlife.md) has two functions:
+    - it is a gigantic pressure-valve release after the reader has endured the story’s weight
+    - it is a meta-commentary on escalating power becoming escalating chaos
+- The AI’s runaway plot generation is a theoretical cousin of the Wodhere.
+- The ravens pulling the plug is a mirror of Cynewulf choosing not to keep escalating the blade’s power.
+- The underlying principle is restraint:
+    - power invites more power
+    - story invites more story
+    - chaos compounds
+    - the only winning move is not to play
+- This should remain subtle rather than explicit.
+
+---
+
+## Notes on Tone
+
+- Keep the story mythic, but don’t over-explain the mechanics in-scene.
+- Let the reader infer the system through consequences.
+- Domestic language should often conceal violence.
+- Each blade should feel like a moral test, not just a magical weapon.
+- The horror should be bodily, emotional, and metaphysical at once.
+
+### Muninn’s Epilogue Role
+
+- Muninn provides the reader-facing summary of [chapter5](obsidian://open?file=chapter5.md) at the end of [epilogue](obsidian://open?file=epilogue.md).
+- For readers who want a “Cliff’s Notes” version of the debate, Muninn is the shorthand interpreter.
+- His summary should be accessible, clear, and lightly humorous.
+- This allows [chapter5](obsidian://open?file=chapter5.md) to remain mythic and layered without needing to over-explain itself in the scene.
+- Deeper doctrinal and theological material should remain reserved for [afterword](obsidian://open?file=afterword.md).
+- Muninn’s recap should function as:
+    - a memory aid
+    - a tonal release
+    - and a plain-language interpretation of what Freyr and Woden were really arguing about
+    
+- [Huginn](app://obsidian.md/Huginn) functions as the voice of the uneducated or less context-rich reader.
+- He asks the obvious questions, misreads things, or reacts from curiosity, impatience, and instinct.
+- [Muninn](app://obsidian.md/Muninn) functions as the informed, summarizing voice.
+- He clarifies, corrects, and gives the reader the interpretive shorthand when needed.
+- Together, they model the range of reader comprehension:
+    - confusion
+    - curiosity
+    - correction
+    - and synthesis
+- This allows the text to remain layered without becoming inaccessible.
+
+## Afterlife
+
+- In [afterlife](obsidian://open?file=afterlife.md), St. Francis de Sales should be written as outwardly kind and saintly, but inwardly seething from centuries of administrative strain.
+- Note [edits](obsidian://open?file=edits.md): affects characterization of St. Francis de Sales; preserves courtesy while adding hidden irritation and comedic tension.

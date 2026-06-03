@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter1.md",
+                "file": "afterword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter1"
+              "title": "afterword"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter1.md",
+                "file": "edits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chapter1"
+              "title": "Backlinks for edits"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapter1.md",
+                "file": "edits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from chapter1"
+              "title": "Outgoing links from edits"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapter1.md",
+                "file": "edits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of chapter1"
+              "title": "Outline of edits"
             }
           },
           {
@@ -195,25 +195,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee75e3ab503195ce",
+  "active": "4275a2e305c2d7eb",
   "lastOpenFiles": [
-    "edits.md",
-    "Table Of Contents.md",
-    "2026-05-29.md",
-    "title.md",
-    "chapter3.md",
-    "afterlife.md",
-    "afterword.md",
-    "epilogue.md",
-    "chapter9.md",
     "chapter8.md",
     "chapter7.md",
-    "chapter6.md",
     "chapter5.md",
+    "chapter3.md",
+    "afterword.md",
+    "edits.md",
+    "title.md",
+    "afterlife.md",
+    "epilogue.md",
+    "chapter9.md",
+    "chapter6.md",
     "chapter4.md",
     "chapter2.md",
     "chapter1.md",
     "prologue.md",
+    "copilot/copilot-conversations/Quota_Error_Greeting@20260602_195548.md",
+    "Table Of Contents.md",
+    "2026-05-29.md",
     "copilot/copilot-conversations/Initial_Greeting@20260529_153638.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Make longer.md",
@@ -224,7 +225,6 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts",
     "copilot"
   ]

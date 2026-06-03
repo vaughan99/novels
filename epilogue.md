@@ -100,9 +100,32 @@ The old man stood up, his joints making no sound. Behind his feet was an old twe
 
 The trio continued down the road. The sun had dipped near the horizon of the mortal world, and the children’s park was finally empty. Their day’s work was done.
 
-"Well, we've got a gig in Heaven in about 45 minutes," said Muninn.
+"Well, we've got a gig in Heaven in about forty-five minutes," said Muninn.
 
-"I see the table of contents says that the AFTERLIFE is this way... past the Afterword," said Huginn, somewhat annoyed. "Oh wow, that looks like a long road. The Author sure didn't skimp on details..."
+"The table of contents said that the AFTERLIFE is this way... past the Afterword," said Huginn, somewhat annoyed. "Oh wow, that looks like a long road. The Author sure didn't skimp on details..."
 
-With a quiet step across the threshold of the margins, Woden and the ravens started their commute to Heaven.
+With a quiet step across the threshold of the margins, Woden and the ravens started their commute to Heaven. The final remnants of a conversation trailed through the park as they left.
 
+"Okay, now explain this again," said Huginn. "Freyr, aka Scandi-Jesus, wanted to give away these blades to try to help our heroes heal their brokenness and generally *not die*. Buuuuut... the Boss wanted them to pay a price for using them, which forces them to look for alternative ways to solve their problems in the long run, and generally become better people. What I don't get is, why did the Boss do it?"
+
+Muninn: "Because he saw his _wyrd_, his fate. Freyr's too. We were all headed for the theological boneyard. Freyr had an '_in_' with the Christians—he looked and talked enough like their Christ to pass the smell test, but even he knew the end was near. So, we hatched a deal: forge magic blades for those on the verge of death. If they used the blades to survive, but had the strength of will to eventually _discard_ them—to choose a life without magic—they’d break the cycle of _wyrd_. Then we'd know that this Christ was onto something. Choice and free will. Something the Christians could keep, and we could finally let go of fate. And who knows? Free will? Who doesn't want a piece of *that* action. I mean, it's terrifying waiting for the end of Asgard because a giant snake and a wolf are going to team up to take you down."
+
+Huginn: "So, the blades were just the bait to get them to stop needing the blades?" Huginn was obviously confused.
+
+Muninn: "Exactly. The only winning move is to become something that doesn't need the game anymore."
+
+Huginn: "Okay, I think I get it now. So, say it's Christmas. Freyr's basically jolly Saint Nick, and the boss is Krampus? And the magic weapons, they're the toys..."
+
+Muninn: "No... wrong *metaphooorical* box, Huginn. We didn't make the blades just to reward and punish little children, while that part *was* fun. We created bespoke blades individually for each of the three, and we delivered them just at the point where they were needed most. To test the concept of free will. We had to balance the boon and the curse, make it just tempting enough to keep. Anyone who was brought up with the concept of wyrd would assume, "Hey this blade is my destiny! It's perfectly tuned to me!" That person would keep the blade, no matter what. But what about someone with Christ's free will? We made three, to get a better sample set."
+
+Muninn looked over his shoulder at Woden, who was steadily walking through the margins as they were entering the Afterword.
+
+Muninn whispered: "I think Wodbora was an extra, special test for the Boss. Think about it: Could a man fall so far from Christ's grace and *choose* to redeem himself. I think the Boss saw his own journey to free will and grace in Cynewulf - he was the guinea pig."
+
+Huginn: "But what if they *chose* to keep the blade, not out of a sense of destiny, but because they want to?"
+
+Muninn: "Well then they get to keep a fabulous take-home prize for playing. And they still proved that *wyrd* is dead. With any luck, they would get delusions of grandeur and get themselves killed charging into battle. Then it'd be *lunchtime*. I guess they wouldn't learn that much from the lesson then."
+
+Huginn: "They'd learn that you don't play with the Boss, period."
+
+Woden, from far away but obviously still listening: "You best remember that."

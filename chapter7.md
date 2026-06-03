@@ -1,4 +1,4 @@
-## Chapter 7: The Hearth-Watcher
+## Chapter 7: Barrow-Edge, The Hedge-Stalker
 
 The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the deep, ambient crucible glow of the Cynn’s work from that very afternoon. The glow bathed the room in a heavy, flickering orange light and casting long, monstrous shadows behind the columns.
 

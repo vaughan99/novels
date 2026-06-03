@@ -1,1 +1,1 @@
-# The Cynn: Not Your Average Grimm-Medieval Fantasy
+# The Cynn: Strangers To Wyrd

@@ -10,7 +10,7 @@ I like the idea of blades having names, and titles, and magic stuff they're supp
 * Name: this is the name, obviously
 * Title: this is like "The Goblin-Slayer"
 * Oath/Ward: this is a phrase outwardly visible to the world as to the contract of what this weapon will do, e.g. "Beware night-goers!"
-* Spell: this is the phrase (if present, would be on the thigh-side of scabbard) that triggers or encompasses a phrase that begins the effect, e.g. "Wodbora says: Terrible Wodhere, no longer bound thou art!"
+* Spell: this is the phrase (if present, would be on the thigh-side of scabbard) that begins the effect, e.g. "Fire swirl, and char my enemies!"
 
 I imagine the Welandes Cynn would have a shared maker's mark. Closer than shown, but basically it should be a simple two runes below, at a diagonal. These represent Welandes Cynn initials, with the Cynn being diminuitive (what is called a vassal mark), showing that the Cynn are reliant on the success of the name of Welandes.
 
@@ -63,42 +63,37 @@ This side is body-facing and contains the "secret" spell that Wodbora will cast 
 
 ---
 
-#### Fyrleoht, the Hearth-Watcher
+#### Barrow-Edge, the Hedge-Stalker
 
 ##### Description
 
-The blade is a 14-16" heavy chopping broad seax, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth. It is named for the fire light bouncing off the fire and shining in the enemy's eye. 
-
-This is a North Sea hearth version of the "Riddle of Steel" from Conan. It is a witness to its own birth, and acknowledges that it only has life and meaning in the hands of a beloved wielder who has suffered.
+The blade is a 16" heavy chopping broad seax, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth. It is named bargain struck between Eilhild's family barrow-spirits, Freyr and Woden.
 
 ##### Blade Construction
 
 These specialized broad seaxes were used for hearth-work, equal parts campfire axe and meat cleaver. Since iron was precious and expensive, a few farmers preferred this kind of blade instead of a separate large seax and axe.
 
-The blade should be a 2-bar construction with a large section of wrought iron married to an edge of 15n20. It should be exceptionally thick and wide, and the 15n20 line should be right around where the plunge-grind starts towards the edge. The wrought iron represents the stone and smoke of the hearth. Inscriptions will be on both sides, so it would be highly recommended to use a fiber laser and brazing techniques rather than damascening.
-
-The silver 15n20 edge is both the frost and the fire of the edge. The first line of the oath should be in copper/brass/bronze, to hint at warmth. The second line and the name/title should be in silver, to represent the sheer will to withstand the long cold of Osric's winter of 940.
-
+The blade should be a 2-bar cleft-weld construction with a large section of wrought iron married to an edge of 1084. It should be exceptionally thick and wide. The wrought iron represents the stone and smoke of the hearth. Inscriptions will be on both sides, so it would be highly recommended to use a fiber laser and brazing techniques rather than damascening.
 ##### Handle Construction
 
 Since this is a farmer's blade, the handle should be simple. It should be two-handed, like the Northolt Manor seax. The handle should probably be wood. The guard and pommel should be thick wrought iron, and a simple symmetric river stone should be embedded in the pommel.
 
 ##### Scabbard Construction
 
-The scabbard should be the epitome of simple. This is a farmer's blade on the outside. All the cool stuff is hidden from the world. I would suggest just the simple seax leather-fold scabbard with a stitched welt or a simple unadorned brass edge-runner with rivets.
+The scabbard should be the epitome of simple. This is a farmer's blade on the outside, with simple runes for the ward and spell. The runes should be small and not prominent. There should be minimal scrollwork and lines. All the cool stuff is hidden from the world. I would suggest just the simple seax leather-fold scabbard with a stitched welt or a simple unadorned brass edge-runner with rivets.
 
-The blade itself should have the name and title inscribe in runes on one side, and the oath on the other. There should be no fullers, as this blade is meant to be forward heavy for the chop. The long handle gives you many choices about swing intensity.
+The blade itself should have the name inscribed in silver on one side, and the title inscribed in silver on the other. The long handle gives you many choices about swing intensity.
 
 ##### Inscriptions
 
 All the inscriptions are on the wrought iron spine-side of the blade, on both sides. The name/title appear on one side, and the two lines of the oath are on the other. The oath is interesting, because of the similarity of the last two words. Those two lines should be right-justified, so that the words are directly over each other vertically. The first line should have a copper/bronze/brass color, to signify warmth. All others should be silver.
 
-| Location | Function | Old English | Futhorc Runes | Pronunciation | Meaning |
-| -------- | -------- | ----------- | ------------- | ------------- | ------- |
-| Blade Side A, Left (copper) | Name | Fyrleoht | ᚠᚣᚱᛚᛖᚩᚻᛏ | FÜRE-lay-okht | Firelight |
-| Blade Side A, Right (copper) | Title | Heorðweard | ᚻᛖᚩᚱᚦᚹᛖᚪᚱᛞ | HAY-orth-way-ard | Hearth-Watcher |
-| Blade Side B, Top (copper) | Oath | Ic eom fȳre ācenned | ᛇᚳ · ᛖᚩᛗ · ᚠᚣᚱᛖ · ᚪᚳᛖᚾᚾᛖᛞ | Ik ay-om FOO-ruh ah-KEN-ned | I am of fire born/brought forth. |
-| Blade Side B, Bottom (silver) | Oath | Ic eom þurh willan āwacned | ᛇᚳ · ᛖᚩᛗ · ᚦᚢᚱᚻ · ᚹᛁᛚᛚᚪᚾ · ᚪᚹᚪᚳᚾᛖᛞ | Ik ay-om thoor-kh WILL-ahn ah-WAHK-ned | I am through will awakened. |
+| Location              | Function | Old English         | Futhorc Runes          | Pronunciation             | Meaning              |
+| --------------------- | -------- | ------------------- | ---------------------- | ------------------------- | -------------------- |
+| Blade Side A (silver) | Name     | Beorg-ecg           | ᛒᛖᚩᚱᚷ ᛫ ᛖᚳᚷ            | BY-org-edge               | Barrow's Edge        |
+| Blade Side B (silver) | Title    | Hæcge-stælre        | ᚻᚫᚳᚷᛖ ᛫ ᛋᛏᚫᛚᚱᛖ         | HATCH-eh-STAL-reh         | Hedge-Stalker        |
+| Scabbard Obverse      | Ward     | Onwlite sceadu-fyrd | ᚩᚾᚹᛚᛁᛏᛖ ᛫ ᛋᚳᛠᛞᚢ ᛫ ᚠᚣᚱᛞ | ON-wlee-teh SHAD-oo-feerd | Face the shadow fyrd |
+| Scabbard Reverse      | Oath     | Onwlite hol-dagung  | ᚩᚾᚹᛚᛁᛚᛖ ᛫ ᚻᚩᛚ ᛫ ᛞᚪᚷᚢᛝ  | ON-wlee-teh HOLL-dah-gung | Face the hollow dawn |
 
 
 ---
@@ -131,12 +126,12 @@ This blade is about style, and the scabbard should represent that. The scabbard 
 
 ##### Inscriptions
 
-| Location | Function | Old English | Futhorc Runes | Pronunciation | Meaning |
-| -------- | -------- | ----------- | ------------- | ------------- | ------- |
-| Guard Top | Name | Mōnanleoht | ```ᛗᚩᚾᚪᚾᛚᛖᚩᚻᛏ``` | MOH-nahn-lay-okht | Moonlight |
-| Pommel Bottom | Title | Beado-Hleaper | ```ᛒᛡᚪᛞᚩᚻᛚᛡᚪᛗᛡᚱ``` | BEH-ah-doe HLAY-ah-per | Battle-Dancer |
-| Scabbard Obverse (Outward) | Ward | Uton be-stelan and dēof | ```ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛞᛠᚠ``` | OO-ton beh-STEL-an and DAY-o | Let's dance and die |
-| Scabbard Reverse (Inward) | Spell | Uton be-stelan and etan | ```ᚢᛏᚩᚾ ᛫ ᛒᛖᛋᛏᛖᛚᚪᚾ ᛫ ᚪᚾᛞ ᛫ ᛖᛏᚪᚾ``` | OO-ton beh-STEL-an and ET-an" | Let's dance and dine |
+| Location                   | Function | Old English   | Futhorc Runes           | Pronunciation          | Meaning            |
+| -------------------------- | -------- | ------------- | ----------------------- | ---------------------- | ------------------ |
+| Guard Top                  | Name     | Mōnanleoht    | ```ᛗᚩᚾᚪᚾᛚᛖᚩᚻᛏ```        | MOH-nahn-lay-okht      | Moonlight          |
+| Pommel Bottom              | Title    | Beado-Hleaper | ```ᛒᛡᚪᛞᚩᚻᛚᛡᚪᛗᛡᚱ```      | BEH-ah-doe HLAY-ah-per | Battle-Dancer      |
+| Scabbard Obverse (Outward) | Oath     | Gamena mid me | ```ᚷᚪᛗᛖᚾᚪ ᛫ ᛗᛁᛞ ᛫ ᛗᛖ``` | GAH-meh-nah mid meh    | Make merry with me |
+| Scabbard Reverse (Inward)  | Spell    | Georna mid me | ```ᚷᛖᚩᚱᚾᚪ ᛫ ᛗᛁᛞ ᛫ ᛗᛖ``` | GAY-or-nah mid meh     | Yearn with me      |
 
 ---
 

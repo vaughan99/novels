@@ -1,4 +1,4 @@
-## Chapter 8: The Battle-Dancer
+## Chapter 8: Monanleoht, The Battle-Dancer
 
 Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured, that the sword was hers. She grabbed the hilt of *Monanleoht* and drew. The world became a frozen haze, as a silver mind-sleep claimed her.
 
