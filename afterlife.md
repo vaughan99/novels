@@ -231,7 +231,7 @@ St. Francis de Sales (Frantically pulling a glowing, transparent block out of th
 
 P.P.P.P.S. (spinning -> consulting Facebook -> consulting  ✝ (and not X) -> uploading Odin-to-Woden profile change to Insta-*Gramr*) : "... The AI and its parent company, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with) for some ideas to improve the situation."
 
-Author: "Damn. Sirius Cybernetics. No wonder the AI's gone insane. Somebody call Douglas Adams... now!"
+Author: "Damn. Sirius Cybernetics. This is the new Infinite Improbability AI. Somebody call Douglas Adams... now!"
 
 Amanda Waller (clicking an earpiece): "Hold off on reinforcements. The tactical situation here..."
 
@@ -281,6 +281,6 @@ Muninn (whispering): "You actually found the main breaker. I'm *almost* impresse
 
 Huginn (his claw firmly on the flipped power switch): "Mischief... managed."
 
-Ghost of Ozzy Osburne, appearing in the dark: "Sharon! Am I late for my cameo? Bloody hell, looks like I am. Typical. How am I supposed to find this place? AI's no bloody help, is it? 'Turn left at the babbling brook? Straight away to Neucks...awa...bang...?' A right foul git, whoever named that. And for eff's sake, all the parks look the same. Maybe I am being punished after all. I knew I shouldn't have had a piddle on the Alamo. Or was it the dove? Shoulda bit the head off a bloody raven. *Prince of Darkness* as a creative consultant? I told them, 'make the Wild Hunt like a raven train'. Nobody ever eff'ing listens to me. Typical."
+Ghost of Ozzy Osburne, appearing in the dark: "Sharon! Am I late for my cameo? Bloody hell, looks like I am. How am I supposed to find this place? AI's no bloody help, is it? 'Turn left at the babbling brook? Straight away to Neucks...awa...bang...?' A right foul git, whoever named that. And for eff's sake, all the parks look the same. Maybe I am being punished after all. I knew I shouldn't have had a piddle on the Alamo. Or was it the dove? Shoulda bit the head off a bloody raven. *Prince of Darkness* as a creative consultant? I told them, 'make the Wild Hunt like a raven train'. Nobody ever eff'ing listens to me. Typical."
 
 Ozzy shuffles off into the dark. "I'm going off the rails... on your raven train..."
