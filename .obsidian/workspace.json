@@ -11,12 +11,14 @@
             "id": "4275a2e305c2d7eb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "artwork/monanleoht/fussleton-stationary.png"
+                "file": "artwork/wodbora/wodbora-scabbard-obverse-concept.txt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "fussleton-stationary"
+              "icon": "lucide-file",
+              "title": "wodbora-scabbard-obverse-concept.txt"
             }
           }
         ]
@@ -195,20 +197,21 @@
   },
   "active": "4275a2e305c2d7eb",
   "lastOpenFiles": [
+    "artwork/wodbora/raven-source.webp",
+    "artwork/wodbora/raven-inquisitor.png",
+    "artwork/wodbora/raven-bailiff-scroll-1.png",
+    "artwork/wodbora/geri-freki-medallion.png",
     "artwork/wilde-brer/sheath-reverse.png",
     "artwork/wilde-brer/sheath-obverse.png",
-    "artwork/wodbora/geri-freki-medallion.png",
-    "artwork/wodbora/raven-bailiff-scroll-1.png",
-    "artwork/wodbora/raven-inquisitor.png",
-    "artwork/wodbora/wodbora-scabbard-obverse-concept.txt.md",
-    "artwork/wodbora/raven-source.webp",
+    "artwork/monanleoht/fussleton-stationary-reverse.png",
+    "artwork/monanleoht/fussleton-stationary-obverse.png",
     "artwork/monanleoht/fussleton-stationary.png",
+    "afterword.md",
+    "artwork/wodbora/wodbora-scabbard-obverse-concept.txt.md",
     "artwork/monanleoht",
     "artwork/wilde-brer",
     "artwork/wodbora/8ae9ff7a-6d1d-41dc-8402-3aadde0ed7a2.png",
     "artwork/wodbora/viking-scandinavian-design-ancient-decorative-260nw-2605916899.webp",
-    "artwork/wodbora/huginn-muninn-triskele-amulet.webp",
-    "afterword.md",
     "story ideas.md",
     "artwork/wodbora",
     "artwork",
