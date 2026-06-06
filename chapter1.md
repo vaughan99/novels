@@ -22,7 +22,9 @@ Cynewulf, also of Leicester, was strong and salt-bearded, yet terribly weary. A 
 
 With his warband broken, Cynewulf was their leader now, at least the few that stayed. The very moment the peace was announced a Spaniard named Galindo approached him with a deal: guard the Northumbrian fyrd's baggage on the road north for a silver purse. Cynewulf knew the very bandits that he might face, because he was at times employed by them. He didn't fear them. He didn't respect them. He respected only what they could do to him. He had no fealty except to the silver, and he felt nothing once silver left his hands.
 
-Cynewulf's vows were taken at this local Church, and that is where Elswyth remembers him from... he worked in the bell foundry when he was a deacon, many years before. Her family's coal fed the fires then. He glanced at the church several times at night through the rain, trying to remember the lines of the bellfry, the happier times. But now, with the siege ended, the church was the beginning of the next road.
+Cynewulf's vows were taken at this local Church, and that is where Elswyth once knew him. He worked in the bell foundry when he was a deacon, many years before. Her family's coal fed the fires then. 
+
+He glanced at the church several times at night through the rain, trying to remember the lines of the bell-fry, the happier times. But now, with the siege ended, the church was the beginning of the next road.
 
 High above, on a ruined stone wall, a tall and proud Viking war-band leader studied his enemy still. He was the Hersir of the Ulfhednar, Wulfhere the Broad. The Ulfhednar were the wolf-men of the Danes, men who married their souls to the wolves of Odin. They were a dying breed on the island, but he was fierce and true to his kind. To him, the brokered peace was a thing for priests and deer-meat. He had lost some of his number in the fighting before, but the trophy pile was small, and many of his number still longed for Valhalla. 
 
@@ -34,11 +36,11 @@ She sensed his eyes on her, and quickly moved to avoid eye contact. But it was a
 
 The other Vikings laughed and joked at the state of the Saxons and Northumbrian mercenary fyrd as they passed by. Vikings were often blind to their own state, for they carried no excuses for themselves. Instead, they carried on with their merry advance on the Boroughs. But not Wulfhere. He was studying, and now he finally liked what he saw.
 
-"Move along, wolf-men. Our quarrels are buried," said Cynewulf, trying to ensure a fight did not break out. He knew that a fight in the open with Ulfhednar is not a fight easily won. Many would die that day if peace was not kept. One of the wolfmen jumped to Cynewulf standing toe-to-toe, with a wide grin. He smiled, knowing that Cynewulf's leash was the parchment. The wolfman howled, the sound a wet, guttural spray against Cynewulf's cheek. Cynewulf didn't blink. He just stared through the man, his eyes as flat and grey as the Leicester mud.
+"Move along, wolf-men. Our quarrels are buried," said Cynewulf, trying to ensure a fight did not break out. He knew that a fight in the open with Ulfhednar is not a fight easily won. Many would die that day if peace was not kept. One of the wolfmen jumped to Cynewulf standing toe-to-toe, with a wide grin. He smiled, knowing that Cynewulf's leash was the parchment. The wolfman howled, the sound a wet, guttural spray against Cynewulf's cheek. Cynewulf didn't blink. He just stared through the man, his eyes as flat and grey as the Leicester mud. "Move... along..." were his only words.
 
 After traveling a short distance, Wulfhere gathered his Ulfhednar to a meeting. Among them were his best. His second-in-command was a giant, over seven feet of bone and muscle, Rognvaldr the Ragged. His frame was so large, no single mail coat could cover it. His armor served as the testament to the war-band's kills, as it was built from the pieces of armor of the fallen. The others were strong, mostly young but well-trained, eager for the treasure-pile that had once been promised.
 
-"These Saxons keep making the same mistakes. They think parchment is payment for a wolf. A wolf cannot eat a peace-deal. I have seen the broken bands, burnt sticks, and char-smoked girls they have guarding their baggage. And they are deer for the slaughter, friends. We are circling back tonight. Let the others go to the Boroughs, we will collect the hoard-pile we were expecting yet. And if we fail, our reward is Valhalla!"
+"These Saxons keep making the same mistakes. They think wolves feast on air and priest-speech. A wolf cannot eat a peace-meal. I have seen the broken bands, burnt sticks, and forest girls they have guarding their baggage. And they are deer for the slaughter, friends. We are circling back tonight. Let the others go to the Boroughs, we will collect the hoard-pile we were expecting yet. And if we fail, our reward is Valhalla!"
 
 ---
 

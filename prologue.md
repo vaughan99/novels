@@ -1,4 +1,4 @@
-## Prologue: Two Mouths, One Shadow
+## Prologue: Same Story, Two Tails
 
 The children sat in a ragged circle in the tall grass of the park, their eyes fixed on two black shadows perched on an ancient, iron-grey limb. The ravens were waiting for stragglers to move in, and the whispers to get quieter.
 
@@ -20,15 +20,16 @@ Huginn tilts his head, a single dark eye gleaming with a sharp calculation that 
 
 Muninn snorts, his feathers ruffling with immediate, superior irritation. "You absolute bird-brain. That wasn't a simple mud-stuck caravan! That was 941 at the Jewry Wall! Always the slaughter with you, always the murderiness hidden beneath a bog!"
 
-Huginn yells, "Ohhh, NOW I REMEMBER! We saw ourselves that day, who could ever forget that!"
+Huginn yells, "Ohhh, NOW I REMEMBER! That's the day the Boss gave that guy the Ride of his life!"
 
 Muninn nods arrogantly and turns to the park. "Listen well children. Commit this to mind and memory, for it is a tale of ..."
 
-Huginn interrupts, his wings instantly flaring as the trap snaps shut. "Cah! I'm the heart, the song, AND the mind... who better to tell the tale than me? I connect all the pieces into the epic tale that it is. It's... mine!" Huginn beats his wings and repeats, "mine! mine! mine!"
+Huginn interrupts, his wings instantly flaring as the trap snaps shut. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me? I connect all the pieces into the epic tale that it is. It's... mine!" Huginn beats his wings and repeats, "mine! mine! mine!"
 
 Muninn, rolling his obsidian eyes, shakes his head... a slow shake practiced from seemingly the beginning of time itself. "You... ALWAYS... want to own the tale. Thankfully, I'm here... to keep the oath of the thing true. Proceed."
 
 Huginn continues, using the twinkle in his eye to betray the smile his face couldn't give. The children stared curiously but intently, mesmerized by the movements and cackling of the ravens.
 
-"It all started at the end of the Seige of Leicester, 941 Anno Dommini, in eastern England. I believe it was... the rains of late spring.".
+"It all started at the end of the Siege of Leicester, 941 Anno Domini, in eastern England. I believe it was... the rains of late spring.".
 
+"It was May," Muninn interrupted. "And it was morning."

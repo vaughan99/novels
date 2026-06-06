@@ -378,15 +378,15 @@ There should be no fullers or inscriptions on the blade. The blade has no adornm
 
 ##### Handle Construction
 
-The handle should two-handed, to have maximum tip-control, since it is both sharp and ultra-stabby. It should also be very, very grippy. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping black leather lace, spiralled or braid-wrapped with just enough 15n20 guard and pommel to counter-balance the thinner blade.
+The handle should two-handed, to have maximum tip-control, since it is both sharp and ultra-stabby. It should also be very, very grippy. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping oxblood leather lace, ideally braid-wrapped with just enough 15n20 guard and pommel to counter-balance the thinner blade.
 
-This time, the name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. The runes should traverse the guard and pommel as if they are in mid-dance, each rune slightly askew angle-wise of what would be it's normal scripture-line. 
+This time, the name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. If there's room, the runes should traverse the guard and pommel on the side-edge as if they are in mid-dance, each rune slightly askew angle-wise of what would be it's normal scripture-line. If there's no room on the edges, move the runes to the top and bottom flats of the guard and pommel.
 
 ##### Scabbard Construction
 
-The scabbard should be standard sheepskin-lined wooden core, with leather wrap.
+The scabbard should be standard sheepskin-lined wooden core, with oxblood leather wrap.
 
-This blade is about style, and the scabbard should represent that. The scabbard sides should look almost identical. The runes should be wrapped in a border that is heraldic, mushroom-y, and with a prominent full moon badge. It should resemble what the office stationary of Spotted King Fussleton the First would look like. 
+This blade is about style, and the scabbard should represent that. The scabbard sides should look almost identical. The runes should be wrapped in a border that is heraldic, mushroom-y, and with a prominent full moon badge. It should resemble what the office stationary of Spotted King Fussleton the First would look like.  The border should include eyes as if Fussleton is peering at you. On one side (the obverse) the eyes should be welcoming. On the in side (the reverse) the eyes should be predatory, but otherwise identical to the obverse.
 
 ##### Inscriptions
 
