@@ -1013,7 +1013,7 @@ Muninn: "You're impossible."
 
 "He reads beaks."
 
-"And how do you know he is reading your ... beak"?
+"And how do you know he is reading your... beak"?
 
 "He has expressive eyes... Eye."
 
@@ -1031,7 +1031,7 @@ Muninn: "You're impossible."
 
 "He's a drummer?"
 
-"Yes"
+"Yes."
 
 "With no hands. Or feet."
 
@@ -1039,7 +1039,7 @@ Muninn: "You're impossible."
 
 "He lost *an arm* Huginn. He had three other appendages. The feet made up for it."
 
-"Steve will find a way. I have faith in him."
+"Exactly. Steve will find a way. I have faith in him."
 
 "And... how do you know?"
 

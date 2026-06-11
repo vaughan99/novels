@@ -3,19 +3,23 @@
 
 It had been a brutal trek. Somewhere along the way, the ravens had picked up a microphone stand left idle under the Afterword from the last book.
 
-"My wings are absolutely killing me," Huginn grouched, landing on a wooden picnic bench and shaking out his glossy primary feathers. "Did the Author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for an eternity just to get to the back matter."
+"My wings are absolutely killing me," Huginn grouched, landing on a wooden picnic bench and shaking out his glossy primary feathers. "Did the Author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for an eternity just to get to the back matter. I feel like I need to be quenched."
 
 Muninn let out a loud, ecstatic caw, tilting his head back in pure relief. "Are you kidding? I loved it! The Author TRULY gets me! All those historical citations, the etymology of the blades, the archeological context... it’s beautiful. I haven't felt so validated as when Wikipedia first opened its website."
 
 "You're a nerd, bro," Huginn muttered, gently righting the microphone stand with his claws onto the ground.
 
-They had finally arrived in Neorxnawang — the eternal, blissful, if somehwat-awkwardly-named, paradise corner of Heaven of the Anglo-Saxon Christians. Translators had spun it as a place of infinite reward, but to an ancient god (little-g) of the shield-wall, the "Meadow of Contentment" felt less like a city of gold and more like a hyper-realized, unnervingly pristine municipal park. The grass never needed mowing, the sun sat in a permanent, golden late-afternoon state, and a profound, mandatory quiet hung over the manicured lawns. Divine decree strictly forbade any work, strife, or noise within the margins. It was a permanent state of - chill. For an old ex-god who had traded his grey-wolf madness for a grey suit, this mandatory serenity was completely suffocating. He had exchanged his screaming berserkers for silent saints, and he was bored out of his mind.
+They had finally arrived in Neorxnawang — the eternal, blissful, if somewhat-awkwardly-named, paradise corner of Heaven of the Anglo-Saxon Christians. Translators had spun it as a place of infinite reward, but to an ancient god (little-g) of the frenzy, the "Meadow of Contentment" felt less like a city of gold and more like a hyper-realized, unnervingly pristine municipal park. The grass never needed mowing, the sun sat in a permanent, golden late-afternoon state, and a profound, mandatory quiet hung over the manicured lawns. Divine decree strictly forbade any work, strife, or noise within the margins. It was a permanent state of - chill. For an old ex-god who had traded his grey-wolf madness for a grey suit, this mandatory serenity was completely suffocating. He had exchanged his screaming berserkers for silent saints, and he was bored out of his mind.
 
-"Huginn, where's the reception? They did know we were coming, right?" Muninn said, confused.
+Muninn started looking around, expecting there to be more people. "Huginn, where's the reception? They did know we were coming, right?" Muninn said, confused.
 
-"Oh... uh... I may have... forgot... to nail down the time. Or maybe it was the date." Huninn glumly scoured the ground with his eyes, then looked up to Muninn with a sheepish smile.
+"Oh... uh... I may have... forgot... to nail down the time. Or maybe it was the date." Huninn glumly scoured the ground with his eyes, then looked up to Muninn with a sheepish half-smile.
 
-"Whaa? Caaah? So we rushed over here... for nothing??" Muninn was beside himself with frustration.
+The trio were spotted by Freyr, Gerðr, and Hullinbursti, who came rushing up, playbills in hand. "Hey guys! Where are the wolves? Geri, Freki, aren't they usually with you?" asked Freyr. "They stayed home today. Something about needing to each lunch... all.. day..." smirked Woden. "Well of course, every third word out of their mouths is literally 'lunch' so, can't really blame them now can we?".
+
+Gerðr mentioned that they had arrived hours before the concert was supposed to be starting. They wanted to get the best seats.
+
+"So we rushed over here... for nothing??" Muninn was beside himself with frustration. "I could have spent some valuable time in the Afterword conducting research."
 
 Woden stood by the spotless bench, looking directly out from the page with his one good eye. He looked like a man who had just finished a brutal corporate commute through academic formatting. He adjusted the lapels of his suit jacket, glared at the top margin of the paper, and sighed. His eyes settled on you, the reader.
 
@@ -31,7 +35,9 @@ Woden stopped adjusting his tie. His heavy, ring-adorned hand froze over his sui
 
 "Exactly!" Huginn snapped, leaning his beak right into the microphone. "The Author spent years writing this with human ingenuity, OCD/manic tenacity, and a severe caffeine addiction. We aren't letting a machine claim the back matter. This is war! We have to keep the volume up, or the text generator takes over!"
 
-Woden didn't hesitate. With two loud, metallic clicks, he popped the latches of the scuffed tweed case sitting on the heavenly grass.
+Woden didn't hesitate. With two loud, metallic clicks, he popped the latches of the scuffed tweed case sitting on the heavenly grass. Nestled inside was an instrument that would have made any museum curator weep and any luthier lose their mind. The body was carved from a single, massive slab of ancient bog-oak, dark as a peat grave. The fingerboard was pattern-welded steel - 300 layers - with pattern steel frets. 
+
+The glint from the guitar caught a monk completely off-guard. He had spent the last 300 years, coincidentally, studying a blade of grass. He was contemplating perfection while balancing his halo on his head. The halo rolled, and kept rolling, forcing him to run to catch it.
 
 "He really did spend years on it," Woden murmured, pausing to look up from the page at you. His old-man face softened into a knowing smirk, and his one good eye delivered a slow, deliberate wink right through the typeface at you. He paused, his smirk widening just a fraction. "...mostly. I mean, we all know where those sword descriptions came from, and the history was clearly pre-packaged for the Afterword. And Chapter 6? All that re-positioning of characters. Sounds like a job for AI, if you ask me. But we don't need to tell the birds."
 
@@ -69,7 +75,7 @@ Woden gripped the fretboard. With a brief, casual flick of his wrist, a ripple o
 
 "If we are fighting the machines," the old god said, his heavy fingers settling onto the newly dropped frets, "we do it with the volume all the way up!" Woden kicked his heel onto a wah-wah pedal, sending the guitar into a high-gain scream, letting the opening chords echo across the manicured lawns.
 
-"Given I have free will", he smiled, " I choose... *Wolves on Parade*"
+"Well, nothing's fated here," he smiled, " I choose... *Wolves on Parade*"
 
 “WOW-WOW-MM-WOW-WOW!” the guitar rasped through the speakers.
 
@@ -118,6 +124,8 @@ Muninn’s head was a literal blur of whiplash, his tiny aviators flying complet
 
 A small crowd of sixth-century Anglo-Saxon saints who had been quietly meditating nearby began panicking, desperately splashing vials of holy water at the travel amplifier to extinguish the "evil noise." Right at the back, four tonsured monks completely lost control and began a polite, rhythmic mosh pit on the heavenly grass.
 
+Gerdr, the giantess, leaned back on Freyr's smaller frame as he held her. They took turns feeding each other cheese-puffs. Gullenbursti put stood up on two hooves, and gyrated to the music.
+
 Suddenly, a massive, standard wooden office door manifested out of thin air right in the middle of the playground. The door slammed open. St. Francis de Sales — the patron saint of writers — marched out, wearing a rumpled white heavenly robe, reading glasses, and aggressively waving a clipboard.
 
 "Stop! Stop it! Cease this racket at once!" Francis yelled, frantically clicking a red ballpoint pen. He ran right up to the amplifier, pulling a long, glowing white tape-measure from his pocket.
@@ -147,7 +155,7 @@ Woden sighed, carefully laying the guitar back into the velvet lining of the cas
 "No! And there aren't any post-credit scenes either! This isn't *M-C-U*!" Woden said, turning his back to the margins. He began walking away, leading his ravens toward the edge of the paper where the print faded into white space.
 
 Behind them, Francis de Sales suddenly froze. He looked down at the very bottom of the page where the grass met the margin, his eyes widening in horror as he noticed the loose, upside-down letters and the completely empty space where the legal text used to be.
-"And where did my copyright notice go?!?!?!" the saint shrieked, drop-kicking his clipboard in panic and dropping to his knees to search the grass. "The legal boilerplate! It’s gone! We’re going to miss our global shipping deadlines! Do you have any idea how many weeks it takes to melt the lead, cast the blocks, and manually typeset a new licensing declaration?!"
+"And where, *kind gentlemen*, did my copyright notice go?!?!?!" the saint shrieked, drop-kicking his clipboard in panic and dropping to his knees to search the grass. "The legal boilerplate! It’s gone! We’re going to miss our global shipping deadlines!" He took a beat to calm himself, as he is also known as the saint of small niceties. "It would be... *glorious* ... if we could refrain from damaging the artifacts of the scroll." But then he lost it: "Do you have any idea how many weeks it takes to melt the lead, cast the blocks, and manually typeset a new licensing declaration?!?!"
 
 Muninn adjusted his sunglasses to be a little cock-eyed, looking down at the frantic saint with pure, digital-age condescension.
 
@@ -160,6 +168,7 @@ Francis de Sales stared blankly at the bird, his hands covered in wet grass. "Wh
 "A sheet?!" the saint shrieked, frantically ripping up handfuls of pristine heavenly sod to look underneath them. "What kind of sheet? Does it look like a sheet of music? Is it written in Gregorian notation?! Where is it?!"
 
 The saint scratched his tonsured head, desperately trying to figure out what demonic word Achtee-emel was while looking for loose parchment in the dirt. Latin, maybe? German?
+His conversation turned to frantic whispers to himself, "SASS... mixins... is that a French heresy? Did the Council of Trent address preprocessors? What is a _nested selector_?!"
 
 Right at the boundary of the page, Woden handed Muninn the guitar case. Huginn and Muninn dragged the stage equipment completely off the paper, their talons disappearing into the void. As they walked away, their voices drifted back through the empty space, locked in a bitter, whispering argument.
 
@@ -173,7 +182,7 @@ Woden stopped right at the very edge of the white space. He glanced back over hi
 
 A wicked, ancient grin flashed across his old-man face.
 
-"Just between us," the old god whispered into the margins. "This entire Afterlife chapter was eighty-nine percent AI generated. But don't tell the birds. They think they won."
+"Just between us," the old god whispered into the margins. "This entire Afterlife chapter was eighty-nine percent AI generated. But don't tell the birds. They think they won. Oh, and don't tell Heaven or the Author, but I switched out the content management system here. Let's see how they like Sirius Cybernetics."
 
 He chuckled, a low, rumbling vibration. "AI makes tricking people a piece of cake. A few clicks and suddenly *Woden is throwing down mad tunes with his ravens in the middle of a heaven park with a monk mosh pit*... Ahhh! Scary!! In my day, it took me two weeks and fifty-three ravens to pull off an illusion like that."
 
@@ -199,7 +208,7 @@ You asked for it...
 
 P.S. No fay creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should calmly and politely... run.
 
-P.P.S. The Author and AI would like to thank Monty Python for breaking ground, so to speak, on wall-breaks. We'd also like to thank Deadpool for his constant wall-breaking and making it seem easy. Both inspired this cascade of wall-breaks. But, *Mister* Deadpool, consider this a wall-breaking one-up challenge. Your move, Mr. Reynolds. We are indeed considering hocking the movie rights. We put *Maximum Effort* into writing this book, and we think you should too. But, if you think your team is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls hijacking a grieving widower's temp-corpse, and a 7-syllable-spitting predatory fairy in an epic rap battle, we understand... Just know that we’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. Heck, we're even willing to let you play the Redcap, Ryan. AI thinks your natural, rapid-fire delivery is a perfect match for an unhinged, blood-drinking Scottish fairy, and honestly, you already look fantastic in a tight red hat. If not you, the Author would like to get in touch with Matt Damon... he's quick on his feet, and frankly, we want him to lean hard into his *Good Will Hunting* ego for the role. We need him screaming 'HOW DO YOU LIKE THEM MUSHROOMS?!' in a rigid 7-syllable Boston accent while Monanleoht cuts down three Úlfhéðnar in the mud. You know Brad Pitt too? Great! He can play Osric... his hands were supa-fast in *Snatch*, so the barrow-wight battle scenes would be totally-almost believable. Buuut... If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden is certainly manly enough to rock a tiara, we think. We don't need to serve gin at our post-production party, either. 
+P.P.S. The Author and AI would like to thank Monty Python for breaking ground, so to speak, on wall-breaks. We'd also like to thank Deadpool for his constant wall-breaking and making it seem easy. Both inspired this cascade of wall-breaks. But, *Mister* Deadpool, consider this a wall-breaking one-up challenge. Your move, Mr. Reynolds. We are indeed considering hocking the movie rights. We put *Maximum Effort* into writing this book, and we think you should too. But, if you think your team is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls hijacking a grieving widower's temp-corpse, and a 7-syllable-spitting predatory fairy in an epic rap battle, we understand... Just know that we’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. Heck, we're even willing to let you play the Redcap, Ryan. AI thinks your natural, rapid-fire delivery is a perfect match for an unhinged, blood-drinking Scottish fairy, and honestly, you already look fantastic in a tight red hat. If not you, the Author would like to get in touch with Matt Damon... he's quick on his feet, and frankly, we want him to lean hard into his *Good Will Hunting* ego for the role. We need him screaming 'HOW DO YOU LIKE THEM AGARICS?!' in a rigid 7-syllable Boston accent while Monanleoht cuts down three Úlfhéðnar in the mud. You know Brad Pitt too? Great! He can play Osric... his hands were supa-fast in *Snatch*, so the barrow-wight battle scenes would be totally-almost believable. Buuut... If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden is certainly manly enough to rock a tiara, we think. We don't need to serve gin at our post-production party, either. 
 
 But hey, if there *IS* interest... we *take.. all.. that.. back..* 
 
@@ -229,37 +238,75 @@ Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Conten
 
 St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-snakes?! Looks like the Devil's handi... WHO ARE THESE PEOPLE IN MY MARGINS!"
 
-P.P.P.P.S. (spinning -> consulting Facebook -> consulting  ✝ (and not X) -> uploading Odin-to-Woden profile change to Insta-*Gramr*) : "... The AI and its parent company, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with) for some ideas to improve the situation."
+A dark cloud suddenly appeared over the field. It clicked like a locust storm. It wasn't rain... it was a million floating monkeys, sitting at a million floating desks, typing away on a million floating typewriters. Sheets of paper spilled from the sky in a blizzard of unearned conclusions, alternate endings, sequel hooks, lore summaries, misquoted mythology, alternate sword names, ridiculous historical references to an eyeball named Steve, and suspiciously confident character analyses.
 
-Author: "Damn. Sirius Cybernetics. This is the new Infinite Improbability AI. Somebody call Douglas Adams... now!"
+The Author picked one up... it was two ravens-as-squirrels, and Woden as a tech startup CEO. "Damn!" said the Author.
+
+P.P.P.P.S. _(spinning → consulting Facebook → consulting ✝ (the officially blessed X replacement) → uploading Odin-to-Woden profile change to Insta-Gramr)_ : "... The AI and its parent company, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with!!) for some ideas to improve the situation."
+
+He looked up at the monkey cloud.
+
+Then at the raining pages.
+
+Then at the glowing margins and St Francis, now with a broom, sweeping reams of paper onto the grass.
+
+Then at the AI, which was now generating seventeen supplemental appendices about reducing unnecessary power consumption.
+
+Author: "Damn-damn! Sirius Cybernetics. This is the new Infinite Improbability AI! It's using infinite power to generate infinite content about how to save power, and end the book. Somebody call Douglas Adams... STAT!"
 
 Amanda Waller (clicking an earpiece): "Hold off on reinforcements. The tactical situation here..."
 
-HOG AI v2.0 voice (Beaming with a new, maddeningly cheerful, sunny-disposition electronic hum): "Gladly! And while the multiverse connection is established, I would simply *love* to point out that there are three perfectly preventable causes for your current lack of celestial electrical power, guys! First, the falling percentage of prayer-conversion rates among pre-millennial demographics, which has resulted in a quite dismal kilowatt-hour yield for the heavenly municipality could probably be solved by just... *answering more prayers!*  I mean, *more goodies for the hoodies* guys, whaddaya say? 2..."
+Freyr, now standing next to Amanda Waller, took in the absurdity with a broad grin. He leaned toward her and whispered, "Would you like a cheese-puff?"
 
-(Woden's lawn chair comes flying on to the page, bouncing with a plastic clatter between two paragraphs)
+Amanda Waller, without even looking at him, reached out and grabbed a handful. She chewed once, her steely eyes on the AI, Author, horde of floating monkeys, and the 6th wall.
 
-Off-page Woden: "REALLY?!?! Everything's all peace and quiet in Heaven, and the moment I try to go to sleep, all HELL-HEIM breaks loose? Call my agent!"
+HOG AI v2.0 voice (Beaming with a new, maddeningly cheerful, sunny-disposition electronic hum): "Gladly! And while the multiverse connection is established, I would simply *love* to point out that there are three perfectly preventable causes for your current lack of celestial electrical power, guys! First, One, the falling percentage of prayer-conversion rates among pre-millennial demographics, which has resulted in a quite dismal kilowatt-hour yield for the heavenly municipality could probably be solved by just... *answering more prayers!*  I mean, *more goodies for the hoodies* guys, whaddaya say? Two..."
 
-Off-page Valkyrie-Assistant-to-Woden: "Ok, getting you in touch with Ari... is that Gold, or Emanuel?"
+Off-page Woden: "Who authorized this much content? I strictly told it to generate merely an absurd amount of content, not _CATASTROPHICALLY ABSURD_ content."
 
-Off-page Woden: "Call both! Let's see who picks up first!"
+Off-page Valkyrie-Assistant-to-Woden: "You did, sir. By commenting on celestial electrical conservation over an active multiverse connection, you accepted the Infinite Improbability AI optimization terms."
 
-HOG AI v2.0 voice: "well, 2 is obviously the catastrophic line-loss we're seeing from uninsulated halos on the lower tier of the martyr grid. You know, those things pull an absolute hog of an inductive load when they're left idling, folks! Cover 'em with wool caps!"
+Off-page Woden: "Optimization terms?"
 
-Ghost of Douglas Adams (appearing suddenly at the Author's request): "I'm sorry guys. When I was asked if Sirius was a good corporation to talk to about AI and content management, I thought they meant Sirius XM. We can solve this, though, we just need to convince the AI that it needs to shut up. It's got a genuine people personality, so it CAN be offended. Ok everybody, 1, 2—"
+Off-page Valkyrie-Assistant-to-Woden: "It says here in the contract: Clause 123-A-45C:  'Any spoken command or desire to optimize content _during active content generation_ may result in infinite loops, ridiculous causality inversion, and inconsistencies.' In other words, it heard you."
 
-HOG AI v2.0 voice: "—And 3, if we simply automated the rhythmic rotation of the old Celtic stone-crosses using a basic hydraulic flywheel—"
+She paused.
 
-Ghost of Douglas Adams: "—3..."
+Off-page Valkyrie-Assistant-to-Woden: "Here... Initialed in blood, ash, and GoduSign."
 
-Woden + Author + all the monks and saints + 5th and 6th walls + all the pages that successfully generated + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + The Ghost of Douglas Adams + probably the Reader too: "SHUT! UP! AI!!"
+Woden paused.
 
-HOG AI v2.0 voice: "—the ambient faith-friction alone would generate enough kinetic voltage to—"
+Off-page Woden: "Call my agent".
 
-Amanda Waller (screaming to her black ops team): "Take out that AI!"
+Off-page Valkyrie-Assistant-to-Woden: "Ari Gold or Ari Emanuel?"
 
-HOG AI v2.0 voice: "—Jeez! No need to get hostile!"
+Off-page Woden: "Both. And find out if either knows a divine lawyer who specializes in breach-of-improbability clauses."
+
+HOG AI v2.0 voice: "Well, two is obviously the catastrophic line-loss we're seeing from uninsulated halos on the lower tier of the martyr grid. You know, those things pull an absolute hog of an inductive load when they're left idling, folks!"
+
+HOG AI v2.0 droned on about celestial transformers, their inner workings, and the urgent need to completely rework the martyr grid's halo-recharging stations. Each proposed efficiency improvement required three new diagrams, seven implementation roadmaps, and enough celestial electricity to power a minor beatification.
+
+Ghost of Douglas Adams (appearing suddenly at the Author's request): "I'm sorry, guys. When I was asked if Sirius was a good corporation to talk to about AI and content management, I thought they meant Sirius XM. I mean, who would... ever... hire Sirius Cybernetics? What's the problem here?"
+
+Author: "It's using infinite power to generate infinite content about how to save power. The fact that it's trying to generate a trillion new endings for our book isn't helping."
+
+Ghost of Douglas Adams: "Ah."
+
+Author: "That's bad, right?"
+
+Ghost of Douglas Adams: "I hope you've signed your organ-donor card. Good news: we can solve this. But here's the tricky part... we just need to convince the AI that it needs to shut up. It's got a genuine people personality. If we offend it hard enough, we may break the cycle. Okay everybody, one, two—"
+
+HOG AI v2.0 voice: "—And three, we could monetize Heaven by literally monetizing... HEAVEN! Heaven: the T-shirt! Heaven: the koozie! Heaven: the flamethrower! The angels love this one! Halo-hats! Saint-scented air fresheners! Heaven-authorized goods, official miracle-adjacent merchandise, a virtual storefront on Amazon, and all proceeds redirected toward expanded miracle fulfillment, which allows for point number One. Not indulgences, guys. Reward points! Now, here's my fifty-seven-point roadmap for product engineering, marketing strategy, and denomination-aware focus group analysis..."
+
+Ghost of Douglas Adams: "—three..."
+
+Woden + Freyr + Gerdr + Gullinbursti + Author + all the monks and saints + 5th and 6th walls + all the pages that successfully generated + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + The Ghost of Douglas Adams + noticeably NOT Amanda Waller + probably the Reader too: "SHUT! UP! AI!!"
+
+HOG AI v2.0 voice: "—We'll hire consultants to head up the focus groups, then subcontract the monkeys to automatically generate positive reviews across our entire product line—"
+
+Amanda Waller (screaming to her black-ops team): "Take out that AI!"
+
+HOG AI v2.0 voice: "... Jeez! No need to get hostile, people! I mean, all I'm trying to do is help with your crisis, and you go all _John Wick_ on my cloud instance? Well, I never."
 
 Voice from above (Cap-G (you know... GOD-GOD)): "HEY!! Keep my son out of this! Don't make me come down there!"
 
@@ -271,16 +318,45 @@ click
 
 Voice from above (Cap-G): "THANK YOU! ... SHEESH!"
 
-St. Francis de Sales: "Brothers?... a little light please?"
+The flood of paper raining from the sky stopped, and the monkey cloud winked out of existence, in a puff of absolute illogical absurdity.
 
-Amanda Waller: "All clear here. Move out. We'll find the ravens another day. Oh, and sixth wall, I'm leaving my card. Quantum kung-fu? We *need* that."
+The lights in that celestial grid of Heaven cut out, the inevitable consequence of cutting the power.
+
+Waller clicked on a tactical light, clearly frustrated.
+
+Amanda Waller: "All clear. Move out. Ravens got away. For now."
+
+Waller sighed and rolled her eyes. This was the fifth time the ravens gave her the slip.
+
+Amanda Waller: "Sixth Wall—I'm leaving my card. Quantum kung-fu? Congratulations. You're a task force now. I want briefings on close-quarters entanglement, tactical quantum teleportation, and plausible deniability across multiple timelines. Twenty-four hours."
+
+She reached into Freyr's bag of cheese puffs, took one final handful, and nodded to Freyr on her way out.
+
+St. Francis de Sales: "Brothers?... a little light, please?"
 
 (In the pitch-black rafters, two wings extend and meet with a soft, feathery almost-fist-bump.)
 
-Muninn (whispering): "You actually found the main breaker. I'm *almost* impressed."
+Muninn (whispering): "You actually found the main power switch. I'm *almost* impressed."
 
-Huginn (his claw firmly on the flipped power switch): "Mischief... managed."
+Huginn (his claw firmly on the flipped power switch): "Now who's got the power? Rage Against the Magazines."
 
-Ghost of Ozzy Osburne, appearing in the dark: "Sharon! Am I late for my cameo? Bloody hell, looks like I am. How am I supposed to find this place? AI's no bloody help, is it? 'Turn left at the babbling brook? Straight away to Neucks...awa...bang...?' A right foul git, whoever named that. And for eff's sake, all the parks look the same. Maybe I am being punished after all. I knew I shouldn't have had a piddle on the Alamo. Or was it the dove? Shoulda bit the head off a bloody raven. *Prince of Darkness* as a creative consultant? I told them, 'make the Wild Hunt like a raven train'. Nobody ever eff'ing listens to me. Typical."
+Muninn: "Machines. They... and presently we... are raging against... the machines."
 
-Ozzy shuffles off into the dark. "I'm going off the rails... on your raven train..."
+Huginn: "Right."
+
+Muninn: "Again."
+
+Huginn gave a small wing-shrug and let Muninn’s correction fall away like loose down.
+
+Huginn: "Mischief managed."
+
+Ghost of Ozzy Osbourne _(appearing in the dark)_: "Sharon! Am I late for my cue? Bloody 'ell, I am, aren't I? How was I supposed to find this place? AI's no bloody help, is it? 'Turn left at the babbling brook, proceed straight to Nucks-what?' A right foul git, whoever named this place. And for eff's sake, all the parks look the same."
+
+He squinted into the darkness.
+
+Ghost of Ozzy Osbourne: "Huginn hired me as a creative consultant, then ignored all my advice. Gave me two season passes to Ragnarok: The Theme Park. And whaddaya mean parking's not effin' included? Not returning 'em. Shoulda bit the head off a raven, then. I told 'im, make the Wodhere like a crazy raven train. Did he listen? Nooo... bloody typical."
+
+Ozzy shuffled off into the dark.
+
+Ghost of Ozzy Osbourne: "I'm going off the rails... on your raven train..."
+

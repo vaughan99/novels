@@ -4,40 +4,50 @@
 
 I have been fascinated by magical weapons for most of my life.
 
-Like many children who grew up playing fantasy roleplaying games, I spent countless hours imagining named swords, cursed axes, enchanted rings, and ancient treasures. Yet over time, I found myself becoming less interested in what these objects could do and more interested in what they meant. Many fantasy weapons are little more than special effects attached to steel. They glow, burst into flame, or grant supernatural powers. Useful, perhaps, but rarely mysterious. The older I became, the more I found myself asking a different question: what would a truly mythic weapon feel like?
+Like many children who grew up playing fantasy roleplaying games, I spent countless hours imagining named swords, cursed axes, enchanted rings, and ancient treasures. Yet over time, I found myself becoming less interested in what these objects could do and more interested in what they meant. Many fantasy weapons are little more than special effects attached to steel. They glow, burst into flame, or grant supernatural powers. Useful, perhaps, but rarely mysterious. The older I became, the more I found myself asking a different question: what would a truly mythic weapon feel like? Or even, what would a +1 dagger feel like, really? Many game systems so thoroughly imbue magic into everything that the magic system loses its meaning a bit.
 
-A mythic weapon should not simply change a battle. It should change the person carrying it. More importantly, it should change how that person is perceived by the world around them. A named blade carries stories. It carries expectations. It carries reputation. The owner may begin to see themselves differently, but so does everyone else. Friends may become followers. Strangers may become fearful. Enemies may become obsessed. A weapon associated with a saint, a king, a god, or a curse does not merely alter what happens when the fighting begins. It alters conversations before the fighting starts. It changes status, obligations, opportunities, and relationships. It becomes part of a person's identity.
+A magic weapon would not simply change a battle. It should change the person carrying it. More importantly, it should change how that person is perceived by the world around them. A named blade carries stories. It carries expectations. It carries reputation. The owner may begin to see themselves differently, but so does everyone else. Friends may become fearful perhaps, or followers. Strangers may become wary. Enemies may become obsessed. A weapon associated with a saint, a king, a god, or a curse does not merely alter what happens when the fighting begins. It alters conversations before the fighting starts. It changes status, obligations, opportunities, and relationships. It becomes part of a person's identity.
 
 That, to me, feels much closer to the way magical objects appear in mythology and folklore. Their power is not merely physical. Their power is social, spiritual, and psychological. They reshape the world around their owners long before they ever reshape a battlefield.
 
-One of the first stories that forced me to think about this was Michael Moorcock's _Stormbringer_. The sword fascinated me not because it was powerful, but because it came with a cost. It altered the life of its owner, reshaped his choices, and eventually became impossible to separate from his identity. It was one of the first magical weapons I encountered that felt less like equipment and more like a problem. Looking back, I suspect that realization stayed with me. The most interesting magical objects were never the ones that guaranteed victory. They were the ones that made me question whether using them was a good idea in the first place.
+One of the first stories that forced me to think about this was Michael Moorcock's _Stormbringer_. The sword fascinated me not because it was powerful, but because it came with a cost. And it was sentient. It altered the life of its owner, reshaped his choices, and eventually became impossible to separate from his identity. It was one of the first magical weapons I encountered that felt less like equipment and more like a problem. Looking back, I suspect that realization stayed with me. The most interesting magical objects were never the ones that guaranteed victory. They were the ones that made me question whether using them was a good idea in the first place.
 
 If a blade genuinely housed a spirit, what would its owner believe about it? If a sword were associated with divine judgment, would its wielder feel honored or terrified? If a weapon carried a curse, how long would it take before the owner began wondering whether every misfortune was somehow connected to it? The most interesting magic, at least to me, has never been about power. It has been about consequences. A magical weapon should not merely solve problems. It should create new ones.
 
-Many years later, I learned how to forge knives, not well mind you. Once that happened, the old questions returned. Only now they felt more tangible. A real blade has weight. It has balance. It reflects light in specific ways. It acquires scratches, stains, and history. Most importantly, it exists in the world. I found myself imagining what kinds of myths might grow around such objects. Not modern myths, but myths that would feel plausible to the people who actually carried blades. What would a tenth-century farmer believe about a strange seax inherited from his grandfather? What would a priest think if he became convinced that a sword knew his sins? What would a widow tell her children about the knife hanging beside the hearth?
+Many years later, I learned how to forge knives - not well, mind you. Once that happened, the old questions returned. Only now they felt more tangible. A real blade has weight. It has balance. It reflects light in specific ways. It acquires scratches, stains, and history. Most importantly, it exists in the world. I found myself imagining what kinds of myths might grow around such objects. Not modern myths, but myths that would feel plausible to the people who actually carried blades.
 
-Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions. To a storyteller, that environment is irresistible. To a lifelong Dungeon Master, it felt like discovering a campaign setting that history had already written.
+Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions. To a storyteller, that environment is irresistible. To an off-and-on Dungeon Master, it felt like discovering a campaign setting that history had already written.
 
-The three blades at the heart of this story emerged from that fascination. Wodbora, Monanleoht, and Beorg-ecg were never intended to function like magical items in a game. They do not grant bonuses, improve statistics, or make their owners invincible. Instead, each blade asks a question. Wodbora asks what sins a person is willing to admit. Beorg-ecg asks what obligations accompany stewardship and belonging. Monanleoht asks what parts of ourselves we surrender in pursuit of beauty, mastery, or wonder. The blades possess magic, but the true effect of that magic is psychological. They change how their owners understand themselves.
+The three blades at the heart of this story emerged from these ideas. The blades existed in my mind before I knew what story I wanted to tell. I started asking questions from the blades' perspective: "What kind of owner would want to own me? Who would commission my forging?" These three were not the first blades I imagined.
 
-As the story grew, I realized that the same questions applied far beyond the blades. They applied to the people carrying them. They applied to England during the tenth century. They applied to Woden and Freyr. They even applied to the stories themselves. What should be preserved? What should be discarded? What should be transformed into something new? Those questions eventually led me into discussions of wyrd, free will, syncretism, mythology, and history. Yet none of those ideas were the starting point. They were consequences of taking the original question seriously.
+I started with commissioning my first blade, "Fyrleoht." I researched enough Old English (before ChatGPT) to know what to call it. I gave it an oath too, which turned out to be only 80% correct Old English. "Geboren of fyr, Geawacen be willan." The intent was: "Born of fire, Awakened by the will". I envisioned it was a simple blade. It merely reflected firelight from the campfire better than most. Perhaps it isn't even a "magical" blade, just better polished. By virtue of the oath that was inscribed, the wielder felt like the blade had a little agency. And maybe that's what a +1 weapon is... not just a statistic that adds a point to a die roll, but something that gives the wielder a bit of extra confidence.
 
-This book exists because I never stopped wondering about magical weapons.
+Imagine a guard standing watch. He pulls out "Fyrleoht" to sharpen it by the campfire, and the dancing fire in the blade's surface effectively says: "I see you. That fire sees you. You're not alone here. Stand watch with me." Not literally of course. That would be a blade of fiery ventriloquism +1, which could be interesting, but that's not the point. It's the confidence that gets him through the night.
 
-Not how powerful they are.
+My ideas of Wodbora started as: "What if a sword demanded that you save your soul in order to unlock its ultimate feature, one that unleashes pure chaos? Oh, and you can't tell anybody about it. Oh, and as part of your confession, you have to bid a price for your sin that might get rejected?" That was the "what" of the blade: the effect. But that's incomplete. What really mattered was the "who" and the "why." Before I could answer those questions, I wanted a stable of three blades. That seemed like the beginning of a more complete mythology.
 
-Not how many enemies they can defeat.
+I asked similar questions of the other two blades.
 
-But what it would feel like to carry one.
+Monanleoht: "What if prowess in battle cost you your sanity, and using it meant making a deal with a faerie madman?" Would you knowingly go insane? That's not an easy question for a person living on the edge of a Brothers Grimm folk horror story.
 
-Everything else followed from there.
+Barrow-Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a farmer going into battle.
+
+As the story grew, I realized that some mythic powers really demand a mythic commissioner. Enter Woden and Freyr. Woden has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who". Now for the "why".
+
+Looking at the crossroads of the Danelaw at the time, I envisioned Woden having an existential crisis. He is losing followers. Both families of Scandinavian gods - the Aesir and the Vanir - are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Woden to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarok... only for Ragnarok not to be inevitable after all. At some point, Woden - being the god of wisdom - would want answers. How do you test fate? How do you test how humans perceive fate? What we find is that Woden isn't testing humanity; he's testing himself.
+
+Of course Freyr would shrug off the entire need for knowledge. Freyr believes in cycles. The time for the Aesir and Vanir has come and gone. The bitter harvest has come, but it's not Ragnarok; it's an ego death. To Woden, that is a catastrophe. To Freyr, it is simply the harshest of winters.
+
+This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one. Everything else followed from that.
 
 ---
 ### Who Are The Cynn, Really?
 
-These are the forge-elves that carry on the tradition of magical blade-making. In reality, it's just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun (giggling like little children when things actually work out ok). Huginn makes up stories about these things we make and dream up, and tells them to imaginary children :)
+These are the forge elves who carry on the tradition of magical blade-making. They're not literally descendants of Weyland, Völundr, Vulcan, or any other divine smith. In reality, of course, they are just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun, usually while giggling like children when things actually work out okay. Huginn makes up stories about the things we make and dream up, then tells them to imaginary children.
 
-The Cynn, at their heart, are members of "maker culture". They respect the craftsmanship of a thing. But, where maker culture ends, the Cynn extends. The Cynn asks about the consequences of making the thing. What stories evolve from it? It's a union of crafting with imaginative exploration.
+The Cynn, at their heart, belong to maker culture. They respect the craftsmanship of a thing: the steel, the welds, the carving, the polish, the hours of handwork. But where maker culture often ends with the finished object, the Cynn keep asking questions. What stories grow around it? What consequences follow from it? What does the thing ask of the person who carries it?
+
+That is what the Cynn really are: craft joined to mythmaking, and having fun doing it.
 
 ---
 
@@ -45,7 +55,7 @@ The Cynn, at their heart, are members of "maker culture". They respect the craft
 
 #### Leicester and the Peace of 941
 
-The events of _The Cynn_ take place against the backdrop of a real historical conflict. Following the death of King Æthelstan in 939 AD, political authority in England entered a period of uncertainty. Olaf Guthfrithson, ruler of Dublin and York, moved quickly to exploit the situation. During 940 AD, his forces pushed deep into Mercia, attempting to reassert Scandinavian influence over territories that had been contested for generations. The campaign ultimately culminated in Leicester, one of the Five Boroughs of the Danelaw and one of the most strategically important settlements in central England.
+The events of _The Cynn_ take place against the backdrop of a real historical conflict. Following the death of King Æthelstan in 939, political authority in England entered a period of uncertainty. Olaf Guthfrithson, ruler of Dublin and York, moved quickly to exploit the situation. In 940, his forces pushed deep into Mercia, attempting to reassert Scandinavian influence over territories that had been contested for generations. The campaign ultimately culminated in Leicester, one of the Five Boroughs of the Danelaw and one of the most strategically important settlements in central England.
 
 Unfortunately, the surviving historical sources provide only fragments of the story. Medieval chroniclers were often more interested in recording victories, royal successions, and divine providence than explaining logistics, supply, or the day-to-day realities of campaigning. As a result, historians can reconstruct only the broad outline of events. Olaf advanced aggressively into Mercia. Resistance hardened. Leicester became the focal point of the campaign. By 941, both sides found themselves confronting the possibility of a prolonged and costly conflict.
 
@@ -87,19 +97,25 @@ Elswyth represents a different form of life between worlds. She grows up close e
 The purpose of this story is not to suggest that paganism and Christianity were secretly identical, nor that historical people casually mixed beliefs without conflict. Tensions existed, and they could be profound. Yet the Danelaw was a place where old and new ideas overlapped, competed, influenced one another, and sometimes produced forms neither tradition would have fully recognized. Osric and Ealhild reveal this process at the level of field and hearth. Elswyth reveals it at the level of culture and memory. Cynewulf reveals it at the level of doctrine and conscience. Together they illustrate a world that was neither wholly pagan nor wholly Christian, but something more complicated: a society learning to live between worlds.
 
 ---
-#### Who Is Woden, Anyway?
+#### Who Is Woden?
 
-Readers familiar with Norse mythology may wonder why this novel consistently uses the name _Woden_ rather than the more familiar _Odin_. The simplest answer is historical. _The Cynn_ takes place in tenth-century England, where the Anglo-Saxons knew the god as Woden. The language, place names, royal genealogies, and surviving literature of the period all point toward that form. Yet historical accuracy alone does not fully explain the choice. The deeper reason is that Woden's story mirrors the central concerns of this novel.
+(And then I'll do you one better: "WHY IS WODEN?!?!")
 
-Modern audiences are remarkably familiar with Odin. He appears in films, television, novels, games, heavy metal albums, and modern religious movements. Even people with little knowledge of Norse mythology often recognize the one-eyed wanderer, accompanied by ravens and wolves. Odin survived the modern age. He remains a living cultural figure. Woden, by contrast, occupies a more uncertain position. He survives in fragments. Wednesday still bears his name. Ancient genealogies still remember him. Folklore echoes still linger. Yet the god himself often feels distant, obscured by centuries of change. Odin feels present. Woden feels recovered.
+Readers familiar with Norse mythology may wonder why this novel consistently uses the name _Woden_ rather than the more familiar _Odin_. The simplest answer is historical. The split between Woden and Odin is not a mythic schism, but a linguistic one. They are two branches of the same Proto-Germanic root, **_Wōdanaz_**. The Norse _Óðinn_ evolved in the North, shaped by the Viking Age’s obsession with the warrior-cult and the gallows-god. The English _Wōden_ was frozen in time, carried across the sea by the Anglo-Saxon migrations and preserved as an ancestral figurehead for royal lineages. Woden's worship was still entwined with wolves, ravens, and all the trappings of Odin, but it felt a bit more distant to the everyday Saxon.
 
-This distinction fascinated me because _The Cynn_ is ultimately a story about what survives when a world changes. The novel takes place during a period when England was neither wholly pagan nor wholly Christian. Older traditions persisted alongside newer ones. Customs overlapped. Stories were reinterpreted. Gods were not always forgotten outright. More often, they were transformed. Woden occupies a particularly interesting place within that transformation because he was both diminished and preserved at the same time.
+When I use the name _Woden_, I am not choosing a different god; I am choosing the version of the god that walked the English hedgerows, the one who was a king of ancestors rather than a king of the slain. The language, place names, royal genealogies, and surviving literature of the period all point toward that form. Yet historical accuracy alone does not fully explain the choice. The deeper reason is that Woden's story mirrors the one of the central concerns of this novel.
+
+Modern audiences are remarkably familiar with Odin. He appears in films, television, novels, games, heavy metal albums, and modern religious movements. Even people with little knowledge of Norse mythology often recognize the one-eyed wanderer, accompanied by ravens and wolves. Odin survived the modern age. He remains a living cultural figure. Woden, by contrast, occupies a more uncertain position. He survives in fragments. Wednesday still bears his name. Ancient genealogies still remember him. Folklore echoes still linger. Odin feels present. Woden feels recovered.
+
+This distinction fascinated me because _The Cynn_ is partially a story about what survives when a world changes. The novel takes place during a period when England was neither wholly pagan nor wholly Christian. Older traditions persisted alongside newer ones. Customs overlapped. Stories were reinterpreted. Gods were not always forgotten outright. More often, they were transformed. Woden occupies a particularly interesting place within that transformation because he was both diminished and preserved at the same time.
 
 One of the most striking examples comes from the royal genealogies of Anglo-Saxon England. Several royal houses traced their ancestry to Woden, including the line that eventually produced King Alfred the Great. Alfred was one of the most influential Christian rulers in English history, yet the genealogies preserved by Christian scribes still connected him to the old god. This apparent contradiction reveals something important about the period. Woden's religious authority may have been fading, but his cultural authority remained useful. He ceased to function primarily as a god of worship and increasingly became an ancestor, a source of legitimacy, a figure woven into the story of England itself. In a sense, Woden survived by changing jobs.
 
 At the same time, later folklore increasingly assigned Woden another role: leader of spectral riders, wandering dead, and supernatural processions that would eventually contribute to traditions associated with the Wild Hunt. Whether viewed as folklore, theology, or cultural adaptation, the pattern is striking. The god who once occupied the center of a religious system gradually became associated with the margins. He survived, but in a narrower and more uncertain capacity. For the purposes of this novel, that uncertainty was far more interesting than divine certainty. Woden became a figure already negotiating the terms of his own survival.
 
-This process of transformation mirrors the broader themes explored throughout the story. Osric, Ealhild, Elswyth, and Cynewulf all inhabit worlds shaped by overlapping identities. None of them can simply remain what they once were. Each must decide what to preserve and what to relinquish. The same question confronts Woden himself. If the old world is ending, what should survive? If traditions change, what remains worth carrying forward? These are not merely theological questions. They are human questions.
+This process of transformation mirrors the broader themes explored throughout the story. Osric, Ealhild, Elswyth, and Cynewulf all inhabit worlds shaped by overlapping identities. None of them can simply remain what they once were. Each must decide what to preserve and what to relinquish. The same question confronts Woden himself. If the old world is ending, what should survive? If traditions change, what remains worth carrying forward? 
+
+However, what makes Woden truly fascinating in this timeframe is that he is at an existential crossroads, more-so than his Scandinavian identity Odin. He no longer trusts fate. That would be terrifying, to a god that spent his entire existence trying to earn every scrap of knowledge he could to fight at Ragnarok. He cut out his eye, hung himself on a tree, built a dining hall at the end of existence, and spent eons building a stable of heroes for a final battle, only to realize that Ragnarok was never fated in the first place—was it all a waste? By humanizing Woden, these cease to be merely theological questions. They become the same questions any human would ask when they look back at a life of harsh sacrifice and wonder if it mattered.
 
 By contrast, Odin often arrives in modern culture already reconstructed. He has been rediscovered, reimagined, and reintroduced to contemporary audiences. Woden interested me because he stands closer to the moment of transformation itself. He is not a forgotten god, nor a fully remembered one. He exists at the boundary between the two. That boundary is where _The Cynn_ spends most of its time.
 
@@ -108,13 +124,20 @@ In the Epilogue, Woden offers a simple lesson: do not throw things away; reforge
 This novel is not an attempt to preserve Woden unchanged, like an artifact sealed behind museum glass. Modern audiences already possess a remarkably complete image of Odin, shaped by centuries of retellings, scholarship, fiction, and popular culture. Woden, by contrast, survives in fragments, echoes, and possibilities. That makes him available for interpretation. It creates space to ask how such a figure might respond to the world changing around him. In this story, I chose to imagine a Woden who eventually comes to agree with Freyr on one important point: things do not survive because they remain unchanged. They survive because each generation discovers what remains valuable within them and carries it forward in a new form. This novel is simply one small attempt to participate in that process.
 
 ---
+
 #### Wyrd (And Why It's So Weird)
 
 Modern readers often encounter _wyrd_ translated simply as "fate." While convenient, that translation can be misleading. Today, fate is often imagined as a fixed destination: an unavoidable future waiting at the end of a road. In that view, events are predetermined, and human choices merely create the illusion of freedom. Yet this is not how most people in tenth-century England would have understood wyrd. To them, wyrd was neither a script nor a prison. It was something stranger.
 
-The Old English word _wyrd_ is related to ideas of becoming, happening, and unfolding. Rather than describing a predetermined future, it describes the process by which events emerge from the world. A seed becomes a tree. A child becomes an adult. A promise becomes a feud. A kingdom becomes a memory. Wyrd concerns the manner in which things come to be. It is less a destination than a pattern of consequences stretching through time.
+The Old English word _wyrd_ is related to ideas of becoming, happening, and unfolding. Rather than describing a predetermined future, it describes the process by which events emerge from the world. A seed becomes a tree. A child becomes an adult. A promise becomes a feud. A kingdom becomes a memory. 
 
-This distinction matters because the people of early medieval England did not generally see fate and choice as opposing forces. A person's decisions mattered enormously. Courage mattered. Loyalty mattered. Oath-breaking mattered. Character mattered. The choices one made would echo outward through family, community, and history. Those consequences became part of wyrd. In other words, wyrd was not something imposed upon a person from outside. Human actions participated in its unfolding.
+Crucially, _wyrd_ is not a chaotic void; it is a web of patterns. While the future is not a fixed script, it is marked by waypoints of convergence—moments where the threads of the past inevitably pull together to create a new reality. These are the points where the pattern becomes visible, where the consequences of a thousand small choices finally manifest as a single, unavoidable event. _Wyrd_ concerns the manner in which things come to be. It is less a destination than a pattern of consequences stretching through time, a river that may twist and turn, but always flows toward the sea.
+
+While the older Saxon tradition often envisioned _wyrd_ as a singular, inexorable force, the Norse tradition utilized the Norns—a useful metaphor for understanding how that force operates. They did not see _wyrd_ as a book to be read, but as a tapestry to be woven. They saw the lives of men as individual strands—some as fine as a maiden’s hair, others as coarse as hemp—all being pulled into the loom of the world.
+
+These strands are not fixed in place from the start. They twist, they knot, and they fray. But there are moments—these "waypoints of convergence"—where the Norns pull the threads tight. At these points, the pattern becomes undeniable. The individual strands may have had the freedom to wander, but they are ultimately bound to the design of the whole. _Wyrd_ is the tension in those threads. It is the realization that while we may choose the direction of our own strand, we are all part of a weave that is being crafted by forces far older than ourselves.
+
+People of early medieval England did not generally see fate and choice as opposing forces. A person's decisions mattered enormously. Courage mattered. Loyalty mattered. Oath-breaking mattered. Character mattered. The choices one made would echo outward through family, community, and history. Those consequences became part of wyrd. In other words, wyrd was not something imposed upon a person from outside. Human actions participated in its unfolding.
 
 Imagine standing in a river. The current exists whether you wish it to or not. You did not create the river, nor can you command it. Yet your choices still matter. You may swim with the current, struggle against it, cross it, or be swept away by it. The river places limits upon your freedom, but it does not eliminate it. Wyrd was often understood in much the same way. The world possessed tendencies, patterns, and consequences beyond any individual's control. The question was not whether those forces existed, but how a person should respond to them.
 
@@ -128,7 +151,7 @@ That uncertainty lies at the heart of _The Cynn_. Osric, Ealhild, Elswyth, Cynew
 
 Perhaps this is why wyrd continues to fascinate modern readers. We may live in a different age, but we face a similar dilemma. We inherit circumstances we did not choose. We make decisions without perfect information. We act without knowing exactly how our choices will shape the future. The world remains larger than our understanding. In that sense, wyrd is not merely an ancient concept. It is a reminder that uncertainty has always been part of the human experience.
 
-This is why wyrd is so weird. It is neither fate nor free will. It is not destiny, luck, providence, or chance, though it shares qualities with all of them. It is a way of seeing the world as an unfolding web of relationships and consequences in which every person participates, but which no person fully controls. To understand wyrd is not to solve the mystery. It is to recognize that the mystery is part of the pattern itself.
+This is why wyrd is so weird. It is neither complete pre-destination nor complete free will. It is not destiny, luck, providence, or chance, though it shares qualities with all of them. It is a way of seeing the world as an unfolding web of relationships and consequences in which every person participates, but which no person fully controls. Those who understand wyrd (like Woden) can see the coming points of convergence and use them. To the rest of us,  understanding wyrd is not to solve the mystery. It is to recognize that the mystery is part of the pattern itself.
 
 ---
 #### Agency of Magical Artefacts
@@ -147,6 +170,8 @@ In practical terms, the distinction functions as a metaphysical safeguard. The w
 If wyrd is not destiny in the modern sense, then an obvious question follows: what becomes of free will? If human beings live within patterns they cannot fully understand, if consequences unfold beyond their control, and if the future is shaped by forces larger than themselves, are their choices truly their own? Modern readers often assume these ideas must be in conflict. Either we possess freedom, or we are bound by fate. Yet for many people living in tenth-century England, the question would have seemed strangely framed. Wyrd and human choice were not rivals. They were partners.
 
 Part of the confusion comes from our tendency to imagine freedom as the absence of constraints. We often define free will as the ability to choose anything at any time. But this has rarely been the reality of human life. None of us choose where we are born. We do not choose our parents, our language, our era, our culture, or the circumstances into which we arrive. Every person enters a world already in motion. The people of early medieval England understood this intuitively. Freedom was not the ability to choose one's circumstances. Freedom was the ability to choose one's response to them.
+
+Imagine if two people were destined to meet, because of wyrd. Person A and person B both have free will, to turn left or right at a fork in the road. If A turns left, and B turns right, they won't converge. But those who understand _wyrd_ would say: _not yet._ The convergence between A and B is not a fixed coordinate in time or space. Their choices are real, and their paths may diverge for a lifetime, but _wyrd_ is the gravity that ensures their roads will eventually intersect. The convergence is the destination; the path is the choice. It would be pre-destination if the convergence were dictated as a fixed coordinate.
 
 This distinction helps explain why so much Old English literature is concerned with character rather than outcomes. Heroes are praised for courage, loyalty, generosity, and steadfastness. Villains are condemned for oath-breaking, treachery, cowardice, and pride. What matters is not whether a person can escape the consequences of the world around them, but how they conduct themselves while facing those consequences. The measure of a person lies in their choices, even when the results of those choices remain uncertain. Wyrd may shape the battlefield, but character determines how one fights upon it.
 
@@ -207,11 +232,11 @@ If you have read this far, you may have noticed something peculiar. This book is
 
 To be clear, I am not a historian. Historians have spent lifetimes studying the periods and cultures that inspired this story. At best, I am an enthusiastic student standing on the shoulders of people who know far more than I do.
 
-Nor am I a master bladesmith. Over the course of many years, I have managed to create a small handful of objects that can reasonably be described as blades. One or two of them are even good enough to actually use. Most taught me humility.
+Nor am I a master bladesmith. Over the course of many years, I have managed to create a small handful of objects that can reasonably be described as blades. One or two of them are even good enough to actually use. Most taught me humility and new, highly inventive curse words.
 
 What I am is a lifelong off-and-on gamer, dungeon-master-storyteller, and student of myth. Like many people, I spent years fascinated by legendary objects—Excalibur, Stormbringer, the Holy Grail, and countless others. Eventually I found myself asking a different question. Not what powers these artifacts possessed, but why they remained memorable long after their powers had been forgotten.
 
-The answer, I think, is that the most interesting artifacts are not objects of power. They are objects with a point of view. It's easier to understand that point of view if you hold it in your hand.
+The answer, I think, is that the most interesting artifacts are not objects of power. They are objects with a commissioner's point of view. It's easier to understand that point of view if you commission the item, and hold it in your hand.
 
 #### Part I: Craft The Idea
 
@@ -221,7 +246,7 @@ Basically, put the item at the center of the story, and conceive of all the acto
 
 #### Part 2: Craft The Avatar
 
-Create the artifact. NO, not a truly magical artifact that bursts into flames at the sound of a word (though that would be awesome). What I mean is, create a representation of the artifact. If possible, make it with your own hands. There is something profoundly educational about holding the thing that inspired the story. If that is not possible, learn enough about it to understand why it matters to the people who commission it, craft it, carry it, inherit it, fear it, treasure it, or depend upon it.
+Commission the artifact. NO, not a truly magical artifact that bursts into flames at the sound of a word (though that would be awesome). What I mean is, create a representation of the artifact. If possible, make it with your own hands. There is something profoundly educational about holding the thing that inspired the story. If that is not possible, learn enough about it to understand why it matters to the people who commission it, craft it, carry it, inherit it, fear it, treasure it, or depend upon it.
 
 Then ask yourself what question the artifact cares about.
 
@@ -317,13 +342,13 @@ This side is body-facing and contains the "secret" spell that Wodbora will cast 
 
 ##### Inscriptions
 
-| Location                             | Function    | Old English                               | Futhorc Runes                                       | Pronunciation                                             | Meaning                                     |
-| ------------------------------------ | ----------- | ----------------------------------------- | --------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------- |
-| Scabbard Obverse Line 1, Left        | Name        | Wodbora                                   | ᚹᚩᛞᛒᚩᚱᚪ                                             | WOD-bor-ah                                                | Madness-Bringer, Prophet                    |
-| Scabbard Obverse Line 1, Right       | Title       | Wōdes Weard                               | ᚹᚩᛞᛖᛋ ᛫  ᚹᛖᚪᚱᛞ                                      | WO-dess WEE-ard                                           | Guardian of Chaos                           |
-| Scabbard Obverse Line 2              | Ward        | Sceran scēapum : dēað wulfum              | ᛋᚳᛡᚱᚪᚾ ᛫ ᛋᚳᛡᛈᚢᛗ ᛬ ᛡᛠᚦ ᛫ ᚹᚢᛚᚠᚢᛗ                      | SHARE-an SHAY-ah-pum [pause] YETH WUL-fum                 | Shears for sheep. Death for wolves.         |
-| Scabbard Reverse Line 1 (small font) | Spell haelu | Wodbora cwiþ                              | ᚹᚩᛞᛒᚩᚱᚪ · ᚳᚹᛁᚦ                                      | WOD-bor-ah QUITH                                          | Wodbora says:                               |
-| Scabbard Reverse Line 2 (large font) | Spell       | Atola Wodhere, ne þū lencg gebunden eart! | ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer! |
+| Location                             | Function    | Old English                               | Futhorc Runes                                       | Pronunciation                                             | Meaning                                       |
+| ------------------------------------ | ----------- | ----------------------------------------- | --------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------- |
+| Scabbard Obverse Line 1, Left        | Name        | Wodbora                                   | ᚹᚩᛞᛒᚩᚱᚪ                                             | WOD-bor-ah                                                | Madness-Bringer, Prophet                      |
+| Scabbard Obverse Line 1, Right       | Title       | Wōdes Weard                               | ᚹᚩᛞᛖᛋ ᛫  ᚹᛖᚪᚱᛞ                                      | WO-dess WEE-ard                                           | Guardian of Chaos                             |
+| Scabbard Obverse Line 2              | Ward        | Sceran scēapum : dēað wulfum              | ᛋᚳᛖᚪᚱᚪᚾ ᛫ ᛋᚳᛖᚪᛈᚢᛗ ᛬ ᛞᛖᚪᚦ ᛫ ᚹᚢᛚᚠᚢᛗ                   | SHARE-an SHAY-ah-pum [pause] YETH WUL-fum                 | Shears for sheep/destinies. Death for wolves. |
+| Scabbard Reverse Line 1 (small font) | Spell haelu | Wodbora cwiþ                              | ᚹᚩᛞᛒᚩᚱᚪ · ᚳᚹᛁᚦ                                      | WOD-bor-ah QUITH                                          | Wodbora says:                                 |
+| Scabbard Reverse Line 2 (large font) | Spell       | Atola Wodhere, ne þū lencg gebunden eart! | ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer!   |
 
 ---
 
@@ -350,14 +375,14 @@ The blade itself should have the name inscribed in silver on one side, and the t
 
 ##### Inscriptions
 
-All the inscriptions are on the wrought iron spine-side of the blade, on both sides. The name/title appear on one side, and the two lines of the oath are on the other. The oath is interesting, because of the similarity of the last two words. Those two lines should be right-justified, so that the words are directly over each other vertically. The first line should have a copper/bronze/brass color, to signify warmth. All others should be silver.
+Inscriptions for this blade will be simple. The name and title will appear on one side of the wrought iron spine. The ward and the spell will appear simply on the two sides of the scabbard with no ornamentation. The fact that this is a farmer's blade means that it isn't too outwardly flashy.
 
 | Location              | Function | Old English      | Futhorc Runes          | Pronunciation         | Meaning                |
 | --------------------- | -------- | ---------------- | ---------------------- | --------------------- | ---------------------- |
 | Blade Side A (silver) | Name     | Beorg-ecg        | ᛒᛖᚩᚱᚷ ᛫ ᛖᚳᚷ            | BY-org-edge           | Barrow's Edge          |
 | Blade Side B (silver) | Title    | Hæcge-stælre     | ᚻᚫᚳᚷᛖ ᛫ ᛋᛏᚫᛚᚱᛖ         | HATCH-eh-STAL-reh     | Hedge-Stalker          |
 | Scabbard Obverse      | Ward     | Mēt sceadu-fyrd  | ᛗᛖᛏ ᛫  ᛋᚳᛖᚪᛞᚢ ᛫  ᚠᚣᚱᛞ  | MAYT SHA-doo FEERD    | Meet the shadow-fyrd   |
-| Scabbard Reverse      | Oath     | Mēt sceadu-heorþ | ᛗᛖᛏ ᛫  ᛋᚳᛖᚪᛞᚢ ᛫  ᚻᛖᚩᚱᚦ | MAYT SHA-doo HAY-orth | Meet the shadow-hearth |
+| Scabbard Reverse      | Spell    | Mēt sceadu-heorþ | ᛗᛖᛏ ᛫  ᛋᚳᛖᚪᛞᚢ ᛫  ᚻᛖᚩᚱᚦ | MAYT SHA-doo HAY-orth | Meet the shadow-hearth |
 
 
 ---
@@ -372,15 +397,15 @@ This is the deep-iron blade of the Spotted King redcap's prison. He is the memor
 
 It should be constructed of monosteel silvery 15n20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. Your eyes should appear different when you look into the blade like a mirror, as if the gnome is staring back at you.
 
-The blade is a light two-handed broken-back langseax, with a blade of anywhere from 20-26". The break should be roughly half way down the blade, making the tip extremely fast and maneuverable. The blade should basically be a light, slightly elongated variant of the Little Bealings langseax.
+The blade is a light narrow seax with 12-14" blade . The break should be roughly half way down the blade, making the tip extremely fast and maneuverable.
 
 There should be no fullers or inscriptions on the blade. The blade has no adornment or inscriptions... how can you scratch the skin of the redcap himself? He would most... put out, and start to question your vintage.
 
 ##### Handle Construction
 
-The handle should two-handed, to have maximum tip-control, since it is both sharp and ultra-stabby. It should also be very, very grippy. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping oxblood leather lace, ideally braid-wrapped with just enough 15n20 guard and pommel to counter-balance the thinner blade.
+The handle should be one-handed and be well-balanced, for maximum tip control. It should also be very, very grippy. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping oxblood leather lace, ideally braid-wrapped with just enough 15n20 guard and pommel to counter-balance the thinner blade.
 
-This time, the name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. If there's room, the runes should traverse the guard and pommel on the side-edge as if they are in mid-dance, each rune slightly askew angle-wise of what would be it's normal scripture-line. If there's no room on the edges, move the runes to the top and bottom flats of the guard and pommel.
+The name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. If there's room, the runes should traverse the guard and pommel on the side-edge as if they are in mid-dance, each rune slightly askew angle-wise of what would be it's normal scripture-line. If there's no room on the edges, move the runes to the top and bottom flats of the guard and pommel but keep the runes out of alignment with the center line.
 
 ##### Scabbard Construction
 
@@ -390,9 +415,9 @@ This blade is about style, and the scabbard should represent that. The scabbard 
 
 ##### Inscriptions
 
-| Location                   | Function | Old English   | Futhorc Runes           | Pronunciation          | Meaning            |
-| -------------------------- | -------- | ------------- | ----------------------- | ---------------------- | ------------------ |
-| Guard Top                  | Name     | Mōnanleoht    | ```ᛗᚩᚾᚪᚾᛚᛖᚩᚻᛏ```        | MOH-nahn-lay-okht      | Moonlight          |
-| Pommel Bottom              | Title    | Beado-Hleaper | ```ᛒᛡᚪᛞᚩᚻᛚᛡᚪᛗᛡᚱ```      | BEH-ah-doe HLAY-ah-per | Battle-Dancer      |
-| Scabbard Obverse (Outward) | Oath     | Gamena mid me | ```ᚷᚪᛗᛖᚾᚪ ᛫ ᛗᛁᛞ ᛫ ᛗᛖ``` | GAH-meh-nah mid meh    | Make merry with me |
-| Scabbard Reverse (Inward)  | Spell    | Georna mid me | ```ᚷᛖᚩᚱᚾᚪ ᛫ ᛗᛁᛞ ᛫ ᛗᛖ``` | GAY-or-nah mid meh     | Yearn with me      |
+| Location                   | Function | Old English          | Futhorc Runes                    | Pronunciation                     | Meaning                        |
+| -------------------------- | -------- | -------------------- | -------------------------------- | --------------------------------- | ------------------------------ |
+| Guard Top                  | Name     | Mōnanleoht           | ```ᛗᚩᚾᚪᚾᛚᛖᚩᚻᛏ```                 | MOH-nahn-lay-okht                 | Moonlight                      |
+| Pommel Bottom              | Title    | Beado-Hleaper        | ```ᛒᛠᛞᚩᚻᛚᛠᛈᛖᚱ```                 | BEH-ah-doe HLAY-ah-per            | Battle-Dancer                  |
+| Scabbard Obverse (Outward) | Oath     | Wē gameniaþ on lēoðe | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛚᛖᚩᚦᛖ``` | way GAH-men-ee-ath on LAY-oh-theh | We play/rejoice in song/poetry |
+| Scabbard Reverse (Inward)  | Spell    | Wē gameniaþ on blōde | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ``` | way GAH-men-ee-ath on BLOH-deh    | We play/rejoice in blood       |

@@ -10,7 +10,7 @@ Muninn: "That's ONE! One sin against the children's ears!"
 
 Muninn aggressively scratch the bench with the feather's quill.
 
-Huginn: "It has important moral lessons, brother! Look at the hob. He learned to be less greedy, was forgiven for his sins, and moved to a nice new home. The murder-gnome? He self-reflected for eternity in a steel mirror, and learned a new culinary pastime. And the priest, the chaos sword forced him to become a better person EVERY TIME HE TOUCHED IT! Don't lecture me about morality!
+Huginn: "It has important moral lessons, brother! Look at the hob. He learned to be less greedy, was forgiven for h. The murder-gnome? He self-reflected for eternity in a steel mirror, and learned a new culinary pastime. And the priest, the chaos sword forced him to become a better person EVERY TIME HE TOUCHED IT! Don't lecture me about morality!
 
 Muninn continued, unabated.
 
@@ -18,11 +18,11 @@ Muninn: "TWO! A mother and her two children *poisoned* ... TO DEATH ... by some 
 
 Muninn made another scratch.
 
-Muninn: "THREE! A grieving widower is jammed into a winter meat-locker with a giant monster for THREE MONTHS, then you torture him in the mud, THEN he gets abducted by the same monster-turned-wifey while his kids hack away at Viking-weeds? 11 out of 10 on the horror meter!"
+Muninn: "THREE! A grieving widower is jammed into a winter meat-locker with a monster for THREE MONTHS, then you torture him in the mud, THEN he gets abducted by the same monster-turned-wifey while his kids hack away at Viking-weeds? 11 out of 10 on the horror meter!"
 
 Muninn made another scratch, yet deeper.
 
-Muninn: "FOUR! A redcap folded alive into a deep-iron cage screaming murder-poetry just to teach MORE murder-poetry and Matrix ninja moves to your 'meadow-bud' in a blood-drenched psycho-horror hoe-down?!?!"
+Muninn: "FOUR! A redcap folded alive into a deep-iron cage screaming murder-poetry just to teach MORE murder-poetry and Matrix ninja moves to your 'meadow-bud' in a blood-drenched shroom-smoking psycho-horror hoe-down?!?!"
 
 Muninn pushed the edge of the quill hard into the wood, nearly breaking it.
 
@@ -84,11 +84,11 @@ Woden looked at the boy, truly seeing him — a rare spark of the old world surv
 
 He leaned forward, tracing a faint rune in the dirt with the tip of his cane.
 
-"Osric found his new hearth. He took a wife and built a hall where the air always smelled of honey and stew, just as the blade promised. He died a grandfather with a full belly and kin at his feet. His home is gone now, collapsed and buried under three feet of English mud, but *Fyrleoht* remains. It is still down there under the earth, keeping a cold stone warm, waiting for the hand of another protector."
+"Osric buried the sword, lad. He couldn't break it - the spirits would have been lost to the Wild Hunt. He couldn't carry it either - his mind and body broke every time he saw his old family. He knew that to truly live, he had to let their memory... die. Eventually... he found his new hearth. He took a wife and built a hall where the air always smelled of honey and stew, just as the blade promised. He knew that hard work could never be replaced by the illusions of the past. He died a grandfather with a full belly and kin at his feet. His home is gone now, collapsed and buried under three feet of English mud, but Barrow's Edge remains hidden, somewhere. The threat of Woden is moot now... the Hunt is no longer. The magic is faded, I think, but if one of Osric's kin were to find the sword, it might just... open up to them."
 
 "And the small one? Meadow-Bud?" the boy asked.
 
-"Elswyth lived a long life, too," Woden nodded. "But the *Mōnanleoht* took its toll. By the end, the redcap's words flowed like those of the gnome, over smoother teeth. But his wisdom made the town feel too loud. She left her cottage and walked into the deep woods. I met her soul myself when she finally let go — I guided her out of the thicket and toward the Great Hall in the sky, for we were kin by then. But her blade? She left it buried deep within the roots of an ancient oak. It only shines when the moon is exactly right."
+"Elswyth lived a long life, too," Woden nodded. "But the *Mōnanleoht* took its toll. By the end, the redcap's words flowed like gentler, over smoother teeth. But his wisdom made the town feel too loud. She left her cottage and walked into the deep woods. I met her soul myself when she finally let go — I guided her out of the thicket and toward the Great Hall in the sky, for we were kin by then. But her blade? She left it buried deep within the roots of an ancient oak. It only shines when the moon is exactly right. She couldn't bear the thought of another keeping the blade, so she made sure she was its only, and last, owner. Fussleton faded away, and now the blade is... well, just a blade. Hiding deep in a forest."
 
 The boy bit his lip. "And the man with the... tornado sword? The one who confessed?"
 

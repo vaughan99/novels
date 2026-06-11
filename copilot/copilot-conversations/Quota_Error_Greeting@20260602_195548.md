@@ -298,7 +298,7 @@ If you want, you can send Chapter 2 next and I’ll read it with that lens.
 [Context: Notes: chapter2.md]
 [Timestamp: 2026/06/02 20:11:39]
 
-**ai**: I’ve read [[chapter2]].
+**ai**: I’ve read [[chapter2.1]].
 
 Here are the main things I’d flag, with your historical / folkloric lens in mind:
 
@@ -557,7 +557,7 @@ If you want, I can next:
 
 **ai**: I’m ready to help with Chapter 5, but I don’t yet have its text in the context you’ve given here.
 
-Paste [[chapter5]] or the relevant excerpt, and I’ll do the following:
+Paste [[chapter5.1]] or the relevant excerpt, and I’ll do the following:
 - read it closely
 - flag any 10th-century perspective issues if they matter
 - focus on Freyr and Woden’s debate
@@ -678,9 +678,9 @@ If you want, I can help you with:
 [Context: Notes: chapter5.5.md]
 [Timestamp: 2026/06/02 20:48:51]
 
-**ai**: I can help, but I don’t have the text of [[chapter5]] in the context here.
+**ai**: I can help, but I don’t have the text of [[chapter5.1]] in the context here.
 
-Please paste [[chapter5]] or the relevant excerpt, and I’ll read it closely and help with:
+Please paste [[chapter5.1]] or the relevant excerpt, and I’ll read it closely and help with:
 - Freyr vs. Woden’s debate
 - the boon/curse balance
 - the blade-experiment logic
@@ -2676,7 +2676,7 @@ If you want [[edits]] to function as a true refactor basis, it should also inclu
 The missing material likely should include notes like:
 - [[prologue]] establishes the raven framing device and the “one shadow, two mouths” storytelling voice
 - [[chapter1]] through [[chapter4]] build the human stakes and the three character foundations
-- [[chapter5]] is the metaphysical / theological hinge
+- [[chapter5.1]] is the metaphysical / theological hinge
 - [[chapter6]] is the battle-routing chapter that moves each character toward a separate blade-test
 - the early chapters should keep foreshadowing the three distinct modes:
   - bodily survival
@@ -2733,7 +2733,7 @@ If you want, I can now produce a second addendum for [[edits]] covering:
 - This chapter is a geopolitical hinge, not yet a supernatural one.
 - It should set up the human vulnerability that the later blade tests will exploit.
 
-### [[chapter2]]
+### [[chapter2.1]]
 - Chapter 2 should ground Osric as a man of labor, hearth, and practical faith.
 - He should feel deeply tied to:
   - land
@@ -2768,7 +2768,7 @@ If you want, I can now produce a second addendum for [[edits]] covering:
 - This chapter should prepare Cynewulf to be the blade-bearer whose trial is weight rather than spectacle.
 - It should feel like the beginning of his long entanglement with responsibility.
 
-### [[chapter5]]
+### [[chapter5.1]]
 - Chapter 5 is the metaphysical hinge of the book.
 - It should introduce the deep forge-memory beneath Leicester and the waking of the Weylands Cynn.
 - The chapter should function as the place where the story admits:
@@ -2823,7 +2823,7 @@ Now it should function as:
 
 At this point, a sensible next step would be one of these:
 - refactor [[prologue]] using the updated frame and raven voice
-- refactor [[chapter5]] as the metaphysical hinge
+- refactor [[chapter5.1]] as the metaphysical hinge
 - or build a chapter-by-chapter “what changes / what stays” list from [[edits]]
 
 If you want, I can help you start with whichever chapter is most urgent.
@@ -2839,14 +2839,14 @@ That split is important, because it lets Chapter 5 do the slower philosophical /
 
 The clean version should be:
 
-- [[chapter5]]
+- [[chapter5.1]]
   - the metaphysical hinge
   - the deep forge-memory
   - the theological pressure
   - the awakening of the Weylands Cynn
   - the slow revelation that the old powers are active
 
-- [[chapter5.5]]
+- [[chapter5.2]]
   - the rapid forge sequence
   - the actual making / triggering / binding moment
   - the accelerated transition from theory into mechanism
@@ -2858,19 +2858,19 @@ That separation is useful because:
 - it lets the exposition stay coherent
 - and it makes the forge event feel more consequential
 
-If you want, I can now add a short insert for [[edits]] that specifically defines [[chapter5]] and [[chapter5.5]] as separate units.
+If you want, I can now add a short insert for [[edits]] that specifically defines [[chapter5.1]] and [[chapter5.2]] as separate units.
 [Timestamp: 2026/06/02 21:48:54]
 
 **user**: Please rewrite the edits chapter5 section to split it into chapter5 and chapter5.5. I'll avoid renumbering chapters until the very end, as we may end up splitting more chapters. I'll use the half-way-decimal numbering scheme (5 to 6, insert in the middle is 5.5) until we are much closer to final draft
 [Context: Notes: edits.md]
 [Timestamp: 2026/06/02 21:50:34]
 
-**ai**: Absolutely — here’s a rewritten [[edits]] section for [[chapter5]] that splits it into [[chapter5]] and [[chapter5.5]] without renumbering anything else.
+**ai**: Absolutely — here’s a rewritten [[edits]] section for [[chapter5.1]] that splits it into [[chapter5.1]] and [[chapter5.2]] without renumbering anything else.
 
 ---
 
-### [[chapter5]]
-- [[chapter5]] is the metaphysical hinge of the book.
+### [[chapter5.1]]
+- [[chapter5.1]] is the metaphysical hinge of the book.
 - It should introduce the deep forge-memory beneath Leicester and the waking of the Weylands Cynn.
 - The chapter should function as the place where the story admits:
   - there are old powers
@@ -2884,17 +2884,17 @@ If you want, I can now add a short insert for [[edits]] that specifically define
 - It is the chapter of recognition, not yet the chapter of action.
 - It should build toward the forge event, but not rush into it.
 
-### [[chapter5.5]]
-- [[chapter5.5]] is the rapid forge sequence.
+### [[chapter5.2]]
+- [[chapter5.2]] is the rapid forge sequence.
 - It is the hammer-blow chapter:
   - quick
   - sharp
   - consequential
   - irreversible
-- This is where the theoretical pressure of [[chapter5]] becomes an actual magical / material event.
+- This is where the theoretical pressure of [[chapter5.1]] becomes an actual magical / material event.
 - It should feel like the moment the forge finally answers.
 - The pacing should be tight and intense.
-- If [[chapter5]] is revelation, [[chapter5.5]] is activation.
+- If [[chapter5.1]] is revelation, [[chapter5.2]] is activation.
 - The reader should feel that the story has crossed a threshold and cannot return to ordinary history.
 
 ---
@@ -2908,7 +2908,7 @@ If you want, I can also help you add a one-line note to [[edits]] explaining why
 
 **ai**: Yes — that’s a good refinement.
 
-So [[chapter5]] should not be [[The Cynn]] at all. It should be [[The Debate]]:
+So [[chapter5.1]] should not be [[The Cynn]] at all. It should be [[The Debate]]:
 - clean
 - simple
 - and more conceptually focused
@@ -2923,15 +2923,15 @@ That’s a stronger choice because it keeps the chapter from becoming cluttered 
 - a primal argument about how the world should be ordered
 - rather than a busy lore scene
 
-So the revised concept for [[chapter5]] would be:
+So the revised concept for [[chapter5.1]] would be:
 - title: [[The Debate]]
 - location: nowhere / ether / conceptual space
 - participants: Freyr and Woden only
 - purpose: establish the moral and metaphysical tension around fate, agency, and the role of the blades
 
-Then [[chapter5.5]] can still serve as the forge/action bridge that follows directly from the debate.
+Then [[chapter5.2]] can still serve as the forge/action bridge that follows directly from the debate.
 
-If you want, I can rewrite the [[edits]] entry for [[chapter5]] now to reflect this exact structure.
+If you want, I can rewrite the [[edits]] entry for [[chapter5.1]] now to reflect this exact structure.
 [Timestamp: 2026/06/02 21:52:23]
 
 **user**: It's the HLD of the book, high-level design document
@@ -2953,7 +2953,7 @@ So it should capture:
 - chapter boundaries
 - tonal constraints
 
-That means for [[chapter5]], the HLD should say something like:
+That means for [[chapter5.1]], the HLD should say something like:
 - [[The Debate]]
 - abstract, etheric setting
 - only Freyr and Woden present
@@ -3097,12 +3097,12 @@ That division is probably ideal for this project.
 [Context: Notes: edits.md]
 [Timestamp: 2026/06/02 21:59:28]
 
-**ai**: Absolutely — here’s a rewritten [[edits]] section for [[chapter5]] and [[chapter5.5]] with the new understanding.
+**ai**: Absolutely — here’s a rewritten [[edits]] section for [[chapter5.1]] and [[chapter5.2]] with the new understanding.
 
 ---
 
-### [[chapter5]] — [[The Debate]]
-- [[chapter5]] is the book’s high-level metaphysical argument, presented as a story scene rather than a doctrinal lecture.
+### [[chapter5.1]] — [[The Debate]]
+- [[chapter5.1]] is the book’s high-level metaphysical argument, presented as a story scene rather than a doctrinal lecture.
 - The chapter should be clean, simple, and accessible.
 - It should take place in an abstract, etheric, or nowhere-like setting.
 - Only Freyr and Woden should appear in the scene.
@@ -3115,14 +3115,14 @@ That division is probably ideal for this project.
 - The debate should be understandable to a reader with general education, not specialist theology.
 - The chapter should feel like a foundational disagreement that the rest of the book grows out of.
 
-### [[chapter5.5]]
-- [[chapter5.5]] is the rapid forge sequence that follows [[The Debate]].
+### [[chapter5.2]]
+- [[chapter5.2]] is the rapid forge sequence that follows [[The Debate]].
 - It is the point where abstract argument becomes material consequence.
 - The pacing should be sharp, tight, and irreversible.
 - This chapter is the activation step:
   - the debate has established the terms
   - the forge now answers those terms in metal, blood, and binding
-- If [[chapter5]] is the question, [[chapter5.5]] is the first hard response.
+- If [[chapter5.1]] is the question, [[chapter5.2]] is the first hard response.
 - This chapter should feel like the story has crossed a threshold into mechanism.
 - It should be brief, intense, and decisive.
 
@@ -3528,7 +3528,7 @@ If you want, I can help you outline what each future debate might be about, base
 
 **ai**: Yes — that’s exactly right.
 
-[[chapter5]] does not need to resolve the debate.
+[[chapter5.1]] does not need to resolve the debate.
 It only needs to establish:
 - the initial conditions
 - the hypothesis
@@ -3553,7 +3553,7 @@ That’s very strong structurally because it makes the later chapters feel like 
 - and the gods themselves are reacting to the data
 
 So yes:
-- [[chapter5]] = hypothesis and setup
+- [[chapter5.1]] = hypothesis and setup
 - the rest of the book = trial by consequence
 
 That’s a really good model for the story.
@@ -3565,7 +3565,7 @@ That’s a really good model for the story.
 
 **ai**: Exactly — that’s a great long-form engine.
 
-So [[chapter5]] is not a verdict, it’s an experiment design:
+So [[chapter5.1]] is not a verdict, it’s an experiment design:
 - Freyr and Woden propose a hypothesis
 - the blade chapters generate data
 - future books can either confirm, refine, or overturn the hypothesis
@@ -3613,7 +3613,7 @@ If Freyr is the more structured, practical, and refinement-oriented figure, then
 
 You do not need to call it “scientific method” in-text. In fact, it’s better not to. But the shape can absolutely be there.
 
-That gives Freyr a very strong role in [[chapter5]]:
+That gives Freyr a very strong role in [[chapter5.1]]:
 - he is not merely arguing
 - he is designing a test
 - he is trying to understand what the blades do by watching what happens when they are used
@@ -3686,7 +3686,7 @@ So yes:
 - make the debate partly about the survival or surrender of their dying religion
 - but keep it readable and grounded in simple, direct stakes
 
-If you want, I can fold this into the [[chapter5]] entry for [[edits]] as a revised note.
+If you want, I can fold this into the [[chapter5.1]] entry for [[edits]] as a revised note.
 [Timestamp: 2026/06/02 22:20:42]
 
 **user**: It might also be a beat of contention between Freyr and Woden, as they represent two halves of the same religion. Maybe Freyr wants to continue the Vanir tradition, and Woden wants to submit, or the opposite. They represent two sides of their own coin.
@@ -3729,7 +3729,7 @@ So yes:
 - or vice versa
 - as long as the contrast feels like two halves of one broken whole
 
-If you want, I can rewrite the [[chapter5]] note again to incorporate this “two halves of the same coin” idea.
+If you want, I can rewrite the [[chapter5.1]] note again to incorporate this “two halves of the same coin” idea.
 [Timestamp: 2026/06/02 22:21:40]
 
 **user**: But Freyr also argues for cyclical change. The conversion to Christianity feels to  him like death and rebirth, especially since Jesus was often described by Saxon priests to the Danes as basically as a theological substitute for Freyr. The idea was "Alfheimr is Heaven. Freyr is Jesus. Pray to Jesus like you prayed to Freyr, for your family, for your farm, for good weather. You're now most of the way there."
@@ -3773,7 +3773,7 @@ So the debate can include:
 That’s a smart way to make the theology accessible too, because the core idea is easy to grasp:
 - “the old god may be living on in the new one, under a different name”
 
-If you want, I can fold this into the [[chapter5]] note as a specific point about Freyr’s argument.
+If you want, I can fold this into the [[chapter5.1]] note as a specific point about Freyr’s argument.
 [Timestamp: 2026/06/02 22:24:20]
 
 **user**: So, if Christ isn't a character, Freyr takes on the mantle of Christ in the debate
@@ -3805,19 +3805,19 @@ So yes:
 - without becoming Christ as a character
 - and without making the scene doctrinally heavy
 
-If you want, I can now rewrite the [[chapter5]] entry in [[edits]] to include this explicit role for Freyr.
+If you want, I can now rewrite the [[chapter5.1]] entry in [[edits]] to include this explicit role for Freyr.
 [Timestamp: 2026/06/02 22:24:55]
 
 **user**: yes please do
 [Context: Notes: edits.md]
 [Timestamp: 2026/06/02 22:25:43]
 
-**ai**: Absolutely — here’s a revised [[edits]] entry for [[chapter5]] and [[chapter5.5]] with the new understanding built in.
+**ai**: Absolutely — here’s a revised [[edits]] entry for [[chapter5.1]] and [[chapter5.2]] with the new understanding built in.
 
 ---
 
-### [[chapter5]] — [[The Debate]]
-- [[chapter5]] is the book’s high-level metaphysical argument, presented as a story scene rather than a doctrinal lecture.
+### [[chapter5.1]] — [[The Debate]]
+- [[chapter5.1]] is the book’s high-level metaphysical argument, presented as a story scene rather than a doctrinal lecture.
 - The chapter should be clean, simple, and accessible.
 - It should take place in an abstract, etheric, or nowhere-like setting.
 - Only Freyr and Woden should appear in the scene.
@@ -3851,14 +3851,14 @@ If you want, I can now rewrite the [[chapter5]] entry in [[edits]] to include th
 - Any deeper doctrinal unpacking should be reserved for [[afterword]].
 - The chapter should feel like the opening of a long inquiry, not a final verdict.
 
-### [[chapter5.5]]
-- [[chapter5.5]] is the rapid forge sequence that follows [[The Debate]].
+### [[chapter5.2]]
+- [[chapter5.2]] is the rapid forge sequence that follows [[The Debate]].
 - It is the point where abstract argument becomes material consequence.
 - The pacing should be sharp, tight, and irreversible.
 - This chapter is the activation step:
   - the debate has established the terms
   - the forge now answers those terms in metal, blood, and binding
-- If [[chapter5]] is the question, [[chapter5.5]] is the first hard response.
+- If [[chapter5.1]] is the question, [[chapter5.2]] is the first hard response.
 - This chapter should feel like the story has crossed a threshold into mechanism.
 - It should be brief, intense, and decisive.
 
@@ -3885,7 +3885,7 @@ That also fits Muninn very well:
 - he is the one who can say, “Here is what this all meant, in plain terms.”
 
 So the structure becomes:
-- [[chapter5]] = the debate itself
+- [[chapter5.1]] = the debate itself
 - [[afterword]] = the deep doctrinal scaffolding
 - [[epilogue]] / Muninn = the accessible summary or interpretive digest for readers who want the short version
 
@@ -3903,10 +3903,10 @@ If you want, I can help you add a brief [[edits]] note for Muninn’s role as th
 ---
 
 ### Muninn’s Epilogue Role
-- Muninn provides the reader-facing summary of [[chapter5]] at the end of [[epilogue]].
+- Muninn provides the reader-facing summary of [[chapter5.1]] at the end of [[epilogue]].
 - For readers who want a “Cliff’s Notes” version of the debate, Muninn is the shorthand interpreter.
 - His summary should be accessible, clear, and lightly humorous.
-- This allows [[chapter5]] to remain mythic and layered without needing to over-explain itself in the scene.
+- This allows [[chapter5.1]] to remain mythic and layered without needing to over-explain itself in the scene.
 - Deeper doctrinal and theological material should remain reserved for [[afterword]].
 - Muninn’s recap should function as:
   - a memory aid
@@ -4016,7 +4016,7 @@ I’d treat the edits as nodes with dependencies, and prioritize the ones that u
 
 ## Highest-priority edits first
 
-### 1. [[chapter5]] / [[The Debate]]
+### 1. [[chapter5.1]] / [[The Debate]]
 This is the highest leverage node because it defines:
 - the metaphysical frame
 - Freyr vs Woden’s roles
@@ -4025,14 +4025,14 @@ This is the highest leverage node because it defines:
 - the tone of the whole mythic scaffold
 
 Why first:
-- it informs [[chapter5.5]]
+- it informs [[chapter5.2]]
 - it informs the blade theology
 - it informs Freyr/Woden’s future reappearances
 - it informs how much doctrinal detail belongs in [[afterword]]
 - it informs how Muninn summarizes the debate in [[epilogue]]
 
-### 2. [[chapter5.5]]
-This depends on [[chapter5]] because it is the activation response to the debate.
+### 2. [[chapter5.2]]
+This depends on [[chapter5.1]] because it is the activation response to the debate.
 
 Why second:
 - once the debate’s hypothesis is set, the forge sequence can be designed to match it
@@ -4047,7 +4047,7 @@ This is a major structural pillar because it affects:
 - the stakes of future books
 
 Why third:
-- it depends on the general theology/magic frame from [[chapter5]]
+- it depends on the general theology/magic frame from [[chapter5.1]]
 - it affects character dynamics and later payoff
 - it determines whether Wodbora is framed as terrifying, hidden, or merely mysterious
 
@@ -4079,7 +4079,7 @@ These are important, but lower priority for immediate chapter work:
 These are downstream because they all depend on the core metaphysical and structural rules being established first.
 
 ## Suggested dependency chain
-- [[chapter5]] -> [[chapter5.5]] -> Cynewulf/Wodbora rules -> raven framing -> afterword boundary -> future-book hooks
+- [[chapter5.1]] -> [[chapter5.2]] -> Cynewulf/Wodbora rules -> raven framing -> afterword boundary -> future-book hooks
 
 If you want, I can turn this into a proper dependency graph in a compact list format, with:
 - node

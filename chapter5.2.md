@@ -1,4 +1,7 @@
-## Chapter 5: The Cynn
+
+## Chapter 5: The Blades
+
+### Part2: The Cynn
 
 Deep in the heart of Leicester, behind the Jewry wall, lies the tall stone home of ancient giants. The home is free of human souls now, or so most people think as they pass by the crumbling arches in the dusk. The townsfolk cross themselves and quicken their pace, believing the red-brick vaults hold nothing but stagnant rainwater and the memory of the dead.
 
@@ -78,7 +81,7 @@ Huginn: "You're right. I am a lover, not a fighter."
 
 Muninn: "A lover of bad poetry and worse ditch-meat..."
 
-Huginn: "Quiet! The bellows need new hands. If they fit a nisse's hand, I wonder if they fit a gnome's."
+Huginn: "Quiet! The bellows need new hands. If they fit a nisse's hand, I wonder if they fit a redcap's."
 
 ---
 
@@ -88,9 +91,9 @@ Woden and Freyr stepped forward once more, eyeing each other patiently, waiting 
 
 A marten skin of white and silver danced through the door. It was kept separate, held in midair not daring to touch a thing.
 
-Next, a clay pipe entered, being smoked by invisible lungs. A gnome's cap entered next, now red in the forge's true light. Redcap mushrooms in a basket. One by one, they dropped into the fresh oil.
+Next, a clay pipe entered, being smoked by invisible lungs. A blood-stained cap entered next, now red in the forge's true light. Redcap mushrooms in a basket. One by one, they dropped into the fresh oil.
 
-The redcap did not kneel, nor did he come by choice. Invisible currents dragged him kicking through the soot, his small, muscular frame writhing against a thick, poisonous cord of woven deathcap mushrooms that bound his arms to his chest. The pale fungal caps bruised against his leather jerkin, leaking a milky, toxic sap into the air. His mouth was filled with mushrooms.
+The redcap did not kneel, nor did he come by choice. Invisible currents dragged him kicking through the soot, his small, muscular frame writhing against a thick, poisonous cord of woven deathcap mushrooms that bound his arms to his chest. The pale fungal caps bruised against his leather jerkin, leaking a milky, toxic sap into the air. His mouth was filled with yet more mushrooms.
 
 He spat the mushrooms onto the cobblestones, his eyes burning like hot copper beneath his filth-crusted hair. "Muck-dwellers! Wall-lice! Lowly smiths of the dirt!" the redcap, without cap, shrieked, his voice a rhythmic, snapping chant of old battle-verses. "You strike the anvil with a coward's hand, while I paint the highway with the blood of man!"
 
@@ -106,11 +109,11 @@ The redcap howled, as the mushroom-ropes dragged themselves to the bellows. The 
 
 The voices stopped, as if waiting. Then they cried out in a cascade.
 
-"Give him the deep-iron!" a hundred voices chirped in overlapping sequence.
+"Give him the welkin-iron!" a hundred voices chirped in overlapping sequence.
 
 Freyr stepped forward and cut the chorus short, with his palm held high. "SILENCE!! Friends, please..." He turned his gaze toward the redcap, his expression one of weary, paternal disappointment, yet still with an unshakeable smile. "Fussleton, now were you not warned about the dangers of the mushrooms in the meadow. You were taught the rhymes. But you ignored them completely! And now, look at you! Barely a sane bone in that body of yours. What *do* you have to say for yourself, hmmm?"
 
-Fussleton’s copper eyes widened, his jaw working silently as he struggled against the mushroom-cords. The Redcap, who had spent centuries terrorizing travelers and painting highways with blood, suddenly looked like a scolded child caught with his hand in the cookie jar.
+Fussleton’s copper eyes widened, his jaw working silently as he struggled against the mushroom-cords. The redcap, who had spent centuries terrorizing travelers and painting highways with blood, suddenly looked like a scolded child caught with his hand in the cookie jar.
 
 The redcap stared at Freyr, his eyes unblinking, saying nothing. He knew that his only response would be murderous, and that Freyr could do worse than what he was planning.
 
@@ -118,9 +121,11 @@ The redcap stared at Freyr, his eyes unblinking, saying nothing. He knew that hi
 
 Woden stepped forward to stare into the eyes of the redcap, studying his madness like a fine painting. "Your wod is fresh, keen, and cunning. It is madness that must serve a new hand well. But, the wielder of this blade must bind with this madness in harmony." Woden traced his finger along the redcap's jaw, and whispered, "You will infuse your fly agaric into your wielder's hand. You will keep them safe by showing them the dangers in song, and in their senses." He stepped back, and looked at Freyr. "The wielder must know there is a price for this magic. They will be struck mad after the blade is put back, for a time. We will see the choice they make... to survive battle only to be driven to madness. Agreed?"
 
-"LET THE SONG BEGIN!" cried Freyr, his arms wide like he was calling the chorus. Freyr and Woden stepped back once more to let the forging commence.
+"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. He and Woden stepped back once more to let the forging commence.
 
-A billet of curious steel emerged from the wall and landed in the forge. The redcap was carried and bound by his mushroomed ropes to the bellows. More coal erupted from the floor, and crawled up the redcap's legs like black dancing ants, throwing themselves into the fire.
+A billet of curious white steel emerged from the gloom and landed in the forge. The elves called it "welkin-iron"—or sky-vault iron, the nickel-rich heart of a celestial stone that had fallen from the heavens in the deep past. It was a stubborn, brittle metal to start, but the elven smiths had spent generations refining it. They had heated the sky-stone to a yellow-white glow to hammer out its stony impurities, then folded it repeatedly over charcoal fires to force carbon deep into its grain. What remained was a dense, high-nickel steel billet, gleaming with a pale, silvery luster that would never dull.
+
+The redcap was carried and bound by his mushroomed ropes to the bellows. More coal erupted from the floor, and crawled up the redcap's legs like black dancing ants, throwing themselves into the fire.
 
 The coal turned a violent yellow breed in the forge, causing the redcap's eyes to glow demonically with hate. The mushrooms released more poison and the cord pulled tighter. The business was close at hand now, and the redcap fought ever harder to break the seal. "No! Noo!" He gritted his teeth as his bound torso shoved against the bellows. He screamed out rhythmic curses as the invisible hammers began their frantic, chaotic dance on the anvil once more. He spat into the fire.
 

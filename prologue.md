@@ -30,6 +30,6 @@ Muninn, rolling his obsidian eyes, shakes his head... a slow shake practiced fro
 
 Huginn continues, using the twinkle in his eye to betray the smile his face couldn't give. The children stared curiously but intently, mesmerized by the movements and cackling of the ravens.
 
-"It all started at the end of the Siege of Leicester, 941 Anno Domini, in eastern England. I believe it was... the rains of late spring.".
+"It all started at the end of the Siege of Leicester, 941 _Anno Domini_, in eastern England. I believe it was... the rains of late spring.".
 
 "It was May," Muninn interrupted. "And it was morning."

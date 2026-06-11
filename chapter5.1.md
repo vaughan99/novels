@@ -1,5 +1,6 @@
-## Chapter 5: The Debate
+## Chapter 5: The Blades
 
+### Part 1: The Debate
 # Debate Chapter Outline
 
 ### I. The Request
@@ -98,6 +99,21 @@ Woden asks:
 
 The question remains unresolved.
 
+Imagine Freyr saying:
+
+> "If Ragnarök was certain, then I merely accepted a cost.
+> 
+> But if Ragnarök was uncertain, then I wagered everything."
+
+Woden falls silent.
+
+Because he understands gambling.
+
+He understands risk.
+
+He understands sacrifice.
+
+What he cannot tolerate is uncertainty.
 ---
 
 ### V. The Second Blade: Monanleoht

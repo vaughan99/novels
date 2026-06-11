@@ -1,5 +1,7 @@
 ## Chapter 8: Monanleoht, The Battle-Dancer
 
+[TODO: Edit for fly agaric effects, time dilation, and after-battle melt-down. She is exhilirated after the fight, but the poison is horrible]
+
 Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured, that the sword was hers. She grabbed the hilt of *Monanleoht* and drew. The world became a frozen haze, as a silver mind-sleep claimed her.
 
 "Hello, MEADOW-BUD!"
@@ -12,7 +14,7 @@ He cut her off mid-sentence with a high-theatrical mocking whine.
 
 "Oh, boo, hoo, hoooooo! *A murder-gnome's trying to drain my trunk-blood and chew my bones!!!* Stop your quibblin' and gibblin'! There's no time. I'm to... teach... you... how to fight. Blech... I still can't believe this. Of all the mud-muckin', bone-stealin', grub-mushin' things those slag-brained smithy-ticks *could* have thought up, they thought it would *be funny* to trap me in this blade, to teach *a little girl* how to **PLAY WAR**! The monstrosity! The temerity! Those smelt-pot-scraping soul-slackers will rue... the... moon-day that they thought this up."
 
-Elswyth's confidence flagged. "I can't do this! I've never done... this! I've seen the fyrds train, but I've never held a sword."
+Elswyth's confidence flagged. "I can't do this! I've never done... this! I've seen the warriors train, but I've never held a sword."
 
 The redcap's tone dropped into one of pure, mocking dejection.
 
