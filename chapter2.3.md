@@ -3,11 +3,94 @@
 
 ### Part 3: The Feared
 
-[TODO: Build strength, free wife + kids from wreck, survive the cold, add reactions, Galindo thinks he's insane, fyrdmen notice the braided horse's hair, everyone now thinks he's insane, he's taken as a thrall since they can't arrange a witan, he will work the baggage train]
+For the next few days, Osric was resigned to living with a monster - which is easier, if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
 
-That winter was the coldest in a lifetime. As he recovered from the goblin-sickness and wracked with hunger, he had no strength for cutting and stacking firewood. He burned what he had left, fueled only by his grief and watered oat porridge. The cold seeped ever closer. He had no strength left for burials and no wood for pyres, so he put his family outside in the cold, buried only in the soft snow. His horse had broken through the stable door and fled in the cold... in the throes of sickness, he had forgotten to stow the beast securely.
+Every inch was a battle. His fingers, stiff and blue, clawed at the dirt floor, pulling his dead weight toward the cold stone. He arrived, and he fell into darkness yet again.
 
-He shivered. He wept. And yet, he survived. But to survive, he had to burn everything. The first to go was the table and chairs. He burned the handles of the cookware. He burned the reed-mat beds and finally the clothing of his family. His eyes filled with tears as he smelled his wife's apron for the last time before tossing it into the flames. He even burned the pole of his mighty spear, and the boards of his sturdy shield. Anything to hold out just another day.
+When he woke next, he was amazed. He saw the orange glow reflect off his blued skin. He felt the warmth of a fire. He had pulled himself two feet from the hearth before he had given in, and the monster had started a fire.
+
+"Let me guess, you're a dragon now? Did you breathe on the rocks?" he mocked, his voice a dry rasp. Deep down, he knew the truth: this was a salvation.
+
+His vision cleared, focusing on the floor. A bowl of thin, steaming porridge sat there, a wooden spoon resting in the center, topped with a small, golden knob of butter. Beyond it, the two pails of food were secured with a scarves, the fabric pinned firmly beneath the weight of the containers—a crude but effective ward against the rats.
+
+Osric stared at the meal, his stomach twisting with a mix of hunger and dread. "Clever creature," he whispered. "Now I know your game. I’m to be fattened up first, aren't I?"
+
+He took bites when he could, alternating with heaved breaths. It's as if he couldn't afford to swallow lest his breathing fail.
+
+"You win. I'm fat now," he mocked again. He had no intention to let this creature nurse him back to health, but he knew he needed to stay here by the fire as long as possible.
+
+He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He didn't have enough firewood here for as long as that might take, but he could use some bits of the roof. At some point - soon - he would need more.
+
+"You know... the mare? She likes... the braids. In her hair... I can tell." He felt a strange, cold necessity in the words. He had to talk to the creature. If he didn't, he was only talking to his own madness, and he knew that was a road he couldn't afford to walk. Better to speak to the monster in the wall than to the ghost in his own head. Even if he had to break his speech to gasp for breath.
+
+"My children thought it was funny... Ealhild and I... thought it was the girls... playing a trick on us. They played... along. Was that... you?"
+
+He waited. He listened for a scratch, a shift, a breath—anything. But there was no response.
+
+Osric let out a wet, rattling laugh that turned into a cough. "Well, of course... it was you. You should... be proud... of your work. It was a damn fine knot. You should... tell me about it."
+
+He stared at the wall, waiting for the silence to break. When it didn't, he just nodded, as if the monster had given him a perfectly reasonable answer. "I agree... It was a bit tight, wasn't it? Well... next time... more practice."
+
+And so it went for another week. He had carved out a new life in the cove by the hearth, and the creature—his silent, invisible partner—would occasionally drag in fresh firewood while he slept. Osric took to making his own porridge, loudly critiquing the texture and complaining that the creature’s attempts were nowhere near as good as Ealhild’s.
+
+He poked at the wall, he taunted the shadows, he told jokes that died in the cold air. But no matter how much he pried, no matter how much he laughed, the creature never betrayed its form. It remained a void in the room, a presence that did the work but refused to take the bow.
+
+Every day, he gained a bit more strength. The fog in his head began to thin. His mind had convinced itself that Ealhild was gone with the kids, perhaps to see her parents in York, far away from here. He knew it wasn't true. It was a lie that he could tell himself, because they lay outside his sight.
+
+But he could crawl now. The lie had become vivid enough, he needed to prove it wrong... or _right_? He dragged himself across the floor, over to the corner where Ealhild and the children remained, frozen in their tomb of wreckage.
+
+They were still. There was still so little he could do, but he found he needed to talk to them. He spent hours there, his voice a low, rhythmic murmur against the silence. He told Ealhild about the creature in the wall, explaining its habits and its strange, silent help, as if she hadn't been a permanent witness to his slow descent all along. He spoke to her as if she were simply resting, and to the monster, as if it were a guest at their table.
+
+Behind the transition stone, in the dark crack where the cold did not reach, the nisse was listening.
+
+It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the nisse could not—_must not_—show itself to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen was to break the bond. It was a pact the nisse was resolved, now more than ever, to renew.
+
+That winter was the coldest in a lifetime. Osric's strength returned slowly, but he barely had enough food to survive. Water was plentiful so long as the fire could melt snow, but he had to ration his grain with agonizing care, keeping the hearth-fire high. He had felled enough timber and stacked enough wood for what he thought would be a harsh winter. This winter, however, was relentless.
+
+Once Osric could finally stand on his own two feet, he decided to see what remained of his livestock. He chose a day when the air was still, when the cold's bite didn't cut quite as deep. He staggered out to the byre, his knees trembling, but stopped when he reached the door. The heavy drifts of snow had already been neatly dug away from the entrance.
+
+The hair on the back of his neck flared. He smelled the hint of fire - the absolute worst enemy of a byre. He struggled with the latch and pushed the door open. Inside, the air was thick with the familiar, comforting smell of manure and warm beast-breath. The animals were healthy, their coats dry.
+
+But as he stepped inside, he felt a strange patch of warmth rising from the clay floor. He looked down.
+
+In the middle of the aisle, a large, flat river-slate was set flush into the dirt. Atop it sat the wooden pail of melting snow. There was no fire. There was no smoke. Yet, when Osric knelt and touched the slate, it was hot enough to bite his fingers.
+
+He frowned, his farmer's brain instantly searching for the trick. He leaned down, pressing his ear to the damp clay.
+
+Deep beneath the earth, he heard it: a low, muffled hiss. A faint, sweet draft of burning dung drifted up, but not into the barn. He followed the warmth to the base of the stone wall and saw a tiny, neatly dug archway leading under the foundation. Outside, a thin, lazy wisp of white smoke was rising from a hole in the snowbank, venting safely into the yard. It had the acrid smell of dung-smoke.
+
+Osric sat back on his heels, his mouth slightly open.
+
+"A draft-channel," he whispered. "You dug under the wall. You're burning the dung in the earth to heat the stone." He stared at the hot slate, then at the dark corners of the byre. "My grandfather told me the old Romans built their baths like this. You... you built a bath-house for my cows and heat it with their own manure?"
+
+There was no answer, of course. But the wooden pail gave a soft, bubbling plop as the snow turned to water, as if to say - "of course".
+
+Osric let out a low, defeated chuckle. "Well. I suppose I can't complain about the ventilation."
+
+The return of his legs brought with it a cold, unavoidable truth. He could no longer hide behind the lie of York. He had to bury his family.
+
+For a week, Osric fought the wreckage of his own home. Every day was a grueling cycle of pulling, clearing, and straining against the heavy timbers. He managed to break the sturdy frame of an oak chair, using its long back-post as a makeshift pry-bar for leverage. His muscles, still weak from the poison, screamed under the strain, but bit by bit, the ruins gave way.
+
+Slowly, gently, he freed them from their dark tomb.
+
+He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite - not yet.
+
+But to delay their peace longer invited the _Wodhere_—the spectral riders of the Wild Hunt who swept through the freezing night winds, eager to claim any wandering, unguided souls left stranded in the cold.
+
+He looked out the broken doorway at the massive, clean drifts. A desperate, pragmatic thought took hold. He could not dig into the iron clay, and he had no stone barrow with a rolling door like the great chieftains of her kin. But he had the snow.
+
+He would build them a _snæ-haugr_—a temporary barrow of ice.
+
+Osric dragged himself out into the biting air. Using a flat piece of timber, he began to hollow out the heart of a massive, packed snowdrift beside the house. He carved it out like a chamber, smoothing the frozen walls until he had a clean, white vault.
+
+One by one, he gently slid Ealhild and the children inside, laying them side-by-side in the quiet, blue-shadowed dark of the snow-chamber.
+
+When they were settled, he did not bury them in loose drift. Instead, he took a heavy, flat shutter from the ruined window and placed it over the opening, sealing the chamber door. He packed wet snow around the edges, letting the wind freeze it solid.
+
+It was a perfect, silent tomb. The cold would preserve their flesh, and the thick white vault would hide their souls from the howling riders in the sky. They would rest in their temporary hill, waiting for the spring thaw when he could finally open the door and plant them into the warm, welcoming earth.
+
+
+[TODO: , Galindo thinks he's insane, fyrdmen notice the braided horse's hair, everyone now thinks he's insane, he's taken as a thrall since they can't arrange a witan, he will work the baggage train]
 
 Winter finally gave way to Spring, and the arrival of the Reeve, Galindo. He was a Spaniard, a presence of silken coat riding high on a southern saddle on a noble Andalusian horse. The saddle had toggles of bone and silver, and his tally sticks and ledger were clutched in a wrap of fine fur.
 

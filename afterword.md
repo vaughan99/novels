@@ -22,21 +22,20 @@ The three blades at the heart of this story emerged from these ideas. The blades
 
 I started with commissioning my first blade, "Fyrleoht." I researched enough Old English (before ChatGPT) to know what to call it. I gave it an oath too, which turned out to be only 80% correct Old English. "Geboren of fyr, Geawacen be willan." The intent was: "Born of fire, Awakened by the will". I envisioned it was a simple blade. It merely reflected firelight from the campfire better than most. Perhaps it isn't even a "magical" blade, just better polished. By virtue of the oath that was inscribed, the wielder felt like the blade had a little agency. And maybe that's what a +1 weapon is... not just a statistic that adds a point to a die roll, but something that gives the wielder a bit of extra confidence.
 
-Imagine a guard standing watch. He pulls out "Fyrleoht" to sharpen it by the campfire, and the dancing fire in the blade's surface effectively says: "I see you. That fire sees you. You're not alone here. Stand watch with me." Not literally of course. That would be a blade of fiery ventriloquism +1, which could be interesting, but that's not the point. It's the confidence that gets him through the night.
+Imagine a guard standing watch. He pulls out "Fyrleoht" to sharpen it by the campfire, and the dancing fire in the blade's surface effectively says: "I see you. That fire is lighting your environment. You're not alone here. Stand watch with me." Not literally of course. That would be a blade of fiery ventriloquism +1, which could be interesting, but that's not the point. It's the confidence that gets him through the night.
 
-My ideas of Wodbora started as: "What if a sword demanded that you save your soul in order to unlock its ultimate feature, one that unleashes pure chaos? Oh, and you can't tell anybody about it. Oh, and as part of your confession, you have to bid a price for your sin that might get rejected?" That was the "what" of the blade: the effect. But that's incomplete. What really mattered was the "who" and the "why." Before I could answer those questions, I wanted a stable of three blades. That seemed like the beginning of a more complete mythology.
+My ideas of Wodbora started as: "What if a sword demanded that you save your soul in order to unlock its ultimate feature, one that unleashes pure chaos? Oh, and you can't tell anybody about it. Oh, and as part of your confession, you have to bid a penance for your sin that might get rejected?" That was the "what" of the blade: the effect. But that's incomplete. What really mattered was the "who" and the "why." Before I could answer those questions, I wanted a stable of three blades. That seemed like the beginning of a more complete mythology.
 
 I asked similar questions of the other two blades.
 
-Monanleoht: "What if prowess in battle cost you your sanity, and using it meant making a deal with a faerie madman?" Would you knowingly go insane? That's not an easy question for a person living on the edge of a Brothers Grimm folk horror story.
+Monanleoht: "What if prowess in battle cost you your sanity, and using it meant making a deal with a faerie madman? Would you knowingly go insane?" That's not an easy question for a person living on the edge of a Brothers Grimm-styled folk horror story.
 
-Barrow-Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a farmer going into battle.
+Barrow-Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a broken farmer, also in the middle of a Brothers Grimm-styled folk horror story, going into battle.
 
-As the story grew, I realized that some mythic powers really demand a mythic commissioner. Enter Woden and Freyr. Woden has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who". Now for the "why".
+As the story grew, I realized that some mythic powers really demand a mythic commissioner. Enter Woden and Freyr. Woden has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
 
 Looking at the crossroads of the Danelaw at the time, I envisioned Woden having an existential crisis. He is losing followers. Both families of Scandinavian gods - the Aesir and the Vanir - are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Woden to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarok... only for Ragnarok not to be inevitable after all. At some point, Woden - being the god of wisdom - would want answers. How do you test fate? How do you test how humans perceive fate? What we find is that Woden isn't testing humanity; he's testing himself.
 
-Of course Freyr would shrug off the entire need for knowledge. Freyr believes in cycles. The time for the Aesir and Vanir has come and gone. The bitter harvest has come, but it's not Ragnarok; it's an ego death. To Woden, that is a catastrophe. To Freyr, it is simply the harshest of winters.
 
 This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one. Everything else followed from that.
 
@@ -115,7 +114,7 @@ At the same time, later folklore increasingly assigned Woden another role: leade
 
 This process of transformation mirrors the broader themes explored throughout the story. Osric, Ealhild, Elswyth, and Cynewulf all inhabit worlds shaped by overlapping identities. None of them can simply remain what they once were. Each must decide what to preserve and what to relinquish. The same question confronts Woden himself. If the old world is ending, what should survive? If traditions change, what remains worth carrying forward? 
 
-However, what makes Woden truly fascinating in this timeframe is that he is at an existential crossroads, more-so than his Scandinavian identity Odin. He no longer trusts fate. That would be terrifying, to a god that spent his entire existence trying to earn every scrap of knowledge he could to fight at Ragnarok. He cut out his eye, hung himself on a tree, built a dining hall at the end of existence, and spent eons building a stable of heroes for a final battle, only to realize that Ragnarok was never fated in the first place—was it all a waste? By humanizing Woden, these cease to be merely theological questions. They become the same questions any human would ask when they look back at a life of harsh sacrifice and wonder if it mattered.
+However, what makes Woden truly fascinating in this timeframe is that he is at an existential crossroads, more-so than his Scandinavian identity Odin. That is another reason for choosing him as a character. He no longer trusts wyrd. That would be terrifying, to a god that spent his entire existence trying to earn every scrap of knowledge he could to fight at Ragnarok. He cut out his eye, hung himself on a tree, built a dining hall at the end of existence, and spent eons building a stable of heroes for a final battle, only to realize that Ragnarok may never actually happen in the first place—was it all a waste? By humanizing Woden, these cease to be merely theological questions. They become the same questions any human would ask when they look back at a life of harsh sacrifice and wonder if it mattered.
 
 By contrast, Odin often arrives in modern culture already reconstructed. He has been rediscovered, reimagined, and reintroduced to contemporary audiences. Woden interested me because he stands closer to the moment of transformation itself. He is not a forgotten god, nor a fully remembered one. He exists at the boundary between the two. That boundary is where _The Cynn_ spends most of its time.
 
@@ -154,6 +153,58 @@ Perhaps this is why wyrd continues to fascinate modern readers. We may live in a
 This is why wyrd is so weird. It is neither complete pre-destination nor complete free will. It is not destiny, luck, providence, or chance, though it shares qualities with all of them. It is a way of seeing the world as an unfolding web of relationships and consequences in which every person participates, but which no person fully controls. Those who understand wyrd (like Woden) can see the coming points of convergence and use them. To the rest of us,  understanding wyrd is not to solve the mystery. It is to recognize that the mystery is part of the pattern itself.
 
 ---
+### Free Will In The Presence Of Wyrd
+
+If wyrd is not destiny in the modern sense, then an obvious question follows: what becomes of free will? If human beings live within patterns they cannot fully understand, if consequences unfold beyond their control, and if the future is shaped by forces larger than themselves, are their choices truly their own? Modern readers often assume these ideas must be in conflict. Either we possess freedom, or we are bound by fate. Yet for many people living in tenth-century England, the question would have seemed strangely framed. Wyrd and human choice were not rivals. They were partners.
+
+Part of the confusion comes from our tendency to imagine freedom as the absence of constraints. We often define free will as the ability to choose anything at any time. But this has rarely been the reality of human life. None of us choose where we are born. We do not choose our parents, our language, our era, our culture, or the circumstances into which we arrive. Every person enters a world already in motion. The people of early medieval England understood this intuitively. Freedom was not the ability to choose one's circumstances. Freedom was the ability to choose one's response to them.
+
+Imagine two people destined to meet by _wyrd_. Both start at some starting point in their lives, unable to choose where they begin. Both possess the free will to turn left or right at any fork in the road. If A turns left and B turns right at the same fork, they do not converge—but those who understand their upcoming _wyrd_ convergence would simply say: _not yet._ The convergence between them is not a fixed coordinate in time or space. Their choices are real, and their paths may diverge for a lifetime, but _wyrd_ acts as a gravitational pull, ensuring their roads eventually intersect. The convergence is the destination; the path is the choice. It would only be predestination if the meeting were a fixed, unalterable point on a map. _Wyrd_ is not a script; it is best understood as gravity.
+
+One might argue that if two people are destined to meet by _wyrd_, yet have not yet crossed paths, the pressure of that convergence must increase as their mortality draws near. Mathematically, if the convergence is a certainty, the universe must constrain their choices more tightly as time runs out. As the convergence approaches, the 'margin of error' for their choices narrows.
+
+If one believes in _wyrd_, one must accept a form of 'choice focusing.' Think of _wyrd_ not as a wall, but as a lens. We possess the free will to move, but the universe acts as an optical array, narrowing our available paths over time to ensure a convergence. The universe conforms to the path of two light beams, gradually bending them until they meet at a single point.
+
+But this raises the ultimate question: **Is that true free will?** Or is it merely the illusion of choice within a system designed to force an outcome? Perhaps the answer lies in the fact that the beams are still moving. They are not being pushed by an external hand; they are simply traveling through a medium that shapes their trajectory. They are free to be light, but they are bound to the lens.
+
+Ultimately, I am not here to defend this system of _wyrd_; I am only trying to understand it. What makes this magic system interesting is that it remains a mystery even to Woden. He has spent his entire existence attempting to map this 'Optical Array' of the universe. He knows that convergence points exist, he sees many of them, and he is convinced that some of them—like Ragnarok—are inherently catastrophic.
+
+He is a god cursed with knowledge, desperate to steer the threads away from those particular points of collision. Yet, there is a fundamental uncertainty at the heart of his work: he can see the pattern, but he cannot be certain if he is truly reading it, or merely projecting his own fears onto the array. He is a master strategist who suspects, in his darkest moments, that he might be playing a game he doesn't fully understand. All he knows is that one must prepare for the convergence. To him, it's not a choice.
+
+In that sense, Woden is one of the few characters in this mythology whose free will is most under strain. One could even argue that he is the one without any free will, from the standpoint that Woden has a sense of duty to all of creation. Mortals may be blissfully unaware of their wyrd, and have many choices that finally fall into the gravity well pulled by wyrd. But Woden, cursed with knowing many of these convergences, feels compelled to act to prepare for them. He is the only one who sees the final convergence, and the only choice he feels he can make is to prepare.
+
+One must note that there is a distinction to be made. Humans are mortal with respect to time, gods (in this mythology) are immortal with respect to time. They do not die from old age. The choice funnel for them is not nearly as constrained as for mortals, because they might have infinite time. That's a paradox for Woden; he sees Ragnarok coming, but can't say when. The horizon of that event might be near infinite. All he can say definitively is, it hasn't happened yet.
+
+This is what I propose: To someone living in the 10th century, to claim that Woden did have free will to choose not to prepare for Ragnarok, the counter-argument would be: then he's not the All-Father. The role of the All-Father is to shepherd humanity's choices towards that final end, in their view. He is the one who _must_ know the end, so that we don't have to be burdened by that knowledge.
+
+Imagine the possibilities if Woden were to finally discover: I'm NOT the one who knows the end, anymore. Therefore, I'm NOT the All-Father. That is the summary of his existential crisis in my story, and why he must confront the terrifying notion that Christ's God, not him, may in fact BE the All-Father.
+
+---
+#### Inside the Debate
+
+At first glance, the debate between Freyr and Woden appears to concern the fate of the old gods during the conversion of England. Such a reading is not entirely incorrect, but it is incomplete. The deeper question is not whether Christianity will replace the older religion. By the tenth century, that replacement was already underway. The real question is what such a change means for concepts like duty, identity, obligation, memory, and free will. The gods in this story are not merely observing history. They are attempting to understand it.
+
+Modern readers often imagine religious change as a competition between systems of belief. One side wins and the other loses. Early medieval reality was rarely so simple. In many regions, especially within the Danelaw, people inherited customs, loyalties, and assumptions from multiple traditions simultaneously. Conversion was often a process of adaptation rather than replacement. New beliefs emerged alongside older habits of thought. This produced a world in which apparently contradictory ideas could coexist for generations. The characters chosen to receive the three blades all inhabit this boundary.
+
+The arrival of Christianity presents a challenge to Woden because it appears to alter a future he believed he understood. If societies can change so dramatically, what does that imply about prophecy, destiny, and even Ragnarök itself? The crisis is not that Woden is losing worshippers. The crisis is that he is no longer certain he understands the structure of the world. Christ himself was the product of a prophecy that came true. Woden did not see that in wyrd. In my version of this mythology, as Christ worship is rising, Woden's vision of wyrd is getting hazier with time, not more refined. 
+
+Freyr approaches the same problem from a different perspective. As a god of fertility, growth, and renewal, he interprets change through the lens of the seasons. Crops die, fields lie fallow, and new growth emerges. To Freyr, the rise of Christianity may not represent the end of the field, but simply the next season.
+
+While Woden views the potential end of his reign as a catastrophe, Freyr views it as a necessary transition. He sees the current era of the Aesir and Vanir as a cycle that has reached its natural conclusion. Where Woden sees uncertainty and terror, Freyr sees relief; he understands that for the world to remain vibrant, it cannot remain stagnant. To Freyr, the 'ego death' of the gods is not a tragedy—it is simply the harshest of winters.
+
+His response to Woden’s obsession with _wyrd_ is not to deny its existence, but to question its urgency: _'Why do you struggle so hard against the inevitable? Prepare for the cycles you know exist. Transition with them as best you can. If you cannot, that is not a tragedy—that is life._ Freyr chooses to believe that the cycle is more informative, and ultimately more accessible, than wyrd. Any creature with intelligence can see cycles. That's pattern recognition. Pattern recognition is one of the hallmarks of intelligence. Preparing for each transition is the best one can do. Woden tries to manipulate outcomes by weaponizing his knowledge of wyrd convergences; Freyr preaches pattern recognition and patience.
+
+That's where my story picks up. Woden has an opportunity. In his mind, perhaps his last opportunity. He sees a convergence in wyrd. These characters will meet the Ulfhednar in a night of slaughter. But that's all he can see. In the context of this existential dread, and given he is obsessed with preparation, how should he test wyrd? His test might require abandonment of his wolves. But they must be sacrificed to know the truth. [TODO]
+
+The three blades emerge from this disagreement. Each is presented to a mortal who appears destined to receive it. Yet the blades are not intended to determine the choices of their bearers. They are intended to reveal them. Beorg-ecg explores grief, belonging, and the possibility of accepting a new home without forgetting an old one. Monanleoht explores desire, temptation, exhilaration, and the difficult boundary between freedom and manipulation. Wodbora explores responsibility, confession, and the moral burden of acting when every available choice carries a cost.
+
+The most important blade in this regard is Wodbora. Its wielder cannot invoke its power without first confessing a sin. This requirement transforms violence into a moral decision rather than a simple act of force. The question becomes not whether a person can act, but whether he should. Modern readers may recognize echoes of debates concerning responsibility, conscience, and the ethics of choosing between imperfect alternatives. Within the story, however, the blade serves an additional purpose. Wodbora asks a question that Woden himself can no longer answer.
+
+This is why the shepherd confession is so important. Woden does not confess that sheep have died. He confesses that he is abandoning the wolves. The confession concerns a deliberate choice made in the face of unavoidable change. Woden understands that the old order is passing. He also understands that preserving it completely may be impossible. The question is whether accepting that change represents wisdom or betrayal. That uncertainty lies at the heart of the experiment represented by the blades.
+
+For this reason, the debate ultimately concerns neither paganism nor Christianity. It concerns the relationship between free will and wyrd. The blades appear to arrive through destiny, yet each bearer remains responsible for what follows. Wyrd may place a blade into a person's hand, but it cannot decide how that blade will be used. The irony of the debate is that Woden begins by believing he is testing mortals. By its conclusion, it becomes clear that he is testing himself. The mortals merely walk the path first.
+
+---
 #### Agency of Magical Artefacts
 
 Several historical runic inscriptions blur the distinction between object and speaker. Rather than presenting a spell as something spoken by the owner, the inscription may be framed as the voice of the object itself. To a modern reader this can seem poetic, but to an early medieval audience the distinction carried real significance. The Old English word _hǣlu_ is often translated as "health" or "wholeness," but in this context it refers to something broader: the integrity by which a thing possesses identity, purpose, destiny, and participation in the world. A thing with sufficient _hǣlu_ is not merely acted upon by wyrd; it participates in wyrd.
@@ -165,29 +216,7 @@ This is why Wodbora's spell is introduced with _Wodbora cwiþ_ ("Wodbora says").
 In practical terms, the distinction functions as a metaphysical safeguard. The wielder does not claim authority over the Wodhere, and therefore does not incur the consequences of pretending to possess it. Those consequences instead belong to the named artefact whose _hǣlu_ grants it standing to speak. Wodbora is not merely a weapon. It is an actor within the story's cosmology, possessing its own place within wyrd, its own obligations, and its own voice.
 
 ---
-### Free Will In The Presence Of Wyrd
 
-If wyrd is not destiny in the modern sense, then an obvious question follows: what becomes of free will? If human beings live within patterns they cannot fully understand, if consequences unfold beyond their control, and if the future is shaped by forces larger than themselves, are their choices truly their own? Modern readers often assume these ideas must be in conflict. Either we possess freedom, or we are bound by fate. Yet for many people living in tenth-century England, the question would have seemed strangely framed. Wyrd and human choice were not rivals. They were partners.
-
-Part of the confusion comes from our tendency to imagine freedom as the absence of constraints. We often define free will as the ability to choose anything at any time. But this has rarely been the reality of human life. None of us choose where we are born. We do not choose our parents, our language, our era, our culture, or the circumstances into which we arrive. Every person enters a world already in motion. The people of early medieval England understood this intuitively. Freedom was not the ability to choose one's circumstances. Freedom was the ability to choose one's response to them.
-
-Imagine if two people were destined to meet, because of wyrd. Person A and person B both have free will, to turn left or right at a fork in the road. If A turns left, and B turns right, they won't converge. But those who understand _wyrd_ would say: _not yet._ The convergence between A and B is not a fixed coordinate in time or space. Their choices are real, and their paths may diverge for a lifetime, but _wyrd_ is the gravity that ensures their roads will eventually intersect. The convergence is the destination; the path is the choice. It would be pre-destination if the convergence were dictated as a fixed coordinate.
-
-This distinction helps explain why so much Old English literature is concerned with character rather than outcomes. Heroes are praised for courage, loyalty, generosity, and steadfastness. Villains are condemned for oath-breaking, treachery, cowardice, and pride. What matters is not whether a person can escape the consequences of the world around them, but how they conduct themselves while facing those consequences. The measure of a person lies in their choices, even when the results of those choices remain uncertain. Wyrd may shape the battlefield, but character determines how one fights upon it.
-
-The protagonists of _The Cynn_ each confront this dilemma in different ways. Osric inherits a household already shaped by customs, obligations, and relationships that predate him. Ealhild inherits traditions carried across the North Sea and seeks to preserve what she believes remains valuable within them. Elswyth finds herself caught between village, forest, church, and folklore, belonging fully to none of them. Cynewulf inherits a faith, a vocation, and a burden of guilt he cannot simply discard. None of these characters choose the world they inhabit. Yet each remains responsible for how they navigate it.
-
-What makes their situations difficult is not merely the presence of wyrd. It is the absence of certainty. None of them possess perfect knowledge. They do not know whether their choices will ultimately prove wise or foolish. Osric cannot know whether accepting the nisse into his household will bring blessing or sorrow. Ealhild cannot know whether her traditions preserve wisdom or merely nostalgia. Elswyth cannot know whether the redcap is leading her toward growth or ruin. Cynewulf cannot know whether Wodbora represents temptation, redemption, punishment, or all three simultaneously. The challenge is not choosing correctly. The challenge is choosing at all.
-
-This uncertainty becomes even more significant when we consider the gods themselves. One of the central ideas explored in the novel is that divine beings may not possess perfect understanding either. Freyr and Woden are powerful, ancient, and deeply knowledgeable, yet neither can see the entire weave of wyrd. They observe patterns. They make judgments. They form expectations. But they cannot know every consequence of every choice. This is especially troubling for Woden, who has spent centuries cultivating wisdom only to discover that wisdom does not guarantee certainty. The older he becomes, the less willing he is to mistake interpretation for truth.
-
-This realization transforms the nature of free will. The question is no longer whether a person can escape wyrd. The question becomes whether a person can act responsibly despite uncertainty. At first glance, uncertainty appears to weaken responsibility. If we cannot know the future, how can we be held accountable for our choices? Yet the opposite may be true. If perfect knowledge existed, moral courage would become largely unnecessary. Responsibility only becomes meaningful when decisions must be made without guarantees. A person reveals their character not when the correct answer is obvious, but when it is hidden.
-
-This is ultimately the dilemma facing every major figure in _The Cynn_. Each must act without complete understanding. Each must choose without certainty. Each must decide what to preserve, what to abandon, and what to transform. The existence of wyrd does not relieve them of that burden. It creates it. Wyrd explains the circumstances in which they find themselves, but it does not excuse their actions. In this sense, free will and wyrd are not opposing forces. They are two halves of the same human experience: living within a world we do not control while remaining responsible for the choices we make within it.
-
-Once this possibility is accepted, an even stranger question emerges. What should a person do when they believe they are witnessing the end of one age and the beginning of another? What should be preserved? What should be discarded? And how can anyone know whether they are serving the future or merely serving themselves? These are the questions that drive the debate between Freyr and Woden, and they form the philosophical heart of this novel.
-
----
 #### The Many Faces of the Wodhere
 
 The Wild Hunt is one of the most widespread and adaptable supernatural traditions in northern Europe. Across centuries and regions, the details change dramatically. The leader may be a god, a king, a saint, a devil, or a ghost. The riders may be warriors, hunters, spirits, the restless dead, or condemned souls. Yet certain themes persist. A spectral procession crosses the night sky. The living are warned not to interfere. The boundary between the world of the living and the world of the dead briefly becomes permeable.
@@ -206,24 +235,6 @@ This process mirrors the experiences of many characters in the story. Osric, Eal
 
 For modern readers, the Wild Hunt is often encountered as a piece of folklore detached from its historical context. Medieval audiences would have experienced such stories differently. They were not merely entertaining tales. They were part of a living landscape populated by memories, warnings, inherited beliefs, and unanswered questions. The Wodhere in this novel is therefore not intended as a reconstruction of any single historical tradition. It is an exploration of how traditions survive by changing, and how stories continue to ride long after the worlds that created them have begun to fade.
 
----
-#### Inside the Debate
-
-At first glance, the debate between Freyr and Woden appears to concern the fate of the old gods during the conversion of England. Such a reading is not entirely incorrect, but it is incomplete. The deeper question is not whether Christianity will replace the older religion. By the tenth century, that replacement was already underway. The real question is what such a change means for concepts like duty, identity, obligation, memory, and free will. The gods in this story are not merely observing history. They are attempting to understand it.
-
-Modern readers often imagine religious change as a competition between systems of belief. One side wins and the other loses. Early medieval reality was rarely so simple. In many regions, especially within the Danelaw, people inherited customs, loyalties, and assumptions from multiple traditions simultaneously. Conversion was often a process of adaptation rather than replacement. New beliefs emerged alongside older habits of thought. This produced a world in which apparently contradictory ideas could coexist for generations. The characters chosen to receive the three blades all inhabit this boundary.
-
-The debate is therefore not primarily about theology. It is about wyrd. As discussed previously, wyrd should not be understood as a fixed script governing every future event. Rather, it is the order within which events acquire meaning. The arrival of Christianity presents a challenge to Woden because it appears to alter a future he believed he understood. If societies can change so dramatically, what does that imply about prophecy, destiny, and even Ragnarök itself? The crisis is not that Woden is losing worshippers. The crisis is that he is no longer certain he understands the structure of the world.
-
-Freyr approaches the same problem from a different perspective. As a Vanir god associated with fertility, growth, and cyclical renewal, Freyr naturally interprets change through seasonal metaphors. Crops die. Fields lie fallow. New growth emerges. To Freyr, Christianity may represent the next season rather than the end of the field. Woden, however, is not a god of seasons. He is a god of knowledge, memory, sacrifice, and preparation. Where Freyr sees continuity, Woden sees uncertainty.
-
-The three blades emerge from this disagreement. Each is presented to a mortal who appears destined to receive it. Yet the blades are not intended to determine the choices of their bearers. They are intended to reveal them. Beorg-ecg explores grief, belonging, and the possibility of accepting a new home without forgetting an old one. Monanleoht explores desire, temptation, exhilaration, and the difficult boundary between freedom and manipulation. Wodbora explores responsibility, confession, and the moral burden of acting when every available choice carries a cost.
-
-The most important blade in this regard is Wodbora. Its wielder cannot invoke its power without first confessing a sin. This requirement transforms violence into a moral decision rather than a simple act of force. The question becomes not whether a person can act, but whether he should. Modern readers may recognize echoes of debates concerning responsibility, conscience, and the ethics of choosing between imperfect alternatives. Within the story, however, the blade serves an additional purpose. Wodbora asks a question that Woden himself can no longer answer.
-
-This is why the shepherd confession is so important. Woden does not confess that sheep have died. He confesses that he is abandoning the wolves. The confession concerns a deliberate choice made in the face of unavoidable change. Woden understands that the old order is passing. He also understands that preserving it completely may be impossible. The question is whether accepting that change represents wisdom or betrayal. That uncertainty lies at the heart of the experiment represented by the blades.
-
-For this reason, the debate ultimately concerns neither paganism nor Christianity. It concerns the relationship between free will and wyrd. The blades appear to arrive through destiny, yet each bearer remains responsible for what follows. Wyrd may place a blade into a person's hand, but it cannot decide how that blade will be used. The irony of the debate is that Woden begins by believing he is testing mortals. By its conclusion, it becomes clear that he is testing himself. The mortals merely walk the path first.
 
 ---
 ## The Challenge, In Three Parts
@@ -234,21 +245,23 @@ To be clear, I am not a historian. Historians have spent lifetimes studying the 
 
 Nor am I a master bladesmith. Over the course of many years, I have managed to create a small handful of objects that can reasonably be described as blades. One or two of them are even good enough to actually use. Most taught me humility and new, highly inventive curse words.
 
+Nor am I a philosophizer. I spent a lot of time with AI, having it explain to me what wyrd was historically. It took me a while to understand Woden's potential dilemma.
+
 What I am is a lifelong off-and-on gamer, dungeon-master-storyteller, and student of myth. Like many people, I spent years fascinated by legendary objects—Excalibur, Stormbringer, the Holy Grail, and countless others. Eventually I found myself asking a different question. Not what powers these artifacts possessed, but why they remained memorable long after their powers had been forgotten.
 
-The answer, I think, is that the most interesting artifacts are not objects of power. They are objects with a commissioner's point of view. It's easier to understand that point of view if you commission the item, and hold it in your hand.
+The answer, I think, is that the most interesting artifacts are not objects of power per se. They are objects with a commissioner's point of view. It's easier to understand that point of view if you commission the item, and hold it in your hand.
 
-#### Part I: Craft The Idea
+### Part I: Craft The Idea
 
 Imagine a world, environment, campaign (if you're a D&D player), etc. Imagine a thing in that world that has meaning. Who commissioned it? Who built it? Who owns it? What were their lives like? From what was it made?
 
 Basically, put the item at the center of the story, and conceive of all the actors and their choices in the context of the item. Now you're starting to think in terms of haelu... what it means for that item's orientation in the world.
 
-#### Part 2: Craft The Avatar
+### Part 2: Craft The Avatar
 
-Commission the artifact. NO, not a truly magical artifact that bursts into flames at the sound of a word (though that would be awesome). What I mean is, create a representation of the artifact. If possible, make it with your own hands. There is something profoundly educational about holding the thing that inspired the story. If that is not possible, learn enough about it to understand why it matters to the people who commission it, craft it, carry it, inherit it, fear it, treasure it, or depend upon it.
+Commission the artifact. NO, not a truly magical artifact that bursts into flames at the sound of a word (though that would be awesome). What I mean is, fashion a representation of the artifact. If possible, make it with your own hands. There is something profoundly educational about holding the thing that inspired a story. If that is not possible, learn enough about it to understand why it matters to the people who commission it, craft it, carry it, inherit it, fear it, treasure it, or depend upon it.
 
-Then ask yourself what question the artifact cares about.
+Then ask yourself what question the artifact cares about, or more to the point, what did the commissioner of it mean for its haelu.
 
 Not what power it grants.
 
@@ -268,15 +281,15 @@ And what story emerges when someone attempts to answer it honestly?
 
 More specifically:
 
-- **Wodbora** asks: _"What are you willing to confess to, in order to defeat your enemy? Are you willing to confess it to Woden, his ravens, AND Christ?"_
-- **Beorg-ecg** asks: _"Are you willing to live in a fake home with a family that isn't truly yours, knowing that yours are dead?"_
+- **Wodbora** asks: _"What are you willing to confess, in order to defeat your enemy? What are you willing to bid as penance for it?"_
+- **Beorg-ecg** asks: _"Are you willing to live in a fake home with a family that isn't truly yours for power, knowing that yours are dead?"_
 - **Monanleoht** asks: _"Are you willing to employ one of the most murderous creatures in existence and sacrifice your sanity to win battles?"_
 
 These are not questions with easy answers. They are crucibles. The magic of the Cynn is that the blade does not care if you are a hero or a coward, a pagan or a Christian, a king or a peasant. It only cares about your answer.
 
 And the story is what happens when you finally speak it aloud.
 
-#### Part 3: Craft The Story
+### Part 3: Craft The Story
 
 In that spirit, I am intentionally placing the underlying structure of _The Cynn_ into the commons.
 
@@ -295,9 +308,9 @@ The artifacts may differ. The cultures may differ. The questions may differ. Yet
 The forge is open. Take any part of it, build something of your own, and pass it on. Perhaps one day a smith, weaver, carpenter, potter, musician, programmer, artist, or storyteller will create something that never occurred to me. Hopefully they will write a better story. Perhaps they will discover a question worth asking that I never thought to ask. I would consider that a success.
 
 ---
-### Swords and Scabbards: What Are These Blades?
+## Swords and Scabbards: What Are These Blades?
 
-I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions.
+I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its haelu. I just like it because it focuses my storytelling a bit better, and it seems cool. :)
 
 * Name: this is the name, obviously
 * Title: this is like "The Goblin-Slayer"
@@ -311,31 +324,31 @@ I imagine the Welandes Cynn would have a shared maker's mark for swords. Closer 
   ᚳ
 ```
 
-#### Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos
+### Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos
 
-##### Description
+#### Description
 
 Wodbora is a gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the grip is clenched, Woden's ravens appear and start an inquisition. They know your soul and your history, and act as a safety valve for the chaos. They know that to survive, you *must* admit to a sin that carries the same weight as what you're about to unleash. They can't tell you what to say, so they speak cryptically. You must arrive at your specific confession independently.
 
 When pulled from the scabbard, it releases the Wodhere's binding, allowing it to do as it wills (suggesting that it will find the sword and commence its horrible and frightful business right there). The madness should end when Wodbora is sheathed, however, giving the wielder some control over collateral damage. The will of the ride is its own, and it will destroy any that have not recently cleaned their soul.
 
-##### Blade Construction
+#### Blade Construction
 
 The blade construction should be single-edged, with a 9-layer nomai. The spine should be wrought iron, with alternating layers of 1084 and 15n20. Once etched, this will yield 2 rivers of 15n20 running through a dark grey field, with grainy spine. Done right, you could interpret the wrought iron as the sky, or as the ground. The carbon transfer among the ribbons of 1084 and 15n20 should blur, giving the 15n20 less of a defined line. Depending on which way you look, it's a real Rorshach test. When Tobin showed me his first etch of the prototype Wodbora blade, I couldn't decide which way was up! The silvery 15n20 could be the mist on the ground, and light grey shapes are flowing through it. Or the silvery 15n20 are the clouds, and the darker shapes represent the Wodhere in full ride sweeping the earth.
 
-##### Handle Construction
+#### Handle Construction
 
 The handle should be two handed for grip, with a wood core. Instead of a guard and pommel, the handle should be wrapped in wire with Turk's head knots on either end, with simple plates acting as the caps of the blade. The visual effect should be one of a wire cage binding the Wodhere in the blade, so it doesn't spill out of the handle. This is a slight anachronism... steel wire typically wasn't used for binding handles, but silver and copper alloys certainly were for higher end blades. We're using steel to stand-in for silver, I suppose.
 
-##### Scabbard Construction
+#### Scabbard Construction
 
 The scabbard should be lambskin-lined, woodcore. It should have simple steel throat and chape. The outer covering should be leather.
 
-###### Scabbard Obverse (Outer) Side: The Inquisitors
+##### Scabbard Obverse (Outer) Side: The Inquisitors
 
 This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade on the first line, and the ward of the blade on the second line. Two ravens, one on each side of the inscription, should be facing inward, so as to witness the ward. The ward is there not just for the public, but for the wielder too... for they must suffer the inquisition. The ravens should be in the jelling style, with scrollwork containing and framing the name/title and prayer. Since Woden is not invoked directly, the prayer is also to God, on off-chance that Woden isn't listening to the ravens.
 
-###### Scabbard Reverse (Inner) Side: The Invocation
+##### Scabbard Reverse (Inner) Side: The Invocation
 
 This side is body-facing and contains the "secret" spell that Wodbora will cast on behalf of the wielder when the sword is drawn. This side could have a Mammen-style snake (to represent the Wodhere) tightly bound, getting looser towards the chape. This signifies that the spell is a release of the host as it gets closer to the end of the statement. The throat should be where the runes are tightest, and the chape should be where they are the loosest. If this is too complex, a two line line-boxed construction would suffice, with the Spell Haelu portion in a smaller runic font size than the Incantation.
 
@@ -352,28 +365,46 @@ This side is body-facing and contains the "secret" spell that Wodbora will cast 
 
 ---
 
-#### Barrow-Edge, the Hedge-Stalker
+### Barrow-Edge, the Hedge-Stalker
 
-##### Description
+#### Description
 
-The blade is a 16" heavy chopping broad seax, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth. It is named bargain struck between Eilhild's family barrow-spirits, Freyr and Woden.
+The blade is a 16" heavy chopping broad seax with a two-handed handle, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth.
 
-##### Blade Construction
+Realistically, blades like these (Northolt Manor Seax) existed, but were a rarity. Most farmers would have a felling axe for field work and a separate smaller seax for utility. Those were the cheaper options. These seaxes were intimidating and fit for battle, probably wielded by the largest of ceorls who could afford them and wield them in the fyrd. They were probably predominately wrought iron, with a slice of steel for the edge. Basically a sharp wrought iron baseball bat with a very stout point. Most peasants couldn't afford that much iron and steel in one purchase, and many of the richer warriors chose dedicated swords. Leaving this weapon chosen by the very small middle of that spectrum.
 
-These specialized broad seaxes were used for hearth-work, equal parts campfire axe and meat cleaver. Since iron was precious and expensive, a few farmers preferred this kind of blade instead of a separate large seax and axe.
+The extended handle served a dual purpose: it provided the leverage to hook and pull an opponent’s shield-rim, and it allowed for a transition to a two-handed grip once a primary shield was compromised. While not a crushing weapon like an axe, the heavy, forward-weighted blade could hack through the wood and leather of a weakened shield, turning a defensive tool into a devastating offensive one.
 
-The blade should be a 2-bar cleft-weld construction with a large section of wrought iron married to an edge of 1084. It should be exceptionally thick and wide. The wrought iron represents the stone and smoke of the hearth. Inscriptions will be on both sides, so it would be highly recommended to use a fiber laser and brazing techniques rather than damascening.
-##### Handle Construction
+It was superior to a dedicated axe in the press of the shield wall. Like the Roman _gladius_, the seax’s point allowed for a brutal, punching thrust into the gaps between shields—a motion that required far less space than an axe-swing. It was a hybrid of cleaver and dagger, capable of hacking through a rim or finding the soft space beneath a mail shirt with equal ease.
 
-Since this is a farmer's blade, the handle should be simple. It should be two-handed, like the Northolt Manor seax. The handle should probably be wood. The guard and pommel should be thick wrought iron, and a simple symmetric river stone should be embedded in the pommel.
+#### Blade Construction
 
-##### Scabbard Construction
+This blade wants wrought iron for the spine. That's a bit tricky, because that implies two things: super high heat (yellow-to-white), and a forge weld. Wrought wants to be worked super hot, but some steels like 1084 experience rapid grain growth at higher temps. 15n20 is a good steel at higher temperatures - its nickel acts as a grain stabilizer. But, even 15n20 will need temperature cycling to manage grain growth.
 
-The scabbard should be the epitome of simple. This is a farmer's blade on the outside, with simple runes for the ward and spell. The runes should be small and not prominent. There should be minimal scrollwork and lines. All the cool stuff is hidden from the world. I would suggest just the simple seax leather-fold scabbard with a stitched welt or a simple unadorned brass edge-runner with rivets.
+If you don't want to mess with wrought iron, my suggestion is to go with 5160. Specifically, a big chunky leaf spring. It's thick. It's a tough steel, can stand up to beating pretty hard, and when darkened, it can come out to the same shade as wrought iron. It won't have the pits and rough look. If the look is necessary, that can be faked with rounds of arbitrary etching (dabbing etchant in cycles over and over until it looks random). 
 
-The blade itself should have the name inscribed in silver on one side, and the title inscribed in silver on the other. The long handle gives you many choices about swing intensity.
+If you go with a forge-weld, most smiths at that point abandon 5160. The chromium oxide that forms is a weld-killer. You can flux for it, but it's notoriously finicky.
 
-##### Inscriptions
+If you want to brave the wrought iron, then you have choices. You could do a traditional a 2-bar cleft-weld construction or a modern 3-layer san mai. Choosing 1084 would probably be ideal thematically, but there is a ton of decarburizing to be expected.
+
+If you use 1084, you definitely want a cleft weld, for two reasons. The carbon will literally leak from the 1084 into the wrought iron. A cleft weld would insure that the carbon is only stolen from the side away from the edge. Also, since 1084 has problems at higher temperatures, assuming you have a forge with some areas hotter than others (like in a coal or charcoal forge), you can put the spine in the hottest part of the fire.
+
+If you must do a san mai construction (for instance, because you feel like your forge will heat everything uniformly), you might consider other steels. Look at 15n20; the nickel in 15n20 slows down carbon migration and handles high heat better than 1084. You'll end up with a bright line on the edge, but hey, that makes it look more magical, doesn't it?
+
+Regardless, the blade should be exceptionally thick and wide. The wrought iron represents the stone and smoke of the hearth. Inscriptions will be on both sides, so it would be highly recommended to use a fiber laser and brazing techniques rather than damascening.
+#### Handle Construction
+
+Since this is a farmer's blade, the handle should be simple. It should be two-handed, like the Northolt Manor seax. The handle should probably be wood... bogwood would be incredible. This construction envisions the placement of Gurdr's Tears (jet gravel) as an inlay in the handle.
+
+I would highly consider picking a stabilized bone or wood handle, and performing a iron acetate soak on it. That makes a relatively black handle. By adding a jet gravel inlay, you produce a shiny-black-on-matte-black contrast, which should look subtle and cool. We're going for borrow-vibe here, so every shadow counts.
+
+#### Scabbard Construction
+
+The scabbard should be the epitome of simple. This is a farmer's blade on the outside, with simple runes for the ward and spell. The runes should be small and not prominent. There should be minimal scrollwork and lines. All the cool stuff is hidden from the world. Historically, these big blades apparently used the simple leather-fold scabbard style with a stitched welt or a simple unadorned brass edge-runner with rivets.
+
+The blade itself should have the name inscribed in silver on one side, and the title inscribed in silver on the other.
+
+#### Inscriptions
 
 Inscriptions for this blade will be simple. The name and title will appear on one side of the wrought iron spine. The ward and the spell will appear simply on the two sides of the scabbard with no ornamentation. The fact that this is a farmer's blade means that it isn't too outwardly flashy.
 
@@ -387,33 +418,35 @@ Inscriptions for this blade will be simple. The name and title will appear on on
 
 ---
 
-#### Monanleoht, the Battle-Dancer
+### Monanleoht, the Battle-Dancer
 
-##### Description
+#### Description
 
-This is the deep-iron blade of the Spotted King redcap's prison. He is the memory of the blade, and it is both vicious and lyrical. For the blade to taste blood, and wet the murder-gnome's cap, he must teach the wielder how to fight like he does... in a lyrical mushroom-enhanced battle dance. Now PAY ATTENTION! :)
+This is the meteorite steel blade of the Spotted King redcap's prison. He is the memory of the blade, and it is both vicious and lyrical. For the blade to taste blood, and wet the murder-gnome's cap, he must teach the wielder how to fight like he does... in a lyrical mushroom-enhanced battle dance. Now PAY ATTENTION! :)
 
-##### Blade Construction
+#### Blade Construction
 
 It should be constructed of monosteel silvery 15n20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. Your eyes should appear different when you look into the blade like a mirror, as if the gnome is staring back at you.
 
-The blade is a light narrow seax with 12-14" blade . The break should be roughly half way down the blade, making the tip extremely fast and maneuverable.
+You could do as the forge elves, find yourself some meteorite iron, pound, refine and fold for a very long time to turn the iron into a billet of steel. You might even produce something that's half as good as ole' 15n20. Instead of doing all that, just buy the 15n20! 
 
-There should be no fullers or inscriptions on the blade. The blade has no adornment or inscriptions... how can you scratch the skin of the redcap himself? He would most... put out, and start to question your vintage.
+The blade is a light, relatively thin narrow seax with 12-14" blade . The break should be roughly half way down the blade, making the tip extremely fast and maneuverable.
 
-##### Handle Construction
+There should be no fullers or inscriptions on the blade. The blade has no adornment or inscriptions... how can you scratch the skin of the redcap himself? He would most put out. He may even start to question your vintage.
 
-The handle should be one-handed and be well-balanced, for maximum tip control. It should also be very, very grippy. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping oxblood leather lace, ideally braid-wrapped with just enough 15n20 guard and pommel to counter-balance the thinner blade.
+#### Handle Construction
+
+The handle should be one-handed and be well-balanced, for maximum tip control. It should also be very secure in the hand. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping oxblood leather lace, ideally braid-wrapped with just enough 15n20 guard and pommel to counter-balance the thinner blade. Another good choice is odd-looking yet weirdly perfect section of bone or antler. It just so happens I have one of those.
 
 The name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. If there's room, the runes should traverse the guard and pommel on the side-edge as if they are in mid-dance, each rune slightly askew angle-wise of what would be it's normal scripture-line. If there's no room on the edges, move the runes to the top and bottom flats of the guard and pommel but keep the runes out of alignment with the center line.
 
-##### Scabbard Construction
+#### Scabbard Construction
 
-The scabbard should be standard sheepskin-lined wooden core, with oxblood leather wrap.
+The scabbard should be sheepskin-lined (being a stand-in for the moon marten's fur) with an oxblood-colored outer leather sheath.
 
-This blade is about style, and the scabbard should represent that. The scabbard sides should look almost identical. The runes should be wrapped in a border that is heraldic, mushroom-y, and with a prominent full moon badge. It should resemble what the office stationary of Spotted King Fussleton the First would look like.  The border should include eyes as if Fussleton is peering at you. On one side (the obverse) the eyes should be welcoming. On the in side (the reverse) the eyes should be predatory, but otherwise identical to the obverse.
+This blade is about style, and the scabbard should represent that. The scabbard sides should look almost identical. The runes should be wrapped in a border that is heraldic, mushroom-y, and with a prominent full moon badge. It should resemble what the office stationary of Spotted King Fussleton the First would look like.  On one side (the obverse) the eyes should be welcoming. On the in side (the reverse) the eyes should be predatory, but otherwise identical to the obverse.
 
-##### Inscriptions
+#### Inscriptions
 
 | Location                   | Function | Old English          | Futhorc Runes                    | Pronunciation                     | Meaning                        |
 | -------------------------- | -------- | -------------------- | -------------------------------- | --------------------------------- | ------------------------------ |

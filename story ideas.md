@@ -819,9 +819,9 @@ Someone had to remember what happened next.
 
 Flying away, the topic changed.
 
-Huginn: Don't Stop Believin'.
+Huginn: "Don't Stop Believin'."
 
-Muninn: No. Wheel in the Sky.
+Muninn: "No. Wheel in the Sky."
 
 "The girl never stopped believing in herself."
 
@@ -837,7 +837,7 @@ Muninn: No. Wheel in the Sky.
 
 "Anyway You Want It?"
 
-"Now you're just throwing out songs. Do you want to lose the bet?"
+"Now you're just throwing out song titles. Do you want to lose the bet?"
 
 "Separate Ways."
 
@@ -853,11 +853,11 @@ Long pause.
 
 Huginn: Lovin', Touchin', Squeezin'?
 
-Muninn: Touch me and you'll never squeeze again, ditch-meat.
+Muninn: Touch me and you'll never live to squeeze again, ditch-meat.
 
 Long pause.
 
-"The skeleton crew likes the name. I'm going to be the lead singer."
+"By the way, the skeleton crew likes the name. I'm going to be the lead singer."
 
 "*Who* ... likes *what*?"
 

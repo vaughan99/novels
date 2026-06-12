@@ -29,9 +29,9 @@ All had the tell-tale sign of the goblin sickness - purple skin. The nisse was c
 
 All nisse have a responsibility. Protection. They protect the family, the hearth, the home, the land, the livestock. Every blade of grass. Every laugh from the children. Every loving embrace of a husband and wife. And now, it was all... gone. The barrow-wight was a failure.
 
-Osric was still clinging to life, but the goblins were beyond the nisse's magic. It knew that the livestock were the highest priority now. It hurried back to the doorway, plodding the steps without its usual stealth. It passed the threshold, out into the biting cold. Winter had arrived with a vengeance, and the animals would never survive the open stalls. They needed to be moved to the byre.
+Osric was still clinging to life, but the goblins were beyond the nisse's magic. It knew that if Osric were to survive the goblins, he would be too weak to handle all that lay before him the following morning. The nisse thought back to the eorth-hord's remains and the livestock. It hurried back to the doorway with newfound resolve, plodding the steps without its usual stealth. It passed the threshold, out into the biting cold. Winter had arrived with a vengeance, and the animals would never survive the open stalls for long. They needed to be moved to the byre, and the byre needed to be ready.
 
-The nisse looked at the lower end of the house where the byre stood—a walled alcove of wattle and daub, sharing the cottage's long, thatched roof. It offered shelter from the biting wind and snow, far better than the exposed stalls. Luckily, it was far enough from the ruined doorway that the structure remained sound. The nisse also noticed that Osric had already moved the essentials—the troughs, the pails, the hay—in preparation for the move. There was a transfer grain chest here too, with enough grain for a few days. He had even banked the exterior walls with extra sod to keep the frost from creeping into the byre floor. It was the work of a man who knew the winter was at the door, and the final step was to move the livestock in. "Tomorrow," the nisse thought, its resolve hardening like its stone.
+The nisse looked at the lower end of the house where the byre stood—a walled alcove of wattle and daub, sharing the cottage's long, thatched roof. It offered shelter from the biting wind and snow, far better than the exposed stalls. Luckily, it was far enough from the ruined doorway that the structure remained sound. The nisse also noticed that Osric had already moved the essentials—the troughs, the pails, the hay—in preparation for the move. There was a transfer grain chest here too, with enough grain for a few days. He had even banked the exterior walls with extra sod to keep the frost from creeping into the byre floor. It was the work of a man who knew the winter was at the door, and the final step was to move the livestock in. "Tomorrow," the nisse thought, its resolve hardening like its stone. "Food. Now."
 
 The cold was turning to a blizzard, the muddy miasma clung to the nisse like hardened frost-stone. It was harder to move now as the nisse wasn't a creature for the elements, it was meant to live under the home. Time was now critical.
 
@@ -135,7 +135,7 @@ The daub didn't just fall; it was _pushed_? A deliberate, rhythmic pressure fro
 
 Another piece of daub pushed in, this time a foot higher.
 
-"Dark one?" He dared only mouth the word. He cursed his mind. He had already forgotten the lorica - the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
+"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica - the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
 
 He searched for a stick, and found one in the thatch. He pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before - the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
 
@@ -153,7 +153,7 @@ He lunged to the wall, hitting his head. He didn't feel the pain—only the fran
 
 But none would give him sight.
 
-"Show yourself," he rasped, his voice a jagged, terrified sound.
+"Show yourself," he rasped, his voice a jagged, terrified sound. "I'm not afraid of you."
 
 There was no answer. Only the silence of a house that was no longer a house, and the realization that whatever was on the other side wasn't just hiding—it was watching him through the very holes he had tried to use to spy on it.
 
@@ -173,4 +173,4 @@ Then: _scrrtch_
 
 He peered. He saw straw poke out from the new daub.
 
-He turn back to his cove, his eyes stared at the ground. His expression went blank. He sighed. He giggled. He realized, for his sanity: that was the last straw.
+He turn back to his cove, his eyes stared at the ground. His expression went blank. He sighed. He giggled. He realized with terrifying clarity that for his sanity: that was the last straw.

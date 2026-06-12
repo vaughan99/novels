@@ -1,6 +1,6 @@
 ## Chapter Three: The Tale of the Coal-Wise Apprentice
 
-Back in 930 AD, Elswyth and her mother and father lived in a coaler's hut, a small squat building of stone walls and thatch roof. Back then, Elswyth was of ten winters, and she had been learning the family trade. Her father, Godwine, would go into the forest to find the hardwood, and Elswyth and her mother Eadgyth would manage the coalpit.
+Back in 930 AD, Elswyth and her parents lived in a coaler's hut, a small squat building of stone walls and thatch roof. Back then, Elswyth was of ten winters, and she had been learning the family trade. Her father, Godwine, would go into the forest to find the hardwood, and Elswyth and her mother Eadgyth would manage the coalpit. It was hot, smelly, thankless work. 
 
 Her family were new to the area. They came from Witanceaster, having worked coalpits for the forges to smelt crosses. Local families had been undercutting their silver, so they took their knowledge on the road. Whispers carried on the wind from Leicester promised deep woods and the steady demand of war forges and bell-casting. The road was long and dangerous, but when they arrived, they found there was space for honest coalers to ply their trade. The only space for their new home and their coalpits was next to the graveyard, at the foot of the hill where the Church of St Nicholas met the forest.
 

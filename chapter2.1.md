@@ -56,7 +56,7 @@ Muninn: "She knows that when you're flying into a fray, you don't want your fash
 
 Huginn: "Fine. But if the boar gets a movie deal, I'm writing the script."
 
-Muninn: "Fine. Then, I'll write your obituary."
+Muninn: "Fine. Then, I get to write your obituary."
 
 ---
 
