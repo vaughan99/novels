@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter2.3.md",
+                "file": "chapter3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter2.3"
+              "title": "chapter3"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapter2.3.md",
+                "file": "chapter3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of chapter2.3"
+              "title": "Outline of chapter3"
             }
           },
           {
@@ -240,10 +240,10 @@
   },
   "active": "8685869dbfa56b9b",
   "lastOpenFiles": [
-    "chapter3.md",
     "chapter2.3.md",
     "chapter2.2.md",
     "chapter2.1.md",
+    "chapter3.md",
     "chapter1.md",
     "afterword.md",
     "story ideas.md",

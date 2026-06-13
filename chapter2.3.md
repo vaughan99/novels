@@ -67,7 +67,39 @@ There was no answer, of course. But the wooden pail gave a soft, bubbling plop a
 
 Osric let out a low, defeated chuckle. "Well. I suppose I can't complain about the ventilation."
 
-The return of his legs brought with it a cold, unavoidable truth. He could no longer hide behind the lie of York. He had to bury his family.
+The revelation dawned on him that there was plenty of meat here in this byre. He saw that the creature had found the creels and had separated the cockerels - it had separated the younger males into willow baskets for use as food for the winter. 
+
+Osric stared up at the hanging gallery of his winter meals. The silent partner had laid out the entire larder.
+
+"Well," Osric muttered, a slow, genuine smile finally touching his chapped lips. "May I be stricken down and covered in goose feathers. You're a better husbandman than I am."
+
+He knew, looking at those wicker thrones, that they would see him through the rest of the winter.
+
+His eyes drifted to the mare in her stall. He stepped closer, squinting in the dim, warm light. The creature had even found time to maintain the braid on her mane - again.
+
+Osric reached out and touched the plaited hair. It was looser this time. Not so tight on the edges.
+
+He remembered his own raspy words to the empty room a week ago: _Well... next time... more practice._
+
+---
+
+Huginn: "Welcome to Nisse Body and Spa! Need respite from the winter? Come on by and sample our warm water and fine cuisine. Put your hooves up and get your mane braided for no extra charge!"
+
+Muninn: "I have to admire the nisse's ingenuity. Most people would have saved the manure for throwing at annoying announcers."
+
+Huginn: "Cah! Is that a threat?"
+
+Muninn: "It's an observation."
+
+Huginn: "That's beneath you, brother."
+
+Muninn: "It's beneath all of us. Right there."
+
+---
+
+All he could manage was a chuckle. "The girls will be most pleased!"
+
+His voice words trailed off, and a grim reality took hold. The return of his legs brought with it a cold, unavoidable truth. He could no longer hide behind the lie of York. He had to bury his family.
 
 For a week, Osric fought the wreckage of his own home. Every day was a grueling cycle of pulling, clearing, and straining against the heavy timbers. He managed to break the sturdy frame of an oak chair, using its long back-post as a makeshift pry-bar for leverage. His muscles, still weak from the poison, screamed under the strain, but bit by bit, the ruins gave way.
 
@@ -87,34 +119,73 @@ One by one, he gently slid Ealhild and the children inside, laying them side-by-
 
 When they were settled, he did not bury them in loose drift. Instead, he took a heavy, flat shutter from the ruined window and placed it over the opening, sealing the chamber door. He packed wet snow around the edges, letting the wind freeze it solid.
 
-It was a perfect, silent tomb. The cold would preserve their flesh, and the thick white vault would hide their souls from the howling riders in the sky. They would rest in their temporary hill, waiting for the spring thaw when he could finally open the door and plant them into the warm, welcoming earth.
+It was a perfect, silent tomb. The cold would preserve their flesh, and the thick white vault would hide their souls from the howling riders in the sky. They would rest in their temporary hill, waiting for the spring thaw, when he could finally open the door and plant them into the warm, welcoming earth. Then they could begin their journey.
 
+He wondered when he might see them again, at his own passing. Perhaps there was some hidden footpath between their two afterlives, some narrow secret way where a husband and his family might steal a few moments before being called back to their proper halls.
 
-[TODO: , Galindo thinks he's insane, fyrdmen notice the braided horse's hair, everyone now thinks he's insane, he's taken as a thrall since they can't arrange a witan, he will work the baggage train]
+He had never given much thought to death before, except his own. He knew the fyrd might require it of him one day. Death had belonged to old men, warriors, priests, and winter tales. Not to his family. Then it had come through his own roof and taken the shape of everyone he loved.
 
-Winter finally gave way to Spring, and the arrival of the Reeve, Galindo. He was a Spaniard, a presence of silken coat riding high on a southern saddle on a noble Andalusian horse. The saddle had toggles of bone and silver, and his tally sticks and ledger were clutched in a wrap of fine fur.
+He had always thought the burden would fall on them. If he died in the fyrd, Ealhild and the children would have to wonder where he had gone. Now they were gone instead, and the burden was his: to wonder how he might ever find them again.
 
-Galindo stopped his horse near the stone path. His boots were still clean from the hall, and he intended to keep them that way. Osric, hearing the horse's precise footfalls, made his way outside. "Osric. Son of Wulfnoth. A host of Vikings was spotted on the road, and the fyrd has been called to Leicester. Fetch your spear and shield, and bid your family farewell. We march on the morrow." he said in a thick Spanish accent, curt with the frankness of a hammer. "I can't my lord reeve. You have known me for 3 winters. Know that my family befell a sickness curse. My wife and children are gone. The cold of the winter forced me to burn all my possessions. I have nothing."
+Osric looked forward to spring and the rains. The creature was managing the byre, and he had strength enough to start repairs on the cottage.
 
-Galindo tilted his head to the side, then looked over Osric's shoulder to the cottage, spying the empty space where the shield and spear once stood. He pulled out a ledger, and fetched a bit of charcoal from a pouch. Ink and feather pens were hard to use from the horse, but charcoal could be wielded in more detailed fashion. "Shield, spear gone. Arm-debt of the fyrd, unpaid." He noted in the ledger. "Your cottage is forfeit. Report to the fyrd anyway. You live at the mercy of your lord now."
+The roof was a lost cause; he needed at least three stout men to mend it safely. But he could slowly lever the broken timbers out through the doorway. He could clear the last of the fallen thatch. The broken beams could be split for firewood, or fashioned to some new purpose. The sturdiest pieces he set aside to repair the eorth-hord.
 
-Osric knew this was coming. He gathered what little he could, and trudged the trail to the fyrd's clearing. There was no point in running, or even bargaining. He knew that survival now depended on staying useful to his lord, even if he had lost the trust of the fyrd.
+He found his hand-axe and set himself to the work. The first stroke jarred his shoulder. His lungs still felt cold-bitten and taut, but he kept going. The second stroke bit cleanly into the wood. By the third, the old strength surged through his arm once more.
 
-He arrived to a swell of activity. Everyone had withstood the brutal cold, all better than Osric. Nobody had time for Osric, even his neighbors and friends. The wagon-master was Murdock, a short burly Scot with a sense only for hard ale and hard-driving horses, met with Galindo, still high on horse. After a brief conversation with Galindo, Murdoch found Osric and put him to task immediately. "The wagons must be loaded for the road. I want to see the wagons full by the time the sun sets, or there will be screams!". He grabbed Osric by the shirt and threw him towards the wagons. Osric asked about what happens if they are attacked, what he should use to defend himself from the Vikings. Murdoch replies, "I spy a pitchfork, fallen into the campfire of the night. Sharpen the coal-end stick. And there, a spent training shield. Take them before another thrall does. But don't worry, you'll be far from the fighting. And do that AFTER the wagons are loaded, not before."
+In the last of the wreckage, near the hearth, he found his boar-spear and shield. They had fallen in the collapse. The spear’s pole was broken near the head, the pole split its entire length. The shield-rim was bent, and the boards had snapped under the weight.
 
-The next morning, the wagons and the fyrd made towards Leicester for the siege. Osric walked behind, his burn-pole and spent shield like an anchor on his hollowed frame. Unbeknownst to him, the hob had returned to the cottage with a mandate from the forge-elves. He spied the chaos and death, the emptiness of the dwelling. The forge-elves had provided a barrel with a sling, and the hob had secured it with stout leather to the curve of his back.
+The spearhead he burned free from the pole in the hearth. The steel was still useful, but he would have to find a new pole. The shield's iron strapping could be reset with a forge, and the boss was still stout. A few hours at the smith's, and his shield could be restored.
 
-He reached first for the hard things, things to forge a new thing: random cooking implements without handles, the cookware copper, the boss and bind of Osric's mighty shield, the spearpoint of the spear, the steel of the plowshare. Into the barrel-pack they went.
+There on the wall, he found his father's war broad-seax hanging from a nail. He had used it for training, and he carried it with him on the road any time he left. Made for one hand or two, it was thick with intimidation. Not many in the fyrd chose a weapon like this; it was a luxury beyond the simple farmer's axe. He gave it a few test swings to remember the heft and balance. Then he sharpened it by the hearth, warm light sliding along the blade and returning to his eyes.
 
-But the hob knew he is missing something, a sense of the hearth and the woman who worked it. He found her comb. He found her nine-herb medicine bag, and locks of her hair that had fallen from the sickness. 
+He could still picture the day his father left for the fyrd, carrying it to his last battle. He could picture the day it came home again, carried to Osric by a somber fyrdman. His mother had died the winter before, and he met the man _alone_ at the threshold.
 
-Next he needed the laughter of summer, a sense of the children lost. He found their statue-toys and trinkets.
+The seax. The farm. The debts. The duty. All became his inheritance on that day. 
 
-And last, he took ash from the heath, a stone as well, and the spit for the roast. Satisfied, he slinked off towards the forge-elves home hopeful, his oil-string in tow.
+Winter finally gave way to the beginning of the thaw. Out on the road, the silence was broken by the sound of horses and men.
+
+It was not the scattered, weary tread of retreating fyrdmen. This sound was heavy and formal—the synchronized squelch of well-shod hooves in the mud, the rhythmic clink of fine harness, and the low, sparse murmurs of disciplined men.
+
+It was a company he did not expect.
+
+Osric stepped out past the threshold into the yard. He saw a fyrd company, roughly twelve men he knew, with oxen and carts. They were led by his lord's reeve, Galindo. He was a Spaniard, a presence of silken coat riding high on a southern saddle on a noble Andalusian horse. The saddle had toggles of bone and silver, and his tally sticks and ledger were clutched in a wrap of fine fur. The men were whispering and staring at the state of his cottage. They looked at him with wariness and disbelief.
+
+Galindo stopped his horse near the stone path. He looked with dismay at the state of the cottage, but his business was urgent. His boots were still clean from the hall, and he intended to keep them that way. He called from his horse. "Osric. Son of Wulfnoth. A host of Vikings has been holed up in Leicester for the winter. Fetch your spear and shield, and bid your family farewell. We march on the morrow. Our lord has promised us to help free Leicester from them." He delivered the last phrase with a brisk, almost clinical frankness, as if trying to cut through an unpleasant task.
+
+"Like ticks from a dog, I reckon!" yelled one of the fyrdmen from the cart. He had yet to look up from the reins of his cart, to see the wreck of the cottage before him.  
+
+The joke landed on deaf ears. No one laughed. The other men stood, their eyes fixed on the missing roof and shambles outside his doorway.
+
+Osric's voice was flat. His eyes stared through Galindo's. "I can't, my lord reeve. You have known me for three winters. Know that my family befell a sickness curse on winter's first night. My wife and children are gone. My spear and shield are broken, but repairable. I have my war blade. But I have no one to take care of the livestock."
+
+Galindo narrowed his eyes to consider the words. His gaze swept from Osric to the missing roof. He stammered to find the words, blinking several times. His lips finally settled. "And... your roof, Osric? **¡Valame Dios!** What happened here?" His native Castilian tongue gained control for a moment, reacting to the sight.
+
+Osric stood. He had no answer. A deep, long silence settled over the yard, broken only by the restless shifting of the horses and the distant drip of the thaw.
+
+The nisse, hidden behind the threshold stone in its crack, watched the scene unfold.
+
+It saw the well-appointed man on his pretty horse pelting Osric with questions. Then, men went to the byre, started to lead away two dairy cows, and all the chickens. One of them went to the snow bank where the ice barrow lay, and removed the door. Osric became enraged, tackling the man. Several others pulled Osric off, holding him. The nisse bit its lip, confused by the commotion. The horse-man and Osric had more words. The words made Osric very sad, and he started crying. Yelling. Tears streamed down his face. The horse-man was listening, but then he wasn't. The men jeered Osric. One of them kicked him. The horse-man said more words and waved an arm, and the men went back into the byre. They took all the animals. The nisse watched in horror as the entire byre's contents were being tied to the carts. Osric was being tied too, by the hands, and led away on foot in the procession.
+
+Then, the nisse was all alone.
+
+The nisse ran into the byre. The warming stone had been kicked aside. Every animal was taken, along with most of the remaining hay. There was nothing left.
+
+It sat on the floor, defeated.
+
+High on a timber of the byre, a raven called to the nisse. "Caw! Caw!" The nisse stared at it for a moment. "Caaaw!" the raven flew out of the byre, and landed on a tree branch outside, looking back at the nisse expectantly.
+
+The nisse understood what the raven was saying. It raced to the corner and grabbed an empty barrel. Barrel in hand, it bound into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The nisse took ash from the hearth, and the roasting spit.
+
+All of it went into the barrel.
+
+Finally, it found a length of rope. It dug the barrow-stone from the threshold, and wrapped it heavily, leaving two arm-loops. It lifted the barrow-stone onto its back, using the loops as straps. There, in the barrow-stone's impression in the mud laid the oil string. The nisse grabbed that last, and tied it to its belt. And the nisse headed out to the road, barrow-stone on its back, barrel in its hands. It stayed in the shadows, following the raven to Leicester.
 
 ---
 
-Muninn: "The nisse collected the life of the home, to provide memory to the steel she wanted the forge-elves to make!"
+Huginn: "Going out of business. Well, the nisse could have had a very nice cottage industry until the fyrd showed up."
+
+Muninn: "The nisse collected the life of the home, to provide memory to the project."
 
 Huginn: "Was it enough?"
 
@@ -124,11 +195,14 @@ Huginn: "Cah... of course. I was just checking to see if you were listening."
 
 Muninn: "I'm ALWAYS listening Huginn. That's my job. I'm the memory. When have I ever stopped?"
 
-Huginn: "There it is. A barrel full of 'Used-to-Be.' She’s carrying the laughter and the fyrd-parts into the forge-lair."
+Huginn: "There it is. A barrel full of life. It’s carrying the laughter and the fyrd-parts into the forge-lair."
 
-Muninn: "The Smith-Elves will smell the Nine Herbs, play with the children's toys and know their songs. They will taste the char-meat on the spit, and smell the barrowstone, and they will remember the family's life."
+Muninn: "The Smith-Elves will smell the Nine Herbs, play with the children's toys and know their songs. They will see the runes Ealhild painted on the barrow-stone. They'll see Gerdr's Tears."
 
-Huginn: "And look at the 'Fyrd-Anchor' on the road to Leicester... he’s walking with a stick-spear of charcoal, unaware that his own 'Hearth' is following him on the road in a barrel."
+Huginn: "The 'Fyrd-Anchor' is going to follow his hearth on the road to Leicester. Following his heart...th? It's like heart, but with ..."
 
-Muninn: "Where Elswyth waits, remembering her family..."
+Muninn interrupted.
 
+Muninn: "Sometimes I wish I were an only child, Huginn."
+
+Huginn: "You are an only child, Muninn. The only child with a brother as awesome as me!"
