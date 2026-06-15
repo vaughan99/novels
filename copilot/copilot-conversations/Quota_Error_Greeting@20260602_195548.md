@@ -460,7 +460,7 @@ If you want, I can help you do one of these next:
 [Context: Notes: chapter3.md]
 [Timestamp: 2026/06/02 20:20:24]
 
-**ai**: Understood — I’ve read [[chapter3]], and I’ll hold off on edits for now.
+**ai**: Understood — I’ve read [[chapter3.1]], and I’ll hold off on edits for now.
 
 A few up-front notes to keep in mind for later, especially with your historical/mythic fidelity goals:
 
@@ -488,7 +488,7 @@ Send Chapter 4 when you’re ready, and I’ll keep reading in the same mode.
 [Context: Notes: chapter4.md]
 [Timestamp: 2026/06/02 20:21:47]
 
-**ai**: I’ve read [[chapter4]].
+**ai**: I’ve read [[chapter4.1]].
 
 This chapter is doing a lot of important work, and it gives you a very strong bridge into the later blade/divine material.
 
@@ -650,7 +650,7 @@ If you want, you can paste the full chapter or just the Freyr/Woden sections.
 [Context: Notes: chapter5.5.md]
 [Timestamp: 2026/06/02 20:48:43]
 
-**ai**: Yes — I have context for [[chapter4]].
+**ai**: Yes — I have context for [[chapter4.1]].
 
 What I have on it:
 - Cynewulf’s arc from early church formation to moral drift and eventual collapse
@@ -659,7 +659,7 @@ What I have on it:
 - the shepherd figure who turns out to be liminal or more than human
 - the thematic bridge into old belief, violence, and the later divine/forge material
 
-My earlier read was that [[chapter4]]:
+My earlier read was that [[chapter4.1]]:
 - works very well as a character origin chapter
 - has strong bell imagery
 - is a good pivot from church order into brokenness and road-life
@@ -667,7 +667,7 @@ My earlier read was that [[chapter4]]:
 - contains some phrases that may want later smoothing for period texture
 
 If you want, I can help you with:
-- a refresher summary of [[chapter4]]
+- a refresher summary of [[chapter4.1]]
 - extracting Cynewulf’s wounds and motivations
 - or using it as the basis for the Chapter 5 Freyr/Woden debate
 
@@ -2675,7 +2675,7 @@ If you want [[edits]] to function as a true refactor basis, it should also inclu
 
 The missing material likely should include notes like:
 - [[prologue]] establishes the raven framing device and the “one shadow, two mouths” storytelling voice
-- [[chapter1]] through [[chapter4]] build the human stakes and the three character foundations
+- [[chapter1]] through [[chapter4.1]] build the human stakes and the three character foundations
 - [[chapter5.1]] is the metaphysical / theological hinge
 - [[chapter6]] is the battle-routing chapter that moves each character toward a separate blade-test
 - the early chapters should keep foreshadowing the three distinct modes:
@@ -2746,7 +2746,7 @@ If you want, I can now produce a second addendum for [[edits]] covering:
   - the idea that survival is built, not assumed
 - This chapter should make Osric’s eventual barrow-sleep transformation feel tragic, because he comes from a life of stewardship rather than violence-for-its-own-sake.
 
-### [[chapter3]]
+### [[chapter3.1]]
 - Chapter 3 should establish Elswyth’s early life, trade, and family context.
 - She should feel capable and observant, but not battle-shaped.
 - The chapter should emphasize:
@@ -2757,7 +2757,7 @@ If you want, I can now produce a second addendum for [[edits]] covering:
 - Her location near the old stones and graveyard should feel like a threshold condition, not just scenery.
 - If there is mythic correction or raven commentary, it should reinforce that memory and place are layered, not flattened.
 
-### [[chapter4]]
+### [[chapter4.1]]
 - Chapter 4 should establish Cynewulf as morally serious, inwardly burdened, and not born to war.
 - The confession scene should be the emotional center.
 - The focus should stay on:

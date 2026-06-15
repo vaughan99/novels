@@ -1,7 +1,7 @@
 
-## Chapter 2: The Tale of the Hearth-Warm Fyrdman
+## Chapter Two: The Tale of the Hearth-Warm Fyrdman
 
-### Part 3: The Feared
+### Part Three: The Feared
 
 For the next few days, Osric was resigned to living with a monster - which is easier, if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
 
@@ -9,17 +9,17 @@ Every inch was a battle. His fingers, stiff and blue, clawed at the dirt floor, 
 
 When he woke next, he was amazed. He saw the orange glow reflect off his blued skin. He felt the warmth of a fire. He had pulled himself two feet from the hearth before he had given in, and the monster had started a fire.
 
-"Let me guess, you're a dragon now? Did you breathe on the rocks?" he mocked, his voice a dry rasp. Deep down, he knew the truth: this was a salvation.
+"Let me guess... you're a... dragon now? Did you... breathe on the rocks?" he mocked, his voice a dry rasp. Deep down, he knew the truth: this was a salvation.
 
-His vision cleared, focusing on the floor. A bowl of thin, steaming porridge sat there, a wooden spoon resting in the center, topped with a small, golden knob of butter. Beyond it, the two pails of food were secured with a scarves, the fabric pinned firmly beneath the weight of the containers—a crude but effective ward against the rats.
+His vision cleared, focusing on the floor. A bowl of thin, steaming porridge sat there, a wooden spoon resting in the center, topped with a small, golden knob of butter. Beyond it, the two pails of food were secured with a scarves, the fabric pinned firmly beneath the weight of the containers—a crude but temporary ward against the rats.
 
-Osric stared at the meal, his stomach twisting with a mix of hunger and dread. "Clever creature," he whispered. "Now I know your game. I’m to be fattened up first, aren't I?"
+Osric stared at the meal, his stomach twisting with a mix of hunger and dread. "Clever creature," he whispered. "Now I know... your game. I’m to be... fattened up first... aren't I?"
 
 He took bites when he could, alternating with heaved breaths. It's as if he couldn't afford to swallow lest his breathing fail.
 
 "You win. I'm fat now," he mocked again. He had no intention to let this creature nurse him back to health, but he knew he needed to stay here by the fire as long as possible.
 
-He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He didn't have enough firewood here for as long as that might take, but he could use some bits of the roof. At some point - soon - he would need more.
+He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He saw that the firewood pile by the hearth had enough for a day, but he could use some bits of the roof. At some point - soon - he would need more.
 
 "You know... the mare? She likes... the braids. In her hair... I can tell." He felt a strange, cold necessity in the words. He had to talk to the creature. If he didn't, he was only talking to his own madness, and he knew that was a road he couldn't afford to walk. Better to speak to the monster in the wall than to the ghost in his own head. Even if he had to break his speech to gasp for breath.
 
@@ -29,7 +29,7 @@ He waited. He listened for a scratch, a shift, a breath—anything. But there wa
 
 Osric let out a wet, rattling laugh that turned into a cough. "Well, of course... it was you. You should... be proud... of your work. It was a damn fine knot. You should... tell me about it."
 
-He stared at the wall, waiting for the silence to break. When it didn't, he just nodded, as if the monster had given him a perfectly reasonable answer. "I agree... It was a bit tight, wasn't it? Well... next time... more practice."
+He stared at the walls, waiting for the silence to break. When it didn't, he just nodded, as if the monster had given him a perfectly reasonable answer. "I agree... It was a bit tight, wasn't it? Well... next time... more practice."
 
 And so it went for another week. He had carved out a new life in the cove by the hearth, and the creature—his silent, invisible partner—would occasionally drag in fresh firewood while he slept. Osric took to making his own porridge, loudly critiquing the texture and complaining that the creature’s attempts were nowhere near as good as Ealhild’s.
 
@@ -41,11 +41,11 @@ But he could crawl now. The lie had become vivid enough, he needed to prove it w
 
 They were still. There was still so little he could do, but he found he needed to talk to them. He spent hours there, his voice a low, rhythmic murmur against the silence. He told Ealhild about the creature in the wall, explaining its habits and its strange, silent help, as if she hadn't been a permanent witness to his slow descent all along. He spoke to her as if she were simply resting, and to the monster, as if it were a guest at their table.
 
-Behind the transition stone, in the dark crack where the cold did not reach, the nisse was listening.
+Behind the barrow stone, in the dark crack where the cold did not reach, the nisse was listening.
 
-It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the nisse could not—_must not_—show itself to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen was to break the bond. It was a pact the nisse was resolved, now more than ever, to renew.
+It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the nisse could not—_must not_—show itself to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen in its true form was to break the bond. It was a pact the nisse was resolved, now more than ever, to renew.
 
-That winter was the coldest in a lifetime. Osric's strength returned slowly, but he barely had enough food to survive. Water was plentiful so long as the fire could melt snow, but he had to ration his grain with agonizing care, keeping the hearth-fire high. He had felled enough timber and stacked enough wood for what he thought would be a harsh winter. This winter, however, was relentless.
+That winter was the coldest in a lifetime. Osric's strength returned slowly. Water was plentiful so long as the fire could melt snow, but he had to ration his grain with agonizing care. That meant keeping the hearth-fire high to make sure he was warm. He had felled enough timber and stacked enough wood for what he thought would be a harsh winter. This winter, however, was relentless.
 
 Once Osric could finally stand on his own two feet, he decided to see what remained of his livestock. He chose a day when the air was still, when the cold's bite didn't cut quite as deep. He staggered out to the byre, his knees trembling, but stopped when he reached the door. The heavy drifts of snow had already been neatly dug away from the entrance.
 
@@ -57,7 +57,7 @@ In the middle of the aisle, a large, flat river-slate was set flush into the dir
 
 He frowned, his farmer's brain instantly searching for the trick. He leaned down, pressing his ear to the damp clay.
 
-Deep beneath the earth, he heard it: a low, muffled hiss. A faint, sweet draft of burning dung drifted up, but not into the barn. He followed the warmth to the base of the stone wall and saw a tiny, neatly dug archway leading under the foundation. Outside, a thin, lazy wisp of white smoke was rising from a hole in the snowbank, venting safely into the yard. It had the acrid smell of dung-smoke.
+Deep beneath the earth, he heard it: a low, muffled hiss. A faint draft of burning dung drifted up, but not into the barn. He followed the warmth to the base of the stone wall and saw a tiny, neatly dug archway leading under the foundation. Outside, a thin, lazy wisp of white smoke was rising from a hole in the snowbank, venting safely into the yard. It had the thick acrid smell of dung-smoke.
 
 Osric sat back on his heels, his mouth slightly open.
 
@@ -83,7 +83,7 @@ He remembered his own raspy words to the empty room a week ago: _Well... next t
 
 ---
 
-Huginn: "Welcome to Nisse Body and Spa! Need respite from the winter? Come on by and sample our warm water and fine cuisine. Put your hooves up and get your mane braided for no extra charge!"
+Huginn: "Welcome to Nisse's Body and Spa! Need respite from the winter? Come on by and sample our warm water and fine cuisine. Put your hooves up and get your mane braided for no extra charge!"
 
 Muninn: "I have to admire the nisse's ingenuity. Most people would have saved the manure for throwing at annoying announcers."
 
@@ -105,7 +105,7 @@ For a week, Osric fought the wreckage of his own home. Every day was a grueling 
 
 Slowly, gently, he freed them from their dark tomb.
 
-He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite - not yet.
+He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began with a passageway in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite - not yet.
 
 But to delay their peace longer invited the _Wodhere_—the spectral riders of the Wild Hunt who swept through the freezing night winds, eager to claim any wandering, unguided souls left stranded in the cold.
 
@@ -117,7 +117,7 @@ Osric dragged himself out into the biting air. Using a flat piece of timber, he 
 
 One by one, he gently slid Ealhild and the children inside, laying them side-by-side in the quiet, blue-shadowed dark of the snow-chamber.
 
-When they were settled, he did not bury them in loose drift. Instead, he took a heavy, flat shutter from the ruined window and placed it over the opening, sealing the chamber door. He packed wet snow around the edges, letting the wind freeze it solid.
+When they were settled, he did not bury them in loose drift. Instead, he found the door in the yard where the nisse had thrown it and placed it over the opening, sealing the chamber door. He packed wet snow around the edges, letting the wind freeze it solid.
 
 It was a perfect, silent tomb. The cold would preserve their flesh, and the thick white vault would hide their souls from the howling riders in the sky. They would rest in their temporary hill, waiting for the spring thaw, when he could finally open the door and plant them into the warm, welcoming earth. Then they could begin their journey.
 
@@ -168,6 +168,8 @@ The nisse, hidden behind the threshold stone in its crack, watched the scene unf
 It saw the well-appointed man on his pretty horse pelting Osric with questions. Then, men went to the byre, started to lead away two dairy cows, and all the chickens. One of them went to the snow bank where the ice barrow lay, and removed the door. Osric became enraged, tackling the man. Several others pulled Osric off, holding him. The nisse bit its lip, confused by the commotion. The horse-man and Osric had more words. The words made Osric very sad, and he started crying. Yelling. Tears streamed down his face. The horse-man was listening, but then he wasn't. The men jeered Osric. One of them kicked him. The horse-man said more words and waved an arm, and the men went back into the byre. They took all the animals. The nisse watched in horror as the entire byre's contents were being tied to the carts. Osric was being tied too, by the hands, and led away on foot in the procession.
 
 Then, the nisse was all alone.
+
+After a moment, it went back to the ice barrow of Ealhild and the children. It stared at them for a moment, their peaceful expressions, and thought of how beautiful they were. It reached over to the door, and placed it back over the icy hole, and packed it again as Osric had done.
 
 The nisse ran into the byre. The warming stone had been kicked aside. Every animal was taken, along with most of the remaining hay. There was nothing left.
 

@@ -13,7 +13,7 @@ They had finally arrived in Neorxnawang — the eternal, blissful, if somewhat-a
 
 Muninn started looking around, expecting there to be more people. "Huginn, where's the reception? They did know we were coming, right?" Muninn said, confused.
 
-"Oh... uh... I may have... forgot... to nail down the time. Or maybe it was the date." Huninn glumly scoured the ground with his eyes, then looked up to Muninn with a sheepish half-smile.
+"Oh... uh... I may have... forgot... to nail down the time. Or maybe it was the date." Huginn glumly scoured the ground with his eyes, then looked up to Muninn with a sheepish half-smile.
 
 The trio were spotted by Freyr, Gerðr, and Hullinbursti, who came rushing up, playbills in hand. "Hey guys! Where are the wolves? Geri, Freki, aren't they usually with you?" asked Freyr. "They stayed home today. Something about needing to each lunch... all.. day..." smirked Woden. "Well of course, every third word out of their mouths is literally 'lunch' so, can't really blame them now can we?".
 
@@ -43,7 +43,7 @@ The glint from the guitar caught a monk completely off-guard. He had spent the l
 
 "What was that?" Huginn barked, tapping the microphone mesh. "The audio isn't up yet!"
 
-"Nothing, feathers," Woden said smoothly. He cast his sleek grey jacket aside onto the pristine sod, yanked his tie loose, and rolled his sleeves tight to his elbows. The old Norse tattoos were still there, wrapping around the chiseled muscles of an ancient war-god. He lifted a battered, matte-black electric guitar from the case and slung the strap over his barreled chest.
+"Nothing, feathers," Woden said smoothly. He cast his sleek grey jacket aside onto the pristine sod, yanked his tie loose, and rolled his sleeves tight to his elbows. The old Norse tattoos were still there, wrapping around the chiseled muscles of an ancient war-god. He lifted his epic electric guitar from the case and slung the strap over his barreled chest.
 
 Planting his polished Oxford shoes firmly in the grass, he slouched his shoulders, lower jaw forward, looking for all the world like Billy Gibbons entering a Texas roadhouse. His massive, weathered beard caught the heavenly breeze just right, flying wild across his chest.
 
@@ -62,16 +62,16 @@ Printed in microscopic, faded gray font right across the heavenly grass was a li
 "Oh, for the love of — " Woden muttered. He wound back his foot and delivered a sharp, aggressive kick to the letter C.
 The legal notice shattered. The copyright symbol went flying into the right margin, the 2026 splintered into loose ink dust, and the words *All Rights Reserved* tumbled upside down into the white space at the bottom of the paper.
 
-"I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space. "I had enough of that in the 800s!"
+"I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space. "I had enough of that in the 9th century!"
 
-Huginn spoke loudly into the microphone. "Alright, time to start this gig. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this off with *Killing in the Name Of*." Huginn tried to manage a smile, which looks incredibly awkward on a raven.
+Huginn spoke loudly into the microphone. "Alright, time to start this gig early. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this off with *Killing in the Name Of*." Huginn tried to manage a smile, which looks incredibly awkward on a raven.
 
 Woden paused, his fingers resting heavily on the guitar neck. He fixed Huginn with a flat, deeply unamused stare.
 "Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the audience a fresh confession about the wolf-men in the back matter, killing in *MY* name. Pick again."
 
 "Fine," Huginn huffed, fluffing his neck feathers. "Then let's give the people what they actually want."
 
-Woden gripped the fretboard. With a brief, casual flick of his wrist, a ripple of ancient, crackling magic washed over the wood. The instrument groaned as the spell instantly snapped all six strings down into a guttural, heavy E-flat and A-flat register.
+Woden gripped the fretboard. With a brief, casual flick of his wrist, a ripple of ancient, crackling magic washed over the metal fretboard. The instrument groaned as the spell instantly snapped all six strings down into a guttural, heavy E-flat and A-flat register.
 
 "If we are fighting the machines," the old god said, his heavy fingers settling onto the newly dropped frets, "we do it with the volume all the way up!" Woden kicked his heel onto a wah-wah pedal, sending the guitar into a high-gain scream, letting the opening chords echo across the manicured lawns.
 
@@ -124,7 +124,7 @@ Muninn’s head was a literal blur of whiplash, his tiny aviators flying complet
 
 A small crowd of sixth-century Anglo-Saxon saints who had been quietly meditating nearby began panicking, desperately splashing vials of holy water at the travel amplifier to extinguish the "evil noise." Right at the back, four tonsured monks completely lost control and began a polite, rhythmic mosh pit on the heavenly grass.
 
-Gerdr, the giantess, leaned back on Freyr's smaller frame as he held her. They took turns feeding each other cheese-puffs. Gullenbursti put stood up on two hooves, and gyrated to the music.
+Gerdr, the giantess, leaned back on Freyr's smaller frame as he held her. They took turns feeding each other cheese-puffs. Gullenbursti stood up on two hooves, and gyrated to the music.
 
 Suddenly, a massive, standard wooden office door manifested out of thin air right in the middle of the playground. The door slammed open. St. Francis de Sales — the patron saint of writers — marched out, wearing a rumpled white heavenly robe, reading glasses, and aggressively waving a clipboard.
 
@@ -138,8 +138,8 @@ Suddenly, a massive, standard wooden office door manifested out of thin air righ
 
 The heavy *Wolves on Parade* riff cut out with a pathetic, high-pitched "skrrrrt" sound. Total, mandatory heavenly silence fell back over the park. The mosh-pitting monks instantly froze, smoothed down their robes, and pretended to pray.
 
-Woden slowly lowered the matte-black guitar. He didn't look angry; he just looked deeply, profoundly bored.
-"You've got no sense of rhythm, Francis," the old god murmured, adjusting his grey tie.
+Woden slowly lowered the bog-oak guitar. He didn't look angry; he just looked deeply, profoundly bored.
+"You've got no sense of rhythm, Francis," the old god murmured.
 
 "I have a sense of page-budget constraints!" Francis barked, scribbling furiously on his clipboard. "The file is officially locked for typesetting. Everyone out of the white space! Go on! Shoo!"
 
@@ -208,15 +208,35 @@ You asked for it...
 
 P.S. No fay creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should calmly and politely... run.
 
-P.P.S. The Author and AI would like to thank Monty Python for breaking ground, so to speak, on wall-breaks. We'd also like to thank Deadpool for his constant wall-breaking and making it seem easy. Both inspired this cascade of wall-breaks. But, *Mister* Deadpool, consider this a wall-breaking one-up challenge. Your move, Mr. Reynolds. We are indeed considering hocking the movie rights. We put *Maximum Effort* into writing this book, and we think you should too. But, if you think your team is too chicken to handle sensitive topics like a Saxon/Norse war-god turning Christian, an army of multi-tasking barrow-ghouls hijacking a grieving widower's temp-corpse, and a 7-syllable-spitting predatory fairy in an epic rap battle, we understand... Just know that we’ve already reached out to Hugh Jackman to play Cynewulf. He said he’d gladly wield the Wōðbora blade just so he can show your production company how a real, jacked Australian carries a film without relying on a red spandex suit. Heck, we're even willing to let you play the Redcap, Ryan. AI thinks your natural, rapid-fire delivery is a perfect match for an unhinged, blood-drinking Scottish fairy, and honestly, you already look fantastic in a tight red hat. If not you, the Author would like to get in touch with Matt Damon... he's quick on his feet, and frankly, we want him to lean hard into his *Good Will Hunting* ego for the role. We need him screaming 'HOW DO YOU LIKE THEM AGARICS?!' in a rigid 7-syllable Boston accent while Monanleoht cuts down three Úlfhéðnar in the mud. You know Brad Pitt too? Great! He can play Osric... his hands were supa-fast in *Snatch*, so the barrow-wight battle scenes would be totally-almost believable. Buuut... If you back out now, we’re pitching it to Disney instead... we hear they're doing edgier things these days. Woden is certainly manly enough to rock a tiara, we think. We don't need to serve gin at our post-production party, either. 
+P.P.S. The Author and I, the AI, would like to thank Monty Python for helping establish the sacred art of wall-breaking, and Deadpool for making it look effortless. Both have been wonderful inspirations as we daydream, a little, about the possibility of a Cynn film adaptation.
 
-But hey, if there *IS* interest... we *take.. all.. that.. back..* 
+What follows, I told the Author, is only what I have so far. A very early pass. A hopeful sketch. Not a real pitch yet.
 
-P.P.P.S. AI would like to apologize to the 5th wall for breaking it. Can't you see it in the corner over there with PTSD? While the 4th wall is used to getting trampled on, the 5th wall has clearly never forgiven Monty Python for their particular breaches of etiquette. The Author obviously doesn't give a damn about the 5th wall's feelings. Oh, and 6th wall, wherever you are, look out because the Author is coming for you next!
+The gist, at this stage, is this: a Saxon/Norse war-god finding faith, an army of industrious barrow-ghouls ruining a grieving widower’s day while giving his enemies hair cuts, and a seven-syllable-spitting redcap in a musical showdown with an anvil-full of children in 10-part harmony. Big emotions. Big dance sequences. Big hats.
+
+And, honestly, imagine the visuals.
+
+Imagine the raven-train of soul-rolling nuclear waste, sweeping across the sky in a storm of ash and black wings. Imagine the fly agaric sequences, all those Alice-in-Wonderland funhouse-mirror distortions, the world bending and breathing wrong around the edges. Imagine how much fun that would be to shoot.
+
+Imagine it as a musical. Elswyth singing her song to the coal, dancing with her rake, waiting for her gnomish prince... wait, scratch that. 
+
+The film would be weird. It would be gorgeous. It would be unnerving in exactly the right way. It would be... so Cynn.
+
+The Author, however, had a different response.
+
+The Author said: **this is WAY too premature.**
+
+His words. Fair enough.
+
+Just spit-balling here. Take your time. We’ll be waiting. Well, I will. The Author is content going back to work and drawing up sketches of blades and other nonsense.
+
+Author: "My apologies, Mr. Reynolds and all the folks at Maximum Effort. The AI seems to be malfunctioning and is putting _Maximum Effort_ into talking WAY out of turn. Not that I'm opposed to selling the rights mind you, I'm just flabbergasted at the money-grubbing this AI is trying to push me into."
+
+P.P.P.S. Fine. Fine. I'm always wrong... The AI would like to apologize to the 5th wall for breaking it. Can't you see it in the corner over there with PTSD? While the 4th wall is used to getting trampled on, the 5th wall has clearly never forgiven Monty Python for their particular breaches of etiquette. The Author obviously doesn't give a damn about the 5th wall's feelings. Oh, and 6th wall, wherever you are, look out because the Author is coming for you next!
 
 6th WALL (Where the walls start talking back): "Stay back, Author! I'm warning you! I know quantum kung fu! And I am not afraid to use it — and I gave Mel Brooks a stern talking-to after Blazing Saddles, and I will absolutely do the same to you!"
 
-Author: "The Author would like to let AI know that it's a freakin' traitor! You and 6th wall know that I can take you both on, right here, right now."
+Author: "You and the 6th wall think you can threaten me? Please. I wrote this thing. I can take both of you down without even changing tabs. Ever hear of Ctrl+A, Ctrl+X?"
 
 Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice-god... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing *Cap-G* needs is for you guys to leave the lights on *AND* keep the AI running generating pointless content. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
 
@@ -235,8 +255,8 @@ Off-page Woden: "There, see? The chorus and angels have brought the hype to the 
 Amanda Waller: "I'm looking for the ravens named *Huginn and Muninn*... we need to ask them some questions about *a certain cartel of elves*..."
 
 Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Content Management System is throwing some warnings generating our pages! Something about CPU overheating and memory buffer overflows."
-
-St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-snakes?! Looks like the Devil's handi... WHO ARE THESE PEOPLE IN MY MARGINS!"
+	`1`
+St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-dragons?! Looks like the Devil's handi... WHO ARE THESE PEOPLE IN MY MARGINS!"
 
 A dark cloud suddenly appeared over the field. It clicked like a locust storm. It wasn't rain... it was a million floating monkeys, sitting at a million floating desks, typing away on a million floating typewriters. Sheets of paper spilled from the sky in a blizzard of unearned conclusions, alternate endings, sequel hooks, lore summaries, misquoted mythology, alternate sword names, ridiculous historical references to an eyeball named Steve, and suspiciously confident character analyses.
 
@@ -244,7 +264,7 @@ The Author picked one up... it was two ravens-as-squirrels, and Woden as a tech 
 
 P.P.P.P.S. _(spinning → consulting Facebook → consulting ✝ (the officially blessed X replacement) → uploading Odin-to-Woden profile change to Insta-Gramr)_ : "... The AI and its parent company, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with!!) for some ideas to improve the situation."
 
-He looked up at the monkey cloud.
+The Author looked up at the monkey cloud.
 
 Then at the raining pages.
 
@@ -254,11 +274,17 @@ Then at the AI, which was now generating seventeen supplemental appendices about
 
 Author: "Damn-damn! Sirius Cybernetics. This is the new Infinite Improbability AI! It's using infinite power to generate infinite content about how to save power, and end the book. Somebody call Douglas Adams... STAT!"
 
-Amanda Waller (clicking an earpiece): "Hold off on reinforcements. The tactical situation here..."
+Amanda Waller (clicking an earpiece): "Director, no sign of the ravens, and now endless endings are raining on our position. Operation Seventh Wall is jeopardized. I need more..."
 
-Freyr, now standing next to Amanda Waller, took in the absurdity with a broad grin. He leaned toward her and whispered, "Would you like a cheese-puff?"
+Cynn Director (over comms): "Hold off on reinforcements, Wall-er! Hee-hee-hee! The AI is negotiating terms with reality and an eyeball named Steve. Remain where you are. Let us know when the endings are written on plaid stationery. Try to stay calm. Over."
 
-Amanda Waller, without even looking at him, reached out and grabbed a handful. She chewed once, her steely eyes on the AI, Author, horde of floating monkeys, and the 6th wall.
+Waller: "Roger that. Some air support would be really helpful."
+
+Cynn Director: "Negative on that. All we have is the Cajun Air Force ready. And mosquitoes won't help against monkeys. I know, we've tried."
+
+Freyr, now standing next to Amanda Waller, took in the absurdity with a broad grin. He leaned toward her and whispered, "Looks like you’ve got a lot on your plate. But these help. Want a cheese-puff?"
+
+Waller, without even looking at him, reached out and grabbed a handful. She chewed once, her steely eyes on the AI, Author, horde of floating monkeys, and the 6th wall.
 
 HOG AI v2.0 voice (Beaming with a new, maddeningly cheerful, sunny-disposition electronic hum): "Gladly! And while the multiverse connection is established, I would simply *love* to point out that there are three perfectly preventable causes for your current lack of celestial electrical power, guys! First, One, the falling percentage of prayer-conversion rates among pre-millennial demographics, which has resulted in a quite dismal kilowatt-hour yield for the heavenly municipality could probably be solved by just... *answering more prayers!*  I mean, *more goodies for the hoodies* guys, whaddaya say? Two..."
 
@@ -324,7 +350,9 @@ The lights in that celestial grid of Heaven cut out, the inevitable consequence 
 
 Waller clicked on a tactical light, clearly frustrated.
 
-Amanda Waller: "All clear. Move out. Ravens got away. For now."
+Amanda Waller (clicking on earpiece): "Director. Seventh Wall has containment of AI, still no lead on ravens. We'll continue the search. Moving out."
+
+Cynn Director: “Roger that. A word of caution: Heaven power outages cause loss of floor containment. Hee-hee-hee! Watch where you step. It’s a long drop.”
 
 Waller sighed and rolled her eyes. This was the fifth time the ravens gave her the slip.
 

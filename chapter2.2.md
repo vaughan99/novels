@@ -1,15 +1,15 @@
 
-## Chapter 2: The Tale of the Hearth-Warm Fyrdman
+## Chapter Two: The Tale of the Hearth-Warm Fyrdman
 
-### Part 2: The Bowl
+### Part Two: The Bowl
 
-The nisse waited until there was no hint of activity. It slipped out from its home, the crack between the door and the transition stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
+The nisse waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
 
-The nisse centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl." it thought. The nisse picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine - *most* acceptable. But what is... this??" She poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" She brought her finger to her snout and deeply inhaled. The last of the goblin-air tried to invade her lungs, a cloying sickness beneath the honey. The nisse realized instantly it was a sweetened doom.
+The nisse centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl." it thought. The nisse picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine - *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The nisse realized instantly it was a sweetened doom.
 
 The small nisse's fury burst forth on to its skin. The madness oozed from its pores like a grey miasma. Just as it leaked out, it breathed, and flushed back in through every pore and orifice. It swelled into every corner of the creature. It grew, its heart pumping miasmic hate out of, and back into its being.
 
-It was brought here. Given this land to tend. For twelve years, the nisse had watched from a tiny space between the home and the transition stone. It learned, listened, and protected. No wolves had approached the door. It picked all the blighted plants before their sickness could spread. It earned its keep. It earned respect.
+It was brought here. Given this land to tend. For twelve years, the nisse had watched from a tiny space between the home and the threshold stone. It learned, listened, and protected. No wolves had approached the door. It picked all the blighted plants before their sickness could spread. It earned its keep. It earned respect.
 
 The nisse's fury turned inward. The swelling touched every sinew, every muscle. It hardened and softened with every beat, becoming stone, then mud, over and over as it grew larger. The nisse grew to the size of a giant in the doorframe. It reached in one motion, tearing the door completely off with barely a flick of its wrist. The door flew through the air. With both hands, it grabbed beams of the doorway timbers that reached all the way into the ceiling. It lifted the entire thatch roof off the walls with a primal yet *silent*... scream. 
 
@@ -33,15 +33,15 @@ Osric was still clinging to life, but the goblins were beyond the nisse's magic.
 
 The nisse looked at the lower end of the house where the byre stood—a walled alcove of wattle and daub, sharing the cottage's long, thatched roof. It offered shelter from the biting wind and snow, far better than the exposed stalls. Luckily, it was far enough from the ruined doorway that the structure remained sound. The nisse also noticed that Osric had already moved the essentials—the troughs, the pails, the hay—in preparation for the move. There was a transfer grain chest here too, with enough grain for a few days. He had even banked the exterior walls with extra sod to keep the frost from creeping into the byre floor. It was the work of a man who knew the winter was at the door, and the final step was to move the livestock in. "Tomorrow," the nisse thought, its resolve hardening like its stone. "Food. Now."
 
-The cold was turning to a blizzard, the muddy miasma clung to the nisse like hardened frost-stone. It was harder to move now as the nisse wasn't a creature for the elements, it was meant to live under the home. Time was now critical.
+The cold was turning to a blizzard; the muddy miasma clung to the nisse like hardened frost-stone. It was harder to move now as the nisse wasn't a creature for the elements, it was meant to live under the home. But the nisse pushed forward. Time was now critical.
 
-The nisse grabbed two old pails and stumbled back toward the ruined eorth-hord. The blizzard was swallowing the world. Snow lashed its face and filled the air with a shifting white haze. Somewhere beneath the drifts lay the grain chests it had scattered in its fury. The larger chests could wait. The smaller things could not. Every gust pushed another layer of snow into the shattered storehouse. Crab-apples rolled between broken boards. Carrots vanished beneath drifts. Oats and peas spilled from torn sacks and disappeared into the white. The nisse dropped to its knees and began gathering what it could. One handful at a time.
+The nisse grabbed two old pails and stumbled back toward the ruined eorth-hord. The blizzard was swallowing the world. Snow lashed its face and filled the air with a shifting white haze. Somewhere beneath the drifts lay the grain chests it had scattered in its fury. The larger chests could wait. The smaller things could not. Every gust pushed another layer of snow into the shattered storehouse. Crabapples rolled between broken boards. Carrots and parsnips vanished beneath drifts. Oats and peas spilled from torn sacks and disappeared into the white. The nisse dropped to its knees and began gathering what it could. One handful at a time.
 
 The work was slow in the ruin.  More than once the nisse found itself digging through a mound of snow only to uncover something it had broken itself. Then its hand brushed against a cord darkened with oil. The nisse froze. It pulled the string free from the wreckage and stared at it.
 
 The oil-string. Such a small thing. Such a foolish thing. It remembered the knot. It remembered the scent. It remembered brushing its finger against the oil going into the grain chest to reward the horse for her loveliness. This was something it had seen before, another winter long ago. Another theft for another horse. Another set of dirty hands laying a string around a grain chest lid. "Clever Ealhild... she remembered her mother's lesson." Now the certainty felt like poison of its own. The nisse turned the cord over in its hands while the snow gathered upon its shoulders. This was where it began.
 
-At last it tucked the oil-string away and returned to its work. Every recovered vegetable, every scoop of grain, every salvaged scrap was carried back to the broken threshold and left inside the home for Osric in those two pails. "Two pails. One man. Three wraps of dried pork. One dried fish. Turnips. Crab-apples. Grain enough for porridge. Enough food for a careful man," it whispered. "That may be enough." The winter would take enough from this household without help from the nisse. Exhausted, it sat briefly on the barrow-stone.
+At last it tucked the oil-string away and returned to its work. Every recovered vegetable, every scoop of grain, every salvaged scrap was carried back to the broken threshold and left inside the home for Osric in those two pails. "Two pails. One man. Three wraps of dried pork. One dried fish. Turnips. Crabapples. Grain enough for porridge. Enough food for a careful man," it whispered. "If he's smart." The winter would take enough from this household without help from the nisse. Exhausted, it sat briefly on the barrow-stone.
 
 Then the nisse thought of the animals, and their grain chests.
 
@@ -53,7 +53,7 @@ The night was spent frantically in the white. Surveying. Remembering. Searching.
 
 And still, the work wasn't done.
 
-The sun was coming up. The blizzard was done, but the animals still needed to be moved. It grabbed a shovel and shoveled a path through from the stalls to the byre. It moved every animal. Fed every mouth.
+The sun was coming up. The blizzard was done, but the animals still needed to be moved. It grabbed a shovel and dug a path through from the stalls to the byre. It moved every animal. Fed every mouth.
 
 The sun was fully up when the nisse closed the byre door, collapsed, and crawled into a mound of straw, and fell fast asleep. 
 
@@ -63,7 +63,7 @@ When he tried to move, he instantly knew how weak he was. He looked down to see 
 
 His lungs heaved. Only then did the pain truly register. His back ached, though he could not remember why. The world tilted around him, his senses fraying at the edges as darkness gathered at the corners of his vision.
 
-It felt like the air in his lungs was simply gone. Like he was slowly drowning on dry land. He steadied his breathing, long and slow, to keep from falling back into the black.
+It felt like the air in his lungs was simply gone. Like he was slowly drowning like a fish on dry land. He steadied his breathing, long and slow, to keep from falling back into the black.
 
 He saw the ground. He was *on* the ground. Why? Questions flooded his addled mind, a frantic crowd of thoughts pushing on the walls of his skull. 
 
@@ -113,11 +113,11 @@ His eyes returned to the crabapple. It was small, almost pathetic, as if it was 
 
 He pulled himself from his thatch cave. He was too weak to stand, or even to crawl. His arms were heavy. His legs unresponsive. But he could move, and that was enough for the moment.
 
-With new-found clarity and light pouring in through the roof, he peered around the room. The house was a tomb of splintered wood and frost, but the air felt different near the partition wall. He caught a sound—a soft, rhythmic shuffling from the other side, where the house met the byre.
+With new-found clarity and light pouring in through the roof, he peered around the room. The house was a tomb of splintered wood and frost, but the air felt different near the partition wall. He caught a sound—a soft, rhythmic shuffling from the other side, where the house met the byre a few feet away.
 
 Then, unmistakable sniffing at a seam in the wall, and jarringly alive: _an oink._
 
-"Oh, now. Officially mad."
+"Oh, now... Officially... mad."
 
 The animals had been moved. He heard the unmistakable rustling and activity of the animals as clear as day. The family hog was sniffing at the seam where the daub had fallen away. He pulled himself to the wall, and tried to peer through.
 
@@ -129,7 +129,7 @@ He looked back at the wall. Suddenly, a tiny bit of daub pushed into the hole. T
 
 The daub didn't just fall; it was _pushed_? A deliberate, rhythmic pressure from the other side, as if something wanted to seal the wall.
 
-"Maybe one of the children survived? Is that possible? Maybe I miscounted?" The thoughts raced through his head.
+"Maybe one... of the children... survived? Is that... possible? Maybe... I miscounted?" The thoughts raced through his head, while his lungs still refused breath.
 
 "Ealhild? Little Ones?" he almost managed a normal tone. His breath was ragged though, as the adrenaline was driving his lungs harder than he could stand. But still there was no response. He laid there, on the floor, staring at the wall.
 
@@ -137,13 +137,13 @@ Another piece of daub pushed in, this time a foot higher.
 
 "_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica - the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
 
-He searched for a stick, and found one in the thatch. He pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before - the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
+He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before - the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
 
-"Ha-ha! See! You don't exist!" he challenged. His mind struggled under the weight of logic, and he was proud that he had restored the status quo. The world was back to being a simple, miserable place where things stayed where they were put.
+"Ha-ha! See! You don't... exist!" he challenged. His mind struggled under the weight of logic, and he was proud that he had restored the status quo. The world was back to being a simple, miserable place where things stayed where they were put.
 
 He stared at other parts of the wall. He waited, and there was no response. He gave a sharp breath to turn.
 
-"My eyes. The sickness... is in my eyes," he whispered. "I'm not mad. It's just the fever. The winter fever." He moved to pull himself away.
+"My eyes. The sickness... is in my eyes," he whispered. "I'm not mad... It's just the fever... The winter fever." He moved to pull himself away.
 
 The moment his head turned: _scrrrtch_
 
@@ -153,21 +153,21 @@ He lunged to the wall, hitting his head. He didn't feel the pain—only the fran
 
 But none would give him sight.
 
-"Show yourself," he rasped, his voice a jagged, terrified sound. "I'm not afraid of you."
+"Show yourself," he rasped, his voice a jagged, terrified sound. "I'm not... afraid of you."
 
 There was no answer. Only the silence of a house that was no longer a house, and the realization that whatever was on the other side wasn't just hiding—it was watching him through the very holes he had tried to use to spy on it.
 
-He let out a long, resigned breath in the cold air. "Back to mad," he said casually. He then announced to the entity across the wall: "Trolls drive men mad." There was no response. "You destroy my home, then repair my wall?"
+He let out a long, resigned breath in the cold air. "Back to mad," he said casually. He then announced to the entity across the wall: "Trolls... drive men... mad." There was no response. "You destroy... my home, then... repair my wall?"
 
 He dragged himself back to cove, but angled his head, locked onto the wall one last time.
 
-"Do you have... _anything_ to say?" he demanded. "Or are you going to sit there and sling mud at a wall?"
+"Do you have... _anything_ to say?" he demanded. "Or are you... going to sit there... and sling mud at a wall?"
 
 Then: _scrrtch_
 
 Another piece of daub entered another hole, higher up this time.
 
-Osric stared, and a slow, jagged smile crept across his face. He had finally yielded his mind. "Ha. Ha-ha! Fine! Have it your way. By the way, there's no straw in your mud. You're not one of my children; they know how to properly seal a wall."
+Osric stared, and a slow, jagged smile crept across his face. He had finally yielded his mind. "Ha. Ha-ha! Fine! Have it your way... By the way... there's no straw... in your mud. If... you were... one of my children... you'd know... how to properly... seal a wall."
 
 Then: _scrrtch_
 

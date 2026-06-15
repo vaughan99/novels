@@ -3,15 +3,15 @@
 
 ### Part2: The Cynn
 
-Deep in the heart of Leicester, behind the Jewry wall, lies the tall stone home of ancient giants. The home is free of human souls now, or so most people think as they pass by the crumbling arches in the dusk. The townsfolk cross themselves and quicken their pace, believing the red-brick vaults hold nothing but stagnant rainwater and the memory of the dead.
+Deep in the heart of Leicester, behind the Jewry wall, lies the tall stone home of ancient giants. The Romans built their walls high - so high that the townsfolk were convinced that they were giants indeed. The home is free of human souls now, or so most people think as they pass by the crumbling arches in the dusk. The townsfolk cross themselves and quicken their pace, believing the red-brick vaults may hold more than just stagnant rainwater and the memory of the dead.
 
-They are wrong.
+They are right.
 
 The ruins are not empty. The old forum may not carry the breath of humans or the tread of feet during the day, but the winds of the night avoid the spirits that ply their trade now. Deep within the roots of the stone, where the ancient giant hearths have been cold for centuries, a different kind of heat is waking. It does not smell of wood-ash, or the rancid fat of the Ulfhednar camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smells of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
 
 There is no wind beneath the earth, yet the soot on the low ceilings shifts and dances. If a man were to press his ear to the damp masonry, he would not hear the parchment-peace being discussed by the lords, nor the weary sighs of Cynewulf’s rearguard. He would hear a sound high and sharp, like a needle scraping through a burial shroud. He would hear the tiny, wet sound of a child’s giggle echo from the black furnace-mouths, followed by a low, hollow whistle.
 
-They do not work with the clumsy strength of mortal blacksmiths. These are the Weylands Cynn — the scattered bloodline of the Great Smith himself. Centuries ago, Weyland walked the earth at the height of his glory, leaving his genius stamped into the marrow of his descendants. The humans outside have forgotten the old master, focusing on their prayers, their stone angels, and their undignified simple steel of the hand. The Cynn remember the ancient foundry-marks. They look upon the junk in the barrel-pack — the copper cookware, the broken spear-point, the iron plowshare — and they do not see waste. They see the essence of the earth ready to make merry in the hand once more.
+They do not work with the clumsy strength of mortal blacksmiths. These are the Weylands Cynn — the scattered bloodline of the Great Smith himself. Centuries ago, Weyland walked the earth at the height of his glory, leaving his genius stamped into the marrow of his descendants. The humans outside have forgotten the old master, focusing on their prayers, their stone angels, and their undignified simple steel of the hand. The Cynn remember the ancient foundry-marks.
 
 The Cynn were not the only ones who remembered the old foundry-marks; the gods themselves were bound to the rhythm of the hammer. Long ago, the Aesir and the Vanir had shattered the world in a war of clashing domains—the cold, piercing steel of Woden’s host against the wild, verdant fury of Freyr’s kin. That ancient blood-debt had eventually cooled into a brittle, uneasy peace held together by the shared necessity of a changing world. Now, that fragile truce had brought them to this soot-stained forge, the only place where their disparate powers could be reconciled.
 

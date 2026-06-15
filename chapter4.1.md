@@ -1,4 +1,6 @@
-## Chapter 4: The Tale of the Bell's Deacon
+## Chapter Four: The Tale of the Bell's Deacon
+
+### Part One: The Bell Road
 
 This story starts earlier, 910 AD; Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
 
@@ -80,27 +82,22 @@ Cynewulf took the shield and axe. He grabbed a few valuable items off the table,
 
 He left Leicester, keeping to himself as he scurried to the next major town. He knew that pawning the good he had for silver in Leicester would be scorn-folly, so his new life must begin elsewhere. The town would come to forget his name. Perhaps he was a lamb sacrifice to the wolves that day, in their minds.
 
-For eleven years, Cynewulf took to the highwayman's life. He joined small war-bands, and fought for silver. He learned the way of the axe and sword. He fought battles for coin, but stole from villagers too. He knew captains, both evil and courageous. The mud of the road weighed on him like an anchor. He came to know only what thieves on the road come to know, that you are not welcome through the front door of places worth being. That your silver does not buy the respect... like the stole did. That you spend just as much time running from fights as towards them. And lastly, that you cannot trust the man next to you, as you both fight for the pittance of coin falling from other's purses.
-
-By the time he landed back in Leicester, the town had changed back to the way it once was. The Vikings were back, holed up in Leicester, barricaded for defense. And the Saxons were knocking on the door.
-
-But he had changed. He was more broken than whole — a man who had seen the evil in men’s hearts and decided he was no better. He had grown callous to the poor and indifferent to the wet-choke of a dying man's breath. He had slain men, women, and even children, and he did it with the same flat stare he once used to read the penitential. He had been almost slain more times than he could count, but death always seemed to blink first. His heart had been whip-stricken until it was nothing but scar tissue, feeling nothing, promising nothing.
-
-Cynewulf's warband was a mercenary in the battle on the Saxon side, and it was hollowed by the fighting. The parchment-peace came, but only after Cynewulf's band could only muster enough strength to rearguard the host. As the Vikings strode by, the Ulfhednar had already spied their prize. The giant ragged wolf, Rognvaldr, the Ulfhednar lieutenant, spied Cynewulf's thread-bare byrnie in the light, like a hunter might spy a deer-skin for his rack. He knew his next prize. And he didn't need Wolfhere's permission to take it.
-
 ---
 
-Huginn: "Look brother, the hollowed out priest is back to the hollowed out town! His church bells now ring for the raven-feast!"
+Huginn: "Wow, look at him go! Armor, weapons, church-silver, and a lifetime of regret! The whole package."
 
-Muninn: "Ravens saved their hunger Huginn. The night had more blood, remember?"
+Muninn: "The memory will surely haunt him. He didn't realize how good he had it, or how far he has yet to go."
 
-Huginn: "Yes, but the sound I hear are the bells, and now they're calling a new tune. The giggle-song of the forge-elves has found its breath. Do you hear them, Muninn?"
+Huginn, his eyes full of mischief: "Do you think he prayed on this before he made his decision? Two prayers: one to St. Christopher, for good travels. The other to St. Larceny of Felonious for fencing hocked silver goblets? Sounds like a balanced spiritual portfolio."
 
-Muninn: "I hear the silver-song. Not the lacking coins in the priest's purse, but the chime of the deep-iron calling to its kin. The Cynn are waking once more in the shadow of the Hill."
+Muninn: "No I don't think he prayed, or gave one thought to it. Very impetuous. Reminds me of a raven I know."
 
-Huginn: "Listen! High and sharp, like a needle through a shroud. That isn't the wind in the Leicester eaves... it’s the child-giggles of the makers. They're whistling while..."
+Huginn: "Hey! It could get worse. I could start quoting songs, like _Take the Money and Run_, or _Me and My Uncle_..."
 
-Muninn: "'they work'??? Really Huginn? They're not dwarves in a fairy-tale."
+Muninn: "You wouldn't dare."
 
-Huginn: "No, I suppose not. They are forge-masters at play. And play-time has begun."
+Huginn: "I totally would."
 
+Muninn: "Fine. I'll start quoting _Pulp Fiction_. 'And you will know MY NAME IS THE...'"
+
+Huginn: "Okay. Fine. Back to the story."

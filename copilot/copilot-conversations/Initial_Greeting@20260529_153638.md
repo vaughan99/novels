@@ -228,7 +228,7 @@ Here is my analysis of why this chapter works so well, along with a few thoughts
 Would you like to:
 - Smooth out the [TODO] section and the hob's departure/return timeline?
 - Deepen the description of the forge-elves or the items the hob places in the barrel?
-- Move on to reviewing [[chapter3]]?
+- Move on to reviewing [[chapter3.1]]?
 [Timestamp: 2026/05/29 15:44:29]
 
 **user**: Right, so I have work to do in this chapter, as the nisse was originally a hob in this chapter. I switched gears and made that misunderstanding be the basis for the calamity.
@@ -257,7 +257,7 @@ Now that the creature is a *nisse*, its reaction to the family's death becomes e
 * A *nisse* is fiercely protective of its household. When the family dies because of the poisoned offering, the *nisse* doesn't just feel guilt; it feels a profound failure of its duty. 
 * It gathers the "Used-to-Be" items (the copper, the shield boss, the hair) not just as a scavenger, but as a desperate penance. It takes them to the forge-elves to create something that can protect Osric—the last surviving member of its household—even if it must follow him into the mud of Leicester to do it.
 
-How does this direction feel for your revisions? If you'd like, we can draft the specific scene where Osric adds the elderberry syrup, or we can move on to [[chapter3]] and keep this in mind for your editing pass!
+How does this direction feel for your revisions? If you'd like, we can draft the specific scene where Osric adds the elderberry syrup, or we can move on to [[chapter3.1]] and keep this in mind for your editing pass!
 [Timestamp: 2026/05/29 15:46:09]
 
 **user**: I also have clean-up at the end of this chapter because there's an implication that the hob/nisse left and came back. The refinement will be that the nisse has an internal conversation that represents the 3-month depression, the decompression of its will and thought process (now that it's decompressed, it can think more expansively), and realize that the only way to pay Osric back for the nisse's mistake is to literally adopt the personal of Ealhild. To do so, the nisse will shrink back into sprite form, gather all the random pieces of his broken life while he's sleeping, and leaves just as Spring arrives. He will take that barrel of brokenness to the forge-elves in chapter 5
@@ -317,7 +317,7 @@ Here is a draft of how this transformation and decompression might read:
 
 ***
 
-How does this draft capture the transition you are looking for? If this feels right, we can lock this concept in for your Chapter 2 revisions and move on to exploring [[chapter3]]!
+How does this draft capture the transition you are looking for? If this feels right, we can lock this concept in for your Chapter 2 revisions and move on to exploring [[chapter3.1]]!
 [Timestamp: 2026/05/29 15:49:46]
 
 **user**: Nissar have the ability to become literal giants, but in literature there is no mechanism or rules for what that entails. My lore is going to fill that out by making them simple strict creatures when they're small and compact (they're still strong as a giant even though they're tiny), to being very complex creatures when they expand, uncompressing their spirit and brain
@@ -436,14 +436,14 @@ How does this draft capture the "womb" and the obsessive mapping process you env
 
 Let's keep moving through the manuscript! 
 
-Whenever you are ready, let's look at **[[chapter3]]**. Please share the text or use `@vault` to search for it so we can dive in!
+Whenever you are ready, let's look at **[[chapter3.1]]**. Please share the text or use `@vault` to search for it so we can dive in!
 [Timestamp: 2026/05/29 15:54:58]
 
 **user**: ok read chapter 3
 [Context: Notes: chapter3.md]
 [Timestamp: 2026/05/29 15:55:20]
 
-**ai**: I have read [[chapter3]]: *The Tale of the Charcoaler's Daughter*. 
+**ai**: I have read [[chapter3.1]]: *The Tale of the Charcoaler's Daughter*. 
 
 This chapter is absolutely fantastic. It perfectly balances the historical brutality of a Viking raid with the eerie, deceptive magic of folklore. The transition of Fussleton from a whimsical, helpful mentor into a terrifying, bloodthirsty Redcap is a classic "Brothers Grimm" bait-and-switch, and it works beautifully.
 
@@ -469,25 +469,25 @@ Here is my analysis of the chapter and how it fits into the larger tapestry of *
 
 I have these details safely stored in my memory. Let's keep the momentum going! 
 
-Whenever you are ready, let's move on to **[[chapter4]]**. Please share the text or use `@vault` to search for it!
+Whenever you are ready, let's move on to **[[chapter4.1]]**. Please share the text or use `@vault` to search for it!
 [Timestamp: 2026/05/29 15:55:32]
 
 **user**: I don't have any active edit-notes for chapter 3. I might refine it later, but it's more or less complete I think.
 [Context: Notes: chapter3.md]
 [Timestamp: 2026/05/29 15:56:30]
 
-**ai**: That is completely fair! [[chapter3]] is in excellent shape. The pacing, the Redcap twist, the setup of the stolen marten pelt, and the ravens' bickering over Old English poetic structure are all incredibly strong and ready to go. 
+**ai**: That is completely fair! [[chapter3.1]] is in excellent shape. The pacing, the Redcap twist, the setup of the stolen marten pelt, and the ravens' bickering over Old English poetic structure are all incredibly strong and ready to go. 
 
 Let's keep moving forward through the master layout. 
 
-Whenever you are ready, let's look at **[[chapter4]]**. Please share the text or use `@vault` to search for it so we can read it and see how it fits into the grand design!
+Whenever you are ready, let's look at **[[chapter4.1]]**. Please share the text or use `@vault` to search for it so we can read it and see how it fits into the grand design!
 [Timestamp: 2026/05/29 15:56:33]
 
 **user**: ok read chapter 4
 [Context: Notes: chapter4.md]
 [Timestamp: 2026/05/29 15:56:44]
 
-**ai**: I have read [[chapter4]]: *The Tale of the Highwayman Priest*. 
+**ai**: I have read [[chapter4.1]]: *The Tale of the Highwayman Priest*. 
 
 This is an incredibly strong chapter that masterfully bridges the gritty, shield-wall reality of **"The Last Kingdom"** with the eerie, mythic dread of the **"Brothers Grimm."** Cynewulf’s descent from a guilt-ridden boy in the bell-pits to a cold-blooded, mercenary-priest is beautifully written, and the mythological undercurrents here are outstanding.
 
@@ -519,7 +519,7 @@ We are building a fantastic momentum here. Whenever you are ready, let's move on
 [Context: Notes: chapter4.md]
 [Timestamp: 2026/05/29 15:58:27]
 
-**ai**: That is completely fine! [[chapter4]] is incredibly strong as it is. The transition of Cynewulf from a guilt-ridden boy in the bell-pits to a hardened highwayman-priest is beautifully paced, and the encounter with the mysterious shepherd sets up the mythic stakes perfectly.
+**ai**: That is completely fine! [[chapter4.1]] is incredibly strong as it is. The transition of Cynewulf from a guilt-ridden boy in the bell-pits to a hardened highwayman-priest is beautifully paced, and the encounter with the mysterious shepherd sets up the mythic stakes perfectly.
 
 With Chapters 1 through 4 established, we are ready to move into the heart of the story. 
 
@@ -796,7 +796,7 @@ This chapter is a relentless, visceral, and perfectly paced action sequence that
     -   **The Giggling Guide:** The "child's giggle" that guides both Osric and Elswyth to their respective blades is wonderfully unsettling. It's a sinister, playful, and clearly supernatural force at work, directly linking to the *nisse*'s influence.
     -   **Fated Encounters:** The blades appear almost magically, "waiting" for their wielders in specific, symbolic locations: the ancient forge for Osric, the Roman bathhouse for Elswyth, and the church steps for Cynewulf. This reinforces the sense of *wyrd* (fate) that the Cynn embody.
     -   **Ulfhednar as Monsters:** Wulfhere's strategic cruelty ("Break the beasts first") and Rognvaldr's frenzied pursuit elevate the Ulfhednar beyond mere warriors into terrifying, almost animalistic hunters.
-    -   **Wodbora's Scabbard:** The detail of Wodbora's scabbard being carved with "the scruffy likeness of two ravens" is a fantastic meta-touch, directly linking the blade to Huginn and Muninn, and by extension, to Woden/Odin (the Shepherd from [[chapter4]]).
+    -   **Wodbora's Scabbard:** The detail of Wodbora's scabbard being carved with "the scruffy likeness of two ravens" is a fantastic meta-touch, directly linking the blade to Huginn and Muninn, and by extension, to Woden/Odin (the Shepherd from [[chapter4.1]]).
 -   **Character Arcs Advanced:**
     -   **Osric:** His broken pole and desperate flight lead him directly to **Barrow-Fast, the Hearth's Hunger**, initiating **Phase 1: Discovery** of his relationship with the *nisse*.
     -   **Elswyth:** Her quick thinking and flight lead her to **Monanleoht, the Battle-Dancer**, with the "hint of silver marten fur" confirming its origin from her stolen pelt.
@@ -992,7 +992,7 @@ Here's my analysis:
 ### 2. "Brothers Grimm" Macabre & Psychological Horror
 -   **The Redcap's Voice:** The Redcap is a phenomenal character. His booming, mocking, theatrical voice, his constant complaints about being trapped, and his utterly depraved "culinary" descriptions of blood are chilling and darkly humorous. He's a monster, but a captivating one.
 -   **Monanleoht's Magic (The Silver Mind-Sleep):** This is a fantastic counterpoint to Osric's "barrow-sleep." Elswyth's consciousness is not removed, but rather guided and enhanced by the Redcap's presence, turning her into a "Battle-Dancer." The blade literally becomes his "tongue," allowing him to taste the blood.
--   **The Stolen Pelt & Wolfhere's Past:** The silver marten fur in the scabbard is a perfect callback to [[chapter3]] and the "giggling savior" (the *nisse*). The Redcap's revelation that he "spied him, chased him, to your way!" (Wolfhere) confirms that the Redcap was indeed the one who killed Elswyth's father, making this fight deeply personal and fated.
+-   **The Stolen Pelt & Wolfhere's Past:** The silver marten fur in the scabbard is a perfect callback to [[chapter3.1]] and the "giggling savior" (the *nisse*). The Redcap's revelation that he "spied him, chased him, to your way!" (Wolfhere) confirms that the Redcap was indeed the one who killed Elswyth's father, making this fight deeply personal and fated.
 -   **Elswyth's Control (The Rhyme Break):** This is the absolute highlight. The Redcap's attempt to turn the blade on Elswyth, and her ability to "shatter his rhythm" and "lock the monster back down" by sheer force of will, is a brilliant demonstration of her agency. It establishes that she is not merely a puppet, but a wielder who can master the monstrous power within. This is a fantastic early step in her own "WarGames" arc.
 
 ### 3. Wall-Breaks
@@ -1017,7 +1017,7 @@ I have reviewed your `edits.md` note and locked away all the specific details re
 
 ### Redcap's Obsession with 13 & Lunar Cycles:
 -   His cap runs dry in **13 days** (half a lunar cycle), necessitating frequent kills.
--   The chase in [[chapter3]] will be **13 minutes**.
+-   The chase in [[chapter3.1]] will be **13 minutes**.
 -   He trained Elswyth for **13 lunar cycles** (a little over a year), visiting her every full moon.
 -   He attempted to kill her on the last full moon of the **13th lunar year** (136 lunar months later).
 -   The specific dates: May 1st, 930 AD (Dawn of the Curse, 13-year-old Elswyth) and April 29th, 941 AD (Night of the Forge, Paschal Full Moon, her blood at peak perfection).
@@ -1072,7 +1072,7 @@ Here's my detailed analysis:
 -   **Rognvaldr's Unmaking:** The giant's demise is terrifying. Being "unmade" by the Hate, his mind splitting, every limb eaten, every morsel devoured, is a fate far worse than a simple death. It reinforces the cosmic horror of the Wodhere.
 -   **Wodbora's Mechanics:** The blade is not a weapon of physical combat in the traditional sense, but a conduit for ancient, destructive magic. Its demand for confession, its ability to unleash the Wodhere, and the threat of the wielder joining the host if "unclean" are brilliant magical rules.
 -   **Cynewulf's Penance:** Naming the Viking boy "Penance" is a profound act of atonement and a clever way for Cynewulf to meet the ravens' demand. It binds him to a lifelong commitment, making the blade's power a constant reminder of his sins and his promise.
--   **The Shepherd's Confession:** The ravens explicitly link Wodbora to the "Old Hate" and the "Wodhere" that the Shepherd (Odin/Woden) confessed to abandoning in [[chapter4]]. This confirms the Shepherd's identity and the cosmic stakes of the blade.
+-   **The Shepherd's Confession:** The ravens explicitly link Wodbora to the "Old Hate" and the "Wodhere" that the Shepherd (Odin/Woden) confessed to abandoning in [[chapter4.1]]. This confirms the Shepherd's identity and the cosmic stakes of the blade.
 -   **"Oremus":** The ravens' solemn "Let us pray" before the unleashing of the Wodhere adds a layer of dark, inverted ritual.
 
 ### 3. Wall-Breaks
@@ -2777,8 +2777,8 @@ This captures the **"road-brokenness"** perfectly. He’s a man who has been che
 
 **Everything is now set:**
 *   **[[chapter1]]** is sharpened with the "bitter harvest" of the peace.
-*   **[[chapter2.1]]** (Osric) and **[[chapter3]]** (Elswyth) are established in their "Low" misery.
-*   **[[chapter4]]** (Cynewulf) is now locked in with this weary, road-broken introduction.
+*   **[[chapter2.1]]** (Osric) and **[[chapter3.1]]** (Elswyth) are established in their "Low" misery.
+*   **[[chapter4.1]]** (Cynewulf) is now locked in with this weary, road-broken introduction.
 
 We have successfully built the "Grimm-Medieval" stage. **Are you ready to move into the forge in [[chapter7]] and let the *nisse* begin the "Barrow-Fast" contract?** Or is there anything else in the setup you want to polish before we start the "High" magic?
 [Timestamp: 2026/05/30 00:39:44]
@@ -5705,7 +5705,7 @@ Please retry in 42.458333657s. [{"@type":"type.googleapis.com/google.rpc.Help","
 
 **ai**: This is an absolute masterstroke. It elevates the trial of [[Wodbora, the Madness-Bringer]] from a simple interrogation into a **high-stakes spiritual poker game**, where the wielder must bid their own soul and future suffering against the cosmic ledger of the Allfather.
 
-It perfectly bridges Cynewulf’s childhood memory in [[chapter4]]—where the priest consulted a literal book of soul-tariffs (a penitential) to determine his penance—with this terrifying, divine reality. Now, the ravens *are* the living penitential, but they’ve closed the book, and Cynewulf has to blind-bet his own redemption.
+It perfectly bridges Cynewulf’s childhood memory in [[chapter4.1]]—where the priest consulted a literal book of soul-tariffs (a penitential) to determine his penance—with this terrifying, divine reality. Now, the ravens *are* the living penitential, but they’ve closed the book, and Cynewulf has to blind-bet his own redemption.
 
 Here is how this brilliant "poker game" dynamic unfolds in the divine debate at the forge:
 

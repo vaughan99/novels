@@ -1,16 +1,23 @@
-# The Cynn: Master Manuscript Layout - 
-
+ 
 [[title]] - 
 [[prologue]] -
 [[chapter1]]
 [[chapter2.1]]
-[[chapter3]]
-[[chapter4]]
+[[chapter2.2]]
+[[chapter2.3]]
+[[chapter3.1]]
+[[chapter3.2]]
+[[chapter3.3]]
+[[chapter4.1]]
+[[chapter4.2]]
+[[chapter4.3]]
+[[chapter5.1]]
 [[chapter5.2]]
 [[chapter6]]
 [[chapter7]]
 [[chapter8]]
 [[chapter9]]
+[[chapter10]]
 [[epilogue]]
 [[afterword]]
 [[afterlife]]

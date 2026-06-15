@@ -10,15 +10,15 @@ Muninn: "That's ONE! One sin against the children's ears!"
 
 Muninn aggressively scratch the bench with the feather's quill.
 
-Huginn: "It has important moral lessons, brother! Look at the hob. He learned to be less greedy, was forgiven for h. The murder-gnome? He self-reflected for eternity in a steel mirror, and learned a new culinary pastime. And the priest, the chaos sword forced him to become a better person EVERY TIME HE TOUCHED IT! Don't lecture me about morality!
+Huginn: "It has important moral lessons, brother! Look at the nisse. She and her hubby got to play out the clock on the Wild Hunt and live in Alfheimr forever. The murder-gnome? He self-reflected for eternity in a steel mirror, and learned a new culinary pastime. And the priest, the chaos sword forced him to become a better person EVERY TIME HE TOUCHED IT! Don't lecture me about morality!
 
 Muninn continued, unabated.
 
-Muninn: "TWO! A mother and her two children *poisoned* ... TO DEATH ... by some easy-to-get berries? Might as well chronicle the Anarchist's Cookbook while we're at it."
+Muninn: "TWO! A mother and her two children *poisoned*... TO DEATH ... by some easy-to-get berries? Might as well chronicle the Anarchist's Cookbook while we're at it."
 
 Muninn made another scratch.
 
-Muninn: "THREE! A grieving widower is jammed into a winter meat-locker with a monster for THREE MONTHS, then you torture him in the mud, THEN he gets abducted by the same monster-turned-wifey while his kids hack away at Viking-weeds? 11 out of 10 on the horror meter!"
+Muninn: "THREE! A grieving widower is jammed into a winter meat-locker with a monster for THREE MONTHS, then you torture him in the mud, THEN he gets abducted by the same monster-turned-wifey while his kids hack away at Viking-weeds? 11 out of 10 on the weirdo-horror meter!"
 
 Muninn made another scratch, yet deeper.
 
@@ -36,7 +36,7 @@ Huginn: "But it had a happy ending! They all... survived!"
 
 Muninn dropped the pen.
 
-Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf Montessori school acting like a black-ops Amanda Waller and weaponized a ghoulish crying tiny-giant crammed into a kitchen utensil, an abducted shroom-addled foul-poet Chucky doll, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas next winter, Huginn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Huginn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
+Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf Montessori school acting like a black-ops Amanda Waller and weaponized a bunch of undead warriors pretending to be children "harvesting eggs from a _male_ chicken", an abducted shroom-addled foul-poet Chucky doll, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas, Huginn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Huginn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
 
 Huginn: "Well, I'm sorry I took five thousand, one hundred and twenty-three bites from YOUR corpse-meal! The children like gravy on their meat, Muninn. You like your meals stone-cold, and dry."
 
@@ -84,11 +84,11 @@ Woden looked at the boy, truly seeing him — a rare spark of the old world surv
 
 He leaned forward, tracing a faint rune in the dirt with the tip of his cane.
 
-"Osric buried the sword, lad. He couldn't break it - the spirits would have been lost to the Wild Hunt. He couldn't carry it either - his mind and body broke every time he saw his old family. He knew that to truly live, he had to let their memory... die. Eventually... he found his new hearth. He took a wife and built a hall where the air always smelled of honey and stew, just as the blade promised. He knew that hard work could never be replaced by the illusions of the past. He died a grandfather with a full belly and kin at his feet. His home is gone now, collapsed and buried under three feet of English mud, but Barrow's Edge remains hidden, somewhere. The threat of Woden is moot now... the Hunt is no longer. The magic is faded, I think, but if one of Osric's kin were to find the sword, it might just... open up to them."
+"Osric buried the sword, lad. He couldn't break it - the spirits would have been lost to the Wild Hunt. He couldn't carry it either - his mind and body broke every time he saw his old family. He knew that to truly live, he had to let their memory... die. Eventually... he found his new hearth. He took a wife and built a hall where the air always smelled of honey and stew, just as the blade promised. He knew that hard work could never be replaced by the illusions of the past. He died a grandfather with a full belly and kin at his feet. His home is gone now, collapsed and buried under three feet of English mud, but Barrow's Edge remains hidden, somewhere. The threat of the Hunt is no longer. The magic is faded, I think, but if one of Osric's kin were to find the sword, it might just... open up to them."
 
 "And the small one? Meadow-Bud?" the boy asked.
 
-"Elswyth lived a long life, too," Woden nodded. "But the *Mōnanleoht* took its toll. By the end, the redcap's words flowed like gentler, over smoother teeth. But his wisdom made the town feel too loud. She left her cottage and walked into the deep woods. I met her soul myself when she finally let go — I guided her out of the thicket and toward the Great Hall in the sky, for we were kin by then. But her blade? She left it buried deep within the roots of an ancient oak. It only shines when the moon is exactly right. She couldn't bear the thought of another keeping the blade, so she made sure she was its only, and last, owner. Fussleton faded away, and now the blade is... well, just a blade. Hiding deep in a forest."
+"Elswyth lived a long life, too," Woden nodded. "But the *Mōnanleoht* took its toll. She knew that it would be hard to control the beast it unleashed. Over time, she quieted his darkness, but she had to abandon life at the forest edge. She left her cottage and walked into the deep woods and lived there the rest of her life. I met her soul myself when she finally let go — I guided her out of the thicket and toward the Great Hall in the sky, for we were kin by then. But her blade? She left it buried deep within the roots of an ancient oak. It only shines when the moon is exactly right. She couldn't bear the thought of another keeping the blade, so she made sure she was its only, and last, owner. Fussleton faded away, and now the blade is... well, just a blade. Hiding deep in a forest."
 
 The boy bit his lip. "And the man with the... tornado sword? The one who confessed?"
 
