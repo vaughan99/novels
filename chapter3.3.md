@@ -114,7 +114,7 @@ Per sanguinem Agni, et per radicem arboris,
 Seal this ground. I am your humble servant.
 ```
 
-("Christ on the Cross, be to me a shield, stand before me. Christ on the Cross, be to me a fire, guard me in the night. From the spotted king in the wood, From the spirit children who trap souls, By the blood of the Lamb, and by the root of the tree, Seal this ground. I am your humble servant.")
+("Christ on the Cross, be to me a shield, stand before me. Christ on the Cross, be to me a fire, guard me in the night. From the Spotted King in the wood, From the spirit children who trap souls, By the blood of the Lamb, and by the root of the tree, Seal this ground. I am your humble servant.")
 
 She crossed herself, but her fingers traced the sign not just in the air, but toward the four corners of the sleeping hole, as if pinning the walls to the ground. She prayed for a barrier. She prayed for the Church’s stone to be as hard as the forest’s wood, and for the "God of the Bells" to be louder than the giggles in the dark.
 

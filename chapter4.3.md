@@ -5,7 +5,7 @@
 
 There are times when the lessons of the Road are not enough for survival. There are times when you cannot bargain. You cannot run, or hide. You are faced with the seconds of frightening decision: the steel's draw or the ditch. The Road may teach you how to survive the journey, but the Sword teaches you how to survive the destination. These are the lessons of the Sword.
 
-The call came in the spring of 934. Athelstan was marching north, and the King’s shadow was stretching all the way to the Scottish highlands. Every road was choked with levies, every scriptorium was drowning in requisitions for grain, iron, and men. It was the perfect storm. The stolen seal was fine for providing more coin, more grain, and better morale. But the seal doesn't fight wars. Soldiers do.
+The call came in the spring of 934. Athelstan was marching north, and the King’s shadow was stretching all the way to the Scottish highlands. Every road was choked with levies, every scriptorium was drowning in requisitions for grain, iron, and men. It was the perfect storm. The stolen seal was fine for providing more coin, more grain, and better morale. But a forged seal doesn't fight wars. Soldiers do.
 
 A rider from the King arrived.
 
@@ -25,7 +25,7 @@ _Fer-Main_ didn't reach for the parchment. Instead, he cast a sideways glance t
 
 _Fer-Main_ called out to Cynewulf. "Look at the ink. Tell me if the King's silver weighs as much as his words."
 
-Cynewulf stepped forward, his black leathers creaking. He took the parchment from the rider’s hand. His fingers, still stained with the charcoal and lead of his own forgery, unrolled the stiff sheepskin. He knew the Winchester hand; he knew the exact formulaic Latin of Athelstan’s chancery. He scanned the lines, his eyes lingering on the green wax seal.
+Cynewulf stepped forward, his black leathers creaking. He took the parchment from the rider’s hand. His fingers unrolled the stiff sheepskin. He knew the Winchester hand; he knew the exact formulaic Latin of Athelstan’s chancery. He scanned the lines, his eyes lingering on the green wax seal.
 
 "The script is genuine," Cynewulf said, his voice steady and clear. "The terms are as he says. However, the salvage rights exclude any lands belonging to the Bishopric of Durham."
 

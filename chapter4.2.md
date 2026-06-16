@@ -201,7 +201,7 @@ Muninn: "And if he starts saluting everyone and carrying supplies, I’m making 
 
 ---
 
-For a few years, Cynewulf trained with the _Griffons Noirs_ and their arms master. He earned every bruise and cut, every hurt feeling and every backhand. His frustration often boiled over, his ember-hate flaring like a guttering candle, but the master was an absolute professional. He didn't lecture or preach; he let his fists do the teaching, hammering the pride out of Cynewulf until only the soldier remained. It was a brutal, wordless education, and by the time it was over, Cynewulf had learned the most important lesson of the Sword: that a man’s feelings are a luxury he cannot afford when the steel is drawn. **In the space of a heartbeat, you are either the predator or the prey.**
+For a few years, Cynewulf trained with the _Griffons Noirs_ and their arms master. He earned every bruise and cut, every hurt feeling and every backhand. His frustration often boiled over, his ember-hate flaring like a guttering candle, but the master was an absolute professional. He didn't lecture or preach; he let his fists do the teaching, hammering the pride out of Cynewulf until only the soldier remained. It was a brutal, wordless education.
 
 To act as the face of the company, he was gifted black fur-trimmed clothing, access to soap, and the use of a strong pony. He spent hours every week in _Fer-Main’s_ pavilion, reporting on negotiations. _Fer-Main_ was a demanding lord, but fair. They would spend moments over wine discussing the campaign or the distant, sun-drenched life back in Frankia.
 
@@ -269,7 +269,7 @@ _Fer-Main_ didn't speak much, but he knew the weight of a tool when he held it.
 
 The mercenary captain didn't offer praise; he offered a horse. A destrier, still wild-eyed and trembling from the breaking-pen, stood waiting by the tent. Beside it lay a set of black leathers, oiled and supple, the mark of a man who belonged to the inner circle of the company.
 
-Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He was the company’s secret weapon. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel. The other Frank cavalrymen didn't accept him - they didn't need to. He had accepted himself, and that was more important than all the silver in _Fer-Main's_ purse.
+Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen didn't accept him - they didn't need to. He had accepted himself, and that was more important than all the silver in _Fer-Main's_ purse.
 
 Blessed are the impatient, for they see the shortcuts on the Road. Blessed are the smart, for they shall forge the keys to the gates. Woe to those who take the long way around, for they shall lose their silver to the bandits and the taxman.
 

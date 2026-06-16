@@ -255,7 +255,7 @@ Off-page Woden: "There, see? The chorus and angels have brought the hype to the 
 Amanda Waller: "I'm looking for the ravens named *Huginn and Muninn*... we need to ask them some questions about *a certain cartel of elves*..."
 
 Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Content Management System is throwing some warnings generating our pages! Something about CPU overheating and memory buffer overflows."
-	`1`
+
 St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-dragons?! Looks like the Devil's handi... WHO ARE THESE PEOPLE IN MY MARGINS!"
 
 A dark cloud suddenly appeared over the field. It clicked like a locust storm. It wasn't rain... it was a million floating monkeys, sitting at a million floating desks, typing away on a million floating typewriters. Sheets of paper spilled from the sky in a blizzard of unearned conclusions, alternate endings, sequel hooks, lore summaries, misquoted mythology, alternate sword names, ridiculous historical references to an eyeball named Steve, and suspiciously confident character analyses.
@@ -344,7 +344,7 @@ click
 
 Voice from above (Cap-G): "THANK YOU! ... SHEESH!"
 
-The flood of paper raining from the sky stopped, and the monkey cloud winked out of existence, in a puff of absolute illogical absurdity.
+The flood of paper raining from the sky stopped, and the monkey cloud winked out of existence, in a puff of _illogic_.
 
 The lights in that celestial grid of Heaven cut out, the inevitable consequence of cutting the power.
 
@@ -356,7 +356,7 @@ Cynn Director: “Roger that. A word of caution: Heaven power outages cause loss
 
 Waller sighed and rolled her eyes. This was the fifth time the ravens gave her the slip.
 
-Amanda Waller: "Sixth Wall—I'm leaving my card. Quantum kung-fu? Congratulations. You're a task force now. I want briefings on close-quarters entanglement, tactical quantum teleportation, and plausible deniability across multiple timelines. Twenty-four hours."
+Amanda Waller: "Sixth Wall—I'm leaving my card. Quantum kung-fu? Congratulations. You're a task force now. I want briefings on close-quarters entanglement, tactical quantum teleportation, and plausible deniability across multiple timelines. Twenty-four hours. No matter the timeline."
 
 She reached into Freyr's bag of cheese puffs, took one final handful, and nodded to Freyr on her way out.
 
