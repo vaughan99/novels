@@ -1,6 +1,6 @@
 ## Chapter Four: The Tale of the Bell's Deacon
 
-### Part One: The Bell Road
+### Part One: The Liturgy of the Bell
 
 This story starts earlier, 910 AD; Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
 

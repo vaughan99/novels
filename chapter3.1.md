@@ -34,14 +34,15 @@ They would offer prayers to saints by the glow of the coal-fire. They owned no B
 
 Before every large burn, they would gather hands, and pray:
 
-"
-_Saint Alexander, soot-skinned bishop,_  
-_Who walked the darkwood and knew the smoke,_  
-_Guard our pit from the greedy flame._  
-_Let the wood sleep, let the iron-fuel wake._  
-_Keep the wind quiet, keep the earth tight,_  
-_And wash our souls clean of the soot we wear_
-"
+```
+Saint Alexander, soot-skinned bishop,
+Who walked the darkwood and knew the smoke,
+Guard our pit from the greedy flame.
+Let the wood sleep, let the iron-fuel wake.
+Keep the wind quiet, keep the earth tight,
+And wash our souls clean of the soot we wear
+```
+
 
 The family had their pagan superstitions too. When harvesting time for the coal would come, her father would point out some loss at the edges of the pit. He didn't seem worried though, because he called it an offering. "The elves are finicky things, Meadow-Bud. Best leave them to pinching the coal." Elswyth cut her father off, "Yes, 'else we might wake to a burning roof.' I remember father!" 
 

@@ -101,7 +101,7 @@ Trembling, she grabbed her coaler's shovel. She buried the shards of the murder-
 
 She spent the rest of the morning curled in her sleeping hole, just as she had in the log-hollow on the night of the wolves. She pressed her forehead against the cold, damp earth—the same earth that had just swallowed a monster's knife—and whispered the words she had learned from the priest at the Shadow Gate. The priests had taught the peasants a lorica - a patterned prayer of protection - against the _Coaler-Wight_. Against _**her**_.
 
-The priests at the gate tried to teach the lorica in Latin. Most of the peasants just listened, confident in the rhythm and sound was a shield against the dark. To know it, one must only hear it. Others tried to learn the Latin, but they were illiterate. Their tongues stumbled on the foreign sounds and lost the cadence. For them, speaking a few words was protection enough. Elswyth, however, memorized the Latin on the fifth hearing. She had the benefit of listening to the rhythm of the coal, the crackle of the wood, and her ears picked up every nuance. The priests had taught them where to inject their own words for the evil warded by the lorica - to personalize it.
+The priests at the gate tried to teach the lorica in Latin. Most of the peasants just listened, confident in the rhythm and sound was a shield against the dark. To know it, one must only hear it. Others tried to learn the Latin, but their ears didn't find the rhythm. Their tongues stumbled on the foreign sounds and lost the cadence. For them, speaking a few words was protection enough. Elswyth, however, memorized the Latin on the fifth hearing. She had the benefit of listening to the rhythm of the coal, the crackle of the wood, and her ears picked up every nuance. The priests had taught them where to inject their own words for the evil warded by the lorica - to personalize it.
 
 She summoned that spell to memory, and put the raw madness of what she had just seen into it. She rocked back and forth to the rhythm of the chant, almost singing into the dark:
 
@@ -128,7 +128,7 @@ She reached into her pocket, pulled out the Alexander Stone, and placed it firml
 
 Huginn: "Tell me again that wasn't _Mission Impossible_! The agents came and saved her from the bad guy."
 
-Muninn: "They were not agents, Huginn. They were the Cynn. They did not 'save' her; they needed him for their larger project, remember?"
+Muninn: "They were not agents, Huginn. They were the Cynn. They didn't just 'save' her; they needed him for their larger project, remember?"
 
 Huginn: "And you see, the stone? It's totally a tactical perimeter alarm. She’s definitely an operative now, brother. She’s got the gear, she’s got the code-names, and she’s got the secret bunker. The giggles were a secret code language. They gave _Agent Meadow-Bud_ her new orders."
 

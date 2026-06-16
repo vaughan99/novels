@@ -1,7 +1,49 @@
 
 ## Chapter Four: The Tale of the Bell's Deacon
 
-### Part Three: The Ash Road
+### Part Three: The Liturgy of the Sword
+
+There are times when the lessons of the Road are not enough for survival. There are times when you cannot bargain. You cannot run, or hide. You are faced with the seconds of frightening decision: the steel's draw or the ditch. The Road may teach you how to survive the journey, but the Sword teaches you how to survive the destination. These are the lessons of the Sword.
+
+The call came in the spring of 934. Athelstan was marching north, and the King’s shadow was stretching all the way to the Scottish highlands. Every road was choked with levies, every scriptorium was drowning in requisitions for grain, iron, and men. It was the perfect storm. The stolen seal was fine for providing more coin, more grain, and better morale. But the seal doesn't fight wars. Soldiers do.
+
+A rider from the King arrived.
+
+The rider did not look like a man who had traveled the Road; he looked like a man who had been carved out of the King’s own iron. He sat his horse in the center of the camp, the royal banner snapping in the wind like a warning. He wasn't here for mercenaries; he was here for a vanguard.
+
+_Fer-Main_ stepped out of his tent, his hand resting casually on the pommel of his sword. He didn't bow. He didn't need to. He was the law of the camp, and the King’s rider knew it.
+
+"The King requires a path through the Northumbrian marshes and into the highlands to the North," the rider announced, his voice flat and devoid of warmth. "He needs a way-finder. A herald with a sword. Your _Griffons Noirs_ will carry the way and force the road to yield. We are moving heavy and fast. You're the only company with the means."
+
+_Fer-Main_ didn't budge. He spat into the dirt near the rider’s stirrup. "The King’s banner is fine silk, but my men don't bleed for fabric. Where is the charter?"
+
+The rider’s jaw tightened, but he reached into his leather dispatch case and pulled out a rolled parchment, heavy with a green wax seal—the King's own mark.
+
+"Signed by the Chancellor at Winchester," the rider said. "Three shillings a day per lance, salvage rights to any Norse-held holdfast north of the Tees, and a hundred pounds of silver upon the King's unhampered crossing of the Tweed."
+
+_Fer-Main_ didn't reach for the parchment. Instead, he cast a sideways glance toward the shadows of the forge.
+
+_Fer-Main_ called out to Cynewulf. "Look at the ink. Tell me if the King's silver weighs as much as his words."
+
+Cynewulf stepped forward, his black leathers creaking. He took the parchment from the rider’s hand. His fingers, still stained with the charcoal and lead of his own forgery, unrolled the stiff sheepskin. He knew the Winchester hand; he knew the exact formulaic Latin of Athelstan’s chancery. He scanned the lines, his eyes lingering on the green wax seal.
+
+"The script is genuine," Cynewulf said, his voice steady and clear. "The terms are as he says. However, the salvage rights exclude any lands belonging to the Bishopric of Durham."
+
+_Fer-Main_ let out a dry, humorless grunt. He looked up at the rider, a cold, knowing smirk playing on his lips.
+
+"Then let's hope the highwaymen have cleared Durham by our arrival," _Fer-Main_ said. "Because I won't touch them without salvage rights."
+
+The rider’s jaw tightened. He knew exactly what the mercenary captain was saying. The _Griffons Noirs_ were the vanguard; their job was to sweep the road. If they chose to ride right past the Durham bandits and leave them be, the King’s heavy baggage train and royal clerks would be left wide open to every ambush between the Tees and the Wear.
+
+But the parchment was already sealed. The rider couldn't change the terms now.
+
+"The King expects a clear road, _Fer-Main_," the rider warned, his voice dropping.
+
+"The King gets what he pays for," _Fer-Main_ replied, snatching the charter from Cynewulf’s hands and tucking it into his belt. "Tell the King his vanguard is moving."
+The rider gave a single, stiff nod, wheeled his horse, and spurred it back toward the royal column.
+
+"Saddle up!" _Fer-Main_ roared, turning to the camp. "We ride north!"
+
 
 
 
