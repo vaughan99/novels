@@ -3,7 +3,9 @@
 
 ### Part Two: The Liturgy of the Road
 
-The road does not care for confessions, nor does it grant absolution. But it is a priest. A very stern one. When it gives sermons, it asks questions of its flock: How much weight do you carry? Who should you trouble with questions, and who should just receive a nod? What is your bearing to others? What will you eat? Did you bring water? And, who looks like... a mark?
+_The road does not care for confessions, nor does it grant absolution. But it is a priest. A very stern one. When it gives sermons, it asks questions of its flock: How much weight do you carry? Who should you trouble with questions, and who should just receive a nod? What is your bearing to others? What will you eat? Did you bring water? And, who looks like... a mark?_
+
+_These are the lessons of the Road._
 
 For the first three days out of Leicester, Cynewulf carried a world of silver, or so it seemed. The boy's shield was hung over his back, and the axe he stole was stuffed into his belt. The sack of stolen church plate and goblets made his left hand numb with pain, while the small chest of coin rubbed his right hip raw. He wore the thegn's donation - the stolen iron byrnie - over his priestly woolens, the mail cold and greasy against his ribs. 
 
@@ -39,7 +41,7 @@ The leader continued. "No, sorry. We have no room for thieves..."
 
 "And manicured hands," the final one said.
 
-The leader finished, "No, we're all filled up. Except, we are missing something rather important. Silver..." He stepped forward, his spear-point leveling at Cynewulf’s throat. "Leave the sack. Leave the chest. Run back to your altar, little clerk, before we see if your blood runs as red as sacramental wine."
+The leader finished, "No, we're all filled up." He stepped forward, his spear-point leveling at Cynewulf’s throat. "Leave the sack. Leave the chest. Run back to your altar, little clerk, before we see if your blood runs as red as sacramental wine."
 
 Cynewulf’s mind raced. The "ember-hate" of his youth flared, but so did the cold, hard instinct of survival. He looked at the three spears.
 
@@ -47,9 +49,11 @@ With a grunt, he swung the heavy sack of silver directly into the leader's face.
 
 He ran until his lungs burned like the bell-pit. He kept his byrnie, his axe, and his shield, clutching them to his chest like holy relics. Behind him, the bandits did not pursue; their laughter echoed through the trees, rich and mocking, as they counted their easy wealth.
 
-Cynewulf lay in a ditch of rotting leaves, weeping not for his sins, but for his stupidity. On the Road, there were only those who eat, and those who were eaten.
+Cynewulf collapsed in a ditch of rotting leaves, weeping not for his sins, but for his stupidity.
 
-So sayeth the Road.
+_On the Road, there were only those who eat, and those who were eaten._
+
+_So sayeth the Road._
 
 ---
 
@@ -69,19 +73,13 @@ The year that followed was a slow, grinding rot.
 
 Cynewulf learned to live like a beast. The bell-strong deacon of Leicester withered away, replaced by a lean, hollow-cheeked creature with dirt ground into the pores of his face and lice nesting in his matted hair.
 
-He listened to the preaching of hunger, and readings from the Book of Winter:
+The Road taught him lessons that no priest could ever preach. In the summer of 930 AD, he lived like a scavenger, sleeping in the hollows of fallen oaks and surviving on raw wild onions and the stolen eggs of ground-nesting birds. By autumn, he had fallen in with a desperate band of five outlaws, but when they ambushed a merchant near Nottingham, his "brothers" vanished the moment the guards drew steel, leaving him to drag a wounded leg through the brambles alone. He never trusted a partner again. When winter arrived, the cold became a more persistent enemy than the Danes. He survived by stealing a sheep from a Saxon stead, slitting its throat in the dark to eat the liver warm and raw—a desperate, bloody fuel to keep his chest from freezing—and wrapping his feet in the stiff, frozen hide to keep the frost from claiming his toes.
 
-- In the summer of 930 AD, he slept in the hollows of fallen oaks, eating raw wild onions and the eggs of ground-nesting birds.
-- In the autumn, he joined a desperate band of five outlaws. They fell upon a merchant near Nottingham, but when the merchant’s two guards drew steel, Cynewulf’s "brothers" fled, leaving him to drag a wounded leg into the brush. He never trusted a partner again.
-- In the winter, the cold was a worse enemy than the Danes. He stole a sheep from a Saxon stead, slit its throat in the dark, and ate the liver warm and raw to keep his chest from freezing. He slept with the frozen lamb hide wrapped around his feet to keep the frost from taking his toes.
-
-By the spring of 931 AD, he took up with small, vicious bands, staying only long enough to share a meal and a theft, slipping away in the dead of night before they could cut his throat for his boots. He learned to swing the axe not with holy fury, but with a dull, mechanical efficiency. A blow to the knee to disable; a blow to the temple to quiet.
-
-But he was still a small sinner in a wide world. A scavenger eating the scraps left by the great lords of war.
+By the spring of 931 AD, he took up with small, vicious bands, staying only long enough to share a meal and a theft, slipping away in the dead of night before they could cut his throat for his boots. He still didn't know war or even combat; he knew that standing silently with an axe in your hand was intimidation enough to earn a little coin. But he was still a small sinner in a wide world. A scavenger eating the scraps left by the great lords of war.
 
 That changed in the late autumn of 931 AD, near the salt-marshes of the Humber.
 
-He saw them riding through the grey mist—forty men on heavy, destrier-bred horses, clad in mail blackened with oil to hide the glint of steel. They were not Saxons, nor Danes. They were Franks, mercenaries who had traded the vineyards of the Seine for the mud of the Danelaw. They carried no banners, save for a single, tattered standard depicting a **Griffon Noir**—a Black Griffon with wings spread wide, its talons stained in a permanent, rusted red. The talons were gripping a sword, as if they carried fury in flight into battle. They were the _Griffons Noirs_, led by a man the locals called the Iron-Grip, though his own men proudly named him _Fer-Main_.
+He saw them riding through the grey mist—forty men on heavy, destrier-bred horses, clad in mail blackened with oil to hide the glint of steel. They were not Saxons, nor Danes. They were Franks, mercenaries who had traded the vineyards of the Seine for the mud of the Danelaw. They carried no banners, save for a single, tattered standard depicting a **Griffon Noir**—a Black Griffon with wings spread wide, its talons stained in a permanent, rusted red. The talons were gripping a sword, as if they carried fury in flight into battle. They were the _Griffons Noirs_, led by a man the locals called the _Iron-Grip_, though his own men proudly named him _Fer-Main_.
 
 Cynewulf did not offer them God’s peace. He did not ask to join them.
 
@@ -143,7 +141,7 @@ _"Audio te Latine loqui,"_ he said, his voice low. _"Non possum ubique esse, p
 
 Cynewulf's mind flared. His Latin was useful, truly useful to the _Griffons Noirs_. "Convenit," he replied.
 
-"Good." _Fer-Main_ switched to Old English. His accent was precise, his cadence unnervingly perfect, as if he had spent hours practicing the vowels in the dark of his tent. "Your mail is dirty. Black oil, sand. Over there." He pointed toward the armorer's tent, which was already being folded for the day's march. "I do not repeat myself. I do not tolerate rust. I do not tolerate incompetence. Rusty mail means an early grave."
+"Good." _Fer-Main_ switched to Old English. His accent was precise, his cadence unnervingly perfect, as if he had spent hours practicing the vowels in the dark of his tent. "Your mail is dirty. Black oil, sand. Over there." He pointed toward the armorer's tent, which was already being folded for the day's march. "I do not repeat myself Saxon. I do not tolerate rust. I do not tolerate incompetence. Rusty mail means an early grave."
 
 _Fer-Main_ turned to leave. "I know six languages. I'll give you wine from my tent if you can teach me a seventh." He did not smile. His seriousness cut like a razor. "Or teach me something I don't already know."
 
@@ -153,13 +151,13 @@ _Fer-Main_ went still. "Explain."
 
 Cynewulf didn't flinch. "You fight for coin, but you are always at the mercy of the men who write the contracts. You are always the outsider. But with the scriptorium... you can grease the wheels of the road."
 
-He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. Bronze is a demanding mistress - it requires heat, precision, The bullae of the deeds and scrolls are made of lead - easy to melt, easy to cast, easy to modify. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can write a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
+He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. Bronze is a demanding mistress - it requires heat, precision. The bullae tongs of the deeds and scrolls are made of bronze - easy to make for someone who knows how. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can write a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
 
 The captain’s eyes narrowed, a flicker of genuine, predatory interest crossing his face. He didn't ask if it was moral; he only saw the utility.
 
 "Our own scriptorium," _Fer-Main_ repeated, the word tasting like iron on his tongue. "Very well, Priest. We shall see if you are as useful as you are bold. What do you need?"
 
-Cynewulf didn't hesitate. "Vellum. Oak galls and iron filings for ink. A scraping knife. And the next time we take a church, tell your men not to melt the leaden seals."
+Cynewulf didn't hesitate. "Vellum. Oak galls and iron filings for ink. A scraping knife. Access to the forge with a hot fire. Casting sand. Lead for the bullae. I'll need the smith to make tongs once the dies are made."
 
 _Fer-Main_ left without saying a word.
 
@@ -169,9 +167,9 @@ Cynewulf, his joints aching, helped pack up the camp. When they left, Cynewulf f
 
 He learned a powerful lesson that day. The Road doesn't care about a great many things. It doesn't care for your prayers or your past. But it does care with whom you keep company, and if you are useful. Striking out alone is a death sentence—a truth Cynewulf nearly learned in a ditch of rotting leaves, weeping not for his sins, but for his stupidity. 
 
-To form a pack, you need charisma. To participate in a pack, you need utility. The charismatic lead the men; everyone else must serve a purpose to the pack. And the Road? The Road's ditches wait for the ones who have neither.
+_To form a pack, you need charisma. To participate in a pack, you need utility. The charismatic lead the men; everyone else must serve a purpose to the pack. And the Road? The Road's ditches wait for the ones who have neither._
 
-So sayeth the Road.
+_So sayeth the Road._
 
 ---
 
@@ -205,9 +203,7 @@ For a few years, Cynewulf trained with the _Griffons Noirs_ and their arms mas
 
 To act as the face of the company, he was gifted black fur-trimmed clothing, access to soap, and the use of a strong pony. He spent hours every week in _Fer-Main’s_ pavilion, reporting on negotiations. _Fer-Main_ was a demanding lord, but fair. They would spend moments over wine discussing the campaign or the distant, sun-drenched life back in Frankia.
 
-_Fer-Main_ knew what he had bought. He knew the man sitting across from him was a priest, a man of the cloth who had traded his stole for an axe. He treated Cynewulf like a prized, dangerous hound—one that could be taught to hunt, but might still bite the hand that held the leash. They spoke of many things, but personal moments were not shared lightly. Both men understood the truth: in the _Griffons Noirs_, a priest was a tool, and a tool was only as valuable as its edge.
-
-Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla was a particularly deep two-sided impression. The bulla was lead, and the dies of the double-bulla were typically bronze in the shape of tongs, whose alignment needed to be perfect. If he could get the Arch-Bishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable. Then, using sand and molten bronze, a perfect forged bulla tong die can be made. The new bulla tongs could then be used to punch lead disks to parchment, to create official-looking documents.
+Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. The bulla was lead, and the dies of the bulla tong's alignment needed to be perfect. If he could get the Arch-Bishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable. Then, using sand and molten bronze, a perfect forged bulla tong die can be made. The new bulla tongs could then be used to punch lead disks to parchment, to create official-looking documents.
 
 The disk had to be perfect though. Lead tends to spread at the edges of imprints, making it inferior for a negative for a die cast. Cynewulf worked with the smith, with access to rarer metals, to craft an alloy. Several trials and failures. Finally, his last try: lead, a bit of tin, a bit of antimony.
 

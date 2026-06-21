@@ -1,5 +1,7 @@
 ## Chapter 6: The Night of Blood
 
+[TODO What to do with the Dragon's Teeth?]
+
 The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled in the shadow of Leicester's jagged fringe, just outside the yawning, ruined arches of the ancient Roman marketplace.
 
 The mud here was a thick, sucking soup mixed with late-spring snow, thick enough to pull iron-bound wheels clean off their pins and snap seasoned ash wood like dry twigs.

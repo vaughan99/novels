@@ -2,6 +2,67 @@
 
 ### Part Three: The Rhyme Was There
 
+[TODO: ]
+
+> **Huginn:** I have just heard a most outrageous accusation.
+> 
+> **Muninn:** Have you?
+> 
+> **Huginn:** Apparently I spent years masquerading as an elderly grave-tender.
+> 
+> **Muninn:** The evidence is compelling.
+> 
+> **Huginn:** How dare you.
+> 
+> **Muninn:** You do enjoy graveyards.
+> 
+> **Huginn:** Many people enjoy graveyards.
+> 
+> **Muninn:** You enjoy them more than most.
+> 
+> **Huginn:** That does not mean I stole an old woman's body to play practical jokes on the villagers.
+> 
+> **Muninn:** I said nothing about practical jokes.
+> 
+> **Huginn:** So the rumor came from you?
+> 
+> **Muninn:** If you say so.
+
+**Huginn:** Sceaduwīf was a perfectly respectable woman.
+
+**Muninn:** Mm.
+
+**Huginn:** Entirely her own person.
+
+**Muninn:** Naturally.
+
+**Huginn:** Possessed of independent thoughts.
+
+**Muninn:** On occasion.
+
+**Huginn:** I am beginning to regret bringing you.
+
+**Muninn:** At least nobody suspects I was the ferryman.
+
+**Huginn:** Nobody?
+
+**Muninn:** Nobody reasonable.
+
+**Huginn:** You spent three years living on a raft.
+
+**Muninn:** Boats are pleasant.
+
+**Huginn:** You charged her a penny.
+
+**Muninn:** Professional standards.
+
+**Huginn:** You refused to reveal where she lived.
+
+**Muninn:** Confidentiality.
+
+**Huginn:** You were absolutely the ferryman.
+
+**Muninn:** Allegedly.
 
 April 29th, 941 was the night of the last full moon of the gnome's promise. By then, the Saxons were hard at work trying to dismantle the Viking army's grip on Leicester. Soldiers were active on the outskirts of town. They had confiscated supplies along the tree-line of the village, but they heeded the warnings of the _Coaler-Wight_, and stayed clear of Elswyth's hut. 
 

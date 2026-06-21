@@ -2,6 +2,10 @@
 
 ### Part One: The Liturgy of the Bell
 
+_A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no-one tells the bell-maker when the bell will toll for him._
+
+_These are the lessons of the Bell_.
+
 This story starts earlier, 910 AD; Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
 
 Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
@@ -54,7 +58,7 @@ My sin is not the spilt blood of sheep. My sin is that I'm abandoning the wolves
 
 The heavy, weeping weight of the shepherd's confession vanished in a heartbeat, replaced by a glint in the old man's weathered eyes. The shepherd continued, his voice steadying as if telling an ancient tale.
 
-"There is a final curse I must mention. I saw it in the night. It was a flight of both light and dark in the sky, of black wings and spectral clouds. It sounded as a wolf howl and a rattle of bones in the sky. It was a Hate... a Wodhere... from the Old Times."
+"There is a final curse I must mention. I saw it in the night. It was a flight of both light and dark in the sky, of black wings and spectral clouds. It sounded as a wolf howl and a rattle of bones. It was a Hate... a Wodhere... from the Old Times."
 
 Cynewulf's neck hairs tightened. He needed to know more; this man's soul depended on it. "Describe this Hate, please." His politeness was a ruse, because the revelation hit him hard, like a heavy Bible dropped flat against his palm. Cynewulf steeled his ears for the coming tale.
 
@@ -65,6 +69,10 @@ Cynewulf thought hard. What could he possibly do for this man? In the moment of 
 Cynewulf was still fumbling for his penitential, trying to look up something — anything — that could give him guidance when the phrase hit like a fresh-struck bell. Remember me well? Cynewulf thought. He snapped his eyes back up, but the grey shepherd had not only gotten up; he was halfway out the door already with his staff. Cynewulf couldn't remember hearing the wood-clack or the shuffle of the shepherd's retreat.
 
 That last confession struck him as odd. Trained wolves? Who was this shepherd? How is it he came to know Latin, when he could barely speak English? "He probably overheard one of the priests speaking in Latin," he thought, easing his mind. "The old man was probably obsessing over this bit of Latin as he tended his flock. That's how he perfected the pronunciation. It's nothing." Cynewulf had tried to put the confession out of mind, but it stayed with him the rest of his days.
+
+_Bells may ring. Whether you hear them depends on where you stand, and whether you choose to listen. A bell may toll directly before you, loud enough to shatter the air, but if you decide not to hear? You might as well be deaf._
+
+_So sayeth the Bell._
 
 Summer in 930 AD arrived, and the black day of Leicester's village-folk had arrived. It was the day of the Ulfhednar strike in Leicester, the day Elswyth was chased into the forests. The Saxon guards of Leicester were complacent shepherds that day, and the Ulfhednar saw a lamb for the taking.
 
@@ -80,7 +88,13 @@ Cynewulf stood and watched as the floor of his priest-home pooled with blood. He
 
 Cynewulf took the shield and axe. He grabbed a few valuable items off the table, and the chest on the ground. And he ran. He was tired of the hum-drum work of the church. He was tired of pinching coin when he could be grabbing it by the handfuls. He never got to see the world, but heard so many stories about it from the confessions. Living cloistered on church grounds, he longed to see the open road. He decided to become a mercenary. He could learn the soldier-trade, and easily had enough money to get started.
 
-He left Leicester, keeping to himself as he scurried to the next major town. He knew that pawning the good he had for silver in Leicester would be scorn-folly, so his new life must begin elsewhere. The town would come to forget his name. Perhaps he was a lamb sacrifice to the wolves that day, in their minds.
+He left Leicester, keeping to himself as he scurried under the weight of the silver. He knew that pawning it in the city would be scorn-folly; his new life had to begin elsewhere. In time, the town would forget his name. Perhaps, in their minds, he was merely a lamb sacrificed to the wolves that day.
+
+The bells called out to warn the town of the raid. They announced the arrival of the end, and they ignored Cynewulf as he ran.
+
+_The bells, large and small, announce the turning points in a life: Birth, Baptism, Communion, Marriage, Death. But there is no bell sound for the abandonment of a vocation or a life. There is no warning when the choice is irreversible. Bells do not toll for the unwise._
+
+_So sayeth the Bell._
 
 ---
 

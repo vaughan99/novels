@@ -2,6 +2,11 @@
 
 ### Part One: The Hunters of the Pit
 
+[TODO: Rework 943]
+[TODO: Rework Church -> Bellpits -> graveyard -> shadow gate -> Roman necropolis -> marsh -> River Soar -> Charnwood] 
+[TODO: Add Rōwerearm the ferryman - respected her father, takes St Christopher very seriously, unspoken oath of not caring about other people's business]
+[TODO: Add Sceaduwif the grave-tender - ]
+
 Back in 930 AD, Elswyth and her parents lived in a coaler's hut, a small squat building of stone walls and thatch roof. Back then, Elswyth was of ten winters, and she had been learning the family trade. Her father, Godwine, would brave the Charnwood forest to find the best hardwood with his felling axe, and Elswyth and her mother Eadgyth would manage the coalpits with their rakes and smaller hand axes. It was hot, smelly, thankless work. 
 
 Godwine was a man who read the forest like a prayer book. He ignored the soft, useless pine and the brittle willow, his eyes always scanning for the silver-grey bark of the beech or the deep, furrowed skin of an ancient oak. He knew the weight of the wood by the way it swung in his hand, and he knew which logs would turn to 'glass-coal' and which would crumble to grey dust before the pit was even half-cooked. Few of the villagers foraged in the Charnwood; they said it was home to spirits... and spirit-makers. Godwine was used to the rhythm of the forest. He looked past the shadows to find his wooden quarry.

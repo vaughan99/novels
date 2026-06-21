@@ -113,7 +113,30 @@ She remembered her father's rule, leaving the crumbling, half-burnt edges of the
 
 She had no sacks to store the coal, so she had to steal. She didn't want to alarm the villagers, so she thought it best to try the church yard. So late one night, she approached the Shadow Gate. The two grotesques looked at her with their disdain, but to her, they looked almost comical in the moonlight. The gate did not draw tight, and she was able to slip into the graveyard.
 
-On tender feet, she moved quietly to the bell-pits. The smell of copper tang was still lingering, and she found her quarry: the refuse pit. She dug in the trash, looking for torn sacks. There were several. She took all she found, and some tiny brass scrap that could be fashioned into a needle, and brought them into the forest. By the moonlight, she mended the rips with pine roots and linden bast. Fussleton had taught her how he fashioned clothes, and this came in handy.
+On tender feet, she moved quietly past the graveyard towards the bell-pits.
+
+"Who goes there?" An old woman's voice, softened by time, arose from behind a wooden cross buried in the dirt, marking a grave. "You'll wake the spirits if you sneak too close."
+
+The woman was Sceaduwif, the church grave-tender. She was dressed in a simple grey woolen dress, her knees and elbows stained with the dark, damp earth of the pits she tended. She held a rag in her hands, methodically wiping the dirt from a headstone.
+
+Elswyth took a few steps back and froze, but prepared to run. "Aren't you waking the spirits now?" she replied, her voice steady despite the hammering of her heart.
+
+"Oh, they know me, dear. I sing to them every night," Sceaduwif said, not looking up. She gestured with a gnarled finger toward the ossuary. "Are you here looking for your father, dear? He’s over there, in Raider’s Row. All the souls that died the day the wolves came are buried together."
+
+Elswyth’s grip on the axe loosened, her gaze drifting to the long, uneven mound. "They don't look like they're resting."
+
+"They’re resting," Sceaduwif rasped, finally looking up with eyes milky but sharp. "It’s the living who can’t seem to find peace. You’re the girl from the coal-pits, aren't you? The one who vanished into the smoke."
+
+
+[TODO]
+
+If you’re looking for the refuse sacks, they’re behind the bone-chest. And if you’re looking for a place to hide your coal so you don't have to haul it through the woods like a pack-mule, the floorboards under the bier are loose."
+
+Elswyth blinked, stunned. "Why?"
+
+Morwenna finally looked up, her eyes milky but piercing. "Because the living in this village have forgotten how to be quiet, and the dead are tired of the noise. You’re the only thing left that still breathes the old air, coal-maid. Keep your fire low, and keep your secret."
+
+to the bell-pits. The smell of copper tang was still lingering, and she found her quarry: the refuse pit. She dug in the trash, looking for torn sacks. There were several. She took all she found, and some tiny brass scrap that could be fashioned into a needle, and brought them into the forest. By the moonlight, she mended the rips with pine roots and linden bast. Fussleton had taught her how he fashioned clothes, and this came in handy.
 
 The villagers soon noticed the strange, silent activity. They saw no smoke by day, but they heard the rhythmic, metallic _clink-clink_ of coal being sorted in the dead of night. They smelled the hint of smoke on the wind some mornings, wisps of dark fog coming from the yard. They whispered of the "_Coaler-Wight_" that lived by the graveyard, a restless spirit cursed by the Viking slaughter.  
 

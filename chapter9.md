@@ -1,5 +1,7 @@
 ## Chapter 9: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
+[TODO: revisit with Griffon and Dragon's Teeth]
+
 Cynewulf stood in the center of the churchyard. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. Roganvaldr swung his sword in circles, back and forth in front of his shield. He was proving that his prowess of the blade was equal to the might of his sword-arm. Many had seen Roganvaldr taunt them this way, and none had survived.
 
 Cynewulf sensed that his time was short. He had no shield, and no other weapon. He grabbed the wire-wrapped handle of the Wodbora just as Roganvaldr charged.
