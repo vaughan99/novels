@@ -132,25 +132,33 @@ _Not all experience wounds the same way. Some feel honor-bound to speak out, and
 
 _So sayeth the Wound._
 
-The baggage train was a city of mud and misery, a place where the army’s failures were kept out of sight. Cynewulf sat against the wheel of a supply wagon, his back against the wood, his langseax resting across his knees like a dead thing. He had no horse. He had no coin. He had only the sour, fermented tang of ale that had been watered down three times over.
+The baggage train was a city of mud and misery, a place where the army’s failures were kept out of sight. Cynewulf sat against the wheel of a supply wagon, his back against the wood, his langseax resting across his knees like a dead thing. He had no horse. He had no coin.
 
-He didn't want to be the hero. He didn't want to be the deacon. He just wanted the silence in his head to stop.
+He didn't want to be the hero. He didn't want to be the deacon. He just wanted the silence in his head to stop. He wanted his ember hate to end.
 
-When the ale ran dry, he found other ways to fill the void. He learned to move through the shadows of the camp like a whisper, his hands finding purses and blades with a practiced, cold efficiency. He became a man who did what was necessary to keep the bottle full and the memories at bay.
+The King didn't value his loyalty.
+
+The Griffon survivors betrayed him.
+
+_Fer-Main_ threw his entire company away on a foolish charge.
+
+And Cynewulf's conscience begged to differ, when he told himself there was nothing he could have done to stop it.
 
 When the army marched again, he couldn't go with it. The King's guard knew his face, and the King's order had a sense of finality. He had to find a new home.
 
 With the entire host moving north, he reasoned that the road's patrols would be thin. This was a good time to be a highwayman. He felt as a man with nothing left to lose. And he meant to find others like him. Others who didn't ask questions about his dark armor and leathers, or the black griffon paint on his shield.
 
-He headed south. He found them in the dark corners of the Midlands—men who had been chewed up by the same war and spat out by the same kings. They were a collection of broken things, a warband of ghosts who fought for silver because they had forgotten how to fight for anything else. For years, he drifted between bands, never staying more than a moon or two. He trusted no man, called nobody friend. He spent his coin on ale, and drank it alone against a tree or boulder, howling at the wind or mocking the men by the campfire. There were arguments and bleeding, knives and insults. But there was coin enough to drink. And coin enough to walk away, before the purse sat empty once more.
+He headed south. He found them in the dark corners of the Midlands—men who had been chewed up by the same war and spat out by the same kings. They were a collection of broken things, warbands of ghosts who fought for silver because they had forgotten every other reason to fight.
+
+For years he drifted between bands, never staying longer than his trust in people -  and he trusted no man and called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. When jarls broke promises, he remembered. The old priest had called it "ember hate". He was a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
 
 He was hollow man in a suit of mail, selling his blade to anyone who didn't ask about his past. He was a creature of the road, a ghost who had forgotten the shape of his own name.
 
-The first freeze of November 940 arrived with a cruelty that felt personal. It turned the mud of the Midlands into jagged, frozen teeth, and it turned Cynewulf’s blood into ice. He had been walking for days, his silver long gone, his stomach a hollow ache, and his hands—those once-steady hands of a deacon and horseman—now dancing with the rhythmic tremors of the ale's loss.
+The first freeze of November 942 arrived with a cruelty that felt personal. It turned the mud of the Midlands into jagged, frozen teeth, and it turned Cynewulf’s blood into ice. He had been walking for days, his silver long gone, his stomach a hollow ache, and his hands—those once-steady hands of a deacon and horseman—were shivering icicles holding himself together.
 
 He stumbled upon the monastery of St. Jude’s-in-the-Marsh just as the sun began to bleed out behind the grey horizon. It was a small, struggling house, a collection of stone cells and a sagging timber chapel huddled against the encroaching swamp.
 
-Cynewulf didn't knock. He collapsed against the heavy oak gate, his breath coming in ragged, wet gasps.
+Cynewulf didn't knock. He collapsed against the heavy oak gate, his breath coming in stutters, his body aching from the shivering.
 
 When the gate creaked open, he didn't see the face of a brother. He saw a target. He saw a man with a warm cloak, a man with a belly full of bread, a man who had never known the taste of ash.
 
@@ -168,47 +176,91 @@ The Abbot looked at the frost on the man’s eyelashes, then at the desperate, p
 
 "The cellar is dry," the Abbot said, stepping aside. "And the forge needs a hand. If you can work the iron, you can stay."
 
-Cynewulf didn't thank him. He didn't look at the chapel. He simply dragged his broken body through the gate, his boots leaving dark, muddy prints on the pristine snow. He was a deacon in the house of God, but as he descended into the dark, damp cellar, he knew he was nothing more than a demon seeking a place to hide.
+"Lit forge? Where?" was all Cynewulf could muster.
 
-The cellar was a tomb of damp earth and silence, save for the scratching of rats and the frantic, rhythmic thumping of Cynewulf’s own heart. By the first night, the ale-goblins arrived.
+Before the abbot could even answer, he saw the orange flicker in the distance and dragged himself to it. It was a room on the far wall of the abbey with a small chimney and embers.
 
-They didn't come through the door. They crawled out of the cracks in the mortar, small, chattering things with eyes like hot coals and fingers that felt like needles. They sat on his chest, pressing the air from his lungs, whispering the names of the men he had left at the Wall. They mocked his tremors, dancing on his knees and pulling at his hair, their voices a high, shrill rasp.
+Cynewulf didn't thank him. He didn't look at the chapel. He simply dragged his broken body through the gate, his boots leaving dark, muddy prints on the pristine snow. He was a deacon in the house of God,
 
-"Go away," he hissed into the dark, his voice a dry rattle. He lashed out with a fist, but his hand only struck the cold stone wall.
+It was all Cynewulf could do to stop himself from jumping into the coals. He kneeled before the altar of heat, resting his hands on the hot stone.
 
-The ale-goblins shrieked with laughter. One of them leaned close, its breath smelling of sour mash and rot. _'Why aren't you a priest anymore? Did you get tired? How about now? You wish you could undo everything, don't you? You're pathetic.'
+The abbot left him in peace. A moment later, a sister brought a crust of bread and warm water. He found the first thing he could - a fist-sized piece of bloomery iron - and threw it at her. It missed, hitting the wall over her shoulder with a heavy crack. Slag and iron splinters rained into her hair and onto her shoulders. He screamed at her to leave. In the distance he could hear the crying of the nun, and the voice of the abbot.
 
-Cynewulf curled into a ball, his teeth chattering so hard he feared they would shatter. He bit down on his forearm, the metallic tang of his own blood grounding him, forcing the goblins to retreat into the shadows.
+"Do not blame him, child. The road has been cruel to that one. He has forgotten what kindness looks like."
 
-When he finally collapsed into a fitful, shallow sleep, the ale-goblins came again. They weren't the full-blown hallucinations of a dying man, but they were worse—they were the whispers of his own conscience, given teeth.
+"I DO NOT WISH YOUR CHARITY!" Cynewulf screamed.
 
-"Oh priest," an ale-goblin would whisper in his ear. The sound felt like arrows striking his skin, a phantom echo of the volley that pelted the _Griffons_ at the Wall. "Poor betrayed _priest_. Or was it you who did the betraying, back at the Wall?"
+"He will accept it..." the abbot whispered. "In time."
 
-"There was nothing I could do!" Cynewulf retorted in his sleep. His goblins refused to believe it.
+Cynewulf fell asleep by the forge-fire. The crumbs of bread vanished beneath the soot and ash. The bowl rested against his chest, half empty. Water glistened at the corner of his mouth and dripped slowly into the links of his mail.
 
-"'_No mistakes_' you say. _'Follow orders'_ you say," mocked one.  "You killed them," accused another. "Your precious _Griffons_ were right to leave you behind and take everything."
+He was awakened by the abbot.
 
-He would wake up screaming, his heart hammering against his ribs, his clothes soaked in a cold, sour sweat. He’d be gasping for air, his hands clawing at the stone floor, reaching for a drink that wasn't there.
+"Good morning. Not a comfortable place to sleep, on the stone. The fire's out."
 
-By the fourth day, the physical shaking had dulled to a persistent, irritating tremor. He was exhausted, his eyes sunken and rimmed with red, his temper frayed to a razor’s edge. He was sober, but he was raw—every sound in the monastery above felt like a hammer blow to his skull.
+Cynewulf had not slept in two days before then. Everything ached, but he hadn't lost anything to the frost.
 
-He climbed the cellar stairs on the fifth morning. The light of the chapel courtyard was blinding, a harsh, unforgiving white. The Abbot was there, checking the stores, and he stopped when he saw the man who emerged from the dark.
+"You should have let me die." Cynewulf croaked. He stared into the space where flame once stood. "You don't know what you saved."
 
-Cynewulf looked like a corpse that had been dug up and forced to stand. His face was gaunt, his eyes hollowed out, and his hands—though they had stopped their violent dancing—still twitched with a life of their own.
+"No... I don't. But I think... neither do you." The abbot studied Cynewulf closely. "Stop talking and rest. Introductions are best when a man refuses to fight himself."
 
-"You look like you’ve been to hell and back, brother," the Abbot said, his voice devoid of judgment.
+The abbot turned to leave. "I told you the cellar was dry." He glanced at the cold forge. "But if you're determined to sleep in the smithy, you might as well put a hammer in your hand. Who knows, you might accidentally forge something in your sleep. The wood is by the door."
 
-Cynewulf stared at the ground. "Hell is a quiet place, Abbot. It’s the waking up that’s the problem."
+For two days, the smithy was warm, but no sound came from the anvil. The sisters brought him thin broth and crusts of bread, as the monastery shared its meager winter supplies with the stranger.
 
-He looked toward the forge, the rhythmic _clink-clink_ of the hammer calling to him. It was a simple, honest sound. It didn't whisper. It didn't giggle. It just worked.
+On the third day, the abbot was awakened by the sound of iron ringing on iron.
 
-"The forge," Cynewulf rasped, his voice barely a shadow of its former self. "I’m ready."
+The abbot walked into the smithy and found Cynewulf fitting a hinge on one of the shutters of the window.
 
-_What is a crutch? It is a lie made of wood and iron. It promises that you can move forward without ever touching the ground, that you can bypass the pain of the step. But a crutch does not heal the leg; it only teaches the body to forget how to stand. When you lean on the bottle, you are not walking away from the wound—you are merely dragging it into the dark, where it can grow teeth and gnaw upon your soul._
+"I saw the old hinge was failing. It needed a new pin." Cynewulf stared at the hinge repair, working the shutter several times through its motion.
+
+"Funny how small changes make big differences." He let the words settle a moment, then put his arm around Cynewulf and motioned him toward the chapel. "Come, introduce yourself."
+
+Cynewulf introduced himself that morning. The telling took most of the day and part of the evening. The abbot listened more than he spoke. When Cynewulf finally finished, the old man asked whether he could repair a broken gate latch. Cynewulf hated him for that.
+
+Cynewulf spoke often that winter. He spoke of kings who broke promises, captains who wasted lives, and jarls who demanded loyalty they never returned. He spoke of betrayals, defeats, and old wounds. The abbot listened patiently through all of it. After every story, the old man offered another job.
+
+Cynewulf broken one day. "Why? Every time I show you my pain, you offer me more to do. I'm not you're thrall."
+
+"No," said the abbot. "If I wanted a thrall, I'd have chosen a less argumentative one."
+
+Cynewulf scowled. "Then why?"
+
+The abbot shrugged. "Because you never speak of your pain while you're mending something. Galatians tells us _Bear one another's burdens._"
+
+"And?"
+
+The abbot glanced up.
+
+"I've spent the winter helping carry yours."
+
+He nodded toward the repaired shutter.
+
+"You seem happier when you have something to do," said the abbot. "Something to carry."
+
+Cynewulf frowned.
+
+The old man nodded toward the village beyond the marsh.
+
+"Have you ever wondered what would happen if men stopped caring about each other?"
+
+Cynewulf said nothing.
+
+"The widow loses her roof. The traveler freezes beside the road. The sick go unattended. The hungry stay hungry. Scripture tells us to bear one another's burdens. I suspect it is because the world becomes a very dark place when nobody does."
+
+"You're a fool, abbot. I've seen the Road. Nobody cares." Cynewulf was skeptical.
+
+"Am I not part of the Road too? Isn't that how you found me?" The abbot shrugged. "And aren't churches found at the end of roads?"
+
+The silence that night hung in the air for a long time.
+
+_What is a crutch? It is a lie made of wood and iron. It promises that you can move forward without ever placing weight upon the wound. It offers movement without healing, distance without recovery._
+
+_A crutch does not mend the leg. It merely teaches the body how to limp._
+
+_So it is with rationalizations. So it is with blame. They spare us the pain of touching the wound itself. They teach us to walk around it, speak around it, think around it. Yet the wound remains, untended and unseen. Left long enough in the dark, it grows teeth of its own and begins to feed upon the soul._
 
 _So sayeth the Wound._
-
-Cynewulf spent that freezing winter of 942 at the tiny monastery by the marsh. The wood was dirty but plenty, and the abbot and the five retainers spent frozen nights huddling by the hearth. Cynewulf protected the door from the Vikings, in exchange for bread and companions. He didn't speak much, he was just happy to be alive.
 
 The thaw came in early March, turning the marsh into a treacherous, sucking mire. With the melting ice came the travelers.
 
@@ -232,13 +284,13 @@ The Welshman replied, "Aye, from a border Mercian Ealdorman. But honestly, the l
 
 Cynewulf was unsure of this Welshman. Cynewulf knew what it meant to be unprepared for battle. He had heard gallows humor before, but there was an unsettling flow to the speech. As though death were a constant companion, or an absolute stranger. He looked at their gear once again, and saw the wear. He didn't understand it, but now he knew he didn't need to.
 
-"If you take me in, I have experience in negotiation. I'm well-versed in Latin." Cynewulf felt the weight of his own uselessness finally lift. He was a man with a purpose again.
+"If you take me in, I have experience in negotiation. I'm well-versed in Latin." Cynewulf felt the road open to him once more. He was eager to see where it led.
 
 "Good!" The skirmisher's eyes widened. "Ha! You're acting like you even had a choice in the matter! My name is Madoc Bychan—Madoc the Younger. My parents had an older Madoc, but they kept him because he was the crazier one! I’m just the one who decided the world was too quiet, and all that crazy shouldn't be trapped in one family tree! Well, and they kicked me out. Welcome to the _Dannedd y Ddraig_ , The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it's the only one backed by coin! I'd learn to speak to forest critters if it paid coin!"
 
 The others greeted him with rough nods and claps on the shoulder, a warmth that felt like a brother in arms. They were quick to accept, but he imagined they were quick to turn if he crossed them.
 
-Madoc laughed... "And look, I found us a target. If we polish him up, he might pass for a commander. If we're lucky, all the arrows will fly towards him!" They laughed even harder. Cynewulf didn't think it was particularly funny, but he laughed nervously anyway. They didn't ask him to change a thing.
+Madoc laughed... "And look, I found us a target. If we polish him up, he might pass for a commander. If we're lucky, all the arrows will fly towards him!" They laughed even harder. Cynewulf didn't think it was particularly funny, but he laughed nervously anyway.
 
 Among them were two women, their leather tunics as scarred and stained as the men’s. One of them, who had been hunched over a pile of wool, stood up as the laughter died down. She slung a heavy, red-painted dragon cloak over Cynewulf’s shoulder with a sudden, practiced flick.
 
@@ -270,11 +322,11 @@ Then, he reached into a small, wooden box-pouch at his belt and pulled out a woo
 
 Cynewulf watched as Madoc coiled the line back into the box with practiced ease. It was a simple, brutal piece of engineering.
 
-Madoc reached into a small wooden cup on his belt covered with a leather strap. He held it up - it was a small clay pinchpot, the size of a plum. It had a cross traced in wax over the opening. "And this," Madoc said, his voice dropping to a conspiratorial whisper, "is the true _Anadl y Ddraig_—the Dragon’s Breath." We throw them with slings tied to our wrist bracer.
+Madoc reached into a small wooden cup on his belt covered with a leather strap. He held it up - it was a small clay pinchpot, the size of a plum. It had a cross traced in wax over the opening. "And this," Madoc said, his voice dropping to a conspiratorial whisper, "is the true _Anadl y Ddraig_—the Dragon’s Breath." We throw them with slings at shield walls.
 
 Cynewulf frowned, eyeing the hollowed-out bone. "It’s just a tiny clay pot?"
 
-"Fermented stomach juice, and some mixture of spurge-milk, nettle-burn, hellebore, wild leeks, and foul iris—whichever is in season. We mix that with tallow and crushed glass," Madoc corrected, his grin widening. "We take strips of sheep's stomach and our herb-tallow medley, mix it with the glass, and pack it into these clay-pot beauties. Seal them with wax, bury them for a month under sheep dung, and let the rot do the work. We use our slings to deliver them like gifts to the shield-wall. It doesn't kill, but it smells, stings, and clings to everything. Once it's on the skin, the glass and _medicine_ go to work. If the bishop's not looking, we call out curses in Welsh to make them think they've been bewitched! And a _fyrdman_ who flees because he thinks he's cursed is just as good as a dead one. He should be thanking us for saving his life! Ha ha ha!"
+"Fermented stomach juice, and some mixture of spurge-milk, nettle-burn, hellebore, wild leeks, and foul iris—whichever is in season. We mix that with tallow and crushed glass," Madoc corrected, his grin widening. "When we have the mixture just right, we pack it into these clay-pot beauties. Bury them for a week under sheep dung, and let the rot do the work. Then we seal them with a wax kiss, and bury them again for a month. Once they're done, we clean them up and they're ready for gifting to the shield-wall. It doesn't kill, but it smells, stings, and clings to everything. Once it's on the skin, the glass and _medicine_ go to work. If the bishop's not looking, we call out curses in Welsh to make them think they've been bewitched! And a _fyrdman_ who flees because he thinks he's cursed is just as good as a dead one. He should be thanking us for saving his life! Ha ha ha!"
 
 Cynewulf stared at the tiny pot. He thought of the stained glass he had once cleaned in the nave, the light filtering through the saints and martyrs. Now, that same light was being used to turn men into cursed frightened animals.
 

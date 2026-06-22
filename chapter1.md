@@ -1,7 +1,5 @@
 ## Chapter 1: A Promise of Piles
 
-[TODO: Rework any part needed for him to be a Dragon's Tooth]
-[TODO: 943]
 The steady rain had given way to fog that morning, one that smelled of wet log-smoke and death. The previous night's funeral pyres were fed by the fallen logs of a rampart. The Viking King, Olaf Guthfrithson, and his Bishop, Wulfstan I of York, had fled in the night. But before they left, they negotiated a peace with Bishop Oda of Canterbury, working on behalf of the Saxons. The Five Boroughs of the Midlands would be surrendered to the Vikings, the lands of the Danelaw, lands hard-won to re-conquer over decades of Viking conquest. Given back freely to purchase peace.
 
 The news of the parchment-peace was fresh on the ears that morning. The Vikings of King Olaf Guthfrithson had largely been defeated. The battle walls were teetering, the resistance weakened. Most of the warriors left were still Vikings stout-to-a-man, but their numbers had dwindled. Their time for a brokered peace had arrived.
@@ -24,13 +22,137 @@ That morning, she took the news of the peace well. She had no ear for war. The V
 
 Her eyes were darting around the camp, trying to find the eyes of anyone she had not already approached with her bounty, and her eyes fell on Cynewulf, a face she barely recognized.
 
-Cynewulf, also of Leicester, was strong and salt-bearded, yet terribly weary. A priest at first, he gave up that life for the life of a soldier and highwayman. He had the cake of the road stuck to him, a tired mercenary in this war, fighting for the Saxons. His warband was spent in the fighting of the days before. Many of his number were taken by the Ulfhednar, the howling wolf-men of Odin. He could not call a single one of his allies a *friend*... he had no friends any more.
+Cynewulf, also of Leicester, was strong and salt-bearded, yet terribly weary. A priest at first, he gave up that life for the life of a soldier and highwayman. He had the cake of the road stuck to him, a tired mercenary in this war, fighting for the Saxons. His foreign warband brought him to Leicester. They were harassing Viking reinforcements from York and had been very effective.
 
-Cynewulf had the bearing of a soldier. His byrnie—once a proud shirt of black interlocking iron mail—was threadbare and sagging, missing clusters of rings that had rusted away and been crudely patched with strips of stiff rawhide. Underneath the iron, he wore a quilted weapon-shirt of heavy linen. Once thick enough to turn the blunt force of a club, the padding was now flat and rotting. The quilting threads had snapped in dozens of places, allowing the dirty flax stuffing to leak out of the tears like tufts of sheep's wool. It was stiff with the salt of old sweat, and the shoulders were stained a deep, bloody orange where the rusting mail had bled into the fabric. His cloak was more holes than cloth, a tattered rag that fluttered uselessly in the damp spring wind. At his hip hung a langseax that had not seen a blacksmith’s stone in far too long; its edge was notched with jagged chips from clashing shield-rims, and red rust-bites ate hungrily into the fuller. His spear he left in the gut of a Norseman, and was claimed by another in the chaos. His shield and axe, the true workhorses of the shield-wall, had been split to splinters in the final clash, abandoned on the wall above where many fell the previous weeks. His leather boots were new but oversized, taken from the fallen the day before. His wealth could now be counted by the fragments of the battle he scavenged, destined for the pawnbrokers stall.
+The moment the campaign ended, their charter bid them return home. They traded farewells and turned west. Cynewulf watched them disappear down the road until they were little more than colored specks against the spring hills. Only then did he turn back toward Leicester. The road felt quieter without them.
 
-With his warband broken, Cynewulf was the leader of what little remained - a handful of hollow-eyed men who refused to flee when others did. The very moment the peace was announced a Spaniard named Galindo approached him with a deal: guard the Northumbrian fyrd's baggage on the road north for a silver purse. Cynewulf knew the very bandits that he might face, because he was at times employed by them. He didn't fear them. He didn't respect them. He respected only what they could do to him. He had no fealty except to the silver, and he felt nothing once silver left his hands.
+Cynewulf had the bearing of a soldier. His byrnie—once a proud shirt of black interlocking iron mail—was threadbare and sagging, missing clusters of rings that had rusted away and been crudely patched. Underneath the iron, he wore a quilted weapon-shirt of heavy linen. The quilting threads had snapped in dozens of places, allowing the dirty flax stuffing to leak out of the tears like tufts of sheep's wool. It was stiff with the salt of old sweat, and the shoulders were stained a deep, bloody orange where the rusting mail had bled into the fabric. His cloak was a new fur trophy, as were his boots. At his hip hung an aging langseax whose edge rippled with shallow waves—the mark of a blade that had survived many battles and nearly as many blacksmiths. His shield had been split to splinters in the road engagements, and was gone. What little wealth he possessed came from the battlefield: fragments of silver, steel, and bronze scavenged from the fallen and not yet traded at the pawnbroker's stall.
 
 Cynewulf's vows were taken at this very Church, and that is where Elswyth once knew him. In those days, before he traded his vestments for a chain shirt, he was an acolyte who worked in the bell foundry. Her family's coal fed the fires then. He glanced at the church several times at night through the rain, trying to remember the lines of the bell-fry, the happier times. But now, with the siege ended, the church was the beginning of the next road.
+
+With his warband gone, Cynewulf wandered into the Saxon camp to hear the terms of the peace. No sooner had the proclamation been read than a dark-haired foreigner detached himself from watching Osric's work and made directly for him.
+
+"Hail, soldier," the man said. "You are either very unlucky, or very expensive."
+
+Cynewulf frowned. "What?"
+
+"A veteran standing alone after a campaign? Usually it means one of two things. Either your company died, or someone else already hired them."
+
+"Neither."
+
+The foreigner smiled. "Then today is full of surprises."
+
+He extended a hand.
+
+"Galindo. Reeve to the fyrd from the Tyne Valley."
+
+Cynewulf shook it cautiously.
+
+"Cynewulf."
+
+Galindo glanced back toward the baggage train. Osric was still crouched over the broken wheel.
+
+"Are you looking for work, Cynewulf? Because I am looking for men."
+
+"For what?"
+
+"For leaving." Galindo answered immediately. "The peace has been read. Half the fyrd is already thinking about sowing crops. The other half is thinking about their wives. I need guards for the baggage train before they begin their race to see which ones get home first."
+
+Cynewulf followed his gaze toward the wagons.
+
+"You don't know me."
+
+"No." Galindo shrugged. "But I know what a veteran looks like."
+
+"And?"
+
+"Time is a luxury. And the fyrd is an unsaddled horse."
+
+Galindo pointed toward the camp.
+
+"Find me men who can stand watch, march in a straight line, and not rob the baggage train. Build me a warband. Bring them to me before Osric finishes that wheel."
+
+Cynewulf looked over his shoulder.
+
+"And if I fail?"
+
+"Then I'll find somebody else." Galindo smiled. "But if I thought you would fail, we wouldn't be speaking."
+
+Cynewulf knew the very bandits he might face, because he had once ridden beside them. He did not fear them. He did not respect them. He understood them. Men like that followed silver first and everything else second. Once, he had told himself he was no different.
+
+The proclamation had barely ended before the camp began to dissolve. Men hurried to wagons, horses, and old companions. Cynewulf ignored them.
+
+He remembered the old Leicester and the occupations around it. He knew not to ask the woodsmen. Spring belonged to them. He knew not to ask the millers, nor the carters, nor the smiths. They had work waiting long before the war had arrived.
+
+Instead he looked for the men who lingered after the others had found their purpose. He sought the men who were not eager to leave. The ale-house was the obvious place to start. Once, when he had been younger and drunker, it was where he went when the purse or the lips ran dry.
+
+Cynewulf scoured the room with his eyes, like a wolf searching for another who had lost its pack.  A man in a hurry to reach his wife was already on the road. A man eager to sow his fields was packing his cart. The men still nursing ale were just nursing ale.
+
+And that is where he found them:
+
+An old veteran who sat alone in the corner with patchwork armor, a large shield, and a bearded axe. His hair and scars said Dane, but his manners said Saxon.
+
+A one-eyed archer was making merry with the barmaid. He mentioned "I can only fire in one direction at a time" - his humor got him in. 
+
+Two young brothers were abandoned by their eldest brother's warband. He thought so little of them, he didn't bother to wake them for departure. They brought spears, shields, and a bitter disposition.
+
+Two Northmen occupied a table near the door. Their clothes were Scandinavian, their silver was foreign, and their accents belonged much further east than Denmark. When Cynewulf asked whether they served Olaf, both laughed and spat on the ground. That answer got them in.
+
+They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time, sober, he had judged men by who might keep one from harm.
+
+Galindo looked up from the baggage train as Cynewulf approached with the recruits in tow.
+
+"Well," the reeve said. "Either I've made a terrible mistake, or you've solved my problem."
+
+The one-eyed archer raised a hand. "Could be both."
+
+Galindo groaned. "Excellent. It talks. Maybe when _it_ is done talking, we can see what you are."
+
+The company chuckled.
+
+Galindo walked slowly down the line, taking inventory. Spears. Shields. Axe. Bows. Scars. More scars.
+
+"Can you march?" The old veteran retorted. "Can you count?"
+
+"Good enough." Galindo nodded toward the wagons.
+
+"Tyne Valley. Escort duty. Food from the train. Three pennies a week."
+
+The veteran spat into the dust. "Four."
+
+The archer interjected. "He's right."
+
+The brothers exchanged a glance.
+
+The Northmen shrugged.
+
+Galindo snapped back, "Some of you are worth that, some far less."
+
+"We'll play no favorites here. Three and a half," Cynewulf said. Cynewulf knew that uneven pay was a disaster for morale among mercenaries.
+
+Galindo studied him for a moment.
+
+"Three and a half."
+
+The veteran nodded.
+
+"Done."
+
+Galindo extended his hand.
+
+"Then welcome to the baggage train."
+
+The archer exclaimed, "Those wagons? Are we guarding them or pushing them in the mud with our bare hands! They're going nowhere."
+
+"God help us," muttered one of the brothers.
+
+"I don't think he's listening," replied the archer.
+
+"Who, Galindo, or God?" replied the other brother.
+
+"Both. Neither. Whatever." The archer drained the last of his ale. He had been carrying it all this time. He tossed the inn's mug into the mud casually, as if discarding a thorn from his finger.
+
+"Best be settling in. Report to the wagon master." Galindo replied.
 
 High above, on a ruined stone wall, a tall and proud Viking war-band leader studied his enemy still. He was the Hersir of the Ulfhednar, Wulfhere the Broad. The Ulfhednar were the wolf-men of the Danes, men who married their souls to the wolves of Odin. They were a dying breed on the island, but he was fierce and true to his kind. To him, the brokered peace was a thing for priests and deer-meat. He had lost some of his number in the fighting before, but the trophy pile was small, and many of his number still longed for Valhalla. 
 
@@ -48,17 +170,43 @@ The wolf-man’s grin faltered slightly against that hollow stare, his howl dyin
 
 Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath - a long shuddering exhale. He stared down at the deep, muddy impressions of the wolf-man who had stood nine inches from his. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes. He turned his back to the road to survey the state of the wagons.
 
-After traveling a short distance, Wulfhere gathered his Ulfhednar to a meeting. Among them were his best. His second-in-command was a giant, over seven feet of bone and muscle, Rognvaldr the Ragged. His frame was so large, no single mail coat could cover it. It was a mosaic of armor that served as the testament to the war-band's kills, as it was built from the pieces of armor of the fallen. The others were lean and hungry, mostly young but scarred by the unending training of the wolf cult. Their eyes burned for the treasure-pile that had once been promised or the final embrace of valkyries. Both would have to wait as long as peace reigned. 
+His new men had watched the exchange in silence.
 
-"These Saxons... they keep making the same mistakes. They think wolves feast on air and priest-speech. A wolf cannot eat a peace-meal. I have seen their broken bands, their burnt sticks, and the forest girls they have guarding their baggage. They are deer for the slaughter, friends. We are circling back tonight. Let the others crawl to the Boroughs and reclaim just what the Saxons allow them."
+The one-eyed archer was the first to speak. "Well. That's one way to find out if a man's brave."
+
+The old veteran shook his head. "Not brave."
+
+The archer frowned. "No?"
+
+The veteran spat into the mud. "Brave men get themselves killed proving it. Wise men have fear. They just don't show it."
+
+Cynewulf approached, and the brothers exchanged a glance. "Have you ever fought one of them? The wolf-men I mean." asked one.
+
+Cynewulf did not look up from the wagons. "Stow your gear. I don't think we're leaving tonight." He nervously looked back up the road.
+
+Neither brother asked again. The answer settled over the group like a cold rain.
+
+The one-eyed archer stared after the departing wolf-men. "Well," he muttered, "good thing you didn't piss your pants. I'd have to worry about us if you did."
+
+That got a laugh from everyone except Cynewulf.
+
+After traveling a distance, the Ulfhednar stopped to rest in a clearing. Wulfhere was there, urging his men to gather around. His eyes seemed fixed to Leicester, wide and full of intent.
+
+Among them were his best. His second-in-command was a giant, over seven feet of bone and muscle, Rognvaldr the Ragged. His frame was so large, no single mail coat could cover it. It was a mosaic of armor that served as the testament to the war-band's kills, as it was built from the pieces of armor of the fallen. The others were lean and hungry, mostly young but scarred by the unending training of the wolf cult. Their eyes burned for the treasure-pile that had once been promised or the final embrace of valkyries. Both would have to wait as long as peace reigned. 
+
+Wulfhere began. "I see the anger in your eyes. I see his words turned to rot in your minds. We have followed Olaf. We have listened to the fat jarls of York. We have seen what their guidance has brought. They don't care about us! They never asked the wolf if the fighting was done! They promised piles and delivered ash. Olaf can rot in Helheim!"
+
+Rognvaldr stepped forward, his arms reaching wide. "Come brothers! We feel your anger. We feel how you were betrayed. Look each other in the eye! Let your eyes show your brothers that you will not be denied!"
+
+Wolfhere continued. "These Saxons... they keep making the same mistakes. They think wolves feast on air and priest-speech. A wolf cannot eat a peace-meal. I have seen their broken bands, their burnt sticks, and the forest girls they have guarding their baggage. They are deer for the slaughter, friends. We are circling back tonight. Let the others crawl to the Boroughs and reclaim just what the Saxons allow them."
 
 Rognvaldr started a drum chain. Each wolf began to slap his thighs in unison, a guttural grunt marking every fourth beat. The rhythm was a heartbeat—the heartbeat of a pack that had forgotten how to be men.
 
-"_We_ will collect the hoard-pile we were promised yet. Then we'll move to the coast, and cut that belly from groin to neck. And if we fail?"
+"_We_ will collect the hoard-pile we were promised yet. Then we'll move to the coast estates, and cut that belly from groin to neck. And if we fail?"
 
 Wolfhere paused, looking into the eyes of each of his wolf-men, one at a time. Their eyes were wide now, their hands slapping rhythmically against their thighs faster and faster. Some were growling, some barking, and others stood with thick, white saliva dripping from their hungry maws.
 
-Rognvaldr, the biggest of them, moved down the line like a butcher checking his stock. He wasn't a man of words, but he was a master of the frenzy. He grabbed the youngest of the _ulfhednar_ by the shoulders and screamed, inches from the boy's face. The youth screamed back, a raw, jagged sound, and lunged forward, sinking his teeth into Rognvaldr’s arm. Rognvaldr only roared in approval, shoving the boy back into the pack.
+Rognvaldr moved down the line like a butcher personally checking each slab of meat on the hook. He wasn't a man of words, but he was a master of the frenzy. He grabbed the youngest of the _ulfhednar_ by the shoulders and screamed, inches from the boy's face. The youth screamed back, a raw, jagged sound, and lunged forward, sinking his teeth into Rognvaldr’s arm. Rognvaldr only roared in approval, shoving the boy back into the pack.
 
 Wolfhere seized the moment, his voice cutting through the chaos:
 
@@ -67,6 +215,8 @@ Wolfhere seized the moment, his voice cutting through the chaos:
 He paused again, spreading his arms wide, his eyes fixed on the grey expanse above as if he could see through the clouds to the All-Father himself.
 
 "Our reward is... Valhalla!"
+
+The men howled. The sound marked the soul leaving only the wolf behind.
 
 ---
 
