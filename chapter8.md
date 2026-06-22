@@ -1,14 +1,12 @@
 ## Chapter 8: Monanleoht, The Battle-Dancer
 
-[TODO: Edit for fly agaric effects, time dilation, and after-battle melt-down. She is exhilirated after the fight, but the poison is horrible]
-
 Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured, that the sword was hers. She grabbed the hilt of *Monanleoht* and drew. The world became a frozen haze, as a silver mind-sleep claimed her.
 
 "Hello, MEADOW-BUD!"
 
 The redcap's voice boomed inside her skull, dropping to a heavy, mocking sneer as it pronounced her name. In the misty reflection of *Monanleoht's* steel, the monster's eyes emerged from the flat of the blade.
 
-"No! NOO! I saw you stolen away. You were trying to..."
+"No! NOO! I saw you stolen away. You were trying to..." She tried to let go of the handle, but it stuck to her hand, unyielding. Time seemed to slow beyond a crawl, as if the air held the world in perfect stillness.
 
 He cut her off mid-sentence with a high-theatrical mocking whine.
 
@@ -18,7 +16,7 @@ Elswyth's confidence flagged. "I can't do this! I've never done... this! I've se
 
 The redcap's tone dropped into one of pure, mocking dejection.
 
-"Oh, well I guess we just... GIVE UP?! *Sorry wolfies! I can't come out and play! I don't know the rules of the game, so pick somebody else!* NO! Your muscle-fronds are stronger than you think. You didn't *haul* all that moon-lit wood from the deep forest just to *yammer* on about your teeny-tiny stalk!" he jeered.
+"Oh, well I guess we just... GIVE UP?! *Sorry wolfies! I can't come out and play! I don't know the rules of the game, so pick somebody else!* NO! Your muscle-fronds are stronger than you think. You didn't _chop_ down trees and *haul* all that moon-lit wood from the deep forest just to *yammer* on about your teeny-tiny stalk!" he jeered.
 
 The redcap resumed his commanding, authoritative tone.
 
@@ -26,42 +24,114 @@ The redcap resumed his commanding, authoritative tone.
 
 Those last words came with almost a bow - if he could bow - just before the dance was to begin. The eyes of the redcap sheared towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
-"Ohhh, a young wolf. He thinks he is MIGHT-Y! You know, big shields only hide a shivering skin... Repeat after me!"
+A strange warmth flooded her limbs. Not the warmth of a hearth or summer sun, but something sly and invasive, creeping through her blood like roots beneath soil.
+
+The world lost its proper proportions.
+
+The Viking remained a man, yet his spearhead swelled until it seemed as large as a plowshare. The iron point dominated her sight while the rest of him shrank around it, becoming little more than hands carrying a threat. Then the point diminished and his shield grew broad as a gate. Then that too faded. Her eyes could no longer agree with one another on what mattered.
+
+Stranger still, the world seemed unwilling to move until she had finished looking at it. Every heartbeat stretched long enough to inspect. Long enough to choose. Long enough to wonder.
+
+The redcap laughed.
+
+"There you are. Now you're seeing with your proper eyes. Ohhh, just in time for a young wolf. He thinks he is MIGHT-Y! You know, big shields only hide a shivering skin... Repeat after me!"
 
 ```
 This one has the stabby pole,
 Wood on arm, but find the hole,
 Wait right here for pointy end,
 To start on its final descend,
+```
+
+The world lurched.
+
+The Viking stepped forward, but he no longer seemed whole. Elswyth's eyes fastened upon the spear. The iron head swelled until it dominated her sight, broad as a plowshare, while the warrior behind it diminished into a collection of smaller things—hands, feet, shield, beard—all circling around the true danger.
+
+Everything else became weather.
+
+The spearpoint drifted toward her.
+
+Not slowly. It only felt slow because she could not stop looking at it. Every edge of the iron seemed clear. Every scratch. Every glimmer of light upon its surface.
+
+The redcap's voice purred in her skull.
+
+```
 Two steps left, under the sleeve,
 Forearm blood-cut he'll receive,
+```
+
+Her mouth repeated the words before she had time to think.
+
+Two steps.
+
+The spearhead slid harmlessly past.
+
+The giant triangle of iron vanished from her attention at once. Now the forearm beneath the shield consumed her sight. The leather vambrace looked absurdly large, as though the warrior had thrust it toward her and forgotten every other part of his body.
+
+The opening was obvious.
+
+Impossible to miss.
+
+_Monanleoht_ leapt from her hands like moonlight cast into motion. The blade bit upward through leather and flesh.
+
+Only then did the rest of the world rush back.
+
+The Viking grunted in pain. His arm snapped backward. Blood splashed across the stones. The shield wavered.
+
+And already something else was becoming important.
+
+```
 He drops point to nurse the arm,
-Roll to right, deliver harm.
+Roll to right, deliver harm. 
+```
+
+He dropped his spear with a grunt, the spearpoint collapsing in size to almost nothing falling away to a floor that seemed far away. His shield hand snapped instantly to the wound. But the wound was not important either. Her eyes drifted to the right as his knee became as large as a table.
+
+The reflex had  pulled his shield away, exposing his lower leg. Elswyth threw herself to the right. Her back curled against the cold stone as she fell. The floor had no shape. No meaning. No interest.
+
+Only the knee mattered.
+
+```
 Finger-wide three, gap at knee,
 Slice the root of the elder tree.
 Trunk blood flows from the deep root,
 All for floor, and none for boot.
-Stand up tall, he has no pole,
-Watch him howl, ha! fragile foal,
-He drops the wood for slicey steel,
-But make his ... hand ... into ... your ... meal. 
 ```
 
-Time resumed, and flew fast, but Elswyth was sharp-to-tongue and moved on the flea's-leg - exactly on the beat. The young wolf stepped forward. He had a spear and shield at the ready.
+She saw a gap in the armor - a mere sliver of skin between the bottom of his mail and the top of his boot. To her, it was three fingers wide and the blade was already in motion. She slashed from her knees. The moon-bright edge slipped into the gap and grated against bone.
 
-She waited for him to commit to the stab. Like the poem said, he did. Mouthing the words, she dodged to the left, two steps, and her hands were almost guided by the blade itself. She cut upward to the sleeve of his arm. *Monanleoht* flew forth like a beam of light and sliced through his stout leather vambrace, leaving a deep cut. He dropped his spear with a grunt, his shield hand snapping instantly to the wound.
+The Viking screamed and staggered backward.
 
-The reflex pulled his shield away, exposing his lower leg. Elswyth rolled right, seeing a gap in the armor - three fingers wide. She slashed from her knees. The moonlight blade bit into the leg just above the knee, grating into bone. The Viking screamed and staggered back. Blood flowed freely, but she hadn't caught the artery. She stood up as he howled through the pain. He dropped the shield. His sword-arm had no feeling, and it was awkward to draw his knife with his shield hand.
+Only then did the wound become small again.
 
-She stepped into his struggling guard, gripped *Monanleoht* with both hands and brought it down in a hard, crushing arc. The blade sheared through his wrist. A spray of hot blood was followed by the meat hitting the tile. His battle was done.
+Blood poured down his boot and splashed across the stone, but it no longer held her attention.
 
-Elswyth had handled the first Viking, and she thought it was miraculous. The blade was leaping to targets, as if its hands were on the grip, urging it where to strike. She had control, yes, but the will of the gnome gave it a hint of direction too. She smiled nervously. "I can't believe..."
+```
+Stand up tall, he has no pole,
+Watch him howl, ha! fragile foal,
+```
+
+[TODO]
+She stood up as he howled through the pain, the sound distant and muffled like it struggled to exist. Her eyes scanned.
+
+```
+He drops the wood for slicey steel,
+But make his ... hand ... into ... your ... meal.
+```
+
+The shield fell away into the abyss that was the floor. His sword-arm had no feeling, and it was awkward to draw his knife with his shield hand. His hand was grasping at the handle of his seax. His hand was the size of a dog struggling to pull a sack of grain.
+
+She stepped into his struggling guard, gripped *Monanleoht* with both hands and brought it down in a hard, crushing arc. The blade sheared through his wrist. A spray of hot blood was followed by the meat hitting the tile. His battle was done. Time resumed. 
+
+Elswyth had handled the first Viking, and she thought it was miraculous. The blade's 'poison', the redcap's manipulation of scale and time, made combat seem dance-like and almost comical. "I can't believe..." she started.
 
 "
-Oh, first time to draw blood? Merely adequate, meadow-bud. A bit disappointing though... the boy’s blood-juice is sweet, yes, but harvested too early. It is under-mooned to a proper redcap's liking. A flat profile, definitely on the waning side. Still.. the essence of roasted morel from his last feast on the nose has that woodsy depth, rescuing the ... wait a beat... I... I can taste?! I can TASTE! Those crazy soul-flunkies didn't just lock me in the dark... they gave me the keys to the larder! Oh, those beautiful, soot-stained forge-monkies! They knew I'd starve in here. They knew I'd rot. So they made the steel my tongue! Every nick, every scratch... it's a crumb! Every deep plunge... a banquet! Oh those forge-elves are genius!
+Oh, first time to draw blood? Merely adequate, meadow-bud. A bit disappointing though... the boy’s blood-juice is sweet, yes, but harvested too early. It is under-mooned to a proper redcap's liking. A flat profile, definitely on the waning side. Still.. the essence of roasted morel from his last feast on the nose has that woodsy depth, rescuing the ... wait a beat... I... I can taste?! I can TASTE! Those crazy soul-flunkies didn't just lock me in the dark... they gave me the keys to the larder! Oh, those beautiful, soot-stained forge-leeches! They knew I'd starve in here. They knew I'd rot. So they made the steel my tongue! Every nick, every scratch... it's a crumb! Every cut... a banquet! Oh those forge-elves are genius!
 "
 
 The second Ulfhednar was slow to approach from the pool, being wary of what he'd just seen. Obviously there was more to this girl than met the hunter's eye. He was well-appointed: chain full-shirt, wolf headdress over spangenhelm, hand axe and stout shield. He had a professional battle-gait, and was ready.
+
+[TODO more fly agaric pacing]
 
 "
 Oh, watch out for this one now. He's quick to the step. Well-balanced. Very seasoned. Heavy iron in his blood. Start the music!
