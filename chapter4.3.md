@@ -238,4 +238,3 @@ Cynewulf was still in shock. One of the wounded scouts replied, "Anywhere but he
 _The Sword takes men. Sometimes one at a time. Sometimes it cleaves an entire company with one slice. Men at war are grist for the mill. And the Sword is the wheel that delivers final verdict._
 
 _So sayeth the Sword._
-

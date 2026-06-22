@@ -14,7 +14,7 @@ They stopped when one of the riders slumped. He was one of the scouts, and had b
 
 Two others were injured badly and could ride no further. They had to stop.
 
-They stopped in the lee of a collapsed stone sheepfold, a place where the wind didn't howl, but merely sighed. The scout who had died in the saddle was lifted down, his body stiffening in the cold, and laid against the mossy stones. He looked smaller in death, stripped of the byrnie and the bravado that had defined him.
+They stopped in the lee of a collapsed stone sheepfold, a place where the wind didn't howl, but merely sighed. The scout who had died in the saddle was lifted down, his body stiffening in the cold, and laid against the mossy stones. He looked smaller in death, stripped of the bravado that had defined him.
 
 The two other wounded men were barely conscious. Their faces were the color of wet parchment, their breathing shallow and ragged. Cynewulf knelt beside them, his own ribs screaming with every breath, but he felt no urge to offer comfort. Comfort was for the living, and they were all just waiting for the dark.
 
@@ -22,7 +22,7 @@ The other two survivors started the slow methodical process of stripping gear fr
 
 One of the riders handed Cynewulf the man's Frankish langseax, a continental long war knife turned military sidearm. It was well cared-for, and well-appointed. "You lost your axe in the fight. You'll need this."
 
-"We should leave them," Cynewulf said. His voice sounded foreign to his own ears—flat, hollow, and devoid of the care he once had.
+"We should leave them," Cynewulf said, taking the langseax and running his belt through the scabbard loops. His voice sounded foreign to his own ears—flat, hollow, and devoid of the care he once had.
 
 "They’re brothers, Cynewulf."
 
@@ -220,7 +220,7 @@ Cynewulf introduced himself that morning. The telling took most of the day and p
 
 Cynewulf spoke often that winter. He spoke of kings who broke promises, captains who wasted lives, and jarls who demanded loyalty they never returned. He spoke of betrayals, defeats, and old wounds. The abbot listened patiently through all of it. After every story, the old man offered another job.
 
-Cynewulf broken one day. "Why? Every time I show you my pain, you offer me more to do. I'm not you're thrall."
+Cynewulf retorted one day. "Why? Every time I show you my pain, you offer me more to do. I'm not you're thrall."
 
 "No," said the abbot. "If I wanted a thrall, I'd have chosen a less argumentative one."
 
@@ -236,7 +236,7 @@ The abbot glanced up.
 
 He nodded toward the repaired shutter.
 
-"You seem happier when you have something to do," said the abbot. "Something to carry."
+"You seem happier when you have something to do," said the abbot. "Something to care about."
 
 Cynewulf frowned.
 
@@ -250,7 +250,7 @@ Cynewulf said nothing.
 
 "You're a fool, abbot. I've seen the Road. Nobody cares." Cynewulf was skeptical.
 
-"Am I not part of the Road too? Isn't that how you found me?" The abbot shrugged. "And aren't churches found at the end of roads?"
+"Am I not part of the Road too? Isn't that how you found me?" The abbot replied, genuinely offended. "And aren't churches found at the end of roads?"
 
 The silence that night hung in the air for a long time.
 
@@ -286,7 +286,7 @@ Cynewulf was unsure of this Welshman. Cynewulf knew what it meant to be unprepar
 
 "If you take me in, I have experience in negotiation. I'm well-versed in Latin." Cynewulf felt the road open to him once more. He was eager to see where it led.
 
-"Good!" The skirmisher's eyes widened. "Ha! You're acting like you even had a choice in the matter! My name is Madoc Bychan—Madoc the Younger. My parents had an older Madoc, but they kept him because he was the crazier one! I’m just the one who decided the world was too quiet, and all that crazy shouldn't be trapped in one family tree! Well, and they kicked me out. Welcome to the _Dannedd y Ddraig_ , The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it's the only one backed by coin! I'd learn to speak to forest critters if it paid coin!"
+"Good!" The skirmisher's eyes widened. "Ha! You're acting like you even had a choice in the matter! My name is Madoc Bychan—Madoc the Younger. My parents had an older Madoc, but they kept him because he was the crazier one! I’m just the one who decided the world was too quiet, and all that crazy shouldn't be trapped in one family tree! Well, and they kicked me out. Welcome to the _Dannedd y Ddraig_! The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it's the only one backed by coin! I'd learn to speak to forest critters if it paid coin!"
 
 The others greeted him with rough nods and claps on the shoulder, a warmth that felt like a brother in arms. They were quick to accept, but he imagined they were quick to turn if he crossed them.
 
@@ -312,7 +312,7 @@ Madoc smiled, a sharp, predatory expression, and eagerly began to display the to
 
 On his back was the _tarian_, a small round shield the size of a man's hand and forearm. Theirs had an iron-covered wooden pyramid protruding as the central boss, making it an effective punching weapon and easy for field-repair. 
 
-He gestured to the spear on his horse— "And on the 8th day, God decided to give every soldier in all of Christendom a stick with a point. We just decided we should use it better than anyone else!"
+He gestured to the spear on his horse— "And on the 8th day, God decided to give every soldier in all of Christendom a pointy stick. We just decided we should use it better than anyone else!"
 
 He patted his hip, where a short quiver of weighted darts, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_ - the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw."
 
