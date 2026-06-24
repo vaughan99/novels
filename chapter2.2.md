@@ -63,7 +63,7 @@ When he tried to move, he instantly knew how weak he was. He looked down to see 
 
 His lungs heaved. Only then did the pain truly register. His back ached, though he could not remember why. The world tilted around him, his senses fraying at the edges as darkness gathered at the corners of his vision.
 
-It felt like the air in his lungs was simply gone. Like he was slowly drowning like a fish on dry land. He steadied his breathing, long and slow, to keep from falling back into the black.
+It felt like the air in his lungs was simply gone. He steadied his breathing, long and slow, to keep from falling back into the black.
 
 He saw the ground. He was *on* the ground. Why? Questions flooded his addled mind, a frantic crowd of thoughts pushing on the walls of his skull. 
 
@@ -167,7 +167,7 @@ Then: _scrrtch_
 
 Another piece of daub entered another hole, higher up this time.
 
-Osric stared, and a slow, jagged smile crept across his face. He had finally yielded his mind. "Ha. Ha-ha! Fine! Have it your way... By the way... there's no straw... in your mud. If... you were... one of my children... you'd know... how to properly... seal a wall."
+Osric stared, and a slow, mad smile crept across his face. He had finally yielded his mind. "Ha. Ha-ha! Fine! Have it your way... By the way... there's no straw... in your mud. If... you were... one of my children... you'd know... how to properly... seal a wall."
 
 Then: _scrrtch_
 

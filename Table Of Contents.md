@@ -11,6 +11,7 @@
 [[chapter4.1]]
 [[chapter4.2]]
 [[chapter4.3]]
+[[chapter4.4]]
 [[chapter5.1]]
 [[chapter5.2]]
 [[chapter6]]

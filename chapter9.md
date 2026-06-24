@@ -64,7 +64,7 @@ Cynewulf: "The old shepherd? He gave me a confession."
 
 Muninn: "Yesssssss... the memory is taking to flight, brother."
 
-Huginn: "The Wild Hunt passes over the clean. You must show it that the road has not sullied your soul. It's time to be clean, priest."
+Huginn: "The Wild Hunt passes over the clean. You must show it that the Road has not sullied your soul. It's time to be clean, priest."
 
 Cynewulf: "Well... my first confession..."
 
@@ -74,23 +74,23 @@ Huginn: "Confess!"
 
 Cynewulf thought forward from that moment of his first confession. There had been the stealing of the small coins, and exchange of whispered glances, soft hands in the dark.
 
-Cynewulf: "I... stole money... from the church. It wasn't much. There were also ale-women. I... I wasn't a very good priest."
+Cynewulf: "I... stole money... from the church. It wasn't much. There were also ale-women. I... I wasn't meant for the priesthood."
 
 Muninn: "That's a one-worm meal for a magpie, priest. This bird you face is ravenous, and it remembers the *whole* corpse."
 
-Cynewulf thought back at all the unholy deeds he had done. All the mercenary work, the killing. He endured the cries of women being raped. He dug harder, the widows that he stole from, the men he had butchered. Some deserved it, most probably didn't. He's had drunken rages and ale-house slayings. He has killed women, and a few children too. Shame swept over him like a tidal force of nature.
+Cynewulf thought back at all the unholy deeds he had done. All the mercenary work, the killing. He endured the cries of women being raped. He dug harder, the widows that he stole from, the men he had butchered. Some deserved it, most probably didn't. He's had drunken rages and ale-house slayings. He had killed women, and a few children too. Shame swept over him like a tidal force of nature.
 
 Muninn: "His memory is a flood, brother. He needs to focus!"
 
 Huginn: "Choose ONE! QUICKLY!"
 
-Cynewulf thought back to the first time he had taken a life. Back in that day in his priest-home. Yes, there where sins before that, many of them very unclean, but that was the first life he had taken. It was the beginning of his journey on the road.
+Cynewulf thought back to the first time he had taken a life. Back in that day in his priest-home. Yes, there where sins before that, many of them very unclean, but that was the first life he had taken. It was the beginning of his journey on the Road.
 
 Cynewulf: "There was this boy. A Viking boy. He had burst into my priest-home during the raids. He was young, probably of seventeen winters, but he threatened my students, and me. He wanted to kill me! But I wasn't going to let him! He was evil! Hate spewed from him."
 
 Muninn: "Finally, a singular memory. Tell me priest, what was his name?"
 
-Cynewulf: "We didn't have time to pass pleasantries!!"
+Cynewulf: "Wh... Whaaat? We didn't have time to pass pleasantries!!"
 
 Huginn: "No priest. To name a thing is to respect a thing. What was his name?"
 
@@ -100,21 +100,21 @@ Muninn: "The flood is rising. The memory is sweeping. He's almost there!"
 
 Huginn: "The boy was a fresh scroll, priest, barely seventeen words on the page! He could've been your sheep, but instead you tossed the scroll into the fire."
 
-Muninn: "He will have no memories. Few will remember *him*."
+Muninn: "You let your hate control you that day. He will have no memories. Few will remember *him*."
 
 Huginn: "What would you tell him priest? What *should* you have told him?"
 
 Cynewulf's tears overflowed, and he cried. It was an authentic, forceful weep.
 
-Cynewulf: "... TO TAKE THE SILVER ON THE TABLE! LEAVE MY STUDENTS IN MY CARE... JUST LEAVE!"
+Cynewulf: "... TO TAKE THE SILVER ON THE TABLE! ... LEAVE MY STUDENTS IN MY CARE... JUST LEAVE!"
 
 Huginn: "Powerful, but that still doesn't name the boy. How can you apologize to him if you haven't named him?"
 
-Cynewulf: "I'M SORRY!!!! I can't take back his death. I can't unring the bell."
+Cynewulf: "I'M SORRY!!!! I can't take back his death. I can't un-ring the bell."
 
 Huginn: "Wodere is almost here. Penance waits for no man."
 
-Cynewulf clinged to the words that ravens had said... that few will remember the boy. But the last phrase struck Cynewulf like a physical blow, vibrating down into the very meadow of his soul. Penance. The raven meant it as a threat — a promise of the crushing tariff about to fall upon his head. But as the word hung in the freezing air. It was a lifeline thrown into his dark. If the boy had been denied a name by the road, and needed remembrance, then Cynewulf would give him this one. He would turn their punishment into a promise.
+Cynewulf clinged to the words that ravens had said... that few will remember the boy. But the last phrase struck Cynewulf like a physical blow, vibrating down into the very meadow of his soul. Penance. The raven meant it as a threat — a promise of the crushing tariff about to fall upon his head. But as the word hung in the freezing air. It was a lifeline thrown into his dark. If the boy had been denied a name by the Road, and needed remembrance, then Cynewulf would give him this one. He would turn their punishment into a promise.
 
 Cynewulf: "PENANCE! I... the boy... I name him... Penance. For the rest of my days, I shall keep your memory, Penance, and try to live a better life. Many have I killed, my sins are Legion. But I will start there, and that bell will toll every... single... day..."
 
@@ -128,15 +128,15 @@ Cynewulf looked up through his tears, and in the deep obsidian eyes of the inqui
 
 Muninn and Huginn both bowed, their heads held low, solemnly.
 
-Muninn and Huginn together: "Oremus."
+Muninn and Huginn together: "_Oremus, nam venatio Wodani instat._"
 
-Cynewulf knew this phrase well. "Let us pray."
+Cynewulf knew this phrase well. "Let us pray, for The Hunt of Woden draws near."
 
-Time began again, and his spirit was thrust back into his living body at violent speed.
+The _witan-sleep_ shattered, and his spirit was thrust back into his living body at violent speed.
 
 Cynewulf felt the raw jolting power as Wodbora threatened to leap from the scabbard. Rognvaldr was a sword-swing away, raised in the air as he charged. The hand pulled Wodbora.
 
-The silver steel cleared the wood-staves, and the sky above the church's belltower sung with fresh horror. There drew a freezing roar of wind and black rain — not a storm of nature, but a concussive shockwave of ancient rot, the clattering rattle of dry bones, and the deafening, suffocating flap of a thousand invisible wings. The air turned heavy as lead. Words leapt from the blade, surging like liquid iron up through his sword-arm, jolting his neck forward until his jaw nearly cracked. The ancient, jagged language of the Old Hate — words not of his own making—erupted from his throat like an unholy volcano.
+The textured steel cleared the wood-staves, and the sky above the church's belltower sung with fresh horror. There drew a freezing roar of wind and black rain — not a storm of nature, but a concussive shockwave of ancient rot, the clattering rattle of dry bones, and the deafening, suffocating flap of a thousand invisible wings. The air turned heavy as lead. Words leapt from the blade, surging like liquid iron up through his sword-arm, jolting his neck forward until his jaw nearly cracked. The ancient, jagged language of the Old Hate — words not of his own making—erupted from his throat like an unholy volcano.
 
 ---
 
@@ -150,7 +150,7 @@ The spell of the Wodbora was cast. "Atola Wodhere, ne þū lencg gebunden eart!"
 
 Rognvaldr swung, but his weapon froze. The lethal iron was pinned immovably by a concussive shockwave of freezing air and ancient rot — the Wodhere had arrived.
 
-From above the belltower of the church, a hooded white figure on an eight-legged spectral horse pointed a staff, and a flood of Hate unrolled into the yard.
+From above the belltower of the church, a hooded white figure on an eight-legged spectral horse pointed a spear, and a flood of Hate unrolled into the yard.
 
 It was a squall so vicious, it was stitched from uncountable pieces of broken souls, tearing mouths, raven wings, and predatory talons. It was a singular, vile host, not individuals, that burst forth in a hungry, swallowing torrent.
 
@@ -170,17 +170,19 @@ Muninn: "Remember this well, priest."
 
 Huginn: "You have in your hands the Wodbora, the Madness-Bringer, the Prophet of the Wodhere."
 
-Muninn: "It has the memories of everyone's sins. It knows the hates of the heart. If you stand in its presence having not confessed to one, it will *unmake* you. And you will join its host and join its memory."
+Muninn: "It has the memories of everyone's sins. It knows the hates of the heart. If you stand in its presence having not confessed to one, it will *unmake* you. And you will join its flight, forever."
 
-Huginn: "Be wise, Cynewulf, and ensure your heart is clean. Every time you grip the handle, the bell tolls anew for a confession. One that matches the gravity of the unleashing." 
+Huginn: "Be wise, Cynewulf, and ensure your heart is clean. Every time you grip the handle, the bell tolls anew for a confession. It will be heard by your God, and by us. If we judge it worthy, you shall be protected. If your God deems you worthy, perhaps your soul can be salvaged."
+
+Muninn: "Time will not be on your side to find the confession, and the penance. One hundred beats of the heart. No more."
 
 Cynewulf realized quickly that he must never draw the sword again. Not in good faith. How could he ensure that any in the presence of this horrible nightmare would be spared? Could he even offer such a terrible confession again?
 
 Cynewulf: "I shall remember my Penance. I shall never call on the Wodhere... I do not want to know that kind of Hate... ever... again."
 
-Muninn: "You're wise. But you remember still the clawing hands of the road. This weapon isn't safe anywhere. It will exist, in your care, until the last ride."
+Muninn: "You're wise. But you remember still the clawing hands of the Road. This weapon isn't safe anywhere. It will exist, in your care, until the last ride."
 
-Huginn: "Others will see it Cynewulf, and try to take it for themselves. They will bring the Wodhere, and it will consume them. You must protect the flock from the wolves ... and from themselves."
+Huginn: "Others will see it Cynewulf, and try to take it for themselves. They will bring the Wodhere, and it will consume them and all the souls around them. You must protect the flock from the wolves ... and from themselves."
 
 With that, the Ravens of Woden took to flight.
 
@@ -190,6 +192,7 @@ The storm had left nothing behind but an empty horror. There was a spray of bloo
 
 He knew that to unleash such a horrible cleansing was a grave curse. A grave responsibility. He dared not discard this - Wodbora. He was now its guardian. And if he had need of it again, the toll would be extreme.
 
+[TODO]
 The footfalls and calls of Elswyth and Osric echoed off the walls. They were fresh from the fight. She seemed unharmed, save for a few bruises. The wound on Osric was painful, but easliy managed.
 
 Elswyth and Osric said they saw a boil in the sky from a distance, a fright of screams and fury. Cynewulf refused to even acknowledge it. He stared at the space where Rognvaldr stood. They turned and they saw. They didn't understand... but now they were sure... they didn't want to.

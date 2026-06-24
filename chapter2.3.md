@@ -19,7 +19,7 @@ He took bites when he could, alternating with heaved breaths. It's as if he coul
 
 "You win. I'm fat now," he mocked again. He had no intention to let this creature nurse him back to health, but he knew he needed to stay here by the fire as long as possible.
 
-He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He saw that the firewood pile by the hearth had enough for a day, but he could use some bits of the roof. At some point - soon - he would need more.
+He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He saw that the firewood pile by the hearth had enough for a day, and he could use some bits of the roof. At some point - soon - he would need more.
 
 "You know... the mare? She likes... the braids. In her hair... I can tell." He felt a strange, cold necessity in the words. He had to talk to the creature. If he didn't, he was only talking to his own madness, and he knew that was a road he couldn't afford to walk. Better to speak to the monster in the wall than to the ghost in his own head. Even if he had to break his speech to gasp for breath.
 
@@ -31,11 +31,11 @@ Osric let out a wet, rattling laugh that turned into a cough. "Well, of course..
 
 He stared at the walls, waiting for the silence to break. When it didn't, he just nodded, as if the monster had given him a perfectly reasonable answer. "I agree... It was a bit tight, wasn't it? Well... next time... more practice."
 
-And so it went for another week. He had carved out a new life in the cove by the hearth, and the creature—his silent, invisible partner—would occasionally drag in fresh firewood while he slept. Osric took to making his own porridge, loudly critiquing the texture and complaining that the creature’s attempts were nowhere near as good as Ealhild’s.
+And so it went for another week. He had carved out a new life with a new thatch cove by the hearth, and the creature—his silent, invisible partner—would occasionally drag in fresh firewood while he slept. Osric took to making his own porridge, after loudly critiquing the texture and complaining that the creature’s attempts were nowhere near as good as Ealhild’s.
 
 He poked at the wall, he taunted the shadows, he told jokes that died in the cold air. But no matter how much he pried, no matter how much he laughed, the creature never betrayed its form. It remained a void in the room, a presence that did the work but refused to take the bow.
 
-Every day, he gained a bit more strength. The fog in his head began to thin. His mind had convinced itself that Ealhild was gone with the kids, perhaps to see her parents in York, far away from here. He knew it wasn't true. It was a lie that he could tell himself, because they lay outside his sight.
+Every day, he gained a bit more strength. The fog in his head began to thin. His mind had convinced itself that Ealhild was gone with the kids, perhaps to see her parents in the countryside of York, far away from here. He knew it wasn't true. It was a lie that he could tell himself, because they lay outside his sight.
 
 But he could crawl now. The lie had become vivid enough, he needed to prove it wrong... or _right_? He dragged himself across the floor, over to the corner where Ealhild and the children remained, frozen in their tomb of wreckage.
 
@@ -61,7 +61,7 @@ Deep beneath the earth, he heard it: a low, muffled hiss. A faint draft of burni
 
 Osric sat back on his heels, his mouth slightly open.
 
-"A draft-channel," he whispered. "You dug under the wall. You're burning the dung in the earth to heat the stone." He stared at the hot slate, then at the dark corners of the byre. "My grandfather told me the old Romans built their baths like this. You... you built a bath-house for my cows and heat it with their own manure?"
+"A draft-channel," he whispered. "You dug under the wall. You're burning the dung in the earth to heat the stone." He stared at the hot slate, then at the dark corners of the byre. "My grandfather told me the old Romans built their baths like this. You... you built a bath-house for my livestock and heat it with their own manure?"
 
 There was no answer, of course. But the wooden pail gave a soft, bubbling plop as the snow turned to water, as if to say - "of course".
 
@@ -145,13 +145,15 @@ The seax. The farm. The debts. The duty. All became his inheritance on that day.
 
 Winter finally gave way to the beginning of the thaw. Out on the road, the silence was broken by the sound of horses and men.
 
-It was not the scattered, weary tread of retreating fyrdmen. This sound was heavy and formal—the synchronized squelch of well-shod hooves in the mud, the rhythmic clink of fine harness, and the low, sparse murmurs of disciplined men.
+It was not the scattered, weary tread of merchants. This sound was heavy and formal—the synchronized squelch of hooves in the snow and mud, the rhythmic clink of fine harness, and the low, sparse murmurs of disciplined men.
 
 It was a company he did not expect.
 
 Osric stepped out past the threshold into the yard. He saw a fyrd company, roughly twelve men he knew, with oxen and carts. They were led by his lord's reeve, Galindo. He was a Spaniard, a presence of silken coat riding high on a southern saddle on a noble Andalusian horse. The saddle had toggles of bone and silver, and his tally sticks and ledger were clutched in a wrap of fine fur. The men were whispering and staring at the state of his cottage. They looked at him with wariness and disbelief.
 
-Galindo stopped his horse near the stone path. He looked with dismay at the state of the cottage, but his business was urgent. His boots were still clean from the hall, and he intended to keep them that way. He called from his horse. "Osric. Son of Wulfnoth. A host of Vikings has been holed up in Leicester for the winter. Fetch your spear and shield, and bid your family farewell. We march on the morrow. Our lord has promised us to help free Leicester from them." He delivered the last phrase with a brisk, almost clinical frankness, as if trying to cut through an unpleasant task.
+Galindo stopped his horse near the stone path. He looked with dismay at the state of the cottage, but his business was urgent. His boots were still clean from the hall, and he intended to keep them that way. He called from his horse.
+
+"Osric. Son of Wulfnoth. A host of Vikings has been holed up in Leicester for the winter. Fetch your spear and shield, and bid your family farewell. We march on the morrow. Our lord has promised us to help free Leicester from them." He delivered the last phrase with a brisk, almost clinical frankness, as if trying to cut through an unpleasant task.
 
 "Like ticks from a dog, I reckon!" yelled one of the fyrdmen from the cart. He had yet to look up from the reins of his cart, to see the wreck of the cottage before him.  
 
@@ -165,7 +167,7 @@ Osric stood. He had no answer. A deep, long silence settled over the yard, broke
 
 The nisse, hidden behind the threshold stone in its crack, watched the scene unfold.
 
-It saw the well-appointed man on his pretty horse pelting Osric with questions. Then, men went to the byre, started to lead away two dairy cows, and all the chickens. One of them went to the snow bank where the ice barrow lay, and removed the door. Osric became enraged, tackling the man. Several others pulled Osric off, holding him. The nisse bit its lip, confused by the commotion. The horse-man and Osric had more words. The words made Osric very sad, and he started crying. Yelling. Tears streamed down his face. The horse-man was listening, but then he wasn't. The men jeered Osric. One of them kicked him. The horse-man said more words and waved an arm, and the men went back into the byre. They took all the animals. The nisse watched in horror as the entire byre's contents were being tied to the carts. Osric was being tied too, by the hands, and led away on foot in the procession.
+It saw the well-appointed man on his pretty horse pelting Osric with questions. Then, men went to the byre, started to lead away two dairy cows, and all the chickens. They were talking to the horse-man, which led to more questions. One of them went to the snow bank where the ice barrow lay, and removed the door. Osric became enraged, tackling the man. Several others pulled Osric off, holding him. The nisse bit its lip, confused by the commotion. The horse-man and Osric had more words. The words made Osric very sad, and he started crying. Yelling. Tears streamed down his face. The horse-man was listening, but then he wasn't. The men jeered Osric. One of them kicked him. The horse-man said more words and waved an arm, and the men went back into the byre. They took all the animals. The nisse watched in horror as the entire byre's contents were being tied to the carts. Osric was being tied too, by the hands, and led away on foot in the procession.
 
 Then, the nisse was all alone.
 

@@ -111,7 +111,6 @@ Stand up tall, he has no pole,
 Watch him howl, ha! fragile foal,
 ```
 
-[TODO]
 She stood up as he howled through the pain, the sound distant and muffled like it struggled to exist. Her eyes scanned.
 
 ```
@@ -119,14 +118,34 @@ He drops the wood for slicey steel,
 But make his ... hand ... into ... your ... meal.
 ```
 
-The shield fell away into the abyss that was the floor. His sword-arm had no feeling, and it was awkward to draw his knife with his shield hand. His hand was grasping at the handle of his seax. His hand was the size of a dog struggling to pull a sack of grain.
+The shield slipped from her notice. The wound vanished. The warrior vanished.
 
-She stepped into his struggling guard, gripped *Monanleoht* with both hands and brought it down in a hard, crushing arc. The blade sheared through his wrist. A spray of hot blood was followed by the meat hitting the tile. His battle was done. Time resumed. 
+Only the hand remained.
 
-Elswyth had handled the first Viking, and she thought it was miraculous. The blade's 'poison', the redcap's manipulation of scale and time, made combat seem dance-like and almost comical. "I can't believe..." she started.
+It clawed for the handle of his seax.
+
+The hand swelled in her sight until it seemed larger than his head. Larger than the knife it sought. Every finger stood apart. Every knuckle. Every tendon beneath the skin.
+
+It looked slow.
+
+Not because it moved slowly.
+
+Because she could see too much of it.
+
+She stepped into his struggling guard, gripped _Monanleoht_ with both hands and brought it down in a hard, crushing arc. The blade sheared through his wrist. A spray of hot blood was followed by the severed hand striking the tile. His battle was done.
+
+The world lurched.
+
+The giant hand became a hand again. The blood became blood. The warrior became a warrior. Yet something still felt wrong. Every object in the room seemed poised upon the head of a pin, balanced between growing enormous and shrinking to nothing. The world had remembered its proper shape, but every object negotiated its certainty.
+
+Elswyth swayed.
+
+She had handled the first Viking, and she thought it miraculous. The blade's poison, the redcap's tampering with her senses, made combat seem less like fighting and more like some absurd moon-dance where every answer arrived before she knew the question.
+
+"I can't believe..." she started.
 
 "
-Oh, first time to draw blood? Merely adequate, meadow-bud. A bit disappointing though... the boy’s blood-juice is sweet, yes, but harvested too early. It is under-mooned to a proper redcap's liking. A flat profile, definitely on the waning side. Still.. the essence of roasted morel from his last feast on the nose has that woodsy depth, rescuing the ... wait a beat... I... I can taste?! I can TASTE! Those crazy soul-flunkies didn't just lock me in the dark... they gave me the keys to the larder! Oh, those beautiful, soot-stained forge-leeches! They knew I'd starve in here. They knew I'd rot. So they made the steel my tongue! Every nick, every scratch... it's a crumb! Every cut... a banquet! Oh those forge-elves are genius!
+Oh, first time to draw blood? Merely adequate, meadow-bud. A bit disappointing though... the boy’s blood-juice is sweet, yes, but harvested too early. It is under-mooned. Far too under-mooned to a proper redcap's liking. A flat profile, definitely on the waning side. Still.. the essence of roasted morel from his last feast on the nose has that woodsy depth, rescuing the ... wait a beat... I... I can taste?! I CAN TASTE! Those crazy soul-flunkies didn't just lock me in the dark... they gave me the keys to the larder! Oh, those beautiful, soot-stained forge-leeches! They knew I'd starve in here. They knew I'd rot. So they made the steel my tongue! Every blood-drop... a morsel! Every cut... a banquet! Oh those forge-elves are genius!
 "
 
 The second Ulfhednar was slow to approach from the pool, being wary of what he'd just seen. Obviously there was more to this girl than met the hunter's eye. He was well-appointed: chain full-shirt, wolf headdress over spangenhelm, hand axe and stout shield. He had a professional battle-gait, and was ready.

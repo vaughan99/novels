@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter8.md",
+                "file": "chapter4.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter8"
+              "title": "chapter4.4"
             }
           }
         ],
@@ -310,6 +310,13 @@
   },
   "active": "e0ad6be8ecf59285",
   "lastOpenFiles": [
+    "Table Of Contents.md",
+    "chapter2.3.md",
+    "chapter2.2.md",
+    "chapter2.1.md",
+    "chapter1.md",
+    "chapter9.md",
+    "chapter8.md",
     "chapter7.md",
     "chapter6.md",
     "chapter5.2.md",
@@ -318,24 +325,17 @@
     "chapter4.3.md",
     "chapter4.2.md",
     "chapter4.1.md",
-    "chapter3.1.md",
-    "chapter2.3.md",
-    "chapter2.2.md",
-    "chapter2.1.md",
-    "chapter1.md",
-    "story ideas.md",
-    "chapter9.md",
     "chapter3.3.md",
+    "chapter3.2.md",
+    "chapter3.1.md",
+    "story ideas.md",
     "prologue.md",
     "afterword.md",
-    "chapter3.2.md",
     "copilot/copilot-conversations/Chapter_4.4_Repeated_Sequences@20260618_154410.md",
     "epilogue.md",
     "chapter10.md",
-    "chapter8.md",
     "afterlife.md",
     "copilot/copilot-conversations/Reading_Chapter_4.1@20260614_214456.md",
-    "title.md",
     "artwork/wodbora/Atola_Wodhere_No_You.png",
     "artwork/wodbora/death_for_wolves.png",
     "artwork/wodbora/geri_freki_1.png",

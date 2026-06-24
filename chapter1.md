@@ -94,11 +94,11 @@ An old veteran who sat alone in the corner with patchwork armor, a large shield,
 
 A one-eyed archer was making merry with the barmaid. He mentioned "I can only fire in one direction at a time" - his humor got him in. 
 
-Two young brothers were abandoned by their eldest brother's warband. He thought so little of them, he didn't bother to wake them for departure. They brought spears, shields, and a bitter disposition.
+Two young brothers were abandoned by their eldest brother's warband. He thought so little of them, he didn't bother to wake them for departure. They brought spears, shields, and a bitter disposition. Their fire got them in.
 
 Two Northmen occupied a table near the door. Their clothes were Scandinavian, their silver was foreign, and their accents belonged much further east than Denmark. When Cynewulf asked whether they served Olaf, both laughed and spat on the ground. That answer got them in.
 
-They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time, sober, he had judged men by who might keep one from harm.
+They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time, he had judged men by who might keep one from harm.
 
 Galindo looked up from the baggage train as Cynewulf approached with the recruits in tow.
 
@@ -206,7 +206,7 @@ Rognvaldr started a drum chain. Each wolf began to slap his thighs in unison, a 
 
 Wolfhere paused, looking into the eyes of each of his wolf-men, one at a time. Their eyes were wide now, their hands slapping rhythmically against their thighs faster and faster. Some were growling, some barking, and others stood with thick, white saliva dripping from their hungry maws.
 
-Rognvaldr moved down the line like a butcher personally checking each slab of meat on the hook. He wasn't a man of words, but he was a master of the frenzy. He grabbed the youngest of the _ulfhednar_ by the shoulders and screamed, inches from the boy's face. The youth screamed back, a raw, jagged sound, and lunged forward, sinking his teeth into Rognvaldr’s arm. Rognvaldr only roared in approval, shoving the boy back into the pack.
+Rognvaldr moved down the line like a butcher personally checking each slab of meat on the hook. He wasn't a man of words, but he was a master of the frenzy. He grabbed the youngest of the _ulfhednar_ by the shoulders and screamed, inches from the boy's face. The youth screamed back, a raw, visceral sound, and lunged forward, sinking his teeth into Rognvaldr’s arm. Rognvaldr only roared in approval, shoving the boy back into the pack.
 
 Wolfhere seized the moment, his voice cutting through the chaos:
 
