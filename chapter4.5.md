@@ -32,7 +32,7 @@ Once the camp was established, Madoc and Milli gathered everyone to distribute t
 
 Madoc smiled, a sharp, predatory expression, and eagerly began to display the tools of his trade. "We’re not soldiers, Saxon. We’re hunters," Madoc said. "And we have a tool for every quarry. In my youth I spent a winter in an old Roman fort. We found the writings of one of their smiths. I can't tell Latin from chicken scratch, but the old bastard drew pictures."
 
-On his back was the _tarian_, a small round shield the size of a man's hand and forearm. Theirs had an iron-covered wooden pyramid protruding as the central boss, making it an effective punching weapon and easy for field-repair. 
+On his back was the _tarian_, a small round shield the size of a man's hand and forearm. Theirs had an iron-covered wooden pyramid protruding as the central boss, making it an effective punching weapon and easy for field-repair. It was not an average tarian.
 
 He gestured to the spear in his hands— "And on the 8th day, God decided to give every soldier in all of Christendom a pointy stick. We just decided we should use it better than anyone else!"
 
@@ -197,11 +197,9 @@ While every gaze remained fixed on the unseen Welsh, ten more chains of toothed 
 
 Madoc remained standing, one hand raised.
 
-He wasn't watching the Vikings.
+He was watching the eyes of their leader, looking for just the right moment.
 
-He was watching Baldy.
-
-The youngest _Dragon_ waited behind a roadside oak, every muscle taut, waiting for the signal.
+Baldy was looking at Madoc. The youngest _Dragon_ waited behind a roadside oak, every muscle taut, waiting for the signal.
 
 Madoc saw their leader looking for a target, anything to take his mind off of the stench. He was desperate for a fight. Madoc clenched his fist, screaming "Now!" Baldy ran down the length of the road, mindful of his step as he crossed just behind the rows of caltrops.
 
@@ -247,7 +245,11 @@ Madoc's smiled didn't disappear. It widened. "He most certainly had a shield, fr
 
 "You gambled his life on whether I _might_ tackle a Viking?"
 
-"No, I trusted you. I can't hold every man's hand through a battle! You stood exactly where he needed you to."
+"No, I trusted _you_. I can't hold every man's hand through a battle! You stood exactly where he needed you."
+
+"Where?"
+
+"Next to us."
 
 Cynewulf was beside himself.
 
@@ -257,7 +259,7 @@ Cynewulf looked down at his _Griffon_ shield. Planted in the boards was a bearde
 
 As he weighed the axe in his hand, an odd thought stopped him. Since the day at the Wall, he had never once wondered what weapon he preferred. Yet in all those years of anger, battle, and wandering, he had never picked up another axe. Not once.
 
-Cynewulf turned to Baldy. "I'm done with axes friend. You keep it." The _Dragon_ took the axe without a word. Cynewulf quietly stepped away.
+Cynewulf turned to Baldy. "I'm done with axes friend. You keep it." The young _Dragon_ took the axe without a word. Cynewulf quietly stepped away.
 
 Madoc called out, "If the bishop throws five pounds of silver at your shield, do I get to keep it?"
 
@@ -265,16 +267,28 @@ There was no response.
 
 "Well, 'keep the axe,' he says. I'd rather have the shield." Madoc stared at the broken planks on the ground. "Fine shield."
 
+Over the next two weeks, the _Dragon's Teeth_ hunted the Road four more times. The flow of supplies nearly stopped as stories spread of the haunted Charnwood. Some swore it was populated by foul fairies riding earth-dragons. Others insisted sorcerers haunted the woods. Later, as stories merged, there was even talk of a phantom _Coaler-Wight_. They said she commanded the coals beneath the earth to bite a man's feet, then sent her foul goblins shrieking from the trees.
+
+The next warband sent south would not be marching against men. It would be marching against legend.
+
+In all of that, only one _Dragon_ caught a glancing blow from a thrown axe.
+
+And it wasn't Baldy.
+
 _A shield often bears the mark of a community, declaring that if one stands, many stand behind it. But when a foreign shield bears the blow instead, it tells the community something far more important—that they are worth protecting._
 
 _So sayeth the Shield._
 
 ---
 
-Huginn: "I notice you didn't interrupt me once since the Dragons showed up."
+Huginn: "I notice you didn't interrupt me once since the _Dragon's Teeth_ showed up."
 
 Muninn: "I like Dragons. Beasts like that have long, interesting memories."
 
 Huginn: "Admit it. You like the weaponry. The gadgets."
 
 Muninn: "Mild joy. I may have even smiled once. The Roman drawings were a delight."
+
+Huginn: "Yes, but their weapons make for inedible corpses."
+
+Muninn: "I've watched you for a thousand years. Fine dining and freshness have never occupied the same thought where _you're_ concerned."

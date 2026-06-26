@@ -1,6 +1,10 @@
 ## Prologue: Same Story, Two Tails
 
-The children sat in a ragged circle in the tall grass of the park, their eyes fixed on two black shadows perched on an ancient, iron-grey limb. The ravens were waiting for stragglers to move in, and the whispers to get quieter.
+High above the world, where the winds carried the words of kings and beggars alike, flew two ravens. One was called Huginn. His mind delighted in possibilities, forever wondering what might yet be. The other was Muninn. He remembered every face, every word, and every deed he had ever witnessed since the beginning of time. Long had they wandered the lands of men, brothers-of-the-wing, gathering ancient stories to carry back to their master.
+
+The two landed on a tree-branch in a park.
+
+The children sat in a ragged circle in the tall grass, their eyes fixed on the two black shadows perched on the ancient, iron-grey limb. The ravens waited for the last stragglers to settle and the whispers to fade.
 
 "A story for the young-lings, to feed their hungry minds!" Huginn croaks, his beak sharp as a needle.
 

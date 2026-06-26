@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter4.5.md",
+                "file": "prologue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter4.5"
+              "title": "prologue"
             }
           }
         ],
@@ -310,16 +310,21 @@
   },
   "active": "99353a419e10100e",
   "lastOpenFiles": [
-    "chapter4.4.md",
+    "chapter1.md",
     "chapter4.5.md",
-    "chapter3.1.md",
+    "chapter4.4.md",
+    "chapter4.3.md",
+    "chapter4.2.md",
+    "chapter4.1.md",
     "chapter3.2.md",
     "chapter3.3.md",
-    "chapter4.3.md",
+    "chapter3.1.md",
+    "chapter2.3.md",
+    "chapter2.2.md",
+    "chapter2.1.md",
+    "afterword.md",
     "artwork/monanleoht/gnmaZDQ45rDB2AsdvLH4QvCzHWZZfHvLVUTFjuSAemBiuug27IfudnpGxwTYYDg3_ZnWAP3aW9PnxpGr8uiSfYwuuPwmpzMGGa7pM8kstHP4cclvhlDD-34yBiCRc5IUloQ2KkwoK6iVb0jZJGgceaF1Ff5i9or7mQWemVJ.jpg",
     "artwork/monanleoht/Unconfirmed 568137.crdownload",
-    "chapter4.1.md",
-    "chapter4.2.md",
     "copilot/copilot-conversations/Corrupting_the_Priesthood_Narrative@20260625_002125.md",
     "artwork/monanleoht/seax04_copy_107.jpg",
     "artwork/monanleoht/Unconfirmed 118826.crdownload",
@@ -335,10 +340,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-conversations/Alternate_Dialogue_Direction@20260604_115732.md",
-    "copilot/copilot-conversations/Chapter_4.4_Repeated_Sequences@20260618_154410.md",
-    "copilot/copilot-conversations/Forging_the_White_Steel@20260610_115750.md",
     "artwork/wodbora/Wodbora_says.png",
     "artwork/wodbora/shears_for_sheep.png",
     "artwork/wodbora/raven_bailiff_3.png",

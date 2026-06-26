@@ -22,7 +22,7 @@ That morning, she took the news of the peace well. She had no ear for war. The V
 
 Her eyes were darting around the camp, trying to find the eyes of anyone she had not already approached with her bounty, and her eyes fell on Cynewulf, a face she barely recognized.
 
-Cynewulf, also of Leicester, was strong and salt-bearded, yet terribly weary. A priest at first, he gave up that life for the life of a soldier and highwayman. He had the cake of the road stuck to him, a tired mercenary in this war, fighting for the Saxons. His foreign warband brought him to Leicester. They were harassing Viking reinforcements from York and had been very effective.
+Cynewulf, also of Leicester, was strong and salt-bearded, yet weary. A priest at first, he gave up that life for the life of a soldier and highwayman. He had the cake of the road stuck to him, a tired mercenary in this war, fighting for the Saxons. His foreign warband brought him to Leicester. They were harassing Viking reinforcements from York and had been very effective.
 
 The moment the campaign ended, their charter bid them return home. They traded farewells and turned west. Cynewulf watched them disappear down the road until they were little more than colored specks against the spring hills. Only then did he turn back toward Leicester. The road felt quieter without them.
 
@@ -90,13 +90,13 @@ Cynewulf scoured the room with his eyes, like a wolf searching for another who h
 
 And that is where he found them:
 
-An old veteran who sat alone in the corner with patchwork armor, a large shield, and a bearded axe. His hair and scars said Dane, but his manners said Saxon.
+An old veteran who sat alone in the corner with patchwork armor, a large shield, and a bearded axe. His hair and scars said Dane, but his manners said Saxon. His competency got him in.
 
 A one-eyed archer was making merry with the barmaid. He mentioned "I can only fire in one direction at a time" - his humor got him in. 
 
 Two young brothers were abandoned by their eldest brother's warband. He thought so little of them, he didn't bother to wake them for departure. They brought spears, shields, and a bitter disposition. Their fire got them in.
 
-Two Northmen occupied a table near the door. Their clothes were Scandinavian, their silver was foreign, and their accents belonged much further east than Denmark. When Cynewulf asked whether they served Olaf, both laughed and spat on the ground. That answer got them in.
+Two Northmen occupied a table near the door. Their clothes were Scandinavian, their silver was foreign, and their accents belonged much further east than Denmark. When Cynewulf asked whether they served Olaf, both laughed and spat on the ground. Their strength and their answer got them in.
 
 They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time, he had judged men by who might keep one from harm.
 
@@ -128,7 +128,7 @@ The Northmen shrugged.
 
 Galindo snapped back, "Some of you are worth that, some far less."
 
-"We'll play no favorites here. Three and a half," Cynewulf said. Cynewulf knew that uneven pay was a disaster for morale among mercenaries.
+"We'll play no favorites here. Three and a half," Cynewulf said. Cynewulf knew that uneven pay was a disaster for morale among mercenaries. If someone didn't pull their weight, the others would correct it.
 
 Galindo studied him for a moment.
 
