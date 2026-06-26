@@ -277,4 +277,4 @@ Muninn: "I like Dragons. Beasts like that have long, interesting memories."
 
 Huginn: "Admit it. You like the weaponry. The gadgets."
 
-Muninn: "Mild joy. I may have even smiled once. The Roman drawings were a delight, if a bit cartoonish."
+Muninn: "Mild joy. I may have even smiled once. The Roman drawings were a delight."
