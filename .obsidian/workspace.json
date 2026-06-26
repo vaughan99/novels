@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prologue.md",
+                "file": "chapter4.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prologue"
+              "title": "chapter4.1"
             }
           }
         ],
@@ -310,7 +310,9 @@
   },
   "active": "99353a419e10100e",
   "lastOpenFiles": [
+    "chapter2.1.md",
     "chapter1.md",
+    "prologue.md",
     "chapter4.5.md",
     "chapter4.4.md",
     "chapter4.3.md",
@@ -321,7 +323,6 @@
     "chapter3.1.md",
     "chapter2.3.md",
     "chapter2.2.md",
-    "chapter2.1.md",
     "afterword.md",
     "artwork/monanleoht/gnmaZDQ45rDB2AsdvLH4QvCzHWZZfHvLVUTFjuSAemBiuug27IfudnpGxwTYYDg3_ZnWAP3aW9PnxpGr8uiSfYwuuPwmpzMGGa7pM8kstHP4cclvhlDD-34yBiCRc5IUloQ2KkwoK6iVb0jZJGgceaF1Ff5i9or7mQWemVJ.jpg",
     "artwork/monanleoht/Unconfirmed 568137.crdownload",
@@ -339,7 +340,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "artwork/wodbora/Wodbora_says.png",
     "artwork/wodbora/shears_for_sheep.png",
     "artwork/wodbora/raven_bailiff_3.png",

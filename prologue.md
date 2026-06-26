@@ -2,37 +2,37 @@
 
 High above the world, where the winds carried the words of kings and beggars alike, flew two ravens. One was called Huginn. His mind delighted in possibilities, forever wondering what might yet be. The other was Muninn. He remembered every face, every word, and every deed he had ever witnessed since the beginning of time. Long had they wandered the lands of men, brothers-of-the-wing, gathering ancient stories to carry back to their master.
 
-The two landed on a tree-branch in a park.
+The two landed on a branch in a park.
 
 The children sat in a ragged circle in the tall grass, their eyes fixed on the two black shadows perched on the ancient, iron-grey limb. The ravens waited for the last stragglers to settle and the whispers to fade.
 
-"A story for the young-lings, to feed their hungry minds!" Huginn croaks, his beak sharp as a needle.
+"A story for the young-lings, to feed their hungry minds!" Huginn croaked, his beak sharp as a needle.
 
-"Which story? There are so many to recount." Muninn added, the words clicking into place.
+"Which story? There are so many to recount." Muninn added.
 
-Huginn exclaims... "Beowulf! A both sad and lovely tale..."
+Huginn: "Beowulf! A sad and lovely tale..."
 
-Muninn waves a wing... "No! They'll never remember it. Too boring for young minds."
+Muninn waved a wing... "No! They'll never remember it. Too boring for young minds."
 
-Huginn replies, "How about the saga of Sigurd the Dragon Slayer?"
+Huginn: "How about the saga of Sigurd the Dragon Slayer?"
 
-Muninn moans, "I told that story last week, remember? Pick again!"
+Muninn: "I told that story last week, remember? Pick again!"
 
-Huginn tilts his head, a single dark eye gleaming with a sharp calculation that vanishes the instant his beak opens. He leans back on the bench, deliberately fluffing his feathers to mimic a harmless, bumbling fool. 
+Huginn tilted his head, a single dark eye gleaming with a sharp calculation that vanished the instant his beak opened. He leaned back on the bench, deliberately fluffing his feathers to mimic a harmless, bumbling fool.
 
-"Wait," Huginn chirps innocently. "What about the one where... oh, what was it? There were these humans on a road. They got stuck in the mud. There was more mud... and then they were punked... in the mud?"
+"Wait," Huginn chirped innocently. "What about the one where... oh, what was it? There were these humans on a road. They got stuck in the mud. There was more mud... and then they were punked... in the mud?"
 
-Muninn snorts, his feathers ruffling with immediate, superior irritation. "You absolute bird-brain. That wasn't a simple mud-stuck caravan! That was 941 at the Jewry Wall! Always the slaughter with you, always the murderiness hidden beneath a bog!"
+Muninn snorted, his feathers ruffling with immediate, superior irritation. "You absolute bird-brain. That wasn't a simple mud-stuck caravan! That was 943 at the Jewry Wall! Always the slaughter with you, always the murderiness hidden beneath a bog!"
 
-Huginn yells, "Ohhh, NOW I REMEMBER! That's the day the Boss gave that guy the Ride of his life!"
+Huginn: "Ohhh, NOW I REMEMBER! That was the day the Boss gave that guy the Ride of his life!"
 
-Muninn nods arrogantly and turns to the park. "Listen well children. Commit this to mind and memory, for it is a tale of ..."
+Muninn nodded arrogantly and turned to the park. "Listen well children. Commit this to mind and memory, for it is a tale of ..."
 
-Huginn interrupts, his wings instantly flaring as the trap snaps shut. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me? I connect all the pieces into the epic tale that it is. It's... mine!" Huginn beats his wings and repeats, "mine! mine! mine!"
+Huginn interrupted, his wings instantly flaring as the trap snaps shut. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me? I connect all the pieces into the epic tale that it is. It's... mine!" Huginn beat his wings and repeated, "mine! mine! mine!"
 
-Muninn, rolling his obsidian eyes, shakes his head... a slow shake practiced from seemingly the beginning of time itself. "You... ALWAYS... want to own the tale. Thankfully, I'm here... to keep the oath of the thing true. Proceed."
+Muninn, rolling his obsidian eyes, shook his head... a slow shake practiced from seemingly the beginning of time itself. "You... ALWAYS... want to own the tale. Thankfully, I'm here... to keep the oath of the thing true. Proceed."
 
-Huginn continues, using the twinkle in his eye to betray the smile his face couldn't give. The children stared curiously but intently, mesmerized by the movements and cackling of the ravens.
+Huginn continued, the twinkle in his eye betraying the smile his face couldn't give. The children stared as he spread his wings and spoke of faraway lands and ancient deeds; of foul creatures, ghosts, and goblins; of myths and legends, and the truths hidden behind them.
 
 "It all started at the end of the Siege of Leicester, 943 _Anno Domini_, in eastern England. I believe it was... the rains of spring.".
 

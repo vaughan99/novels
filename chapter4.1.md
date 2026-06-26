@@ -56,9 +56,7 @@ Another journey on the Road. Cynewulf helped load the wagon each time. He was pr
 
 The Church had become a crossroads. Travelers, merchants, pilgrims, reeves, priests, and wandering scholars all passed beneath its roof. As Cynewulf's Latin improved, he was often asked to assist them. He copied letters, translated names, and listened as visitors recounted distant lands while waiting for an audience with the clergy.
 
-The confessional became another window upon the world.
-
-People confessed more than sins.
+The confessional became another window upon the world. People confessed more than sins.
 
 A drover confessed driving cattle across half of England.
 
@@ -68,33 +66,15 @@ A sailor confessed surviving storms beyond the eastern sea.
 
 A soldier confessed battles fought under kings Cynewulf had never seen.
 
-Each confession painted another road he had never walked.
+Each confession painted another Road he had never walked. He listened carefully. Perhaps too carefully. The older priests heard burdens. Cynewulf heard stories.
 
-He listened carefully.
+His tutors praised his memory. Latin came easily to him. Scripture followed. He copied manuscripts with a careful hand and learned the order of the Mass. Villagers who had known him as a charcoal-blackened caster's apprentice now bowed their heads as he read from books they themselves could not understand.
 
-Perhaps too carefully.
-
-The older priests heard burdens.
-
-Cynewulf heard stories.
-
-His tutors praised his memory. Latin came easily to him. Scripture followed. He copied manuscripts with a careful hand and learned the order of the Mass. Villagers who had known him as a charcoal-blackened apprentice now bowed their heads as he read from books they themselves could not understand.
-
-The change fascinated him.
-
-The words had not changed.
-
-Only the speaker had.
+The change fascinated him. The words had not changed. Only the speaker had.
 
 He noticed how silence fell when Latin filled the nave. Farmers who would argue endlessly with one another grew quiet before a language none of them spoke. Widows who scarcely noticed him in the marketplace suddenly sought his blessing after services.
 
-It puzzled him at first.
-
-Then it simply became another fact of the world.
-
-Knowledge carried weight.
-
-Some knowledge carried more.
+It puzzled him at first. Then it simply became another fact of the world. Knowledge carried weight. Some knowledge carried more.
 
 Years passed.
 
@@ -102,51 +82,23 @@ The bell-master entrusted him with greater responsibility. He learned to judge t
 
 Yet it was never those unseen hands that people remembered.
 
-The villagers praised the priest.
+The villagers praised the priest. The bishop thanked the donor. The lord received credit for funding the work. The founder signed the casting. The carpenter's name was occasionally remembered. The apprentices were forgotten.
 
-The bishop thanked the donor.
+Cynewulf did not complain. He simply noticed.
 
-The lord received credit for funding the work.
+Godric always seemed content with that arrangement. "Let the bell remember us," he once said while packing his tools for another journey. "People forget craftsmen. Good work doesn't."
 
-The founder signed the casting.
-
-The carpenter's name was occasionally remembered.
-
-The apprentices were forgotten.
-
-Cynewulf did not complain.
-
-He simply noticed.
-
-Godric always seemed content with that arrangement.
-
-"Let the bell remember us," he once said while packing his tools for another journey. "People forget craftsmen. Good work doesn't."
-
-Cynewulf nodded.
-
-He was not certain he agreed.
+Cynewulf nodded, though he was not certain he agreed.
 
 As Godric's reputation grew, his absences lengthened. Leicester became less a permanent home than a place to return between commissions. Father and son still worked well together whenever those paths crossed, but increasingly they resembled fellow craftsmen sharing a workshop rather than a family sharing a household.
 
-Cynewulf never begrudged his father's success.
+Cynewulf never begrudged his father's success. How could he?
 
-How could he?
+He had watched every step that earned it. He had held the beams while they were cut. He had climbed the scaffolds. He had hauled the ropes. He had spent long evenings solving the same problems beside him.
 
-He had watched every step that earned it.
+When another bishop praised Godric's ingenuity, Cynewulf felt pride before anything else. Pride... and something he lacked the words to confess. Cynewulf began to feel that part of himself had been put into the casting of the bell and the frame that held it.
 
-He had held the beams while they were cut.
-
-He had climbed the scaffolds.
-
-He had hauled the ropes.
-
-He had spent long evenings solving the same problems beside him.
-
-When another bishop praised Godric's ingenuity, Cynewulf felt pride before anything else.
-
-Pride...
-
-and something else that never quite found a name.
+Then, just as quickly, the warmth soured. A tiny ember of resentment glowed somewhere beneath his ribs before he smothered it in shame. The praise belonged to Godric. He knew that. Why, then, did the ember refuse to die?
 
 The Road seemed always to pass through Leicester without stopping for him.
 
@@ -154,22 +106,37 @@ He watched travelers arrive dusty and leave dustier still. Every face carried an
 
 He wondered, more often than he admitted even to himself, what lay beyond the next hill.
 
-He wondered whether God intended every calling to remain rooted in one place.
+He wondered whether God intended every calling to remain rooted in one place. He wondered whether service might someday ask him to walk those same roads his father now traveled. The questions felt harmless enough. After all, every road eventually led to another church. And every church, surely, had use for another priest.
 
-He wondered whether service might someday ask him to walk those same roads his father now traveled.
+Years passed, and Cynewulf's apprenticeship came to its proper end. Before the altar he knelt, received the laying on of hands, and rose a deacon of the Church. The work changed little. He still swept the nave, prepared the altar, tended the bells. Yet something had changed all the same. He was no longer merely the master's hands. He had become one of the bell-masters himself.
 
-The questions felt harmless enough.
+The first serious quarrel came not over prayer, but over bronze.
 
-After all, every road eventually led to another church.
+A younger workman reached for the damp mold before the metal had settled. Cynewulf caught his wrist and shoved him back so hard the man stumbled into another apprentice. Harsh words followed. One accusation became another until both men stood red-faced beside the crucible, shouting over the roar of the furnace.
 
-And every church, surely, had use for another priest.
+Godric was no longer there to parent him. Godric had sold the family cottage to buy passage through Frankia and beyond, to take his knowledge all the way to Rome.
 
+The old priest stepped between them.
 
-[TODO]
+"Enough."
 
-He found that ale-wenches sought absolution not at the confession, but in private using soft hands and soft lips.
+His voice was quiet.
 
-He denied the rot, of course. "These are but momentary weaknesses," he would tell himself, his voice smooth as polished bronze. "Chaff that falls from the wheat. We are all sinners, and surely God would want all to have a small semblance of a purse."
+The foundry obeyed.
+
+For a long moment he looked only at Cynewulf.
+
+"I have watched men tend hearths my whole life," he said. "A good fire warms a house. A bad one devours it."
+
+Cynewulf lowered his eyes.
+
+"The flame in you burns hot, my son. There is great warmth in it. But I fear there is also a little coal that never cools."
+
+The words lingered long after the bronze had hardened.
+
+Cynewulf remembered the warning.
+
+He did not yet understand it.
 
 Finally, a few weeks before Shrove Tuesday arrived that year, he took his vows and was ordained a priest. When the bells rang out once more for the Shrove Tuesday confessions, Cynewulf found himself come full circle. He sat in the very seat where he had once confessed his own "ember-hate" as a boy, ready now to hear the confessions of his own flock. He kept the small, dark sins of his own heart tucked away in the back of his mind, convincing himself that he was the perfect guide—a man who knew the weight of sin, and therefore, a man who knew exactly how to help others find their absolution.
 
