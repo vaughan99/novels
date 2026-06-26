@@ -7,15 +7,17 @@ _The road does not care for confessions, nor does it grant absolution. But it is
 
 _These are the lessons of the Road._
 
-For the first three days out of Leicester, Cynewulf carried a world of silver, or so it seemed. The boy's shield was hung over his back, and the axe he stole was stuffed into his belt. The sack of stolen church plate and goblets made his left hand numb with pain, while the small chest of coin rubbed his right hip raw. He wore the thegn's donation - the stolen iron byrnie - over his priestly woolens, the mail cold and greasy against his ribs. 
+For the first three days out of Leicester, Cynewulf carried a world of silver, or so it seemed. The boy's shield was hung over his back, and the axe he stole was stuffed into his belt. The sack of stolen church plate and goblets made his left hand numb with pain, while the small chest of coin rubbed his right hip raw. He wore the thegn's donation - the stolen iron byrnie - over his priestly woolens, the mail weighing down his every step. 
 
 He troubled anyone who might have a bit of food, or a drink of water. He managed to pay a shepherd moving sheep on the road for a bit of dried lamb. He found water in a pond off the road, wet from the spring rain. That didn't last long, though. He slept on the dirt, off the road. He never understood just how exhausting travel can be. He knew working the bell pits had made him strong, but nothing prepared him for this.
 
-He was a man reborn. He was a man who truly misunderstood distance.
+On that first day, he was a man reborn. Three days later, he knew the ache of distance, the tyranny of weight, and the slow cruelty of time. He knew the true nature of hunger and the cracked feeling of thirst. His feet even taught him that shoes made for a church were not made for the Road.
 
-He was an idiot.
+He had many stories in his mind.
 
-On the fourth day, near the edge of the Rutland woods, the iron road preached its first homily.
+_He had lived none of them._
+
+On the fourth day, near the edge of the Rutland woods, the Road asked him with another question: _What do you do when others want what you have?_
 
 Three men stepped from the hazel scrub. They did not look like the fierce Ulfhednar who had burned his church; they looked like hungry wet dogs. They wore boiled leather patches and carried rusted boar-spears. Their leader was a squint-eyed Saxon with a broken nose and a laugh like dry gravel.
 
@@ -49,9 +51,9 @@ With a grunt, he swung the heavy sack of silver directly into the leader's face.
 
 He ran until his lungs burned like the bell-pit. He kept his byrnie, his axe, and his shield, clutching them to his chest like holy relics. Behind him, the bandits did not pursue; their laughter echoed through the trees, rich and mocking, as they counted their easy wealth.
 
-Cynewulf collapsed in a ditch of rotting leaves, weeping not for his sins, but for his stupidity.
+Cynewulf collapsed into a ditch of rotting leaves, weeping not for his sins, but for the boy who still believed stories were enough.
 
-_On the Road, there were only those who eat, and those who were eaten._
+_On the Road, there are only those who eat and those who are eaten. You may look like a mark. You may even be a mark. Whether you act like one is entirely up to you._
 
 _So sayeth the Road._
 
@@ -73,11 +75,15 @@ The year that followed was a slow, grinding rot.
 
 Cynewulf learned to live like a beast. The bell-strong deacon of Leicester withered away, replaced by a lean, hollow-cheeked creature with dirt ground into the pores of his face and lice nesting in his matted hair.
 
-The Road taught him lessons that no priest could ever preach. In the summer of 930 AD, he lived like a scavenger, sleeping in the hollows of fallen oaks and surviving on raw wild onions and the stolen eggs of ground-nesting birds. By autumn, he had fallen in with a desperate band of five outlaws, but when they ambushed a merchant near Nottingham, his "brothers" vanished the moment the guards drew steel, leaving him to drag a wounded leg through the brambles alone. He never trusted a partner again. When winter arrived, the cold became a more persistent enemy than the Danes. He survived by stealing a sheep from a Saxon stead, slitting its throat in the dark to eat the liver warm and raw—a desperate, bloody fuel to keep his chest from freezing—and wrapping his feet in the stiff, frozen hide to keep the frost from claiming his toes.
+The Road taught him lessons that no priest could ever preach. In the summer of 933 AD, he lived like a scavenger, sleeping in the hollows of fallen oaks and surviving on raw wild onions and the stolen eggs of ground-nesting birds. By autumn, he had fallen in with a desperate band of five outlaws, but when they ambushed a merchant near Nottingham, his "brothers" vanished the moment the guards drew steel, leaving him to drag a wounded leg through the brambles alone. He never trusted a partner again. When winter arrived, the cold became a more persistent enemy than the Danes. He survived by stealing a sheep from a Saxon stead, slitting its throat in the dark to eat the liver warm and raw—a desperate, bloody fuel to keep his chest from freezing—and wrapping his feet in the stiff, frozen hide to keep the frost from claiming his toes.
 
-By the spring of 931 AD, he took up with small, vicious bands, staying only long enough to share a meal and a theft, slipping away in the dead of night before they could cut his throat for his boots. He still didn't know war or even combat; he knew that standing silently with an axe in your hand was intimidation enough to earn a little coin. But he was still a small sinner in a wide world. A scavenger eating the scraps left by the great lords of war.
+By the spring of 934 AD, he took up with small, vicious bands, staying only long enough to share a meal and a theft, slipping away in the dead of night before they could cut his throat for his boots. He still didn't know war or even combat; he knew that standing silently with an axe in your hand was intimidation enough to earn a little coin. But he was still a small sinner in a wide world. A scavenger eating the scraps left by the great lords of war.
 
-That changed in the late autumn of 931 AD, near the salt-marshes of the Humber.
+Every time he packed his belongings in the night to flee another band, he thought of helping his father prepare for yet another journey. As a boy, he had watched only the tools: the adze wrapped in cloth, the chisels oiled against rust, the measuring cords carefully coiled. He had paid no mind while Godric bartered for space on a wagon, counted dried provisions and waterskins, spoke quietly with guards, or waited another day for a larger company to gather. Those had seemed the dull chores that delayed the adventure.
+
+Only now did he understand that **those had been the journey**.
+
+That changed in the late autumn of 934 AD, near the salt-marshes of the Humber. For days, he had nervously been asking his own question of the Road: _How will I survive winter?_
 
 He saw them riding through the grey mist—forty men on heavy, destrier-bred horses, clad in mail blackened with oil to hide the glint of steel. They were not Saxons, nor Danes. They were Franks, mercenaries who had traded the vineyards of the Seine for the mud of the Danelaw. They carried no banners, save for a single, tattered standard depicting a **Griffon Noir**—a Black Griffon with wings spread wide, its talons stained in a permanent, rusted red. The talons were gripping a sword, as if they carried fury in flight into battle. They were the _Griffons Noirs_, led by a man the locals called the _Iron-Grip_, though his own men proudly named him _Fer-Main_.
 
@@ -103,7 +109,7 @@ Cynewulf looked at the stallion, then at the _Griffons Noirs_ men. He thought of
 
 The _Griffons Noirs_ had a few wagons at the back of their train for supplies and pavilions. Cynewulf ran to try to catch a wagon, but even it was too fast for his tired legs, and it didn't slow for him. He followed the trail of the host and found their camp three hours later, as dark was settling in. The men and horses were fed, and setting up for sleep. There was no meal left - Cynewulf found empty bones to gnaw on, and crusts of bread that had fallen from their meal.
 
-He curled up in the mud near the perimeter, his axe gripped in his hand, watching the black-clad figures move like ghosts through the firelight. He was a scavenger again, but for the first time in a year, he was a scavenger who belonged to a pack.
+He curled up in the mud near the perimeter, his axe gripped in his hand, watching the black-clad figures move like ghosts through the firelight. He was a scavenger in a pack again, but this pack was like no other he had seen.
 
 One of the men kicked him awake. He had been asleep scarcely an hour, and the Frankish soldier told him something in Frankish. He studied the confused look on Cynewulf's face, and switched tone. "Guard duty. All night." His accent was thick and barely understandable. The soldier pointed to a small group of professionals waiting to sit by the fire with him. They didn't look friendly.
 
@@ -123,7 +129,7 @@ He watched the shift in their eyes. He wasn't a pig anymore. He was a curiosity.
 
 "Did they understand?" he thought. "Or did I just confuse them?" It wasn't clear. But their tone changed to one of demands. "Water." said one, demanding fresh water for his watch. "There." another pointed. He wanted Cynewulf to watch the shadows in a certain direction.
 
-Another watch finally came to relieve them at the break of morning. Cynewulf went back to his sleeping patch, tired from sleep deprivation.
+Another watch finally came to relieve them just before daybreak. Cynewulf went back to his sleeping patch, tired from sleep deprivation.
 
 As the morning wore on, he woke to the sound of a meal being prepared. The light was already cresting the horizon, and the camp cooks were busy distributing loaves and boiled eggs to the host. Cynewulf watched the men line up, his stomach twisting with a hunger that had been his only constant companion for a year. He approached the end of the line, bracing for a shove or a blow.
 
@@ -135,13 +141,13 @@ Sitting in the dirt, he heard the approach of mailed stirrups and scabbards brus
 
 Cynewulf jumped to his feet, eager to thank his new lord. _Fer-Main_ cut him off instantly.
 
-_"Audio te Latine loqui,"_ he said, his voice low. _"Non possum ubique esse, pacta cum sacerdotibus et principibus componens. Saepe illi nos fraude decipere conantur. Opus mihi est aliquo qui verba eorum interpretari et iura nostra defendere possit. Convenit?"_
+_"Cūr mihi nōn dīxistī tē Latīnē loquī?"_ he said, his voice low. _"Nōn possum ubīque esse, cum sacerdōtibus et prīncipibus pācta faciens. Saepe nōs fraudāre cōnantur. Opus mihi est aliquō quī verba eōrum interpretārī et iūra nostra dēfendere possit. Intellegis?"_
 
-(I hear you speak Latin. I cannot be everywhere, composing agreements with priests and lords. Often they try to deceive us with fraud. I need someone who can interpret their words and defend our rights. Agreed?)
+(Why didn't you tell me you speak Latin? I can't be everywhere, making agreements with priests and princes. They often try to cheat us. I need someone who can interpret their words and defend our rights. Understand?)
 
-Cynewulf's mind flared. His Latin was useful, truly useful to the _Griffons Noirs_. "Convenit," he replied.
+Cynewulf's mind flared. His Latin was useful, truly useful to the _Griffons Noirs_. "_Intellegō. Gratias ago_," he replied (I understand. Thank you).
 
-"Good." _Fer-Main_ switched to Old English. His accent was precise, his cadence unnervingly perfect, as if he had spent hours practicing the vowels in the dark of his tent. "Your mail is dirty. Black oil, sand. Over there." He pointed toward the armorer's tent, which was already being folded for the day's march. "I do not repeat myself Saxon. I do not tolerate rust. I do not tolerate incompetence. Rusty mail means an early grave."
+_Fer-Main_ switched to Old English. His accent was precise, his cadence unnervingly perfect, as if he had spent hours practicing the vowels in the dark of his tent. "Good, but _do not thank me_. You are here to keep us alive and paid. I'm here to keep _all of you alive_. Save your gratitude for the man who takes a spear for you. And... your mail is dirty. Black oil, sand. Over there." He pointed toward the armorer's tent, which was already being folded for the day's march. "I _do not repeat myself_ Saxon. I do not tolerate rust. I do not tolerate incompetence. Rusty mail means an early grave."
 
 _Fer-Main_ turned to leave. "I know six languages. I'll give you wine from my tent if you can teach me a seventh." He did not smile. His seriousness cut like a razor. "Or teach me something I don't already know."
 
@@ -149,15 +155,15 @@ Without hesitating, Cynewulf responded: "The secrets of the scriptorium?"
 
 _Fer-Main_ went still. "Explain."
 
-Cynewulf didn't flinch. "You fight for coin, but you are always at the mercy of the men who write the contracts. You are always the outsider. But with the scriptorium... you can grease the wheels of the road."
+Cynewulf didn't flinch. "You fight for coin, but you are always at the mercy of the men who write the contracts. You are always the outsider. A scriptorium remembers names, records debts, carries letters farther than horses, and speaks to every bishop and ealdorman before your company ever arrives."
 
-He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. Bronze is a demanding mistress - it requires heat, precision. The bullae tongs of the deeds and scrolls are made of bronze - easy to make for someone who knows how. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can write a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
+He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. Bronze is not kind - it requires heat, precision. The seal dies of the deeds and scrolls are made of bronze - easy to make for someone who knows how. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can write a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
 
 The captain’s eyes narrowed, a flicker of genuine, predatory interest crossing his face. He didn't ask if it was moral; he only saw the utility.
 
-"Our own scriptorium," _Fer-Main_ repeated, the word tasting like iron on his tongue. "Very well, Priest. We shall see if you are as useful as you are bold. What do you need?"
+"Our own scriptorium." _Fer-Main_ repeated, the word tasting like iron on his tongue. "Very well, Priest. We shall see if you are as useful as you are bold. What do you need?"
 
-Cynewulf didn't hesitate. "Vellum. Oak galls and iron filings for ink. A scraping knife. Access to the forge with a hot fire. Casting sand. Lead for the bullae. I'll need the smith to make tongs once the dies are made."
+Cynewulf didn't hesitate. "Vellum. Oak galls and iron filings for ink. A scraping knife. Access to the forge with a hot fire. Casting sand. Lead for the bullae. Once the dies are made, I'll need the smith to make tongs to hold them. The dies must meet perfectly when struck or there will be suspicion."
 
 _Fer-Main_ left without saying a word.
 
@@ -165,9 +171,7 @@ Cynewulf approached the armorer about his mail. He removed his mail coat and put
 
 Cynewulf, his joints aching, helped pack up the camp. When they left, Cynewulf found a space on the wagon next to the barrel with his mail. He ensured that it turned every so often to keep the wear on his mail even. He heard the hiss of the sand against the links, with every bump, every rut and every turn. His mail, like his spirit, was being scoured by the grit of the road.
 
-He learned a powerful lesson that day. The Road doesn't care about a great many things. It doesn't care for your prayers or your past. But it does care with whom you keep company, and if you are useful. Striking out alone is a death sentence—a truth Cynewulf nearly learned in a ditch of rotting leaves, weeping not for his sins, but for his stupidity. 
-
-_To form a pack, you need charisma. To participate in a pack, you need utility. The charismatic lead the men; everyone else must serve a purpose to the pack. And the Road? The Road's ditches wait for the ones who have neither._
+_To lead a pack, you must give others a reason to follow. To remain in a pack, give them a reason to keep you. The Road's ditches wait for those who gave no one a reason to keep them._
 
 _So sayeth the Road._
 
@@ -267,9 +271,9 @@ The mercenary captain didn't offer praise; he offered a horse. A destrier, still
 
 Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen didn't accept him - they didn't need to. He had accepted himself, and that was more important than all the silver in _Fer-Main's_ purse.
 
-Blessed are the impatient, for they see the shortcuts on the Road. Blessed are the smart, for they shall forge the keys to the gates. Woe to those who take the long way around, for they shall lose their silver to the bandits and the taxman.
+_Blessed are the aware, for the Road reveals its shortcuts to them. Blessed are the cunning, for they shall forge the keys to locked gates. Woe to those who have neither, for they shall lose their silver to the bandits and the taxman._
 
-So sayeth the Road.
+_So sayeth the Road._
 
 ---
 

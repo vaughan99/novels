@@ -2,7 +2,7 @@
 
 ### Part Three: The Liturgy of the Sword
 
-_There are times when the lessons of the Road are not enough for survival. There are times when you cannot bargain. You cannot run, or hide. You are faced with the seconds of frightening decision: the steel's draw or the ditch. The Road may teach you how to survive the journey, but the Sword teaches you how to survive the destination._
+_There are times when the lessons of the Road are not enough for survival. There are times when you cannot bargain. You cannot run, or hide. You are faced with seconds of frightening decision: whether to draw your sword and risk the ditch. The Road may teach you how to survive the journey, but the Sword teaches you how to survive when you arrive._
 
 _These are the lessons of the Sword._
 

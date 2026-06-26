@@ -156,7 +156,7 @@ He was hollow man in a suit of mail, selling his blade to anyone who didn't ask 
 
 The first freeze of November 942 arrived with a cruelty that felt personal. It turned the mud of the Midlands into jagged, frozen teeth, and it turned Cynewulf’s blood into ice. He had been walking for days, his silver long gone, his stomach a hollow ache, and his hands—those once-steady hands of a deacon and horseman—were shivering icicles holding himself together.
 
-He stumbled upon the monastery of St. Jude’s-in-the-Marsh just as the sun began to bleed out behind the grey horizon. It was a small, struggling house, a collection of stone cells and a sagging timber chapel huddled against the encroaching swamp.
+He stumbled upon the monastery of Saint-Martin's-on-Trent a day's walk out of Repton just as the sun began to bleed out behind the grey horizon. It was a small, struggling house, a collection of stone cells and a sagging timber chapel on a small hill overlooking a grove by the river Trent. The roof had been patched with mismatched timbers. One corner of the cloister leaned noticeably. The bell hung silent, a long crack splitting its bronze from shoulder to lip. No wall had escaped repair; no repair matched the stone around it.
 
 Cynewulf didn't knock. He collapsed against the heavy oak gate, his breath coming in stutters, his body aching from the shivering.
 
@@ -164,25 +164,25 @@ When the gate creaked open, he didn't see the face of a brother. He saw a target
 
 "I... I have a blade," Cynewulf rasped, his voice sounding like grinding stones. He didn't offer a prayer. He didn't offer a confession. He held up his langseax, his knuckles white, his body swaying with the effort of staying upright. "I can guard your gate. I can kill your wolves. I just need... I need a place to stop shaking."
 
-The Abbot, a man whose face was etched with the weary lines of a life spent praying for a peace that never came, looked at the stranger. He saw the dark, dried blood on the man’s leathers. He saw the black griffon paint, chipped and peeling, on the shield strapped to his back. He saw a man who was already dead, just waiting for the earth to claim him.
+The abbot, a man whose face was etched with the weary lines of a life spent praying for a peace that never came, looked at the stranger. He saw the dark, dried blood on the man’s leathers. He saw the black griffon paint, chipped and peeling, on the shield strapped to his back. He saw a man who was already dead, just waiting for the earth to claim him.
 
-"We have no silver for mercenaries," the Abbot said softly.
+"We have no silver for mercenaries," the abbot said softly.
 
-"I don't want silver," Cynewulf spat, the tremors in his hands making the sword tip dance. "I want the shaking to stop. Give me a floor. Give me a task. Or I will take the gate, and you will be the ones shivering in the frost."
+"I don't want silver," Cynewulf spat, the tremors in his hands making the sword tip dance. "I want the shaking to stop. Give me a floor in front of the fire. Or I will take the gate, and you will be the ones shivering in the frost."
 
 It was the ultimatum of a cad, a threat born of desperation and the raw, ugly need to survive another night.
 
-The Abbot looked at the frost on the man’s eyelashes, then at the desperate, predatory hunger in his eyes. He sighed, a sound of profound resignation.
+The abbot looked at the frost on the man’s eyelashes, then at the desperate, predatory hunger in his eyes. He sighed, a sound of profound resignation.
 
 "The cellar is dry," the Abbot said, stepping aside. "And the forge needs a hand. If you can work the iron, you can stay."
 
-"Lit forge? Where?" was all Cynewulf could muster.
+"Lit forge? Where?" was all Cynewulf could muster. He saw the soot-wrinkled hands of the abbot, and 
 
 Before the abbot could even answer, he saw the orange flicker in the distance and dragged himself to it. It was a room on the far wall of the abbey with a small chimney and embers.
 
-Cynewulf didn't thank him. He didn't look at the chapel. He simply dragged his broken body through the gate, his boots leaving dark, muddy prints on the pristine snow. He was a deacon in the house of God,
+Cynewulf didn't thank him. He didn't look at the chapel. He simply dragged his cold-shriveled body through the gate, his boots leaving dark, muddy prints on the pristine snow.
 
-It was all Cynewulf could do to stop himself from jumping into the coals. He kneeled before the altar of heat, resting his hands on the hot stone.
+It was all Cynewulf could do to stop himself from jumping into the coals. He kneeled before the altar of heat, resting his hands and cheek on the hot stone.
 
 The abbot left him in peace. A moment later, a sister brought a crust of bread and warm water. He found the first thing he could - a fist-sized piece of bloomery iron - and threw it at her. It missed, hitting the wall over her shoulder with a heavy crack. Slag and iron splinters rained into her hair and onto her shoulders. He screamed at her to leave. In the distance he could hear the crying of the nun, and the voice of the abbot.
 
@@ -198,13 +198,13 @@ He was awakened by the abbot.
 
 "Good morning. Not a comfortable place to sleep, on the stone. The fire's out."
 
-Cynewulf had not slept in two days before then. Everything ached, but he hadn't lost anything to the frost.
+Cynewulf had not slept in two days before then. Everything ached, but luckily he hadn't lost anything to the frost.
 
 "You should have let me die." Cynewulf croaked. He stared into the space where flame once stood. "You don't know what you saved."
 
 "No... I don't. But I think... neither do you." The abbot studied Cynewulf closely. "Stop talking and rest. Introductions are best when a man refuses to fight himself."
 
-The abbot turned to leave. "I told you the cellar was dry." He glanced at the cold forge. "But if you're determined to sleep in the smithy, you might as well put a hammer in your hand. Who knows, you might accidentally forge something in your sleep. The wood is by the door."
+The abbot turned to leave. "I told you the cellar was dry." He glanced at the cold forge. "But if you're determined to sleep in the smithy, you might as well put a hammer in your hand. Who knows, you might accidentally forge something in your sleep. The wood is by the door. If you use all the wood, you'll need to collect more from the iced marsh."
 
 For two days, the smithy was warm, but no sound came from the anvil. The sisters brought him thin broth and crusts of bread, as the monastery shared its meager winter supplies with the stranger.
 
@@ -286,11 +286,11 @@ Cynewulf was unsure of this Welshman. Cynewulf knew what it meant to be unprepar
 
 "If you take me in, I have experience in negotiation. I'm well-versed in Latin." Cynewulf felt the road open to him once more. He was eager to see where it led.
 
-"Good!" The skirmisher's eyes widened. "Ha! You're acting like you even had a choice in the matter! My name is Madoc Bychan—Madoc the Younger. My parents had an older Madoc, but they kept him because he was the crazier one! I’m just the one who decided the world was too quiet, and all that crazy shouldn't be trapped in one family tree! Well, and they kicked me out. Welcome to the _Dannedd y Ddraig_! The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it's the only one backed by coin! I'd learn to speak to forest critters if it paid coin!"
+"Good! We'll have you _negotiating_ with Latin curses to our enemies in no time!" The skirmisher's eyes widened. "Ha! You're acting like you even had a choice in the matter! My name is Madoc Bychan—Madoc the Younger. My parents had an older Madoc, but they kept him because he was the crazier one! I’m just the one who decided the world was too quiet, and all that crazy shouldn't be trapped in one family tree! Well, and they kicked me out. Welcome to the _Dannedd y Ddraig_! The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it's the only one backed by coin! I'd learn to speak to forest critters if it paid coin!"
 
 The others greeted him with rough nods and claps on the shoulder, a warmth that felt like a brother in arms. They were quick to accept, but he imagined they were quick to turn if he crossed them.
 
-Madoc laughed... "And look, I found us a target. If we polish him up, he might pass for a commander. If we're lucky, all the arrows will fly towards him!" They laughed even harder. Cynewulf didn't think it was particularly funny, but he laughed nervously anyway.
+Madoc laughed... "And look friends, I found us a target! If we polish him up, he might pass for a commander. If we're lucky, all the arrows will fly towards him!" They laughed even harder. Cynewulf didn't think it was particularly funny, but he laughed nervously anyway.
 
 Among them were two women, their leather tunics as scarred and stained as the men’s. One of them, who had been hunched over a pile of wool, stood up as the laughter died down. She slung a heavy, red-painted dragon cloak over Cynewulf’s shoulder with a sudden, practiced flick.
 
@@ -304,71 +304,44 @@ Cynewulf caught the needle, surprised by the weight of the cloak. It smelled of 
 
 "Fair enough," Cynewulf rasped.
 
-The next morning, they took the road to Leicester. The _Dannedd y Ddraig_ were a riot of noise, singing bawdy songs of the Welsh hills that made the local wayfarers scramble into the ditches to give them a wide berth. They were loud, boisterous, and utterly indifferent to the judgment of the world.
+The next morning, Cynewulf met them in the yard. Two Welsh had just walked the perimeter of the abbey, and had a number of broken shards of glass. One had the face of Saint Martin, the other the outline of an angel wing. They were collected from one of the walls whose pane had become damaged.
 
-Cynewulf had no horse of his own, so they let him ride their loot pony. Riding in the middle of the pack, he found himself fascinated by the sheer, chaotic variety of their gear. He finally nudged his horse toward Madoc. "You’re not soldiers of the line," he observed. "What is your battle-bearing? How do you actually fight?"
+"Don't mind them Saxon. They're just collecting gifts." Madoc said casually.
 
-Madoc smiled, a sharp, predatory expression, and eagerly began to display the tools of his trade. "We’re not soldiers, Saxon. We’re hunters," Madoc said. "And we have a tool for every quarry. In my youth I spent a winter in an old Roman fort. We found old writings there, from their smith. He left drawings."
+"For their children?" Cynewulf wondered, looking back at the men.
 
-On his back was the _tarian_, a small round shield the size of a man's hand and forearm. Theirs had an iron-covered wooden pyramid protruding as the central boss, making it an effective punching weapon and easy for field-repair. 
+"Aye they're for children alright..." Madoc said, a smile creeping into the corners of his mouth. "I just don't think they'll appreciate the gift, as much effort as we put into it at least."
 
-He gestured to the spear on his horse— "And on the 8th day, God decided to give every soldier in all of Christendom a pointy stick. We just decided we should use it better than anyone else!"
+Madoc's interest was drawn to the map. Milly held one side, and he held the other. They were finalizing the approach. "Ermine Street, Fosse Way, then peel off the road to Charnwood for our base. Use the Soar for water and forest for everything else. If this map is worth anything, which it probably isn't." Madoc and Milly laughed, as Milly rolled the map into a bone case.
 
-He patted his hip, where a short quiver of weighted darts, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_ - the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw."
+The _Dannedd y Ddraig_ were a riot of noise, singing bawdy songs of the Welsh hills that made the local wayfarers scramble into the ditches to give them a wide berth. They were loud, boisterous, and utterly indifferent to the judgment of the world.
 
-Then, he reached into a small, wooden box-pouch at his belt and pulled out a wooden toggle attached to a thick wool cord. Trailing behind the toggle was a string of iron stars, each one forged so that no matter how they landed, a single, needle-sharp point always faced the sky.
+Women: "I see and hear the Bishop cry!"
+Men: "Way, oh way, beyond the sea."
+Women: "Who now stole the Bishop's pie?"
+Men: "Don't look my way - it wasn't me."
+Women: "I see and hear the abbot's goose."
+Men: "Way, oh way, beyond the sea."
+Women: "The yard's a mess and the bird is loose!"
+Men: "Don't look my way - it wasn't me."
+Women: "I see and hear Sant Padrig moan."
+Men: "Way, oh way, beyond the sea."
+Women: "Some one played upon his bone."
+Men: "Don't look my way - it wasn't me."
 
-"And these?" Madoc grinned, his eyes glinting. "These are the _Dannedd y Ddraig_—the Dragon’s Teeth. Our secret, and our namesake. The Romans called them _tribuli_. The toggles and cordage make them easy to throw and pick back up. Not even a shield wall can protect you from the earth-dragon nipping at your feet! A line of these in the mud turns a mighty Viking into a quibbling cub. Great for laying a trap, or hurling to a man's legs for the trip."
+One of the men, a younger lad named "Baldy Gwyn", was caught off-guard and laughed hysterically, breaking the refrain. The company stopped as one, every finger pointing at Baldy.
 
-Cynewulf watched as Madoc coiled the line back into the box with practiced ease. It was a simple, brutal piece of engineering.
+Milli stared at him mock-sternly... it was time for his punishment. Milli motioned for the group to start the final punishing refrain:
 
-Madoc reached into a small wooden cup on his belt covered with a leather strap. He held it up - it was a small clay pinchpot, the size of a plum. It had a cross traced in wax over the opening. "And this," Madoc said, his voice dropping to a conspiratorial whisper, "is the true _Anadl y Ddraig_—the Dragon’s Breath." We throw them with slings at shield walls.
+Group: "I see and hear the culprit fair, Right here, oh here, beside me."
+Milli: "Pitching tents when we get there!"
+Group: "And we'll watch him closely!"
 
-Cynewulf frowned, eyeing the strange clay sphere. "It’s just a tiny clay pot?"
+Baldy was often the first to lose. He didn't mind, as he was the youngest of the company, and he knew he had a lot to learn.
 
-"Fermented stomach juice, and some mixture of spurge-milk, nettle-burn, hellebore, wild leeks, and foul iris—whichever is in season. We mix that with tallow and crushed Church's saintly glass," Madoc corrected, his grin widening. "When we have the mixture just right, we pack it into these clay-pot beauties. Bury them for a week under sheep dung, and let the rot do the work. Then we seal them with a wax kiss, and bury them again for a month. Once they're done, we clean them up and they're ready for gifting to the shield-wall. It doesn't kill, but it smells, stings, and clings to everything. Once it's on the skin, the glass and _medicine_ go to work. If the bishop's not looking, we call out curses in Welsh to make them think they've been bewitched! And a _fyrdman_ who flees because he thinks he's cursed is just as good as a dead one. He should be thanking us for saving his life! Ha ha ha!"
+The challenge-songs continued, and men sometimes lost their refrain to sheer laughter, for the women were clearly improvising and had not warned them where the verses were headed. Each time, the men responsible were assigned a camp chore. But, they could only lose once, leaving the rest to find the proper response.
 
-Cynewulf stared at the tiny pot. He thought of the stained glass he had once cleaned in the nave, the light filtering through the saints and martyrs. Now, that same light was being used to turn men into cursed frightened animals.
-
-"You fight like devils," Cynewulf said, his voice tight. "The bishop would have your head for this!"
-
-"Oh, come now. These are holy weapons, and we are holy warriors! We've added the cross in wax, the saints inside, and wash them with holy water to make them clean! Far holier than the Roman version!"
-
-Cynewulf opened his mouth to object, then stopped. He wasn't sure saving a man's life through fear was certainly better than taking it. Once a man commits to the wall, he proves his honor, and if he be Christian, his piety. To force men to flee is to force them to be an animal.
-
-Madoc sensed Cynewulf's unease. Madoc feigned humility, pressing his palms together in a mock-pious gesture and rolling his eyes toward the heavens. "Forgive us, Lord Almighty! You told us _not_ to commit murder, but You forgot to tell us _HOW_ not to commit murder! So we've put our collective wits together, _oh Lord_, and we humbly proclaim ourselves the most _creatively lethal non-murderers in all of Christendom_! It is with great sorrow that we cannot deliver soap to our enemies, so that they might arrive in Your Heavenly Kingdom smelling of flowers. In Your name, of course. Amen!"
-
-He erupted into a jagged, barking laugh, slapping Cynewulf on the shoulder hard enough to rattle his teeth.
-
-Finally, he slapped the seax at his belt. "And for the finish? Who doesn't love a good seax?" Without warning, Madoc’s hand blurred. Before Cynewulf could even blink, a hidden iron shank—a simple, needle-sharp spike—was pressed against his ribs. Madoc held it there for a heartbeat, his grin wide and mocking, before sliding it back into a locking wrist sheath in his bracer.
-
-"See?!" Madoc laughed, his eyes dancing. "You never know what to expect from us. A man who relies on his sword is a man who’s already half-dead, Saxon. A man who relies on his _guile_? He’s the one who gets to go home and drink the ale."
-
-Cynewulf looked at the spot where the shank had been, his heart hammering a frantic, rhythmic beat against his ribs. He realized then that they weren't just fighting a war; they were playing a game of death, and they had rigged the board in their favor.
-
-"What says your charter? May I see it?" Cynewulf wanted to make sure it was legitimate, and that he wouldn't be hung in association with blasphemers.
-
-Madoc groaned dramatically. "Christ preserve me, another churchman. I don't carry the charter. Milli does."
-
-"Why?"
-
-"Because I lose things, Saxon. If you're wondering if the Church trusts me to wage Christian war, you won't find it in the scroll. But you might find it in this." Madoc passed with his hand a small vial. The vial was glass, and etched was a perfect emblem of the cross. Cynewulf recognized it instantly. It was a vial of holy water, the same he used countless times at his church.
-
-"You have the blessing... of the Church?" Cynewulf stammered.
-
-"Aye, in a manner of speaking. The Ealdorman said it was for the blessing of Christian arms. You thought I was joking? Holy water graces the skin of these pots! See?" Madoc's smile curled at the edges as he rotated the perfectly clean pot in his fingers.
-
-"The bishop blessed the clay pots?" The pressure behind Cynewulf's eyes was becoming unbearable.
-
-"No, the bishop didn't need to. That's what the holy water is for." Madoc delighted in the confusion.
-
-There was silence for many minutes after Cynewulf returned the vial.
-
-"So how am I to fight in your band?" Cynewulf wasn't sure how he would fit in.
-
-"Just don't stand in front of us. You don't want to catch the Dragon's Breath with your arse. Not even Milli's bad cooking could explain that away! Beyond that? There's no _right_ way to fight with us. Find a problem, solve it, and keep up. And for the Love of God man, watch your feet. Ha Ha!" The company laughed along with Madoc, even Milli.
-
-The road wasn't long for Leicester. But it was long enough to share plenty of songs and stories.
+Cynewulf had no ear for the song's rhythm, but it brought a smile, and made the road seem much shorter. The road to Leicester was not long. But it was long enough to share plenty of songs and stories.
 
 _The wound may close eventually. But that doesn't mean it is necessarily healed. Letting it stay healed is another matter. Picking at a scab invites an infection and a re-opening of the wound. But sometimes the itch is too hard to ignore._
 

@@ -6,7 +6,7 @@ _A bell rings in the distance, and people orient themselves to it. They use it t
 
 _These are the lessons of the Bell_.
 
-This story starts earlier, 910 AD; Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
+This story starts earlier, 913 AD; Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
 
 Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
 
@@ -18,15 +18,156 @@ The confession that day brought him to the church. The work did not seem like wo
 
 His penance served, he told his father that he was destined for the bell-pits and then the priesthood. The bell-master had evaluated him, and there was space for a new apprentice. There was also space for a new acolyte-to-come, and so his path was clear. His time spent in the pits would pay for his Latin lessons and the tutelage he required. Godric was proud; that was a noble beginning for his son, an apprenticeship of trade and a life of humble privilege. He smiled, thinking that every time the church bells rang, his son would have had a hand in their voice. The house had been quiet since Cynewulf's mother’s passing, and Godric seemed to find a new, reflected light in his son’s sudden, burning ambition.
 
-The training of his youth went well. He spent five years working the pits as a young boy. It was dangerous, hot work, but his arms grew strong and his feet were quick to avoid danger. He started to learn Latin, history, and anything else they could teach.
+The years that followed settled into a rhythm as steady as the bells themselves. When the Lent season had ended, the bell-master told Cynewulf to gather his few belongings and report to the boys' dormitory within the church grounds. His pallet was laid among the other acolytes, his meals were taken in the refectory, and his days were measured by bells rather than by the hearth.
 
-By 915 AD, he was a literate clerk, ready to memorize the Psalter and Latin Mass. In 918 AD, as he turned 18, the Danes holding Leicester were defeated, and the Church saw more activity. The Church needed more hands, and he was ready to help.
+Godric carried his son's bundle through the church gate himself. It was a short walk from the cottage, yet it felt strangely longer than any road he had ever traveled. They embraced awkwardly, each pretending the distance was nothing. From that day forward, Cynewulf still worked beside his father whenever timber met bronze, but each evening Godric returned to an emptier house while his son remained within the church walls.
 
-By 920 AD, he was an aspirant. He assisted with the holy vessels and would manage the daily work of the bell-foundry and the bells themselves. He learned engineering and, with his father, built bell-mounts for churches throughout England.
+Without ceremony, the Church had become Cynewulf's household. The priests became his tutors, the bell-master his taskmaster, the older acolytes his brothers. The bells woke him, summoned him to prayer, called him to meals, and finally sent him to sleep. Their voices marked not only the hours of the town, but the years of his youth.
 
-By 925 AD, he was ordained a deacon, a great moment of pride for Godric. He became bell-master, and when clean, would perform baptisms and would preach during the week days. His sermons would speak of hard work and toil of the bells, and the sound of their sweet release being his reward.
+At first the work was simply work. Cynewulf rose before dawn with the other boys, hauled charcoal, mixed clay, swept ash, and watched the founders coax liquid bronze from stubborn metal. The bell-master was a demanding man, but a fair one. Every mistake had a lesson. Every burn had a purpose. Cynewulf found satisfaction in that certainty. Bronze did not flatter. Bells did not lie. A mold was either true or it was not.
 
-But a dark seed was starting to grow. He saw that for all his hard work, the sound of the bell was not quite as sweet as before. He started to know the trap of privilege. He found his fingers pinching coins from the donation basket. He found that there were others who might purchase bells off the books. He handled the casting of those bells himself, and pocketed the silver. He found that ale-wenches sought absolution not at the confession, but in private using soft hands and soft lips.
+When the castings were finished, he watched another kind of labor begin.
+
+His father would arrive with chisels, augers, adzes, and oak timbers. Godric was not a founder, but a carpenter, and the bell was only half complete until it had a frame worthy of its voice. Together they fitted beams, carved joints, and hoisted bronze high into newly built towers. Cynewulf learned that a bell could be perfectly cast and still ring poorly if mounted by careless hands. His father's craft gave the bell its freedom to speak.
+
+It became their shared labor. Father and son worked side by side, one learning the weight of timber while the other learned the patience required to shape it. Godric rarely praised him aloud, but his trust grew quietly. Before long he handed Cynewulf measurements instead of instructions. They solved problems together, debating joints and braces late into the evening over scraps of charcoal and rough planks spread across the workshop floor.
+
+The priests noticed, and so did visiting clerics.
+
+As the years passed, word of Godric's craftsmanship spread quietly from one church to the next. A priest whose bell no longer rang true would mention the Leicester carpenter to another priest. A bishop pleased with one repair would recommend him for another. Before long, requests began arriving from neighboring shires whenever an old frame failed or a newly cast bell proved too great for its timbers. What had once been a local trade slowly became a calling that followed the roads of the Church.
+
+At first his absences were measured in days. Then in weeks. Godric traveled with whatever company the Church could provide—priests carrying letters, fellow craftsmen, merchants bound along the same Roman roads, or pilgrims making for distant shrines. He rarely walked alone, and when he returned he carried little wealth beyond a few unfamiliar coins and the dust upon his boots. What he brought home instead were stories.
+
+Whenever his journeys brought him back for a Sunday or one of the greater feast days, father and son would linger over their meal long after the other tables had emptied. Godric would recount leaning church towers, stubborn abbots, and the curious people he had met along the way. Sometimes he laid a small token upon the table—a carved trinket, an unusually fine whetstone, a strip of dyed cloth, or some other curiosity gathered from a distant market—but the stories were always the greater gift.
+
+Cynewulf treasured every one. He had never seen York. He had never crossed the Humber. He had never stood beneath the great churches whose names echoed through every monastery. Through his father's eyes, however, he began to know the roads between them. Each tale carried him a little farther from Leicester before gently setting him back at the church gate, where the journey always ended for him.
+
+Godric spoke of them only as another craftsman might discuss timber or stone, but to the boy they sounded like another world. Roman roads stretching beyond the horizon. Pilgrims who spoke in strange accents. Monks from distant kingdoms. Markets where a hundred dialects mingled beneath church towers.
+
+Godric kept the harsher truths of the Road to himself. He spoke of towering churches, curious monks, bustling markets, and the kindness of strangers, but seldom of swollen rivers that swallowed wagons, of nights spent awake listening for footsteps beyond the firelight, or of highwaymen lingering just beyond bowshot until the guards rested their hands upon axe hafts. He never mentioned the fever that swept through a traveling party in the span of three days, nor the mold that spoiled provisions before the next monastery came into view. Those were burdens for grown men, he believed, not stories to place upon the shoulders of a boy who still looked toward the horizon with wonder.
+
+So Cynewulf inherited his father's love of the Road, but not his caution. The dangers were quietly edited from every tale, leaving behind only fellowship, discovery, and distant church towers waiting beyond the next rise.
+
+Each journey ended the same way. Godric unpacked his tools. He rested a day or two.
+
+Then another messenger arrived. Another bishop needed a bell mounted. Another monastery had heard of the Leicester carpenter.
+
+Another journey on the Road. Cynewulf helped load the wagon each time. He was proud, but he was also left behind.
+
+The Church had become a crossroads. Travelers, merchants, pilgrims, reeves, priests, and wandering scholars all passed beneath its roof. As Cynewulf's Latin improved, he was often asked to assist them. He copied letters, translated names, and listened as visitors recounted distant lands while waiting for an audience with the clergy.
+
+The confessional became another window upon the world.
+
+People confessed more than sins.
+
+A drover confessed driving cattle across half of England.
+
+A merchant confessed cheating buyers at distant markets.
+
+A sailor confessed surviving storms beyond the eastern sea.
+
+A soldier confessed battles fought under kings Cynewulf had never seen.
+
+Each confession painted another road he had never walked.
+
+He listened carefully.
+
+Perhaps too carefully.
+
+The older priests heard burdens.
+
+Cynewulf heard stories.
+
+His tutors praised his memory. Latin came easily to him. Scripture followed. He copied manuscripts with a careful hand and learned the order of the Mass. Villagers who had known him as a charcoal-blackened apprentice now bowed their heads as he read from books they themselves could not understand.
+
+The change fascinated him.
+
+The words had not changed.
+
+Only the speaker had.
+
+He noticed how silence fell when Latin filled the nave. Farmers who would argue endlessly with one another grew quiet before a language none of them spoke. Widows who scarcely noticed him in the marketplace suddenly sought his blessing after services.
+
+It puzzled him at first.
+
+Then it simply became another fact of the world.
+
+Knowledge carried weight.
+
+Some knowledge carried more.
+
+Years passed.
+
+The bell-master entrusted him with greater responsibility. He learned to judge the quality of bronze by sound alone. He inspected molds before casting. He supervised younger boys entering the pits just as he once had. Whenever a bell rang true after installation, he felt a quiet satisfaction knowing that dozens of unseen hands had contributed to that single clear note.
+
+Yet it was never those unseen hands that people remembered.
+
+The villagers praised the priest.
+
+The bishop thanked the donor.
+
+The lord received credit for funding the work.
+
+The founder signed the casting.
+
+The carpenter's name was occasionally remembered.
+
+The apprentices were forgotten.
+
+Cynewulf did not complain.
+
+He simply noticed.
+
+Godric always seemed content with that arrangement.
+
+"Let the bell remember us," he once said while packing his tools for another journey. "People forget craftsmen. Good work doesn't."
+
+Cynewulf nodded.
+
+He was not certain he agreed.
+
+As Godric's reputation grew, his absences lengthened. Leicester became less a permanent home than a place to return between commissions. Father and son still worked well together whenever those paths crossed, but increasingly they resembled fellow craftsmen sharing a workshop rather than a family sharing a household.
+
+Cynewulf never begrudged his father's success.
+
+How could he?
+
+He had watched every step that earned it.
+
+He had held the beams while they were cut.
+
+He had climbed the scaffolds.
+
+He had hauled the ropes.
+
+He had spent long evenings solving the same problems beside him.
+
+When another bishop praised Godric's ingenuity, Cynewulf felt pride before anything else.
+
+Pride...
+
+and something else that never quite found a name.
+
+The Road seemed always to pass through Leicester without stopping for him.
+
+He watched travelers arrive dusty and leave dustier still. Every face carried another corner of England in its memory. Every wagon disappeared beyond the gates until only its tracks remained.
+
+He wondered, more often than he admitted even to himself, what lay beyond the next hill.
+
+He wondered whether God intended every calling to remain rooted in one place.
+
+He wondered whether service might someday ask him to walk those same roads his father now traveled.
+
+The questions felt harmless enough.
+
+After all, every road eventually led to another church.
+
+And every church, surely, had use for another priest.
+
+
+[TODO]
+
+He found that ale-wenches sought absolution not at the confession, but in private using soft hands and soft lips.
 
 He denied the rot, of course. "These are but momentary weaknesses," he would tell himself, his voice smooth as polished bronze. "Chaff that falls from the wheat. We are all sinners, and surely God would want all to have a small semblance of a purse."
 
