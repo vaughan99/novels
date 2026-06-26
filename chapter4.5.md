@@ -104,9 +104,17 @@ That evening, Milli was preparing a stew. The foragers had managed to hunt two h
 
 A line started to form, and Cynewulf was confused. "I thought you said Milli's cooking was horrible?" Madoc scratched his head, and a wry smile slowly etched onto his face. "What I meant to say, Saxon, is that her cooking's the worst part about her. And her stew is excellent. I'd marry her, but she won't have me."
 
-Milli didn't look up from the pot. "I did marry you, Madoc. What I won't _have_ is you flapping your gums where a spoon might serve you better. Now eat!"
+Milli didn't look up from the pot. "I _did_ marry you, Madoc. And I've _had_ you at the end of a coachman's whip for ten years. What I won't _have_ is you flapping your gums where a spoon might serve you better. Now eat!"
 
 Madoc whispered to Cynewulf, "Yes, her charm and wit are even _more_ excellent."
+
+"I heard that!"
+
+"Good, because I meant it that time!"
+
+_Shields protect individuals, but shield walls protect communities. Those behind the wall may not agree. They may not even like each other sometimes. But they all agree that they are better off protected together than vulnerable apart.
+
+_So sayeth the Shield._
 
 Watches were assigned, and the company went to bed before the sun set. When you hunted the Road, it paid to be there at first light.
 
