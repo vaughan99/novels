@@ -177,13 +177,15 @@ He reached for a small, polished horn hanging from his belt and produced a tiny,
 
 ---
 
+Huginn held his right wing up to his beak, and his left wing up to the side of his ear, pretending to be holding in an earpiece.
+
 Huginn: "Good evening! Huginn Featherstone and Muninn Mockbottom reporting live from the Charnwood Olympic Training Centre, where Team Fussleton has begun preparations for the first-ever Lunar Games! They think they have a new ringer in the form of Elswyth Coalergirl, a local product from nearby Under-Geat!"
 
 Muninn: "There were no Lunar Games."
 
 Huginn: "Sources say the coach is done giving his student the pep talk, and tomorrow the training begins in earnest."
 
-Muninn: "It wasn't a pep talk, he was trying to..."
+Muninn: "It wasn't a pep talk..."
 
 Huginn: "Sorry Muninn, your mic is cutting out there. The coach thinks she has real talent in the hundred-yard coal-bag relay and an outside shot at winning in the youth division in the timber events."
 
@@ -191,10 +193,10 @@ Muninn: "I..."
 
 Huginn: "Coach Fussleton tells us his athlete has tremendous potential, though he insists she needs to eat more before training begins."
 
-Muninn: "...the first sensible thing you've said..."
+Muninn: "...but..."
 
-Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling the mushroom toss. Back to you in the studio."
+Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing that felling axe. Back to you in the studio."
 
 Muninn waited for the faux-broadcast to complete: "...I suppose we cue _Eye of the Tiger_ next? You're so predictable."
 
-Huginn: "Control room? Cue _Eye of the Tiger_ on Muninn's suggestion."
+Huginn: "Control room. Cue _Eye of the Tiger_ on Muninn's suggestion."
