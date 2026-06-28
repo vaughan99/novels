@@ -93,72 +93,183 @@ Huginn: "That they drown out boring ravens..."
 
 On the nights of the full moon and the new moon, Fussleton would disappear. He never said where he went, but each time he returned, he appeared full of life, his eyes bright with a feverish, unnatural light. This continued for a full lunar year.
 
-On the first anniversary of the night of the wolves, Fussleton led her back to the ruins of her parents' hut at the forest edge. The gnome had taught her everything she needed to survive as a child on the edge of the Charnwood. He taught her the secrets of the forest larder. He taught her the power of the moon, and its effect on wood and beasts. He taught her where the absolute best wood lived, and how to harvest it wisely. He taught her music, dancing, and even how to smoke a pipe. She was ready to live on her own.
+On the first anniversary of the night of the wolves, Fussleton led her back to the knoll of the charcoal clamps. The pits had started to grow weeds, but the coal rakes still lay undisturbed. The gnome had taught her everything she needed to survive as a child on the edge of the Charnwood. He taught her the secrets of the forest larder. He taught her the power of the moon, and its effect on wood and beasts. He taught her where the absolute best wood lived, and how to harvest it wisely. He taught her music, dancing, and even how to smoke a pipe. She was ready to live on her own.
 
 "Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for thirteen lunar years—one year for each minute you outran the wolf. I will check on you, Meadow-Bud. I will make sure you are safe." And he left her there, a girl of eleven winters, yet much, much older in lunar years.
 
-The Ulfhednar were long gone by then, and a steady, quiet life had returned to the village outside Leicester. Elswyth stood before the charred skeleton of the coaler’s hut, the roof long since consumed by the wolves' fire. She was alone, but she was no longer the girl who had fled into the trees. She was a creature of the forest now, and the gnome’s promise hung in the air between them.
+The Ulfhednar were long gone by then, and a steady, quiet life had returned to Under-Geat. Elswyth stood before the charred skeleton of the coaler’s hut, the roof long since consumed by the wolves' fire. She was alone, but she was no longer the girl who had fled into the trees. She was a creature of the forest now, and the gnome’s promise hung in the air between them.
 
 The gnome had warned her that the villagers believed she was dead. If she simply returned out of the mist, he said, they would likely think her a spirit. They might chase her with iron and fire, or do even worse. He had tried to convince her to live deep in the forest, but Elswyth would not be deterred. She was going to be her father's apprentice, and one day she would make coal even better than he did.
 
-To live there, Elswyth had to invert her very existence. She never repaired the hut; to the casual eye, it remained a dead, blackened ruin, a grim monument to the raid of 930. But behind the collapsed, soot-stained rafters, she used her father’s felling axe to clear a narrow crawlspace near the hearth-stone. She lined it with dry moss and pine boughs, creating a dark, hidden nest beneath the debris. She looped branches in the shadow of the wreck to ensure rain and snow stayed off her shoulders as she slept.
+To live there, Elswyth had to invert her very existence. She never repaired the hut; to the casual eye, it remained a dead, blackened ruin, a grim monument to the raid of 933. But behind the collapsed, soot-stained rafters, she used her father’s felling axe to clear a narrow crawlspace near the hearth-stone. She lined it with dry moss and pine boughs, creating a dark, hidden nest beneath the debris. She looped branches in the shadow of the wreck to ensure rain and snow stayed off her shoulders as she slept.
 
 When the sun rose, she crawled into this soot-choked hollow and slept, her fingers wrapped tight around the handle of the felling axe. She became a creature of the day's shadows. If villagers wandered near the graveyard, they saw only a silent, haunted wreck.
 
 But when the moon climbed high, Elswyth woke.
 
+The felling of large trees was still difficult for Elswyth. Her frame was muscular for a girl of eleven winters, but the iron oak resisted the bite of the felling axe. She began by dragging the fallen limbs where she found them.
+
 She revived her father’s trade entirely in the dark. Tending a coalpit at night was a delicate, dangerous madness—a single shift in the wind could turn a slow smolder into a roaring blaze, exposing her to anyone watching from the hill. Yet she had the gnome’s rhythmic training. She worked without torches, her eyes adjusted to the pale, silver wash of the moon. She could read the heat of the pit by the faint, shimmering heat-waves rising against the stars, and she knew the wood was cooking by the sweet, heavy scent of the baking sap.
 
-She remembered her father's rule, leaving the crumbling, half-burnt edges of the coal for the forge-elves. But she also incorporated Fussleton's strange wisdom: that the harsh glare of a torch spread the magic of the moonlight too thin, and that the finest coal was made only from wood felled and cooked under the moon's cold eye. The resulting charcoal was unlike anything the local smiths had ever seen. It was dense, heavy "glass-coal" that clinked like iron when struck, burning with an intense, smokeless heat. It was _all_ Saint Alexander's stones.
+She remembered her father's rule, leaving the crumbling, half-burnt edges of the coal for the forge-elves. But she also incorporated Fussleton's strange wisdom: that the harsh glare of a torch spread the magic of the moonlight too thin, and that the finest coal was made only from wood felled and cooked under the moon's cold eye. It was light _singing coal_ that clinked like iron when struck, burning with an intense, smokeless heat. A little polish, and they'd _all_ be Saint Alexander's stones.
 
-She had no sacks to store the coal, so she had to steal. She didn't want to alarm the villagers, so she thought it best to try the church yard. So late one night, she approached the Shadow Gate. The two grotesques looked at her with their disdain, but to her, they looked almost comical in the moonlight. The gate did not draw tight, and she was able to slip into the graveyard.
+She had no sacks to store the coal, so she had to steal. She didn't want to alarm the villagers, so she thought it best to try the church yard. So late one night, she approached the Shadow Gate. Morning-Eye looked past her, oblivious to her presence. Blackjoy's eyes stared at her. During the day, she dreaded his gaze. By moonlight, though, he looked almost comical. Only then did she understand what Fussleton had been trying to teach her. Moonlight did not merely illuminate the world—it changed how the world was seen.
 
-On tender feet, she moved quietly past the graveyard towards the bell-pits.
+As she approached, the gaps in the rails drew her eye. It was easy to slip into the graveyard.
+
+On the flea's leg, she moved quietly past the graveyard towards the bell-pits.
 
 "Who goes there?" An old woman's voice, softened by time, arose from behind a wooden cross buried in the dirt, marking a grave. "You'll wake the spirits if you sneak too close."
 
-The woman was Sceaduwif, the church grave-tender. She was dressed in a simple grey woolen dress, her knees and elbows stained with the dark, damp earth of the pits she tended. She held a rag in her hands, methodically wiping the dirt from a headstone.
+The woman was Sceaduwif, the church grave-tender. She was dressed in a simple grey woolen dress, her knees and elbows stained with the dark, damp earth of the pits she tended. She held a rag in her hands, methodically wiping the dirt from a newly straightened wooden cross that the winter frost had pushed askew.
 
 Elswyth took a few steps back and froze, but prepared to run. "Aren't you waking the spirits now?" she replied, her voice steady despite the hammering of her heart.
 
 "Oh, they know me, dear. I sing to them every night," Sceaduwif said, not looking up. She gestured with a gnarled finger toward the ossuary. "Are you here looking for your father, dear? He’s over there, in Raider’s Row. All the souls that died the day the wolves came are buried together."
 
+Elswyth froze. Sceaduwif looked up, and squinted at her for a long moment.
+
+"You _are_ Godwine's girl."
+
+Elswyth said nothing. The old woman nodded to herself.
+
+"Thought so. I'd never forget your hair, dear. Blonde as the sun, yet dark as charcoal. Though, under the moonlight, I almost didn't recognize you."
+
+Sceaduwif's gaze drifted to Raider's Row again.
+
+"We thought you died, dear, but you knew that. I folded your Easter tunic and tucked it under your father's arm. Even old Judith put down her knitting needles long enough for her eyes to mist over."
+
 Elswyth’s grip on the axe loosened, her gaze drifting to the long, uneven mound. "They don't look like they're resting."
 
-"They’re resting," Sceaduwif rasped, finally looking up with eyes milky but sharp. "It’s the living who can’t seem to find peace. You’re the girl from the coal-pits, aren't you? The one who vanished into the smoke."
+"They’re resting," Sceaduwif rasped, finally looking up with eyes milky but sharp. "It’s the living who can’t seem to find peace."
 
+"Who else is there?"
 
-[TODO]
+Sceaduwīf sighed.
 
-If you’re looking for the refuse sacks, they’re behind the bone-chest. And if you’re looking for a place to hide your coal so you don't have to haul it through the woods like a pack-mule, the floorboards under the bier are loose."
+"Oh, dear... why go digging up the past?" She gave the freshly planted cross a firm pat, as though the words themselves had disturbed the earth. "The only one you'd remember was Cynewulf. We buried his stole and the little things his father had given him in a small box."
 
-Elswyth blinked, stunned. "Why?"
+She fell quiet for a moment.
 
-Morwenna finally looked up, her eyes milky but piercing. "Because the living in this village have forgotten how to be quiet, and the dead are tired of the noise. You’re the only thing left that still breathes the old air, coal-maid. Keep your fire low, and keep your secret."
+"Never did find what the wolves did with the rest of him."
 
-to the bell-pits. The smell of copper tang was still lingering, and she found her quarry: the refuse pit. She dug in the trash, looking for torn sacks. There were several. She took all she found, and some tiny brass scrap that could be fashioned into a needle, and brought them into the forest. By the moonlight, she mended the rips with pine roots and linden bast. Fussleton had taught her how he fashioned clothes, and this came in handy.
+Sceaduwīf moved on to the next wooden cross, testing that it stood firm in the earth.
 
-The villagers soon noticed the strange, silent activity. They saw no smoke by day, but they heard the rhythmic, metallic _clink-clink_ of coal being sorted in the dead of night. They smelled the hint of smoke on the wind some mornings, wisps of dark fog coming from the yard. They whispered of the "_Coaler-Wight_" that lived by the graveyard, a restless spirit cursed by the Viking slaughter.  
+"Dear, if you're looking for sacks for your coal, you'll find a few torn ones in the bell-pit refuse. I'll start setting them aside now that I know who's been taking them. The boys got lazy yesterday, and they're still there. And if you're looking for somewhere to hide your coal, the floorboards beneath the bier are loose."
+
+Elswyth blinked, stunned.
+
+Sceaduwīf chuckled softly.
+
+"Dear, my eyes may not be what they once were..." She patted the cross until it stood straight. "...but I still noticed the hint of smoke on the air from the knoll. You're going to need Rower-Earm's help if you hope to sell the coal, and you're going to need somewhere to store it if you want to beat everyone to Morning-Eye's nose. Though, you haven't thought about how you're going to sell it yet. I can tell."
+
+She finally looked at Elswyth.
+
+"They'll recognize you. And I can't sell it for you. So you either need a new face, or someone you trust to handle the silver. I have a cowl you can use until next winter. Keep your face in its shadow and hide your hair. Pretend to be a mute, and you should be fine."
+
+Elswyth finally managed to speak. "Why... are you helping me?"
+
+"The dead need help from the living, dear." Sceaduwif stood and brushed the dirt off her knees.
+
+"Besides, having a coaler-ghost around is exactly what Under-Geat needs. The gossips need something else to talk about besides me. It's also been an age since Blackjoy had company."
+
+Sceaduwif turned towards her cottage by the graves. "Now, go fetch your sacks. You'll find the cowl folded at the foot of the cross."
+
+She dug in the trash, looking for torn sacks. There were several. She took every sack she could find, along with a sliver of brass no bigger than her thumb. With a little filing, it would make a fine needle. On the way back, Sceaduwif was gone and her cottage sat dark. Beneath the last cross, she found the folded cowl.
+
+Not wanting to wake Rower-Earm, she swam the river, and brought the items to the forest. By the moonlight, she mended the rips in the sacks with pine roots and linden bast. Fussleton had taught her to weave linden bast into cloth. The same stitches closed the torn sacks as neatly as any tunic.
+
+The villagers soon noticed the strange, silent activity. They saw no smoke by day, yet some mornings they caught its scent upon the wind. They didn't know it was from the old coaler's knoll. They whispered of the "_Coaler-Wight_" that lived by the graveyard, a restless spirit cursed by the Viking slaughter. They swore that if the Coaler-Wight's breath reached you before you made it to the Shadow-Gate, it would drag you into one of its burning pits beneath the earth.
 
 Terrified of the wight, the local peasants began to leave marks on the ruined hut. Creeping up to the clearing in the safety of the twilight, they used iron nails to scratch crude, shaky crosses into the charred doorposts. They smeared thick lines of red clay across the threshold stone and threw handfuls of salt across the path, desperate to bind the ghost inside the ruin. They threw hearth ash on the pathway to the house, and left a crude crucifix in the yard.
 
 From the deep shadows of the tree-line, Elswyth watched them do it. She never wiped the marks away. She let the red clay dry and the iron nails rust in the wood. The fear of the living was her strongest shield; those superstitious marks kept the curious, the greedy, and the law-bringers far from her secret.
 
-When she went to sell her coal, she no longer walked up to the Shadow Gate in broad daylight. Instead, she slipped through the dawn-fog onto the road. She had cut her hair and drew her caul over her face, pretending to be from a nearby village. She was relieved that the only one of the Church who might remember her, Cynewulf, was no longer there. She sold her coal to the deacon of the bell-pits, and her reward were silver pennies.  When she returned a second time, the new deacon marveled at the quality, boasting to the church-laborers about the quiet girl from the next village who brought the hottest flame in the Danelaw. From then on, she had no problem selling her coal.
+Elswyth stuffed her finished coal into her sacks. It was still night. It was time to talk to Rower-Earm. She carried her sacks down the river's edge to the summoning bell. She gave a small tug on the cord. It passed over a tree branch on her side, and hung high in the air to a matching branch on the other side. Somewhere it rang a bell - she heard the faint ringing across the still river.
 
-One night after her return, she checked her marten traps. Caught in the bind, there was a very rare breed. It was a pine marten, but with a stark-white coat, the color of pure snow. Her father had told her of such a thing, a lone marten in the forest that did not play with the others. It would lay out full, every night of the full moon, to catch as much of the light as it could. The coat shimmered with hints of silver in the moonlight, and Elswyth knew that this was no ordinary pelt.
+A few minutes later, she saw the lantern on the river. Behind the lantern was a raft, steadily guided by a man with thick forearms and a back built by the Soar itself. He used his pole to push the raft, and he was across the Soar quickly. Around his neck hung a large wooden medallion carved with the likeness of Saint Christopher.
 
-She worked her trained hand, and the pelt emerged, perfect. She smiled in the dark and resolved to keep the treasure for herself. One day... it would become a glorious addition to a prized possession. She folded the pelt neatly, and stored it in the sturdiest box she could find. She hid the box in the darkest corner of the coaler's hut, and there it stayed for many years.
+His face had a few wrinkles around his familiar eyes. He pondered her for a moment after reaching shore.
 
-Like clockwork, the gnome would return each full moon to test her knowledge. She would recant each rhyme, on a flea's leg, to his rhythm. He would smile. He would share a small conversation as he smoked his pipe, leaving exactly thirteen minutes after he had arrived.
+"BY THE STAFF OF SAINT CHRISTOPHER! The coaler-maid has returned! Were your father here, he'd say you've been busy. I've smelled the coal... and I've heard the stories."
+
+"Rower-Earm!" Elswyth hugged his waist. He was not only her father's friend, but a friend of the family.
+
+"Now, now." He returned her hug for a moment. "Let's not get carried away. I suppose you intend on waking me at the earliest of hours to ferry your coal. You mean to beat everyone to Morning-Eye's nose?"
+
+"The very first! Every morning!" Elswyth couldn't contain her joy.
+
+Rower-Earm planted his hands on his hips and drew himself up with theatrical severity.
+
+"And... I suppose you think I'll do this for free?"
+
+"Of course!"
+
+He held the stern expression for another heartbeat.
+
+"...Your father spoiled you."
+
+"Which means you'll do it. I know. I can tell."
+
+"Aye... but you'll stack the sacks yourself."
+
+"Deal. Then you'll be here before I ring."
+
+Rower-Earm chuckled softly, shaking his head. "You are eager, aren't you. Too eager to let me sleep?"
+
+Elswyth had already started to load the sacks. "Thanks Rower-Earm! You're the very best!" She flashed the broadest grin as she nudged the last sack into position. "Oh, and... I'm still dead. Very, very dead."
+
+Rower-Earm laughed aloud. "Of course you are! You know I can't keep a straight face listening to them whisper about how you _breathe_ on folk before dragging them by their heels into the fire!"
+
+"So you'll tell nobody else?"
+
+"And who would believe me anyway? I keep everyone's secrets, child."
+
+He pushed the raft away from the bank with his pole.
+
+"You'd be surprised what folk will tell a ferryman."
+
+That morning, and every morning she had coal, she was the first to Morning-Eye's nose. The day-bell rang, and the gate opened. The bell pit's foreman, a discerning young man with a pocket of silver, approached Elswyth. Remembering to be mute, she hid her face in the shadow of the cowl, and pointed to her lips.
+
+The young man's eyes drifted to the sacks, and he picked up a piece of coal. He rolled it in his soot-stained hands for a moment, and set it down on the others. It landed with a soft _clink_. Remembering the price of her father's coal, she waved her hands over all the sacks, and held up the price. Five fingers.
+
+"That's good coal, and a fair price. Where did you come from?"
+
+Elswyth pointed down the river west, where another hamlet sat in the distance.
+
+"You carried your father's coal all the way from there? Finest charcoal I've seen in months. I wish I had a daughter like you." He laughed. "Very well, five pennies." She stretched out her hand, and the pennies landed in her palm clinking like the coal. She closed her fingers around the pennies and ran. The young man stared after her in amazement, then his eyes went back to the sacks. He carried them inside the gate, two at a time, to a waiting cart.
+
+She ran, and kept running, until she reached Rower-Earm's hut. She pulled the cord of his bell.
+
+And again.
+
+And again.
+
+Alarmed, Rower-Earm threw open his door, an axe in hand.
+
+"HERE!" Elswyth flipped him a penny. "My payment for the ferryman! I am now officially your customer." She smiled and laughed.
+
+Rower-Earm barely caught the penny, almost dropping it into the river. He narrowed his eyes at her. "You had me thinking the wolves were back!"
+
+"Nah, just me. You're favorite... customer."
+
+One night while finding wood to retrieve, she checked her marten traps. Caught in the bind, there was a very rare breed. It was a pine marten, but with a stark-white coat, the color of pure snow. Her father had told her of such a thing, a lone marten in the forest that did not play with the others. It would lay out full, every night of the full moon, to catch as much of the light as it could. The coat shimmered with hints of silver in the moonlight, and Elswyth knew that this was no ordinary pelt.
+
+She worked with practiced hands until the pelt emerged, perfect. In the moonlight it shimmered with silver. She smiled.
+
+She would not sell this one.
+
+One day, she would find something worthy of it. Perhaps the lining of a winter cloak. Perhaps a wedding gift. Perhaps something her children would see from far away and would know that mother was coming. When she was grown, she would know what it wanted to become.
+
+The next day, at the Shadow Gate, after she sold her coal, she found a peddler's cart where she saw an old pine box with rusty brass hinges. One penny. She immediately handed over the penny. She caressed the little box with soot-stained hands. It was plain, weathered, and no bigger than a loaf of bread, but it was hers. The first thing she had ever bought with silver she had earned herself. She folded the pelt carefully and placed it inside. She hid the box in the darkest corner of the coaler's hut, where it remained for many years.
+
+Every morning, after delivering her coal, she would rely on the hurried nature of her neighbors. They drew their cloaks over their faces to avoid the charcoal breath of the _Coaler-Wight_. Nobody noticed the hooded girl coming back down the hill on one of the side trails. She would duck back into her hut, and into her hidden nest by the hearth. Exhausted from her night's work and morning's haul, she would fall fast asleep.
+
+Like clockwork, the gnome would return each full moon to the knoll to test her knowledge. She would recall each rhyme, on a flea's leg, to his rhythm. He would smile. He would share a small conversation as he smoked his pipe, occasionally picking up a rake and checking coals. "Ash is respectable... oak a bit heavy... but beech..." He closed his eyes for a moment. "...Beech has manners... on the nose."  Sometimes he would bring little bags of salt, or rare herbs for her meals. Each time, he left exactly thirteen minutes after he had arrived.
 
 During the long, sun-drenched hours when she was forced to hide in her crawlspace, Elswyth did not merely sleep. She listened. She learned the heartbeat of the village: the heavy, rhythmic tread of the guards, the held breath of guards as they passed by her hut, the frantic tolling of the church bells, the far off screams of villagers playing 'mob-ball' on important feast days. She mapped the village in her mind.
 
-To keep her mind sharp, she practiced the gnome’s rhymes. Since she could not write, she used her mushroom knife to carve rhythmic tallies into the soft pine roots she gathered for her sewing. A long notch for a heavy beat, a tiny prick for a flea’s-leg skip. She turned the rhymes into physical patterns, feeling the cadence of the gnome’s madness under her fingertips. She left these notched roots in the hollows of trees—offerings to the 'forge-elves' her father had always spoken of. She didn't know if they were real, but she knew that the edges of her coal-pits were always clean, and the forest seemed to hold its breath whenever she walked through it. She was learning the language of the earth, one notch and one rhythm at a time.
-
-In the late fall of 940, the cold arrived early. The Vikings returned to Leicester, establishing camp before the winter locked the land in ice. This time, however, the host was weary. They robbed and they stole, as was their nature, but the Ulfhednar did not scour the land from church to tree-line as they had before. They ignored the 'cursed' hut.
-
-Whenever the Danes drew near, Elswyth simply melded into the wood. They never looked past the ghosted wreck of the coaler’s hut, sitting silent by the graveyard, protected by the very wards the villagers had carved to keep her in. They could not find her secret coal-pits buried beneath the snow, and her craft saw her through the bitter months. Her charcoal burned with such intense, clean heat that it gave off no smoke—leaving no tell-tale plume to warn the Vikings on the hill of her presence.
+To keep her mind sharp, she practiced the gnome’s rhymes. She used her mushroom knife to carve rhythmic tallies into the soft pine roots she gathered for her sewing. A long notch for a heavy beat, a tiny prick for a flea’s-leg skip. She turned the rhymes into physical patterns, feeling the cadence of the gnome’s madness under her fingertips. She left these notched roots in the hollows of trees—offerings to the 'forge-elves' her father had always spoken of. She didn't know if they were real, but she knew that the edges of her coal-pits were always clean by morning, and the forest seemed to hold its breath whenever she walked through it.
 
 ---
 
@@ -166,19 +277,19 @@ Huginn started clicking his beak in a fast, rhythmic cadence, humming a tune tha
 
 Muninn: "It's not an impossible mission, Huginn. It's just merely improbable. She's really lucky everyone was deeply superstitious."
 
-Huginn: "Lucky? Brother, don't your see? It’s a total reboot! This is _Mission: Impossible – Ghost Protocol_! Think about it!"
+Huginn: "Lucky? Brother, don't you see? It’s a total reboot! This is _Mission: Impossible – Ghost Protocol_! Think about it!"
 
 Muninn: "I would prefer not to."
 
-Huginn: "First, the catastrophic event! The Kremlin is bombed—I mean, her family's hut is burned to the ground by the Vikings. The IMF is completely disavowed! She is officially dead to the world, operating with zero backup, zero resources, and no country!"
+Huginn: "She is officially dead to the world! Zero backup! Zero resources! Zero country!"
 
-Muninn: "She is an eleven-winter-old coaler, Huginn."
+Muninn: "Not exactly dead, Huginn. They still have stories about her."
 
-Huginn: "Exactly! Rogue agent Elswyth! Next, the high-security infiltration. She has to bypass the biometric security—the stone grotesques at the Shadow Gate—to steal the launch codes... which are actually just torn burlap sacks from the refuse pit!"
+Huginn: "Until she jumps back into action! Imagine it! Deep agent Elswyth Moonhunt!"
 
 Muninn: "And I suppose her high-tech gadgets failed too?"
 
-Huginn: "Yes! Just like the sticky gloves on the Burj Khalifa! Her father's tools are gone, so she has to improvise with a piece of brass scrap and linden bast! It’s pure, raw, soot-stained espionage! And then... whaaaaaaaaaa-haa! She unleashes gnome-fu!"
+Huginn: "Yes! I bet if the Ulfhednar _did_ find her, then _whaaaaaaaaaa-haa_! She unleashes gnome-fu!"
 
 Muninn: "They did not have IMF agents, or 'protocols', in tenth-century Mercia, Huginn."
 

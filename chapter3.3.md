@@ -2,6 +2,10 @@
 
 ### Part Three: The Rhyme Was There
 
+In the late fall of 942, the cold arrived early. The Vikings returned to Leicester, establishing camp before the winter locked the land in ice. This time, however, the host was weary. They robbed and they stole, as was their nature, but the Ulfhednar did not scour the land from church to tree-line as they had before. They listened to the stories of the _Coaler-Wight_. They also gave the Roman necropolis a wide berth. Old men in the host muttered that the giant-folk who had raised Leicester's impossible walls had buried their dead there long before Dane or Saxon ever set foot upon the island. Some swore the graves marked an old road into Helheim. Others whispered that the giants still watched over their own. Whatever the truth, none of the Ulfhednar cared to test it.
+
+As the cold settled in, as with every other winter, nobody could find her secret coal-pits buried beneath the snow, and her craft saw her through the bitter months. Her charcoal burned with such intense, clean heat that it gave off no smoke—leaving no tell-tale plume to warn the Vikings or her neighbors in Under-Geat of her presence.
+
 [TODO: ]
 
 > **Huginn:** I have just heard a most outrageous accusation.

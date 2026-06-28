@@ -339,6 +339,8 @@ Group: "And we'll watch him closely!"
 
 Baldy was often the first to lose. He didn't mind, as he was the youngest of the company, and he knew he had a lot to learn.
 
+Another curious thing caught Cynewulf by surprise. After the loss, some members would ask questions in Welsh about the English song, and translations were offered by the women and Madoc. It occurred to Cynewulf that this was how they taught new languages to their members.
+
 The challenge-songs continued, and men sometimes lost their refrain to sheer laughter, for the women were clearly improvising and had not warned them where the verses were headed. Each time, the men responsible were assigned a camp chore. But, they could only lose once, leaving the rest to find the proper response.
 
 Cynewulf had no ear for the song's rhythm, but it brought a smile, and made the road seem much shorter. The road to Leicester was not long. But it was long enough to share plenty of songs and stories.
