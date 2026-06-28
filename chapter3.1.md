@@ -174,3 +174,27 @@ His pipe was almost out, and he looked down at it with a small curled eyebrow. H
 "Look there, you've barely touched your supper," Fussleton pointed, his tone shifting to one of mild, sophisticated disappointment. "Creamed morel and chanterelle soup, finished with a hint of wild garlic and sweet cicely. And the squirrel—roasted over oak-heart embers until the meat pulls clean from the bone, then dusted with a pinch of wood sorrel for brightness. You’ll hardly find a better forest-meal. It’s a shame to let such delicate flavors go to waste."
 
 He reached for a small, polished horn hanging from his belt and produced a tiny, carved bone spoon. With the precision of a jeweler, he dusted a pinch of grey, coarse salt over the soup. He pushed the soup closer to her, and the plate of squirrel. "Now eat! Your training, Meadow-Bud, starts tomorrow."
+
+---
+
+Huginn: "Good evening! Huginn Featherstone and Muninn Mockbottom reporting live from the Charnwood Olympic Training Centre, where Team Fussleton has begun preparations for the first-ever Lunar Games! They think they have a new ringer in the form of Elswyth Coalergirl, a local product from nearby Under-Geat!"
+
+Muninn: "There were no Lunar Games."
+
+Huginn: "Sources say the coach is done giving his student the pep talk, and tomorrow the training begins in earnest."
+
+Muninn: "It wasn't a pep talk, he was trying to..."
+
+Huginn: "Sorry Muninn, your mic is cutting out there. The coach thinks she has real talent in the hundred-yard coal-bag relay and an outside shot at winning in the youth division in the timber events."
+
+Muninn: "I..."
+
+Huginn: "Coach Fussleton tells us his athlete has tremendous potential, though he insists she needs to eat more before training begins."
+
+Muninn: "...the first sensible thing you've said..."
+
+Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling the mushroom toss. Back to you in the studio."
+
+Muninn waited for the faux-broadcast to complete: "...I suppose we cue _Eye of the Tiger_ next? You're so predictable."
+
+Huginn: "Control room? Cue _Eye of the Tiger_ on Muninn's suggestion."
