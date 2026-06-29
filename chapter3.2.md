@@ -95,7 +95,32 @@ On the nights of the full moon and the new moon, Fussleton would disappear. He n
 
 On the first anniversary of the night of the wolves, Fussleton led her back to the knoll of the charcoal clamps. The pits had started to grow weeds, but the coal rakes still lay undisturbed. The gnome had taught her everything she needed to survive as a child on the edge of the Charnwood. He taught her the secrets of the forest larder. He taught her the power of the moon, and its effect on wood and beasts. He taught her where the absolute best wood lived, and how to harvest it wisely. He taught her music, dancing, and even how to smoke a pipe. She was ready to live on her own.
 
-"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for thirteen lunar years—one year for each minute you outran the wolf. I will check on you, Meadow-Bud. I will make sure you are safe." And he left her there, a girl of eleven winters, yet much, much older in lunar years.
+"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-five moons—twelve moons for your training, and one hundred and thirteen for the beats your brave little heart outran the wolf. I will check on you, Meadow-Bud. I will make sure you are safe."
+
+"My heartbeat? How do you..." Elswyth stammered.
+
+Fussleton blinked. "How do I...?"
+
+He laughed—a delighted, tinkling laugh.
+
+"Meadow-Bud..."
+
+He closed his eyes. "...there."
+
+His head began to sway.
+
+"Lub... dub. Lub... dub. Lub-dub-lub-dub... Oh, It's getting faster. Am I making you nervous, Meadow-Bud?"
+
+He started dancing to a rhythm only he could hear.
+
+"It pounds, it bounds, it leaps, it soars... This is _your_ drum! Come on, dance to it!"
+
+She didn't dance. She stared at him.
+
+He stopped. "...You really can't hear it?"
+
+
+And he left her there, a girl of eleven winters, yet much, much older in lunar years.
 
 The Ulfhednar were long gone by then, and a steady, quiet life had returned to Under-Geat. Elswyth stood before the charred skeleton of the coaler’s hut, the roof long since consumed by the wolves' fire. She was alone, but she was no longer the girl who had fled into the trees. She was a creature of the forest now, and the gnome’s promise hung in the air between them.
 

@@ -89,7 +89,7 @@ If her father taught her the fire, her mother tried to teach her the earth. Eadg
 
 Elswyth was not fond of the meadow-work. She lacked the patient eye for the forest-larder. She would trample mushrooms without a thought. She would dismiss medicinal herbs as mere weeds. Still, Eadgyth never scolded her. Times would not always be as kind as they were now. Someday the forest would be the only thing standing between her daughter and the grave across the yard.
 
-On May 1st, 933, the Vikings came like a wolfpack in full deer-chase. They hit everything from the Church to the Soar's edge. There was nothing Elswyth could do. One moment she had an eye on the fire on the knoll beyond the river, the next moment three wolf-skins were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed - and the sound carried. The Viking's wolf head snapped to her, his eyes locking on hers.
+On March 14th, 933, the Vikings came like a wolfpack in full deer-chase. They hit everything from the Church to the Soar's edge. There was nothing Elswyth could do. One moment she had an eye on the fire on the knoll beyond the river, the next moment three wolf-skins were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed - and the sound carried. The Viking's wolf head snapped to her, his eyes locking on hers.
 
 She didn't freeze. She grabbed the heavy felling axe - the Vikings must *never* have that precious steel - and she bolted straight for the tree-line. He gave chase instantly, jumping headlong into the Soar. She was foot-sure through the branches, turning the familiar woods into a maze. She had shed the wolf-man after an eternity of frantic flight; she was lucky her breath had held out that long. He spat into the dirt, looked once more toward the trees, then turned back toward the smoke rising beyond the Soar.
 
@@ -157,7 +157,7 @@ He reached for a small, polished horn hanging from his belt and produced a tiny,
 
 Huginn held his right wing up to his beak, and his left wing up to the side of his ear, pretending to be holding in an earpiece.
 
-Huginn: "Good evening! Huginn Featherstone and Muninn Mockbottom reporting live from the Charnwood Olympic Training Centre, where Team Fussleton has begun preparations for the first-ever Lunar Games! They think they have a new ringer in the form of Elswyth Coalergirl, a local product from nearby Under-Geat!"
+Huginn: "Good evening! Huginn Featherstone and Muninn Mockbottom reporting live from the Charnwood Olympic Training Center, where Team Danelaw has begun preparations for the first-ever Lunar Games! They think they have a new ringer in the form of Elswyth Coalergirl, a local product from nearby Under-Geat!"
 
 Muninn: "There were no Lunar Games."
 
