@@ -30,43 +30,21 @@ _Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. H
 
 ---
 
-Huginn adopted an absurdly cheerful falsetto as Morning-Eye, and puffed out his chest and adopted an impossibly deep voice for Blackjoy, as he went back and forth.
+Morning-Eye: "Knock knock."
 
-Hugin-as-Morning-Eye: "Observe, Blackjoy! A wedding."
+Blackjoy: "Don't knock. Ring the bell."
 
-Hugin-as-Blackjoy: "I am observing."
+Morning-Eye: "No, you're supposed to say, 'Who's there?'"
 
-Hugin-as-Morning-Eye: "First they form a queue."
+Blackjoy: "Ignoring the bell is rude. I don't speak to rude people."
 
-Hugin-as-Blackjoy: "Correct."
+Morning-Eye: "You don't speak to _any_ people."
 
-Hugin-as-Morning-Eye: "Then they enter the church."
+Blackjoy: "I smile at them. I'm just not very good at it."
 
-Hugin-as-Blackjoy: "Correct."
+Morning-Eye: "Lucky for you. Do you know how exhausting it is being cheerful everyday?"
 
-Hugin-as-Morning-Eye: "Then, some months later... babies."
-
-Hugin-as-Blackjoy: "...Go on."
-
-Hugin-as-Morning-Eye: "Therefore... queues make babies."
-
-Hugin-as-Blackjoy: "No. Queues merely precede babies."
-
-Hugin-as-Morning-Eye: "Then why do humans keep making queues?"
-
-Hugin-as-Blackjoy: "...Because they enjoy babies."
-
-Hugin-as-Morning-Eye: "Exactly! They like babies, and queues generate more humans. Ergo, queues make babies."
-
-Muninn: "WHAT... ARE... YOU... DOING?!"
-
-Huginn: "I'm pretending that Morning-Eye and Blackjoy are having a conversation, like we have conversations."
-
-Muninn: "And... how's that... going?"
-
-Huginn: "Very well. Blackjoy hasn't threatened to throw Morning-Eye in the ditch."
-
-Muninn: "Yet..."
+Blackjoy: "Try spending eternity having people look at your face, then start swearing."
 
 ---
 
@@ -191,11 +169,11 @@ Huginn: "Sorry Muninn, your mic is cutting out there. The coach thinks she has r
 
 Muninn: "I..."
 
-Huginn: "Coach Fussleton tells us his athlete has tremendous potential, though he insists she needs to eat more before training begins."
+Huginn: "Coach Fussleton tells us his athlete has tremendous potential, though he insists she needs to eat more before training begins. Apparently the coach has her meal plan all worked out."
 
 Muninn: "...but..."
 
-Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing that felling axe. Back to you in the studio."
+Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing that felling axe. Our insiders tell us his plan calls for good rhythm and flea's-leg timing. Back to you in the studio."
 
 Muninn waited for the faux-broadcast to complete: "...I suppose we cue _Eye of the Tiger_ next? You're so predictable."
 
