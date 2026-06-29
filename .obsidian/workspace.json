@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter3.3.md",
+                "file": "chapter1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter3.3"
+              "title": "chapter1"
             }
           }
         ],
@@ -310,10 +310,11 @@
   },
   "active": "99353a419e10100e",
   "lastOpenFiles": [
-    "chapter3.2.md",
     "chapter3.3.md",
-    "afterword.md",
+    "chapter3.2.md",
     "chapter3.1.md",
+    "build.sh~",
+    "afterword.md",
     "chapter2.1.md",
     "artwork/Under-Geat-Faces2.png",
     "artwork/Unconfirmed 212414.crdownload",
@@ -354,7 +355,6 @@
     "artwork/wilde-brer",
     "artwork/wodbora",
     "artwork",
-    "copilot/copilot-conversations",
     "Table of Contents.canvas"
   ]
 }

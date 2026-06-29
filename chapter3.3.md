@@ -2,81 +2,193 @@
 
 ### Part Three: The Rhyme Was There
 
-[TODO montage of events regarding Sceaduwif and Rower-Earm] 
+Years passed in Under-Geat.
 
-In the late fall of 942, the cold arrived early. The Vikings returned to Leicester, establishing camp before the winter locked the land in ice. This time, however, the host was weary. They robbed and they stole, as was their nature, but the Ulfhednar did not scour the land from church to tree-line as they had before. They listened to the stories of the _Coaler-Wight_. They also gave the Roman necropolis a wide berth. Old men in the host muttered that the giant-folk who had raised Leicester's impossible walls had buried their dead there long before Dane or Saxon ever set foot upon the island. Some swore the graves marked an old road into Helheim. Others whispered that the giants still watched over their own. Whatever the truth, none of the Ulfhednar cared to test it.
+She occasionally encountered threats of the forest.
 
-As the cold settled in, as with every other winter, nobody could find her secret coal-pits buried beneath the snow, and her craft saw her through the bitter months. Her charcoal burned with such intense, clean heat that it gave off no smoke—leaving no tell-tale plume to warn the Vikings or her neighbors in Under-Geat of her presence.
+There was the time she heard the rooting before she saw it. The axe slid off her shoulder and she readied it. She saw the earth churned up around the old roots of a tree. The old rhyme arrived before the panic did.
 
-[TODO: ]
+"
+When the forest digs instead of sings,  
+Mind the tusks of woodland kings.
+They pick a line and forward keep,  
+Step aside and let them sweep.
+"
 
-> **Huginn:** I have just heard a most outrageous accusation.
-> 
-> **Muninn:** Have you?
-> 
-> **Huginn:** Apparently I spent years masquerading as an elderly grave-tender.
-> 
-> **Muninn:** The evidence is compelling.
-> 
-> **Huginn:** How dare you.
-> 
-> **Muninn:** You do enjoy graveyards.
-> 
-> **Huginn:** Many people enjoy graveyards.
-> 
-> **Muninn:** You enjoy them more than most.
-> 
-> **Huginn:** That does not mean I stole an old woman's body to play practical jokes on the villagers.
-> 
-> **Muninn:** I said nothing about practical jokes.
-> 
-> **Huginn:** So the rumor came from you?
-> 
-> **Muninn:** If you say so.
+She looked at the torn earth. Fresh. The bark rubbed smooth against an oak. A musky smell drifted on the wind.
 
-**Huginn:** Sceaduwīf was a perfectly respectable woman.
+_Huff! Huff!_
 
-**Muninn:** Mm.
+She wheeled on her heel. 
 
-**Huginn:** Entirely her own person.
+The brown muddy beast burst forth from the brush and charged.
 
-**Muninn:** Naturally.
+She waited. Not _yet_. 
 
-**Huginn:** Possessed of independent thoughts.
+The tusks filled her world.
 
-**Muninn:** On occasion.
+Then she danced. One step sideways.
 
-**Huginn:** I am beginning to regret bringing you.
+The boar's head swept past her hip, but its charge never wavered. It had chosen its line.
 
-**Muninn:** At least nobody suspects I was the ferryman.
+It thundered into the undergrowth beyond. The boar did not circle back.
 
-**Huginn:** Nobody?
+She didn't give chase. She didn't mean to take down the boar. She only meant to survive the day.
 
-**Muninn:** Nobody reasonable.
+The daily ritual of Elswyth and Rower-Earm continued. Sometimes she would pay her penny. Sometimes it was a cluster of mushrooms, or a marten pelt. He would accept anything she brought. He would relay stories as he heard them from villagers and visitors, friends and strangers. And she would learn what everyone thought of the _Coaler-Wight_. 
 
-**Huginn:** You spent three years living on a raft.
+He told her of the time old Judith started gossiping that Sceaduwīf had married a ghost. The next morning, Judith found a lump of charcoal in her knitting basket. By noon she was demanding every lorica the priest knew. By evening she had decided the ghost was coming for her next. She refused visitors for the rest of the week.
 
-**Muninn:** Boats are pleasant.
+He told her of the time Old Godric swore the _Coaler-Wight_ stole half his firewood. Elswyth frowned. "I didn't." Rower-Earm replied "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
 
-**Huginn:** You charged her a penny.
+Elswyth was amused. "You think that was..."
 
-**Muninn:** Professional standards.
+Rower-Earm grinned. "Who else?"
 
-**Huginn:** You refused to reveal where she lived.
+They both laughed. "Sceaduwif!"
 
-**Muninn:** Confidentiality.
+"And just yesterday, Beorn loudly proclaimed that the _Coaler-Wight_ was stealing butter from his churning barrels. That's when Sceaduwif announced to everyone that was because the _Coaler-Wight_ only steals from those who water down their milk just before arriving at market."
 
-**Huginn:** You were absolutely the ferryman.
+Elswyth shook her head. "The _Coaler-Wight_ is becoming very opinionated."
 
-**Muninn:** Allegedly.
+Rower-Earm noticed something bulging in Elswyth's empty sack. He pointed to it.
+
+Elswyth opened the bag, and there it was. A folded square of linen tied with string. She untied it, and the parcel opened. The yellow-white lump stared back up at her in the moonlight.
+
+Butter.
+
+"No..."
+
+---
+Huginn: "It's not butter!"
+
+Muninn: "Don't... do... it"
+
+Huginn: "It's PAR-KAAAY!!!"
+
+Muninn: "A fitting accompaniment to ditch-meat."
+
+Huginn: "Me, or ..."
+
+Muninn: "Both."
 
 ---
 
-April 23rd, 943 was the night of the last full moon of the gnome's promise. By then, the Saxons were hard at work trying to dismantle the Viking army's grip on Leicester. Soldiers were active on the outskirts of town. They had confiscated supplies along the tree-line of the village, but they heeded the warnings of the _Coaler-Wight_, and stayed clear of Elswyth's hut. 
+The nightly ritual with Sceaduwīf also continued. After sunset, Elswyth would first visit the graveyard. Beneath the loose boards of the bier, Sceaduwīf had already stacked the emptied coal sacks, folded square and ready for another night's work.
 
-The gnome did not come that night as she expected. She assumed he forgot. Or maybe the Vikings' and Saxons' noises had scared him away. Or perhaps he had peeked in on her after all, and saw that she thriving better than he expected. She raked the coals faster with each passing thought.
+Once the stories of the _Coaler-Wight_ took flight, she began finding other things beneath the boards as well: one half of a pair of knitting needles. A loaf of bread. A simple whetstone. The torn corner of a scarf. Half a pair of shears.
 
-She was coal-wise and her purse had silver. Her coal had buyers. There were mushrooms in her bag and martens and squirrels in her traps. He must have known his training was well-taken, and he must have moved on. She dwelled on the matter a bit longer, before deciding to abandon the forest work and head home. She started loading her coal into the sacks. 
+Each time, Elswyth smiled. Later that night she would show the object to Rōwerearm. Together they tried to match the object to the newest tale. More often than not, they did.
+
+The villagers would concoct more bizarre stories about the _Coaler-Wight_. 
+
+One man swore the _Coaler-Wight_ pressed her ear against Blackjoy's lips each night to hear the names of liars. By morning, their bootlaces would always be found tied together.
+
+After a visitor from York landed in the ditch, the villagers decided the _Coaler-Wight_ had spooked his horses. It took him two days to wash the mud from his clothes, and considerably longer to convince anyone it had merely been poor riding.
+
+Not every morning ended with the forest.
+
+Sometimes Elswyth lingered at the edge of the Shadow Gate after selling her coal. She kept her cowl low and stood at the back of the little crowd while the parish priests taught the villagers loricas against wolves, fever, drowning, thieves, and - of course - restless spirits, like the _Coaler-Wight_.
+
+Most of the villagers learned only the rhythm. They repeated the Latin sounds without knowing the words, trusting that the holy cadence itself was a shield against darkness.
+
+Elswyth listened differently. She had the benefit of listening to the rhythm of the coal, the crackle of the wood, and her ears picked up every nuance.  She had spent a year learning the gnome's songs to the flea's leg. The priest's prayers were no different. Long beats. Short beats. Places to breathe. Places to strike the words.
+
+By the fifth hearing she knew the entire lorica by heart. She knew where to repeat the Latin exactly as given. She also knew the places where to insert her own wishes into the prayer. No one prayer could address all concerns, so the priests created the pattern.
+
+But life moved on, for everyone, including Elswyth.
+
+Each winter, after the first deep snow, no one could find the charcoal pits hidden beneath the white blanket of the forest. Her craft carried her through the bitter months. She kept enough charcoal to warm her own hearth and sold the rest, spending her hard-earned pennies on tithes to the Church and the things the woods could never provide: wool for mending, salt for preserving, needles, thread, and the occasional iron tool.
+
+Her charcoal burned hot and clean. It gave off almost no smoke, leaving no telltale plume above the trees to betray that the _Coaler-Wight_ was home.
+
+---
+
+Huginn: "I have just heard a most outrageous accusation."
+
+Muninn: "Yes?"
+
+Huginn: "Apparently I spent years masquerading as an elderly grave-tender."
+
+Muninn: "I wonder who would start such a rumor?"
+
+Huginn: "I thought you cared about honesty, memory, history..."
+
+Muninn: "Very much indeed."
+
+Huginn: "Then why did you start the rumor?"
+
+Muninn: "I can neither confirm nor deny. But I'll make observations. You do enjoy graveyards."
+
+Huginn: "Many people enjoy graveyards."
+
+Muninn: "You enjoy them more than most."
+
+Huginn: "You're not presenting evidence."
+
+Muninn: "No, I suppose not."
+
+Huginn: "You're assembling a rumor."
+
+Muninn: "Much like Sceaduwif did. She assembled rumors. You assembled Sceaduwif. Ergo, you did too."
+
+Huginn: "Oh I see what you did there."
+
+Muninn: "Then you appreciate my handiwork."
+
+Huginn: "That doesn't mean I literally stole her body to play jokes on Under-Geat."
+
+Muninn: "Philosophically you did."
+
+Huginn: "I suppose you think I stole the ferryman's body too."
+
+Muninn: "The reader might reasonably suspect that I was the ferryman."
+
+Huginn, looking at the reader temporarily, then back at Muninn: "Um, were you? The ferryman?"
+
+Muninn: "Allegedly."
+
+Huginn: "He did remember Elswyth. He wasn't surprised by her survival. You are the master of memory. "
+
+Muninn: "Go on."
+
+Huginn: "He did show up exactly when she needed him to. That's an awfully big coincidence."
+
+Muninn: "Yes. Continue."
+
+Huginn: "I'm not sure I can. I don't like where this is going."
+
+Muninn: "That's how some myths get built, brother. I suggested an end. You provided the path."
+
+---
+
+In the late fall of 942, the cold arrived early. The Vikings returned to Leicester, establishing camp before the winter locked the land in ice. This time, however, the host was weary. They robbed and they stole, as was their nature, but the Ulfhednar did not scour the land from church to tree-line as they had before. They listened to the stories of the _Coaler-Wight_. They also gave the Roman necropolis a wide berth. Old men in the host muttered that the giant-folk who had raised Leicester's impossible walls had buried their dead there long before Dane or Saxon ever set foot upon the island. Some swore the graves marked an old road into Helheim. Others whispered that the giants still watched over their own. Whatever the truth, none of the Ulfhednar cared to test it.
+
+The Vikings did not like the masks of the Shadow Gate either. They were the mocking faces of stone giants. Men muttered that the eyes followed them through the market.
+
+One Dane climbed a ladder and smeared wet river mud across Morning-Eye's face until the giant could no longer "see."
+
+Another packed mud into Blackjoy's mouth, hoping to stop it whispering curses into his dreams.
+
+The next rain washed both faces clean.
+
+One Viking took a hammer to Blackjoy's cheek. It bounced off harmlessly, but a splinter in the handle bit the Viking's hand. The man ran, convinced that Blackjoy nibbled his palm.
+
+Two more Vikings made a game of staring down the giants while off patrol. They spat at them. They mocked them. The expressions never changed.
+
+One older Dane poured ale into Morning-Eye's mouth before drinking from the same horn himself, inviting the old giant to join him in the revelry. On quieter evenings he sat beneath Blackjoy, singing old drinking songs, convinced the giant merely needed better company.
+
+The villagers would watch as this continued. They saw the faces withstand everything. Once winter set in, no Viking bothered with the stone giants any more.
+
+By February of 943, the Vikings retreated behind ramparts and walls. The Saxons had returned to dismantle the Vikings hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
+
+April 23rd, 943 was the night of the last full moon of the gnome's promise. Elswyth was then of twenty winters. 
+
+The gnome did not come that night as she expected. She assumed he forgot. Or maybe the Vikings' and Saxons' noises had scared him away. Or perhaps he had peeked in on her after all, and saw that she was thriving better than he expected. She raked the coals faster with each passing thought.
+
+She was coal-wise and her purse had silver. Her coal had buyers. There were mushrooms in her bag and martens and squirrels in her traps. He must have known his training was well-taken, and he must have moved on. She dwelled on the matter a bit longer, before deciding to abandon the forest work and head home.
+
+She started loading her coal into the sacks. 
 
 From behind her came a voice.
 
@@ -325,9 +437,7 @@ She dove into the Soar, frantically trying to reach home. She rushed in, finding
 
 She saw the morning light, and her mind snapped to the present. She knew she had moments before the village rhythm began.
 
-She spent the rest of the morning curled in her sleeping hole, just as she had in the log-hollow on the night of the wolves. She pressed her forehead against the cold, damp earth—the same earth that had just swallowed a monster's knife—and whispered the words she had learned from the priest at the Shadow Gate. The priests had taught the peasants a lorica - a patterned prayer of protection - against the _Coaler-Wight_. Against _**her**_.
-
-The priests at the gate tried to teach the lorica in Latin. Most of the peasants just listened, confident in the rhythm and sound was a shield against the dark. To know it, one must only hear it. Others tried to learn the Latin, but their ears didn't find the rhythm. Their tongues stumbled on the foreign sounds and lost the cadence. For them, speaking a few words was protection enough. Elswyth, however, memorized the Latin on the fifth hearing. She had the benefit of listening to the rhythm of the coal, the crackle of the wood, and her ears picked up every nuance. The priests had taught them where to inject their own words for the evil warded by the lorica - to personalize it.
+She spent the rest of the morning curled in her sleeping hole, just as she had in the log-hollow on the night of the wolves. She pressed her forehead against the cold, damp earth—the same earth that had just swallowed a monster's knife—and whispered the words she had learned from the priests at the Shadow Gate. They were words taught to use against the _Coaler-Wight_. Against _**her**_. And now, they were her bedrock.
 
 She summoned that spell to memory, and put the raw madness of what she had just seen into it. She rocked back and forth to the rhythm of the chant, almost singing into the dark:
 
