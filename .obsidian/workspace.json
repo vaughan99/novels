@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter3.3.md",
+                "file": "chapter4.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter3.3"
+              "title": "chapter4.3"
             }
           }
         ],
@@ -310,27 +310,28 @@
   },
   "active": "99353a419e10100e",
   "lastOpenFiles": [
+    "chapter4.4.md",
+    "chapter4.5.md",
+    "chapter4.3.md",
+    "chapter4.2.md",
+    "chapter4.1.md",
+    "chapter3.3.md",
     "chapter3.2.md",
     "chapter3.1.md",
+    "chapter2.3.md",
+    "chapter2.2.md",
+    "chapter2.1.md",
     "chapter1.md",
-    "chapter3.3.md",
+    "prologue.md",
+    "chapter5.1.md",
     "build.sh~",
     "afterword.md",
-    "chapter2.1.md",
     "artwork/Under-Geat-Faces2.png",
     "artwork/Unconfirmed 212414.crdownload",
     "artwork/Under-Geat-Faces.png",
     "artwork/Unconfirmed 862059.crdownload",
     "artwork/Under-Geat-Grotesques.png",
     "artwork/Unconfirmed 468694.crdownload",
-    "chapter4.4.md",
-    "chapter4.5.md",
-    "chapter4.1.md",
-    "prologue.md",
-    "chapter4.3.md",
-    "chapter4.2.md",
-    "chapter2.3.md",
-    "chapter2.2.md",
     "artwork/monanleoht/gnmaZDQ45rDB2AsdvLH4QvCzHWZZfHvLVUTFjuSAemBiuug27IfudnpGxwTYYDg3_ZnWAP3aW9PnxpGr8uiSfYwuuPwmpzMGGa7pM8kstHP4cclvhlDD-34yBiCRc5IUloQ2KkwoK6iVb0jZJGgceaF1Ff5i9or7mQWemVJ.jpg",
     "artwork/monanleoht/Unconfirmed 568137.crdownload",
     "copilot/copilot-conversations/Corrupting_the_Priesthood_Narrative@20260625_002125.md",

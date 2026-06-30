@@ -81,7 +81,7 @@ But she hated the nickname. "Meadow-bud, I'm nothing of the sort," she thought, 
 
 Elswyth and Eadgyth worked the pits in cycles. Godwine felled timber and hauled it to the drying stacks. Once seasoned, the wood was stacked into a waiting charcoal clamp. Some pits burned fiercely beneath their earthen coverings, others merely smoldered, and others cooled after days of careful watching. When a pit had finally gone cold, the family filled burlap sacks with the finished charcoal.
 
-The Soar had a barge master named Rower-Earm. He helped them load their coal sacks and would ferry them across the Soar. From there, they would walk the short path south up to the Shadow Gate.
+The Soar had a barge master named Iron-Back. He helped them load their coal sacks and would ferry them across the Soar. From there, they would walk the short path south up to the Shadow Gate.
 
 It was there she learned the rhythm of the trade, watching her father sell their charcoal to a young, strapping deacon named Cynewulf. Like them, he was always black with soot and sweat. He wasn't a coaler like them; he worked the bell-pits, and he treated their coal with a reverence that surprised her. He was kind, but distant, and he always insisted that their charcoal was the best in the Danelaw. Elswyth liked him for that; he saw the craft in their soot-stained hands.
 

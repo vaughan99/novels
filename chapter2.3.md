@@ -1,4 +1,3 @@
-
 ## Chapter Two: The Tale of the Hearth-Warm Fyrdman
 
 ### Part Three: The Feared

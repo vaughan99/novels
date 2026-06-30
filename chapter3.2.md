@@ -1,8 +1,8 @@
-## Chapter Three: The Tale of the Coal-wise Apprentice
+## Chapter Three: The Tale of the Coal-Wise Apprentice
 
 ### Part Two: The In-Between
 
-The training began exactly as he promised, though it was nothing like the songs he had sung over the stew. It was a brutal, rhythmic education in the art of disappearing.
+The training began exactly as he promised, though it was nothing like the songs he had sung over the stew. It was a brutal, rhythmic education in the art of disappearing and collecting.
 
 His first lesson was shelter. Under his watchful, twitching gaze, they gathered fallen timber and woven branches to construct a small hut. Elswyth shaped the frame with her father’s felling axe, the steel biting into the wood with a satisfying, rhythmic thud. It was a cramped, humble thing—barely enough to contain her—but when the spring rains began to lash the forest, it would keep her dry. It was the first thing she had built for herself, and for the first time, the forest felt less like a labyrinth and more like a home.
 
@@ -146,13 +146,13 @@ On the flea's leg, she moved quietly past the graveyard towards the bell-pits.
 
 "Who goes there?" An old woman's voice, softened by time, arose from behind a wooden cross buried in the dirt, marking a grave. "You'll wake the spirits if you sneak too close."
 
-The woman was Sceaduwif, the church grave-tender. She was dressed in a simple grey woolen dress, her knees and elbows stained with the dark, damp earth of the pits she tended. She held a rag in her hands, methodically wiping the dirt from a newly straightened wooden cross that the winter frost had pushed askew.
+The woman was Shadow-Wife, the church grave-tender. She was dressed in a simple grey woolen dress, her knees and elbows stained with the dark, damp earth of the pits she tended. She held a rag in her hands, methodically wiping the dirt from a newly straightened wooden cross that the winter frost had pushed askew.
 
 Elswyth took a few steps back and froze, but prepared to run. "Aren't you waking the spirits now?" she replied, her voice steady despite the hammering of her heart.
 
-"Oh, they know me, dear. I sing to them every night," Sceaduwif said, not looking up. She gestured with a gnarled finger toward the ossuary. "Are you here looking for your father, dear? He’s over there, in Raider’s Row. All the souls that died the day the wolves came are buried together."
+"Oh, they know me, dear. I sing to them every night," Shadow-Wife said, not looking up. She gestured with a gnarled finger toward the ossuary. "Are you here looking for your father, dear? He’s over there, in Raider’s Row. All the souls that died the day the wolves came are buried together."
 
-Elswyth froze. Sceaduwif looked up, and squinted at her for a long moment.
+Elswyth froze. Shadow-Wife looked up, and squinted at her for a long moment.
 
 "You _are_ Godwine's girl."
 
@@ -160,17 +160,17 @@ Elswyth said nothing. The old woman nodded to herself.
 
 "Thought so. I'd never forget your hair, dear. Blonde as the sun, yet dark as charcoal. Though, under the moonlight, I almost didn't recognize you."
 
-Sceaduwif's gaze drifted to Raider's Row again.
+Shadow-Wife's gaze drifted to Raider's Row again.
 
 "We thought you died, dear, but you knew that. I folded your Easter tunic and tucked it under your father's arm. Even old Judith put down her knitting needles long enough for her eyes to mist over."
 
 Elswyth’s grip on the axe loosened, her gaze drifting to the long, uneven mound. "They don't look like they're resting."
 
-"They’re resting," Sceaduwif rasped, finally looking up with eyes milky but sharp. "It’s the living who can’t seem to find peace."
+"They’re resting," Shadow-Wife rasped, finally looking up with eyes milky but sharp. "It’s the living who can’t seem to find peace."
 
 "Who else is there?"
 
-Sceaduwīf sighed.
+Shadow-Wife sighed.
 
 "Oh, dear... why go digging up the past?" She gave the freshly planted cross a firm pat, as though the words themselves had disturbed the earth. "The only one you'd remember was Cynewulf. We buried his stole and the little things his father had given him in a small box."
 
@@ -178,15 +178,15 @@ She fell quiet for a moment.
 
 "Never did find what the wolves did with the rest of him."
 
-Sceaduwīf moved on to the next wooden cross, testing that it stood firm in the earth.
+Shadow-Wife moved on to the next wooden cross, testing that it stood firm in the earth.
 
 "Dear, if you're looking for sacks for your coal, you'll find a few torn ones in the bell-pit refuse. I'll start setting them aside now that I know who's been taking them. The boys got lazy yesterday, and they're still there. And if you're looking for somewhere to hide your coal, the floorboards beneath the bier are loose."
 
 Elswyth blinked, stunned.
 
-Sceaduwīf chuckled softly.
+Shadow-Wife chuckled softly.
 
-"Dear, my eyes may not be what they once were..." She patted the cross until it stood straight. "...but I still noticed the hint of smoke on the air from the knoll. You're going to need Īsen-Bæc's help if you hope to sell the coal, and you're going to need somewhere to store it if you want to beat everyone to Morning-Eye's nose. Though, you haven't thought about how you're going to sell it yet. I can tell."
+"Dear, my eyes may not be what they once were..." She patted the cross until it stood straight. "...but I still noticed the hint of smoke on the air from the knoll. You're going to need Iron-Back's help if you hope to sell the coal, and you're going to need somewhere to store it if you want to beat everyone to Morning-Eye's nose. Though, you haven't thought about how you're going to sell it yet. I can tell."
 
 She finally looked at Elswyth.
 
@@ -194,15 +194,15 @@ She finally looked at Elswyth.
 
 Elswyth finally managed to speak. "Why... are you helping me?"
 
-"The dead need help from the living, dear." Sceaduwif stood and brushed the dirt off her knees.
+"The dead need help from the living, dear." Shadow-Wife stood and brushed the dirt off her knees.
 
 "Besides, having a coaler-ghost around is exactly what Under-Geat needs. The gossips need something else to talk about besides me. It's also been an age since Blackjoy had company."
 
-Sceaduwif turned towards her cottage by the graves. "Now, go fetch your sacks. You'll find the cowl folded at the foot of the cross."
+Shadow-Wife turned towards her cottage by the graves. "Now, go fetch your sacks. You'll find the cowl folded at the foot of the cross."
 
-She dug in the trash, looking for torn sacks. There were several. She took every sack she could find, along with a sliver of brass no bigger than her thumb. With a little filing, it would make a fine needle. On the way back, Sceaduwif was gone and her cottage sat dark. Beneath the last cross, she found the folded cowl.
+She dug in the trash, looking for torn sacks. There were several. She took every sack she could find, along with a sliver of brass no bigger than her thumb. With a little filing, it would make a fine needle. On the way back, Shadow-Wife was gone and her cottage sat dark. Beneath the last cross, she found the folded cowl.
 
-Not wanting to wake Īsen-Bæc, she swam the river, and brought the items to the forest. By the moonlight, she mended the rips in the sacks with pine roots and linden bast. Fussleton had taught her to weave linden bast into cloth. The same stitches closed the torn sacks as neatly as any tunic.
+Not wanting to wake Iron-Back, she swam the river, and brought the items to the forest. By the moonlight, she mended the rips in the sacks with pine roots and linden bast. Fussleton had taught her to weave linden bast into cloth. The same stitches closed the torn sacks as neatly as any tunic.
 
 The villagers soon noticed the strange, silent activity. They saw no smoke by day, yet some mornings they caught its scent upon the wind. They didn't know it was from the old coaler's knoll. They whispered of the "_Coaler-Wight_" that lived by the graveyard, a restless spirit cursed by the Viking slaughter. They swore that if the Coaler-Wight's breath reached you before you made it to the Shadow-Gate, it would drag you into one of its burning pits beneath the earth.
 
@@ -210,7 +210,7 @@ Terrified of the wight, the local peasants began to leave marks on the ruined hu
 
 From the deep shadows of the tree-line, Elswyth watched them do it. She never wiped the marks away. She let the red clay dry and the iron nails rust in the wood. The fear of the living was her strongest shield; those superstitious marks kept the curious, the greedy, and the law-bringers far from her secret.
 
-Elswyth stuffed her finished coal into her sacks. It was still night. It was time to talk to Īsen-Bæc. She carried her sacks down the river's edge to the summoning bell. She gave a small tug on the cord. It passed over a tree branch on her side, and hung high in the air to a matching branch on the other side. Somewhere it rang a bell - she heard the faint ringing across the still river.
+Elswyth stuffed her finished coal into her sacks. It was still night. It was time to talk to Iron-Back. She carried her sacks down the river's edge to the summoning bell. She gave a small tug on the cord. It passed over a tree branch on her side, and hung high in the air to a matching branch on the other side. Somewhere it rang a bell - she heard the faint ringing across the still river.
 
 A few minutes later, she saw the lantern on the river. Behind the lantern was a raft, steadily guided by a man with thick forearms and a back built by the Soar itself. He used his pole to push the raft, and he was across the Soar quickly. Around his neck hung a large wooden medallion carved with the likeness of Saint Christopher.
 
@@ -218,13 +218,13 @@ His face had a few wrinkles around his familiar eyes. He pondered her for a mome
 
 "BY THE STAFF OF SAINT CHRISTOPHER! The coaler-maid has returned! Were your father here, he'd say you've been busy. I've smelled the coal... and I've heard the stories."
 
-"Īsen-Bæc!" Elswyth hugged his waist. He was not only her father's friend, but a friend of the family.
+"Iron-Back!" Elswyth hugged his waist. He was not only her father's friend, but a friend of the family.
 
 "Now, now." He returned her hug for a moment. "Let's not get carried away. I suppose you intend on waking me at the earliest of hours to ferry your coal. You mean to beat everyone to Morning-Eye's nose?"
 
 "The very first! Every morning!" Elswyth couldn't contain her joy.
 
-Īsen-Bæc planted his hands on his hips and drew himself up with theatrical severity.
+Iron-Back planted his hands on his hips and drew himself up with theatrical severity.
 
 "And... I suppose you think I'll do this for free?"
 
@@ -240,11 +240,11 @@ He held the stern expression for another heartbeat.
 
 "Deal. Then you'll be here before I ring."
 
-Īsen-Bæc chuckled softly, shaking his head. "You are eager, aren't you. Too eager to let me sleep?"
+Iron-Back chuckled softly, shaking his head. "You are eager, aren't you. Too eager to let me sleep?"
 
-Elswyth had already started to load the sacks. "Thanks Īsen-Bæc! You're the very best!" She flashed the broadest grin as she nudged the last sack into position. "Oh, and... I'm still dead. Very, very dead."
+Elswyth had already started to load the sacks. "Thanks Iron-Back! You're the very best!" She flashed the broadest grin as she nudged the last sack into position. "Oh, and... I'm still dead. Very, very dead."
 
-Īsen-Bæc laughed aloud. "Of course you are! You know I can't keep a straight face listening to them whisper about how you _breathe_ on folk before dragging them by their heels into the fire!"
+Iron-Back laughed aloud. "Of course you are! You know I can't keep a straight face listening to them whisper about how you _breathe_ on folk before dragging them by their heels into the fire!"
 
 "So you'll tell nobody else?"
 
@@ -252,7 +252,7 @@ Elswyth had already started to load the sacks. "Thanks Īsen-Bæc! You're the ve
 
 He pushed the raft away from the bank with his pole.
 
-"No, I'm just _Īsen-Bæc_. Nobody notices me. You'd be surprised what folk will tell a ferryman."
+"No, I'm just _Iron-Back_. Nobody notices me. You'd be surprised what folk will tell a ferryman."
 
 That morning, and every morning she had coal, she was the first to Morning-Eye's nose. The day-bell rang, and the gate opened. The bell pit's foreman, a discerning young man with a pocket of silver, approached Elswyth. Remembering to be mute, she hid her face in the shadow of the cowl, and pointed to her lips.
 
@@ -264,17 +264,17 @@ Elswyth pointed down the river west, where another hamlet sat in the distance.
 
 "You carried your father's coal all the way from there? Finest charcoal I've seen in months. I wish I had a daughter like you." He laughed. "Very well, five pennies." She stretched out her hand, and the pennies landed in her palm clinking like the coal. She closed her fingers around the pennies and ran. The young man stared after her in amazement, then his eyes went back to the sacks. He carried them inside the gate, two at a time, to a waiting cart.
 
-She ran, and kept running, until she reached Īsen-Bæc's hut. She pulled the cord of his bell.
+She ran, and kept running, until she reached Iron-Back's hut. She pulled the cord of his bell.
 
 And again.
 
 And again.
 
-Alarmed, Īsen-Bæc threw open his door, an axe in hand.
+Alarmed, Iron-Back threw open his door, an axe in hand.
 
 "HERE!" Elswyth flipped him a penny. "My payment for the ferryman! I am now officially your customer." She smiled and laughed.
 
-Īsen-Bæc barely caught the penny, almost dropping it into the river. He narrowed his eyes at her. "You had me thinking the wolves were back!"
+Iron-Back barely caught the penny, almost dropping it into the river. He narrowed his eyes at her. "You had me thinking the wolves were back!"
 
 "Nah, just me. You're favorite... customer."
 

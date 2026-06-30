@@ -35,23 +35,23 @@ It thundered into the undergrowth beyond. The boar did not circle back.
 
 She didn't give chase. She didn't mean to take down the boar. She only meant to survive the day.
 
-The daily ritual of Elswyth and Īsen-Bæc continued. Sometimes she would pay her penny. Sometimes it was a cluster of mushrooms, or a marten pelt. He would accept anything she brought. He would relay stories as he heard them from villagers and visitors, friends and strangers. And she would learn what everyone thought of the _Coaler-Wight_. 
+The daily ritual of Elswyth and Iron-Back continued. Sometimes she would pay her penny. Sometimes it was a cluster of mushrooms, or a marten pelt. He would accept anything she brought. He would relay stories as he heard them from villagers and visitors, friends and strangers. And she would learn what everyone thought of the _Coaler-Wight_. 
 
-He told her of the time old Judith started gossiping that Sceaduwīf had married a ghost. The next morning, Judith found her wool had been stolen. In its stead, a lump of charcoal sat in her knitting basket. By noon she was demanding every lorica the priest knew. By evening she had decided the ghost was coming for her next. She refused visitors for the rest of the week.
+He told her of the time old Judith started gossiping that Shadow-Wife had married a ghost. The next morning, Judith found her wool had been stolen. In its stead, a lump of charcoal sat in her knitting basket. By noon she was demanding every lorica the priest knew. By evening she had decided the ghost was coming for her next. She refused visitors for the rest of the week.
 
-He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood. Elswyth frowned. "I didn't." Īsen-Bæc replied "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
+He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood. Elswyth frowned. "I didn't." Iron-Back replied "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
 
 Elswyth was amused. "You think that was..."
 
-Īsen-Bæc grinned. "Who else?"
+Iron-Back grinned. "Who else?"
 
-They both laughed. "Sceaduwif!"
+They both laughed. "Shadow-Wife!"
 
-"And just yesterday, Beorn loudly proclaimed that the _Coaler-Wight_ was stealing butter from his churning barrels. That's when Sceaduwif announced to everyone that was because the _Coaler-Wight_ only steals from those who water down their milk just before arriving at market."
+"And just yesterday, Beorn loudly proclaimed that the _Coaler-Wight_ was stealing butter from his churning barrels. That's when Shadow-Wife announced to everyone that was because the _Coaler-Wight_ only steals from those who water down their milk just before arriving at market."
 
 Elswyth shook her head. "The _Coaler-Wight_ is becoming very opinionated."
 
-Something caught Īsen-Bæc's eye, a bulge in one of Elswyth's empty sacks. He pointed to it.
+Something caught Iron-Back's eye, a bulge in one of Elswyth's empty sacks. He pointed to it.
 
 Elswyth opened the bag, and there it was. A folded square of linen tied with string. She untied it, and the parcel opened. The yellow-white lump stared back up at her in the moonlight.
 
@@ -78,7 +78,7 @@ Huginn: "'Note to self: Inquire about what it would take to be beatified as the 
 
 ---
 
-The nightly ritual with Sceaduwīf also continued. After sunset, Elswyth would first visit the graveyard. Beneath the loose boards of the bier, Sceaduwīf had already stacked the emptied coal sacks, folded square and ready for another night's work.
+The nightly ritual with Shadow-Wife also continued. After sunset, Elswyth would first visit the graveyard. Beneath the loose boards of the bier, Shadow-Wife had already stacked the emptied coal sacks, folded square and ready for another night's work.
 
 Once the stories of the _Coaler-Wight_ took flight, she began finding other things beneath the boards as well: one half of a pair of knitting needles. A loaf of bread. A simple whetstone. The torn corner of a scarf. Half a pair of shears.
 
@@ -134,7 +134,7 @@ Muninn: "No, I suppose not."
 
 Huginn: "You're assembling a rumor."
 
-Muninn: "Much like Sceaduwif did. She assembled rumors. You assembled Sceaduwif. Ergo, you did too."
+Muninn: "Much like Shadow-Wife did. She assembled rumors. You assembled Shadow-Wife. Ergo, you did too."
 
 Huginn: "Oh I see what you did there."
 
