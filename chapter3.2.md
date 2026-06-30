@@ -186,7 +186,7 @@ Elswyth blinked, stunned.
 
 Sceaduwīf chuckled softly.
 
-"Dear, my eyes may not be what they once were..." She patted the cross until it stood straight. "...but I still noticed the hint of smoke on the air from the knoll. You're going to need Rower-Earm's help if you hope to sell the coal, and you're going to need somewhere to store it if you want to beat everyone to Morning-Eye's nose. Though, you haven't thought about how you're going to sell it yet. I can tell."
+"Dear, my eyes may not be what they once were..." She patted the cross until it stood straight. "...but I still noticed the hint of smoke on the air from the knoll. You're going to need Īsen-Bæc's help if you hope to sell the coal, and you're going to need somewhere to store it if you want to beat everyone to Morning-Eye's nose. Though, you haven't thought about how you're going to sell it yet. I can tell."
 
 She finally looked at Elswyth.
 
@@ -202,7 +202,7 @@ Sceaduwif turned towards her cottage by the graves. "Now, go fetch your sacks. Y
 
 She dug in the trash, looking for torn sacks. There were several. She took every sack she could find, along with a sliver of brass no bigger than her thumb. With a little filing, it would make a fine needle. On the way back, Sceaduwif was gone and her cottage sat dark. Beneath the last cross, she found the folded cowl.
 
-Not wanting to wake Rower-Earm, she swam the river, and brought the items to the forest. By the moonlight, she mended the rips in the sacks with pine roots and linden bast. Fussleton had taught her to weave linden bast into cloth. The same stitches closed the torn sacks as neatly as any tunic.
+Not wanting to wake Īsen-Bæc, she swam the river, and brought the items to the forest. By the moonlight, she mended the rips in the sacks with pine roots and linden bast. Fussleton had taught her to weave linden bast into cloth. The same stitches closed the torn sacks as neatly as any tunic.
 
 The villagers soon noticed the strange, silent activity. They saw no smoke by day, yet some mornings they caught its scent upon the wind. They didn't know it was from the old coaler's knoll. They whispered of the "_Coaler-Wight_" that lived by the graveyard, a restless spirit cursed by the Viking slaughter. They swore that if the Coaler-Wight's breath reached you before you made it to the Shadow-Gate, it would drag you into one of its burning pits beneath the earth.
 
@@ -210,7 +210,7 @@ Terrified of the wight, the local peasants began to leave marks on the ruined hu
 
 From the deep shadows of the tree-line, Elswyth watched them do it. She never wiped the marks away. She let the red clay dry and the iron nails rust in the wood. The fear of the living was her strongest shield; those superstitious marks kept the curious, the greedy, and the law-bringers far from her secret.
 
-Elswyth stuffed her finished coal into her sacks. It was still night. It was time to talk to Rower-Earm. She carried her sacks down the river's edge to the summoning bell. She gave a small tug on the cord. It passed over a tree branch on her side, and hung high in the air to a matching branch on the other side. Somewhere it rang a bell - she heard the faint ringing across the still river.
+Elswyth stuffed her finished coal into her sacks. It was still night. It was time to talk to Īsen-Bæc. She carried her sacks down the river's edge to the summoning bell. She gave a small tug on the cord. It passed over a tree branch on her side, and hung high in the air to a matching branch on the other side. Somewhere it rang a bell - she heard the faint ringing across the still river.
 
 A few minutes later, she saw the lantern on the river. Behind the lantern was a raft, steadily guided by a man with thick forearms and a back built by the Soar itself. He used his pole to push the raft, and he was across the Soar quickly. Around his neck hung a large wooden medallion carved with the likeness of Saint Christopher.
 
@@ -218,13 +218,13 @@ His face had a few wrinkles around his familiar eyes. He pondered her for a mome
 
 "BY THE STAFF OF SAINT CHRISTOPHER! The coaler-maid has returned! Were your father here, he'd say you've been busy. I've smelled the coal... and I've heard the stories."
 
-"Rower-Earm!" Elswyth hugged his waist. He was not only her father's friend, but a friend of the family.
+"Īsen-Bæc!" Elswyth hugged his waist. He was not only her father's friend, but a friend of the family.
 
 "Now, now." He returned her hug for a moment. "Let's not get carried away. I suppose you intend on waking me at the earliest of hours to ferry your coal. You mean to beat everyone to Morning-Eye's nose?"
 
 "The very first! Every morning!" Elswyth couldn't contain her joy.
 
-Rower-Earm planted his hands on his hips and drew himself up with theatrical severity.
+Īsen-Bæc planted his hands on his hips and drew himself up with theatrical severity.
 
 "And... I suppose you think I'll do this for free?"
 
@@ -240,11 +240,11 @@ He held the stern expression for another heartbeat.
 
 "Deal. Then you'll be here before I ring."
 
-Rower-Earm chuckled softly, shaking his head. "You are eager, aren't you. Too eager to let me sleep?"
+Īsen-Bæc chuckled softly, shaking his head. "You are eager, aren't you. Too eager to let me sleep?"
 
-Elswyth had already started to load the sacks. "Thanks Rower-Earm! You're the very best!" She flashed the broadest grin as she nudged the last sack into position. "Oh, and... I'm still dead. Very, very dead."
+Elswyth had already started to load the sacks. "Thanks Īsen-Bæc! You're the very best!" She flashed the broadest grin as she nudged the last sack into position. "Oh, and... I'm still dead. Very, very dead."
 
-Rower-Earm laughed aloud. "Of course you are! You know I can't keep a straight face listening to them whisper about how you _breathe_ on folk before dragging them by their heels into the fire!"
+Īsen-Bæc laughed aloud. "Of course you are! You know I can't keep a straight face listening to them whisper about how you _breathe_ on folk before dragging them by their heels into the fire!"
 
 "So you'll tell nobody else?"
 
@@ -252,7 +252,7 @@ Rower-Earm laughed aloud. "Of course you are! You know I can't keep a straight f
 
 He pushed the raft away from the bank with his pole.
 
-"You'd be surprised what folk will tell a ferryman."
+"No, I'm just _Īsen-Bæc_. Nobody notices me. You'd be surprised what folk will tell a ferryman."
 
 That morning, and every morning she had coal, she was the first to Morning-Eye's nose. The day-bell rang, and the gate opened. The bell pit's foreman, a discerning young man with a pocket of silver, approached Elswyth. Remembering to be mute, she hid her face in the shadow of the cowl, and pointed to her lips.
 
@@ -264,17 +264,17 @@ Elswyth pointed down the river west, where another hamlet sat in the distance.
 
 "You carried your father's coal all the way from there? Finest charcoal I've seen in months. I wish I had a daughter like you." He laughed. "Very well, five pennies." She stretched out her hand, and the pennies landed in her palm clinking like the coal. She closed her fingers around the pennies and ran. The young man stared after her in amazement, then his eyes went back to the sacks. He carried them inside the gate, two at a time, to a waiting cart.
 
-She ran, and kept running, until she reached Rower-Earm's hut. She pulled the cord of his bell.
+She ran, and kept running, until she reached Īsen-Bæc's hut. She pulled the cord of his bell.
 
 And again.
 
 And again.
 
-Alarmed, Rower-Earm threw open his door, an axe in hand.
+Alarmed, Īsen-Bæc threw open his door, an axe in hand.
 
 "HERE!" Elswyth flipped him a penny. "My payment for the ferryman! I am now officially your customer." She smiled and laughed.
 
-Rower-Earm barely caught the penny, almost dropping it into the river. He narrowed his eyes at her. "You had me thinking the wolves were back!"
+Īsen-Bæc barely caught the penny, almost dropping it into the river. He narrowed his eyes at her. "You had me thinking the wolves were back!"
 
 "Nah, just me. You're favorite... customer."
 

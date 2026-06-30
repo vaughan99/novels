@@ -35,15 +35,15 @@ It thundered into the undergrowth beyond. The boar did not circle back.
 
 She didn't give chase. She didn't mean to take down the boar. She only meant to survive the day.
 
-The daily ritual of Elswyth and Rower-Earm continued. Sometimes she would pay her penny. Sometimes it was a cluster of mushrooms, or a marten pelt. He would accept anything she brought. He would relay stories as he heard them from villagers and visitors, friends and strangers. And she would learn what everyone thought of the _Coaler-Wight_. 
+The daily ritual of Elswyth and Īsen-Bæc continued. Sometimes she would pay her penny. Sometimes it was a cluster of mushrooms, or a marten pelt. He would accept anything she brought. He would relay stories as he heard them from villagers and visitors, friends and strangers. And she would learn what everyone thought of the _Coaler-Wight_. 
 
-He told her of the time old Judith started gossiping that Sceaduwīf had married a ghost. The next morning, Judith found a lump of charcoal in her knitting basket. By noon she was demanding every lorica the priest knew. By evening she had decided the ghost was coming for her next. She refused visitors for the rest of the week.
+He told her of the time old Judith started gossiping that Sceaduwīf had married a ghost. The next morning, Judith found her wool had been stolen. In its stead, a lump of charcoal sat in her knitting basket. By noon she was demanding every lorica the priest knew. By evening she had decided the ghost was coming for her next. She refused visitors for the rest of the week.
 
-He told her of the time Old Godric swore the _Coaler-Wight_ stole half his firewood. Elswyth frowned. "I didn't." Rower-Earm replied "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
+He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood. Elswyth frowned. "I didn't." Īsen-Bæc replied "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
 
 Elswyth was amused. "You think that was..."
 
-Rower-Earm grinned. "Who else?"
+Īsen-Bæc grinned. "Who else?"
 
 They both laughed. "Sceaduwif!"
 
@@ -51,7 +51,7 @@ They both laughed. "Sceaduwif!"
 
 Elswyth shook her head. "The _Coaler-Wight_ is becoming very opinionated."
 
-Rower-Earm noticed something bulging in Elswyth's empty sack. He pointed to it.
+Something caught Īsen-Bæc's eye, a bulge in one of Elswyth's empty sacks. He pointed to it.
 
 Elswyth opened the bag, and there it was. A folded square of linen tied with string. She untied it, and the parcel opened. The yellow-white lump stared back up at her in the moonlight.
 
@@ -66,11 +66,15 @@ Muninn: "Don't... do... it"
 
 Huginn: "It's PAR-KAAAY!!!"
 
-Muninn: "A fitting accompaniment to ditch-meat."
+_Muninn shook his head._
 
-Huginn: "Me, or ..."
+Huginn: "Do you think Saint Brigid is the saint of margarine too, or does she draw the line at hydrogenated vegetable oil?"
 
-Muninn: "Both."
+Muninn: "She is associated with miracles concerning butter. But no ecumenical council has ever addressed the jurisdiction of saints over dairy and dairy alternatives."
+
+_Huginn started scratching on the branch._
+
+Huginn: "'Note to self: Inquire about what it would take to be beatified as the patron saint of oat milk'"
 
 ---
 
