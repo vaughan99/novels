@@ -399,9 +399,13 @@ He wrinkled his nose.
 
 She picked up the axe anyway. It's all she had.
 
+"You know, redcap. Hope isn't for _flavor_. Hope is what get's your through the night when everything else has turned to ash. And all I see is ash."
+
+Fussleton smiled a blood-craving smile.
+
 "And I'll start counting. Hmmm, you've been marinating in _hope_ for years. I suppose that will be my final thesis for this project. Was it _worth_ it?"
 
-He lowered his knife.
+He readied his knife.
 
 "Ten."
 
@@ -467,14 +471,51 @@ Fussleton was too close, too confident. He didn't account for it.
 
 The Alexander Stone struck him in the nose. Hard.
 
-He stopped. Cross-eyed, he stared at his nose.
+He stopped. Cross-eyed, he stared at the end of his nose.
 
 "OOOOOOOWWW!"
 
+His free hand flew to his face. Blood trickled between his fingers as he pinched his nostrils shut.
 
+"Whyyyyy?"
 
+He sniffed once.
 
-, Elswyth tossed a thing - a small black thing - into the air. She turned the axe sideways, and hit the thing. Round and glassy. 
+His face fell.
+
+"Now nothing smells right."
+
+He stomped his foot, and glared at Elswyth.
+
+"You coal-slinging, rake-legged woad snail! That hurt!"
+
+Elswyth knew this wasn't a solution. It was time.
+
+She stepped onto the coals.
+
+"You want me? You'll have to fight me here." She pulled out her mushroom knife - the last bit of steel on her.
+
+"But my nose hurts! How am I supposed to properly enjoy this?"
+
+"What's the matter, _Fussy-Bud_? Too fragile to fight a _woad snail_?"
+
+"Taunting?" He laughed.
+
+"Ha ha—owww... still hurts."
+
+He gingerly touched his nose.
+
+"Really?"
+
+He sighed.
+
+"But I can't have you set yourself on fire. Can't rescue the dish that way."
+
+His smile faded into a grimace.
+
+"I suppose we're at an impasse. But I expect your toes are regretting your decision."
+
+Her toes indeed were getting warm, as her turn shoes were starting to smoke.
 
 But behind the red-capped murder-gnome, there was a small, childish giggle. The powrie-spirit turned on heel, and let out a mad scream of slicked hate and curious pitch. Several nets flew from the dark, trapping the redcap. They were loops of rope, thick and woven with deathcap mushrooms. He struggled and bit, tossed and fought, but the cords held him tight. The redcap's knife, silver blade bound by iron hilt - as his family-name poem suggested - dropped from his hand onto the dirt.
 
