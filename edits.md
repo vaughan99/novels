@@ -1,38 +1,367 @@
+# Backgrounds
 
-### Working Title
+### [chapter1](obsidian://open?file=chapter1.md)
 
-- [The Cynn: Strangers to Wyrd](app://obsidian.md/The%20Cynn:%20Strangers%20to%20Wyrd)
-- This is the current working title for book 1.
-- It works because “strangers” does heavy lifting:
-    - the central characters are strangers to one another
-    - they are strangers to a pure or exclusive religious framework; instead two are syncretic, and one is apostate
-    - they are strangers to the wyrd/destiny that seems to call them
-- It preserves mystery, thematic depth, and sequel potential without requiring a sequel.
-- We will revisit the title at the end of the project.
 
-### Alternate Title Candidates, in Order
+- Make Osric’s immediate want clearer:
+    - home
+    - silence
+    - death
+    - his son
+    - meaning
+    - escape from memory
+- Let Osric’s wound appear through action before full explanation.
 
-- [The Cynn: The Mud of Leicester](app://obsidian.md/The%20Cynn:%20The%20Mud%20of%20Leicester)
-- [The Cynn: The First Inquisition](app://obsidian.md/The%20Cynn:%20The%20First%20Inquisition)
-- [The Cynn: Three Tests](app://obsidian.md/The%20Cynn:%20Three%20Tests)
-- [The Cynn: Giggles in the Dark](app://obsidian.md/The%20Cynn:%20Giggles%20in%20the%20Dark)
-- [The Cynn: Debates of Old Men](app://obsidian.md/The%20Cynn:%20Debates%20of%20Old%20Men)
-### [prologue](obsidian://open?file=prologue.md)
+### [chapter2.1](obsidian://open?file=chapter2.1.md)
 
-- The prologue should function as the frame and tonal key for the whole book.
-- Huginn and Muninn are not just narrators; they are a dual consciousness:
-    - one playful, one corrective
-    - one prone to self-mythologizing, one committed to memory and accuracy
-- The “two mouths, one shadow” concept should stay central.
-- The prologue should establish:
-    - the raven voice
-    - the story-as-memory frame
-    - the tension between tale and fact
-    - the sense that the story is being retold from outside normal time
-- The children-in-the-park frame can remain a gentle modern portal into the saga voice.
-- The opening should feel like the ravens are choosing what kind of story the children are ready to hear.
-### [chapter5](obsidian://open?file=chapter5.md) — [The Debate](app://obsidian.md/The%20Debate)
+- Clarify that the elderberry syrup’s **pop** and **roasted nut smell** are warning signs Ealhild would have recognized.
+- Consider adding an earlier line establishing that Ealhild knows not to trust a bottle that sighs, pops, or smells wrong.
+- Sharpen the consequence that Osric accidentally “spent” the warning before Ealhild could notice it.
+- Consider trimming the **Super-BOAR** raven aside if pacing feels slow.
+- Consider replacing modern distance phrasing like “sixty-five miles” with a travel-time or road-effort phrase:
+    - “five days to the south-east”
+    - “many hard miles to the south-east”
+- Make Osric’s mistake unmistakably loving, private, and unforgivable to himself.
+- If desired, blur the elderberry poisoning mechanism slightly so it feels more folkloric/supernatural than medically literal.
 
+### [chapter2.2](obsidian://open?file=chapter2.2.md)
+
+- Clarify that the nisse believes the family deliberately poisoned its offering before it destroys the house.
+- Consider bridging the terms **nisse** and **barrow-wight**, or use a more consistent term such as:
+    - house-wight
+    - threshold-wight
+    - barrow-born thing
+- Decide how comic/fussy the nisse’s opening voice should be; reduce cartoonishness slightly if the horror turn needs smoother tonal preparation.
+- Consider adding a small line showing the nisse continues helping Osric across the two days.
+- Change “convexingly warm” unless intentional:
+    - likely “impossibly warm”
+    - or “convincingly warm”
+- Slightly ritualize the repeated “the work wasn’t done” phrasing if you want it to feel more liturgical.
+- Fix minor typos/grammar:
+    - “on to” → “onto”
+    - “it’s eyes” → “its eyes”
+    - “It’s anger sated” → “Its anger sated”
+    - “sewn” → “sown”
+    - “Off an on” → “Off and on”
+    - “He turn back” → “He turned back”
+    - “face already purple” → “faces already purple”
+    - consider smoothing “bulk had shriveled back into its small, withered frame”
+
+### [chapter2.3](obsidian://open?file=chapter2.3.md)
+
+- Add a small date/season anchor connecting this section directly to the 943 Leicester campaign.
+- Make the “monster” → “silent partner” → “last remnant of home” language progression more deliberate.
+- Consider making the nisse’s “must not be seen” pact more folkloric and less explanatory.
+- Preserve the arrest’s legal/practical ambiguity for the later Osric memory-replay, but ensure the emotional chain is clear:
+    - Galindo arrives with authority
+    - Osric cannot or will not leave
+    - the household is violated
+    - the ice-barrow is disturbed
+    - Osric snaps
+    - he is bound and taken
+- Seed that Galindo may be acting from both restraint and necessity:
+    - he has reason to suspect Osric murdered his family
+    - the destroyed house and preserved byre look suspicious
+    - the fyrdmen want immediate judgment
+    - Galindo prevents a lynching or hasty doom
+    - he binds Osric to the baggage train until lawful judgment can occur
+    - he seizes the household’s animals, food, tools, and goods because the fyrd must be fed
+- Let Galindo’s seizure feel lawful, cold, and predatory at once.
+- Consider giving Galindo “ledger language”:
+    - “I will account for it.”
+    - “The host has need.”
+    - “Mark it.”
+- Seed the hunger of the fyrd:
+    - men looking at livestock with “winter in their eyes”
+    - thin horses
+    - empty provision carts
+    - hard travel after failed winters
+- Seed the later reveal that the fyrdmen’s jealousy has substance:
+    - Osric’s livestock survived the lean winters because the nisse stole grain from neighbors
+    - the fyrdmen see his preserved byre as proof that he prospered while others starved
+- Consider a line capturing the nisse’s morality:
+    - “A house-wight did not tend the whole village. A house-wight tended the house.”
+- Be careful not to darken Ealhild too much unless intentional:
+    - she can understand a household spirit is involved without fully realizing the grain comes from hungry neighbors
+- Give the ice-barrow violation a slightly fuller emotional beat.
+- Make the raven guiding the nisse feel subtly uncanny.
+- Polish minor wording/grammar:
+    - “secured with a scarves” → “secured with scarves” or “with a scarf”
+    - “His voice words trailed off” → “His words trailed off”
+    - “it bound into the cottage” → “it bounded into the cottage”
+    - “laid the oil string” → “lay the oil string”
+    - reduce repeated “separated”
+    - consider “shaft split along its length”
+    - consider replacing “thick with intimidation”
+
+### [chapter3.1](obsidian://open?file=chapter3.1.md)
+
+- Do **not** present Under-Geat as a coaler community.
+- Flesh out Under-Geat as a **Church-controlled mixed hamlet**:
+    - fishermen
+    - Iron-Back the ferryman
+    - woodsmen
+    - wool-worker
+    - Church dependents
+    - graveyard/market/gate life
+    - Elswyth’s family as one specialized household within it
+- Emphasize Church control through practical structures:
+    - bell
+    - tithe
+    - gate
+    - market
+    - burial
+    - land/use permissions
+    - tolls and disputes
+- Make Elswyth’s pit/coal/bellpit knowledge distinctive, not normal for everyone in the hamlet.
+- Use the mixed economy to isolate Elswyth socially:
+    - she is known by everyone but fully belongs to no group
+- Develop the woodsmen as human danger or pressure:
+    - they know paths
+    - they notice tracks
+    - they occupy the forest-edge
+    - Elswyth avoids them for concrete reasons
+- Keep fishermen/marsh/river life present so Iron-Back feels native to the setting.
+- Introduce the wool-worker as a possible gossip-node or social witness.
+- Treat the route from Church to Charnwood as movement away from Church-controlled order into older and less governed spaces.
+- Make Elswyth’s early competence visible through action:
+    - quick feet
+    - reading sound/heat/smoke
+    - knowing when not to breathe
+    - noticing danger before adults name it
+- Lightly seed the coal-to-bell connection for later Cynewulf material, without over-explaining.
+
+### [chapter3.2](obsidian://open?file=chapter3.2.md)
+
+- Seed Fussleton’s danger subtly:
+    - useful and funny, but slightly off
+    - lessons that feel practical now and predatory in hindsight
+    - hints of delight in fear, hiding, thresholds, or “well-prepared” children
+- Track Elswyth’s age/timeline across the training years.
+- Make the hidden economy of her survival concrete:
+    - what she gathers
+    - what she trades
+    - what she receives
+    - who knowingly or unknowingly participates
+- Give the Coaler-Wight superstition a few stable folk rules:
+    - salt
+    - red clay
+    - crosses
+    - offerings
+    - not speaking her name
+    - not following footprints
+- Ensure Shadow-Wife and Iron-Back assist without reducing Elswyth’s agency.
+- Place raven comedy around cleverness/action rather than deep grief.
+- Standardize title capitalization:
+    - **Coal-Wise** vs **Coal-wise**
+
+### [chapter3.3](obsidian://open?file=chapter3.3.md)
+
+- Make sure forest threats function as proof of embodied training, not random episodes.
+- Ensure Fussleton’s Redcap reveal produces surprise, dread, and recognition.
+- Seed Fussleton’s danger lightly in earlier material:
+    - food metaphors
+    - delight in fear
+    - excessive knowledge of hiding children
+    - oddly predatory praise
+    - old rhymes with missing verses
+- Frame Fussleton as a real teacher, not a fake one:
+    - his lessons are useful because useful prey is more interesting
+- Clarify Elswyth’s final state by the end:
+    - age/timeline
+    - where she lives
+    - whether she remains the Coaler-Wight
+    - her relationship to Under-Geat, Shadow-Wife, Iron-Back, and Charnwood
+- Consider using the woodsmen more deliberately as human forest-edge danger.
+- Decide what lasting consequence comes from Fussleton:
+    - escaped
+    - wounded
+    - killed
+    - tricked
+    - marked
+    - robbed
+    - still lurking
+    - abducted/interrupted by forge-elves
+- Avoid making Elswyth merely hardened; let her remain observant, strange, wary, and alive to beauty.
+- Preserve forge-elf ambiguity in the Fussleton climax:
+    - do not frame the forge-elves as benevolent rescuers
+    - their invisibility, disassembly of Fussleton’s knife, and theft of the marten skin should read as alien craft-agency, not mercy
+    - Elswyth should survive without feeling victorious or protected
+    - Fussleton should remain vastly beyond her in direct confrontation
+    - the forge-elves’ involvement should make the old world feel even less morally legible
+- Use the aftermath to help drive Elswyth somewhat toward Christianity:
+    - not because Christianity is easy
+    - but because it offers names, boundaries, prayers, saints, and protective order against tricksy/predatory powers
+- Let Elswyth’s later **lorica** clarify that she understands the forge-elves are not good creatures in any simple sense.
+
+### [chapter4.1](obsidian://open?file=chapter4.1.md)
+
+- Make bell-making physically concrete after the philosophical opening:
+    - clay
+    - wax
+    - mold
+    - bronze
+    - furnace
+    - casting pit
+    - tuning
+    - cracks
+    - heat
+    - risk
+- Consider using bell-making as confession foreshadowing:
+    - a hidden flaw in a bell reveals itself when struck
+    - a cracked bell confesses by sound
+- Establish Cynewulf’s early hunger clearly:
+    - ambition
+    - status
+    - voice
+    - escape from craft
+    - desire for Church authority
+    - resentment of labor
+- Distinguish Cynewulf’s relationship to Christianity from Elswyth’s:
+    - Elswyth may move toward Christianity as stable protection
+    - Cynewulf begins within Church order and becomes trapped/warped by it
+- Avoid over-explaining later apostasy/blade material in this first sub-chapter.
+- Make the progression explicit enough that readers understand:
+    - bell-maker/bell-master background
+    - deacon as ideal vocation
+    - priestly ordination shortly before catastrophe
+    - confession on Shrove Tuesday
+    - flight into apostasy/road-life
+
+### [chapter4.2](obsidian://open?file=chapter4.2.md)
+
+- Clarify that Cynewulf’s over-arching title **“The Bell’s Deacon”** represents his height of potential, while “priest” language is appropriate after his later ordination.
+- Slightly smooth/tighten the bulla-forgery technical explanation while preserving the craft detail.
+- Add a small access/logistics line for how Cynewulf reaches the Archbishop’s office/scriptorium and why he is not recognized or challenged.
+- Consider adding one small moral aftertaste after the forged seal succeeds:
+    - shame
+    - absence of shame
+    - remembered bell
+    - deliberate suppression of conscience
+- Consider replacing “destrier-bred horses” with a less later-medieval phrase:
+    - heavy warhorses
+    - big Frankish horses
+    - deep-chested horses
+    - horses bred for weight and shock
+- Fix minor wording/typos:
+    - “the Road asked him with another question” → “asked him another question”
+    - “pond... wet from the spring rain” → “swollen by spring rain”
+    - “sargeant” → “sergeant”
+    - “dipped to ink” → “dipped it in ink”
+    - tense consistency around “could be made”
+    - “day’s march”
+    - clarify “thegn’s donation” as a donation to the church
+
+### [chapter4.3](obsidian://open?file=chapter4.3.md)
+
+- Clarify the royal ribbon/low-banner object physically:
+    - possibly a warrant-streamer tied beneath the company standard
+- Consider replacing “King’s arms” with:
+    - King’s mark
+    - King’s device
+    - King’s sign
+- Consider replacing “Bishopric of Durham” with:
+    - lands of St Cuthbert
+    - holdings under St Cuthbert’s protection
+- Clarify the tactical geography of the Wall battle with one brief orientation paragraph:
+    - gate
+    - rubble flank
+    - Fer-Main’s route
+    - Cynewulf’s distraction role
+- Clarify whether the first ambushers are Danes/Norse and the Wall defenders are Alt Clut/Britons/Gaels.
+- Check the timeline:
+    - “spring of 934” may conflict with “full cavalryman for two winters”
+    - possible replacement: “trained through the winter”
+    - possible replacement: “long enough to look like a cavalryman and not long enough to become one”
+- Consider using “warhorse” instead of “destrier.”
+- Tie “ember-hate” more explicitly to Cynewulf’s earlier church-home violence if it is a recurring concept.
+- Add one more internal flicker connecting the club-boy to the earlier Viking boy before the raven aside.
+- If Fer-Main’s fate needs ambiguity, phrase his final stand as what Cynewulf assumes he would see if he looked.
+- Consider trimming one raven “clubbing/dance” joke if the tonal whiplash feels too sharp.
+- Fix minor wording/typos:
+    - “contents... was” → “contents... were”
+    - “This is was the moment” → “This was the moment”
+    - “tree’s line” → “tree line”
+    - “as to drive the point home” → “as if to drive the point home”
+    - “every cavalry’s nightmare” → “every cavalryman’s nightmare”
+    - “turned on his horse on heel” → “wheeled his horse”
+    - “five riders that were left” → “five riders who were left”
+    - consider replacing “grooming” with “drilling”
+
+### [chapter4.4](obsidian://open?file=chapter4.4.md)
+
+- Rework Cynewulf’s priest/confession language for theological precision:
+    - he may have fled/betrayed the priesthood, but ordination still haunts him
+    - avoid too-clean “no longer a priest” unless framed as Cynewulf’s self-condemnation
+    - consider replacing “lay confession” with something like “one Christian hearing another before death”
+- Slightly polish Aethelstan camp dialogue:
+    - avoid “Woe dark rider”
+    - fix “save your skin”
+    - keep the King cold, precise, and dangerous
+- Seed the surviving Griffons’ betrayal slightly if needed:
+    - counting horses
+    - looking south
+    - exchanging a calculating look
+- Clarify Saint-Martin’s-on-Trent if it is a mixed religious house:
+    - abbot plus sisters/nuns
+- Add a line showing the monastery gives Cynewulf a temporary splint, not full healing:
+    - possible direction: “By March, he could almost mistake usefulness for peace.”
+- Integrate the Cymry skirmisher tactical description more through Cynewulf’s observations rather than exposition.
+- Trim one challenge-song verse if pacing demands.
+- Standardize:
+    - Milly/Milli
+    - abbot/Abbot capitalization
+    - sayeth/saith if needed
+- Fix minor typos and line issues:
+    - “loaded on to” → “loaded onto”
+    - “cannot be so easily be treated” → “cannot be so easily treated”
+    - “Cynewulf’s knew” → “Cynewulf knew”
+    - “He felt as a man” → “He felt like a man”
+    - “He was hollow man” → “He was a hollow man”
+    - “I’m not you’re thrall” → “I’m not your thrall”
+    - incomplete sentence: “He saw the soot-wrinkled hands of the abbot, and”
+    - “Some one” → “Someone”
+    - double period after “prison”
+
+### [chapter4.5](obsidian://open?file=chapter4.5.md)
+
+- Add a clearer final bridge to [chapter1](obsidian://open?file=chapter1.md) / Leicester if this is Cynewulf’s last backstory sub-chapter.
+- Add one practical safety detail for Dragon’s Breath:
+    - upwind throwing
+    - rag handling
+    - washing method
+    - Baldy’s accident as the lesson
+- Deepen Cynewulf’s internal reaction to holy weapons by connecting it to his own forged holy authority:
+    - Madoc sanctifies foul weapons with holy water
+    - Cynewulf once sanctified lies with seals and Latin
+- Seed Madoc’s placement of Cynewulf before Baldy runs:
+    - Madoc intentionally puts Cynewulf where Baldy’s “shield” will need to be
+- Clarify Baldy’s age or Cynewulf’s perception of him as “boy,” especially if this echoes the earlier Viking boy trauma.
+- Reduce or smooth the cluster of Welsh/Roman weapon terms if the reader load feels heavy:
+    - tarian
+    - Cefn y Ddraig
+    - plumbata
+    - Dannedd y Ddraig
+    - tribuli
+    - Anadl y Ddraig
+- Consider using a cleaner repeated phrase for saint-window glass:
+    - crushed saint-glass
+    - crushed church-glass
+    - crushed glass from saint-windows
+- Make the “shield community” idea more present before the ambush:
+    - the Dragon’s Teeth have no formal wall, but each person knows whose back they cover
+- Clean up line-level issues:
+    - sentence fragment around the dart quiver
+    - missing dialogue quote in Dragon’s Breath explanation
+    - “which ever” → “whichever”
+    - “Madoc’s smiled” → “Madoc’s smile”
+    - “passed with his hand a small vial” → “passed him a small vial”
+    - “etched was a perfect emblem of the cross” → “etched with a perfect cross”
+    - close the Shield maxim italics
+    - standardize “sayeth/saith”
+    - consider “rolled” or “writhed” instead of “roiled” for Vikings on the ground
+
+# Debate
 - [chapter5](obsidian://open?file=chapter5.md) is the book’s high-level metaphysical argument, presented as a story scene rather than a doctrinal lecture.
 - The chapter should be clean, simple, and accessible.
 - It should take place in an abstract, etheric, or nowhere-like setting.

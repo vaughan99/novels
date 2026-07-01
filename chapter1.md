@@ -4,7 +4,11 @@ The steady rain had given way to fog that morning, one that smelled of wet log-s
 
 The news of the parchment-peace was fresh on the ears that morning. The Vikings of King Olaf Guthfrithson had largely been defeated. The battle walls were teetering, the resistance weakened. Most of the warriors left were still Vikings stout-to-a-man, but their numbers had dwindled. Their time for a brokered peace had arrived.
 
-Up and down the lines, there was disbelief. The Vikings had been cornered. Victory was near, and yet, Canterbury had bargained it away. The deal was a bitter harvest; the spring season was well underway, and the farmers of the fyrds were already late for planting. The winter stalled the Saxon recruitment. The Norsemen fought for time, and they won.
+Up and down the lines, there was disbelief. The Vikings had been cornered. Victory was near, and yet, Canterbury had bargained it away. The deal was a bitter harvest; spring was well underway, and the farmers of the fyrds were already late for planting. The winter stalled the Saxon recruitment. The Vikings fought for time, and they won.
+
+The Vikings got to stay.
+
+The Saxons and their allies, after all their effort, purchased the long road home.
 
 After the crier announced the resolution from the walls that morning, and produced the parchment-deal, the Vikings slowly gathered the remains of their host and trophies. With all their dead in the pyres, all that remained was the short road to the Boroughs, to their recovered sanctuaries of the Danelaw. The Saxons had a longer road. For two months they had only known the cold hangover of winter bleeding into spring in a sparse camp, and they were still weeks away from their warm hearths. The Danes had the halls of Leicester.
 
@@ -26,7 +30,7 @@ Cynewulf, also of Leicester, was strong and salt-bearded, yet weary. A priest at
 
 The moment the campaign ended, their charter bid them return home. They traded farewells and turned west. Cynewulf watched them disappear down the road until they were little more than colored specks against the spring hills. Only then did he turn back toward Leicester. The road felt quieter without them.
 
-Cynewulf had the bearing of a soldier. His byrnie—once a proud shirt of black interlocking iron mail—was threadbare and sagging, missing clusters of rings that had rusted away and been crudely patched. Underneath the iron, he wore a quilted weapon-shirt of heavy linen. The quilting threads had snapped in dozens of places, allowing the dirty flax stuffing to leak out of the tears like tufts of sheep's wool. It was stiff with the salt of old sweat, and the shoulders were stained a deep, bloody orange where the rusting mail had bled into the fabric. His cloak was a new fur trophy, as were his boots. At his hip hung an aging langseax whose edge rippled with shallow waves—the mark of a blade that had survived many battles and nearly as many blacksmiths. His shield had been split to splinters in the road engagements, and was gone. What little wealth he possessed came from the battlefield: fragments of silver, steel, and bronze scavenged from the fallen and not yet traded at the pawnbroker's stall.
+Cynewulf had the bearing of a soldier. His byrnie—once a proud shirt of black interlocking iron mail—was threadbare and sagging, missing clusters of rings that had rusted away and been crudely patched. Underneath the iron, he wore a quilted weapon-shirt of heavy linen. The quilting threads had snapped in dozens of places, allowing the dirty flax stuffing to leak out of the tears like tufts of sheep's wool. It was stiff with the salt of old sweat, and the shoulders were stained a deep, bloody orange where the rusting mail had bled into the fabric. His cloak was a new fur-lined trophy, as were his boots. At his hip hung an aging langseax whose edge rippled with shallow waves—the mark of a blade that had survived many battles and nearly as many blacksmiths. His shield had been split to splinters in the road engagements, and was gone. What little wealth he possessed came from the battlefield: fragments of silver, steel, and bronze scavenged from the fallen and not yet traded at the pawnbroker's stall.
 
 Cynewulf's vows were taken at this very Church, and that is where Elswyth once knew him. In those days, before he traded his vestments for a chain shirt, he was an acolyte who worked in the bell foundry. Her family's coal fed the fires then. He glanced at the church several times at night through the rain, trying to remember the lines of the bell-fry, the happier times. But now, with the siege ended, the church was the beginning of the next road.
 
@@ -106,19 +110,21 @@ Galindo looked up from the baggage train as Cynewulf approached with the recruit
 
 The one-eyed archer raised a hand. "Could be both."
 
-Galindo groaned. "Excellent. It talks. Maybe when _it_ is done talking, we can see what you are."
+Galindo groaned. "Excellent. _It_ talks. Maybe when _it_ is done talking, we can see what you are."
 
 The company chuckled.
 
-Galindo walked slowly down the line, taking inventory. Spears. Shields. Axe. Bows. Scars. More scars.
+Galindo walked slowly down the line, taking inventory. Spears. Shields. Axe. Bow. Scars. More scars.
 
-"Can you march?" The old veteran retorted. "Can you count?"
+Galindo eyed the old veteran's leg. "Can you march without limping?" 
 
-"Good enough." Galindo nodded toward the wagons.
+"Aye. Can you count without fingers?" The old veteran smiled.
 
-"Tyne Valley. Escort duty. Food from the train. Three pennies a week."
+"I hope that wasn't a threat." Galindo paused, then nodded toward the wagons.
 
-The veteran spat into the dust. "Four."
+"Tyne Valley. Escort duty. Food from the train. Twelve pennies a week."
+
+The veteran spat into the dust. "Fifteen."
 
 The archer interjected. "He's right."
 
@@ -128,13 +134,27 @@ The Northmen shrugged.
 
 Galindo snapped back, "Some of you are worth that, some far less."
 
-"We'll play no favorites here. Three and a half," Cynewulf said. Cynewulf knew that uneven pay was a disaster for morale among mercenaries. If someone didn't pull their weight, the others would correct it.
+"We'll play no favorites here. Thirteen," Cynewulf said.
+
+Cynewulf had seen uneven pay and jealousy destroy the petty warbands he built before when he was too drunk to care.
+
+Cynewulf looked down the line at the youngest men.
+
+"You heard me. You'll earn the difference."
+
+Blank faces looked back.
+
+"You fetch water. Gather firewood. Tend horses. Sharpen spearheads. Cook. Take first watch. Let the seasoned men sleep."
+
+He looked each of the younger men in the eye.
+
+"And when new members join, you'll be the veterans."
 
 Galindo studied him for a moment.
 
-"Three and a half."
+"Fine. Thirteen."
 
-The veteran nodded.
+The veteran gave Cynewulf a sharp eye, then nodded.
 
 "Done."
 
@@ -142,7 +162,53 @@ Galindo extended his hand.
 
 "Then welcome to the baggage train."
 
-The archer exclaimed, "Those wagons? Are we guarding them or pushing them in the mud with our bare hands! They're going nowhere."
+Cynewulf took the old veteran aside. "Didn't catch your name."
+
+"Didn't give it. Men I let live, they call me Tor. Everyone else keep their peace." He gave a wry smile.
+
+"Tor short for anything?"
+
+"Depends on who you ask. My father, Thorvaldr. If my mother held the dough-hammer, Tor it was. My father always laughed that when the men came around looking for provisions, they threatened to take my mother on campaign as their dough-valkyrie."
+
+"Sounds like your mother won, if your name now is Tor."
+
+"Aye. That's what she says."
+
+"How are you with supplies?"
+
+"Fine. I know how to count heads, mouths, and bags on horses. Been around long enough to measure a man by his bowl."
+
+"And loot? You know how to sell?"
+
+"Ha. I was selling my mother's famous herring hand-pies before I was seven winters. Thick rye crusts, hard as little treasure chests. You could drop one in the mud, leave it there a day, crack it open, and the herring inside would still be sweet. I'd leave the hearth with a basket of pies and come back from York's docks with a sack of herring and a handful of pennies. And the docks of York aren't the churchyard either."
+
+"Were you fighting for the lords of York then?"
+
+"Ech... no... I came her not for the seige, but for the peace. Who can ask a man to choose between mother and father? No, I sell my spear only when the shield-walls get smaller."
+
+"So... what if we change your name. How do you like Quartermaster?"
+
+"Quartermaster? For thirteen? I was a spear at thirteen pennies." He scoffed.
+
+"We'll run loot like my old company, the Griffons. Killers get first pick. The rest comes through you. You set the worth. If a man wants something, he buys it from you. Men don't sell to each other. Cheated men start knife fights. You keep the company purse, and you take a cut of every sale. The purse pays every man's share on the spot. Then you sell the loot in town to fill it again. I'll count the coin at day's end."
+
+Tor didn't think long. "Well then I'm Quartermaster at thirteen."
+
+The archer had been listening, and leaned into Tor and Cynewulf.
+
+"So what's this pretty little band going to be called? And will we be seeing each other after the Tyne?"
+
+Tor looked at Cynewulf, and shrugged.
+
+Cynewulf stared at the mud. "Let the bards name us. They'll know if our deeds were worthy of one."
+
+Tor smiled. "Well, that saves coin. I won't have to ask for paint or banners."
+
+The three walked to the wagons.
+
+The archer stopped dead in his tracks.
+
+"Those wagons? Are we guarding them or pushing them in the mud with our bare hands! They're going nowhere."
 
 "God help us," muttered one of the brothers.
 

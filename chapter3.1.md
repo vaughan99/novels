@@ -36,9 +36,9 @@ Blackjoy: "Don't knock. Ring the bell."
 
 Morning-Eye: "No, you're supposed to say, 'Who's there?'"
 
-Blackjoy: "Ignoring the bell is rude. I don't speak to rude people."
+Blackjoy: "Ignoring the bell is rude. I don't ask questions of rude people."
 
-Morning-Eye: "You don't speak to _any_ people."
+Morning-Eye: "You don't _speak_ to _any_ people."
 
 Blackjoy: "I smile at them. I'm just not very good at it."
 
@@ -105,7 +105,7 @@ He was smaller than her, and dressed simply in traveling clothes: forest green b
 
 He smiled, "Well it's a girl. Well, hello 'Meadow-Bud'". He used the nickname her father would use. It gave her a small sense of ease, as it was a common nickname given to girls near the wood. But she also resented it, because she was so much more. "Come now, you're safe with me."
 
-She dragged herself from the hollow, knuckles white from holding the axe. At the mouth of the den, the spirit gave a deep, over-long bow. "Now, 'Meadow-Bud,' allow me. I am Fussleton Dowry-Cap, at your service." He smiled with too many teeth, and rolled the "R" of his Dowry-Cap with excessive pride. "Most impressive, how you shed the wolf. I timed the chase to thirteen minutes on the count." He spoke with the clinical precision of a man weighing grain, his manners as sharp and bloodless as a fresh-honed blade.
+She dragged herself from the hollow, knuckles white from holding the axe. At the mouth of the den, the spirit gave a deep, over-long bow. "Now, _Meadow-Bud_, allow me. I am Fussleton Dowry-Cap, at your service." He smiled with too many teeth, and rolled the "R" of his Dowry-Cap with excessive pride. "Most impressive, how you shed the wolf." He spoke with the clinical precision of a man weighing grain, his manners as sharp and bloodless as a fresh-honed blade.
 
 "Dowry-Cap... I've never heard that type of name, " she whispered. 
 

@@ -18,7 +18,7 @@ Huginn: "How about the saga of Sigurd the Dragon Slayer?"
 
 Muninn: "I told that story last week, remember? Pick again!"
 
-Huginn tilted his head, a single dark eye gleaming with a sharp calculation that vanished the instant his beak opened. He leaned back on the bench, deliberately fluffing his feathers to mimic a harmless, bumbling fool.
+Huginn tilted his head, a single dark eye gleaming with a sharp calculation that vanished the instant his beak opened.
 
 "Wait," Huginn chirped innocently. "What about the one where... oh, what was it? There were these humans on a road. They got stuck in the mud. There was more mud... and then they were punked... in the mud?"
 

@@ -147,7 +147,11 @@ The fire had dropped to a low, smoldering orange. It was hot enough to stoke bac
 
 Luckily, she had left over oats there next to the hearth. She didn't need to visit the eorth-hord, and she set to work making her famous honey-oatcakes with syrup. Every moment mattered, and she didn't spot Osric's tampering in the candlelight.
 
-She made sure to make enough for everyone. Her mother would say, "A measure for one is a measure for all. Heal the first cough, or tend a full household of graves before the moon turns." She topped each one of her cakes with syrup, and extra honey to help it go down. The syrup bottle opened normally, as the goblin-air had been spent by Osric a short while before. There was yet more goblin-air in the liquid, waiting to unleash its foulness. She woke each of the children, and Osric. And they all ate the medicine in the glow of the kitchen that night.
+She made sure to make enough for everyone. Her mother would say, "A measure for one is a measure for all. Heal the first cough, or tend a full household of graves before the moon turns." She topped each one of her cakes with syrup, and extra honey to help it go down. 
+
+The syrup bottle opened normally, as the goblin-air had been spent by Osric a short while before. Unlike Osric, she knew the sound of the goblins rushing out, and wouldn't have served it if she knew. But there was yet more goblin-air in the liquid, waiting to unleash its foulness.
+
+She woke each of the children, and Osric. And they all ate the medicine in the glow of the kitchen that night.
 
 The sickness hit the moment they each went to bed. The poison stole the air from their lungs, making them like fish trying to draw breath on dry land. The goblins overpowered their blood in the pitched battle. It's best not to speak of what happened next. What is best to say is that Ealhild and the children did not survive the night.
 

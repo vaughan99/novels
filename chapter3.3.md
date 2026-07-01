@@ -311,17 +311,69 @@ He twirled it once.
 
 "Far less stubborn than my last partner! Now left, right, onto the flea's leg... Yes you've got it."
 
-She took another step towards her father's axe.
+Elswyth another step towards the axe.
 
-Fussleton stopped in mid-step.
+"The moon maiden, in your first poem - the family poem - was _she_ your last partner?" 
 
-He looked back at Elswyth.
+Elswyth took another careful step towards the axe.
 
-Without breaking her gaze, he laid the silver blade against the rake's handle.
+Fussleton stopped in mid-step to look straight at her. He smiled.
+
+"I told you we won her heart with a gift of silver..."
+
+He laid the silver blade against the rake's handle.
+
+"and iron..." 
+
+Without breaking her gaze, 
 
 One smooth draw.
 
 The rake fell neatly into two pieces.
+
+"She gave us her heart." He started licking his fingers. "I didn't lie."
+
+He put his hand to his chin. "You know, I did forget to tell you one thing. About your mother."
+
+Elswyth's heart froze.
+
+"That first full moon after you were in my camp, I found the Vikings that took your mother. I had my eye on the Viking who chased you. Very mundane. Somewhat embarrassed I went to all the trouble, actually. And then I saw her."
+
+Elswyth drew a breath.
+
+"She had untied her bonds, and was trying desperately to get back towards Under-Geat... to you. She almost made it to that idiot Iron-Back's bell."
+
+Elswyth dared to let her heart fill with hope.
+
+"The soot-char should have been the memorable part. It wasn't. Didn't even bother with morels or sauces."
+
+Her eyes were as big as moons. Elswyth screamed.
+
+"Are you _really_ that upset? You assumed she died, _Meadow-Bud_. Does it really matter if it was at the hands of Vikings, or in the service of a better cause?"
+
+"You foul... murderous..." Her mind closed to the shapes of words that tried to escape her mouth.
+
+"You aren't even going to ask?" Fussleton shook his head.
+
+"The better cause: her death taught me something. The moon's flavor is sweet, yes. Charring and smoking are good flavors too."
+
+Fussleton looked straight into Elswyth's eyes.
+
+"But your mother had been a victim for a whole month. Then suddenly, she was free."
+
+Fussleton smile turned dark.
+
+"Hope."
+
+He licked his lips.
+
+"True... hope. Your mother's heart was gushing with it. And _hope_, I think, is why I enjoyed our conversations _so much_."
+
+He raised his knife higher towards his chest.
+
+"I taught you many things. But all of it was for you to _hope_. For years..."
+
+She took another step towards her father's axe.
 
 "Most disappointing."
 
@@ -339,17 +391,55 @@ He spun the knife between his fingers.
 
 He tilted his head.
 
-"A swinging axe? That's not _dancing_, Meadow-Bud. That's a prayer disguised as iron and wood."
+"A felling axe? That's not _dancing_, Meadow-Bud. That's a prayer disguised as iron and wood."
 
 He wrinkled his nose.
 
-"_Such_ a crude implement. But, try if you must. Just don't work up a sweat. Please, we've come this far. Don't ruin it."
+"_Such_ a crude implement. But I do like the spirit. Who knows, a last sprinkling of _hope_ might just be enough flavor to put it over the top. We'll do it your way. You start running. "
 
 She picked up the axe anyway. It's all she had.
 
-"Hmmm, I wonder if _hope_ is its own flavor. I suppose that will be my final thesis for this project."
+"And I'll start counting. Hmmm, you've been marinating in _hope_ for years. I suppose that will be my final thesis for this project. Was it _worth_ it?"
 
-He moved towards her with tremendous speed.
+He lowered his knife.
+
+"Ten."
+
+She didn't move. "Not today."
+
+"Nine."
+
+"You'll catch me anyway."
+
+"Eight."
+
+Elswyth raised her axe.
+
+"Seven."
+
+Elswyth stood unwavering.
+
+"Really? Six."
+
+Elswyth eyed his blade.
+
+"Five."
+
+Elswyth narrowed her eyes and met his.
+
+"Four."
+
+Elswyth dug her eyes in the soot and dirt. Her feet were set.
+
+"Three."
+
+Elswyth exhaled.
+
+"Two."
+
+Elswyth inhaled.
+
+"One."
 
 ---
 
@@ -359,15 +449,32 @@ Huginn: "Children, now she doesn't die at this time. She is not eaten by the red
 
 Muninn: "Cah! You're stealing the air, Huginn... Princess Bride, REALLY? I think the children are more worried about you mixing metaphors." 
 
-Huginn: "Oh of course, how horrible of me, I'm so sorry..."
-
-Huginn giggled, mimicking the Grandfather of that story.
-
-Huginn: "The Powrie Redcap of the Gaels, brother, the Fly Agaric of the Night-North! Such heavy titles for a small spirit. It sounds like he’s trying to swallow the whole North in two bites!"
-
-Muninn: "It is a title with history. He is an older hate than the Vikings. He’s telling the Meadow-Bud that he belongs to the very stones of the North... Now let the story unfold. Enough of this modern fairy-tale interruption. Finish the redcap, and then we visit the priest! He's still waiting at the Shadow Gate for his story to unfold."
-
 ---
+
+"Done."
+
+The redcap launched.
+
+Elswyth tossed the axe. Simple. Sideways. She didn't even intend to hit him.
+
+The redcap dodged it. Smiling. Pathetic.
+
+Then Elswyth threw something else. Hidden in her hand. Something small. Black. Glassy.
+
+It flew through the air.
+
+Fussleton was too close, too confident. He didn't account for it.
+
+The Alexander Stone struck him in the nose. Hard.
+
+He stopped. Cross-eyed, he stared at his nose.
+
+"OOOOOOOWWW!"
+
+
+
+
+, Elswyth tossed a thing - a small black thing - into the air. She turned the axe sideways, and hit the thing. Round and glassy. 
 
 But behind the red-capped murder-gnome, there was a small, childish giggle. The powrie-spirit turned on heel, and let out a mad scream of slicked hate and curious pitch. Several nets flew from the dark, trapping the redcap. They were loops of rope, thick and woven with deathcap mushrooms. He struggled and bit, tossed and fought, but the cords held him tight. The redcap's knife, silver blade bound by iron hilt - as his family-name poem suggested - dropped from his hand onto the dirt.
 
