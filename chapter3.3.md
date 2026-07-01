@@ -517,7 +517,21 @@ His smile faded into a grimace.
 
 Her toes indeed were getting warm, as her turn shoes were starting to smoke.
 
-But behind the red-capped murder-gnome, there was a small, childish giggle. The powrie-spirit turned on heel, and let out a mad scream of slicked hate and curious pitch. Several nets flew from the dark, trapping the redcap. They were loops of rope, thick and woven with deathcap mushrooms. He struggled and bit, tossed and fought, but the cords held him tight. The redcap's knife, silver blade bound by iron hilt - as his family-name poem suggested - dropped from his hand onto the dirt.
+But behind the red-capped murder-gnome came a small, childish giggle.
+
+Then another.
+
+Then another.
+
+Soon there were ten.
+
+A hundred.
+
+The powrie-spirit spun on his heel and let out a scream of slicked hate and curious pitch.
+
+Nets flew from the darkness, tangling the redcap where he stood. Thick loops of rope, woven through with deathcap mushrooms, wrapped around his limbs. He struggled and bit, thrashed and twisted, but the cords held fast.
+
+His knife—silver blade bound to an iron hilt, just as his family-name poem foretold—fell from his hand into the dirt.
 
 He fought and screamed against the bindings:
 
@@ -545,11 +559,41 @@ You'll still laugh and you will sing
 But dancing will be another thing.
 ```
 
-Elswyth held her axe high. She stepped back, ready to swing at anything that approached her.
+Elswyth stepped back off the coals. She held her mushroom knife as bravely as she could.
 
 Fussleton stopped for a moment and pleaded.
 
-"Can't you see? You're ruining her flavor! Let me out!"
+"Please! Just one... little... TASTE!!!!" He reached out to Elswyth, trying to even get the tiniest scratch on her. She was too far away.
+
+The invisible forge-elves gathered round the nets.
+
+"He wants a taste!"
+
+"Well, let's give him _the taste_!"
+
+The salt horn floated through the air, and danced over his eyes.
+
+"Yes, dance! Make it dance!"
+
+The salt horn danced over his head, dipping and swerving.
+
+"Does this improve the flavor?"
+
+An invisible hand found his tongue, and pulled hard. The salt was poured the length of his tongue.
+
+"Oh, Mr. Fussleton sir, would you like the taste of morels, or deathcap?"
+
+"Perhaps a spot of fly agaric for an hors d'oeuvre?"
+
+"I think this particular fungus _hoped_ you would stop by."
+
+"Oooh, good one!"
+
+"Open wide!"
+
+"Mind your manners!"
+
+"No spitting!"
 
 Elswyth saw mushrooms flying through the air, stuffing themselves into the redcap's toothy maw. He struggled against them, but he was muffled into silence.
 
