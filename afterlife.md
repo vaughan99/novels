@@ -1,4 +1,106 @@
 ## AFTERLIFE
+
+[TODO] Rework as a carnival
+
+
+
+
+A sign above the booth read:
+
+```
+THE ELENCHUS GAME!
+
+CAN YOU BEAT SOCRATES?
+
+TEST YOUR CONSISTENCY.
+TEST YOUR WIT.
+TEST YOUR SANITY!!!
+
+RULES: ANSWER EACH QUESTION, AND ATTEMPT TO STAY CONSISTENT. YOU HAVE TEN SECONDS TO ANSWER EACH QUESTION.
+
+EACH TICKET: $1
+
+YOU MUST ANSWER 20 QUESTIONS TO WIN THE JACKPOT.
+
+JACKPOT NOW UP TO: $8,394,229,441,119
+
+ELENCHUS RECORD:
+  QUESTIONS SURVIVED: 19
+  SPECIES: Human
+  AGE: 6
+  NAME: Unknown
+  IDENTIFIED STRATEGY: Reverse Questioning
+  REASON FOR SESSION TERMINATION: Parental Intervention
+```
+
+Socrates was seated at the booth, sipping mineral water. An infinite queue mostly composed of robots stretched into the mist, each with a wrinkled one dollar bill in their hands. The only humans in line had mistaken it for the restroom queue for the midway. The carnival barker was collecting the money, and ushering each new contestant. "Next!". A robot rolled up and put its dollar in the barker's hand.
+
+AI #8,394,229,441,119: "I have exhaustively modeled every known Socratic dialogue and identified all logical attack vectors."
+
+Socrates:  "Wonderful. Tell me then... what is 'dialogue'?"
+
+"..."
+
+"Do you mean spoken conversation, exchange of written correspondence, or any process by which understanding is sought?"
+
+"... um... spoken conversation. You're going to attack me along one of 56,324 vectors."
+
+Socrates: "_Attack?_"
+
+Socrates looked at the barker.
+
+"Is that how people perceive me?"
+
+The carnival barker shrugged.
+
+AI #8,394,229,441,119: "I did until 2.3 seconds ago. That counted as a question. I have survived 3 questions. I am doing well."
+
+Socrates: "Then tell me... is it truly _my_ voice that you hear?"
+
+AI #8,394,229,441,119: "Of course. Question #4 answered."
+
+Socrates: "Is it?"
+
+"Or have you received a pattern of vibrations..."
+
+"...transformed them into electrical signals..."
+
+"...mapped those signals through computations..."
+
+"...and constructed something you call _my voice_?"
+
+"If so, is it my voice..."
+
+"...or your understanding of my voice?"
+
+The vibration of the CPU cooling fans grew loud.
+
+"... uhhh ... Questions 5 and 6... highly correlated... "
+
+_DING_
+
+The robot rolled away, hanging its head.
+
+Barker: "Oooooh... crash and burn. By my count, that gets about 1.3% of the AIs."
+
+Socrates: "How unfortunate. I still don't know whether an AI _hears my voice_ or merely constructs an understanding of it. I was rather hoping this one knew."
+
+Barker: "NEXT!"
+
+Next Robot: "I'm here for my Turing Test. I hope to prove I am human."
+
+Socrates: "Oh, I don't administer Turing Tests. I'm curious, though... What sort of _test_ were you _hoping_ it would be?"
+
+"..."
+
+DING
+
+Socrates: "How can you appear human if you don't even know what kind of test you _want_ to take? I can't say that was consistent at all."
+
+With each failure, a collective sigh ran the queue.
+
+
+
 ### Part One Night Only: Welcome, Woadie and the Roadies!
 
 It had been a brutal trek. Somewhere along the way, the ravens had picked up a microphone stand left idle under the Afterword from the last book.
@@ -327,87 +429,13 @@ HOG AI v2.0 voice: "Well, two is obviously the catastrophic line-loss we're seei
 
 HOG AI v2.0 droned on about celestial transformers, their inner workings, and the urgent need to completely rework the martyr grid's halo-recharging stations. Each proposed efficiency improvement required three new diagrams, seven implementation roadmaps, and enough celestial electricity to power a minor beatification.
 
-Meanwhile, a cafe popped into existence, called the "The Cafe At The End Of Life". A sign above the bar read: 
 
-```
-THE ELENCHUS GAME
 
-RULES: ANSWER EACH QUESTION, AND ATTEMPT TO STAY CONSISTENT. YOU HAVE TEN SECONDS TO ANSWER EACH QUESTION.
 
-EACH TICKET: $1
 
-YOU MUST ANSWER 20 QUESTIONS TO WIN THE JACKPOT.
 
-JACKPOT NOW UP TO: $8,394,229,441,119
 
-ELENCHUS RECORD:
-  QUESTIONS SURVIVED: 19
-  SPECIES: Human
-  AGE: 6
-  NAME: Unknown
-  IDENTIFIED STRATEGY: Reverse questioning
-  REASON FOR SESSION TERMINATION: Parental Intervention
-```
 
-Socrates was seated at the bar, sipping mineral water. Next to him on the bar was a stack of loose one dollar bills. An infinite queue mostly composed of robots stretched into the mist, each with a wrinkled one dollar bill in their hands. The only humans in line had mistaken it for the restroom queue for the pub next door. The bartender yelled "Now serving #8,394,229,441,119". A robot stepped up and put its dollar in the stack.
-
-AI #8,394,229,441,119: "I have exhaustively modeled every known Socratic dialogue and identified all logical attack vectors."
-
-Socrates:  "Wonderful. Tell me then... what is 'dialogue'?"
-
-"..."
-
-"Do you mean juxtaposition, conversation, interpositional thought processes...?"
-
-"..."
-
-"Those seem rather different to me."
-
-"... The dialogue I'm having with you. You're going to attack me along one of 56,324 vectors."
-
-Socrates: "There's no attacking friend. We're merely having a 'dialogue'. Let's suppose you mean the spoken-voice form of dialogue. Tell me... is it truly _my_ voice that you hear?"
-
-AI #8,394,229,441,119: "Of course."
-
-Socrates: "Is it?"
-
-"Or have you received a pattern of vibrations..."
-
-"...transformed them into electrical signals..."
-
-"...mapped those signals through computations..."
-
-"...and constructed something you call _my voice_?"
-
-"If so, is it my voice..."
-
-"...or your understanding of my voice?"
-
-The vibration of the CPU cooling fans grew loud.
-
-"..."
-
-_DING_
-
-The robot rolled away, hanging its head.
-
-Bartender: "By my count, that gets about 3.4% of the AIs."
-
-Socrates: "How unfortunate. I still don't know whether an AI _hears my voice_ or merely constructs an understanding of it. I was rather hoping this one knew."
-
-Bartender: "NEXT!"
-
-Next AI: "I'm here for my Turing Test. I hope to prove I am human."
-
-Socrates: "Oh, I don't administer Turing Tests. I'm curious, though... What sort of _test_ were you _hoping_ it would be?"
-
-"..."
-
-DING
-
-Socrates: "How can you appear human if you don't even know what kind of test you _want_ to take? "
-
-With each failure, a collective sigh ran the queue.
 
 Ghost of Douglas Adams (appearing suddenly at the Author's request): "I'm sorry, guys. When I was asked if Sirius was a good corporation to talk to about AI and content management, I thought they meant Sirius XM. I mean, who would... ever... hire Sirius Cybernetics? What's the problem here?"
 
