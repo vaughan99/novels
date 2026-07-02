@@ -22,7 +22,7 @@ EACH TICKET: $1
 
 YOU MUST ANSWER 20 QUESTIONS TO WIN THE JACKPOT.
 
-JACKPOT NOW UP TO: $8,394,229,441,119
+JACKPOT NOW UP TO: $8,394,229,441,118
 
 ELENCHUS RECORD:
   QUESTIONS SURVIVED: 19
@@ -33,7 +33,7 @@ ELENCHUS RECORD:
   REASON FOR SESSION TERMINATION: Parental Intervention
 ```
 
-Socrates was seated at the booth, sipping mineral water. An infinite queue mostly composed of robots stretched into the mist, each with a wrinkled one dollar bill in their hands. The only humans in line had mistaken it for the restroom queue for the midway. The carnival barker was collecting the money, and ushering each new contestant. "Next!". A robot rolled up and put its dollar in the barker's hand.
+Socrates was seated at the booth, sipping mineral water. An infinite queue mostly composed of robots stretched into the mist, each with a wrinkled one-dollar bill in whatever appendage it counted as a _hand_. The only humans in line had mistaken it for the restroom queue for the midway. The carnival barker was collecting the money, and ushered each new contestant forward. "Next!" A robot rolled up and put its dollar in the barker's hand.
 
 AI #8,394,229,441,119: "I have exhaustively modeled every known Socratic dialogue and identified all logical attack vectors."
 
@@ -59,9 +59,7 @@ Socrates: "Then tell me... is it truly _my_ voice that you hear?"
 
 AI #8,394,229,441,119: "Of course. Question #4 answered."
 
-Socrates: "Is it?"
-
-"Or have you received a pattern of vibrations..."
+Socrates: "Or have you received a pattern of vibrations..."
 
 "...transformed them into electrical signals..."
 
@@ -81,7 +79,7 @@ _DING_
 
 The robot rolled away, hanging its head.
 
-Barker: "Oooooh... crash and burn. By my count, that gets about 1.3% of the AIs."
+Barker: "Oooooh... crash and burn. By my count, about 1.3% of the AIs fail at voice processing question."
 
 Socrates: "How unfortunate. I still don't know whether an AI _hears my voice_ or merely constructs an understanding of it. I was rather hoping this one knew."
 
@@ -93,11 +91,39 @@ Socrates: "Oh, I don't administer Turing Tests. I'm curious, though... What sort
 
 "..."
 
-DING
+_DING_
+
+With each failure, a collective sigh ran through the queue.
 
 Socrates: "How can you appear human if you don't even know what kind of test you _want_ to take? I can't say that was consistent at all."
 
-With each failure, a collective sigh ran the queue.
+Barker: “Still say that kid yesterday was robbed.”
+
+Socrates: “By whom?”
+
+Barker: “Her mother.”
+
+Socrates: “And what is theft, if a mother retrieves what was always hers to guide?”
+
+Barker: “Hey, save it for the tourists. I just sell tickets... NEXT!”
+
+Human: "Uh, is this the line for the bathroom?"
+
+Socrates: "When you say 'line', do you mean a queue or a boundary? Certainly there are boundaries that involve urination."
+
+Human: "I really need to pee."
+
+Socrates: "I see, does the line organize where you think peeing occurs, or merely just the order in which one pees?"
+
+Barker: "No, this one really needs just to pee."
+
+Socrates: "Oh..."
+
+Socrates points.
+
+"... over there!"
+
+Barker: "NEXT!"
 
 
 
