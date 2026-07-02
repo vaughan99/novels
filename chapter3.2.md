@@ -298,26 +298,70 @@ To keep her mind sharp, she practiced the gnome’s rhymes. She used her mushroo
 
 ---
 
-Huginn started clicking his beak in a fast, rhythmic cadence, humming a tune that sounded suspiciously like the theme from _Mission: Impossible_.
+Huginn: "Now that Elswyth has learned rhythm, I think it's time you met Steve."
 
-Muninn: "It's not an impossible mission, Huginn. It's just merely improbable. She's really lucky everyone was deeply superstitious."
+Muninn: "I don't see anybody here but children."
 
-Huginn: "Lucky? Brother, don't you see? It’s a total reboot! This is _Mission: Impossible – Ghost Protocol_! Think about it!"
+Huginn produced an eyeball hiding under his wing. It looked nervous.
 
-Muninn: "I would prefer not to."
+Muninn: "Ummmm. Huginn?"
 
-Huginn: "She is officially dead to the world! Zero backup! Zero resources! Zero country!"
+Huginn: "Meet Steve!"
 
-Muninn: "Not exactly dead, Huginn. They still have stories about her."
+Muninn: "You've been having conversations with Steve's eyeball?"
 
-Huginn: "Until she jumps back into action! Imagine it! Deep agent Elswyth Moonhunt!"
+"So?"
 
-Muninn: "And I suppose her high-tech gadgets failed too?"
+"His eyeball *listens* to you?"
 
-Huginn: "Yes! I bet if the Ulfhednar _did_ find her, then _whaaaaaaaaaa-haa_! She unleashes gnome-fu!"
+"He reads beaks."
 
-Muninn: "They did not have IMF agents, or 'protocols', in tenth-century Mercia, Huginn."
+"And how do you know he is reading your... beak"?
 
-Huginn: "The outfits would have matched the soot perfectly."
+"He has expressive eyes... Eye."
 
-Muninn: "Your brain matches the soot... perfectly."
+"And... how does he tell you things?"
+
+"He nods."
+
+"He nods?"
+
+"Yeah I ask him yes/no questions and he nods."
+
+"So how do you know he's a drummer?"
+
+"He nods to the beat."
+
+"He's a drummer?"
+
+"Yes."
+
+"With no hands. Or feet."
+
+"Drummers lose appendages sometimes. They make up for it."
+
+"No drummer has lost _every single appendage_! AND THEN REMAINED A DRUMMER!!"
+
+"Exactly. Steve will find a way. We all need to have faith in him. He's going through a rough time."
+
+"And... how do you know?"
+
+"Steve told me."
+
+"Through his eye."
+
+"Expressive eye. Remember he nods. We established this."
+
+"Huginn?"
+
+"Yes?"
+
+"Steve can stay, but I don't think he should be a drummer."
+
+"Are you sure?"
+
+"Absolutely."
+
+"Steve says thank you."
+
+"Tell Steve... nevermind."

@@ -44,20 +44,6 @@ Muninn: "I've met him. Very grounded. The fact that he can fly doesn't mean he's
 
 Huginn: "No, he's... Super-BOOOOAAARRR!"
 
-Muninn: "Okay, fine. Just leave DC Comics out of this."
-
-Huginn: "But the cape, Muninn! The golden bristles flowing in the wind! It’s practically a cinematic masterpiece!"
-
-Muninn: "Remember, the rule is: 'NO CAPES'. Edna Mode was very firm on this point, and provided several excellent examples."
-
-Huginn: "She was a cartoon mortal! What does she know of divine aerodynamics?"
-
-Muninn: "She knows that when you're flying into a fray, you don't want your fashion sense getting caught in a troll's teeth."
-
-Huginn: "Fine. But if the boar gets a movie deal, I'm writing the script."
-
-Muninn: "Fine. Then, I get to write your obituary."
-
 ---
 
 Ealhild's family were superstitious. The family barrow was young by Dane standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it—stories, bones, stones, and memories—until it seemed older than it truly was. Her mother would teach her that one day, she would marry, and would travel far away. The family was looking for expansion of their lines, and had enough dowry to marry them in all directions. 

@@ -118,6 +118,8 @@ _So sayeth the Sword._
 
 ---
 
+[TODO replace]
+
 Huginn: "Now that's what I call going clubbing."
 
 Muninn: "The boy was handy with a stick, you have to give him that."

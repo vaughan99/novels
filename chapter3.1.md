@@ -174,7 +174,3 @@ Huginn: "Coach Fussleton tells us his athlete has tremendous potential, though h
 Muninn: "...but..."
 
 Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing that felling axe. Our insiders tell us his plan calls for good rhythm and flea's-leg timing. Back to you in the studio."
-
-Muninn waited for the faux-broadcast to complete: "...I suppose we cue _Eye of the Tiger_ next? You're so predictable."
-
-Huginn: "Control room. Cue _Eye of the Tiger_ on Muninn's suggestion."

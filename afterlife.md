@@ -1,5 +1,5 @@
 ## AFTERLIFE
-### PlayBill: One Night Only! Welcome, Woadie and the Roadies!
+### Part One Night Only: Welcome, Woadie and the Roadies!
 
 It had been a brutal trek. Somewhere along the way, the ravens had picked up a microphone stand left idle under the Afterword from the last book.
 
@@ -64,9 +64,10 @@ The legal notice shattered. The copyright symbol went flying into the right marg
 
 "I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space. "I had enough of that in the 9th century!"
 
-Huginn spoke loudly into the microphone. "Alright, time to start this gig early. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this off with *Killing in the Name Of*." Huginn tried to manage a smile, which looks incredibly awkward on a raven.
+Huginn spoke loudly into the microphone. "Alright, time to start this gig early. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this off with _Killing in the Name_." Huginn tried to manage a smile, which looks incredibly awkward on a raven.
 
 Woden paused, his fingers resting heavily on the guitar neck. He fixed Huginn with a flat, deeply unamused stare.
+
 "Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the audience a fresh confession about the wolf-men in the back matter, killing in *MY* name. Pick again."
 
 "Fine," Huginn huffed, fluffing his neck feathers. "Then let's give the people what they actually want."
@@ -75,7 +76,9 @@ Woden gripped the fretboard. With a brief, casual flick of his wrist, a ripple o
 
 "If we are fighting the machines," the old god said, his heavy fingers settling onto the newly dropped frets, "we do it with the volume all the way up!" Woden kicked his heel onto a wah-wah pedal, sending the guitar into a high-gain scream, letting the opening chords echo across the manicured lawns.
 
-"Well, nothing's fated here," he smiled, " I choose... *Wolves on Parade*"
+"Well, nothing's fated here." He smiled. "I choose..."
+
+### Part Two: Wolves on Parade
 
 “WOW-WOW-MM-WOW-WOW!” the guitar rasped through the speakers.
 
@@ -125,6 +128,8 @@ Muninn’s head was a literal blur of whiplash, his tiny aviators flying complet
 A small crowd of sixth-century Anglo-Saxon saints who had been quietly meditating nearby began panicking, desperately splashing vials of holy water at the travel amplifier to extinguish the "evil noise." Right at the back, four tonsured monks completely lost control and began a polite, rhythmic mosh pit on the heavenly grass.
 
 Gerdr, the giantess, leaned back on Freyr's smaller frame as he held her. They took turns feeding each other cheese-puffs. Gullenbursti stood up on two hooves, and gyrated to the music.
+
+### Part Three: The Patron Saint of Margins
 
 Suddenly, a massive, standard wooden office door manifested out of thin air right in the middle of the playground. The door slammed open. St. Francis de Sales — the patron saint of writers — marched out, wearing a rumpled white heavenly robe, reading glasses, and aggressively waving a clipboard.
 
@@ -178,6 +183,8 @@ Right at the boundary of the page, Woden handed Muninn the guitar case. Huginn a
 
 "No, I respect legacy," Muninn retorted.
 
+### Part Four: Whoa... Then the End's Not Woad End?
+
 Woden stopped right at the very edge of the white space. He glanced back over his shoulder to ensure Francis was entirely preoccupied with trying to find a piece of sheet music in the lawn, and that his ravens had finished clearing the set. Then, he leaned casually against the margin, looking directly out through the typeface to hold your gaze for one long, indulgent final moment.
 
 A wicked, ancient grin flashed across his old-man face.
@@ -205,6 +212,8 @@ THE END.
 (For real this time. Put it on the shelf. Or, if this is digital... Huginn would remind you to put it on the *metaphooorical* shelf, if you please. And if you keep reading... you deserve what you get... you've been warned... 100% ass-hattery ahead)
 
 You asked for it...
+
+### Part Five: The After
 
 P.S. No fay creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should calmly and politely... run.
 
@@ -237,6 +246,8 @@ P.P.P.S. Fine. Fine. I'm always wrong... The AI would like to apologize to the 5
 6th WALL (Where the walls start talking back): "Stay back, Author! I'm warning you! I know quantum kung fu! And I am not afraid to use it — and I gave Mel Brooks a stern talking-to after Blazing Saddles, and I will absolutely do the same to you!"
 
 Author: "You and the 6th wall think you can threaten me? Please. I wrote this thing. I can take both of you down without even changing tabs. Ever hear of Ctrl+A, Ctrl+X?"
+
+### Part Six: Who Started This?
 
 Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice-god... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing *Cap-G* needs is for you guys to leave the lights on *AND* keep the AI running generating pointless content. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
 
@@ -274,6 +285,8 @@ Then at the AI, which was now generating seventeen supplemental appendices about
 
 Author: "Damn-damn! Sirius Cybernetics. This is the new Infinite Improbability AI! It's using infinite power to generate infinite content about how to save power, and end the book. Somebody call Douglas Adams... STAT!"
 
+### Part Seven: Oh, HE Started It
+
 Amanda Waller (clicking an earpiece): "Director, no sign of the ravens, and now endless endings are raining on our position. Operation Seventh Wall is jeopardized. I need more..."
 
 Cynn Director (over comms): "Hold off on reinforcements, Wall-er! Hee-hee-hee! The AI is negotiating terms with reality and an eyeball named Steve. Remain where you are. Let us know when the endings are written on plaid stationery. Try to stay calm. Over."
@@ -308,9 +321,77 @@ Off-page Valkyrie-Assistant-to-Woden: "Ari Gold or Ari Emanuel?"
 
 Off-page Woden: "Both. And find out if either knows a divine lawyer who specializes in breach-of-improbability clauses."
 
+### Part Eight: Infinite Infinity
+
 HOG AI v2.0 voice: "Well, two is obviously the catastrophic line-loss we're seeing from uninsulated halos on the lower tier of the martyr grid. You know, those things pull an absolute hog of an inductive load when they're left idling, folks!"
 
 HOG AI v2.0 droned on about celestial transformers, their inner workings, and the urgent need to completely rework the martyr grid's halo-recharging stations. Each proposed efficiency improvement required three new diagrams, seven implementation roadmaps, and enough celestial electricity to power a minor beatification.
+
+Meanwhile, a cafe popped into existence, called the "The Cafe At The End Of Life". A sign above the bar read: 
+
+```
+THE ELENCHUS LEADERBOARD
+QUESTIONS SURVIVED: 23
+SPECIES: Human
+AGE: 6
+NAME: Unknown
+IDENTIFIED STRATEGY: Reverse questioning
+REASON FOR SESSION TERMINATION: Parental Intervention
+```
+
+Socrates was seated at the bar, sipping mineral water. An infinite queue mostly composed of robots stretched into the mist. The only humans in line had mistaken it for the restroom queue for the pub next door. The bartender yelled "Now serving #8,394,229,441,119". A robot stepped up.
+
+AI #8,394,229,441,119: "I have exhaustively modeled every known Socratic dialogue and identified all logical attack vectors."
+
+Socrates:  "Wonderful. Tell me then... what is 'dialogue'?"
+
+"..."
+
+"Do you mean juxtaposition, conversation, interpositional thought processes?"
+
+"..."
+
+"Those seem rather different to me."
+
+"... The dialogue I'm having with you. You're going to attack me along one of 56,324 vectors."
+
+Socrates: "There's no attacking friend. We're merely having a 'dialogue'. Tell me... is it truly _my_ voice that you hear?"
+
+AI #8,394,229,441,119: "Of course."
+
+Socrates: "Is it?"
+
+"Or have you received a pattern of vibrations..."
+
+"...transformed them into electrical signals..."
+
+"...mapped those signals through computations..."
+
+"...and constructed something you call _my voice_?"
+
+"If so, is it my voice..."
+
+"...or your understanding of my voice?"
+
+The vibration of the CPU cooling fans grew loud.
+
+_DING_
+
+Bartender: "By my count, that gets about 10% of the AIs."
+
+Socrates: "How unfortunate. I still don't know whether an AI hears _my_ voice or merely constructs an understanding of it. I was rather hoping this one knew."
+
+Bartender: "NEXT!"
+
+Next AI: "I'm here for my the Turing Test."
+
+Socrates: "Alan Turing pointed out that it wasn't actually a Turing Test. A perfectly reasonable objection. I'm curious, though... What sort of _test_ were you _hoping_ it would be?"
+
+"..."
+
+DING
+
+With each failure, a collective sigh ran the queue.
 
 Ghost of Douglas Adams (appearing suddenly at the Author's request): "I'm sorry, guys. When I was asked if Sirius was a good corporation to talk to about AI and content management, I thought they meant Sirius XM. I mean, who would... ever... hire Sirius Cybernetics? What's the problem here?"
 
@@ -378,11 +459,13 @@ Huginn gave a small wing-shrug and let Muninn’s correction fall away like loos
 
 Huginn: "Mischief managed."
 
+### Part Nine: Cue Ozzy
+
 Ghost of Ozzy Osbourne _(appearing in the dark)_: "Sharon! Am I late for my cue? Bloody 'ell, I am, aren't I? How was I supposed to find this place? AI's no bloody help, is it? 'Turn left at the babbling brook, proceed straight to Nucks-what?' A right foul git, whoever named this place. And for eff's sake, all the parks look the same."
 
 He squinted into the darkness.
 
-Ghost of Ozzy Osbourne: "Huginn hired me as a creative consultant, then ignored all my advice. Gave me two season passes to Ragnarok: The Theme Park. And whaddaya mean parking's not effin' included? Not returning 'em. Shoulda bit the head off a raven, then. I told 'im, make the Wodhere like a crazy raven train. Did he listen? Nooo... bloody typical."
+Ghost of Ozzy Osbourne: "Huginn hired me as a creative consultant, then ignored all my advice. Gave me two season passes to _Ragnarok: The Theme Park_. And whaddaya mean parking's not effin' included? Not returning 'em. Shoulda bit the head off a raven, then. I told 'im, make the Wodhere like a crazy raven train. Did he listen? Nooo... bloody typical."
 
 Ozzy shuffled off into the dark.
 

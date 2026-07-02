@@ -210,16 +210,6 @@ Huginn: "Wow, look at him go! Armor, weapons, church-silver, and a lifetime of r
 
 Muninn: "The memory will surely haunt him. He didn't realize how good he had it, or how far he has yet to go."
 
-Huginn, his eyes full of mischief: "Do you think he prayed on this before he made his decision? Two prayers: one to St. Christopher, for good travels. The other to St. Larceny of Felonious for fencing hocked silver goblets? Sounds like a balanced spiritual portfolio."
+Huginn, his eyes full of mischief: "Do you think he prayed on this before he made his decision? Two prayers: one to Saint Christopher, for good travels. The other to Saint Filcher for relocating stolen silver goblets? Sounds like a balanced spiritual portfolio."
 
 Muninn: "No I don't think he prayed, or gave one thought to it. Very impetuous. Reminds me of a raven I know."
-
-Huginn: "Hey! It could get worse. I could start quoting songs, like _Take the Money and Run_, or _Me and My Uncle_..."
-
-Muninn: "You wouldn't dare."
-
-Huginn: "I totally would."
-
-Muninn: "Fine. I'll start quoting _Pulp Fiction_. 'And you will know MY NAME IS THE...'"
-
-Huginn: "Okay. Fine. Back to the story."

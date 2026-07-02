@@ -71,17 +71,21 @@ Finally, Freyr raised both hands and the Cynn stopped, hammers in the air. He pr
 
 ---
 
-Muninn: "See? They're not dwarves in a fairy-tale! They seem nice, too."
+Muninn: "This is so much better than ordinary fairy tales."
 
-Huginn: "Alright, alright, you made your point. No singing about gold, no braided beards, and absolutely no helpful advice for any of our heroes."
+Huginn: "Yes! No singing about gold, no braided beards, and absolutely no helpful advice for any of our heroes."
 
 Muninn: "Exactly. Just child-giggles, stolen cookware, a little person tied to a wooden handle, and a hot-billet of love. But that's your feast-field, not mine."
 
 Huginn: "You're right. I am a lover, not a fighter."
 
+Muninn: "Wait... did we just... agree??"
+
+Huginn: "About all of it, or just me being a lover?"
+
 Muninn: "A lover of bad poetry and worse ditch-meat..."
 
-Huginn: "Quiet! The bellows need new hands. If they fit a nisse's hand, I wonder if they fit a redcap's."
+Huginn: "Cah! The bellows need new hands. If they fit a nisse's hand, I wonder if they fit a redcap's."
 
 ---
 
@@ -210,7 +214,7 @@ Huginn smiled, released his dance posture, and smoothed down his ruffled wing-fe
 
 Huginn: "For dramatic effect. It felt like the scene needed a...  heavy chord... right there."
 
-Muninn: "An organ? We are in tenth-century Leicester, you fool. Pipe organs haven't even been invented for parish churches yet. You are ruining the historical authenticity. Never do that again. Ever."
+Muninn: "That wasn't an _air organ_, or any other organ, except maybe a body part I haven't liberated yet."
 
 Huginn: "It was a metaphoooorical organ. Besides, look at the redcap below. Wait, where did he go?"
 
@@ -264,7 +268,7 @@ Huginn: "How about a necklace made from a raven's beak?"
 
 Muninn: "Wow that's not subtle."
 
-Huginn: "I think I spy there, in the dark, our faces on the scabbard. I don't remember sitting for a portrait!"
+Huginn: "I think I spy our faces on the scabbard. I don't remember sitting for a portrait!"
 
 Muninn: "You didn't bird-brain. All-Father told them to put us there, remember? We are the inquisitors. He merely gets to listen. Those were Freyr's rules."
 

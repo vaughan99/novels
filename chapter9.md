@@ -138,14 +138,6 @@ Cynewulf felt the raw jolting power as Wodbora threatened to leap from the scabb
 
 The textured steel cleared the wood-staves, and the sky above the church's belltower sung with fresh horror. There drew a freezing roar of wind and black rain — not a storm of nature, but a concussive shockwave of ancient rot, the clattering rattle of dry bones, and the deafening, suffocating flap of a thousand invisible wings. The air turned heavy as lead. Words leapt from the blade, surging like liquid iron up through his sword-arm, jolting his neck forward until his jaw nearly cracked. The ancient, jagged language of the Old Hate — words not of his own making—erupted from his throat like an unholy volcano.
 
----
-
-Huginn: "Avada Kedebra!!!!"
-
-Muninn: "Kedavra, you fool — please!"
-
----
-
 The spell of the Wodbora was cast. "Atola Wodhere, ne þū lencg gebunden eart!".
 
 Rognvaldr swung, but his weapon froze. The lethal iron was pinned immovably by a concussive shockwave of freezing air and ancient rot — the Wodhere had arrived.

@@ -186,26 +186,78 @@ Finally, it found a length of rope. It dug the barrow-stone from the threshold, 
 
 ---
 
-Huginn: "Going out of business. Well, the nisse could have had a very nice cottage industry until the fyrd showed up."
+Huginn: "The nisse on the road reminds me... You know after the story is done, we have that gig to get to."
 
-Muninn: "The nisse collected the life of the home, to provide memory to the project."
+Muninn: "Oh, not this again."
 
-Huginn: "Was it enough?"
+Huginn: "By the way, the Skeleton Crew likes the name. I'm going to be the lead singer."
 
-Muninn: "Why must I remember everything brother? You're the one telling the story."
+Muninn: "_Who_ ... likes _what_?"
 
-Huginn: "Cah... of course. I was just checking to see if you were listening."
+Huginn: "The Skeleton Crew - the ones who play the other instruments. They like the name... of the band."
 
-Muninn: "I'm ALWAYS listening Huginn. That's my job. I'm the memory. When have I ever stopped?"
+Muninn: "We don't have a band."
 
-Huginn: "There it is. A barrel full of life. It’s carrying the laughter and the fyrd-parts into the forge-lair."
+Huginn: "I'm the lead singer. The Skeleton Crew said I have the best voice."
 
-Muninn: "The Smith-Elves will smell the Nine Herbs, play with the children's toys and know their songs. They will see the runes Ealhild painted on the barrow-stone. They'll see Gerdr's Tears."
+Muninn stared at him.
 
-Huginn: "The 'Fyrd-Anchor' is going to follow his hearth on the road to Leicester. Following his heart...th? It's like heart, but with ..."
+Muninn: "Tell me the Boss is _not okay_ with this..."
 
-Muninn interrupted.
+Huginn: "The Boss is playing guitar."
 
-Muninn: "Sometimes I wish I were an only child, Huginn."
+Muninn: "No."
 
-Huginn: "You are an only child, Muninn. The only child with a brother as awesome as me!"
+Huginn spread his wings dramatically and called triumphantly.
+
+Huginn: "Woadie and the Roadies!!"
+
+Long pause.
+
+Muninn blinked.
+
+Once.
+
+Twice.
+
+Muninn: "You never asked me."
+
+Huginn: "Asked you what?"
+
+Muninn: "What instrument I'll play. We are ravens. We can't play instruments."
+
+Huginn: "That's why we need the Skeleton Crew. Duh."
+
+Muninn: "I have no memory of playing an instrument. How could I possibly learn one?"
+
+Huginn: "Steve will find you one."
+
+Muninn stopped in mid-wingbeat.
+
+Muninn: "And who exactly is Steve?"
+
+Huginn: "The drummer."
+
+Muninn: "There is no drummer."
+
+Huginn: "He's part of the Skeleton Crew."
+
+Muninn: "There is no band."
+
+Huginn: "Can you play the maracas? Steve said you should."
+
+Muninn: "No."
+
+Huginn: "You didn't even think about it."
+
+Muninn: "I don't have hands."
+
+Huginn: "You've identified the primary challenge, that's all. Maybe we make talon-grabbers that hold fake robot hands, and the hands hold the maracas..."
+
+Muninn: "I hate you."
+
+Huginn: "You say that now."
+
+Muninn: "I said it a thousand years ago."
+
+Huginn: "And yet here you are."

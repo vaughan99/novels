@@ -1,6 +1,6 @@
 ## Chapter Three: The Tale of the Coal-wise Apprentice
 
-### Part Three: The Rhyme Was There
+### Part Three: The Feast Day
 
 Years passed in Under-Geat.
 
@@ -8,12 +8,12 @@ She occasionally encountered threats of the forest.
 
 There was the time she heard the rooting before she saw it. The axe slid off her shoulder and she readied it. She saw the earth churned up around the old roots of a tree. The old rhyme arrived before the panic did.
 
-"
+```
 When the forest digs instead of sings,  
 Mind the tusks of woodland kings.
 They pick a line and forward keep,  
 Step aside and let them sweep.
-"
+```
 
 She looked at the torn earth. Fresh. The bark rubbed smooth against an oak. A musky smell drifted on the wind.
 
@@ -60,13 +60,6 @@ Butter.
 "No..."
 
 ---
-Huginn: "It's not butter!"
-
-Muninn: "Don't... do... it"
-
-Huginn: "It's PAR-KAAAY!!!"
-
-_Muninn shook his head._
 
 Huginn: "Do you think Saint Brigid is the saint of margarine too, or does she draw the line at hydrogenated vegetable oil?"
 
@@ -74,7 +67,11 @@ Muninn: "She is associated with miracles concerning butter. But no ecumenical co
 
 _Huginn started scratching on the branch._
 
-Huginn: "'Note to self: Inquire about what it would take to be beatified as the patron saint of oat milk'"
+Huginn: "'Note to self: Beatification... as... patron saint... of oat milk.'"
+
+Huginn looked at his scratchings and tilted his head.
+
+"Muninn, how do you spell 'beatification'?"
 
 ---
 
@@ -395,11 +392,11 @@ He tilted his head.
 
 He wrinkled his nose.
 
-"_Such_ a crude implement. But I do like the spirit. Who knows, a last sprinkling of _hope_ might just be enough flavor to put it over the top. We'll do it your way. You start running. "
+"_Such_ a crude implement. But I do like the spirit. Who knows, a last sprinkling of _hope_ might just be enough flavor to put it over the top. We'll do it your way. You start running."
 
 She picked up the axe anyway. It's all she had.
 
-"You know, redcap. Hope isn't for _flavor_. Hope is what get's your through the night when everything else has turned to ash. And all I see is ash."
+"You know, redcap. Hope isn't for _flavor_. Hope is what gets your through the night when everything else has turned to ash. And all I see is ash."
 
 Fussleton smiled a blood-craving smile.
 
@@ -445,23 +442,13 @@ Elswyth inhaled.
 
 "One."
 
----
-
-Huginn looks at the children with alarm.
-
-Huginn: "Children, now she doesn't die at this time. She is not eaten by the redcap. I only say this because..."
-
-Muninn: "Cah! You're stealing the air, Huginn... Princess Bride, REALLY? I think the children are more worried about you mixing metaphors." 
-
----
-
-"Done."
+_Elswyth smiled._ "Done."
 
 The redcap launched.
 
 Elswyth tossed the axe. Simple. Sideways. She didn't even intend to hit him.
 
-The redcap dodged it. Smiling. Pathetic.
+The redcap dodged it. Smiling. "Pathetic."
 
 Then Elswyth threw something else. Hidden in her hand. Something small. Black. Glassy.
 
@@ -567,33 +554,63 @@ Fussleton stopped for a moment and pleaded.
 
 The invisible forge-elves gathered round the nets.
 
-"He wants a taste!"
+"Let the _royal feast_ commence! His Royal Majesty, _The Spotted King_ wants... _a taste_!"
 
-"Well, let's give him _the taste_!"
+Fussleton was lifted into the air and placed on a nearby stump, held down by the nets. 
 
-The salt horn floated through the air, and danced over his eyes.
+"There, His Majesty is seated before the banquet hall."
 
-"Yes, dance! Make it dance!"
+"Pages! The courses!"
 
-The salt horn danced over his head, dipping and swerving.
+"Bring the King's salt!"
 
-"Does this improve the flavor?"
+"We must cleanse the palate!"
+
+"Mind His Majesty's chin!"
+
+"Open, Your Majesty!"
+
+"No spitting before the court!"
+
+The salt skull floated through the air, and danced over his eyes.
+
+"Does His Majesty prefer one salt skull or two? ... One it is."
 
 An invisible hand found his tongue, and pulled hard. The salt was poured the length of his tongue.
 
-"Oh, Mr. Fussleton sir, would you like the taste of morels, or deathcap?"
+Wooden trenchers drifted from the darkness in solemn procession toward _the throne_.
 
-"Perhaps a spot of fly agaric for an hors d'oeuvre?"
+"The first course! Boiled hedgehog, prepared with over-ripe onions, crisped in the oil of spoiled herring. His Majesty will note that the quills have been carefully preserved to deliver flavor to the tongue most directly."
 
-"I think this particular fungus _hoped_ you would stop by."
+The hedgehog floated toward the throne.
 
-"Oooh, good one!"
+"Open for the first course!"
 
-"Open wide!"
+Invisible hands pried his jaws apart, using the whiskers of his moustache and chin.
 
-"Mind your manners!"
+The hedgehog was pushed snout-first into his mouth.
 
-"No spitting!"
+It did not fit.
+
+"Push harder!"
+
+"It'll fit!"
+
+"...It didn't fit."
+
+He spat the beast back onto the trencher, blood following after it.
+
+"His Majesty must excuse the chef. Next course!"
+
+"A most _unfortunate_ oversight. _A thousand apologies._"
+
+More dishes arrived.
+
+"Second course! Raw eel, stuffed with yesteryear turnips and dandelion stems!"
+
+"Third course! Acorn mash. The acorns were gathered from the oldest leaf litter in Charnwood. The chef was most careful not to disturb the beetles and centipedes."
+
+"Lastly, raw mushrooms for the road."
 
 Elswyth saw mushrooms flying through the air, stuffing themselves into the redcap's toothy maw. He struggled against them, but he was muffled into silence.
 
@@ -601,11 +618,13 @@ He spat one out. Two more were stuffed in.
 
 He murmured. He screamed. But it didn't matter.
 
-Then, she noticed a marten skin, silver, floating through the air as if the wind were carrying it slowly. She dropped the axe and crossed herself. Then she screamed.
+The redcap was lifted into the air. With the nets as handles, the forge-elves led the procession into the wood.
 
-An invisible hand picked up the salt skull and spoon. It followed the invisible procession.
+Then, she noticed a marten skin, silver, floating through the air as if the wind were carrying it slowly. "No...." she whispered. But she dared not intervene.
 
-Finally, the redcap's blade floated into the air. It was tossed, like a hand tossing a knife to another invisible thing, who laid it on a tree stump. A small hammer appeared, wielded by an invisible hand. "Here!" The hammer swung fast and true, hitting just at the join of the handle to the blade. The handle popped off, the blade flying into the Soar. The handle joined them in a line heading back into the wood.
+An invisible hand picked up the empty salt skull and spoon. It followed the invisible procession.
+
+Finally, the redcap's blade floated into the air. It was tossed, like a hand tossing a knife to another invisible thing, who laid it on the tree stump. A small hammer appeared, wielded by an invisible hand. "Here!" The hammer swung fast and true, hitting just at the join of the handle to the blade. The handle popped off, the blade flying into the Soar. The handle joined them in a line heading back into the wood.
 
 The giggles disappeared quickly into the night, just as they had arrived. There was a sudden peace in the air.
 
@@ -619,21 +638,13 @@ Just peace.
 
 The neighbors up the hill crossed themselves in their bed, and drew their bed furs over their eyes. They weren't sure what they had heard from across the Soar, but it must have been another adventure of the _Coaler-Wight_.
 
-The gnome...
+Elswyth reached down and found the Alexander Stone. She stood for a moment, her face reflecting slightly on the glassy surface.
 
-The ropes...
-
-The giggles...
-
-Her marten-skin...
-
-Gone.
-
-She dove into the Soar, frantically trying to reach home. She rushed in, finding her box on the floor. The box lay bare; the pelt was gone. It neatly sat in the center of the ruined hut.
+Elswyth dove into the Soar, frantically trying to reach home. She rushed in, finding her box on the floor. The box lay bare; the pelt was gone. It neatly sat in the center of the ruined hut.
 
 She saw the morning light, and her mind snapped to the present. She knew she had moments before the village rhythm began.
 
-She spent the rest of the morning curled in her sleeping hole, just as she had in the log-hollow on the night of the wolves. She pressed her forehead against the cold, damp earth—the same earth that had just swallowed a monster's knife—and whispered the words she had learned from the priests at the Shadow Gate. They were words taught to use against the _Coaler-Wight_. Against _**her**_. And now, they were her bedrock.
+She spent the rest of the morning curled in her sleeping hole, just as she had in the log-hollow on the night of the wolves. She pressed her forehead against the cold, damp earth and whispered the words she had learned from the priests at the Shadow Gate. They were words taught to use against the _Coaler-Wight_. Against _**her**_. And now, they were her bedrock.
 
 She summoned that spell to memory, and put the raw madness of what she had just seen into it. She rocked back and forth to the rhythm of the chant, almost singing into the dark:
 
@@ -658,18 +669,16 @@ She reached into her pocket, pulled out the Alexander Stone, and placed it firml
 
 ---
 
-Huginn: "Tell me again that wasn't _Mission Impossible_! The agents came and saved her from the bad guy."
+Huginn: "Today we're interviewing Naz T. Cuss, the winner of the Forge-Elf Cooking Challenge. He's the one whose menu was chosen for the Spotted King today."
 
-Muninn: "They were not agents, Huginn. They were the Cynn. They didn't just 'save' her; they needed him for their larger project, remember?"
+Muninn: "Not this again..."
 
-Huginn: "And you see, the stone? It's totally a tactical perimeter alarm. She’s definitely an operative now, brother. She’s got the gear, she’s got the code-names, and she’s got the secret bunker. The giggles were a secret code language. They gave _Agent Meadow-Bud_ her new orders."
+Huginn: "So, Naz, how _did_ you come up with this menu, today?"
 
-Muninn: "She is a traumatized woman in a hole in the ground, Huginn. She is not an operative."
+Huginn-as-Naz: "Well, Huginn, I uh... saw a dead hedgehog on the side of the Road this morning, on the way to work... and uh... decided that if we re-forge it with some spoiled herring and onions... well... everything just came naturally from the moment."
 
-Huginn: "That’s exactly what an operative would say to keep their cover! _'Oh, I'm just a poor coaler, nothing to see here.'_ She’s playing the long game. I bet she’s already planning the sequel."
+Muninn: "You sound nothing like Naz."
 
-Muninn: "The only 'sequel' is the The Night Of Blood, and that's coming on faster than she would like. It's a tragedy that is going to get worse before it gets better."
+Huginn: "You have to admit he made a wonderful menu."
 
-Huginn: "A tragedy with a _very_ cool soundtrack. _Dun-dun, da-da, dun-dun, da-da..._"
-
-Muninn: "If you hum that one more time, I am going to feed your tailfeathers to the next Viking that wanders by. Forcefully."
+Muninn: "Yes. I think _you'd_ call it 'Tuesday night's supper.'"

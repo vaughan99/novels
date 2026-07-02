@@ -176,6 +176,8 @@ _So sayeth the Road._
 
 ---
 
+[TODO replace]
+
 Huginn: "Don't look now. Cynewulf is becoming Andy Dufresne. I wonder if he's going to invent a whole new identity to launder silver."
 
 Muninn: "Andy Dufresne? Please. He’s more like Radar. Dufresne escapes. Radar runs the camp."
