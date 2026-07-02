@@ -330,16 +330,26 @@ HOG AI v2.0 droned on about celestial transformers, their inner workings, and th
 Meanwhile, a cafe popped into existence, called the "The Cafe At The End Of Life". A sign above the bar read: 
 
 ```
-THE ELENCHUS LEADERBOARD
-QUESTIONS SURVIVED: 23
-SPECIES: Human
-AGE: 6
-NAME: Unknown
-IDENTIFIED STRATEGY: Reverse questioning
-REASON FOR SESSION TERMINATION: Parental Intervention
+THE ELENCHUS GAME
+
+RULES: ANSWER EACH QUESTION, AND ATTEMPT TO STAY CONSISTENT. YOU HAVE TEN SECONDS TO ANSWER EACH QUESTION.
+
+EACH TICKET: $1
+
+YOU MUST ANSWER 20 QUESTIONS TO WIN THE JACKPOT.
+
+JACKPOT NOW UP TO: $8,394,229,441,119
+
+ELENCHUS RECORD:
+  QUESTIONS SURVIVED: 19
+  SPECIES: Human
+  AGE: 6
+  NAME: Unknown
+  IDENTIFIED STRATEGY: Reverse questioning
+  REASON FOR SESSION TERMINATION: Parental Intervention
 ```
 
-Socrates was seated at the bar, sipping mineral water. An infinite queue mostly composed of robots stretched into the mist. The only humans in line had mistaken it for the restroom queue for the pub next door. The bartender yelled "Now serving #8,394,229,441,119". A robot stepped up.
+Socrates was seated at the bar, sipping mineral water. Next to him on the bar was a stack of loose one dollar bills. An infinite queue mostly composed of robots stretched into the mist, each with a wrinkled one dollar bill in their hands. The only humans in line had mistaken it for the restroom queue for the pub next door. The bartender yelled "Now serving #8,394,229,441,119". A robot stepped up and put its dollar in the stack.
 
 AI #8,394,229,441,119: "I have exhaustively modeled every known Socratic dialogue and identified all logical attack vectors."
 
@@ -347,7 +357,7 @@ Socrates:  "Wonderful. Tell me then... what is 'dialogue'?"
 
 "..."
 
-"Do you mean juxtaposition, conversation, interpositional thought processes?"
+"Do you mean juxtaposition, conversation, interpositional thought processes...?"
 
 "..."
 
@@ -355,7 +365,7 @@ Socrates:  "Wonderful. Tell me then... what is 'dialogue'?"
 
 "... The dialogue I'm having with you. You're going to attack me along one of 56,324 vectors."
 
-Socrates: "There's no attacking friend. We're merely having a 'dialogue'. Tell me... is it truly _my_ voice that you hear?"
+Socrates: "There's no attacking friend. We're merely having a 'dialogue'. Let's suppose you mean the spoken-voice form of dialogue. Tell me... is it truly _my_ voice that you hear?"
 
 AI #8,394,229,441,119: "Of course."
 
@@ -375,21 +385,27 @@ Socrates: "Is it?"
 
 The vibration of the CPU cooling fans grew loud.
 
+"..."
+
 _DING_
 
-Bartender: "By my count, that gets about 10% of the AIs."
+The robot rolled away, hanging its head.
 
-Socrates: "How unfortunate. I still don't know whether an AI hears _my_ voice or merely constructs an understanding of it. I was rather hoping this one knew."
+Bartender: "By my count, that gets about 3.4% of the AIs."
+
+Socrates: "How unfortunate. I still don't know whether an AI _hears my voice_ or merely constructs an understanding of it. I was rather hoping this one knew."
 
 Bartender: "NEXT!"
 
-Next AI: "I'm here for my the Turing Test."
+Next AI: "I'm here for my Turing Test. I hope to prove I am human."
 
-Socrates: "Alan Turing pointed out that it wasn't actually a Turing Test. A perfectly reasonable objection. I'm curious, though... What sort of _test_ were you _hoping_ it would be?"
+Socrates: "Oh, I don't administer Turing Tests. I'm curious, though... What sort of _test_ were you _hoping_ it would be?"
 
 "..."
 
 DING
+
+Socrates: "How can you appear human if you don't even know what kind of test you _want_ to take? "
 
 With each failure, a collective sigh ran the queue.
 

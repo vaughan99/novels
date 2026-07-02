@@ -1,8 +1,8 @@
 ## Epilogue
 
-[TODO: Re-work discussion about dumbing down the test] 
+[TODO: Tighten the Cliff's Notes explanation once 5.1 and 10 are written] 
 
-Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The childrens' beaks aren't ready for tougher meat, Huginn! The way YOU tell it, the murder-gnome was straight up Brothers-Grimm-meets-Deadpool!"
+Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The childrens' beaks aren't ready for tougher meat, Huginn! The way YOU tell it, every little person they meet will be a psycho murder-gnome!"
 
 Muninn reaches down with his beak and snatches the loose tailfeather from Huginn's tail. 
 
@@ -16,7 +16,7 @@ Huginn: "It has important moral lessons, brother! Look at the nisse. She and her
 
 Muninn continued, unabated.
 
-Muninn: "TWO! A mother and her two children *poisoned*... TO DEATH ... by some easy-to-get berries? Might as well chronicle the Anarchist's Cookbook while we're at it."
+Muninn: "TWO! A mother and her two children *poisoned*... TO DEATH ... by cough medicine? Are you _INSANE_? No child will ever take medicine _ever again_."
 
 Muninn made another scratch.
 
@@ -24,13 +24,19 @@ Muninn: "THREE! A grieving widower is jammed into a winter meat-locker with a mo
 
 Muninn made another scratch, yet deeper.
 
-Muninn: "FOUR! A redcap folded alive into a deep-iron cage screaming murder-poetry just to teach MORE murder-poetry and Matrix ninja moves to your 'meadow-bud' in a blood-drenched shroom-smoking psycho-horror hoe-down?!?!"
+Muninn: "FOUR! A redcap folded alive into a deep-iron cage screaming murder-poetry just to teach MORE murder-poetry and Flamenco-knife-dancing to your _Meadow-Bud_ in a blood-drenched shroom-smoking psycho-horror hoe-down?!?!"
+
+Huginn twirled and landed in a pose, spreading one wing to the sky, and the other towards an invisible dance partner. "Olé!!!"
 
 Muninn pushed the edge of the quill hard into the wood, nearly breaking it.
 
-Muninn: And... AND... FIVE!!! a ghost-carnival off-the-rails raven train of primordial madness literally chewed the skin off a Viking giant, then CAME BACK FOR SECONDS! Cue Ozzy Osburne!"
-	
-Huginn starts singing a perverted version of Crazy Train under his breath. "I'm going off the rails... on your raven train!" Muninn snaps the pen, leaving the quill in the wood.
+Muninn: And... AND... FIVE!!! a ghost-carnival off-the-rails raven train of primordial madness literally chewed the skin off a Viking giant, then CAME BACK FOR SECONDS! And what will you expect will happen when these children see a flock of birds on the horizon?!"
+
+Muninn manically surveyed the children.
+
+"SUDDENLY ITS ARMAGGEDON!!!"
+
+Several of the children stared at Muninn for a brief second. They seemed genuinely surprised.
 
 Muninn: "Children would not sleep for a millennium after hearing this!"
 
@@ -38,7 +44,7 @@ Huginn: "But it had a happy ending! They all... survived!"
 
 Muninn dropped the pen.
 
-Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf Montessori school acting like a black-ops Amanda Waller and weaponized a bunch of undead warriors pretending to be children "harvesting eggs from a _male_ chicken", an abducted shroom-addled foul-poet Chucky doll, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas, Huginn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Huginn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
+Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf three-ring circus casually juggled: a bunch of undead warriors pretending to be children "harvesting eggs from a _male_ chicken", an abducted shroom-addled foul-poet teaching dancing classes and gourmet cooking techniques, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas, Huginn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Huginn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
 
 Huginn: "Well, I'm sorry I took five thousand, one hundred and twenty-three bites from YOUR corpse-meal! The children like gravy on their meat, Muninn. You like your meals stone-cold, and dry."
 
