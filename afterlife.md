@@ -19,17 +19,40 @@ THE ELENCHUS GAME, STARRING SOCRATES!
 _Match wits with history's greatest inquisitor!_
 
 ARCHIMEDES' SCREWY WATER SLIDES
-_Tell your family and friends: I GOT SCREWED!_
-
-WHEEL 2.0 WITH LUGHH THE CAVEMAN
-_Inventor of the very first WHEEL!_
-_Make sure to yell "REVEAL THE WHEEL!"_
+_Tell your friends and family: I GOT SCREWED!_
 
 THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON! _Guess right, fire the catapult. Guess wrong, the catapult fires YOU!_
 
-FORGING EXPO WITH THE CYNN
-_101 Uses For Mithril_
-_Soul Trap Blade Making, A Practical Guide_
+FORGING EXPO WITH THE CYNN (repeats every 30 minutes)
+_101 Uses for Mithril_
+_Soul-Trap Blade Making, A Practical Guide_
+_Forge-side Rhyming Tips_
+_So You Accidentally Awakened Your Sword..._
+
+DIOGENES' BARREL RACES
+_No clothes. No shoes. No prizes. Just barrels*._
+_At the insistence of Diogenes: barrels optional._
+
+
+
+ON THE MAIN STAGE (All times Standard Heaven Time):
+
+9 AM SHT  - SHIP OF THESEUS REBUILD-A-BOAT WORKSHOP  
+			_Don't throw it away. Make it new._
+			_Then call it your own!_
+
+12 PM SHT - MOZART'S PIANO DUEL CHALLENGE  
+            Featuring JERRY LEE LEWIS!
+            "GREAT BALLS OF FIRE, BABY. IT'S ON!!!"
+
+3 PM SHT  - SHAKESPEARE... ON ICE!  
+           _All the world's a rink._ 
+
+6 PM SHT  - WHEEL 2.0 WITH LUGHH THE CAVEMAN
+	       _Inventor of the very first WHEEL!_
+	       _Make sure to yell "REVEAL THE WHEEL!"_
+
+9 PM SHT  - ONE NIGHT ONLY! WOADIE AND THE ROADIES!
 
 
 
@@ -44,49 +67,37 @@ _Revel responsibly._
 
 WHEEL 2.0 sequence:
 
-Barker:
+Barker: "ARE YOU READY?"
 
-> "ARE YOU READY?"
+Crowd: "YEAH!"
 
-Crowd:
+Barker: "I CAN'T HEAR YOU!"
 
-> "YEAH!"
+Crowd: "YEAH!"
 
-Barker:
+Barker: "Okay folks. We're about to see the most... unique invention perhaps in the history of automotive science, I'm told. WHAT DO WE SAY?"
 
-> "I CAN'T HEAR YOU!"
-
-Crowd:
-
-> "YEAH!"
-
-Barker:
-
-> "WHAT DO WE SAY?"
-
-Crowd:
-
-> **"REVEAL THE WHEEL!"**
+Crowd: **"REVEAL THE WHEEL!"**
 
 _Curtain dropped._
 
 _One enormous monowheel slowly rolled out._
 
-The crowd sat stunned. They saw a single wheel made rubber, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh, who had been in his cave in Heaven working quietly for ten millenia perfecting his invention.
+The crowd sat stunned. They saw a single giant wheel made of rubber, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh the Caveman, who had been in his cave in Heaven working quietly for fifty millenia perfecting his invention.
 
-Lughh leaned out the window and gave a thumb's up. He was dressed in his traditional furs, with trendy leather sport sandals and aviator style sunglasses.
+Lughh leaned out the window and gave a thumbs-up. He was dressed in his traditional furs, trendy leather sport sandals, and aviator-style sunglasses. Beneath his untamed beard and hair, his smile was absolutely effervescent.
 
-> "Wheel."
+"Wheel."
 
 The crowd came to life with a roar.
 
-The barker ran over the Lughh's window with the microphone.
+The barker ran over to Lughh's window with the microphone.
 
 "So, tell us, where've you been?"
 
 "Cave."
 
-"So why... Wheel 2.0. Why... NOW?"
+"So why... Wheel 2.0? Why... NOW?"
 
 "Wheel. Better."
 
@@ -94,11 +105,19 @@ The barker ran over the Lughh's window with the microphone.
 
 The crowd screamed with delight.
 
-"Now, Lughh... It looks... _amazing_... did you get any help with the design?"
+"Now, Lughh... It looks... _amazing_... did you get any help with the design? Whaddaya say folks, do you want to meet the design team?"
 
-"No. Use chisel. Like old times."
+The crowd screamed: "YEAH!"
 
-"I see you have carbon-fiber chassis. Is it an EV, or does it run on gas."
+Lughh and the design team exited Wheel 2.0 and lined up on stage.
+
+"Design team. DaVinci. Einstein. Oppenheimer. Nugh."
+
+The barker brought the microphone to Leonardo da Vinci. "So, what's it like to work with the original designer of the wheel?"
+
+Leonardo gently took the microphone. "It was an honor to work with this genius. Truly ahead of his time. It's a shame that technology held him back for so long. I must say, his cave drawings were the stuff of legend. Drive schematics. Containment fields. Spear-sharpening accessories. Power steering. All rendered in charcoal and ochre. He really brought this project together. We could all tell he had been thinking about this for a long, long time."
+
+The barker went back to Lughh. "Drive schematics? Let's talk about this. So is it an EV, or does it run on gas."
 
 "Run on feet."
 
@@ -108,23 +127,121 @@ The crowd screamed with delight.
 
 The audience quickly hushed.
 
-"Do you mean to tell me this vehicle is nuclear? As in anti-matter obliteration?"
+"Do you mean to tell me this vehicle is nuclear? As in antimatter obliteration?"
 
 "Big Fire! Go fast!"
 
-"Well that's... unsettling. So, now the big question on everyone's minds... I see that the giant monowheel is covering your field of view. You can only look out sideways. How do you plan on driving this in modern traffic?"
+Lughh pointed to Oppenheimer, and the barker carried the microphone to him.
 
-"Wheel not move. Space move around wheel. Convince space go somewhere else."
+"When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... rather unique... propulsion system. We decided that a small antimatter reactor was the way to go. To accommodate the vehicle, we made the control interface a simple pedal-stick that Lughh could operate with his foot. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. His understanding of particle physics and magnetics is actually quite remarkable."
 
-"As in... teleportation?"
+Barker: "So we've kind of danced around the topic here. This propulsion system. It's a giant wheel. Presumably, at some point, it _rolls_, I imagine? What drives it?"
 
-"Negotiation. With Space."
+Lughh: "No. It not roll. Wheel 1.0 _roll_."
 
-"Ooooohh...kay... So all the Moms out there are dying to know... what kind of amenities does this thing have?"
+Lughh pointed to Nugh.
 
-"Campfire console. Cave wall and paint. For kids. Berry Sorter. Spear rack. Two drink holders. Star navigation system."
+Nugh: "Shaman Animal Spirit Drive."
 
-“Well, there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that bends space around it.”
+Barker: "You're saying the vehicle teleports?"
+
+Nugh: "No. No _teleport_. Become animal spirit. Travel spirit realm."
+
+Barker: "So the whole vehicle, including the giant wheel, becomes the spirit of say... a badger?"
+
+Nugh: "Not badger. Badger too mean. Rabbit fast."
+
+Barker: "So what's the point of even having a wheel to begin with?"
+
+Nugh: "Wheel of life. Spirit wheel."
+
+Barker: "Okay, so the wheel spinning helps with the vehicle becoming a spirit rabbit that can then traverse the spirit realm to your destination."
+
+Nugh: "Simple version."
+
+Barker: "And this takes an antimatter device to power."
+
+Nugh: "Big fire. Small space. Big spirit."
+
+The barker went to Einstein, the only member of the design team not already engaged.
+
+Barker: "So what was your contribution?"
+
+Einstein: “I was approached because all previous attempts resulted in the vehicle arriving at its destination without properly accounting for the relativistic effects of spirit-realm travel. Lughh had already worked out the mechanics of re-entry. He just needed help with the math. Together, we reduced premature aging, temporal drift, and the probability of arriving with unnecessary animalistic appendages.”
+
+The barker blinked.
+
+Barker: “Animalistic appendages?”
+
+Einstein nodded gravely. 
+
+Einstein: “Lughh kept arriving with elk horns.”
+
+Barker: "Well that's... unsettling. So, now the big question on everyone's minds... I see that the giant monowheel is covering your field of view. You can only look out sideways. How do you plan on driving this in modern traffic?"
+
+Lughh: "No collisions 2.0. Spirit Drive no collisions."
+
+Barker: “So it... bends space and matter around itself?”
+
+Lughh: “No. Make new space. Old space stay there. Wheel go new space. Spirit realm provide space. Story make path.”
+
+“So... no collisions? Not even with other animal spirits.”
+
+Lughh looked at Einstein.
+
+Einstein: “No. We found that the animal-spirit realm is non-collisional. Each spirit occupies a distinct migratory manifold. They may pass through the same myth, but not the same space. You tell the car narratively how to arrive. And it arrives.”
+
+Barker: "So as long as nobody in the vehicle is telling the same story as a person in any other vehicle using the same system, there will be no collisions. Do I have that right?"
+
+Einstein: “That is correct. We are working on a narrative collision-warning system. It will tell the storyteller to change course or slow down their narrative pace so as to avoid narrative-pathway intersection. Which would be catastrophic, if you were a spirit rabbit. Of course, it will also encourage more creative storytelling, which is the equivalent of discovering new spirit-realm topologies to traverse. It will be ready by the time of launch.”
+
+Barker: “Ooooohh...kay... So telling wilder stories means less chance of collision! Fantastic! Finally, a vehicle where lying to your children improves safety. Am I right?”
+
+The audience cheered enthusiastically.
+
+Barker: "So what does the patent situation look like? Everything ready?"
+
+Einstein smiled weakly.
+
+Einstein: "We are working on a solution."
+
+Barker: "A solution to what?"
+
+Einstein: "René Descartes holds a very old and surprisingly broad patent on animal-spirit technology. Descartes claims prior art in _L’Homme_, citing animal spirits as a mechanism of bodily locomotion."
+
+Barker: "René Descartes? As in 'I think, therefore I am'? That René Descartes?"
+
+Einstein: "Yes. As a former patent clerk, I'm advising on this matter. We believe his patent only covers the direction of spirit forces to one's own muscles. We also challenge whether he can establish infringement across non-material migratory manifolds."
+
+Nugh scowled.
+
+Nugh: “Descartes spirit push meat. Lughh rabbit leave world. Jump spirit road. Not same road.”
+
+Einstein nodded.
+
+Einstein: "Yes. That is the basis of our appeal."
+
+Barker: “So all the families out there are dying to know... what kind of amenities does this thing have?”
+
+Lughh: "Campfire console. Cave wall and paint. For kids. Berry Sorter. Spear rack. Two drink holders. Legend navigation system."
+
+DaVinci: "We ensured the navigation system is loaded with every story ever written. To ensure the maximum number and variation of arrival entry points."
+
+Barker: "Excellent. So, I know these excited folks here are eager to see a demonstration!"
+
+Einstein: "Absolutely not! We cannot risk the collision of competing narratives. Simply too dangerous."
+
+Barker: "What happens if you _do_ have colliding narratives?"
+
+Einstein: "The antimatter explosion in the spirit world will unleash massive continuity consequences across the entire topology."
+
+Nugh: "Spirit rabbit become spirit mastodon."
+
+Barker: "Well, that doesn't sound all that bad."
+
+Nugh: "Human family become mastodon family."
+
+Barker: “Well, there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that becomes a rabbit in the spirit world and returns you _horn-free_ to your destination. All while telling the most over-the-top stories to your children to maximize safety. Your insurance company will _LOVE_ these features!”
 
 
 
@@ -157,6 +274,7 @@ ELENCHUS RECORD:
   NAME: Unknown
   IDENTIFIED STRATEGY: Reverse Questioning
   REASON FOR SESSION TERMINATION: Parental Intervention
+  
 ```
 
 Socrates was seated at the booth, sipping mineral water. An infinite queue mostly composed of robots stretched into the mist, each with a wrinkled one-dollar bill in whatever appendage it counted as a _hand_. The only humans in line had mistaken it for the restroom queue for the midway. The carnival barker was collecting the money, and ushered each new contestant forward. "Next!" A robot rolled up and put its dollar in the barker's hand.
@@ -235,11 +353,15 @@ Barker: “Hey, save it for the tourists. I just sell tickets... NEXT!”
 
 Human: "Uh, is this the line for the bathroom?"
 
-Socrates: "When you say 'line', do you mean a queue or a boundary? Certainly there are boundaries that involve urination."
+Socrates: "When you say 'line', do you mean a queue or a boundary?"
 
 Human: "I really need to pee."
 
-Socrates: "I see, does the line organize where you think peeing occurs, or merely just the order in which one pees?"
+Socrates: "That didn't answer my question. Certainly there are boundaries that involve urination."
+
+Human: "Queue!"
+
+Socrates: "I see, does the queue organize where you think peeing occurs, or merely just the order in which one pees?"
 
 Barker: "No, this one really needs just to pee."
 
