@@ -10937,3 +10937,1738 @@ But your ellipsis version is funnier because you can hear him pivot from mutteri
 
 I’d use your version.
 [Timestamp: 2026/07/02 13:20:40]
+
+**user**: Carnival in Heaven:
+
+The Freyr Group Presents:
+
+MARKET FAIRE AND SEASONAL JUBILEE!
+
+All Month in Heaven!
+
+Today's Featured Attractions:
+
+HULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+THE ELENCHUS GAME, STARRING SOCRATES!
+ARCHIMEDES' SCREWY WATER SLIDES
+HISTORY OF FERRIS WHEELS BY LUGHH, THE INVENTOR OF THE WHEEL
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/02 23:39:30]
+
+**ai**: Yes — this is a much better direction for [[afterlife]]. A **Heaven carnival / market faire** gives you an original frame that can absorb absurd set-pieces without relying on modern IP cameos.
+
+This also fits Freyr extremely well:
+
+- abundance
+- fertility
+- fairgrounds
+- seasonal celebration
+- food stalls
+- ridiculous animal attractions
+- prosperous divine commerce
+- “The Freyr Group” as celestial event sponsor
+
+## What works
+
+### “The Freyr Group Presents”
+
+Very funny. It sounds like a divine agrarian god became an event-management conglomerate.
+
+### “Market Faire and Seasonal Jubilee”
+
+This fits Freyr thematically and gives the Afterlife a new organizing structure.
+
+### “All Month in Heaven!”
+
+Great carnival-poster energy. Also funny because Heaven presumably has eternity, but still runs limited-time events.
+
+### Featured attractions
+
+These are all strong:
+
+```markdown
+HULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+```
+
+Very funny if this is Freyr’s golden boar reimagined as a dangerous carnival ride.
+
+```markdown
+THE ELENCHUS GAME, STARRING SOCRATES!
+```
+
+Excellent. The Socrates set-piece now feels like one attraction among many.
+
+```markdown
+ARCHIMEDES' SCREWY WATER SLIDES
+```
+
+This is probably the best title on the sign. “Screwy” does three jobs:
+- Archimedes’ screw
+- water slide mechanics
+- carnival nonsense
+
+```markdown
+HISTORY OF FERRIS WHEELS BY LUGHH, THE INVENTOR OF THE WHEEL
+```
+
+Good joke, though I’d consider whether **LUGHH** is intentionally misspelled/stretched. If it’s meant to be the Celtic deity **Lugh**, I’d probably use:
+
+```markdown
+HISTORY OF FERRIS WHEELS BY LUGH, INVENTOR OF THE WHEEL
+```
+
+Unless the extra **H** is a carnival-sign typo, which could also be funny.
+
+## Suggested poster version
+
+```markdown
+THE FREYR GROUP PRESENTS:
+
+MARKET FAIRE AND SEASONAL JUBILEE!
+
+ALL MONTH IN HEAVEN!
+
+TODAY'S FEATURED ATTRACTIONS:
+
+HULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+
+THE ELENCHUS GAME, STARRING SOCRATES!
+
+ARCHIMEDES' SCREWY WATER SLIDES
+
+A HISTORY OF FERRIS WHEELS
+BY LUGH, INVENTOR OF THE WHEEL
+```
+
+## Tiny naming note
+
+Earlier, the boar name has appeared in different forms. If this is Freyr’s boar, the usual form is **Gullinbursti**. But **Hullinbursti** may be your joke variant, especially if this is a carnival attraction or rebranded ride.
+
+Options:
+
+- **GULLINBURSTI'S "PIG FLIGHT ADVENTURE"**
+	- mythologically clearer
+- **HULLINBURSTI'S "PIG FLIGHT ADVENTURE"**
+	- funnier, more carnival-sign-chaotic
+- **GULLINBURSTI PRESENTS: PIG FLIGHT ADVENTURE**
+	- cleaner if the boar is the attraction mascot
+
+If you want the sign to feel like a slightly incompetent divine amusement park, keep **Hullinbursti**.
+
+## Optional extra attractions
+
+If you want to expand the poster:
+
+```markdown
+WODEN'S RING-TOSS OF INEVITABLE REGRET
+
+THOR'S HAMMER STRENGTH TEST
+ONE SWING! ONE THUNDEROUS LAWSUIT!
+
+THE NORNS' FORTUNE TENT
+NO REFUNDS. YOU ALREADY KNEW THAT.
+
+ST. FRANCIS DE SALES' PUNCTUATION PETTING ZOO
+PLEASE DO NOT FEED THE SEMICOLONS.
+
+THE RAVEN MAZE
+ONE ENTRANCE. TWO CONTRADICTORY EXITS.
+```
+
+## Verdict
+
+This carnival frame is a strong replacement for the IP-heavy Afterlife. It keeps the chaotic comedy, but makes the world feel more yours. The Socrates booth especially fits perfectly as a featured attraction.
+[Timestamp: 2026/07/02 23:39:57]
+
+**user**: Today's Featured Attractions:
+
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+THE ELENCHUS GAME, STARRING SOCRATES!
+ARCHIMEDES' SCREWY WATER SLIDES
+FAMOUS WHEELS THROUGH HISTORY BY LUGHH THE CAVEMAN
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/02 23:41:50]
+
+**ai**: This is better. **“Famous Wheels Through History by Lughh the Caveman”** is much funnier than “Lugh, inventor of the wheel” because it drops the mythological baggage and becomes a dumb carnival educational exhibit.
+
+Also, **Lughh** with two h’s reads like a caveman name/guttural grunt, so it works.
+
+I’d format it like a poster:
+
+```markdown
+TODAY'S FEATURED ATTRACTIONS:
+
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+
+THE ELENCHUS GAME, STARRING SOCRATES!
+
+ARCHIMEDES' SCREWY WATER SLIDES
+
+FAMOUS WHEELS THROUGH HISTORY
+BY LUGHH THE CAVEMAN
+```
+
+## Why these work
+
+- **GULLINBURSTI'S "PIG FLIGHT ADVENTURE"**
+	- Strong mythic-carnival absurdity.
+	- Sounds unsafe in the best way.
+
+- **THE ELENCHUS GAME, STARRING SOCRATES!**
+	- Clear and funny.
+	- “Starring” makes Socrates feel like a midway celebrity.
+
+- **ARCHIMEDES' SCREWY WATER SLIDES**
+	- Excellent pun.
+	- This one is probably the cleanest gag on the list.
+
+- **FAMOUS WHEELS THROUGH HISTORY BY LUGHH THE CAVEMAN**
+	- Great lowbrow contrast after Archimedes and Socrates.
+	- “Famous Wheels Through History” sounds like a sleepy museum exhibit until “Lughh the Caveman” undercuts it.
+
+Tiny option:
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY
+WITH LUGHH THE CAVEMAN
+```
+
+**With** sounds more like a hosted attraction. **By** sounds like Lughh curated the exhibit. Both are funny.
+
+My preference:
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY
+WITH LUGHH THE CAVEMAN
+```
+
+because it sounds more like a carnival marquee.
+[Timestamp: 2026/07/02 23:42:05]
+
+**user**: The Freyr Group Presents:
+
+MARKET FAIRE AND SEASONAL JUBILEE!
+
+All Month in Heaven!
+
+Today's Featured Attractions:
+
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+
+THE ELENCHUS GAME, STARRING SOCRATES!
+
+ARCHIMEDES' SCREWY WATER SLIDES
+
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN
+* Inventor of the very first WHEEL! Take pictures with the Legend! *
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/02 23:43:58]
+
+**ai**: This is working very well. It has exactly the right **divine county fair / commercial Heaven / Freyr-as-event-sponsor** energy.
+
+The only thing I’d adjust is the last line, because in Markdown:
+
+```markdown
+* Inventor of the very first WHEEL! Take pictures with the Legend! *
+```
+
+will likely render as an italicized line if the spacing cooperates, or look a little visually odd. If you want it to appear like a carnival-poster subline, I’d use either italics or parentheses, not asterisks-as-decoration.
+
+## Clean poster version
+
+```markdown
+The Freyr Group Presents:
+
+MARKET FAIRE AND SEASONAL JUBILEE!
+
+All Month in Heaven!
+
+Today's Featured Attractions:
+
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+
+THE ELENCHUS GAME, STARRING SOCRATES!
+
+ARCHIMEDES' SCREWY WATER SLIDES
+
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN
+
+_Inventor of the very first WHEEL! Take pictures with the Legend!_
+```
+
+That’s probably the cleanest.
+
+## More carnival-sign version
+
+```markdown
+The Freyr Group Presents:
+
+MARKET FAIRE AND SEASONAL JUBILEE!
+
+All Month in Heaven!
+
+Today's Featured Attractions:
+
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+
+THE ELENCHUS GAME, STARRING SOCRATES!
+
+ARCHIMEDES' SCREWY WATER SLIDES
+
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN
+
+INVENTOR OF THE VERY FIRST WHEEL!
+TAKE PICTURES WITH THE LEGEND!
+```
+
+This version feels more like actual fairground signage.
+
+## My preferred version
+
+```markdown
+The Freyr Group Presents:
+
+MARKET FAIRE AND SEASONAL JUBILEE!
+
+All Month in Heaven!
+
+Today's Featured Attractions:
+
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+
+THE ELENCHUS GAME, STARRING SOCRATES!
+
+ARCHIMEDES' SCREWY WATER SLIDES
+
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN
+
+_Inventor of the very first WHEEL! Take pictures with the Legend!_
+```
+
+## Why it works
+
+- **The Freyr Group Presents** is a great opener. It makes Freyr feel like the divine CEO of abundance, fairs, food stalls, and questionable attractions.
+- **All Month in Heaven!** is funny because Heaven has eternity, but somehow still has limited-time programming.
+- **Gullinbursti’s Pig Flight Adventure** sounds dangerous, mythic, and lawsuit-prone.
+- **The Elenchus Game, Starring Socrates** now slots perfectly into the carnival.
+- **Archimedes’ Screwy Water Slides** is a very strong pun.
+- **Lughh the Caveman** is excellent lowbrow contrast after Socrates and Archimedes.
+
+I’d keep this. It gives the rewritten [[afterlife]] a strong new frame without leaning on outside IP.
+[Timestamp: 2026/07/02 23:44:16]
+
+**user**: FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN
+_Inventor of the very first WHEEL!_
+_Ride with Lughh on his invention! (Rides and pictures extra)_
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/02 23:45:33]
+
+**ai**: Yes — this is better. The second italic line adds a stronger carnival upsell:
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN  
+_Inventor of the very first WHEEL!_  
+_Ride with Lughh on his invention! (Rides and pictures extra)_
+```
+
+The joke works because it implies the “history exhibit” is really just Lughh charging people to ride a wheel.
+
+## Tiny polish options
+
+### Option 1: Clean and direct
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN  
+_Inventor of the very first WHEEL!_  
+_Ride with Lughh on his invention! Rides and pictures extra._
+```
+
+I slightly prefer this because the parenthetical is less visually cluttered.
+
+### Option 2: More carnival-poster voice
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN  
+_Inventor of the very first WHEEL!_  
+_Ride with Lughh on his invention! Rides and pictures extra!_
+```
+
+More enthusiastic, more sign-like.
+
+### Option 3: Dumber and probably funniest
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN  
+_Inventor of the very first WHEEL!_  
+_Ride with Lughh on his invention! Pictures extra. Brakes not invented yet._
+```
+
+That last sentence is very strong if you want one more caveman-technology gag.
+
+## My pick
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN  
+_Inventor of the very first WHEEL!_  
+_Ride with Lughh on his invention! Pictures extra. Brakes not invented yet._
+```
+
+“Brakes not invented yet” gives the attraction a payoff beyond the upsell. It also fits perfectly with the dangerous carnival vibe.
+[Timestamp: 2026/07/02 23:45:48]
+
+**user**: The Freyr Group Presents:
+
+MARKET FAIRE AND SEASONAL JUBILEE!
+
+All Month in Heaven!
+
+Today's Featured Attractions:
+
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+_Be the first in your family to fly with the pigs!_
+
+THE ELENCHUS GAME, STARRING SOCRATES!
+_Match wits with history's greatest inquisitor!_
+
+ARCHIMEDES' SCREWY WATER SLIDES
+_Tell your family and friends: I GOT SCREWED!_
+
+FAMOUS WHEELS THROUGH HISTORY, WITH LUGHH THE CAVEMAN
+_Inventor of the very first WHEEL!_
+_Ride with Lughh on his invention! Pictures extra. Brakes not invented yet._
+
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: PYTHAGORAS!
+_Ready! Set! SQUASH!_
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/02 23:52:09]
+
+**ai**: This is **excellent**. The carnival frame is now doing exactly what you need: it creates a flexible, original comedy ecosystem where historical/mythic figures can appear as attractions without needing modern IP cameos.
+
+The poster has a strong rhythm:
+
+- Mythic ride
+- Philosophical game
+- Science pun
+- Caveman wheel gag
+- Mathematical violence
+
+That escalation works.
+
+## Best lines
+
+### Gullinbursti
+
+```markdown
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+_Be the first in your family to fly with the pigs!_
+```
+
+Very good. It turns “when pigs fly” into a literal attraction. Clean joke.
+
+### Socrates
+
+```markdown
+THE ELENCHUS GAME, STARRING SOCRATES!
+_Match wits with history's greatest inquisitor!_
+```
+
+Works well. One tiny note: “inquisitor” has some religious/legal baggage, which may or may not be what you want. If you want a lighter carnival tone:
+
+```markdown
+_Match wits with history's most annoying question-asker!_
+```
+
+But your version is classier.
+
+### Archimedes
+
+```markdown
+ARCHIMEDES' SCREWY WATER SLIDES
+_Tell your family and friends: I GOT SCREWED!_
+```
+
+This is probably the strongest attraction gag on the sign. It is dumb, direct, and mechanically tied to Archimedes. Keep.
+
+### Lughh
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY, WITH LUGHH THE CAVEMAN
+_Inventor of the very first WHEEL!_
+_Ride with Lughh on his invention! Pictures extra. Brakes not invented yet._
+```
+
+This is great. **“Brakes not invented yet”** is the payoff that makes the whole Lughh attraction work.
+
+Tiny style note: I’d probably remove the comma after “History”:
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN
+```
+
+It reads more like a poster headline.
+
+### Catapult Games
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: PYTHAGORAS!
+_Ready! Set! SQUASH!_
+```
+
+This is funny, but I think it can be pushed slightly harder because Pythagoras suggests geometry/triangles/trajectories. “Ready! Set! SQUASH!” is good physical comedy, but you might get an extra layer with a geometry pun.
+
+Possible alternatives:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: PYTHAGORAS!
+_Come for the angles. Stay for the impact._
+```
+
+or:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: PYTHAGORAS!
+_Hypotenuse? More like hyper-to-lose!_
+```
+
+or:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: PYTHAGORAS!
+_Ready! Set! SQUASH! Complimentary theorem with every launch._
+```
+
+My preferred version keeps yours and adds one small mathematical button:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: PYTHAGORAS!
+_Ready! Set! SQUASH! Complimentary theorem with every launch._
+```
+
+## Suggested polished poster
+
+```markdown
+The Freyr Group Presents:
+
+MARKET FAIRE AND SEASONAL JUBILEE!
+
+All Month in Heaven!
+
+Today's Featured Attractions:
+
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"  
+_Be the first in your family to fly with the pigs!_
+
+THE ELENCHUS GAME, STARRING SOCRATES!  
+_Match wits with history's greatest inquisitor!_
+
+ARCHIMEDES' SCREWY WATER SLIDES  
+_Tell your family and friends: I GOT SCREWED!_
+
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN  
+_Inventor of the very first WHEEL!_  
+_Ride with Lughh on his invention! Pictures extra. Brakes not invented yet._
+
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: PYTHAGORAS!  
+_Ready! Set! SQUASH! Complimentary theorem with every launch._
+```
+
+## Verdict
+
+This is a keeper. It feels funny, original, and structurally useful. The carnival poster can now serve as the entryway into multiple set-pieces, with the Elenchus Game as one highlighted booth rather than a random aside.
+[Timestamp: 2026/07/02 23:52:32]
+
+**user**: Would it be funnier if Isaac Newton held the catapult games? Any other greek inventors?
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/02 23:53:56]
+
+**ai**: Yes — **Isaac Newton might be funnier for the Catapult Games**, because catapults are basically a slapstick demonstration of gravity, arcs, force, and impact.
+
+Pythagoras is funny for geometry, but Newton is funnier for **things falling on people**.
+
+## Best choice for Catapult Games
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!
+_Gravity: It's not just for apples anymore._
+```
+
+That’s probably stronger than Pythagoras.
+
+Other Newton taglines:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!
+_What goes up must come down. Usually on Lughh._
+```
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!
+_Testing gravity so you don't have to._
+```
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!
+_Ready! Set! SQUASH! Now with measurable acceleration._
+```
+
+My favorite:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!
+_What goes up must come down. Usually on Lughh._
+```
+
+That ties it back to the carnival sign and makes the attractions feel connected.
+
+## But if you want to keep it Greek
+
+There are definitely better Greek candidates than Pythagoras for catapults/inventions.
+
+### Archimedes
+
+Historically and comedically, **Archimedes** is the best Greek inventor for siege engines, levers, pulleys, and general “I can move the world if you give me a long enough stick” nonsense.
+
+But you already have:
+
+```markdown
+ARCHIMEDES' SCREWY WATER SLIDES
+```
+
+So he may be busy.
+
+Still, this would be very funny:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ARCHIMEDES!
+_Give me a lever long enough, and I shall void your liability waiver._
+```
+
+Or:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ARCHIMEDES!
+_Come for the leverage. Stay for the screaming._
+```
+
+### Hero of Alexandria
+
+**Hero of Alexandria** is a great choice if you want a Greek inventor with gadgets, pneumatics, automata, steam devices, vending machines, temple doors, and general mad-engineer energy.
+
+For a carnival, Hero may be perfect.
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: HERO OF ALEXANDRIA!
+_Automated launches every hour. Consent mechanically implied._
+```
+
+Or:
+
+```markdown
+HERO OF ALEXANDRIA'S SELF-LOADING CATAPULT GAMES!
+_No operator. No mercy. No refunds._
+```
+
+This might be the funniest Greek-inventor version because Hero’s whole vibe is “ancient engineer accidentally invents theme-park hazards.”
+
+### Ctesibius
+
+**Ctesibius** was associated with pneumatics, hydraulics, water organs, pumps, and mechanical devices. Good for pressure-powered attractions.
+
+```markdown
+CTESIBIUS' HIGH-PRESSURE CATAPULT GAMES!
+_Air-powered fun for the whole family. Ear protection sold separately._
+```
+
+This is funny, but less recognizable than Archimedes or Newton.
+
+### Dionysius of Alexandria / Biton
+
+There are ancient sources on siege engines, but these names are much more obscure. Probably not worth it unless the joke is that nobody knows who they are.
+
+```markdown
+BITON'S AUTHENTIC GREEK SIEGE ENGINE EXHIBIT!
+_You won't know who he is, but you'll know where you landed._
+```
+
+Funny, but probably too niche.
+
+## Best overall options
+
+### Funniest mainstream version
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!
+_What goes up must come down. Usually on Lughh._
+```
+
+### Best Greek inventor version
+
+```markdown
+HERO OF ALEXANDRIA'S SELF-LOADING CATAPULT GAMES!
+_No operator. No mercy. No refunds._
+```
+
+### Best if you want historical siege-engine relevance
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ARCHIMEDES!
+_Give me a lever long enough, and I shall void your liability waiver._
+```
+
+## My recommendation
+
+Use **Newton** for the Catapult Games.
+
+He is more immediately recognizable, and gravity is the obvious punchline. Then keep Archimedes on the water slides, because “Screwy Water Slides” is too good to lose.
+
+Final version:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!
+_What goes up must come down. Usually on Lughh._
+```
+[Timestamp: 2026/07/02 23:54:21]
+
+**user**: THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON! _Was that an apple, or a 100lb boulder? Impress your friends. Scare you enemies._
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/02 23:56:49]
+
+**ai**: Yes — Newton is funnier here than Pythagoras. This has a better immediate slapstick connection: apple → gravity → boulder → catapult.
+
+Main fix: **“Scare you enemies” → “Scare your enemies.”**
+
+Polished version:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Was that an apple, or a 100-lb boulder? Impress your friends. Scare your enemies._
+```
+
+A few punchier variants:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Was that an apple, or a 100-lb boulder? Either way, gravity wins._
+```
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Was that an apple, or a 100-lb boulder? Impress your friends. Terrify your enemies._
+```
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_From apples to artillery: gravity has range._
+```
+
+My favorite version is probably:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Was that an apple, or a 100-lb boulder? Impress your friends. Terrify your enemies._
+```
+
+“Terrify” is a little stronger and more carnival-poster dramatic than “scare.”
+[Timestamp: 2026/07/02 23:57:02]
+
+**user**: THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON! _Was that an apple, or a 500lb boulder? Do you have it what it takes?_
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 00:00:13]
+
+**ai**: Yes, this is stronger with **500lb** than **100lb** — more absurd, more carnival-dangerous.
+
+Tiny fix:
+
+- **“Do you have it what it takes?”** → **“Do you have what it takes?”**
+- **“500lb”** → **“500-lb”** or **“500-pound”**
+
+Best version:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Was that an apple, or a 500-lb boulder? Do you have what it takes?_
+```
+
+Even punchier:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Was that an apple, or a 500-lb boulder? Step right up and find out what gravity thinks of you._
+```
+
+Or more carnival-sign direct:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Was that an apple, or a 500-lb boulder? Do you have what it takes to come back down?_
+```
+
+My pick:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Was that an apple, or a 500-lb boulder? Step right up and find out what gravity thinks of you._
+```
+[Timestamp: 2026/07/03 00:00:27]
+
+**user**: THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON! _Guess right, fire the catapult. Guess wrong, the catapult fires YOU!_
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 00:01:15]
+
+**ai**: This is the best version so far. Much cleaner, much more carnival-game, and the reversal is immediate.
+
+I’d use it almost exactly:
+
+```markdown
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Guess right, fire the catapult. Guess wrong, the catapult fires YOU!_
+```
+
+Why it works:
+
+- Simple rule.
+- Clear stakes.
+- Newton/gravity connection is implied without overexplaining.
+- “fires YOU” is a strong poster punchline.
+- It feels like a legally questionable midway attraction, which is exactly the vibe.
+
+Tiny optional variant:
+
+```markdown
+_Guess right, fire the catapult. Guess wrong, get fired by the catapult!_
+```
+
+But your version is sharper. Keep:
+
+```markdown
+_Guess wrong, the catapult fires YOU!_
+```
+[Timestamp: 2026/07/03 00:01:39]
+
+**user**: GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+_Be the first in your family, or anybody, to fly with the pigs!_
+
+THE ELENCHUS GAME, STARRING SOCRATES!
+_Match wits with history's greatest inquisitor!_
+
+ARCHIMEDES' SCREWY WATER SLIDES
+_Tell your family and friends: I GOT SCREWED!_
+
+FAMOUS WHEELS THROUGH HISTORY, WITH LUGHH THE CAVEMAN
+_Inventor of the very first WHEEL!_
+_Ride with Lughh on his invention! Pictures extra. Brakes not invented yet._
+
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON! _Guess right, fire the catapult. Guess wrong, the catapult fires YOU!_
+
+FORGING EXPO WITH THE CYNN
+_101 Uses For Mithril_
+_Soul Trap Blade Making, A Practical Guide_
+
+DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURIUS
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 00:06:19]
+
+**ai**: This poster is really coming together. The attractions now feel like a coherent divine carnival instead of a list of disconnected gags.
+
+I’d make only a few polish tweaks.
+
+## Strongest version
+
+```markdown
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"  
+_Be the first in your family — or anybody's — to fly with the pigs!_
+
+THE ELENCHUS GAME, STARRING SOCRATES!  
+_Match wits with history's greatest inquisitor!_
+
+ARCHIMEDES' SCREWY WATER SLIDES  
+_Tell your family and friends: I GOT SCREWED!_
+
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN  
+_Inventor of the very first WHEEL!_  
+_Ride with Lughh on his invention! Pictures extra. Brakes not invented yet._
+
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON!  
+_Guess right, fire the catapult. Guess wrong, the catapult fires YOU!_
+
+FORGING EXPO WITH THE CYNN  
+_101 Uses for Mithril_  
+_Soul-Trap Blade Making: A Practical Guide_
+
+DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURUS!
+```
+
+## Notes
+
+- **“Be the first in your family, or anybody”** is funny but slightly clunky. I’d use:
+
+```markdown
+_Be the first in your family — or anybody's — to fly with the pigs!_
+```
+
+That makes the impossibility joke clearer.
+
+- I’d remove the comma in:
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY, WITH LUGHH THE CAVEMAN
+```
+
+Use:
+
+```markdown
+FAMOUS WHEELS THROUGH HISTORY WITH LUGHH THE CAVEMAN
+```
+
+It reads more like a carnival marquee.
+
+- The Newton catapult line is perfect. Keep it.
+
+- **FORGING EXPO WITH THE CYNN** is a great addition because it ties the carnival back into your central mythic machinery. The two sub-attractions are funny in different ways:
+	- _101 Uses for Mithril_ = trade-show seminar
+	- _Soul-Trap Blade Making: A Practical Guide_ = wildly alarming workshop title
+
+- I’d use **Epicurus** unless **Epicurius** is an intentional joke-name. If you want the food-tent pun to hit harder, you could use:
+
+```markdown
+DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURUS!
+_Eat, drink, and be moderately reasonable._
+```
+
+Or, if you want a more carnival-commercial version:
+
+```markdown
+DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURUS!
+_Pleasure, but responsibly portioned._
+```
+
+## Best added food tent gag
+
+My favorite ending for the poster would be:
+
+```markdown
+DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURUS!  
+_Pleasure, but responsibly portioned._
+```
+
+That gives the sign one last philosophical joke while staying in carnival mode.
+[Timestamp: 2026/07/03 00:06:37]
+
+**user**: DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURIUS
+_Revel Responsibly_
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 00:08:29]
+
+**ai**: Yes — that’s a good food-tent button.
+
+```markdown
+DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURIUS  
+_Revel Responsibly_
+```
+
+It works because it sounds like a modern alcohol/event disclaimer grafted onto ancient philosophy.
+
+Tiny note: if this is meant to be the historical philosopher, the usual spelling is **Epicurus**. But **Epicurius** sounds more like a carnival/vendor version of him — slightly more Roman, slightly more brand-name — so it may actually be funnier on the sign.
+
+If you want to make the joke even clearer:
+
+```markdown
+DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURIUS  
+_Pleasure in moderation. Funnel cakes excluded._
+```
+
+But **_Revel Responsibly_** is cleaner and poster-friendly. I’d keep it.
+[Timestamp: 2026/07/03 00:08:40]
+
+**user**: DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURUS IN HIS RAP-STAR IDENTITY "EPIC-CURIOUS"
+_Revel Responsibly. KNOW WHAT I'M SAYIN?_
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 00:11:38]
+
+**ai**: This is funny, but it may be **slightly too busy** for the poster. The joke has three layers:
+
+- Epicurus
+- rapper alter ego: **Epic-Curious**
+- fake responsible-revelry slogan
+
+That’s good, but the headline is doing a lot of explaining.
+
+## Current
+
+```markdown
+DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURUS IN HIS RAP-STAR IDENTITY "EPIC-CURIOUS"
+_Revel Responsibly. KNOW WHAT I'M SAYIN?_
+```
+
+The funniest part is absolutely:
+
+```markdown
+"EPIC-CURIOUS"
+```
+
+That is a strong pun.
+
+## Cleaner version
+
+```markdown
+DON'T FORGET TO STOP BY THE FOOD TENTS, RUN BY EPICURUS AS "EPIC-CURIOUS"  
+_Revel responsibly. Know what I'm sayin'?_
+```
+
+This keeps the joke but makes the sign easier to read.
+
+## More carnival-poster version
+
+```markdown
+FOOD TENTS BY EPICURUS, PERFORMING AS "EPIC-CURIOUS"  
+_Revel responsibly. Know what I'm sayin'?_
+```
+
+This is probably my favorite. “Performing as” makes the rap identity clear without overexplaining.
+
+## If you want it dumber
+
+```markdown
+FOOD TENTS BY EPICURUS, AKA "EPIC-CURIOUS"  
+_Revel responsibly. Know what I'm sayin'?_
+```
+
+Short, dumb, readable.
+
+## My pick
+
+```markdown
+FOOD TENTS BY EPICURUS, PERFORMING AS "EPIC-CURIOUS"  
+_Revel responsibly. Know what I'm sayin'?_
+```
+
+It has the best rhythm and still sounds like a carnival/event poster.
+[Timestamp: 2026/07/03 00:11:57]
+
+**user**: would it be funnier if it was a different kind of event? Pie-eating perhaps?
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 00:13:39]
+
+**ai**: Yes — **pie-eating is probably funnier** than the rap-star identity.
+
+The rap version is a good pun, but it adds a modern persona layer that may pull the poster sideways. A pie-eating contest keeps the joke inside the carnival/food/fairground frame and connects more directly to Epicurus: pleasure, appetite, moderation, and then immediately violating moderation with competitive pie.
+
+## Best version
+
+```markdown
+EPICURUS' PIE-EATING CONTEST  
+_Revel responsibly. First to regret pleasure wins._
+```
+
+That’s very clean.
+
+## Other strong options
+
+```markdown
+EPICURUS' MODERATE PIE-EATING CONTEST  
+_First prize awarded to whoever stops before they want to._
+```
+
+This is probably the most philosophically pointed.
+
+```markdown
+EPICURUS' RESPONSIBLE PIE-EATING CONTEST  
+_All the pleasure. None of the wisdom._
+```
+
+Good and short.
+
+```markdown
+EPICURUS' ALL-YOU-CAN-REASONABLY-EAT PIE TENT  
+_Revel responsibly._
+```
+
+This is very funny because “all-you-can-reasonably-eat” is an excellent Epicurean compromise.
+
+```markdown
+EPICURUS' PIE-EATING CONTEST  
+_The winner is whoever enjoyed it correctly._
+```
+
+Very Socratic/Epicurean absurdity.
+
+```markdown
+EPICURUS' PIE-EATING CONTEST  
+_No gluttony. No asceticism. Just pie._
+```
+
+This one is probably the most actually Epicurean.
+
+## My favorite
+
+```markdown
+EPICURUS' ALL-YOU-CAN-REASONABLY-EAT PIE TENT  
+_No gluttony. No asceticism. Just pie._
+```
+
+It’s funny, concise, and keeps the philosophical joke intact.
+
+## If you want it more carnival-poster
+
+```markdown
+EPICURUS' ALL-YOU-CAN-REASONABLY-EAT PIE TENT!  
+_Revel responsibly. Pictures with the surviving contestants extra._
+```
+
+## Verdict
+
+Yes: make it a food/carnival event rather than a rap identity. The **“Epic-Curious”** pun is cute, but **Epicurus running a moderation-themed pie-eating contest** is more integrated, more original, and funnier in context.
+[Timestamp: 2026/07/03 00:13:57]
+
+**user**: How about
+
+Epicurus' All-You-Can't-Eat Buffet
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 00:17:05]
+
+**ai**: Yes — **Epicurus’ All-You-Can’t-Eat Buffet** is very funny.
+
+It’s short, poster-readable, and the contradiction does all the work. It sounds like a carnival food attraction designed by someone who believes pleasure is good, but overindulgence is bad.
+
+I’d use:
+
+```markdown
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_Revel responsibly._
+```
+
+A few possible taglines:
+
+```markdown
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_Pleasure in moderation. Seconds by philosophical approval only._
+```
+
+```markdown
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_Stop when you're happy. Not when you're full._
+```
+
+```markdown
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_No gluttony. No asceticism. Just enough pie._
+```
+
+```markdown
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_Revel responsibly. Regret costs extra._
+```
+
+My favorite:
+
+```markdown
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_Stop when you're happy. Not when you're full._
+```
+
+But if you want the cleanest poster joke:
+
+```markdown
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_Revel responsibly._
+```
+[Timestamp: 2026/07/03 00:17:17]
+
+**user**: DON'T FORGET, IF YOU'RE PECKISH:
+
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET
+_Revel responsibly._
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 00:18:34]
+
+**ai**: Yes — that’s a strong poster closer. **“If you’re peckish”** makes it feel very fairground-sign casual, and **All-You-Can’t-Eat Buffet** is the cleanest Epicurus joke so far.
+
+I’d use:
+
+```markdown
+DON'T FORGET, IF YOU'RE PECKISH:
+
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_Revel responsibly._
+```
+
+Tiny optional variants:
+
+```markdown
+DON'T FORGET, IF YOU'RE FEELING PECKISH:
+
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_Revel responsibly._
+```
+
+or:
+
+```markdown
+PECKISH?
+
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET  
+_Revel responsibly._
+```
+
+But your version has a nice carnival-program voice. Keep it.
+[Timestamp: 2026/07/03 00:18:45]
+
+**user**: Ok here's another set-piece:
+
+WHEEL 2.0 sequence:
+
+Barker:
+
+> "ARE YOU READY?"
+
+Crowd:
+
+> "YEAH!"
+
+Barker:
+
+> "I CAN'T HEAR YOU!"
+
+Crowd:
+
+> "YEAH!"
+
+Barker:
+
+> "WHAT DO WE SAY?"
+
+Crowd:
+
+> **"REVEAL THE WHEEL!"**
+
+_Curtain dropped._
+
+_One enormous monowheel slowly rolled out._
+
+The crowd sat stunned. They saw a single wheel made rubber, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh, who had been in his cave in Heaven working quietly for ten millenia perfecting his invention.
+
+Lughh leaned out the window and gave a thumb's up. He was dressed in his traditional furs, with trendy leather sport sandals and aviator style sunglasses.
+
+> "Wheel."
+
+The crowd came to life with a roar.
+
+The barker ran over the Lughh's window with the microphone.
+
+"So, tell us, where've you been?"
+
+"Cave."
+
+"So why... Wheel 2.0. Why... NOW?"
+
+"Wheel. Better."
+
+"Yes, we can see it's better, CAN'T WE?"
+
+The crowd screamed with delight.
+
+"Now, Lughh... It looks... _amazing_... did you get any help with the design?"
+
+"No. Use chisel. Like old times."
+
+"I see you have carbon-fiber chassis. Is it an EV, or does it run on gas."
+
+"Run on feet."
+
+"I see, so you have a hamster wheel inside?" He laughed at the audience, and they laughed along with him.
+
+"No, feet push sticks. Sticks make anti-matter. Big fire inside."
+
+The audience quickly hushed.
+
+"Do you mean to tell me this vehicle is nuclear? As in anti-matter obliteration?"
+
+"Big Fire! Go fast!"
+
+"Well that's... unsettling. So, now the big question on everyone's minds... I see that the giant monowheel is covering your field of view. You can only look out sideways. How do you plan on driving this in modern traffic?"
+
+"Wheel not move. Space move around wheel. Convince space go somewhere else."
+
+"As in... teleportation?"
+
+"Negotiation. With Space."
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 01:14:14]
+
+**ai**: This is **very funny** and very much worth keeping. Lughh is becoming one of the best carnival characters because he has a perfect comic engine:
+
+- Caveman simplicity.
+- Absurd genius.
+- Total confidence.
+- Terrifying engineering.
+- One-word answers that imply impossible physics.
+
+The ending line:
+
+> “Negotiation. With Space.”
+
+is excellent. That should probably be the button of the set-piece.
+
+## What works best
+
+The reveal sequence is strong:
+
+```markdown
+Crowd:
+
+> **"REVEAL THE WHEEL!"**
+
+_Curtain dropped._
+
+_One enormous monowheel slowly rolled out._
+```
+
+That’s a great carnival-tech unveil. It feels like a divine auto show run by lunatics.
+
+Lughh’s first line is also perfect:
+
+```markdown
+> "Wheel."
+```
+
+Keep that exactly. It’s the essence of the character.
+
+The progression is very good:
+
+- Wheel 1.0: wheel.
+- Wheel 2.0: monowheel SUV.
+- Power source: feet.
+- Actually: feet push sticks.
+- Sticks make antimatter.
+- Driving method: space negotiation.
+
+That escalation works.
+
+## Best exchange
+
+This is the strongest stretch:
+
+```markdown
+"No, feet push sticks. Sticks make anti-matter. Big fire inside."
+
+The audience quickly hushed.
+
+"Do you mean to tell me this vehicle is nuclear? As in anti-matter obliteration?"
+
+"Big Fire! Go fast!"
+```
+
+That is excellent. The barker realizing this is no longer a cute caveman bit but a catastrophic physics event is very funny.
+
+## Suggested polish
+
+Mostly grammar and tightening:
+
+- “made rubber” → “made of rubber”
+- “driver seat” → “driver’s seat”
+- “thumb's up” → “thumbs-up”
+- “ten millenia” → “ten millennia”
+- “aviator style” → “aviator-style”
+- “ran over the Lughh's window” → “ran over to Lughh’s window”
+- “field of view” maybe “forward field of view”
+- “anti-matter” is often “antimatter,” unless you prefer the hyphen visually
+
+## Polished version
+
+```markdown
+Barker:
+
+> “ARE YOU READY?”
+
+Crowd:
+
+> “YEAH!”
+
+Barker:
+
+> “I CAN’T HEAR YOU!”
+
+Crowd:
+
+> “YEAH!”
+
+Barker:
+
+> “WHAT DO WE SAY?”
+
+Crowd:
+
+> **“REVEAL THE WHEEL!”**
+
+_Curtain dropped._
+
+_One enormous monowheel slowly rolled out._
+
+The crowd sat stunned. They saw a single wheel made of rubber, approximately the width of a car. Inside it, suspended, was the body of a sport SUV made completely of futuristic carbon fiber. In the driver’s seat was the original inventor of the wheel, Lughh, who had been in his cave in Heaven working quietly for ten millennia, perfecting his invention.
+
+Lughh leaned out the window and gave a thumbs-up. He was dressed in his traditional furs, with trendy leather sport sandals and aviator-style sunglasses.
+
+> “Wheel.”
+
+The crowd came to life with a roar.
+
+The barker ran over to Lughh’s window with the microphone.
+
+“So, tell us, where’ve you been?”
+
+“Cave.”
+
+“So why... Wheel 2.0? Why... now?”
+
+“Wheel. Better.”
+
+“Yes, we can see it’s better, CAN’T WE?”
+
+The crowd screamed with delight.
+
+“Now, Lughh... it looks... _amazing_... did you get any help with the design?”
+
+“No. Use chisel. Like old times.”
+
+“I see you have a carbon-fiber chassis. Is it an EV, or does it run on gas?”
+
+“Run on feet.”
+
+“I see, so you have a hamster wheel inside?” He laughed at the audience, and they laughed along with him.
+
+“No. Feet push sticks. Sticks make antimatter. Big fire inside.”
+
+The audience quickly hushed.
+
+“Do you mean to tell me this vehicle is nuclear? As in antimatter obliteration?”
+
+“Big Fire! Go fast!”
+
+“Well, that’s... unsettling. So now, the big question on everyone’s minds... I see that the giant monowheel is covering your forward field of view. You can only look out sideways. How do you plan on driving this in modern traffic?”
+
+“Wheel not move. Space move around wheel. Convince space go somewhere else.”
+
+“As in... teleportation?”
+
+“Negotiation. With Space.”
+```
+
+## One possible punch-up
+
+If you want the barker to realize he is losing control even earlier:
+
+```markdown
+“Run on feet.”
+
+“I see, so you have a hamster wheel inside?”
+
+“No. Feet push sticks. Sticks make antimatter. Big fire inside.”
+
+The barker stopped smiling.
+
+The crowd stopped chewing.
+```
+
+“The crowd stopped chewing” is a very carnival-specific reaction and might be funnier than “quickly hushed.”
+
+## Another possible button after “Negotiation. With Space.”
+
+I would mostly stop at “Negotiation. With Space.” But if you want one final Lughh beat:
+
+```markdown
+“As in... teleportation?”
+
+“Negotiation. With Space.”
+
+“Does Space usually agree?”
+
+Lughh slowly lowered his sunglasses.
+
+“Eventually.”
+```
+
+That’s funny, but it may over-explain. The cleaner ending is probably:
+
+> “Negotiation. With Space.”
+
+## Verdict
+
+This is a keeper. Lughh has a very strong voice, and the set-piece fits the carnival perfectly. The best thing about it is that it starts as a dumb “caveman invented wheel” joke and escalates into impossible cosmic engineering while Lughh remains completely deadpan.
+[Timestamp: 2026/07/03 01:14:42]
+
+**user**: "Ooooohh...kay... So all the Moms out there are dying to know... what kind of amenities does this thing have?"
+
+"Campfire console. Cave wall and paint. For kids. Berry Sorter. Spear rack. Two drink holders."
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 01:18:42]
+
+**ai**: Yes — this is a great add-on because it grounds the impossible physics in absurdly primitive SUV amenities.
+
+The best part is:
+
+> “Two drink holders.”
+
+That’s a perfect modern-car-review punchline after “spear rack.”
+
+I’d polish it slightly:
+
+```markdown
+“Ooooohh...kay... So all the moms out there are dying to know... what kind of amenities does this thing have?”
+
+“Campfire console. Cave wall and paint. For kids. Berry sorter. Spear rack. Two drink holders.”
+```
+
+## Why it works
+
+- **“all the moms out there”** turns the reveal into a family-vehicle sales pitch.
+- **“Campfire console”** is excellent: primitive but phrased like a luxury trim feature.
+- **“Cave wall and paint. For kids.”** is very funny: prehistoric rear-seat entertainment system.
+- **“Berry sorter”** sounds like a bizarre family convenience feature.
+- **“Spear rack”** is perfect caveman practicality.
+- **“Two drink holders”** is the closer because it is the most normal feature.
+
+## Tiny punch-up options
+
+If you want it to sound even more like an SUV ad:
+
+```markdown
+“Ooooohh...kay... So all the moms out there are dying to know... what kind of amenities does this thing have?”
+
+“Campfire console. Cave wall and paint. For kids. Berry sorter. Spear rack. Two drink holders. Three if skull empty.”
+```
+
+Or:
+
+```markdown
+“Campfire console. Cave wall and paint. For kids. Berry sorter. Spear rack. Two drink holders. Front-facing mammoth warning.”
+```
+
+Or more understated:
+
+```markdown
+“Campfire console. Cave wall and paint. For kids. Berry sorter. Spear rack. Two drink holders.”
+
+The barker nodded gravely.
+
+“Family package. Very nice.”
+```
+
+My favorite addition would be:
+
+```markdown
+The barker nodded gravely.
+
+“Family package. Very nice.”
+```
+
+It lets the absurdity breathe without overloading Lughh’s line.
+[Timestamp: 2026/07/03 01:18:57]
+
+**user**: The thought of a carbon-fiber chassis SUV with a campfire-on-demand and cave-wall paintings is just a killer
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 01:20:20]
+
+**ai**: Absolutely. It’s a killer image because it fuses three incompatible design languages:
+
+- prehistoric cave life
+- luxury family SUV marketing
+- impossible futuristic supermaterial engineering
+
+That contrast is gold.
+
+The best part is that Lughh doesn’t see a contradiction. To him:
+
+- carbon-fiber chassis = obvious wheel improvement
+- antimatter engine = sticks made better
+- campfire console = standard comfort feature
+- cave-wall painting kit = rear-seat entertainment
+- spear rack = safety/storage
+- two drink holders = luxury trim
+
+It’s absurd, but internally coherent.
+
+A line like this could really sell the image:
+
+```markdown
+Inside the carbon-fiber cabin, a small smokeless campfire crackled in the center console, while the rear doors had been fitted with washable cave-wall panels for the children to paint during long migrations.
+```
+
+Or more sales-brochure:
+
+```markdown
+The interior featured a campfire-on-demand console, washable cave-wall panels for the children, a berry sorter, a spear rack, and two drink holders, making it the first family vehicle designed for both school runs and late-Pleistocene survival.
+```
+
+Or barker-style:
+
+```markdown
+“Folks, you are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders!”
+```
+
+That last one might be the funniest if the barker starts trying to recover the crowd by turning Lughh’s terrifying invention back into a sales pitch.
+[Timestamp: 2026/07/03 01:20:40]
+
+**user**: "Well, there you have it folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that bends space around it."
+
+The barker put his hand over the microphone. "How many pets were tested inside?" he whispered.
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 01:24:16]
+
+**ai**: Yes — this is excellent. The barker trying to resume the sales pitch, then privately asking about animal testing, is a strong escalation.
+
+The final whispered line is especially good:
+
+> “How many pets were tested inside?”
+
+It implies the monowheel’s safety record is horrifying without stating it.
+
+## Polished version
+
+```markdown
+“Well, there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that bends space around it.”
+
+The barker put his hand over the microphone. “How many pets were tested inside?” he whispered.
+```
+
+Tiny edits:
+
+- Added comma after **there you have it**
+- Added comma before **folks**
+- Kept **antimatter stick-drive** because it is very funny
+- Kept the pause before **giant monowheel**
+- The whispered pet line is perfect
+
+## Optional Lughh response
+
+If you want one more deadpan button:
+
+```markdown
+“Define pets,” Lughh whispered back.
+```
+
+or:
+
+```markdown
+Lughh thought for a moment.
+
+“Inside?”
+```
+
+or:
+
+```markdown
+Lughh held up three fingers, then reconsidered and held up both hands.
+```
+
+My favorite:
+
+```markdown
+Lughh whispered back, “Before or after space negotiation?”
+```
+
+But honestly, the barker’s whispered question may be funnier if left unanswered. It lets the reader imagine the answer.
+[Timestamp: 2026/07/03 01:24:30]
+
+**user**: “Well, there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that bends space around it.” The barker put his hand over the microphone.
+
+“How many pets were tested inside?” he whispered.
+
+"Two."
+
+"Dogs?"
+
+"Cave lions."
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 01:25:27]
+
+**ai**: Yes. **“Cave lions”** is a great punchline.
+
+It escalates the safety-test question beautifully:
+
+- Barker assumes normal family pets.
+- Lughh answers “two,” calmly.
+- Barker tries to clarify with the most ordinary option.
+- Lughh reveals his baseline for “pet” is prehistoric apex predator.
+
+That fits Lughh perfectly.
+
+Polished version:
+
+```markdown
+“Well, there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that bends space around it.”
+
+The barker put his hand over the microphone.
+
+“How many pets were tested inside?” he whispered.
+
+“Two.”
+
+“Dogs?”
+
+“Cave lions.”
+```
+
+I’d put the barker’s mic-covering action on its own line, as above. It gives the private panic a beat before the question.
+
+One optional extra button, if you want it:
+
+```markdown
+“Survived?”
+
+Lughh looked offended.
+
+“Wheel survived.”
+```
+
+That’s very Lughh. But the cleaner version may be stronger ending at:
+
+```markdown
+“Cave lions.”
+```
+
+If this is mid-sequence, add the “Wheel survived” tag. If it’s the end of the beat, stop at “Cave lions.”
+[Timestamp: 2026/07/03 01:25:41]
+
+**user**: The barker put his hand over the microphone.
+
+“Is it pet-friendly?” he whispered.
+
+"Yes. Wheel like pets."
+[Context: Notes: afterlife.md]
+[Timestamp: 2026/07/03 01:27:16]
+
+**ai**: Yes — this is funnier than the previous version because it is more ominous and more Lughh-specific.
+
+```markdown
+The barker put his hand over the microphone.
+
+“Is it pet-friendly?” he whispered.
+
+“Yes. Wheel like pets.”
+```
+
+That final line is excellent because **“pet-friendly”** gets interpreted in the worst possible direction:
+
+- Barker means: safe for pets.
+- Lughh means: the Wheel is friendly toward pets.
+- Or worse: the Wheel enjoys pets.
+- Or worse-worse: the Wheel has preferences.
+
+The grammar makes it perfect. **“Wheel like pets”** is much funnier than “The wheel likes pets” because it preserves Lughh’s caveman syntax and makes the vehicle feel alive.
+
+I’d keep it exactly.
+
+If you want one tiny extra chill afterward:
+
+```markdown
+The barker put his hand over the microphone.
+
+“Is it pet-friendly?” he whispered.
+
+“Yes. Wheel like pets.”
+
+The barker did not like the way he said _like_.
+```
+
+But honestly, the clean three-line version is probably stronger. It lets the horror sit there unresolved.
+[Timestamp: 2026/07/03 01:27:29]

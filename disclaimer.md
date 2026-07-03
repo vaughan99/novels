@@ -12,7 +12,7 @@ The following novel contains extreme tonal whiplash. Please stop reading if you 
 * a need to interrogate robots to determine if they're hearing voices
 * a sudden urge to take your entire farm to the spa
 * worrying about timing flea jumps down to the picosecond
-* visiting your phlebotomist and wondering if they have unique culinary talents
+* trying to understand why dragons have so much fun
 * wondering why a disclaimer list has such bizarrely _specific_ warnings
 * anything your local blacksmith or raven cannot adequately explain
 

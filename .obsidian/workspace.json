@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "disclaimer.md",
+                "file": "afterlife.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "disclaimer"
+              "title": "afterlife"
             }
           },
           {
@@ -324,11 +324,11 @@
   },
   "active": "22f10b02a3ed084e",
   "lastOpenFiles": [
-    "story ideas.md",
+    "disclaimer.md",
     "afterlife.md",
+    "story ideas.md",
     "epilogue.md",
     "chapter5.1.md",
-    "disclaimer.md",
     "chapter6.md",
     "chapter5.2.md",
     "chapter10.md",

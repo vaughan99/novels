@@ -3,6 +3,132 @@
 [TODO] Rework as a carnival
 
 
+```
+The Freyr Group Presents:
+
+MARKET FAIRE AND SEASONAL JUBILEE!
+
+All Month in Heaven!
+
+Today's Featured Attractions:
+
+GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
+_Be the first in your family - or anybody's - to fly with the pigs!_
+
+THE ELENCHUS GAME, STARRING SOCRATES!
+_Match wits with history's greatest inquisitor!_
+
+ARCHIMEDES' SCREWY WATER SLIDES
+_Tell your family and friends: I GOT SCREWED!_
+
+WHEEL 2.0 WITH LUGHH THE CAVEMAN
+_Inventor of the very first WHEEL!_
+_Make sure to yell "REVEAL THE WHEEL!"_
+
+THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON! _Guess right, fire the catapult. Guess wrong, the catapult fires YOU!_
+
+FORGING EXPO WITH THE CYNN
+_101 Uses For Mithril_
+_Soul Trap Blade Making, A Practical Guide_
+
+
+
+DON'T FORGET, IF YOU'RE FEELING PECKISH:
+
+EPICURUS' ALL-YOU-CAN'T-EAT BUFFET
+_Revel responsibly._
+
+
+
+```
+
+WHEEL 2.0 sequence:
+
+Barker:
+
+> "ARE YOU READY?"
+
+Crowd:
+
+> "YEAH!"
+
+Barker:
+
+> "I CAN'T HEAR YOU!"
+
+Crowd:
+
+> "YEAH!"
+
+Barker:
+
+> "WHAT DO WE SAY?"
+
+Crowd:
+
+> **"REVEAL THE WHEEL!"**
+
+_Curtain dropped._
+
+_One enormous monowheel slowly rolled out._
+
+The crowd sat stunned. They saw a single wheel made rubber, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh, who had been in his cave in Heaven working quietly for ten millenia perfecting his invention.
+
+Lughh leaned out the window and gave a thumb's up. He was dressed in his traditional furs, with trendy leather sport sandals and aviator style sunglasses.
+
+> "Wheel."
+
+The crowd came to life with a roar.
+
+The barker ran over the Lughh's window with the microphone.
+
+"So, tell us, where've you been?"
+
+"Cave."
+
+"So why... Wheel 2.0. Why... NOW?"
+
+"Wheel. Better."
+
+"Yes, we can see it's better, CAN'T WE?"
+
+The crowd screamed with delight.
+
+"Now, Lughh... It looks... _amazing_... did you get any help with the design?"
+
+"No. Use chisel. Like old times."
+
+"I see you have carbon-fiber chassis. Is it an EV, or does it run on gas."
+
+"Run on feet."
+
+"I see, so you have a hamster wheel inside?" He laughed at the audience, and they laughed along with him.
+
+"No, feet push sticks. Sticks make anti-matter. Big fire inside."
+
+The audience quickly hushed.
+
+"Do you mean to tell me this vehicle is nuclear? As in anti-matter obliteration?"
+
+"Big Fire! Go fast!"
+
+"Well that's... unsettling. So, now the big question on everyone's minds... I see that the giant monowheel is covering your field of view. You can only look out sideways. How do you plan on driving this in modern traffic?"
+
+"Wheel not move. Space move around wheel. Convince space go somewhere else."
+
+"As in... teleportation?"
+
+"Negotiation. With Space."
+
+"Ooooohh...kay... So all the Moms out there are dying to know... what kind of amenities does this thing have?"
+
+"Campfire console. Cave wall and paint. For kids. Berry Sorter. Spear rack. Two drink holders. Star navigation system."
+
+“Well, there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that bends space around it.”
+
+
+
+
 
 
 A sign above the booth read:
