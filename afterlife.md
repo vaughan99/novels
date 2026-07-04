@@ -83,7 +83,7 @@ _Curtain dropped._
 
 _One enormous monowheel slowly rolled out._
 
-The crowd sat stunned. They saw a single giant wheel made of rubber, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh the Caveman, who had been in his cave in Heaven working quietly for fifty millenia perfecting his invention.
+The crowd sat stunned. They saw a single giant wheel made of rubber, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh the Caveman, who had been in his cave in the afterlife working quietly for fifty millenia perfecting his invention.
 
 Lughh leaned out the window and gave a thumbs-up. He was dressed in his traditional furs, trendy leather sport sandals, and aviator-style sunglasses. Beneath his untamed beard and hair, his smile was absolutely effervescent.
 
@@ -133,7 +133,9 @@ The audience quickly hushed.
 
 Lughh pointed to Oppenheimer, and the barker carried the microphone to him.
 
-"When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... rather unique... propulsion system. We decided that a small antimatter reactor was the way to go. To accommodate the vehicle, we made the control interface a simple pedal-stick that Lughh could operate with his foot. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. His understanding of particle physics and magnetics is actually quite remarkable."
+"When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... rather unique... propulsion system. We decided that a small antimatter reactor was the way to go. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. Our contribution was largely one of implementation. Lughh had already settled the theoretical questions."
+
+Lughh: "Dirt. No-dirt. Together. Boom. Big Fire."
 
 Barker: "So we've kind of danced around the topic here. This propulsion system. It's a giant wheel. Presumably, at some point, it _rolls_, I imagine? What drives it?"
 
@@ -141,7 +143,7 @@ Lughh: "No. It not roll. Wheel 1.0 _roll_."
 
 Lughh pointed to Nugh.
 
-Nugh: "Shaman Animal Spirit Drive."
+Nugh: "Me shaman. Animal Spirit Drive." He waved his hand around the wheel.
 
 Barker: "You're saying the vehicle teleports?"
 
@@ -149,15 +151,19 @@ Nugh: "No. No _teleport_. Become animal spirit. Travel spirit realm."
 
 Barker: "So the whole vehicle, including the giant wheel, becomes the spirit of say... a badger?"
 
-Nugh: "Not badger. Badger too mean. Rabbit fast."
+Nugh: "Not badger. Badger mean. Rabbit fast."
 
 Barker: "So what's the point of even having a wheel to begin with?"
 
-Nugh: "Wheel of life. Spirit wheel."
+Nugh: "Wheel of life. Spirit wheel." Nugh traced a slow circle around the vehicle with his hand.
 
-Barker: "Okay, so the wheel spinning helps with the vehicle becoming a spirit rabbit that can then traverse the spirit realm to your destination."
+Barker: "Okay, so the wheel spinning... helps with the vehicle becoming a spirit rabbit... that can then traverse the spirit realm to your destination."
 
 Nugh: "Simple version."
+
+Barker: "Is there a better explanation?"
+
+Lughh: "You no want hear. Involve magic story. In wheel."
 
 Barker: "And this takes an antimatter device to power."
 
@@ -198,6 +204,48 @@ Einstein: “That is correct. We are working on a narrative collision-warning sy
 Barker: “Ooooohh...kay... So telling wilder stories means less chance of collision! Fantastic! Finally, a vehicle where lying to your children improves safety. Am I right?”
 
 The audience cheered enthusiastically.
+
+Barker: "So I heard the scary word: _antimatter_. You can't just make antimatter on board, can you. You'll need a refill, right?"
+
+Oppenheimer: "Yes, our data suggest that an ordinary driver attempting a rather mundane trip to and from work, along with a family trip to market once per week, with an ordinary can reliably get," he looked at his colleagues who nodded in approval, "eight thousand years of use from one small ten gram packet of antimatter. For a rather uninspired imagination."
+
+Barker: "Why do you tie it to imagination?"
+
+Oppenheimer: "Well, more creative journeys will explore more of the spirit universe manifold, which takes quite a bit more energy but increases spirit torque and acceleration. For example, if you say you want to get to Boston and tell the spirit drive just to hop there in the spirit world, it might take a few hours, assuming nobody gave the spirit drive exactly the same narrative instructions. If you tell the spirit drive to turn into a triceratops, and turn the family into a band of barbarians wielding candy-cane battle-axes, you might get there in a few minutes, but at a much greater expense. Our data shows that one triceratops/barbarian trip will cost you roughly a gram of antimatter... rounded up."
+
+Einstein: "I continue to object to the term _spirit torque_. If one generalizes the equations to permit arbitrary spirit animals, the units no longer reduce cleanly. A _Newton-rabbit-meter_ cannot simply become a _Newton-hedgehog-meter_ without redefining the entire dimensional basis. The equations ought to depend upon invariant quantities... like the presence of whiskers... not the particular spirit animal chosen."
+
+Oppenheimer: "The engineers are adamant that we must normalize on rabbits, or the whole testing protocol becomes incoherent."
+
+Nugh: "Rabbit."
+
+Einstein: "We're decidedly undecided on the wording of the paper, _as of yet._"
+
+Barker: "So how fast can this thing _really_ go? I mean, is car-racing going to be a sport in the near future?"
+
+Da Vinci: "Well, I don't quite understand this obsession with tremendous speed, but we anticipate car racing will be dominated by very creative storytellers."
+
+The barker looked at the audience. "Do you _know_ what this _means_? No skipping English class if you want to be a race car driver!"
+
+The audience gasped.
+
+Barker: "But, the price of antimatter being so expensive, the drivers will have to be economical with their creativity, right?"
+
+Oppenheimer: "We are reasonably confident that future racing facilities will require on-site tokamak-powered particle accelerators to sustain competitive operation. Based on current consumption models, we project one race approximately every 2.4 years. Should they adopt hares or hedgehogs, all projections must be revisited pending standardization of the reference spirit species."
+
+Barker: "So, I'm hearing that spirit rabbits are not set in stone. Could a family choose a different spirit animal for their vehicle?"
+
+The Barker looked at the crowd with amusement.
+
+Barker: "Maybe families can customize, am I right?"
+
+Crowd: "Woohoo!"
+
+A man in the back yells: "Spirit Bear! Yeah!"
+
+Einstein: "We're currently collaborating with Aristotle on a comprehensive taxonomy of admissible reference spirit species. He is working with Nugh to identify what qualities of the rabbit make it particularly suitable to spirit world traversal."
+
+Nugh: "Whiskers. No... feet. No... hmmm... hard."
 
 Barker: "So what does the patent situation look like? Everything ready?"
 
@@ -241,7 +289,7 @@ Barker: "Well, that doesn't sound all that bad."
 
 Nugh: "Human family become mastodon family."
 
-Barker: “Well, there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that becomes a rabbit in the spirit world and returns you _horn-free_ to your destination. All while telling the most over-the-top stories to your children to maximize safety. Your insurance company will _LOVE_ these features!”
+Barker: “Well!... there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that becomes a rabbit in the spirit world and returns you _horn-free_ to your destination. All while telling the most over-the-top stories to your children to maximize safety. Your insurance company will _LOVE_ these features!”
 
 
 
