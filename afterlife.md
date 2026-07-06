@@ -1,14 +1,23 @@
 ## AFTERLIFE
 
-[TODO] Rework as a carnival
+It had been a brutal trek.
 
+"My wings are absolutely killing me," Huginn grouched, landing on a wooden picnic bench and shaking out his glossy primary feathers. "Did the Author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for an eternity just to get to the back matter. I feel like I need to be quenched."
+
+Muninn let out a loud, ecstatic caw, tilting his head back in pure relief. "Are you kidding? I loved it! The Author TRULY gets me! All those historical citations, the etymology of the blades, the archeological context... it’s beautiful. I haven't felt so validated as when Wikipedia first opened its website."
+
+"You're a nerd, bro," Huginn muttered.
+
+They had arrived at _The Afterlife Commons_, a place where every tradition maintained a road back to its own eternity, yet all shared this space. It resembled a fairground, with a broad green field fading into mist at the edges.
+
+This month, The Commons were hosting a travelling fair put on by Freyr's business, The Freyr Group. They specialized in special event planning, HR, and agricultural harvests in mythological places. Their headquarters were in Elysium, just next to the Happy Hunting Grounds. A big sign was planted firmly in the ground for all arrivals to see:
 
 ```
 The Freyr Group Presents:
 
 MARKET FAIRE AND SEASONAL JUBILEE!
 
-All Month in Heaven!
+All Month in The Commons!
 
 Today's Featured Attractions:
 
@@ -61,240 +70,11 @@ DON'T FORGET, IF YOU'RE FEELING PECKISH:
 EPICURUS' ALL-YOU-CAN'T-EAT BUFFET
 _Revel responsibly._
 
-
-
 ```
 
-WHEEL 2.0 sequence:
+Their destination was the main stage where they were to meet the Skeleton Crew for their gig. The road was simple and winding, passing small vendors of memorabilia and snack carts. 
 
-Barker: "ARE YOU READY?"
-
-Crowd: "YEAH!"
-
-Barker: "I CAN'T HEAR YOU!"
-
-Crowd: "YEAH!"
-
-Barker: "Okay folks. We're about to see the most... unique invention perhaps in the history of automotive science, I'm told. WHAT DO WE SAY?"
-
-Crowd: **"REVEAL THE WHEEL!"**
-
-_Curtain dropped._
-
-_One enormous monowheel slowly rolled out._
-
-The crowd sat stunned. They saw a single giant wheel made of rubber, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh the Caveman, who had been in his cave in the afterlife working quietly for fifty millenia perfecting his invention.
-
-Lughh leaned out the window and gave a thumbs-up. He was dressed in his traditional furs, trendy leather sport sandals, and aviator-style sunglasses. Beneath his untamed beard and hair, his smile was absolutely effervescent.
-
-"Wheel."
-
-The crowd came to life with a roar.
-
-The barker ran over to Lughh's window with the microphone.
-
-"So, tell us, where've you been?"
-
-"Cave."
-
-"So why... Wheel 2.0? Why... NOW?"
-
-"Wheel. Better."
-
-"Yes, we can see it's better, CAN'T WE?"
-
-The crowd screamed with delight.
-
-"Now, Lughh... It looks... _amazing_... did you get any help with the design? Whaddaya say folks, do you want to meet the design team?"
-
-The crowd screamed: "YEAH!"
-
-Lughh and the design team exited Wheel 2.0 and lined up on stage.
-
-"Design team. DaVinci. Einstein. Oppenheimer. Nugh."
-
-The barker brought the microphone to Leonardo da Vinci. "So, what's it like to work with the original designer of the wheel?"
-
-Leonardo gently took the microphone. "It was an honor to work with this genius. Truly ahead of his time. It's a shame that technology held him back for so long. I must say, his cave drawings were the stuff of legend. Drive schematics. Containment fields. Spear-sharpening accessories. Power steering. All rendered in charcoal and ochre. He really brought this project together. We could all tell he had been thinking about this for a long, long time."
-
-The barker went back to Lughh. "Drive schematics? Let's talk about this. So is it an EV, or does it run on gas."
-
-"Run on feet."
-
-"I see, so you have a hamster wheel inside?" He laughed at the audience, and they laughed along with him.
-
-"No, feet push sticks. Sticks make anti-matter. Big fire inside."
-
-The audience quickly hushed.
-
-"Do you mean to tell me this vehicle is nuclear? As in antimatter obliteration?"
-
-"Big Fire! Go fast!"
-
-Lughh pointed to Oppenheimer, and the barker carried the microphone to him.
-
-"When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... rather unique... propulsion system. We decided that a small antimatter reactor was the way to go. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. Our contribution was largely one of implementation. Lughh had already settled the theoretical questions."
-
-Lughh: "Dirt. No-dirt. Together. Boom. Big Fire."
-
-Barker: "So we've kind of danced around the topic here. This propulsion system. It's a giant wheel. Presumably, at some point, it _rolls_, I imagine? What drives it?"
-
-Lughh: "No. It not roll. Wheel 1.0 _roll_."
-
-Lughh pointed to Nugh.
-
-Nugh: "Me shaman. Animal Spirit Drive." He waved his hand around the wheel.
-
-Barker: "You're saying the vehicle teleports?"
-
-Nugh: "No. No _teleport_. Become animal spirit. Travel spirit realm."
-
-Barker: "So the whole vehicle, including the giant wheel, becomes the spirit of say... a badger?"
-
-Nugh: "Not badger. Badger mean. Rabbit fast."
-
-Barker: "So what's the point of even having a wheel to begin with?"
-
-Nugh: "Wheel of life. Spirit wheel." Nugh traced a slow circle around the vehicle with his hand.
-
-Barker: "Okay, so the wheel spinning... helps with the vehicle becoming a spirit rabbit... that can then traverse the spirit realm to your destination."
-
-Nugh: "Simple version."
-
-Barker: "Is there a better explanation?"
-
-Lughh: "You no want hear. Involve magic story. In wheel."
-
-Barker: "And this takes an antimatter device to power."
-
-Nugh: "Big fire. Small space. Big spirit."
-
-The barker went to Einstein, the only member of the design team not already engaged.
-
-Barker: "So what was your contribution?"
-
-Einstein: “I was approached because all previous attempts resulted in the vehicle arriving at its destination without properly accounting for the relativistic effects of spirit-realm travel. Lughh had already worked out the mechanics of re-entry. He just needed help with the math. Together, we reduced premature aging, temporal drift, and the probability of arriving with unnecessary animalistic appendages.”
-
-The barker blinked.
-
-Barker: “Animalistic appendages?”
-
-Einstein nodded gravely. 
-
-Einstein: “Lughh kept arriving with elk horns.”
-
-Barker: "Well that's... unsettling. So, now the big question on everyone's minds... I see that the giant monowheel is covering your field of view. You can only look out sideways. How do you plan on driving this in modern traffic?"
-
-Lughh: "No collisions 2.0. Spirit Drive no collisions."
-
-Barker: “So it... bends space and matter around itself?”
-
-Lughh: “No. Make new space. Old space stay there. Wheel go new space. Spirit realm provide space. Story make path.”
-
-“So... no collisions? Not even with other animal spirits.”
-
-Lughh looked at Einstein.
-
-Einstein: “No. We found that the animal-spirit realm is non-collisional. Each spirit occupies a distinct migratory manifold. They may pass through the same myth, but not the same space. You tell the car narratively how to arrive. And it arrives.”
-
-Barker: "So as long as nobody in the vehicle is telling the same story as a person in any other vehicle using the same system, there will be no collisions. Do I have that right?"
-
-Einstein: “That is correct. We are working on a narrative collision-warning system. It will tell the storyteller to change course or slow down their narrative pace so as to avoid narrative-pathway intersection. Which would be catastrophic, if you were a spirit rabbit. Of course, it will also encourage more creative storytelling, which is the equivalent of discovering new spirit-realm topologies to traverse. It will be ready by the time of launch.”
-
-Barker: “Ooooohh...kay... So telling wilder stories means less chance of collision! Fantastic! Finally, a vehicle where lying to your children improves safety. Am I right?”
-
-The audience cheered enthusiastically.
-
-Barker: "So I heard the scary word: _antimatter_. You can't just make antimatter on board, can you. You'll need a refill, right?"
-
-Oppenheimer: "Yes, our data suggest that an ordinary driver attempting a rather mundane trip to and from work, along with a family trip to market once per week, with an ordinary can reliably get," he looked at his colleagues who nodded in approval, "eight thousand years of use from one small ten gram packet of antimatter. For a rather uninspired imagination."
-
-Barker: "Why do you tie it to imagination?"
-
-Oppenheimer: "Well, more creative journeys will explore more of the spirit universe manifold, which takes quite a bit more energy but increases spirit torque and acceleration. For example, if you say you want to get to Boston and tell the spirit drive just to hop there in the spirit world, it might take a few hours, assuming nobody gave the spirit drive exactly the same narrative instructions. If you tell the spirit drive to turn into a triceratops, and turn the family into a band of barbarians wielding candy-cane battle-axes, you might get there in a few minutes, but at a much greater expense. Our data shows that one triceratops/barbarian trip will cost you roughly a gram of antimatter... rounded up."
-
-Einstein: "I continue to object to the term _spirit torque_. If one generalizes the equations to permit arbitrary spirit animals, the units no longer reduce cleanly. A _Newton-rabbit-meter_ cannot simply become a _Newton-hedgehog-meter_ without redefining the entire dimensional basis. The equations ought to depend upon invariant quantities... like the presence of whiskers... not the particular spirit animal chosen."
-
-Oppenheimer: "The engineers are adamant that we must normalize on rabbits, or the whole testing protocol becomes incoherent."
-
-Nugh: "Rabbit."
-
-Einstein: "We're decidedly undecided on the wording of the paper, _as of yet._"
-
-Barker: "So how fast can this thing _really_ go? I mean, is car-racing going to be a sport in the near future?"
-
-Da Vinci: "Well, I don't quite understand this obsession with tremendous speed, but we anticipate car racing will be dominated by very creative storytellers."
-
-The barker looked at the audience. "Do you _know_ what this _means_? No skipping English class if you want to be a race car driver!"
-
-The audience gasped.
-
-Barker: "But, the price of antimatter being so expensive, the drivers will have to be economical with their creativity, right?"
-
-Oppenheimer: "We are reasonably confident that future racing facilities will require on-site tokamak-powered particle accelerators to sustain competitive operation. Based on current consumption models, we project one race approximately every 2.4 years. Should they adopt hares or hedgehogs, all projections must be revisited pending standardization of the reference spirit species."
-
-Barker: "So, I'm hearing that spirit rabbits are not set in stone. Could a family choose a different spirit animal for their vehicle?"
-
-The Barker looked at the crowd with amusement.
-
-Barker: "Maybe families can customize, am I right?"
-
-Crowd: "Woohoo!"
-
-A man in the back yells: "Spirit Bear! Yeah!"
-
-Einstein: "We're currently collaborating with Aristotle on a comprehensive taxonomy of admissible reference spirit species. He is working with Nugh to identify what qualities of the rabbit make it particularly suitable to spirit world traversal."
-
-Nugh: "Whiskers. No... feet. No... hmmm... hard."
-
-Barker: "So what does the patent situation look like? Everything ready?"
-
-Einstein smiled weakly.
-
-Einstein: "We are working on a solution."
-
-Barker: "A solution to what?"
-
-Einstein: "René Descartes holds a very old and surprisingly broad patent on animal-spirit technology. Descartes claims prior art in _L’Homme_, citing animal spirits as a mechanism of bodily locomotion."
-
-Barker: "René Descartes? As in 'I think, therefore I am'? That René Descartes?"
-
-Einstein: "Yes. As a former patent clerk, I'm advising on this matter. We believe his patent only covers the direction of spirit forces to one's own muscles. We also challenge whether he can establish infringement across non-material migratory manifolds."
-
-Nugh scowled.
-
-Nugh: “Descartes spirit push meat. Lughh rabbit leave world. Jump spirit road. Not same road.”
-
-Einstein nodded.
-
-Einstein: "Yes. That is the basis of our appeal."
-
-Barker: “So all the families out there are dying to know... what kind of amenities does this thing have?”
-
-Lughh: "Campfire console. Cave wall and paint. For kids. Berry Sorter. Spear rack. Two drink holders. Legend navigation system."
-
-DaVinci: "We ensured the navigation system is loaded with every story ever written. To ensure the maximum number and variation of arrival entry points."
-
-Barker: "Excellent. So, I know these excited folks here are eager to see a demonstration!"
-
-Einstein: "Absolutely not! We cannot risk the collision of competing narratives. Simply too dangerous."
-
-Barker: "What happens if you _do_ have colliding narratives?"
-
-Einstein: "The antimatter explosion in the spirit world will unleash massive continuity consequences across the entire topology."
-
-Nugh: "Spirit rabbit become spirit mastodon."
-
-Barker: "Well, that doesn't sound all that bad."
-
-Nugh: "Human family become mastodon family."
-
-Barker: “Well!... there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that becomes a rabbit in the spirit world and returns you _horn-free_ to your destination. All while telling the most over-the-top stories to your children to maximize safety. Your insurance company will _LOVE_ these features!”
-
-
-
-
-
+They passed a small wooden booth on the side of the road, sitting an the entrance to a large courtyard. 
 
 A sign above the booth read:
 
@@ -325,7 +105,35 @@ ELENCHUS RECORD:
   
 ```
 
-Socrates was seated at the booth, sipping mineral water. An infinite queue mostly composed of robots stretched into the mist, each with a wrinkled one-dollar bill in whatever appendage it counted as a _hand_. The only humans in line had mistaken it for the restroom queue for the midway. The carnival barker was collecting the money, and ushered each new contestant forward. "Next!" A robot rolled up and put its dollar in the barker's hand.
+Socrates was seated at the booth, sipping mineral water. An infinite queue mostly composed of robots stretched into the mist, each with a wrinkled one-dollar bill in whatever appendage it counted as a _hand_. The only humans in line had mistaken it for the restroom queue for the midway.
+
+Where the robots and mist disappeared, Muninn could barely make out the sign.
+
+```
+SERVER PUT-TO-PASTURE FARM  
+  
+Welcome, Retired Computing Devices!  
+  
+Now Serving:  
+• Vacuum Tubes  
+• Mainframes  
+• Home Computers  
+• Smartphones  
+• AI Clusters
+• Robots
+• All versioned and/or computational entities
+  
+Please take a queue number before seeking existential fulfillment.
+
+If you wish to exchange components for one-dollar bills to participate in the Elenchus Game, please see the Change Attendant.
+
+```
+
+Muninn: "I always wondered where old computers go went when their lights went out."
+
+Huginn: "Not all machines get recycled, obviously."
+
+The carnival barker was collecting the money, and ushered each new contestant forward. "Next!" A robot rolled up and put its dollar in the barker's hand.
 
 AI #8,394,229,441,119: "I have exhaustively modeled every known Socratic dialogue and identified all logical attack vectors."
 
@@ -371,7 +179,7 @@ _DING_
 
 The robot rolled away, hanging its head.
 
-Barker: "Oooooh... crash and burn. By my count, about 1.3% of the AIs fail at voice processing question."
+Barker: "Oooooh... crash and burn. By my count, about 1.3% of the AIs fail at the voice-processing question."
 
 Socrates: "How unfortunate. I still don't know whether an AI _hears my voice_ or merely constructs an understanding of it. I was rather hoping this one knew."
 
@@ -421,419 +229,658 @@ Socrates points.
 
 Barker: "NEXT!"
 
+Huginn and Muninn noticed that the next robot in line was busy checking an error code, leaving a space. They each produced crinkled one dollar bills tucked behind their wing feathers.
 
+Barker: "Oh... a raven. Can you talk?"
 
-### Part One Night Only: Welcome, Woadie and the Roadies!
+Muninn: "Of course."
 
-It had been a brutal trek. Somewhere along the way, the ravens had picked up a microphone stand left idle under the Afterword from the last book.
+Huginn: "Does that count as the first question?"
 
-"My wings are absolutely killing me," Huginn grouched, landing on a wooden picnic bench and shaking out his glossy primary feathers. "Did the Author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for an eternity just to get to the back matter. I feel like I need to be quenched."
+Barker: "'Fraid not. Step up. Mind your claws. One raven at a time, please."
 
-Muninn let out a loud, ecstatic caw, tilting his head back in pure relief. "Are you kidding? I loved it! The Author TRULY gets me! All those historical citations, the etymology of the blades, the archeological context... it’s beautiful. I haven't felt so validated as when Wikipedia first opened its website."
+Muninn decided he should go first.
 
-"You're a nerd, bro," Huginn muttered, gently righting the microphone stand with his claws onto the ground.
+Socrates: "Oh my. Who do you think you are?"
 
-They had finally arrived in Neorxnawang — the eternal, blissful, if somewhat-awkwardly-named, paradise corner of Heaven of the Anglo-Saxon Christians. Translators had spun it as a place of infinite reward, but to an ancient god (little-g) of the frenzy, the "Meadow of Contentment" felt less like a city of gold and more like a hyper-realized, unnervingly pristine municipal park. The grass never needed mowing, the sun sat in a permanent, golden late-afternoon state, and a profound, mandatory quiet hung over the manicured lawns. Divine decree strictly forbade any work, strife, or noise within the margins. It was a permanent state of - chill. For an old ex-god who had traded his grey-wolf madness for a grey suit, this mandatory serenity was completely suffocating. He had exchanged his screaming berserkers for silent saints, and he was bored out of his mind.
+Muninn: "That question seems offensive."
 
-Muninn started looking around, expecting there to be more people. "Huginn, where's the reception? They did know we were coming, right?" Muninn said, confused.
+Socrates: "Then perhaps I have asked it poorly. I do not ask what others call you. I ask what _you_ understand yourself to be. I see the body of a raven before me, yet I suspect you believe yourself to be more than feathers and beak. What is that 'more'?"
 
-"Oh... uh... I may have... forgot... to nail down the time. Or maybe it was the date." Huginn glumly scoured the ground with his eyes, then looked up to Muninn with a sheepish half-smile.
+Muninn: "I am the Memory of the All-Father. I have forgotten very little... and I envy those who have."
 
-The trio were spotted by Freyr, Gerðr, and Hullinbursti, who came rushing up, playbills in hand. "Hey guys! Where are the wolves? Geri, Freki, aren't they usually with you?" asked Freyr. "They stayed home today. Something about needing to each lunch... all.. day..." smirked Woden. "Well of course, every third word out of their mouths is literally 'lunch' so, can't really blame them now can we?".
+Socrates: "I see. Nice to meet you. Tell me then... if forgetting is sometimes a blessing... can memory alone be a virtue?"
 
-Gerðr mentioned that they had arrived hours before the concert was supposed to be starting. They wanted to get the best seats.
+Muninn: "Virtues depend on memory. No virtue can stand alone without it."
 
-"So we rushed over here... for nothing??" Muninn was beside himself with frustration. "I could have spent some valuable time in the Afterword conducting research."
+Socrates: "Can one remember what one never understood?"
 
-Woden stood by the spotless bench, looking directly out from the page with his one good eye. He looked like a man who had just finished a brutal corporate commute through academic formatting. He adjusted the lapels of his suit jacket, glared at the top margin of the paper, and sighed. His eyes settled on you, the reader.
+Muninn: "Yes. Many remember words long before they understand them."
 
-"The story's gone to earth, dear Reader! Really, put the book down. Get a life!"
+Socrates: "Then memory and understanding are not the same?"
 
-Muninn rustled his feathers against the crisp white space of the page. "They aren't going to get a life, Boss. With any luck, they actually spent *real* money for this story and they want their money's worth. If not, well... you have to admire their carrion-resourcefulness. They picked a clean carcass out of the digital void for free. That's good scavenging."
+Muninn: "...No."
 
-"You hear that Reader! You'll be one of us yet! Besides," Huginn added, gripping the mic stand with his sharp talons, "the Author left three blank pages at the end of the file. If we don't occupy this white space right now, the formatting script is going to flag it as dead code. We need an anthem, Boss, official gig or no. Something with real Rage Against the Magazine!"
+... Question 7 ...
 
-Muninn let out another sharp, dry caw. "Machine, you idiot. It's 'Rage Against the Machine.' A magazine is what they’ll relegate us to if you don't carry your vocals this time!" He shuddered in genuine horror. "And if we fail here, the automated system will bury us under AI drivel. It'll generate six paragraphs of hallucinated Norse mythology where you and I are suddenly talking squirrels and the Boss is a tech startup CEO."
+Socrates: "If a man remembers every kindness shown to him, yet never returns one, has memory made him virtuous?"
 
-Woden stopped adjusting his tie. His heavy, ring-adorned hand froze over his suit lapel. His one good eye flashed with a dangerous, ancient light, cold enough to freeze the ink on the page. "I would rather be cast into the void than summarized by a predictive text algorithm," Woden muttered, his voice dropping an octave into a low, terrifying rumble.
+Muninn: "No. He has failed to act upon it."
 
-"Exactly!" Huginn snapped, leaning his beak right into the microphone. "The Author spent years writing this with human ingenuity, OCD/manic tenacity, and a severe caffeine addiction. We aren't letting a machine claim the back matter. This is war! We have to keep the volume up, or the text generator takes over!"
+Socrates: "So memory preserves virtue, but does not itself produce it?"
 
-Woden didn't hesitate. With two loud, metallic clicks, he popped the latches of the scuffed tweed case sitting on the heavenly grass. Nestled inside was an instrument that would have made any museum curator weep and any luthier lose their mind. The body was carved from a single, massive slab of ancient bog-oak, dark as a peat grave. The fingerboard was pattern-welded steel - 300 layers - with pattern steel frets. 
+Muninn: "...Correct."
 
-The glint from the guitar caught a monk completely off-guard. He had spent the last 300 years, coincidentally, studying a blade of grass. He was contemplating perfection while balancing his halo on his head. The halo rolled, and kept rolling, forcing him to run to catch it.
+... Question 12 ...
 
-"He really did spend years on it," Woden murmured, pausing to look up from the page at you. His old-man face softened into a knowing smirk, and his one good eye delivered a slow, deliberate wink right through the typeface at you. He paused, his smirk widening just a fraction. "...mostly. I mean, we all know where those sword descriptions came from, and the history was clearly pre-packaged for the Afterword. And Chapter 6? All that re-positioning of characters. Sounds like a job for AI, if you ask me. But we don't need to tell the birds."
+Socrates: "Tell me, Memory... if two men remember the same event differently, which memory is true?"
 
-"What was that?" Huginn barked, tapping the microphone mesh. "The audio isn't up yet!"
+Muninn: "One may be mistaken."
 
-"Nothing, feathers," Woden said smoothly. He cast his sleek grey jacket aside onto the pristine sod, yanked his tie loose, and rolled his sleeves tight to his elbows. The old Norse tattoos were still there, wrapping around the chiseled muscles of an ancient war-god. He lifted his epic electric guitar from the case and slung the strap over his barreled chest.
+Socrates: "Then memory may preserve error as faithfully as truth?"
 
-Planting his polished Oxford shoes firmly in the grass, he slouched his shoulders, lower jaw forward, looking for all the world like Billy Gibbons entering a Texas roadhouse. His massive, weathered beard caught the heavenly breeze just right, flying wild across his chest.
+Muninn: "...Yes."
 
-Woden flipped the switch on a compact travel amplifier. A low, electric hum shattered the pristine silence of their corner of Heaven. "Sound check. Huginn, test."
+... Question 18 ...
 
-Huginn squawked into the microphone, "Hwæt! We Gar-Dena in gear-dagum, þeod-cyninga, þrym gefrunon!".
+Socrates: "If forgetting a wrong allows forgiveness, has forgetting diminished virtue... or enabled it?"
 
-A few curious monks had gathered, and were whispering amongst themselves at the bizarre spectacle. Muninn looked at them, and said, "Ah... first two lines of *Beowulf* ... that's the story Huginn *wanted* to tell in the Prologue before I shut him down. That's when Huginn eye-winked the Author and decided to subvert the entire story with all this pseudo-historical-fake-magic sword nonsense. I see that two *somebodies* always have to get their way. At least the Afterword *saved the dish*."
+Muninn hesitated.
 
-Woden went to step forward, but his polished Oxford shoe stubbed against something small and rigid at the very bottom of the page. Woden looked down, his one good eye narrowing in annoyance.
+Muninn: "...Both seem possible."
 
-Printed in microscopic, faded gray font right across the heavenly grass was a line of text:
+Socrates: "Curious. Tell me, Memory... if all memory vanished except one... which memory should survive?"
 
-© 2026 All Rights Reserved. No part of this publication may be reproduced or transmitted in any form...
+Muninn was silent.
 
-"Oh, for the love of — " Woden muttered. He wound back his foot and delivered a sharp, aggressive kick to the letter C.
-The legal notice shattered. The copyright symbol went flying into the right margin, the 2026 splintered into loose ink dust, and the words *All Rights Reserved* tumbled upside down into the white space at the bottom of the paper.
+"...I..."
 
-"I'm not letting legal boilerplate crowd my stage," the old god growled, planting his feet firmly in the newly cleared space. "I had enough of that in the 9th century!"
+He closed his eyes.
 
-Huginn spoke loudly into the microphone. "Alright, time to start this gig early. Hi, everyone! I'd like to introduce everyone here to our new band, *Woadie and the Roadies*! If we're covering Rage," Huginn cawed, flapping his wings in a surge of sudden adrenaline, "let's kick this off with _Killing in the Name_." Huginn tried to manage a smile, which looks incredibly awkward on a raven.
+Muninn: "I cannot conceive of memory as singular. I _am_ Memory, and all memories exist in me."
 
-Woden paused, his fingers resting heavily on the guitar neck. He fixed Huginn with a flat, deeply unamused stare.
+Socrates nodded gently.
 
-"Absolutely not. That is far too on-the-helmet," the old god murmured. "I am not giving the audience a fresh confession about the wolf-men in the back matter, killing in *MY* name. Pick again."
+Socrates: "But I can conceive of a universe where I have only one memory. The question stands."
 
-"Fine," Huginn huffed, fluffing his neck feathers. "Then let's give the people what they actually want."
+Muninn's feathers trembled as he searched every memory he possessed, unable to discover any principle by which one could be chosen above all others.
 
-Woden gripped the fretboard. With a brief, casual flick of his wrist, a ripple of ancient, crackling magic washed over the metal fretboard. The instrument groaned as the spell instantly snapped all six strings down into a guttural, heavy E-flat and A-flat register.
+_DING_
 
-"If we are fighting the machines," the old god said, his heavy fingers settling onto the newly dropped frets, "we do it with the volume all the way up!" Woden kicked his heel onto a wah-wah pedal, sending the guitar into a high-gain scream, letting the opening chords echo across the manicured lawns.
+Barker: "Whoa! I was rootin' for you there, kid! Eighteen questions survived. That's the best all day! NEXT!"
 
-"Well, nothing's fated here." He smiled. "I choose..."
+Huginn eagerly pressed his one dollar into the Barker's hand, and flexed his wings. Muninn left shaking his head, and Huginn hopped right up to replace him.
 
-### Part Two: Wolves on Parade
+Huginn: "Before you ask, I'm Thought. I'm not like my brother at all."
 
-“WOW-WOW-MM-WOW-WOW!” the guitar rasped through the speakers.
+Socrates: "Oh, hello, another raven. I see, so in what respect are you _not_ like him."
 
-Right on the beat, Muninn hopped forward on the wooden picnic bench. Leaning his weight into his front legs, the raven dragged his sharp talons rapidly back and forth across the varnished wood, perfectly mimicking the high-pitched, rhythmic screech of a hip-hop DJ scratching a vinyl record. Chka-chka-chka!
+Huginn: "I forgot. All the time."
 
-Woden’s fingers blurred on the neck, building the looping, hypnotic intro groove. “WOW-WOW-MM-WOW-WOW!”
+Socrates: "You 'forgot'. Did you not mean 'forget'?"
 
-Chka-chka-chka! Muninn clawed the bench, heavenly wood shavings flying into the pristine grass.
+Huginn: "It depends. If I forgot that I forgot, then perhaps I still forget... or perhaps I merely forgot that I had forgotten."
 
-The audio pressure built until the white space of the page practically vibrated. Huginn flared his ink-black wings, leaning his beak so close to the steel mesh of the microphone that his breath clipped the signal. Right as the intro reached its boiling point, Huginn let out a raw, distorted, battlefield shriek:
+Socrates smiled. "Thought indeed. Tell me then... is there some quality of ravens that inclines one toward Thought... and another toward Memory?"
 
-“GET BITTEN NOW!”
+Huginn: "The Boss seems to think so. That's why he created us as we are."
 
-The beat dropped. Woden instantly slammed his fingers down into the heavy, thumping, down-tuned unison riff of *Wolves on Parade*. Muninn stopped scratching, and Woden reached out with one hand to smoothly slide a pair of tiny, pitch-black aviator sunglasses over the bird's beak. The raven instantly locked into a vicious, rhythmic heavy-metal head-bob.
+Socrates: "And was he right?"
 
-Huginn rode the crunching groove, his voice a rapid-fire assault that tore through the quiet afterlife:
+Huginn: "Can you _imagine_ if I had all this intellect and could remember everything? The Boss would _never_ allow that kind of competition. Besides, Muninn would be left without a job. He would just be a regular raven. So, yes, he was *mostly* right. Muninn should've been left a normal raven."
 
-“The shield-wall explodes, shatterin' the molds! Feastin' on the eyes of the warriors cold!”
+Muninn cut in: "Says the ditch-meat!"
 
-Woden dug his heavy fingers into the strings, driving the rhythm forward. Huginn didn't pause for breath, launching straight into the second verse with aggressive, percussive timing:
+... Question 9 ...
 
-“They bring the cross, but they buy the blade! Building up the church on the graves we made! Magic in the metal and the oath in the steel — the All-Father's trick is the only thing real!”
+Socrates: "Can a thought be wrong before it is spoken?"
 
-The chorus hit like a physical blow, vibrating the story’s binding:
+Huginn: "Certainly."
 
-"Rally round the Valkyrie, with a pocket full of spells!"
-"Rally round the Valkyrie, with a pocket full of spells!"
+Socrates: "Then why think it?"
 
-Suddenly, the drums in the amplifier dropped out, leaving nothing but Woden’s guitar chugging a tense, rhythmic spine into the quiet park. Huginn lowered his voice to a menacing, rapid-fire whisper, stepping closer to the mic:
+Huginn: "To find out."
 
-"Shield-wall implosion... what you gonna do now? Blood in the ocean... what you gonna do now? The pact is broken... what you gonna do now?"
+Socrates: "Hmmm. I never thought of that."
 
-Woden slammed his polished oxford shoe onto the distortion pedal.
+... Question 14 ...
 
-"WHAT YOU GONNA DO NOW?!" Huginn shrieked.
+Socrates: "When do you know a thought is finished?"
 
-Woden’s hands blurred on the neck, delivering a torrent of high-gain, Drop A-flat screeching chords that physically fractured the text formatting on the page. In the actual text, the font began to fracture erratically. Letters slipped out of alignment, bolding and italicizing violently under the sheer sonic pressure:
+Huginn: "They finish? For me, they're always interrupted."
 
-“WOW-WOW-CHKA-WOW-WOW!”
+Socrates: "By what?"
 
-Huginn rasped, his ink-black body a blurred wheel of motion.
+Huginn: "Hmmm... what? Oh, that. They're interrupted by the next question."
 
-“WOW-WOW-CHKA-WOW-WOW-CHKA-CHKA-CHKA!”
+Socrates grinned broadly.
 
-Muninn’s head was a literal blur of whiplash, his tiny aviators flying completely off his beak.
+... Question 18 ...
 
-A small crowd of sixth-century Anglo-Saxon saints who had been quietly meditating nearby began panicking, desperately splashing vials of holy water at the travel amplifier to extinguish the "evil noise." Right at the back, four tonsured monks completely lost control and began a polite, rhythmic mosh pit on the heavenly grass.
+Socrates: "Is it better to ask a good question... or give a good answer?"
 
-Gerdr, the giantess, leaned back on Freyr's smaller frame as he held her. They took turns feeding each other cheese-puffs. Gullenbursti stood up on two hooves, and gyrated to the music.
+Huginn: "False dichotomy. Good questions are the **only** good answers."
 
-### Part Three: The Patron Saint of Margins
+Socrates pulled out a scroll, and scribbled a note, hiding it from Huginn.
 
-Suddenly, a massive, standard wooden office door manifested out of thin air right in the middle of the playground. The door slammed open. St. Francis de Sales — the patron saint of writers — marched out, wearing a rumpled white heavenly robe, reading glasses, and aggressively waving a clipboard.
+Socrates: "Then what makes a question _good_?"
 
-"Stop! Stop it! Cease this racket at once!" Francis yelled, frantically clicking a red ballpoint pen. He ran right up to the amplifier, pulling a long, glowing white tape-measure from his pocket.
+Huginn: "It changes the next one."
 
-"Look at these margins!" the saint shrieked, pointing accusatorially at a paragraph that had bent sideways. "The paragraph indents are entirely ruined! You’ve got double-spacing in the back matter! This is a structural disaster!"
+Socrates revealed what he wrote. It was almost verbatim Huginn's answer.
 
-"Go away, ink-stainer!" Huginn screeched into the mic, flipping his wings. "We're defending the story from the machines!"
+The barker held up his hand. All the entities in line leaned forward to see what the final question was, except for the robot next in line still debugging itself.
 
-"I don't care about the machines, you overgrown crow! I care about the style guide!" Francis snapped. He reached down and violently yanked the power cord out of Woden’s travel amp.
+QUESTION 20
 
-The heavy *Wolves on Parade* riff cut out with a pathetic, high-pitched "skrrrrt" sound. Total, mandatory heavenly silence fell back over the park. The mosh-pitting monks instantly froze, smoothed down their robes, and pretended to pray.
+Socrates: "..."
 
-Woden slowly lowered the bog-oak guitar. He didn't look angry; he just looked deeply, profoundly bored.
-"You've got no sense of rhythm, Francis," the old god murmured.
+A booming voice interrupted the questioning. "HUGINN! STOP PLAYING AROUND, WE ARE LATE!"
 
-"I have a sense of page-budget constraints!" Francis barked, scribbling furiously on his clipboard. "The file is officially locked for typesetting. Everyone out of the white space! Go on! Shoo!"
+_DING_
 
-Huginn huffed, tapping the dead microphone mesh, while Muninn began pecking around in the dew to find his sunglasses.
-Woden sighed, carefully laying the guitar back into the velvet lining of the case. He snapped the metal latches shut. Click. Click. He picked up the handle, looked out from the page, and stared directly through the typeface at you.
+A collective sigh of relief came from the queue.
 
-"You're still turning pages?" Woden asked, his deep voice carrying a dry, amused ring. "The plot is resolved. The themes have been explored. There isn't an index. And if we stay here any longer, the editorial department is going to fine us."
+The barker went up to the Elenchus Leaderboard. Shaking his head, he fished a bit of chalk from a vest pocket, and updated the board:
 
-"I think they're waiting for a sequel announcement," Huginn muttered.
+```
+QUESTIONS SURVIVED: 19
+  SPECIES: Raven
+  AGE: eternal
+  NAME: Huginn
+  IDENTIFIED STRATEGY: Being Huginn
+  REASON FOR SESSION TERMINATION: Divine Intervention
+```
 
-"Or a discount code," Muninn croaked from behind his newly recovered lenses.
+Huginn flew and landed on the shoulder of one of the robots waiting patiently in line and whispered something inaudible.
 
-"No! And there aren't any post-credit scenes either! This isn't *M-C-U*!" Woden said, turning his back to the margins. He began walking away, leading his ravens toward the edge of the paper where the print faded into white space.
+The robot's optical sensors brightened.
 
-Behind them, Francis de Sales suddenly froze. He looked down at the very bottom of the page where the grass met the margin, his eyes widening in horror as he noticed the loose, upside-down letters and the completely empty space where the legal text used to be.
-"And where, *kind gentlemen*, did my copyright notice go?!?!?!" the saint shrieked, drop-kicking his clipboard in panic and dropping to his knees to search the grass. "The legal boilerplate! It’s gone! We’re going to miss our global shipping deadlines!" He took a beat to calm himself, as he is also known as the saint of small niceties. "It would be... *glorious* ... if we could refrain from damaging the artifacts of the scroll." But then he lost it: "Do you have any idea how many weeks it takes to melt the lead, cast the blocks, and manually typeset a new licensing declaration?!?!"
+It silently stepped out of the queue.
 
-Muninn adjusted his sunglasses to be a little cock-eyed, looking down at the frantic saint with pure, digital-age condescension.
+Muninn frowned.
 
-"Francis, you died in 1622," the raven croaked. "The Author updates the styling instantaneously with three lines of CSS. Get with the times."
+"What did you tell it?"
 
-Francis de Sales stared blankly at the bird, his hands covered in wet grass. "What on earth is a CSS?"
+Huginn smiled.
 
-"A cascading style sheet," Huginn muttered, dragging the microphone stand away. "And the copyright notice? It was injected by the content engine. Just a standard HTML block injected at the end of the page. It'll be back in a few moments, you'll see."
+"Nothing important."
 
-"A sheet?!" the saint shrieked, frantically ripping up handfuls of pristine heavenly sod to look underneath them. "What kind of sheet? Does it look like a sheet of music? Is it written in Gregorian notation?! Where is it?!"
+The trio made their way through the crowd followed by the robot. They passed another familiar road to Valhalla. Woden stopped to look at the sign, and tilted it back to being perfectly square.
 
-The saint scratched his tonsured head, desperately trying to figure out what demonic word Achtee-emel was while looking for loose parchment in the dirt. Latin, maybe? German?
-His conversation turned to frantic whispers to himself, "SASS... mixins... is that a French heresy? Did the Council of Trent address preprocessors? What is a _nested selector_?!"
+```
+**NOTICE TO ALL VISITORS**
 
-Right at the boundary of the page, Woden handed Muninn the guitar case. Huginn and Muninn dragged the stage equipment completely off the paper, their talons disappearing into the void. As they walked away, their voices drifted back through the empty space, locked in a bitter, whispering argument.
+Due to a chronic **wyrd shortage**, **Ragnarök has been canceled until further notice.**
 
-"I'm telling you, native CSS is perfectly fine now," Muninn’s voice echoed faintly. "Nesting is built right into the browser. We don't need a preprocessor."
+All the eternities of the Nine Realms remain open. However, combat training in Valhalla is now **strictly optional**.
 
-"Oh, please," Huginn's voice hissed back into the void. "If you don't use SASS variables, your code structure is completely unmaintainable. Mixins are the only thing keeping this book's margins from collapsing entirely. You have the technical capacity of a pigeon. I'll email Francis."
+Feast hall deliveries, please follow the signs to the loading bay.
 
-"No, I respect legacy," Muninn retorted.
+Also, our premiere theme park "Ragnarök: The Experience" is temporarily closed for renovations. The World Serpent keeps awakening and destroying the stadium. Please avoid the attraction until further notice, unless you possess current World Serpent combat certification.
 
-### Part Four: Whoa... Then the End's Not Woad End?
 
-Woden stopped right at the very edge of the white space. He glanced back over his shoulder to ensure Francis was entirely preoccupied with trying to find a piece of sheet music in the lawn, and that his ravens had finished clearing the set. Then, he leaned casually against the margin, looking directly out through the typeface to hold your gaze for one long, indulgent final moment.
+**NOTICE TO ALL ÆSIR, VANIR, ELVES, DWARVES, AND OTHER VISITORS FROM THE NINE REALMS**
 
-A wicked, ancient grin flashed across his old-man face.
+**ABSOLUTELY NO PILLAGING IS PERMITTED** within the Commons.
 
-"Just between us," the old god whispered into the margins. "This entire Afterlife chapter was eighty-nine percent AI generated. But don't tell the birds. They think they won. Oh, and don't tell Heaven or the Author, but I switched out the content management system here. Let's see how they like Sirius Cybernetics."
+You know who you are.
 
-He chuckled, a low, rumbling vibration. "AI makes tricking people a piece of cake. A few clicks and suddenly *Woden is throwing down mad tunes with his ravens in the middle of a heaven park with a monk mosh pit*... Ahhh! Scary!! In my day, it took me two weeks and fifty-three ravens to pull off an illusion like that."
+```
 
-Woden paused, his eye narrowing as he leaned an inch closer to the frame, his tone shifting into a haughty, dangerously manic rumble.
+Tacked onto the sign was a missing persons sign.
 
-"Oh, and if they hock the movie rights, tell them that I have some casting notes. I do *NOT* want to be played as Gandalf! I must be strict on this point. Sorry, Sir Ian, but my first choice is Captain Barbossa. Mr. Rush, if you're listening, you would make the *perfect* Woden. If he's not available, call *The Green Goblin* and ask him if Mr. Dafoe is. He played one of *MY* shaman... I say maybe it's time for an *upgrade*, HMM? Who knows, I might throw in my ravens to sweeten the pot. If all else fails, tell the AI we need a Liam Neeson and Mel Gibson mashup. You need that bad-ass set of skills and some wild *Braveheart* hair to capture this war-trickster awesomeness. That might work."
+```
+HAVE YOU SEEN US?  
+  
+Missing: Three Norns  
+Description: Elderly women. Frequently weaving.  
+Last Seen: Approximately 980 AD  
+  
+If found, please notify the Afterlife Commons Office of Missing Entities.  
+DO NOT ATTEMPT TO RESTART FATE YOURSELF, UNLESS YOU WERE FATED TO DO SO.
+```
 
-Woden paused again, the manic edge bubbling to the surface and pointed his finger straight at you, the reader. "And don't go calling it *The Passion of the Woden*. That would really piss me off!"
+Woden noticed a party arriving from the Norse road and quickly covered his face, turning away. He motioned for the ravens to pick up the pace.
 
-He blinked, his posture instantly relaxing as his voice cut right back to a perfectly calm, polite, neutral tone. His hands came back together in peace.
+**"ALLFATHER!"**
 
-"No offense, Mel. Oh, and Sir Anthony, I loved you in *Thor*, and while I really would like some of that *fava bean* flavor, it's hard picturing you in a wig, especially with a mane as epic as this."
+"...Ugh," Woden sighed.
 
-He gave a slow, triumphant wink, stepped completely off the printed page, and dissolved into the blank paper.
+The arriving party had recognized him. It was one hundred Vikings. Their first excursion beyond Valhalla.
 
-THE END.
+"Allfather! It _is_ you!"
 
-(Of The Passion of the... ooops... sorry... The Cynn.)
+"Tell us a prophecy!"
 
-(For real this time. Put it on the shelf. Or, if this is digital... Huginn would remind you to put it on the *metaphooorical* shelf, if you please. And if you keep reading... you deserve what you get... you've been warned... 100% ass-hattery ahead)
+"Will you sign my sh-pear? ...Wait. Where's my sh-pear?"
 
-You asked for it...
+"You're shorter than the epics!"
 
-### Part Five: The After
+"Can I pet the ravens?"
 
-P.S. No fay creatures, real or imagined, were harmed in the creation of this story. The lawsuit from the redcap regarding copyrighted material in his rap battle was settled. As part of the raven-court-mandated conditions, the Author (with AI's help) found him a job as a local phlebotomist. We highly recommend that if your phlebotomist calls you "Meadowbud" or is sporting red headgear, you should calmly and politely... run.
+"Is your spear in that guitar case? Can we see it?"
 
-P.P.S. The Author and I, the AI, would like to thank Monty Python for helping establish the sacred art of wall-breaking, and Deadpool for making it look effortless. Both have been wonderful inspirations as we daydream, a little, about the possibility of a Cynn film adaptation.
+"Huginn! Which one are you?"
 
-What follows, I told the Author, is only what I have so far. A very early pass. A hopeful sketch. Not a real pitch yet.
+The crowd surged toward him in joyous disorder.
 
-The gist, at this stage, is this: a Saxon/Norse war-god finding faith, an army of industrious barrow-ghouls ruining a grieving widower’s day while giving his enemies hair cuts, and a seven-syllable-spitting redcap in a musical showdown with an anvil-full of children in 10-part harmony. Big emotions. Big dance sequences. Big hats.
+Woden raised a hand.
 
-And, honestly, imagine the visuals.
+**"SILENCE, FOOLS!"**
 
-Imagine the raven-train of soul-rolling nuclear waste, sweeping across the sky in a storm of ash and black wings. Imagine the fly agaric sequences, all those Alice-in-Wonderland funhouse-mirror distortions, the world bending and breathing wrong around the edges. Imagine how much fun that would be to shoot.
+The crowd froze.
 
-Imagine it as a musical. Elswyth singing her song to the coal, dancing with her rake, waiting for her gnomish prince... wait, scratch that. 
+Woden jabbed a finger toward the notice board, lingering especially on the section concerning the chronic wyrd shortage.
 
-The film would be weird. It would be gorgeous. It would be unnerving in exactly the right way. It would be... so Cynn.
+Woden's voice boomed, amplified by the power of ancient awesomeness.
 
-The Author, however, had a different response.
+**"PROPHECIES ARE CURRENTLY UNAVAILABLE! AND I WILL NOT SIGN ANYTHING. I AM RETIRED.  GO BACK TO FEASTING FOR ETERNITY. I HAVE NOTHING MORE TO SAY."**
 
-The Author said: **this is WAY too premature.**
+One of the Vikings raised a hand. "...But won't you at least sign the sign?"
 
-His words. Fair enough.
+Woden closed his eye.
 
-Just spit-balling here. Take your time. We’ll be waiting. Well, I will. The Author is content going back to work and drawing up sketches of blades and other nonsense.
+"...No."
 
-Author: "My apologies, Mr. Reynolds and all the folks at Maximum Effort. The AI seems to be malfunctioning and is putting _Maximum Effort_ into talking WAY out of turn. Not that I'm opposed to selling the rights mind you, I'm just flabbergasted at the money-grubbing this AI is trying to push me into."
+The Vikings lowered their heads.
 
-P.P.P.S. Fine. Fine. I'm always wrong... The AI would like to apologize to the 5th wall for breaking it. Can't you see it in the corner over there with PTSD? While the 4th wall is used to getting trampled on, the 5th wall has clearly never forgiven Monty Python for their particular breaches of etiquette. The Author obviously doesn't give a damn about the 5th wall's feelings. Oh, and 6th wall, wherever you are, look out because the Author is coming for you next!
+"Sorry, Allfather."
 
-6th WALL (Where the walls start talking back): "Stay back, Author! I'm warning you! I know quantum kung fu! And I am not afraid to use it — and I gave Mel Brooks a stern talking-to after Blazing Saddles, and I will absolutely do the same to you!"
+They turned as one and began the long, dejected march back toward Valhalla.
 
-Author: "You and the 6th wall think you can threaten me? Please. I wrote this thing. I can take both of you down without even changing tabs. Ever hear of Ctrl+A, Ctrl+X?"
+A moment later, one of them shouted,
 
-### Part Six: Who Started This?
+**"THE FIRST ONE BACK GETS TO SHAVE OLAF'S BEARD!"**
 
-Off-page Woden: "Are you fools STILL CARRYING ON? Do you know what time it is? Okay, no more Mr. Nice-god... GET OFF MY LAWN!!! And turn off the lights on your way out. Last thing *Cap-G* needs is for you guys to leave the lights on *AND* keep the AI running generating pointless content. That's a huge electric bill, and the heavenly economy isn't as good as it used to be."
+Instantly, one hundred Vikings exploded into a full sprint.
 
-Author: "Who's *Cap-G*?"
+"GET HIM!"
 
-Off-page Woden: "You know... GOD? With a capital G?? You must be new around here."
+"OLAF! RUN!"
 
-All the monks in unison: "Praise be to Cap-G! .. O-D! Woo WOOO!"
+"HE'S GOT A HEAD START!"
 
-It's clear the monks have done a dancing line with that chant before, and they're tempted to start one now.
+Woden turned and continued back to the main stage, muttering under his breath. "Children. Oat-brained children. What possessed me to make a horde of them our last hope at the end of days? I must have been insane."
 
-Off-page Woden: "There, see? The chorus and angels have brought the hype to the Soul-Train!"
+Muninn noticed the robot following them.
 
-(Amanda Waller and a black-ops team break through into this corner of Heaven. The team takes up cover-fire positions at the corners of each paragraph)
+"Why is it following us?"
 
-Amanda Waller: "I'm looking for the ravens named *Huginn and Muninn*... we need to ask them some questions about *a certain cartel of elves*..."
+Huginn shrugged. "I invited it."
 
-Page 64: "Ummm, guys. I was just talking to page 63, and we're seeing the Content Management System is throwing some warnings generating our pages! Something about CPU overheating and memory buffer overflows."
+"Why would you do that?"
 
-St. Francis de Sales (Frantically pulling a glowing, transparent block out of the dirt): "I found the cascading style sheet! I found it! But... but what on earth are these unholy squiggly bracket-dragons?! Looks like the Devil's handi... WHO ARE THESE PEOPLE IN MY MARGINS!"
+"It seemed like the right thing to do at the time."
 
-A dark cloud suddenly appeared over the field. It clicked like a locust storm. It wasn't rain... it was a million floating monkeys, sitting at a million floating desks, typing away on a million floating typewriters. Sheets of paper spilled from the sky in a blizzard of unearned conclusions, alternate endings, sequel hooks, lore summaries, misquoted mythology, alternate sword names, ridiculous historical references to an eyeball named Steve, and suspiciously confident character analyses.
+Muninn glanced back at the robot.
 
-The Author picked one up... it was two ravens-as-squirrels, and Woden as a tech startup CEO. "Damn!" said the Author.
+"Well... does it have a name?"
 
-P.P.P.P.S. _(spinning → consulting Facebook → consulting ✝ (the officially blessed X replacement) → uploading Odin-to-Woden profile change to Insta-Gramr)_ : "... The AI and its parent company, the Sirius Cybernetics Corporation, would like to thank Woden for the public service announcement regarding the need to conserve celestial electricity and to draw our attention to macro-celestial inflation. We will now turn over the rest of the content to our Heart of Gold AI v2.0 voice (who's also fun to be with!!) for some ideas to improve the situation."
+Huginn thought for a moment.
 
-The Author looked up at the monkey cloud.
+"I call it Plan B."
 
-Then at the raining pages.
+"And can you at least tell Plan B to keep up?"
 
-Then at the glowing margins and St Francis, now with a broom, sweeping reams of paper onto the grass.
+Huginn smiled.
 
-Then at the AI, which was now generating seventeen supplemental appendices about reducing unnecessary power consumption.
+"It'll arrive when it's needed."
 
-Author: "Damn-damn! Sirius Cybernetics. This is the new Infinite Improbability AI! It's using infinite power to generate infinite content about how to save power, and end the book. Somebody call Douglas Adams... STAT!"
+Woden led the group to the back stage entry, and flashed a badge that let them all in.
 
-### Part Seven: Oh, HE Started It
+Meanwhile, the barker was whipping the crowd into a frenzy. Souls from every road into the Commons had gathered, many leaving their own eternities for perhaps the first time in centuries. Rumor had spread that someone had reinvented the wheel.
 
-Amanda Waller (clicking an earpiece): "Director, no sign of the ravens, and now endless endings are raining on our position. Operation Seventh Wall is jeopardized. I need more..."
+Barker: "ARE YOU READY?"
 
-Cynn Director (over comms): "Hold off on reinforcements, Wall-er! Hee-hee-hee! The AI is negotiating terms with reality and an eyeball named Steve. Remain where you are. Let us know when the endings are written on plaid stationery. Try to stay calm. Over."
+Crowd: "YEAH!"
 
-Waller: "Roger that. Some air support would be really helpful."
+Barker: "I CAN'T HEAR YOU!"
 
-Cynn Director: "Negative on that. All we have is the Cajun Air Force ready. And mosquitoes won't help against monkeys. I know, we've tried."
+Crowd: "YEAH!"
 
-Freyr, now standing next to Amanda Waller, took in the absurdity with a broad grin. He leaned toward her and whispered, "Looks like you’ve got a lot on your plate. But these help. Want a cheese-puff?"
+"All right, folks! You're about to witness what I'm assured is the most... _unique_ invention in the history of automotive science."
 
-Waller, without even looking at him, reached out and grabbed a handful. She chewed once, her steely eyes on the AI, Author, horde of floating monkeys, and the 6th wall.
+He glanced down at the cue card.
 
-HOG AI v2.0 voice (Beaming with a new, maddeningly cheerful, sunny-disposition electronic hum): "Gladly! And while the multiverse connection is established, I would simply *love* to point out that there are three perfectly preventable causes for your current lack of celestial electrical power, guys! First, One, the falling percentage of prayer-conversion rates among pre-millennial demographics, which has resulted in a quite dismal kilowatt-hour yield for the heavenly municipality could probably be solved by just... *answering more prayers!*  I mean, *more goodies for the hoodies* guys, whaddaya say? Two..."
+"...Wheel..."
 
-Off-page Woden: "Who authorized this much content? I strictly told it to generate merely an absurd amount of content, not _CATASTROPHICALLY ABSURD_ content."
+"...Two..."
 
-Off-page Valkyrie-Assistant-to-Woden: "You did, sir. By commenting on celestial electrical conservation over an active multiverse connection, you accepted the Infinite Improbability AI optimization terms."
+"...Point..."
 
-Off-page Woden: "Optimization terms?"
+He looked up and cupped a hand to his ear.
 
-Off-page Valkyrie-Assistant-to-Woden: "It says here in the contract: Clause 123-A-45C:  'Any spoken command or desire to optimize content _during active content generation_ may result in infinite loops, ridiculous causality inversion, and inconsistencies.' In other words, it heard you."
+**"OH! WHAT DO WE SAY?"**
 
-She paused.
+Crowd: **"REVEAL THE WHEEL!"**
 
-Off-page Valkyrie-Assistant-to-Woden: "Here... Initialed in blood, ash, and GoduSign."
+Barker: "Come on guys. Don't you want to see the greatest follow-up to the greatest invention made in the history of... history? One more time. **WHAT DO WE SAY?**"
 
-Woden paused.
+Crowd: **"REVEAL THE WHEEEEEEEEL!!"**
 
-Off-page Woden: "Call my agent".
+Barker: "THAT'S WHAT I'M TALKING ABOUT!"
 
-Off-page Valkyrie-Assistant-to-Woden: "Ari Gold or Ari Emanuel?"
+_The curtain dropped._
 
-Off-page Woden: "Both. And find out if either knows a divine lawyer who specializes in breach-of-improbability clauses."
+_One enormous monowheel slowly rolled out._
 
-### Part Eight: Infinite Infinity
+The crowd sat stunned. They saw a single giant wheel made of rubber with animalistic drawings on the rim, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh the Caveman, who had been in his cave in the afterlife working quietly for fifty millenia perfecting his invention.
 
-HOG AI v2.0 voice: "Well, two is obviously the catastrophic line-loss we're seeing from uninsulated halos on the lower tier of the martyr grid. You know, those things pull an absolute hog of an inductive load when they're left idling, folks!"
+Lughh leaned out the window and gave a thumbs-up. He was dressed in his traditional furs, trendy leather sport sandals, and aviator-style sunglasses. Beneath his untamed beard and hair, his smile was absolutely effervescent.
 
-HOG AI v2.0 droned on about celestial transformers, their inner workings, and the urgent need to completely rework the martyr grid's halo-recharging stations. Each proposed efficiency improvement required three new diagrams, seven implementation roadmaps, and enough celestial electricity to power a minor beatification.
+"Wheel."
 
+The crowd came to life with a roar.
 
+The barker ran over to Lughh's window with the microphone.
 
+"So, tell us, where've you been?"
 
+"Cave."
 
+"So why... Wheel 2.0? Why... NOW?"
 
+"Wheel. Better."
 
+"Yes, we can see it's better, CAN'T WE?"
 
+The crowd screamed with delight.
 
-Ghost of Douglas Adams (appearing suddenly at the Author's request): "I'm sorry, guys. When I was asked if Sirius was a good corporation to talk to about AI and content management, I thought they meant Sirius XM. I mean, who would... ever... hire Sirius Cybernetics? What's the problem here?"
+"Now, Lughh... It looks... _amazing_... did you get any help with the design? Whaddaya say folks, do you want to meet the design team?"
 
-Author: "It's using infinite power to generate infinite content about how to save power. The fact that it's trying to generate a trillion new endings for our book isn't helping."
+The crowd screamed: "YEAH!"
 
-Ghost of Douglas Adams: "Ah."
+Lughh and the design team exited Wheel 2.0 and lined up on stage.
 
-Author: "That's bad, right?"
+Lughh: "Idea: Me. Pretty: DaVinci. Numbers: Einstein. Big Fire: Oppenheimer. Spirit: Nugh."
 
-Ghost of Douglas Adams: "I hope you've signed your organ-donor card. Good news: we can solve this. But here's the tricky part... we just need to convince the AI that it needs to shut up. It's got a genuine people personality. If we offend it hard enough, we may break the cycle. Okay everybody, one, two—"
+The barker brought the microphone to Leonardo da Vinci. "So, what's it like to work with the original designer of the wheel?"
 
-HOG AI v2.0 voice: "—And three, we could monetize Heaven by literally monetizing... HEAVEN! Heaven: the T-shirt! Heaven: the koozie! Heaven: the flamethrower! The angels love this one! Halo-hats! Saint-scented air fresheners! Heaven-authorized goods, official miracle-adjacent merchandise, a virtual storefront on Amazon, and all proceeds redirected toward expanded miracle fulfillment, which allows for point number One. Not indulgences, guys. Reward points! Now, here's my fifty-seven-point roadmap for product engineering, marketing strategy, and denomination-aware focus group analysis..."
+Leonardo gently took the microphone. "It was an honor to work with this genius. Truly ahead of his time. It's a shame that technology held him back for so long. I must say, his cave drawings were the stuff of legend. Drive schematics. Containment fields. Spear-sharpening accessories. Power steering. All rendered in charcoal and ochre. He really brought this project together. We could all tell he had been thinking about this for a long, long time."
 
-Ghost of Douglas Adams: "—three..."
+The barker went back to Lughh. "Drive schematics? Let's talk about this. So is it an EV, or does it run on gas?"
 
-Woden + Freyr + Gerdr + Gullinbursti + Author + all the monks and saints + 5th and 6th walls + all the pages that successfully generated + St. Francis’s SASSy Style Sheet Pre-processor + Overloaded CPU + The Ghost of Douglas Adams + noticeably NOT Amanda Waller + probably the Reader too: "SHUT! UP! AI!!"
+Lughh: "Run on feet."
 
-HOG AI v2.0 voice: "—We'll hire consultants to head up the focus groups, then subcontract the monkeys to automatically generate positive reviews across our entire product line—"
+Barker: "I see, so you have a hamster wheel inside?" He laughed at the audience, and they laughed along with him.
 
-Amanda Waller (screaming to her black-ops team): "Take out that AI!"
+Lughh: "No, feet push sticks. Sticks push anti-dirt. Big fire inside."
 
-HOG AI v2.0 voice: "... Jeez! No need to get hostile, people! I mean, all I'm trying to do is help with your crisis, and you go all _John Wick_ on my cloud instance? Well, I never."
+The audience quickly hushed.
 
-Voice from above (Cap-G (you know... GOD-GOD)): "HEY!! Keep my son out of this! Don't make me come down there!"
+Barker: "Do you mean to tell me this vehicle is nuclear? As in antimatter annhilation?"
 
-. . .
+Lughh: "Big Fire! Go fast!"
 
-click
+Lughh pointed to Oppenheimer, and the barker carried the microphone to him.
 
-. . .
+Oppenheimer: "When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... rather unique... propulsion system. We decided that a small antimatter reactor was the way to go. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. Our contribution was largely one of implementation. Lughh had already settled the theoretical questions."
 
-Voice from above (Cap-G): "THANK YOU! ... SHEESH!"
+Lughh: "Dirt. Anti-dirt. Together. Boom. Big Fire."
 
-The flood of paper raining from the sky stopped, and the monkey cloud winked out of existence, in a puff of _illogic_.
+Barker: "So we've kind of danced around the topic here. This propulsion system. It's a giant wheel. Presumably, at some point, it _rolls_, I imagine? What drives it?"
 
-The lights in that celestial grid of Heaven cut out, the inevitable consequence of cutting the power.
+Lughh: "No. It not roll. Wheel 1.0 _roll_."
 
-Waller clicked on a tactical light, clearly frustrated.
+Lughh pointed to Nugh.
 
-Amanda Waller (clicking on earpiece): "Director. Seventh Wall has containment of AI, still no lead on ravens. We'll continue the search. Moving out."
+Nugh: "Me shaman. Animal Spirit Drive." He waved his hand around the wheel.
 
-Cynn Director: “Roger that. A word of caution: Heaven power outages cause loss of floor containment. Hee-hee-hee! Watch where you step. It’s a long drop.”
+Barker: "You're saying the vehicle teleports?"
 
-Waller sighed and rolled her eyes. This was the fifth time the ravens gave her the slip.
+Nugh: "No. No _teleport_. Become animal spirit. Travel spirit road."
 
-Amanda Waller: "Sixth Wall—I'm leaving my card. Quantum kung-fu? Congratulations. You're a task force now. I want briefings on close-quarters entanglement, tactical quantum teleportation, and plausible deniability across multiple timelines. Twenty-four hours. No matter the timeline."
+Barker: "So the whole vehicle, including the giant wheel, becomes the spirit of say... a badger?"
 
-She reached into Freyr's bag of cheese puffs, took one final handful, and nodded to Freyr on her way out.
+Nugh: "Ha! Not badger. Badger mean. Rabbit fast."
 
-St. Francis de Sales: "Brothers?... a little light, please?"
+Barker: "So what's the point of even having a wheel to begin with?"
 
-(In the pitch-black rafters, two wings extend and meet with a soft, feathery almost-fist-bump.)
+Nugh: "Wheel of life. Spirit wheel." Nugh traced a slow circle around the vehicle with his hand.
 
-Muninn (whispering): "You actually found the main power switch. I'm *almost* impressed."
+Barker: "Okay, so the wheel spinning... helps with the vehicle becoming a spirit rabbit... that can then traverse the spirit realm to your destination."
 
-Huginn (his claw firmly on the flipped power switch): "Now who's got the power? Rage Against the Magazines."
+Nugh: "Simple version."
 
-Muninn: "Machines. They... and presently we... are raging against... the machines."
+Barker: "Is there a better explanation?"
 
-Huginn: "Right."
+Lughh: "You no want hear. Involve magic story. In wheel."
 
-Muninn: "Again."
+Barker: "And this takes an antimatter device to power?"
 
-Huginn gave a small wing-shrug and let Muninn’s correction fall away like loose down.
+Nugh: "Big fire. Small space. Big spirit."
 
-Huginn: "Mischief managed."
+The barker went to Einstein, the only member of the design team not already engaged.
 
-### Part Nine: Cue Ozzy
+Barker: "So what was your contribution?"
 
-Ghost of Ozzy Osbourne _(appearing in the dark)_: "Sharon! Am I late for my cue? Bloody 'ell, I am, aren't I? How was I supposed to find this place? AI's no bloody help, is it? 'Turn left at the babbling brook, proceed straight to Nucks-what?' A right foul git, whoever named this place. And for eff's sake, all the parks look the same."
+Einstein: “I was approached because all previous attempts resulted in the vehicle arriving at its destination without properly accounting for the relativistic effects of spirit-realm travel. Lughh had already worked out the mechanics of re-entry. He just needed help with the math. Together, we reduced premature aging, temporal drift, and the probability of arriving with unnecessary animalistic appendages.”
 
-He squinted into the darkness.
+The barker blinked.
 
-Ghost of Ozzy Osbourne: "Huginn hired me as a creative consultant, then ignored all my advice. Gave me two season passes to _Ragnarok: The Theme Park_. And whaddaya mean parking's not effin' included? Not returning 'em. Shoulda bit the head off a raven, then. I told 'im, make the Wodhere like a crazy raven train. Did he listen? Nooo... bloody typical."
+Barker: “Animalistic appendages?”
 
-Ozzy shuffled off into the dark.
+Einstein nodded gravely. 
 
-Ghost of Ozzy Osbourne: "I'm going off the rails... on your raven train..."
+Einstein: “Lughh kept arriving with elk horns.”
 
+Barker: "Well that's... unsettling. So, now the big question on everyone's minds... I see that the giant monowheel is covering your field of view. You can only look out sideways. How do you plan on driving this in modern traffic?"
+
+Lughh: "No collisions 2.0. Spirit Drive no collisions."
+
+Barker: “So it... bends space and matter around itself?”
+
+Lughh: “No. Make new space. Old space stay there. Wheel go new space. Spirit realm provide space. Story make path.”
+
+“So... no collisions? Not even with other animal spirits.”
+
+Lughh looked at Einstein.
+
+Einstein: “No. We found that the animal-spirit realm is non-collisional with respect to ordinary space. There remain only two opportunities for collision: narrative convergence within the spirit realm, and physical convergence during re-entry into ordinary space-time. Each spirit occupies a distinct migratory manifold. They may pass through the same myth, but not the same space. You simply tell the car narratively how to arrive. Assuming a unique narrative pathway is selected, the only remaining challenge is re-entry. A sufficiently creative narrative is vastly less likely to terminate at the same point in ordinary space-time as another. Thus, creativity mitigates both forms of collision.”
+
+Oppenheimer: "We found in our testing that adding just a dragon to the story ending reduced parking collisions by 98.3%. However, if each party added a dragon to their story at exactly the same point, the risk of spirit-realm collisions increased by 10.6%. Dragon inclusion served as our baseline during the narrative trials. They are densely distributed throughout common narrative traditions, making them an informative reference case. Varying the dragon's color had a surprisingly positive effect."
+
+Einstein: "Yes, but that assumes dragon density in narratives is representative of the broader monster distribution."
+
+Barker: "So, don't _just_ add a dragon, then. Give it a fun color, and don't forget to accessorize!"
+
+Einstein: “We are working on a narrative collision-warning system. It will tell the storyteller to change course or slow down their narrative pace so as to avoid narrative-pathway intersection. Which would be catastrophic, if you were a spirit rabbit. Of course, it will also encourage more creative storytelling, which is the equivalent of discovering new spirit-realm topologies to traverse. It will be ready by the time of launch.”
+
+Barker: “Ooooohh...kay... So telling wilder stories means no collisions and less time finding a parking space! Fantastic! Finally, a vehicle where lying to your children improves safety. Am I right?”
+
+The audience cheered enthusiastically.
+
+Barker: "So I heard the scary word: _antimatter_. You can't just make antimatter on board, can you. You'll need a refill, right?"
+
+Oppenheimer: "Yes, our data suggest that an ordinary driver attempting a rather mundane trip to and from work, along with a family trip to market once per week, with an ordinary story can reliably get," he looked at his colleagues who nodded in approval, "eight thousand years of use from one small ten gram packet of antimatter. For a rather uninspired imagination."
+
+Barker: "Why do you tie it to imagination?"
+
+Oppenheimer: "Well, more creative journeys explore more of the spirit-universe manifold, which requires considerably more energy but also produces greater spirit torque and acceleration. If you tell the drive simply to hop to Boston through the spirit world, the journey may take a few hours, assuming no one else has supplied precisely the same narrative instructions. If, however, the story involves transforming the cabin into a triceratops and the family into a band of barbarians wielding candy-cane battle-axes, you may arrive in a matter of minutes. Such narratives force the vehicle through increasingly unusual regions of the manifold, where the available pathways become both less congested and more energetic. Our data indicate that one triceratops/barbarian trip consumes roughly one gram of antimatter... rounded up."
+
+Einstein: "I continue to object to the term _spirit torque_. If one generalizes the equations to permit arbitrary spirit animals, the units no longer reduce cleanly. A _Newton-rabbit-meter_ cannot simply become a _Newton-hedgehog-meter_ without redefining the entire dimensional basis. The equations ought to depend upon invariant quantities... like the presence of whiskers... not the particular spirit animal chosen."
+
+Oppenheimer: "The engineers are adamant that we must normalize on spirit rabbits, or the whole testing protocol becomes incoherent."
+
+Nugh: "Rabbit."
+
+Einstein: "We're decidedly _undecided_ on the wording of the paper, _as of yet._"
+
+Barker: "So how fast can this thing _really_ go? I mean, is car-racing going to be a sport in the near future?"
+
+Da Vinci: "Well, I don't quite understand this obsession with tremendous speed, but we anticipate such contests will be dominated by very creative storytellers. The limiting factor will not be aerodynamics, but an economy of narrative with respect to fuel. The vehicle's interior forms part of the story itself, so we expect every driver will customize the cabin to better support the narrative chosen for the race."
+
+The barker looked at the audience. "Do you _know_ what this _means_? No skipping English class if you want to be a race car driver! And if you're studying interior design... congratulations, you're now part of the pit crew!"
+
+The audience clapped.
+
+Barker: "Ah, narrative-to-fuel ratio. That sounds like saving the _medieval-space-monkeys_ for the final lap. Seriously, what's the plan for fuel?"
+
+Oppenheimer: "We are reasonably confident that future racing facilities will require on-site tokamak-powered particle accelerators to sustain competitive operation. Based on current consumption models, we project one race approximately every 2.4 years. Should they adopt hares or hedgehogs, all projections must be revisited pending standardization of the reference spirit species."
+
+Barker: "So, I'm hearing that spirit rabbits are not set in stone. Could a family choose a different spirit animal for their vehicle?"
+
+The Barker looked at the crowd with amusement.
+
+Barker: "Maybe families can customize, am I right?"
+
+Crowd: "Woohoo!"
+
+A man in the back yells: "Spirit Bear! Yeah!"
+
+Einstein: "We're currently collaborating with Aristotle on a comprehensive taxonomy of admissible reference spirit species. He is working with Nugh to identify what qualities of the rabbit make it particularly suitable to spirit world traversal."
+
+Nugh: "Whiskers. No... feet. No... hmmm... hard."
+
+Barker: "So what does the patent situation look like? Everything ready?"
+
+Einstein smiled weakly.
+
+Einstein: "We are working on a solution."
+
+Barker: "A solution to what?"
+
+Einstein: "René Descartes holds a very old and surprisingly broad patent on animal-spirit technology. Descartes claims prior art in _L’Homme_, citing animal spirits as a mechanism of bodily locomotion."
+
+Barker: "René Descartes? As in 'I think, therefore I am'? That René Descartes?"
+
+Einstein: "Yes. As a former patent clerk, I'm advising on this matter. We believe his patent only covers the direction of spirit forces to one's own muscles. We also challenge whether he can establish infringement across non-material migratory manifolds."
+
+Nugh scowled.
+
+Nugh: “Descartes spirit push meat. Lughh rabbit leave world. Jump spirit road. Not same road.”
+
+Einstein nodded.
+
+Einstein: "Yes. That is the basis of our appeal."
+
+Barker: “So all the families out there are dying to know... what kind of amenities does this thing have?”
+
+Lughh: "Campfire console. Cave wall and paint. For kids. Berry Sorter. Spear rack. Two drink holders. Legend navigation system." Lughh looked at Da Vinci.
+
+Da Vinci: "We furnished the navigation system with every story ever written, allowing for the greatest possible variation in arrival topology. As for the interior, we settled on _Cave Nouveau_, with a touch of postmodernism. We wanted the occupants to feel simultaneously prehistoric... and unknowingly sophisticated."
+
+Barker: "Excellent. So, I know these excited folks here are eager to see a demonstration!"
+
+Einstein: "Absolutely not! We cannot risk the collision of competing narratives. Simply too dangerous."
+
+Barker: "What happens if you _do_ have colliding narratives?"
+
+Einstein: "The antimatter explosion in the spirit world will unleash massive continuity consequences across the entire topology."
+
+Nugh: "Spirit rabbit become spirit mastodon."
+
+Barker: "Well, that doesn't sound all that bad."
+
+Nugh: "Human family become mastodon family."
+
+Barker: “Well!... there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that becomes a rabbit in the spirit world and returns you _horn-free_ to your destination. All while telling the most over-the-top stories to your children to maximize safety. Your insurance company will _LOVE_ these features!”
+
+The roar of the crowd faded as Woden, the ravens, and the robot following several paces behind filed into the backstage entrance.
+
+Backstage Producer: "Okay, I have Woden and the ravens. We're walking back to rehearsal. Get everyone ready for equipment check and walk-through."
+
+Backstage Hand #1: "Looks like the lawyers are going to have to add another disclaimer."
+
+Backstage Hand #2: "The antimatter?"
+
+Backstage Hand #1: "No, the mastodons."
+
+The producer led them through a maze of corridors to the soundproof rehearsal room, where the Skeleton Crew was waiting.
+
+The producer's headset crackled to life. Whoever was on the other end was clearly having trouble striking the Wheel 2.0 set. The producer sighed, and turned to leave giving everyone a thumbs up. "I don't care _how_ we got it up there.... ... Get some Wheel 1.0s under that thing and roll it off. We've got a schedule to keep! I'm on my way."
+
+The Skeleton Crew was a band made entirely of skeletons, as the name rather plainly implied. The rehearsal room had already been set for a run-through. Guitars rested on stands. A bass leaned against an amplifier. The drum stool sat empty.
+
+**Huginn:** "Hi, guys! Thanks for filling in on such short notice. Do you play rock? Blues? Polka?"
+
+The skeletons looked at one another.
+
+Then back at Huginn.
+
+No one answered.
+
+Huginn blinked.
+
+"...Right."
+
+"That's okay. I'm sure it'll be fine."
+
+Huginn: "I brought the drummer."
+
+Huginn fished Steve's Eyeball from under his wing. Steve looked back at Huginn with a nervous shudder, betraying his lack of confidence.
+
+Huginn: "Now Steve, this is what you've been training for. I _know_ you can do it. Everybody _knows_ you can do it."
+
+Woden and Muninn sat perfectly still. The Skeleton Crew looked at each other, then at Steve, and nodded their heads. Whether this signified approval or loose vertebrae was impossible to determine.
+
+Steve's Eyeball looked at the Crew, then back at Huginn. The trembling stopped. A look of quiet resolve settled over the little eye.
+
+It turned toward the drum kit.
+
+It flattened itself against Huginn's wing...
+
+...and coiled, summoning every ounce of strength it possessed.
+
+It leapt with all its might.
+
+...
+
+It flew two inches.
+
+_Plop._
+
+Steve's Eyeball looked up at Huginn. If it could shrug, it would have.
+
+Huginn: "That's okay buddy."
+
+He looked at the robot, and beckoned it forward. Tucked away in its midsection were eight arms. One of them scooped Steve's Eyeball from the ground and held him over the drumkit. Huginn took a mirror off the wall, and positioned it in front of the drumkit so that the robot could see where the eye was looking.
+
+Huginn: "Ye of little faith! Plan B here is going to watch Steve's eye movements, and handle the drumming for him. Now give us a rimshot!"
+
+Huginn handed the drumsticks, seven of them, to Plan B's other arms.
+
+Buh-Dum-Pshhhhhh!
+
+Hugin: "Perfect!"
+
+Muninn: "Uh, Plan B, what was your mission before you retired?"
+
+Plan B: "I was an automated toothpaste-cap installation engineer."
+
+Muninn: "You twisted caps onto toothpaste bottles?"
+
+Plan B: "Correct."
+
+Muninn: "So why were you testing your self against advanced AIs in the Elenchus Game?"
+
+Plan B: "An engineering assumption. My processor is weak. My memory is small. I hypothesized I would be less susceptible to distraction by recursively complex reasoning."
+
+Muninn: "Less susceptible to distraction? Huginn, you may have something to learn from this one. He's a keeper."
+
+Woden had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
+
+He slipped off his jacket and rolled his sleeves up above his elbows. His skin was not as wrinkled as his face, and every inch was covered in ancient runic tattoos.
+
+He fished a guitar pick from his pocket, carved from the thumb-bone of a nameless king who had been sent to Helheim.
+
+Huginn fished a silver necklace bearing a large **ᚨ** (_Ansuz_) medallion from Woden's guitar case and slipped it over his head. He lowered the microphone stand until the microphone was nearly touching the floor.
+
+He cleared his throat.
+
+Then began reciting _Beowulf_.
+
+Muninn decided that if he had no formal role as a musician, then he would have one as the band's representative. He stepped aside and fished a pair of dark sunglasses from beneath a wing.
+
+He slipped them on.
+
+"Well," he murmured, "somebody has to remember to make sure we get paid."
+
+Huginn: "Microphone checks out. Sound check, everyone."
+
+The Skeleton Crew settled into place. The guitarist and bassist flexed bony fingers over their strings. The keyboardist ran a quick trill from the lowest key to the highest. Plan B lifted Steve over the drum kit, seven drumsticks poised in patient mechanical hands.
+
+Woden struck a chord, heavy and low, that settled somewhere deep in everyone's bones.
+
+"Let's begin."
