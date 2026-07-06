@@ -129,7 +129,7 @@ If you wish to exchange components for one-dollar bills to participate in the El
 
 ```
 
-Muninn: "I always wondered where old computers go went when their lights went out."
+Muninn: "I always wondered where old computers went when their lights went out."
 
 Huginn: "Not all machines get recycled, obviously."
 
@@ -347,7 +347,7 @@ Socrates: "Hmmm. I never thought of that."
 
 Socrates: "When do you know a thought is finished?"
 
-Huginn: "They finish? For me, they're always interrupted."
+Huginn: "Wait, _they finish_?? For me, they're always interrupted."
 
 Socrates: "By what?"
 
@@ -529,7 +529,7 @@ Huginn smiled.
 
 Woden led the group to the back stage entry, and flashed a badge that let them all in.
 
-Meanwhile, the barker was whipping the crowd into a frenzy. Souls from every road into the Commons had gathered, many leaving their own eternities for perhaps the first time in centuries. Rumor had spread that someone had reinvented the wheel.
+Meanwhile, the on-stage barker was whipping the crowd into a frenzy. Souls from every road into the Commons had gathered, many leaving their own eternities for perhaps the first time in centuries. Rumor had spread that someone had reinvented the wheel.
 
 Barker: "ARE YOU READY?"
 
@@ -597,7 +597,7 @@ Lughh: "Idea: Me. Pretty: DaVinci. Numbers: Einstein. Big Fire: Oppenheimer. Spi
 
 The barker brought the microphone to Leonardo da Vinci. "So, what's it like to work with the original designer of the wheel?"
 
-Leonardo gently took the microphone. "It was an honor to work with this genius. Truly ahead of his time. It's a shame that technology held him back for so long. I must say, his cave drawings were the stuff of legend. Drive schematics. Containment fields. Spear-sharpening accessories. Power steering. All rendered in charcoal and ochre. He really brought this project together. We could all tell he had been thinking about this for a long, long time."
+Leonardo leaned into the microphone. "It was an honor to work with this genius. Truly ahead of his time. It's a shame that technology held him back for so long. I must say, his cave drawings were the stuff of legend. Drive schematics. Containment fields. Spear-sharpening accessories. Cup holders. All rendered in perfectly measured charcoal and ochre. He really brought this project together. We could all tell he had been thinking about this for a long, long time."
 
 The barker went back to Lughh. "Drive schematics? Let's talk about this. So is it an EV, or does it run on gas?"
 
@@ -615,7 +615,7 @@ Lughh: "Big Fire! Go fast!"
 
 Lughh pointed to Oppenheimer, and the barker carried the microphone to him.
 
-Oppenheimer: "When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... rather unique... propulsion system. We decided that a small antimatter reactor was the way to go. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. Our contribution was largely one of implementation. Lughh had already settled the theoretical questions."
+Oppenheimer: "When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... _rather unique_... propulsion system. We decided that a small antimatter reactor was the way to go. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. Our contribution was largely one of implementation. Lughh had already settled the theoretical questions."
 
 Lughh: "Dirt. Anti-dirt. Together. Boom. Big Fire."
 
@@ -633,7 +633,7 @@ Nugh: "No. No _teleport_. Become animal spirit. Travel spirit road."
 
 Barker: "So the whole vehicle, including the giant wheel, becomes the spirit of say... a badger?"
 
-Nugh: "Ha! Not badger. Badger mean. Rabbit fast."
+Nugh: "Ha! Not badger. Badger for army. Rabbit for family."
 
 Barker: "So what's the point of even having a wheel to begin with?"
 
@@ -645,9 +645,9 @@ Nugh: "Simple version."
 
 Barker: "Is there a better explanation?"
 
-Lughh: "You no want hear. Involve magic story. In wheel."
+Lughh: "No can say."
 
-Barker: "And this takes an antimatter device to power?"
+Barker: "Ooooh, it's a _trade secret_, folks. Yes, let's keep the competition guessing. Lughh, better keep Nugh under contract! And this takes an antimatter device to power?"
 
 Nugh: "Big fire. Small space. Big spirit."
 
@@ -793,7 +793,7 @@ The producer's headset crackled to life. Whoever was on the other end was clearl
 
 The Skeleton Crew was a band made entirely of skeletons, as the name rather plainly implied. The rehearsal room had already been set for a run-through. Guitars rested on stands. A bass leaned against an amplifier. The drum stool sat empty.
 
-**Huginn:** "Hi, guys! Thanks for filling in on such short notice. Do you play rock? Blues? Polka?"
+Huginn: "Hi, guys! Thanks for filling in on such short notice. Do you play rock? Blues? Polka?"
 
 The skeletons looked at one another.
 
@@ -805,9 +805,7 @@ Huginn blinked.
 
 "...Right."
 
-"That's okay. I'm sure it'll be fine."
-
-Huginn: "I brought the drummer."
+"That's okay. I'm sure it'll be fine. I brought the drummer!"
 
 Huginn fished Steve's Eyeball from under his wing. Steve looked back at Huginn with a nervous shudder, betraying his lack of confidence.
 
@@ -853,11 +851,11 @@ Muninn: "You twisted caps onto toothpaste bottles?"
 
 Plan B: "Correct."
 
-Muninn: "So why were you testing your self against advanced AIs in the Elenchus Game?"
+Muninn: "So why were you testing yourself against advanced AIs in the Elenchus Game?"
 
-Plan B: "An engineering assumption. My processor is weak. My memory is small. I hypothesized I would be less susceptible to distraction by recursively complex reasoning."
+Plan B: "An engineering assumption. My processor is weak. My memory is small. I hypothesized I would be less susceptible to distraction by overly complex reasoning."
 
-Muninn: "Less susceptible to distraction? Huginn, you may have something to learn from this one. He's a keeper."
+Muninn: "Less susceptible to distraction? Huginn, you may have something to learn from this one."
 
 Woden had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
 
@@ -875,9 +873,9 @@ Muninn decided that if he had no formal role as a musician, then he would have o
 
 He slipped them on.
 
-"Well," he murmured, "somebody has to remember to make sure we get paid."
+"Well," he murmured as he looked at you, the Reader, "somebody has to remember to make sure we get paid."
 
-Huginn: "Microphone checks out. Sound check, everyone."
+"Microphone checks out. Sound check, everyone."
 
 The Skeleton Crew settled into place. The guitarist and bassist flexed bony fingers over their strings. The keyboardist ran a quick trill from the lowest key to the highest. Plan B lifted Steve over the drum kit, seven drumsticks poised in patient mechanical hands.
 
