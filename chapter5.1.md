@@ -1,221 +1,271 @@
 ## Chapter 5: The Blades
 
 ### Part 1: The Debate
-# Debate Chapter Outline
 
-### I. The Request
+Woden met Freyr high in the summer air, looking down upon the patchwork fields of the Danelaw. Mortals were going about their daily lives. They could see every detail: the thin blue smoke of charcoal kilns rising from the eaves of Charnwood, the slow crawl of oxen pulling plows through the heavy Midland clay, and the sharp, square towers of stone churches rising where sacred oak groves had once stood.
 
-Woden comes to Freyr seeking access to the Cynn.
+Freyr looked every bit the god of harvests and abundance. He had broad, sun-browned shoulders, an ever-present smile, and a tunic woven of gold and silver thread that caught the midday light like ripe wheat. When he spoke, his thick forearms cast wide, sweeping arcs, and his voice was boisterous and resonant, carrying the warmth of a summer afternoon.
 
-The request appears practical.
+Woden was in front of him, wrapped in his dark, wind-torn cloak, his wide-brimmed hat casting a deep shadow over his face. In his hand was his spear, _Gungnir_, gripped tight. He was a cold draft in the middle of August.
 
-He needs three blades forged.
+Woden began.
 
-Three specific mortals.
+Woden: "I've asked you here for... a favor."
 
-Three specific purposes.
+Freyr: "Haha! I knew it wasn't for my joyous demeanor. But you seem unsure."
 
-Freyr immediately notices something strange.
+Woden: "Don't make this any harder than it is! You know I hate..."
 
-These are not kings.
+Freyr: "... asking for favors. Yes. But you know, of all of _our_ gods, I'm as approachable as the spring rain."
 
-Not heroes.
+Woden looked to the people below.
 
-Not champions of the old ways.
+Woden: "I have... a problem. I'm losing sight of the convergences. As you know, there was a time when I could see every convergence in _wyrd_. I could predict which Viking would betray, which mother would have twins, which wolf would find its way home... and which would not. This new shepherd has quite... unsettled me."
 
-They are people who stand between worlds.
+Woden pointed his spear at a farmer. "There, that farmer. I had known of a convergence with him and his lost son that would eventually happen. Three winters ago, the boy wandered south after a raid. I knew the father would not find him then. I knew he would return when the apple trees flowered for the third time. It _did_ happen last spring after three years."
 
-The question arises:
+Woden closed his eye. "And now? ... Nothing. The boy came back with a cross around his neck."
 
-> Why these three?
+Freyr: "You think this _Christ_ is the disruption?"
 
----
+Woden: "I cannot know. The Norns' tapestry is going dark, my Vanir brother, and I don't know why. If I have seen convergences in our people, in our history, then why could I not see this _Christ_ coming? Surely he and his followers were fated to meet ours. And yet... nothing."
 
-### II. The Dying Field
+Freyr: "So what of the Norns? Have they nothing to say?"
 
-The gods observe England below.
+Woden: "Everyone thinks I converse with them. Truthfully... I've never actually met them. No one realizes that if I _actually_ had their ear, we wouldn't be facing Ragnarök."
 
-Churches rise where groves once stood.
+Freyr: "And what would you have me do? Do as the Æsir do? Challenge _Christ_ to a duel?"
 
-Old customs persist beneath Christian language.
+Woden: "DO NOT MOCK ME!"
 
-The Danelaw appears neither pagan nor Christian.
+Freyr: "Ah, there's the Woden I know. It's unbecoming to see you... unsettled."
 
-Freyr sees continuity.
+Woden set his one-eyed stare on Freyr.
 
-Woden sees replacement.
+Woden: "You think this is my problem alone, don't you? All our gods, the Æsir, the Vanir, the Nine Realms, _everything_ is threatened. And you see fit to make jokes."
 
-This introduces the central disagreement.
+Freyr studied the countryside, and the summer sky.
 
----
+"I'm not concerned, actually."
 
-### III. The Wolves and the Sheep
+Woden's eye became a piercing star that flashed with scorn.
 
-The shepherd confession emerges.
+"_NOT CONCERNED??_"
 
-Not as confession.
+Freyr: "Have you stopped to consider that life travels in seasons, old friend? Why should this be any different? If _wyrd_ is slowing its reveal to you, maybe the season is changing. This _Christ_ may not be a competitor. He may not be _your enemy_. He may be the next season. And we are merely... fall.
 
-As metaphor.
+Winter is coming. I always believed you when you said Ragnarök would end _us_, especially if we were unprepared. I took it to be the winter of _our gods_. I took Valhalla, the valkyries, and the training of dead heroes to be your way of storing grain for the winter.
 
-Freyr recognizes the wolves.
+And now, I'm just as prepared for this possibility as _Ragnarök_. Because perhaps _Christ_ is truly the winter of _our gods_. If the convergences are fading, perhaps the convergence you know as _Ragnarök_ never actually existed as you thought it did.
 
-The ulfhednar.
+The difference now is, should we fight this _Christ_? Does one fight with winter, or prepare for it?
+"
+Woden stared at the moving clouds as if they might give him some wisdom to answer the question.
 
-The old gods.
+Woden: "How do I even answer that question, if I don't understand what I've lost? Every god relies on me. ME! I AM THE ALL-FATHER! I am _destined_ to be cursed with the knowledge of our doom. I alone carry that burden. And I alone am destined to lead us through the end of days."
 
-The old obligations.
+Freyr: "But perhaps that weight has skewed your thinking. If _Ragnarök_ is not truly a convergence, then your burden is to lead us into our next spring. Not one sustained by human worship, but one sustained by existence itself."
 
-Woden admits:
+Woden: "But the All-Father is..."
 
-> The sin is not the dead sheep.
-> 
-> The sin is abandoning the wolves.
+Freyr: "... is what? What we've all assumed it would be? The _law-giver_ of the gods? The leader through the _final battle_? I think you're mourning your lost title as much as your life. And now, we both suspect, you might not have to lose either."
 
-The first crack appears in Woden's certainty.
+Woden: "This is all easy for you to say. You gave up your sword to marry Gerðr. You embraced your doom, knowing that your choice would make you die in _Ragnarök_. Now, you see hope. Perhaps you're the fool."
 
----
+Freyr's smile grew larger.
 
-### IV. The First Blade: Beorg-ecg
+Freyr: "Ha! Yes, I made that choice. The truth is, I'd have made it _every single time_. Our choices are made stronger if they are weighed against certain death. It was always the right choice. And hope vindicated my choice. Does that make me a fool? No, it means that life was more generous than I expected. Either way, I am happy.
 
-Freyr's attention turns to Osric.
+We cannot purchase certainty. Not with an eye, or a noose hung around the Tree of Life, or a planting of seed. We can observe cycles, but that is the most certainty we'll ever know.
+"
 
-Discussion centers around grief.
+Freyr swept his arm to the countryside below.
 
-Memory.
+"Look upon my followers. Of course they pray to me for rain, and bountiful harvests, and all of the things that are out of their control. But they are not idle... They plant a seed because they must be hopeful, yes, but they do not plant it randomly. They choose times. They choose specific places. Why?"
 
-Replacement.
+Woden looked down with a keen eye. For the first time, he did not see hope as a weakness or a luxury. "Because they plan."
 
-Belonging.
+Woden hung in the air, his one eye following the farmers below as though he were seeing them for the first time.
 
-The Shadow-Hearth.
+"This still does not answer why I have lost my sight. So, whether I accept your conclusion still depends on understanding _that_ loss. I do yet see some convergences, and that is why I'm here."
 
-Freyr argues:
+Woden's eye settled on individuals.
 
-> New life can grow from loss.
+"I see an opportunity. I see three people."
 
-Woden asks:
+Freyr joined Woden by his side, eager to see what Woden does.
 
-> Is a replacement still the thing lost?
+Woden: "I have seen a convergence. Three strangers. I see a farmer, Osric, he prays to the _Christ_ as well as occasionally to you."
 
-The question remains unresolved.
+Freyr: "Yes, wife is Ealhild. She is one of my most devout."
 
-Imagine Freyr saying:
+Woden: "And there, I see a charcoal girl, Elswyth, with her family. They pray to the _Christ_ and their _saint_, yet they save coal for your forge-elves."
 
-> "If Ragnarök was certain, then I merely accepted a cost.
-> 
-> But if Ragnarök was uncertain, then I wagered everything."
+Freyr: "Yes, they do enjoy the gift."
 
-Woden falls silent.
+Woden: "And there, making his bells. I see Cynewulf. He is studying to be a priest of the _Christ_, but I can still see _wyrd_ in him, for now. The convergence suggests he has a fall. He will not be a priest for long."
 
-Because he understands gambling.
+Freyr: "Yes, I do not know this one. But I see his craft. His father, from the look of it, has craft as well. Cynewulf's craft will see them through his hardship, I suspect."
 
-He understands risk.
+Woden: "Why do you say that?"
 
-He understands sacrifice.
+Freyr: "You look for certainty, I look for patterns. Cynewulf works hard at his bell-forge. He seems smart and able. He lacks temperament and experience. Men like him usually discover what they must to survive."
 
-What he cannot tolerate is uncertainty.
----
+Woden: "There is a fourth, whose convergences I have seen from the day of his birth. And this is where the opportunity lies. His name is Wolfhere. He is a strong believer in my cult. By the time the convergence comes, he will be leader of my wolves."
 
-### V. The Second Blade: Monanleoht
+Freyr's eyes widened a bit.
 
-The discussion shifts to Elswyth.
+Freyr: "So these three will meet a band of your warriors. And you're expecting slaughter."
 
-Desire.
+Woden: "There _will_ be slaughter."
 
-Ecstasy.
+Freyr: "That is a cycle of life. The wolves cull the weak and unprepared. The survivors must learn what they can to prevent it from occurring again. I do not wish it for any mortal, but it is a burden they must carry."
 
-Freedom.
+Woden: "You misunderstand. I have an opportunity. To intervene. To prepare them. To even the odds."
 
-Manipulation.
+Freyr: "What exactly are you suggesting?"
 
-The redcap.
+Woden: "_Wyrd_ is losing its hold, and yet I cannot see how these mortals perceive that loss. And knowing how mortals perceive _wyrd_ now may yet be... informative.
 
-Freyr sees transformation.
+These three have different relationships to the _Christ_. Osric's faith is occasional and transactional. It is born out of necessity more than true devotion. He would just as quickly abandon it to worship you if he thought that meant more rain. Elswyth's family's faith is driven more by intent, but they still hold to pagan beliefs... your forge-elves to be precise. And Cynewulf, he was born into his faith and lives it... for now.
 
-Woden sees temptation.
+Each one of them, if they were to meet my wolves in battle, would almost certainly die."
 
-The first explicit discussion of free will emerges.
+Woden studied the camps of his cults, looking at each Ulfhednar individually.
 
----
+Woden: "What I'm about to suggest pains me more than you can ever imagine."
 
-### VI. The Third Blade: Wodbora
+Freyr: "By helping these three mortals, you act against your family."
 
-Cynewulf.
+The words hung in the air, defying gravity.
 
-The apostate.
+Woden: "But I must learn all that I can. What I need is a test. Your forge-elves can make three blades, one for each of these mortals. The blades can be tuned to their specific situations. This is key. The blades must seem as though destiny itself provided them. They must be delivered in their moment of greatest need."
 
-The experiment closest to Woden's heart.
+Freyr: "And then what?"
 
-The confession requirement becomes central.
+Woden: "How does one react to a gift from destiny? They will use their gift to save their lives, but that is not the test. The question is: do they embrace that destiny from that point on, or do they reject it? The gift must come at a cost. A painful cost. Much as your choice did, to throw away your sword and embrace death, for your wife... Let's see, after the battle, if these mortals make a choice worthy of hope.
 
-Freyr asks:
+The convergence of Osric suggests he will lose everything. His position in the fyrd. His hearth. Even his family. Ealhild and any children they have... will die."
 
-> Why must he confess?
+Freyr cast his eyes on Osric and Ealhild, his face becoming as stone. "Unfortunate."
 
-Woden struggles to answer.
+Woden: "His gift should seek to replace what he will lose. But the cost should be to abandon hope for a new hearth, a new family. Embracing the blade is to embrace an eternal summer, Ealhild and his children by his side, a space you will provide in Alfheimr. But to embrace it is to live a death. As he visits his wife, the blade will lay waste to his body. Every time he uses the blade, he shall die, only to be revived when the fight is done. He will have no memory of the battle, only the sweet memory of Ealhild and his children."
 
-The answer changes several times.
+Freyr: "An eternal summer? One only appreciates summer if winter comes after."
 
-Responsibility.
+Woden: "And yet you permit eternal summer in Alfheimr, do you not?"
 
-Knowledge.
+Freyr: "Alfheimr is a home for those who have earned their summers with hard winters. You would give it to a man before he has earned it. The sunny valley road to Alfheimr begins in the cold, wet ground. But whether they join the road is a choice. Some choose the eternal summer of Alfheimr. Some choose to stay in their barrows. To watch over those who come after them. The season they choose reveals who they were."
 
-Guilt.
+Woden's eye settled upon Elswyth.
 
-Agency.
+Woden: "The coaler's apprentice is interesting. The convergence suggests she will lose her family to Wolfhere, and that she will be haunted by one of your lost souls. A redcap, a self-styled _Spotted King_. That creature has repeatedly escaped my _Wild Hunt_, but now I expect we'll know where to find him."
 
-The debate becomes personal.
+Freyr: "Fussleton. Yes, his fall was most unfortunate. His obsession twisted him beyond recognition."
 
----
+Woden: "I need your elves to intercept him before he kills her. Your elves will make a blade _from_ him, containing his soul. And _he_ will teach _her_ how to survive the slaughter. To use the blade, Elswyth must make a choice... whether to embrace the redcap's insanity, and invite it into her own mind. To do so is to embrace survival at any cost, to reject it is to embrace the hope that her learned skills are enough, even with the trauma of her near-death at the redcap's hands."
 
-### VII. The Question Beneath the Question
+Freyr: "I do not take intervention lightly, old friend. Even when heroes die, the lesson is for those around them. The god of war might seek vengeance. The god of the _Christ_ might seek to ease the suffering of the living. But the god of the harvest sees a hero's death as eventual. Death, like the seasons, is a cycle. Survivors learn that the life of a mortal is part of the natural cycle, and may even learn from that death how to survive longer. One must justify the abandonment of the lesson. But I will consider it."
 
-Freyr finally asks:
+Woden's eye then settled on Cynewulf.
 
-> What answer are you seeking?
+Woden: "Cynewulf's fall will take him far from his _Christ_. His convergence suggests he will be a man picking up the pieces of a broken life. I see the dirt of the Road coming for him, and it will test him. I see the scars that his life will become. And I suspect, the choices that earn those scars."
 
-Woden initially says:
+Freyr: "I can offer no guidance on this one. Whether he is redeemed is up to him and his _Christ_. I have hope for him, but that is all."
 
-> I wish to know whether they choose rightly.
+Woden's eye settled upon Cynewulf once more. The testing of a new bell rung through the churchyard, and Cynewulf stood in contentment. For a long while, neither god spoke.
 
-Freyr asks:
+Woden: "Then perhaps this blade should ask a different question."
 
-> What is the right choice?
+Freyr turned toward him.
 
-Silence.
+Freyr: "How so?"
 
-The realization.
+Woden: "Osric's blade asks whether grief will master him. Elswyth's asks whether fear will. Cynewulf's burden is neither grief nor fear. It is Truth."
 
-Woden does not know.
+Freyr nodded slightly, but said nothing.
 
----
+Woden: "His convergence suggests he will become a man haunted less by what others have done to him than by what he has done himself. I see the dirt of the Road upon him. I see scars earned by difficult choices. I suspect he will spend years wondering whether his _Christ_ could still receive a man such as him."
 
-### VIII. The Revelation
+Freyr looked down toward the churches scattered across the Danelaw.
 
-The debate ceases to be about mortals.
+Freyr: "That question is not mine to answer."
 
-The blades are revealed as experiments.
+Woden: "Nor mine."
 
-Not upon men.
+The words surprised them both. Woden rested both hands upon _Gungnir_, watching Cynewulf continue his work below.
 
-Upon Woden.
+Woden: "But Truth belongs to neither of us. We answer to it, whether we wish to or not. I expect the same is true for _Christ_. Not necessarily that it is his master, but that he must respect it."
 
-Freyr recognizes it first.
+Freyr's smile returned.
 
-Woden slowly recognizes it afterward.
+Freyr: "Now you sound like a man who has spent too much time with farmers."
 
----
+Woden ignored the remark.
 
-### IX. The Wager
+Woden: "Your forge-elves will make one final blade. The _Wodbora_. It shall command my _Wild Hunt_, but no man shall call upon its power lightly. Before the Hunt answers him, he shall first enter a _witan_."
 
-Freyr agrees to lend the Cynn.
+Freyr raised an eyebrow.
 
-Not because Woden convinced him.
+Freyr: "A council?"
 
-Because he is curious.
+Woden: "Yes. But not one of men."
 
-The gods part.
+At that moment, two ravens crossed silently overhead before disappearing into the summer clouds.
 
-The blades begin.
+Woden: "Thought and Memory shall conduct it. Huginn will pursue every excuse. Muninn will pursue every omission. Together, they will hunt the Truth."
 
-The question remains unanswered.
+Freyr watched the ravens disappear beyond the horizon.
+
+Freyr: "You trust them to judge a soul?"
+
+Woden shook his head.
+
+Woden: "Not to judge. To uncover."
+
+He looked once more toward Cynewulf.
+
+Woden: "The blade shall demand a confession worthy of the power it grants. Not to me. Not to my ravens. They cannot forgive him. They cannot condemn him. They can only refuse to let him lie."
+
+Freyr's expression softened.
+
+Freyr: "And his _Christ_?"
+
+Woden: "Will hear every word."
+
+The breeze carried the smell of fresh-cut hay between them.
+
+Woden: "Cynewulf must confess what he has become. Then he must declare what penance Truth demands of him. If he hides from himself, the ravens will know. If he speaks honestly, the Hunt shall pass over him."
+
+Freyr studied Woden carefully.
+
+Freyr: "So the blade does not ask him to surrender it."
+
+Woden: "No."
+
+Freyr: "It asks him to surrender his pride."
+
+Woden was quiet for a moment.
+
+Woden: "Every time he reaches for the blade, he must first become an honest man. Every battle will force him to remember the faith he left behind. Every victory will begin with confession."
+
+Freyr smiled, almost imperceptibly.
+
+Freyr: "Then your greatest blade will never let him stray far from his _Christ_. You will deliver Cynewulf into _Christ's_ hands, or he'll join the Hunt."
+
+Woden's gaze never left the young bellmaker.
+
+Woden: "That is not for me to decide. Whether he returns is his choice. Whether he is redeemed belongs to another."
+
+Freyr folded his arms.
+
+Freyr: "And yet your blade will place him before the choice, every single time."
+
+For the first time that day, Woden smiled.
+
+Woden: "For Cynewulf, his choice will reveal hope... in _his own faith_."
+
+Freyr: "I don't presume to expect this _Christ_ will thank us."
+
+Woden: "No, I don't expect we'll ever know."
+

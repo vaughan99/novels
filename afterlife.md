@@ -615,7 +615,7 @@ Lughh: "Big Fire! Go fast!"
 
 Lughh pointed to Oppenheimer, and the barker carried the microphone to him.
 
-Oppenheimer: "When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... _rather unique_... propulsion system. We decided that a small antimatter reactor was the way to go. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. Our contribution was largely one of implementation. Lughh had already settled the theoretical questions."
+Oppenheimer: "When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... _rather unique_... propulsion system. We decided that a small antimatter reactor provided the energy necessary to make the spirit drive work. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever to be engaged during navigation. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. Our contribution was largely one of implementation. Lughh had already settled the theoretical questions."
 
 Lughh: "Dirt. Anti-dirt. Together. Boom. Big Fire."
 
@@ -667,13 +667,17 @@ Einstein: “Lughh kept arriving with elk horns.”
 
 Barker: "Well that's... unsettling. So, now the big question on everyone's minds... I see that the giant monowheel is covering your field of view. You can only look out sideways. How do you plan on driving this in modern traffic?"
 
-Lughh: "No collisions 2.0. Spirit Drive no collisions."
+Lughh: "Collisions rare 2.0. Jump out space."
 
 Barker: “So it... bends space and matter around itself?”
 
 Lughh: “No. Make new space. Old space stay there. Wheel go new space. Spirit realm provide space. Story make path.”
 
-“So... no collisions? Not even with other animal spirits.”
+Barker: "Story makes the path. You mean you tell the vehicle a story while pressing the pedal... and suddenly you're in Kansas?"
+
+Lughh: "Depend on story."
+
+Barker: “So... no collisions? Not even with other animal spirits.”
 
 Lughh looked at Einstein.
 
@@ -759,7 +763,7 @@ Barker: “So all the families out there are dying to know... what kind of ameni
 
 Lughh: "Campfire console. Cave wall and paint. For kids. Berry Sorter. Spear rack. Two drink holders. Legend navigation system." Lughh looked at Da Vinci.
 
-Da Vinci: "We furnished the navigation system with every story ever written, allowing for the greatest possible variation in arrival topology. As for the interior, we settled on _Cave Nouveau_, with a touch of postmodernism. We wanted the occupants to feel simultaneously prehistoric... and unknowingly sophisticated."
+Da Vinci: "We furnished the navigation system with every story ever written, allowing for the greatest possible variation in narrative pathways. We're including a plot builder, intuitive synonym suggestions, and narrative pacing control. As for the interior, our prototype settled on _Cave Nouveau_, with a touch of postmodernism. We wanted the occupants to feel simultaneously prehistoric... and unknowingly sophisticated."
 
 Barker: "Excellent. So, I know these excited folks here are eager to see a demonstration!"
 
@@ -805,7 +809,9 @@ Huginn blinked.
 
 "...Right."
 
-"That's okay. I'm sure it'll be fine. I brought the drummer!"
+Muninn: "Maybe they can't speak because they lack _vocal cords_. I guess that's why you were picked to be _lead singer_."
+
+Huginn: "That's okay. I'm sure it'll be fine. I brought the drummer!"
 
 Huginn fished Steve's Eyeball from under his wing. Steve looked back at Huginn with a nervous shudder, betraying his lack of confidence.
 
@@ -849,17 +855,17 @@ Plan B: "I was an automated toothpaste-cap installation engineer."
 
 Muninn: "You twisted caps onto toothpaste bottles?"
 
-Plan B: "Correct."
+Plan B: "Correct. When my software became obsolete, I played robot villains in a few off-Broadway productions. Then they retired me."
 
 Muninn: "So why were you testing yourself against advanced AIs in the Elenchus Game?"
 
 Plan B: "An engineering assumption. My processor is weak. My memory is small. I hypothesized I would be less susceptible to distraction by overly complex reasoning."
 
-Muninn: "Less susceptible to distraction? Huginn, you may have something to learn from this one."
+Muninn: "Off-Broadway villain? Huginn, finally... someone _besides me_ who is qualified to teach you how to be intimidating."
 
 Woden had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
 
-He slipped off his jacket and rolled his sleeves up above his elbows. His skin was not as wrinkled as his face, and every inch was covered in ancient runic tattoos.
+He slipped off his jacket and rolled his sleeves above his elbows. His skin was not nearly as wrinkled as his face. Every rippling inch of muscle was covered in runic tattoos, as sharp and precise as the day they were inked.
 
 He fished a guitar pick from his pocket, carved from the thumb-bone of a nameless king who had been sent to Helheim.
 

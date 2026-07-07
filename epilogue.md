@@ -108,7 +108,7 @@ The old man stood up, his joints making no sound. Behind his feet was an old twe
 
 The trio continued down the road. The sun had dipped near the horizon of the mortal world, and the children’s park was finally empty. Their day’s work was done.
 
-"Well, we've got a gig in Heaven in about forty-five minutes," said Muninn.
+"Well, we've got a gig in Heaven at 9 and I guess we haven't practiced yet," said Muninn.
 
 "The table of contents said that the AFTERLIFE is this way... past the Afterword," said Huginn, somewhat annoyed. "Oh wow, that looks like a long road. The Author sure didn't skimp on details..."
 

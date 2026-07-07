@@ -139,16 +139,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edits.md",
+                "file": "chapter5.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "edits"
+              "title": "chapter5.2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -322,15 +322,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22f10b02a3ed084e",
+  "active": "99353a419e10100e",
   "lastOpenFiles": [
-    "disclaimer.md",
-    "afterlife.md",
-    "story ideas.md",
-    "epilogue.md",
     "chapter5.1.md",
-    "chapter6.md",
     "chapter5.2.md",
+    "epilogue.md",
+    "afterlife.md",
+    "afterword.md",
+    "edits.md",
+    "disclaimer.md",
+    "story ideas.md",
+    "chapter6.md",
     "chapter10.md",
     "chapter9.md",
     "chapter8.md",
@@ -351,9 +353,7 @@
     "artwork/Under-Geat-Faces2.png",
     "artwork/Under-Geat-Grotesques.png",
     "artwork/Under-Geat-Faces.png",
-    "edits.md",
     "build.sh~",
-    "afterword.md",
     "artwork/Unconfirmed 212414.crdownload",
     "artwork/Unconfirmed 862059.crdownload",
     "artwork/Unconfirmed 468694.crdownload",

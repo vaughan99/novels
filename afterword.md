@@ -73,9 +73,9 @@ For this reason, the siege itself is less important than the conditions it creat
 ---
 #### A Note About Personal Philosophy
 
-The cosmology and the focus on wyrd arise from the worldview of tenth-century England, the influence of *The Cynn*, and the assumptions held by many of the story's characters. They are not presented as unquestioned truths, but as ideas that are themselves subject to scrutiny.
+The cosmology and the focus on _wyrd_ arise from the worldview of tenth-century England, the influence of *The Cynn*, and the assumptions held by many of the story's characters. They are not presented as unquestioned truths, but as ideas that are themselves subject to scrutiny.
 
-Wyrd is not part of my personal philosophy, but it is an interesting concept to explore. Modern traditions and ways of thinking have been shaped by many influences over time; wyrd is one of them. Like many of the ideas found in this book, it offers a different lens through which to consider questions of choice, responsibility, and circumstance.
+_Wyrd_ is not part of my personal philosophy, but it is an interesting concept to explore. Modern traditions and ways of thinking have been shaped by many influences over time; _wyrd_ is one of them. Like many of the ideas found in this book, it offers a different lens through which to consider questions of choice, responsibility, and circumstance.
 
 #### Living Between Worlds
 
