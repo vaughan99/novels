@@ -1,5 +1,8 @@
 ## Chapter 8: Monanleoht, The Battle-Dancer
 
+[TODO: There are two incantations, one to enter the sleep with Fussleton (the mind-song), and one to enter the fly agaric blood dance with the redcap (the blood-dance)
+The mind-song is only in rhyme, but she has access to his knowledge for a price of knowing the world outside]
+
 Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured, that the sword was hers. She grabbed the hilt of *Monanleoht* and drew. The world became a frozen haze, as a silver mind-sleep claimed her.
 
 "Hello, MEADOW-BUD!"
@@ -280,7 +283,7 @@ Wolfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power 
 
 "I'm... not afraid... of you," Elswyth stammered.
 
-But the redcap saw the Ulfhednar he *had* been after that day, 11 years ago, before he stumbled on Elswyth in the log-hollow.
+"Nor should you be!" cackled the redcap.
 
 ```
 Tap the cask and slice the meat!
@@ -313,7 +316,7 @@ All his weight is in the blow
 But momentum leaves him slow.
 Down it crashes on the tile,
 Shattered stone instead of bile.
-Past the handle I have stepped,
+Past the handle you have stepped,
 Where his ribs are poorly kept.
 ```
 
@@ -341,7 +344,7 @@ Now it's time for you to —
 
 Elswyth’s knuckles turned white. Her grip clamped down like an iron vise, shattering his rhythm and forcing the blade to a grinding, vibrating halt a mere hair's breadth from her collarbone.
 
-She didn't panic. Because she knew his tell — knew he was a slave to the song and could not strike without a rhyme — she had caught the cadence right before the trap snapped shut. She squeezed the handle until the steel stopped shaking, locking the monster back down into the depths of the nickel and steel. She retained full, absolute control.
+She didn't panic. Because she knew his tell — knew he was a slave to the song and could not strike without a rhyme — she had caught the cadence right before it was too late. She squeezed the handle until the steel stopped shaking, locking the monster back down into the depths of the nickel and steel. She retained full, absolute control.
 
 Inside her skull, the Redcap let out a high, cackling, unhinged laugh. 
 
@@ -354,3 +357,5 @@ So you knew I had to try!
 ```
 
 Click. Elswyth put Monanleoht back in its cage, the pommel's lock silencing the gnome.
+
+[TODO Fly agaric come down]

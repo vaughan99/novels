@@ -1,5 +1,12 @@
 ## Chapter 10: New Dawn
 
+[TODO the group meets near the wreck of the wagons]
+
+[TODO Osric recounts the day the fyrd found him]
+
+[TODO Woden and Freyr floating above, comment on the initial reception.]
+
+
 Woden begins the book nervous about the future. Nervous about Ragnarok.
 
 Not easy to predict.

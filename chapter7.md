@@ -2,6 +2,8 @@
 
 [TODO revisit, add detail]
 
+[TODO: The spell enters the barrow-dream, and in there, Ingvar uses the ward to take over Osric's body and fight with the shadow fyrd]
+
 The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the deep, ambient crucible glow of the Cynn’s work from that very afternoon. The glow bathed the room in a heavy, flickering orange light and casting long, monstrous shadows behind the columns.
 
 His fingers, cracked and raw from digging axles from mud, clutched nothing. The char-stick was long gone. Outside, the stone maze of the old forum market echoed with the heavy, calculated crunch of iron-nailed boots. Three veteran Ulfhednar stepped through the collapsed archway of the smithy, their shapes silhouetted against the dim orange glow. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.

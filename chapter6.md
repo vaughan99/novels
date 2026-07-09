@@ -1,87 +1,191 @@
 ## Chapter 6: The Night of Blood
 
-[TODO New warband details]
+The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled in the shadow of Leicester's jagged fringe, just outside the yawning, ruined arches of the ancient Roman marketplace. The iron-bound wheels strained against the sucking mud, forcing pins to shear and snapping seasoned ash axles like dry twigs.
 
-The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled in the shadow of Leicester's jagged fringe, just outside the yawning, ruined arches of the ancient Roman marketplace.
+Reeve Galindo, astride his horse, looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
 
-The mud here was a thick, sucking soup mixed with late-spring snow, thick enough to pull iron-bound wheels clean off their pins and snap seasoned ash wood like dry twigs.
-
-Reeve Galindo sat high on his noble Andalusian horse, his silken coat speckled with the spitefulness of the road. He looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
-
-"My lord reeve, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted sword. "The Ulfhednar did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "That - is - why - you - were - hired! These men will not die... we've hired you!"
+"My lord Reeve, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted blade. "The Ulfhednar did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "That - is - why - you - were - hired! These men will not die... we've hired you!"
 
 Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for the help, but you have to know those wolf-types are a hard lot. I'd trust the Devil to grow a halo before I trust them to keep peace."
 
-The Reeve ignored them both. He turned his horse’s head, tapped his southern stirrups, and led the main body of the fyrd away into the gathering dusk. That left a sparse, hollow rearguard to manage the struggle: Murdock the short Scottish wagon-master, Osric the hollowed-out Northumbrian farmer, Cynewulf, Elswyth, two bruised men from Cynewulf’s spent mercenary band, three trembling thrall-slaves, and six weary fyrdmen whose shields were soft with dry-rot.
+"I'll not discuss this again. Fyrd! Gather round!"
 
-Osric dropped a heavy, splintered piece of oak into the slush, his hands shaking from numbing cold, hunger, and the lingering ache of the goblin-sickness. He wiped the cold sweat from his brow and looked at Murdock. "The spares are spent, master," Osric reported, his voice flat with exhaustion. "We are out of axles. The last seasoned beam snapped when the left cart took the ditch. "
+The fyrdmen clustered around his horse.
 
-Elswyth stirred forward towards the conversation, to get a better ear for it. Cynewulf tracked her, and it clicked how he knew her. "Murdock! This one! The girl! She lives on the edge of the forest. She knows the trees. She makes coal on the edges, at the hill's bottom."
+"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You - and you - gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
 
-Murdock side-stared Elswyth, knowing that his full glare was a snare only for stronger animals. "Is this true, lass? You know the darkwood well enough for axle-timber?" he asked, his voice taking a slightly softer edge than average. She nodded, but didn't say a word. "Well, we'd best keep you here then." She didn't fight it, but she'd rather have been far away from here.
+He looked down at the mud.
 
-Osric smiled... if but for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light."
+The fyrd sprang into motion. Grain sacks disappeared onto shoulders, ropes were slipped over wrists, and protesting goats were tugged free of the wagons. Murdock waded into the confusion, barking orders as he struggled to impose some measure of order upon the chaos.
 
-"First light? By the blood of the saints, man, if we bide here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon-master did not waste time weeping or wanting.
+"Murdock!"
 
-He stepped into the center of the stalled host, his voice cracking like a whip. "Move the healthy beasts! Unhitch the rear carts and wheel them broadside! I want a wall of oak and leather before the sky turns black!" Murdock took charge with a feral, driving energy, dragging everyone into the toil.
+The baggage master looked up.
+
+"Catch up if you can. With the lighter load, Dere Street should bring you to us before we reach home."
+
+Galindo turned his horse’s head, tapped his southern stirrups, and led the main body of the fyrd away into the gathering dusk. That left a sparse, hollow rearguard to manage the struggle: Murdock, Cynewulf's small band, Osric and three fellow fyrd-thralls, Elswyth, and six weary fyrdmen serving as cart-drivers with shields no longer fit for the shieldwall. In this fyrd, a neglected shield earned a man the indignity of carrying the baggage of others.
+
+"Well, isn't that a proper horse's ass," Murdock snorted. "Can't possibly dirty his boots in this mess, can he?... Alright, back to work!"
+
+Osric dropped a heavy, splintered piece of ash into the slush, his hands shaking from numbing cold and hunger. He wiped the cold sweat from his brow and looked at Murdock. "The spares are spent, master," Osric reported, his voice flat with exhaustion. "We are out of axles. The last seasoned axle snapped when the left cart took the ditch. "
+
+Elswyth drifted closer to listen. As she passed before Cynewulf, he caught her profile. His memory sparked to life, as he remembered the girl and her father's coal. "Murdock! This one! The girl! She lives on the edge of the forest. She knows the trees. Her father was a charcoal-maker in Under-Geat. _'Best charcoal in the Danelaw.'_"
+
+Murdock side-stared Elswyth, knowing that his full glare was a snare only for stronger animals. "Is this true, lass? You know the darkwood well enough for axle-timber?" he asked, his voice treading lightly. She nodded, but didn't say a word. "Well, we'd best keep you here then." She didn't fight it. After the encounter with the redcap, the sight of shields and spears was strangely welcome.
+
+Osric smiled, if only for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light."
+
+"First light? By the blood of the saints, man, if we bide our time here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon-master did not waste time weeping or wanting.
+
+He stepped into the center of the stalled host, his voice cracking like a whip. "Move the healthy beasts! Unhitch the rear carts and wheel them broadside! I want a circle of oak and leather before the sky turns black!" Murdock took charge with a feral, driving energy, dragging everyone into the toil.
+
+Murdock saw a corner where two walls met. "Anchor the circle there. Leave a gap no more than a man at the corner."
+
+The one-eyed archer raised his hand. "I think I know the answer, but why build a wall with a hole?"
+
+Murdock briefly looked up. "In case one of the oxen suddenly decides he's the _King of Mercia_!"
+
+"But why a small hole."
+
+"We wouldn't want the _King_ to think we've opened the castle gate just for him, now do we?"
 
 The men grappled the heavy baggage boxes, stacking them beneath the wagon beds to block the gaps. Osric and Cynewulf worked side by side, their movements heavy and full of unspoken dread. They both knew the truth of the night. A cart-fort was a fine thing against common highwaymen, but Ulfhednar are hunters of better craft.
 
-Elswyth stood near the edge of the line, her cowl pulled tight against her soot-stained cheeks. She looked out toward the dark, patient canopy of the forest, then down at the ruined Roman vaults where the stagnant rainwater shone like black glass. Slipping over the tail-gate, she decided to stay inside the wagon-fort, huddling beneath a heavy wool blanket by the central axle.
+Elswyth stood near the wall, her cowl pulled tight against her soot-stained cheeks. She looked out toward the dark ruined Roman vaults where the stagnant rainwater shone like black glass. She slipped over the tailgate and huddled beneath a heavy wool blanket against the wagon wall near the corner gap. She kept to herself, though the others were only a few paces away.
 
-Night descended like a heavy iron lid. Murdock set the watches, placing Cynewulf’s two mercenaries at the northern gap and three fyrdmen by the oxen lines. The environment went dead, horribly quiet. The steady rain had ceased, leaving nothing but a thick, choking fog that muffled the sound of the stamping hooves. The only light was a single, guttering torch mounted on Murdock’s central cart.
+Night descended like a heavy iron lid. Murdock set the watches, three at a time. There was no dry wood for a fire. They ate their rations wet and cold beneath the pale glow of a single lantern hanging from the roadward wagon. The world went dead, horribly quiet. A thick fog settled in.
 
-Out in the dark, twelve pairs of copper-bright eyes moved through the gnarled masonry of the old forum. Wulfhere the Broad raised his hand, his wolf-skin cloak dragging silently across the wet stone. Beside him, the seven-foot giant, Rognvaldr, grinned, his armor of stolen mail-scraps clinking softly like a heavy shroud.
+Out in the dark, fifteen pairs of copper-bright eyes moved through the gnarled masonry of the old forum. Wulfhere the Broad raised his hand, his wolf-skin cloak dragging silently across the wet stone. Beside him, the seven-foot giant, Rognvaldr, grinned, his armor of stolen mail-scraps clinking softly like a heavy shroud.
 
-"The Spaniard has left the bones for us," Rognvaldr whispered. His eyes were wilding, as if the frenzy of Odin was his alone. He threatened to close quicker, but Wolfhere raised his hand in a fist, then slowly opened his palm flat down. "The bones have meat on them," Wulfhere countered softly. "But the wolf does not leap the fence while the sheep are watching. Break the beasts first."
+"The Spaniard has left the bones for us," Rognvaldr whispered. His eyes were wilding, as if the frenzy of Odin was his alone. He threatened to rush in, but Wulfhere raised his hand in a fist, then slowly opened his palm flat down. "The bones have meat on them," Wulfhere countered softly. "But the wolf does not leap the fence while the sheep are watching. Break the beasts first."
 
 The Ulfhednar did not charge with steel. Instead, they gathered heavy, jagged Roman bricks from the rubble. With precise, rhythmic cruelty, they began pelting the tethered oxen inside the cart-fort. The heavy stones rained down out of the fog, striking the beasts on their flanks and horns. The oxen, already maddened by hunger and the smell of wolf-grease on the wind, began to panic. They thrashed against their leather yokes, bellowing their angst.
 
-The ox furthest to the rear, a boulder of muscle, snapped its yoke, throwing its full weight against oxen in front of it. The others careened, eyes full of the moon above. The wagon-fort buckled. With a splintering crash, the panicked ox spurred the rest. They broke through, tearing open a massive, jagged hole in the wagon's defense. Cries from the guards to the oxen to stop were ignored. "The wall is broken!" a fyrdman screamed, his voice cut short as a heavy stone caught him across the jaw.
+The ox furthest to the rear, a boulder of muscle, snapped its yoke, throwing its full weight against oxen in front of it. The others careened, their eyes as wide as the moon above. The wagon-fort buckled. With a splintering crash, the panicked ox spurred the rest. They broke through, tearing open a massive, jagged hole in the wagon's defense. Cries from the guards to the oxen to stop were ignored. "The wall is broken!" a fyrdman screamed, his voice cut short as a heavy stone caught him across the jaw.
 
 The oxen cleared the gap, trampling down the road into the town, and before the ragged crew could drag a box into the breach, the Ulfhednar charged. They came out of the fog like a wave of screaming fur, their faces painted with old ash, their voices rising into a guttural howl that turned the blood to ice.
 
-Osric stood in the breach, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole, but it didn't last long. A veteran Ulfhednar lunged at him, a broad-axe swinging low. Osric parried with the pole, but the ash wood sheared in two with a single, mocking crack.
+Those few who had managed to fall asleep awakened instantly, their hands finding shields and spears merely inches away. Bleary-eyed, they hastily formed a wall, their backs to the open corner a few feet away.
 
-The fight was useless. The fyrdmen around him were being hacked down in their tracks. Osric dropped the broken stick. The Ulfhednar had advanced so quickly into the breach, that he slipped past them through to the other side. He ran for his life, lunging back through the dark alleys of the Roman market. The moon was full, and offered just enough light to navigate the maze. As he ran, he heard hard steps behind him, and he knew he was being chased.
+The wolf-men crashed into the forming shieldwall. Two fyrdmen flew backwards, their backs landing in the mud. One had an axe embedded in his shoulder. A spear caught one of the Vikings in the ribs, bringing him to his knees. One of the Saxon brothers took a javelin to his shield, the head driving deep into his forearm. The shieldwall bent but did not break, boots carving furrows through the mud as the Ulfhednar drove it back.
 
-Then he heard... A child's giggle. High and playful, it echoed from a narrow stone cellar-mouth to his left. The giggle whispered instructions. "Quickly! Here!" He followed the voice instinctively, without thinking. Osric stumbled into a half-building home of an ancient forge. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze put forth a heavy, flickering orange light. The new light illuminated the outline of an anvil, atop it a simple hearth broadseax in a stout iron-bound scabbard with writing on the side. It was Fyrleoht, the Hearth-Watcher, and it was waiting for him.
+Cynewulf stood at the rear, having no shield, his rusty langseax gripped tight in his hand. He braced his other hand against the fyrdman in front of him. "Hold, men!" he screamed. He knew the next moments were crucial.
 
-Elswyth knew she was no warrior. She didn't even bother with her small handseax... she needed both hands for her sprint. As the first wolf-man leaped into the fort, she scrambled over the opposite side of the baggage cart, dropping down into the deep mud. She saw Osric break for the ruins and, with few good options, she followed his shadow into the stone maze. She knew an exit on the outskirts that led her back to home.
+The one-eyed archer scrambled to the top of one of the carts near the corner. He loosed an arrow that pierced Wulfhere's shield. Murdock arose from another wagon flanking the charge, the _thwack_ of his crossbow echoing off the carts and walls. A bolt found a wolf-man in the ribs, and he fell.
 
-As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path deviated from Osric's, which led her past a narrow stone aqueduct into a Roman cistern and bath-house. A giggling child voice called to her, "Down! Here!". She stopped in bewilderment, if but for a brief second. The aqueduct was dark, and the building was partially collapsed, which would offer many hiding places. She slid in.
+Osric stood in the wall, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole spear, but it didn't last long. A broad-axe bit into the pole. The ash shaft sheared in two with a single, mocking crack. Osric dropped the useless shaft and leaned his full weight into his shield, bracing its back with his free hand.
+
+For a few heartbeats neither side gave ground. Another arrow flew by Wulfhere's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Rognvaldr, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt - still in its groove - into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
+
+Wulfhere seized his moment. A smile crept across his face. "Pull!"
+
+The Ulfhednar gave two quick steps backward. As they withdrew, the hooked beards of their axes caught shield-rims, wrenching them down. The Saxons, leaning with all their weight into the pressure, stumbled after them.
+
+Two fyrdmen pitched face-first into the mud.
+
+The wolves were upon them before either could rise.
+
+Axes rose.
+
+Axes fell.
+
+The screams lasted only a heartbeat.
+
+One of the Saxon brothers lurched a pace too far. A waiting seax slid beneath his shield and buried itself in his belly. He gasped, folded around the blade, and disappeared beneath a knot of snarling wolfskins.
+
+The shieldwall dissolved.
+
+Not all at once.
+
+One shield turned.
+
+Another man stepped back.
+
+Someone screamed to close the gap.
+
+Then every fight became its own.
+
+Cynewulf surged through the opening with his rusty langseax, driving it toward the nearest wolf. Steel met iron. His old blade snapped clean across the middle.
+
+For an instant he stared at the broken stump still clutched in his hand.
+
+Then he threw himself bodily into the wolf instead, tackling him. The Viking released his shield, and gripped the butt of his axe blade with his free hand, guiding it towards Cynewulf's throat. Cynewulf raised his forearm just under the axe blade, fending it off long enough for him to find the Viking's own seax handle on his belt. He drew the small blade and drove it under the armpit and into his lung.
+
+Across the fort, Murdock let the empty crossbow fall. His targe found his left arm, his hand-axe his right. Without hesitation he vaulted from the wagon and disappeared into the melee with a roar more fitting for a teamster defending his life's work than a warrior seeking glory.
+
+Elswyth never waited.
+
+She flung her heavy wool blanket into the face of the nearest Ulfhednar. The thick folds wrapped around his head and shoulders. Cursing, he clawed blindly at the wool.
+
+She was already running.
+
+Osric did not lunge after the retreat.
+
+His broken burn-pole lay forgotten in the mud. Empty-handed now, he remained where the second rank had been, watching men he had marched beside vanish beneath axes and seaxes.
+
+The one-eyed archer loosed one final arrow into the confusion.
+
+He reached for another.
+
+There was no room.
+
+The fight had swallowed the wagons.
+
+He dropped the bow.
+
+Tor took one sweeping look across the collapsing line—the dead fyrdmen, Cynewulf wrestling in the mud, wolves pouring through the breach, Elswyth already fleeing toward the ruins.
+
+His voice cut through the chaos.
+
+"Retreat! Break away! Save who you can!"
+
+Cynewulf rolled away, leaving the seax buried in the dying Viking. He scrambled beneath the nearest wagon. Shoving a baggage chest aside, he crawled through and emerged on the far side.
+
+Elswyth jumped off the wagon and ran.
+
+Osric, heeding Tor's words, dropped the wreck of his training shield to fit through the corner gap. Ahead of him, the wet slap of fleeing feet told him the fyrd-thralls had already reached Murdock's gap.
+
+Elswyth caught Wulfhere's eye, as her shadowed profile jumped into the dark.
+
+"That girl is worth more silver than the others. You two, with me!" He and two wolf-men broke from the pack and gave chase.
+
+Rognvaldr saw Cynewulf roll under the wagon. A predatory smile grew over his face as he stepped back through the breach. He followed.
+
+Three more Vikings noticed Osric fleeing through the gap at the rear. They squeezed through after him.
+
+The remaining Vikings faced off with the remainder of the rearguard. Behind them, the clash of steel and the screams of dying men slowly faded into the night.
+
+Osric ran for his life, lunging back through the dark alleys of the Roman market. The moon was bright, and offered just enough light to navigate the maze. As he ran, he heard hard steps behind him, and he knew he was being chased.
+
+Then he heard... A child's giggle. High and playful, it echoed from a narrow stone corridor to his left. The giggle whispered instructions. "Quickly! Here!" He followed the voice before he knew he had. Osric stumbled into the roofless shell of an ancient forge. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze cast a heavy, flickering orange light. The new light illuminated the outline of an anvil.
+
+Awaiting Osric on the anvil was a broad stack of practical garments, folded with almost military precision. A thick waxed gambeson rested over a supple wool under-tunic, while wax-treated linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood at the foot of the pile.
+
+Leaning against the stack rested a broad round shield. Its boss was crowned by a rounded dome, with stout ribs radiating toward the rim. The thick wooden boards had been richly waxed, while the iron rim was hollowed and wrought into the likeness of the willows of the hedge. On the boards was the painting of a small oak tree sprouting from a broken anvil, with hammers crossed at the anvil's feet.
+
+Across the folded garments lay a weathered black scabbard holding a heavy farmer's long-handled broadseax, its handle blackened and inlaid with a seam of glassy jet. It was _Barrow's Edge, the Hedge-Stalker_.
+
+Elswyth knew she was no warrior. She didn't even bother with her small mushroom handseax, and the felling axe had been left in her cottage. She sprinted into the Roman market.
+
+As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path took here to the Roman cistern and bath-house. A giggling child voice called to her, "Down! Here!". She stopped in bewilderment, if but for a brief second. The aqueduct was dark, and the building was partially collapsed, which would offer many hiding places. It seemed the best option. She slid in.
 
 The aqueduct was wet and slimy from centuries of algae. Elswyth slid helplessly down a smooth, stone chute until she landed with a heavy splash in the ancient moonlit cistern, the cold of the water a poorly-held secret that screamed at her body. It was a vast, underground chamber filled with rainwater up to her hips. Beyond was the bathhouse, built with cracked Roman tile.
 
 She waded through the near-freezing water, each splash stealing air from her lungs. The pool led to steps, which climbed up into the bathhouse. The ceiling was collapsed in parts, and the night sky was visible. The floor of the bathhouse was cracked marble tile, built on moist clay.
 
-Before her was a bench of white marble. A ray of moonlight pierced down to illuminate a langseax with a black woven leather handle, and a hint of silver marten fur showed from the throat of the scabbard. It called to her. It was Monanleoht, the Battle-Dancer.
+Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. Before her rested a neatly folded suit of charcoal-black garments. A suede coaler's apron lay atop a supple leather jerkin, beneath which were folded a linen tunic, a short half-cloak with its fitted caul, and waxed linen wrappings for her arms and calves. Beside the stack rested a pair of light, oil-treated turn-shoes, their leather darkened by soot until they seemed born of the forge itself. Across the garments lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle - the one she knew all too well - beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
 
 She heard the footsteps of Vikings around the aqueduct chute above, and they could see her track ended there. They were determined to follow her into the dark.
 
-Back at the wagons, Cynewulf fought with the vicious, pragmatic rhythm of a man who had survived a decade on the highway. His threadbare byrnie rattled against his ribs as he sidestepped a lunging Dane, catching the warrior under the chin with his metal-studded leather fist. His first foe careened into the mud, and Cynewulf stepped quickly to drive his sword into the belly.
+Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Rognvaldr caught Cynewulf's silhouette against the moonlit path. His grin widened. He quickened his pace.
 
-He wrenched the blade free to face the next assault. The next Dane was quickly upon him. Cynewulf swung hard to threaten the Dane and buy space. His sword struck a heavy, iron-bound Viking shield. The brittle, iron edge couldn't take the bite. With a sharp, metallic snap, the steel sheared off at the hilt, leaving him standing defenseless.
+Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast — the church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
 
-Around him, his mercenary band and the fyrdmen were being overwhelmed, their throats cut in the mud. Cynewulf knew the battle's flow, and he had the wits of a highwayman to know that the fight was not theirs to win. He thought about grabbing a fresh weapon, but the breach of the wagon cart called to him. And so he ran. Rognvaldr, fresh from killing one of the fyrdmen, saw Cynewulf's escape from the corner of his eye, and decided there would be no escape tonight.
+There, lying across the cold stone, Cynewulf found a warrior's habit laid before him with quiet dignity. Folded atop a supple under-tunic rested a finely wrought steel byrnie, beneath which lay a stout weapon-shirt and neatly wrapped bands of wax-treated linen for his arms and legs. A heavy wool cloak, clasped with a silver-lined brooch, completed the attire. Beside the garments waited a pair of sturdy boots.
 
-Murdock the Scot stood atop a listing baggage box, his movements devoid of panic, governed entirely by cold, professional instinct. He leveled his first light, antler-locked Scottish crossbow and squeezed the trigger. The string snapped home with a dull thwack, driving a short iron bolt clean through a charging wolfman’s leather collar.
+Leaning on the arrangement was a compact round shield, perhaps a hand's-width wider than the _tarians_ of the _Dragon's Teeth_. The core was a union of hornbeam and linden. The face and rim were covered with thick waxed cuir bouilli. The boiled leather had been painted in alternating quarters of green and brown on the face. In the center, a round steel boss gleamed, punched with a foundry mark of a small oak sprouting from a broken anvil, with crossed hammers below. 
 
-Without blinking or watching the body fall, Murdock dropped the spent timber stock into the slush. He reached blindly over the tailgate to the wagon's hidden backside and ripped a second, pre-loaded crossbow from its loops. A veteran Ulfhednar leaped onto the cart-tongue, axe raised — only to catch Murdock's second bolt square in the chest at point-blank range.
+Across the top rested a black leather scabbard embossed with two ragged ravens, ancient runes, and the endless knot of two wolves forever chasing one another. The blade's handle was long, easily enough for two hands, but still practical for one. Its handle was wound in darkened steel wire, the coils sealed beneath a charcoal-black resin until metal and ash had become one. At either end, stout Turk's head knots gripped the wrap like the bindings of an old mariner's rope. Within slept _Wodbora, the Madness-Bringer, the Prophet of the Wodhere_.
 
-The second bow clattered into the mud, its purpose served. Before the remaining Danes could close the gap, Murdock unhooked a heavy, broad-bladed bearded axe from his belt and punched his left fist through the iron handle of a small, brass-rimmed leather buckler.
-
-A third wolf-man lunged with a hunting spear. Murdock caught the spear-point on the hard face of his buckler, deflecting the thrust into the wood-staves, and brought the heavy beard of his axe down into the Dane's collarbone with a sickening, wet crunch.
-
-He fought like a fish fighting hard to swim up-river. His bearded axe drew down guards. He lost his buckler in the fight, ripped off his hands by one of the wolves. He lost his axe too, buried too deep into one of the Vikings shields. He drew seax and brought one of the Vikings to the ground in a vicious knife-fight. He won that fight too, but he was swarmed. In the end, he was dispatched in the mud.
-
-The math of the rearguard was absolute that day. The six Saxon fyrdmen fought with resolve, managing to wound two of the wolf-men, but they were relentlessly cut down one by one until they lay still in the blood-stained slush.
-
-The pack broke. Rognvaldr, who was witness to the prey who ran, informed Wulfhere. The Viking leader wasted no time organizing a chase, as he knew that their precious prize depended on the guards of the town stay unaware. Wulfhere brought five able-bodied unwounded wolf-men with him, and Rognvaldr demanded to chase down the Saxon mercenary himself. That byrnie was his.
-
-The wounded Danes stayed behind in the torchlight to bleed out any survivors, finish off the fallen fyrdmen, and corner the three helpless thrall-slaves as prizes.
-
-The chase split and Wulfhere wanted the girl. Three veteran Ulfhednar followed Osric’s mud-tracks through the maze, their axes raised as they burst into the ancient forge. Wulfhere the Broad, one veteran wolfman, and a young, raw Ulfhednar warrior followed Elswyth's scent down to the slippery aqueduct. 
-
-Up the church hill, the giant Rognvaldr the Ragged pursued Cynewulf alone. Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast — the church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step. There, lying naked across the cold stone, sat a short yet remarkable sword. Its scabbard was carved with the scruffy likeness of two ravens, and the steel within seemed to be sleeping on the step. The giant Rognvaldr stepped onto the holy ground, his sword leveled at the broken priest who stood upon the stone steps with the third blade in his hand.
+The giant Rognvaldr slowly climbed the steps into the churchyard. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.

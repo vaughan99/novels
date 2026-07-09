@@ -269,3 +269,35 @@ Freyr: "I don't presume to expect this _Christ_ will thank us."
 
 Woden: "No, I don't expect we'll ever know."
 
+---
+
+Huginn: "We were advocates for Truth. That felt heroic. Like angels. Or paladins. Or... unicorns."
+
+Muninn: "Truth doesn't need advocates. And it certainly doesn't need unicorns."
+
+Huginn: "Then what were we?"
+
+Muninn: "Custodians of Memory."
+
+Huginn: "Custodians? Did we wear coveralls?"
+
+Muninn: "No."
+
+Huginn: "Covered with unicorns?"
+
+Muninn: "Absolutely not."
+
+Huginn: "We were still advocates for Truth."
+
+Muninn: "Memory remembers Truth."
+
+Huginn: "Truth validates Memory."
+
+Muninn: "Can we just stop arguing for a moment?"
+
+Huginn: "I think I found a Truth."
+
+Muninn: "And what would that be."
+
+Huginn: "I can beat you into submission."
+

@@ -12,15 +12,15 @@ There is no wind beneath the earth, yet the soot on the low ceilings shifts and 
 
 They do not work with the clumsy strength of mortal blacksmiths. These are the Weylands Cynn — the scattered bloodline of the Great Smith himself. Centuries ago, Weyland walked the earth at the height of his glory, leaving his genius stamped into the marrow of his descendants. The humans outside have forgotten the old master, focusing on their prayers, their stone angels, and their undignified simple steel of the hand. The Cynn remember the ancient foundry-marks.
 
-The Cynn were not the only ones who remembered the old foundry-marks; the gods themselves were bound to the rhythm of the hammer. Long ago, the Aesir and the Vanir had shattered the world in a war of clashing domains—the cold, piercing steel of Woden’s host against the wild, verdant fury of Freyr’s kin. That ancient blood-debt had eventually cooled into a brittle, uneasy peace held together by the shared necessity of a changing world. Now, that fragile truce had brought them to this soot-stained forge, the only place where their disparate powers could be reconciled.
+The day of the debate came before the horrible winters of Osric's farm, the raids of Leicester that killed Elswyth's parents, and Cynewulf's ordination as priest. Time had marched forward. Soon would come the convergence... the meeting of Osric, Elswyth, Cynewulf, and Wulfhere. The parchment-peace was near. Woden and Freyr's debate was still fresh in their minds, and they knew they had little time to spare.
 
-Freyr’s domain was the earth and the hidden folk who dwelt within it; the Cynn were his to command, and the iron they drew from the deep-veins was his to bestow. He provided the raw, fertile potential of the world, the very substance of the blades. Woden, however, brought the will of the person, the cold, piercing clarity of the spirit. If Freyr was the earth that birthed the steel, Woden was the free will that demanded it be tempered with choice. He brought the _wōd_—the divine frenzy and the capacity for sacrifice—that would transform a simple tool into a vessel of judgment. Together, they were the two halves of a dying world’s final masterpiece: the substance of the land and the spirit of the struggle, waiting to be hammered into a shape that could survive the final reckoning of the Vikings.
+The Cynn belonged to Freyr. They were the hidden smiths of the deep places, and the iron they drew from the veins of the earth answered to him. Woden had come for something different. Freyr would provide the steel. Woden would provide the purpose.
 
-They stood on opposite sides of the heavy iron anvil, the bargaining table of the Cynn. Woden, leaned into the dark, his single eye fixed on the anvil, while Freyr loomed opposite him, his massive, broad frame radiating an uncanny, golden warmth and an effervescent grin. Between them, the anvil waited—a silent, scarred witness to the fact that before a single blade could be struck, the gods themselves had to agree on the length and width of a blade's contract.
+They stood on opposite sides of the heavy iron anvil, the bargaining table of the Cynn. Woden leaned into the dark, his single eye fixed on the scarred face of the anvil, while Freyr loomed opposite him, his broad frame radiating an uncanny golden warmth and an easy grin. Between them, the anvil waited—a silent, scarred witness to the fact that before a single blade could be struck, the gods themselves had to agree on the length and width of a blade's contract.
 
 The forge grew quiet, save for the rhythmic drip of condensation from the Roman arches above. Outside, the sun stood on the ledge of the horizon, as if it was basking in Freyr's warmth and looking down into the coming gloom of Woden's night. The gods stood in the fading light, their patience as ancient as the stone walls themselves. They were waiting for the first visitor.
 
-The nisse in the form of Ealhild arrived, holding a barrel filled with the contents of Osric's broken home. From her belt danced the oil-string, a silent reminder of her unveiled identity, and the beginning of the winter nightmare. The nisse dropped the barrel onto the dirt floor with a heavy, metallic clatter. The cookware copper, the iron plowshare, and the steel-boss of Osric's shield clanked within the wood-staves.
+The nisse arrived, cloaked in the glamour of Ealhild's form. The nisse had adopted the lie, using her magic to fool travelers on the road. It was holding a barrel filled with the contents of Osric's broken home. From her belt danced the oil-string, a silent reminder of her unveiled identity, and the beginning of the winter nightmare. The nisse dropped the barrel onto the dirt floor with a heavy, metallic clatter. The cookware copper, the iron plowshare, and the steel-boss of Osric's shield clanked within the wood-staves.
 
 "I have brought the pieces of a broken life," she whispered. Her voice sounded thin and distant, stripped of the warmth Ealhild once possessed. "The steel of the spear and shield, the copper of the hearth, the toys of the children. I have brought them all. I am nisse, a spirit of Freyr’s kin, vowed to protect the hearth and home for Ealhild's family. I... failed. The master Osric still lives, but he is a broken man. Can anything be done?"
 
@@ -36,35 +36,39 @@ The nisse responded without looking up, "I am prepared to offer myself. I will l
 
 Woden's eye grew large. "What good is a blade with a broken spirit in its spine! You give the man a death sentence."
 
-The nisse paused a moment. She looked up to Woden, and straightened. "I summon my husband, Ingvar the Steady, son of Torsten, who died in Halfdan's host at York. He is the lord of the family barrow. I summon his servants of the shieldwall."
+The nisse transformed into the presence of her former living self, Ingrid. It was an illusion, a ghost of a memory.
+
+"I was Ingrid, daughter of Ormr. I honored my father's gods... _you_... until marriage compelled me to follow Freyr. I hoped one day to have many sons to fight for you in Valhalla."
+
+Ingrid paused a moment. She looked up to Woden, and straightened. "I summon my husband, Ingvar the Steady, son of Torsten, who died in Halfdan's host at York. He is the lord of the family barrow. I summon his servants of the shieldwall."
 
 She reached to the floor where the barrow stone laid, and set it firmly on the anvil. She tapped the ancestry rune with her finger. From the barrow stone, four ghostly spirits emerged, dressed in Dane armor, shields, spears, and axes. They were her husband Ingvar, and three of his friends who died in a pitched battle while taking York. Ingvar the Steady stood at the fore, his face a mask of grim, eternal vigilance, flanked by three of his closest brothers-in-arms who had fallen beside him in the final, desperate push for York. Ingvar was the brother of Ealhild's grandfather, and the tomb had been built in his honor, a silent monument to a war that had never truly ended.
 
-"Ingvar, my husband," the nisse began. "My vigil over Ealhild's home was a ruin of my making. I am bound to the fate of Osric, her husband. But my pledge is not enough. You are here to speak for our family." She stepped back, and the spirits of the shieldwall seemed to swell in stature, their spectral armor catching the orange glow of the coals.
+"Ingvar, my husband," Ingrid began. "My vigil over Ealhild's home was a ruin of my making. I am bound to the fate of Osric, her husband. But my pledge is not enough. You are here to speak for our family." She stepped back, and the spirits of the shieldwall seemed to swell in stature, their spectral armor catching the orange glow of the coals.
 
-The nisse had transformed into the presence of her former living self, Ingrid. It was an illusion, a ghost of a memory, but it softened the hard lines of Ingvar's face. "You and I are bound in kinship and love, " he said to her. "You sacrificed yourself for me after my death, to join me in the barrow. You gave up the sun for the shadow."
+"You and I are bound in kinship and love, " he said to her. "You sacrificed yourself for me after my death, to join me in the barrow. You gave up the sun for the shadow."
 
 Ingrid looked at him with loving eyes. "And I ask you now, will you follow me into Osric's blade? Will you be the master of the blade while I tend the hearth in Alfheimr?"
 
 Ingvar's back straightened. He did not hesitate. "My choice was to protect our family. This is the same choice. Of course. I will act to save Osric. He is Ealhild's husband, and we are bound to him like any other kin."
 
-Freyr studied the five spirits with a keen knowing smile. "Yes! Ingvar, son of Torsten, well met! On that battlefield, you rejected both the valkyries of Odin, and the walk in the sunny valley to Alfheimr! You chose the vow of the barrow, to watch over your family and its descendants. A noble choice! And I accept you into Alfheimr once again! You were never to be denied."
+Freyr studied the five spirits with a keen knowing smile. "Yes! Ingvar, son of Torsten, well met! On that battlefield, you rejected both the valkyries, and the walk in the sunny valley to Alfheimr! You chose the vow of the barrow, to watch over your family and its descendants. A noble choice! And I accept you into Alfheimr once again! You were never to be denied."
 
-Woden's eye crackled with an energy of momentary hate. "You *dared* defy me, boy! Your shield was needed in Valhalla. Yes, I remember you as well, and the valkyries were somber that day." The forge fell into a suffocating silence, the spirits of the shieldwall standing motionless as the Allfather’s gaze bore into them. The ravens shifted on the rafters above, peering to see what would happen next. Then, slowly, Woden’s posture relaxed, his shoulders dropping, and the cold, piercing light in his eye softened into a dangerous, calculating twinkle.
+Woden's eye crackled with an energy of momentary hate. "You *dared* defy me. Yes, I remember you as well, and the valkyries were somber that day." The forge fell into a suffocating silence, the spirits of the shieldwall standing motionless as the _All-Father’s_ gaze bore into them. The ravens shifted on the rafters above, peering to see what would happen next. Then, slowly, Woden’s posture relaxed, his shoulders dropping, and the cold, piercing light in his eye softened into a dangerous, calculating twinkle.
 
-"There is hope for a new pact," Woden rasped, his voice now smooth as polished stone. "One that sees you, your wife, and your friends finally resting in Alfheimr. Your yard shall be measured by the length of the steel. Your friends will be the fence at the hedge. You will protect the remains of Ealhild's family... but the risk is very great for you, Ingvar. The blade is a fragile thing... if it breaks, you all will be cast out from Alfheimr. You will become hedge spirits, and the Wild Hunt will give chase. And you *will* run. " Woden leaned closer, his single eye burning with a cold, terrifying intensity. "To Osric, he must pay a price. You will bring him to Alfheimr with you, and you will keep him there while Ingvar guards the fence. Osric will be held within a breath of death. You must be willing to gamble with his life, as he is gambling with yours. Agreed?"
+"There is hope for a new pact," Woden rasped, his voice now smooth as polished stone. "One that sees you, your wife, and your friends finally resting in Alfheimr. Your yard shall be measured by the length of the steel. Your friends will be the fence at the hedge. You will protect the remains of Ealhild's family... but the risk is very great for you, Ingvar. The blade is a fragile thing... if it breaks, you all will be cast out from Alfheimr. You will become hedge spirits, and the _Wild Hunt_ will give chase. And you *will* run. " Woden leaned closer, his single eye burning with a cold, terrifying intensity. "Ingrid, Osric must pay a price as well. You will bring him to Alfheimr with you while the blade is wielded, and you will keep him there while Ingvar guards the fence. Osric will be held within a breath of death. He wagers your eternity. You shall wager his life. Agreed?"
 
 Ingvar looked at Ingrid. He saw the golden light of Freyr’s promise and the grim reality of Woden’s demand. "Agreed," Ingvar said, his voice echoing with the finality of a closing tomb. "I am the yard to the edge. The shieldwall is the fence. Let the forging begin."
 
-Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Ingrid, the string shall bind your hand to the bellows. Breathe deep, and bestow your spirit to the fire. It is the tether until the forging is complete. The Allfather has spoken, and the harvest of the barrow is at hand!"
+Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered - the harvest of the barrow is at hand!"
 
 Shadowy hammers held by invisible hands gravitated toward the forge. Coal from a hidden well erupted at the Ingrid's feet, and she scooped the black stones furiously into the empty hearth. The furnace burst into flame instantly. The heat felt moderate at first, but it turned a blinding yellow-white with the first breath of the bellows.
 
 Freyr and Woden each took a step back. They watched in the dying sunlight the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil - a final offering of somber joy.
 
-Freyr's smile grew ever broader, as he witnessed the new billet of steel and wrought iron emerge from the crucible. It flew to the anvil, and a hundred dizzying hammers worked to the sound of a giggling song of clinks and clangs. The sparks of the hammers reflected in Woden's eye as he sternly watched the progress while gripping his staff. The form quickly turned from a cornered billet, to a large farmer's broadseax. It was heavy and long, meant for a woodsman's chop and a reaping of fall lambs. It had runes too, which betrayed its more divine inspiration.
+Freyr's smile grew ever broader, as he witnessed the new billet of steel and wrought iron emerge from the crucible. It flew to the anvil, and a hundred dizzying hammers worked to the sound of a giggling song of clinks and clangs. The sparks of the hammers reflected in Woden's eye as he sternly watched the progress while gripping his spear. The form quickly turned from a rectangular billet, to a large farmer's broadseax. It was heavy and long, meant for a woodsman's chop and a reaping of fall lambs. It had runes too, which betrayed its more divine inspiration.
 
-Finally, Freyr raised both hands and the Cynn stopped, hammers in the air. He pressed the smoke in the air down into the spirits, and forced them next to the blade. He nodded, and the Cynn struck with all their hammers. The blade was struck. Quickly the blade was thrust back into the fire, where it was studied with invisible eyes. "Not yet" said one. "Wait!" said another. "Now, quickly" said a third. The blade flew towards the oil and hovered over the opening... waiting... and then it plunged. A burst of green flame flew from the oil, then a sharp sizzle. The blade was drawn, and the elves laughed with pure childish glee. Invisible hands carried the blade off into the shadows to receive its handle and scabbard.
+Finally, Freyr raised both hands and the Cynn stopped, hammers in the air. He summoned the spirits to his hands and pressed them to the blade. He nodded, and the Cynn struck with all their hammers. Quickly the blade was thrust back into the fire, where it was studied with invisible eyes. "Not yet" said one. "Wait!" said another. "Now, quickly" said a third. The blade flew towards the oil and hovered over the opening... waiting... and then it plunged. A burst of green flame flew from the oil, then a sharp sizzle. The blade was drawn, and the elves laughed with pure childish glee. Invisible hands carried the blade off into the shadows to receive its handle and scabbard.
 
 ---
 
@@ -92,7 +96,9 @@ Woden and Freyr stepped forward once more, eyeing each other patiently, waiting 
 
 A marten skin of white and silver danced through the door. It was kept separate, held in midair not daring to touch a thing.
 
-Next, a clay pipe entered, being smoked by invisible lungs. A blood-stained cap entered next, now red in the forge's true light. Redcap mushrooms in a basket. One by one, they dropped into the fresh oil.
+Next, a clay pipe entered, smoking. It stopped in mid-step, and a breath was drawn. The smoke drifted back out, filling the forge with Fussleton's addling pipe-smoke. A delighted giggle came from the invisible smoker, and the pipe continued on its journey to the forge.
+
+A blood-stained cap entered next, now red in the forge's true light. Redcap mushrooms in a basket. One by one, they dropped into the fresh oil.
 
 The redcap did not kneel, nor did he come by choice. Invisible currents dragged him kicking through the soot, his small, muscular frame writhing against a thick, poisonous cord of woven deathcap mushrooms that bound his arms to his chest. The pale fungal caps bruised against his leather jerkin, leaking a milky, toxic sap into the air. His mouth was filled with yet more mushrooms.
 
@@ -114,17 +120,29 @@ The voices stopped, as if waiting. Then they cried out in a cascade.
 
 Freyr stepped forward and cut the chorus short, with his palm held high. "SILENCE!! Friends, please..." He turned his gaze toward the redcap, his expression one of weary, paternal disappointment, yet still with an unshakeable smile. "Fussleton, now were you not warned about the dangers of the mushrooms in the meadow. You were taught the rhymes. But you ignored them completely! And now, look at you! Barely a sane bone in that body of yours. What *do* you have to say for yourself, hmmm?"
 
-Fussleton’s copper eyes widened, his jaw working silently as he struggled against the mushroom-cords. The redcap, who had spent centuries terrorizing travelers and painting highways with blood, suddenly looked like a scolded child caught with his hand in the cookie jar.
+Fussleton’s copper eyes widened, his jaw working silently as he struggled against the mushroom-cords. The redcap, who had spent centuries terrorizing travelers and painting highways with blood, suddenly looked like a scolded child caught with his hand in the honeypot.
 
 The redcap stared at Freyr, his eyes unblinking, saying nothing. He knew that his only response would be murderous, and that Freyr could do worse than what he was planning.
 
-"No? Very well!" Freyr said, his voice hardening. "You chose the path of the blood-painted meadow. You wanted to be a king of murder? Very well. You shall be the memory of the steel. You shall teach the wielder how to dance, and in doing so, you shall finally learn the discipline you so carelessly discarded."
+"No? Very well!" Freyr said, his voice hardening. "You chose the path of the blood-painted meadow. You wanted to be a king of murder? Very well. Your old memory shall be the memory of the steel. You, as you are, shall be the teacher of the battle-dance. Perhaps, after a long while, you shall earn your freedom. But if you should let the blade break, you will be as a hedge-spirit, subject to the _Wild Hunt_ once more."
 
-Woden stepped forward to stare into the eyes of the redcap, studying his madness like a fine painting. "Your wod is fresh, keen, and cunning. It is madness that must serve a new hand well. But, the wielder of this blade must bind with this madness in harmony." Woden traced his finger along the redcap's jaw, and whispered, "You will infuse your fly agaric into your wielder's hand. You will keep them safe by showing them the dangers in song, and in their senses." He stepped back, and looked at Freyr. "The wielder must know there is a price for this magic. They will be struck mad after the blade is put back, for a time. We will see the choice they make... to survive battle only to be driven to madness. Agreed?"
+Woden stepped forward to stare into the eyes of the redcap, studying his madness like a fine painting. "Your wod is fresh, keen, and cunning. It is madness that must serve a new hand well. But, the wielder of this blade must bind with this madness in harmony." Woden traced his finger along the redcap's jaw, and whispered, "You will infuse your fly agaric into your wielder's hand. You will keep them safe by showing them the dangers in song, and in their senses." He stepped back, and looked at Freyr. "The wielder must know there is a price for this magic. They will be struck mad after the blade is put back, for a time. We will see the choice they make... to survive battle only to be driven to madness."
 
-"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. He and Woden stepped back once more to let the forging commence.
+Woden looked at Freyr. "Agreed?"
 
-A billet of curious white steel emerged from the gloom and landed in the forge. The elves called it "welkin-iron"—or sky-vault iron, the nickel-rich heart of a celestial stone that had fallen from the heavens in the deep past. It was a stubborn, brittle metal to start, but the elven smiths had spent generations refining it. They had heated the sky-stone to a yellow-white glow to hammer out its stony impurities, then folded it repeatedly over charcoal fires to force carbon deep into its grain. What remained was a dense, high-nickel steel billet, gleaming with a pale, silvery luster that would never dull.
+"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade - light and poised like the moonlit marten upon the bough!" He and Woden stepped back once more to let the forging commence.
+
+The foreman of the forge-elves, Besidius, leaned close and whispered into Freyr's ear.
+
+Besidius: "Master-of-the-Fray, do you want that extra-pointy, like the marten's teeth?"
+
+Freyr: "Of course, Besidius!"
+
+Besidius: "Done, your Fray-ship!"
+
+Freyr burst into laughter at the dreadful faux honorific.
+
+A billet of curious white steel emerged from the gloom and landed in the forge. The elves called it _welkin-iron_—sky-vault iron, the nickel-rich heart of a celestial stone that had fallen from the heavens in the deep past. It was stubborn, brittle stuff, but the Cynn had spent months and many baskets of Elswyth's coal taming it. Again and again they heated the sky-stone to a yellow-white glow, drove out its stony impurities beneath their hammers, and folded it over charcoal fires until the heavens themselves had learned the ways of steel. What remained was a dense billet of pale, nickel-rich metal whose silvery luster seemed poised to catch moonlight itself.
 
 The redcap was carried and bound by his mushroomed ropes to the bellows. More coal erupted from the floor, and crawled up the redcap's legs like black dancing ants, throwing themselves into the fire.
 
@@ -223,27 +241,76 @@ Muninn: "I doubt it. What really needs lifting are the feathers in your tail. Th
 
 ---
 
-Freyr and Woden stepped forward one last time, meeting at the anvil. Freyr spoke first, "One last blade! I see no visitor at the door. Most confusing. Who petitions this blade for our three?"
+Freyr and Woden stepped forward one last time, meeting at the anvil.
 
-Woden leaned forward, looking Freyr dead and square. "I do!" The words landed and hushed all movement by the Cynn.
+Woden: "For this third blade, have you considered my proposal?"
 
-The forge seemed to shrink, the very stones of the Jewry Wall pressing inward as the weight of Woden’s declaration settled. Even the ravens on the rafters went deathly still, their heads snapping toward the anvil in perfect, synchronized shock.
+Freyr: "Yes, another space in Alfheimr. This one in the likeness of a church, of _Christ_."
 
-Woden’s single eye burned with a terrifying, singular focus.  "I do," Woden repeated, his voice no longer a rasp, but a command that vibrated in the marrow of the earth. "The pact is not merely for the mortal. It is for madness itself. I speak of the Wodhere, the Wild Hunt. I mean to bring the Hunt to heel, to the command of a mortal when needed." Woden's voice changed, dark and ominous. "But the price will be heavy. To wield the Wodhere like a blade, one must be willing to bargain one's own conscience *and* soul. I demand a witan anytime the handle is seized. The wielder must face judgement."
+Woden: "When the blade is drawn, the _witan sleep_ will take Cynewulf there. The ravens will also be summoned."
 
-Freyr's smile almost waned. "Who do you intend to wield this? This is not like you, Woden. You usually choose your champions like the pack choosing its next wolf. You observe, you test, you cull. This... this is a blind throw into the dark."
-
-Woden’s voice escalated, vibrating with the force of a gathering gale. "I WILL NOT SPEAK HIS NAME! To name him is to tether him, and to tether him is to invite the gaze of those who would shatter the world to possess this steel. He will find the blade when the time is ripe, and he will find the truth of it in the fire of his own confession. He will pay the price of his own soul to wield it, and that is all the world needs to know. I require only the place for the trial."
-
-Freyr's eyes widened and his smile blazed once more. "Ahh, the place for a witan. For a man who must *confess*. Very well, old man. I offer the church itself. I shall create a space in Alfheimr that is a church, with a vaulted stone ceiling and a thousand lit candles. But, you will not be the judge, Woden."
-
-"WHAT!" the old man barked, his single eye flashing with a storm of indignation.
-
-"No," Freyr said, his voice calm and absolute. "That job belongs... to your ravens. They are the memory, and the conscience. And your _witan_-sleep will stop time. The wielder must be given time to search his soul. I will not allow this to be a sudden death. If he is to be judged, he must be given the silence to hear his own heart."
+Freyr's eyes widened and his smile blazed once more. "Ahh, the place for a witan. For a man who must *confess*. Very well, old man. I offer the church itself. I shall create a space in Alfheimr that is a church, with a vaulted stone ceiling and a thousand lit candles. And your _witan_-sleep will stop time. The wielder must be given time to search his soul. I will not allow this to be a sudden death. If he is to be judged, he must be given the silence to hear his own heart."
 
 Woden grumbled, but resigned. "Fine. He will have the time it takes for the _Wodhere_ to run him to ground—the span of a hundred heartbeats before the Hunt chases the breath from his lungs. That is all the time I am willing to give."
 
 Freyr’s smile softened, though his eyes remained fixed on the altar. "A chase, then. A trial of speed and spirit. Let it be done!"
+
+The Cynn forge-elves made a circle around the two gods, listening intently.
+
+"To summon the _Wild Hunt_ we need a part of Woden. To summon the ravens, we need a part of them."
+
+"Something small."
+
+"Something that commands."
+
+"Something that gathers."
+
+"Something that sends."
+
+"Something the ravens bring."
+
+"Something the ravens keep."
+
+"Something that returns."
+
+"Something living."
+
+"Woden's essence gathers and sends. He commands and is given respect."
+
+"His blood?"
+
+"His blood."
+
+"A drop."
+
+"One drop only."
+
+"The ravens are sent and brought."
+
+"They fly."
+
+"By the wing."
+
+"By the feather."
+
+"They bring the feather."
+
+"They keep the feather."
+
+"Except One."
+
+"Each."
+
+Woden looked at his ravens, and nodded. He lowered the blade of _Gungnir_ and used the spear's head to cut his hand. Five drops of blood landed in a waiting goblet.
+
+The ravens landed on the anvil. One feather was taken from each.
+
+Woden looked at Freyr one last time. "You will see these blades to their owners?"
+
+Freyr: "As sure as the night falls."
+
+Woden looked at Huninn and Muninn. "Come on feathers. Time to move on."
+
 
 ---
 
@@ -267,6 +334,6 @@ Muninn: "Wow that's not subtle."
 
 Huginn: "I think I spy our faces on the scabbard. I don't remember sitting for a portrait!"
 
-Muninn: "You didn't bird-brain. All-Father told them to put us there, remember? We are the inquisitors. He merely gets to listen. Those were Freyr's rules."
+Muninn: "You didn't bird-brain. All-Father told them to put us there, remember? We are the inquisitors. He merely gets to listen. Those were the rules."
 
 Huginn: "I'm getting hungry. The sun is setting. Let's see if the Night of Blood has begun."

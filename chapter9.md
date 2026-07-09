@@ -2,6 +2,8 @@
 
 [TODO: revisit with Griffon and Dragon's Teeth]
 
+[TODO: Cynewulf will be told by Huginn's voice when he grips the handle to speak the spell to enter the witan-sleep]
+
 Cynewulf stood in the center of the churchyard. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. Roganvaldr swung his sword in circles, back and forth in front of his shield. He was proving that his prowess of the blade was equal to the might of his sword-arm. Many had seen Roganvaldr taunt them this way, and none had survived.
 
 Cynewulf sensed that his time was short. He had no shield, and no other weapon. He grabbed the wire-wrapped handle of the Wodbora just as Roganvaldr charged.
@@ -203,9 +205,9 @@ Then, the blacksmith raised his torch, the light falling directly across Cynewul
 
 For eleven years on the road, he had lived as a faceless, broken monster, entirely convinced that the highway had peeled away every single shred of his humanity, leaving nothing but scar tissue. He had thought himself entirely unsavable. But looking into the tear-filled, recognizing eyes of his former flock, a strange, bittersweet warmth bloomed behind his ribs.
 
-They knew his name. They remembered his face. The road had stolen his innocence, yes, and his hands were stained with unforgivable blood — but it hadn't peeled him completely away. The young deacon... the man before the rot began, was still inside the shell of the mercenary.
+They knew his name. They remembered his face. The Road had stolen his innocence, yes, and his hands were stained with unforgivable blood — but it hadn't peeled him completely away. The young deacon... the man before the rot began, was still inside the shell of the mercenary.
 
-He didn't speak of the Wodhere. He didn't tell them about the black, humming langseax hidden beneath his tattered cloak. He merely gave the villagers a slow, somber nod of a priest returning from a long exile.
+He didn't speak of the _Wodhere_. He didn't tell them about the black, humming langseax hidden beneath his tattered cloak. He merely gave the villagers a slow, somber nod of a priest returning from a long exile.
 
 Osric and Elswyth stood in the shadows of the stone wall, watching the interaction in dead silence. They looked at the weeping townspeople, then back at the cynical, hollowed-out mercenary they had been tracking through the mud. For the first time, they realized the true weight of the man standing beside them.
 
