@@ -119,7 +119,6 @@ She didn't dance. She stared at him.
 
 He stopped. "...You really can't hear it?"
 
-
 And he left her there, a girl of eleven winters, yet much, much older in lunar years.
 
 The Ulfhednar were long gone by then, and a steady, quiet life had returned to Under-Geat. Elswyth stood before the charred skeleton of the coaler’s hut, the roof long since consumed by the wolves' fire. She was alone, but she was no longer the girl who had fled into the trees. She was a creature of the forest now, and the gnome’s promise hung in the air between them.

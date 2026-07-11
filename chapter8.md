@@ -358,4 +358,64 @@ So you knew I had to try!
 
 Click. Elswyth put Monanleoht back in its cage, the pommel's lock silencing the gnome.
 
-[TODO Fly agaric come down]
+With the redcap no longer there to guide her senses, she descended into madness.
+
+Every drop of water falling into the cistern became a crystal sphere, hanging impossibly in the air before crashing into the pool with the roar of a collapsing tower.
+
+She fell to her knees.
+
+Every tile smiled at her.
+
+She reached down to cover one face with her hand. Instead she found another staring back at her. The pale crescents of her fingernails gleamed like tiny moons, each fixed in its own silent grin.
+
+She squeezed her eyes shut.
+
+Darkness offered no refuge.
+
+Colors without names bloomed behind her eyelids. Her mother's face smiled from the back of a leech. Ice shimmered green as summer leaves and pink as apple blossoms, somehow both at once.
+
+Her own ragged breathing swelled into the roar of a gale through the forest canopy. Every heartbeat crashed like an axe against an ancient oak.
+
+She tried to stand.
+
+The earth slipped away beneath her.
+
+She fell, unable to keep her bearing. She rolled to the ground, staring at the ceiling.
+
+The rafters leaned together like old women sharing a secret. She was certain they stopped whispering the moment she looked at them.
+
+One of them seemed unbearably amused. Elswyth burst into laughter. She laughed until her ribs hurt, until she could scarcely breathe, until she could no longer remember why she had begun.
+
+Then the stars started arguing with each other. And arguing with her.
+
+"No! I will not unleash that monster again!"
+
+The stars pleaded with her.
+
+"He's not right... too much applesauce... on his... neck."
+
+She didn't understand their words, only their meaning.
+
+"Coal doesn't breathe! It blossoms. Like... fish."
+
+Finally. Agreement.
+
+She nodded, glad that the moon had finally brought the stars to their senses.
+
+She leaned onto her side and retched.
+
+So the night passed. She witnessed impossible arguments, singing stone, and colors that laughed when she looked away.
+
+Hours later, the voices softened. The colors faded. At last, the poison loosened its grip enough to let her sleep.
+
+When she finally awoke, morning sunlight streamed through the openings in the roof, illuminating the bathhouse.
+
+She stood slowly, weary from a night spent at war with her own senses, but otherwise exhausted yet unharmed. Dreams and waking had become hopelessly entangled. She resolved to leave them that way.
+
+The sunlight caught the coffer sitting on the bench. She wasn't sure she wanted to open the box, but curiosity held her in its grip.
+
+Inside the coffer she found a neatly folded set of charcoal-black garments. A suede coaler's apron lay atop a supple leather jerkin, beneath which were folded a linen tunic, a short half-cloak with its fitted caul, and wrappings for her arms and calves. Beside the stack rested a pair of light, thick oil-treated turn-shoes, their leather darkened by soot until they seemed born of the forge itself. There were also coaler's gloves, thick rawhide that protected her fingers from the brambles and thorns of working in the forest.
+
+Beneath the clothing, she also found a woodsman's felling axe. Its broad bit carried a _welkin-iron_ edge, bright as _Monanleoht's_ blade. The ash haft was wrapped in supple leather, its shallow flutes fitting naturally beneath her fingers.
+
+Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three small brass bells - each scarcely larger than a walnut - and small iron fittings whose purpose she could only guess.

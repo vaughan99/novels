@@ -160,11 +160,11 @@ Osric ran for his life, lunging back through the dark alleys of the Roman market
 
 Then he heard... A child's giggle. High and playful, it echoed from a narrow stone corridor to his left. The giggle whispered instructions. "Quickly! Here!" He followed the voice before he knew he had. Osric stumbled into the roofless shell of an ancient forge. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze cast a heavy, flickering orange light. The new light illuminated the outline of an anvil.
 
-Awaiting Osric on the anvil was a broad stack of practical garments, folded with almost military precision. A thick waxed gambeson rested over a supple wool under-tunic, while wax-treated linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood at the foot of the pile.
+In front of the anvil stood a medium wooden chest, its lid graced by an iron emblem of an oak tree sprouting from a broken anvil with hammers crossed.
 
-Leaning against the stack rested a broad round shield. Its boss was crowned by a rounded dome, with stout ribs radiating toward the rim. The thick wooden boards had been richly waxed, while the iron rim was hollowed and wrought into the likeness of the willows of the hedge. On the boards was the painting of a small oak tree sprouting from a broken anvil, with hammers crossed at the anvil's feet.
+Leaning against the chest rested a broad round shield. Its boss was crowned by a rounded dome, with stout ribs radiating toward the rim. The thick wooden boards had been richly waxed, while the iron rim was hollowed and wrought into the likeness of the willows of the hedge. On the boards was the painting of a small oak tree sprouting from a broken anvil, with hammers crossed at the anvil's feet.
 
-Across the folded garments lay a weathered black scabbard holding a heavy farmer's long-handled broadseax, its handle blackened and inlaid with a seam of glassy jet. It was _Barrow's Edge, the Hedge-Stalker_.
+On the anvil lay a weathered black scabbard holding a heavy farmer's long-handled broadseax, its handle blackened and inlaid with a seam of glassy jet. It was _Barrow's Edge, the Hedge-Stalker_.
 
 Elswyth knew she was no warrior. She didn't even bother with her small mushroom handseax, and the felling axe had been left in her cottage. She sprinted into the Roman market.
 
@@ -174,7 +174,7 @@ The aqueduct was wet and slimy from centuries of algae. Elswyth slid helplessly 
 
 She waded through the near-freezing water, each splash stealing air from her lungs. The pool led to steps, which climbed up into the bathhouse. The ceiling was collapsed in parts, and the night sky was visible. The floor of the bathhouse was cracked marble tile, built on moist clay.
 
-Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. Before her rested a neatly folded suit of charcoal-black garments. A suede coaler's apron lay atop a supple leather jerkin, beneath which were folded a linen tunic, a short half-cloak with its fitted caul, and waxed linen wrappings for her arms and calves. Beside the stack rested a pair of light, oil-treated turn-shoes, their leather darkened by soot until they seemed born of the forge itself. Across the garments lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle - the one she knew all too well - beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
+Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. On the bench was a long narrow coffer of wood, its top had an iron symbol: an oak tree sprouting from an anvil, hammers crossed.  On top of the coffer lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle - the one she knew all too well - beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
 
 She heard the footsteps of Vikings around the aqueduct chute above, and they could see her track ended there. They were determined to follow her into the dark.
 
@@ -182,9 +182,9 @@ Cynewulf's feet remembered the path to the Church. It rose before him, beckoning
 
 Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast — the church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
 
-There, lying across the cold stone, Cynewulf found a warrior's habit laid before him with quiet dignity. Folded atop a supple under-tunic rested a finely wrought steel byrnie, beneath which lay a stout weapon-shirt and neatly wrapped bands of wax-treated linen for his arms and legs. A heavy wool cloak, clasped with a silver-lined brooch, completed the attire. Beside the garments waited a pair of sturdy boots.
+There, lying across the cold stone, Cynewulf found a large flat-topped chest of wood and iron, the lid carrying the iron badge of the Cynn: a young oak sprouting from a broken anvil with two crossed hammers at the foot. 
 
-Leaning on the arrangement was a compact round shield, perhaps a hand's-width wider than the _tarians_ of the _Dragon's Teeth_. The core was a union of hornbeam and linden. The face and rim were covered with thick waxed cuir bouilli. The boiled leather had been painted in alternating quarters of green and brown on the face. In the center, a round steel boss gleamed, punched with a foundry mark of a small oak sprouting from a broken anvil, with crossed hammers below. 
+Leaning on the chest was a compact round shield, perhaps a hand's-width wider than the _tarians_ of the _Dragon's Teeth_. The core was a union of hornbeam and linden. The face and rim were covered with thick waxed cuir bouilli. The boiled leather had been painted in alternating quarters of green and brown on the face. In the center, a round steel boss gleamed, punched with a foundry mark of a small oak sprouting from a broken anvil, with crossed hammers below. 
 
 Across the top rested a black leather scabbard embossed with two ragged ravens, ancient runes, and the endless knot of two wolves forever chasing one another. The blade's handle was long, easily enough for two hands, but still practical for one. Its handle was wound in darkened steel wire, the coils sealed beneath a charcoal-black resin until metal and ash had become one. At either end, stout Turk's head knots gripped the wrap like the bindings of an old mariner's rope. Within slept _Wodbora, the Madness-Bringer, the Prophet of the Wodhere_.
 

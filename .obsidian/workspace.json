@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter6.md",
+                "file": "chapter9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter6"
+              "title": "chapter9"
             }
           }
         ],
@@ -324,13 +324,17 @@
   },
   "active": "99353a419e10100e",
   "lastOpenFiles": [
+    "chapter2.1.md",
     "chapter7.md",
+    "chapter8.md",
+    "chapter9.md",
+    "chapter3.3.md",
+    "chapter3.2.md",
+    "afterword.md",
     "chapter10.md",
+    "chapter3.1.md",
     "chapter6.md",
     "chapter5.2.md",
-    "chapter9.md",
-    "chapter8.md",
-    "afterword.md",
     "artwork/wodbora/Wodbora.jpg",
     "artwork/wodbora/Unconfirmed 184093.crdownload",
     "epilogue.md",
@@ -340,12 +344,8 @@
     "chapter4.3.md",
     "chapter4.2.md",
     "chapter4.1.md",
-    "chapter3.3.md",
-    "chapter3.2.md",
-    "chapter3.1.md",
     "chapter2.3.md",
     "chapter2.2.md",
-    "chapter2.1.md",
     "chapter1.md",
     "prologue.md",
     "disclaimer.md",

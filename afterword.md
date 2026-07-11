@@ -365,7 +365,7 @@ This side is body-facing and contains the "secret" spell that Wodbora will cast 
 
 ---
 
-### Barrow-Edge, the Hedge-Stalker
+### Barrow's-Edge, the Hedge-Stalker
 
 #### Description
 
@@ -396,7 +396,7 @@ Regardless, the blade should be exceptionally thick and wide. The wrought iron r
 
 Since this is a farmer's blade, the handle should be simple. It should be two-handed, like the Northolt Manor seax. The handle should probably be wood... bogwood would be incredible. This construction envisions the placement of Gurdr's Tears (jet gravel) as an inlay in the handle.
 
-I would highly consider picking a stabilized bone or wood handle, and performing a iron acetate soak on it. That makes a relatively black handle. By adding a jet gravel inlay, you produce a shiny-black-on-matte-black contrast, which should look subtle and cool. We're going for borrow-vibe here, so every shadow counts.
+I would highly consider picking a stabilized bone or wood handle, and performing a iron acetate soak on it. That makes a relatively black handle. By adding a jet gravel inlay, you produce a shiny-black-on-matte-black contrast, which should look subtle and cool. We're going for barrow-vibe here, so every shadow counts.
 
 #### Scabbard Construction
 

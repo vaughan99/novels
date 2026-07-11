@@ -4,21 +4,43 @@
 
 Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare. He was also a proud fyrdman, too, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
 
-He was not an especially pious man. He had seen the shuffle of war—Norseman against Christian, Christian against Norseman—and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and harvest. Still, when the rain came late or the barley stood thin, Osric would sometimes offer a prayer for steady weather and a bountiful yield.
+He was not an especially pious man. He had seen the shuffle of war—Norseman against Christian, Christian against Norseman—and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and every harvest. Still, when the rains came late or the barley stood thin, Osric would sometimes offer a prayer for steady weather and a bountiful yield. Sometimes he offered the same prayer to Freyr, the Norse god of the harvest. It seemed no great offense to ask twice.
 
-He attended the little parish church at Easter, at Michaelmas, and on the Feast of Saint Martin when the livestock were culled for winter. Beyond that, he placed more trust in sound thatch, healthy cattle, a sharp spear, and the men who would stand beside him in the shield-wall.
+He attended the little parish church at Easter, at Michaelmas, and on the Feast of Saint Martin, when the livestock were culled for winter. Beyond that, he placed more trust in sound thatch, healthy cattle, a sharp spear, and the men who would stand beside him in the shield-wall. He kept a few old harvest customs besides. He left the last corner of the field uncut, in honor of the land, and wove the first sheaf of every harvest into the cottage door as a quiet sign of gratitude for the year's bounty. Whether the thanks belonged to Christ, to Freyr, or simply to the land itself had never seemed worth arguing over, so long as the barley ripened and his children had bread through the winter.
 
-His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near Hagustealdsham. His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
+His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near _Hagustealdsham_. His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
 
 "My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrd-men. "The land knew my forefathers almost three-hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
 
-Osric's wife was Ealhild, a woman of the Danes who was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were a kindred spirit. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the Piceringas, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow.
+Osric's wife was Ealhild, a woman of the Danes.
+
+---
+
+Muninn: "Don't you mean _Álhildr_? That was the name she was given at birth."
+
+Huginn: "I'm not going to switch between _Álhildr_ and _Ealhild_ just to satisfy your sensibilities. We're picking just one."
+
+Muninn: "You're choosing her married name over her given name. Seems arbitrary."
+
+Huginn: "I'm choosing the name that's easier for the children to remember. Now stop interrupting."
+
+---
+
+She had been born with the name _Álhildr_, but over the years it had softened into _Ealhild_ upon Northumbrian tongues.
+
+---
+
+Huginn: "There, happy?"
+
+---
+
+She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were a kindred spirit. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow.
 
 Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, he immediately found what he was looking for - a plot of land for his service. He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone was put as the cap on the barrow, the black jet streaks shining in the sun.
 
 Her grand-father bred the first of the areas famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
-Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered ingredients from the eorth-hord, Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked. She pretended to be Gerðr with her mother, tempting Freyr to lay down his sword and frolic with her. She also knew some of her mother's stories were invented on the spot, but another tale of Gullinbursti the Golden-Bristled Boar soaring over hedgerows, or butting a troll into a ditch for stealing barley, never failed to make her laugh. 
+Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord, Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked. She pretended to be Gerðr with her mother, tempting Freyr to lay down his sword and frolic with her. She also knew some of her mother's stories were invented on the spot, but another tale of Gullinbursti the Golden-Bristled Boar soaring over hedgerows, or butting a troll into a ditch for stealing barley, never failed to make her laugh. 
 
 ---
 
@@ -46,11 +68,21 @@ Huginn: "No, he's... Super-BOOOOAAARRR!"
 
 ---
 
-Ealhild's family were superstitious. The family barrow was young by Dane standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it—stories, bones, stones, and memories—until it seemed older than it truly was. Her mother would teach her that one day, she would marry, and would travel far away. The family was looking for expansion of their lines, and had enough dowry to marry them in all directions. 
+Ealhild's family were superstitious. The family barrow was young by Dane standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it—stories, bones, stones, and memories—until it seemed older than it truly was.
 
-When she went, she would take a barrow's capstone with her... to bring the spirits of her ancestors to help her tame her new land. Her mother would tell her stories of the black in the stone. "They are Gerðr's Tears, Ealhild. When she married Freyr, she stood at the shoreline, about to board Skíðblaðnir. She looked back. And she wept. Her tears ran black, and stained the stone," her mother said. "But why was she sad?" Ealhild was truly concerned. "She wasn't sad Ealhild. She loved her mother, and she loved Freyr. Some tears are too big for one name. You will take the capstone with you when you are married. You will be as Gerðr, and you will find your Freyr."
+Her mother taught her that one day, she would marry, and would travel far away. To carry the family traditions to a new valley was a great honor, and a great responsibility.
 
-That day came, as Ealhild's father was eager to expand northward. While much of land in that direction was tough and bitter, the lands of the Tyne river had wealth and made for good grazing land. He had come to know of Osric, whose father was interested in the stronger Danish plows. The dowry was simple... an extra plowshare, and a cow from the dairy herd, with promise of more once the pens were established. She would never forget the day Osric arrived, freshly bathed on his draught horse, attended by five of his fellow fyrdmen. She saw Freyr in him. The easy smile. The broad shoulders. The quiet confidence of a man who knew his work and did it well.
+And that is how families grew.
+
+When she went, she would take a barrow's capstone with her... to bring the spirits of her ancestors to help her tame her new land. Her mother would tell her stories of the black in the stone. "They are _Gerðr's Tears_, Ealhild. When she married Freyr, she stood at the shoreline, about to board _Skíðblaðnir_. She looked back. And she wept. Her tears ran black, and stained the stone," her mother said.
+
+"But why was she sad?" Ealhild was truly concerned.
+
+"She wasn't sad Ealhild. She loved her mother, and she loved Freyr. Some tears are too big for one name. You will take the capstone with you when you are married. You will be as Gerðr, and you will find your Freyr."
+
+That day came, as Ealhild's father was eager to expand northward. While much of land in that direction was tough and bitter, the lands of the Tyne river had wealth and made for good grazing land. He had come to know of Osric, whose father was interested in the stronger Danish plows. The dowry was simple... an extra plowshare, and a cow from the dairy herd, with promise of more once the pens were established.
+
+She would never forget the day Osric arrived, freshly bathed on his draught horse, attended by five of his fellow fyrdmen. She saw Freyr in him. The easy smile. The broad shoulders. The quiet confidence of a man who knew his work and did it well.
 
 She had packed all her belongings, her mother's gift of a fresh leather-covered satchel hanging firmly from her shoulder. Inside were the beginnings of her medicine charms.
 
@@ -58,14 +90,14 @@ And the capstone.
 
 It rode strapped to the horse's blanket, heavier than anything else she carried.
 
-She arrived to the cottage in five days, a reasonably fast trek. Osric's fyrdmen said their goodbyes while Ealhild eagerly took the barrow-stone for placement. She spotted the perfect place... the step down from the door down into the earth, the very transition of the home. Osric had barely seen off his friends, when he turned to find Ealhild making offerings of the field she had brought with her. A bundle of barley. A sprig of three herbs. And, the boar's blood, held in a boiled-leather vial, coagulated and ready for mixing for paint. All were lovingly prepared under her mother's watch before she left.
+She arrived to the cottage in five days, a reasonably fast trek. Osric's fyrdmen said their goodbyes while Ealhild eagerly took the barrow-stone for placement. She spotted the perfect place... the step down from the door down into the earth, the very threshold of the home. Osric had barely seen off his friends, when he turned to find Ealhild making offerings of the field she had brought with her. A bundle of barley. A sprig of three herbs. And, the boar's blood, held in a boiled-leather vial, coagulated and ready for mixing for paint. All were lovingly prepared under her mother's watch before she left.
 
-She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He wasn't terribly religious, so he obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone: 
+She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone: 
 
 ᚠ - Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and 
-ᛟ - Ōþalan, the rune of ancestry and connection, to help the barrow-spirit find its kin.
+ᛟ - Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
 
-The dowry-promise of more cows was paid two years after she arrived, bringing their pen to four cows. Their wealth steadily grew, as Osric could now provide grain, cream, and butter steadily. Osric had not yet built his cheese vats; that would come when he had enough cows, and children tall enough to reach the center for the skimming. Until then, he relied on his neighbor who traded meats from his pens for the cream needed for cheese.
+The dowry-promise of more cows was paid two years after she arrived, bringing their pen to four cows. Their wealth steadily grew, as Osric could now provide grain, and Ealhild provided the cream and butter. Osric had not yet built his cheese vats; that would come when he had enough cows, and children tall enough to reach the center for the skimming. Until then, they traded the left over cream to their neighbor for finished cheese.
 
 Twelve years had passed since their marriage. They were years of love, kinship, hard work, and children. Their hearth was one of the best smelling in all of the land. They had four children, two boys and two girls. They eagerly helped with chores, and brought very little mischief.
 
@@ -73,7 +105,7 @@ The harvests of 940 and 941 were difficult. Osric's fellow farmers complained of
 
 When the harvest of 942 began to fail, the countryside was counting. Men counted sacks. Women counted animals. Everyone was wondering whether the coming winter was counting as well—the number of graves that would have to wait for spring's thaw.
 
-Much of Osric's barley yield was destined for the lord's malt-house. After the grain-tax, this year's yield was meager. He had enough left over for his family, and silver from the malt-house paid for his market purchases, with nothing extra. He bought the staples to see them through the dark: heavy crocks of wild honey, small barrels of smoked North Sea herring, and precious gray crystals of salt hauled from the eastern salt-pans. He often bartered his left-over grain to the locals for lamb. His neighbor bought much of his cream, in exchange for his famed cheese and pork. The root cellar was stocked with turnips, parsnips, and dried beans of the garden, with the help of the children's hard work. Heavy oak casks held the preserved proteins, wrapped in the purchased salt. Ealhild gathered the herbs, crabapples and elderberries, drying them meticulously for preservation. 
+Much of Osric's barley yield was destined for the lord's malt-house. After the grain-tax, this year's yield was meager. He had enough left over for his family, and silver from the malt-house paid for his market purchases, with nothing extra. He bought the staples to see them through the dark: heavy crocks of wild honey, small barrels of smoked North Sea herring, and precious gray crystals of salt hauled from the eastern salt-pans. He often bartered his leftover grain to the locals for lamb. His neighbor bought much of his cream, in exchange for his famed cheese and pork. They stocked turnips, parsnips, and dried beans of the garden, with the help of the children's hard work. Heavy oak casks held the preserved proteins, wrapped in the purchased salt. Ealhild dried herbs from the garden and crabapples from the field meticulously for preservation. She also gathered gooseberries and elderberries from the hedges, which combined with honey turned into syrup preserves.
 
 Osric's neighbors were not doing nearly as well. Some had nothing left after the grain-tax and survived only by selling heirlooms. Others had sold their livestock, choosing which mouths would eat through the winter and which would not.
 
