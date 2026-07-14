@@ -330,6 +330,24 @@
         "reasoning"
       ],
       "apiKey": ""
+    },
+    {
+      "name": "gpt-3.5-turbo",
+      "provider": "openai",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-flash-latest",
+      "provider": "google",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-pro-latest",
+      "provider": "google",
+      "enabled": true,
+      "apiKey": ""
     }
   ],
   "activeEmbeddingModels": [
