@@ -185,6 +185,8 @@ Elswyth blinked, stunned.
 
 Shadow-Wife chuckled softly.
 
+[TODO: Long-Mile]
+
 "Dear, my eyes may not be what they once were..." She patted the cross until it stood straight. "...but I still noticed the hint of smoke on the air from the knoll. You're going to need Iron-Back's help if you hope to sell the coal, and you're going to need somewhere to store it if you want to beat everyone to Morning-Eye's nose. Though, you haven't thought about how you're going to sell it yet. I can tell."
 
 She finally looked at Elswyth.
@@ -309,58 +311,58 @@ Huginn: "Meet Steve!"
 
 Muninn: "You've been having conversations with Steve's eyeball?"
 
-"So?"
+Huginn: "So?"
 
-"His eyeball *listens* to you?"
+Muninn: "His eyeball *listens* to you?"
 
-"He reads beaks."
+Huginn: "He reads beaks."
 
-"And how do you know he is reading your... beak"?
+Muninn: "And how do you know he is reading your... beak"?
 
-"He has expressive eyes... Eye."
+Huginn: "He has expressive eyes... Eye."
 
-"And... how does he tell you things?"
+Muninn: "And... how does he tell you things?"
 
-"He nods."
+Huginn: "He nods."
 
-"He nods?"
+Muninn: "He nods?"
 
-"Yeah I ask him yes/no questions and he nods."
+Huginn: "Yeah I ask him yes/no questions and he nods."
 
-"So how do you know he's a drummer?"
+Muninn: "So how do you know he's a drummer?"
 
-"He nods to the beat."
+Huginn: "He nods to the beat."
 
-"He's a drummer?"
+Muninn: "He's a drummer?"
 
-"Yes."
+Huginn: "Yes."
 
-"With no hands. Or feet."
+Muninn: "With no hands. Or feet."
 
-"Drummers lose appendages sometimes. They make up for it."
+Huginn: "Drummers lose appendages sometimes. They make up for it."
 
-"No drummer has lost _every single appendage_! AND THEN REMAINED A DRUMMER!!"
+Muninn: "No drummer has lost _every single appendage_! AND THEN REMAINED A DRUMMER!!"
 
-"Exactly. Steve will find a way. We all need to have faith in him. He's going through a rough time."
+Huginn: "All it means is that Steve has _one less thing to unlearn_! Steve will find a way. We all need to have faith in him. He's going through a rough time."
 
-"And... how do you know?"
+Muninn: "And... how do you know?"
 
-"Steve told me."
+Huginn: "Steve told me."
 
-"Through his eye."
+Muninn: "Through his eye."
 
-"Expressive eye. Remember he nods. We established this."
+Huginn: "Expressive eye. Remember he nods. We established this."
 
-"Huginn?"
+Muninn: "Huginn?"
 
-"Yes?"
+Huginn: "Yes?"
 
-"Steve can stay, but I don't think he should be a drummer."
+Muninn: "Steve can stay, but I don't think he should be a drummer."
 
-"Are you sure?"
+Huginn: "Are you sure he can stay?"
 
-"Absolutely."
+Muninn: "Absolutely."
 
-"Steve says thank you."
+Huginn: "Steve says thank you."
 
-"Tell Steve... nevermind."
+Muninn: "Tell Steve... nevermind."

@@ -1,8 +1,12 @@
 ## Chapter 1: A Promise of Piles
 
-The steady rain had given way to fog that morning, one that smelled of wet log-smoke and death. The previous night's funeral pyres were fed by the fallen logs of a rampart. The Viking King, Olaf Guthfrithson, and his Bishop, Wulfstan I of York, had fled in the night. But before they left, they negotiated a peace with Bishop Oda of Canterbury, working on behalf of the Saxons. The Five Boroughs of the Midlands would be surrendered to the Vikings, the lands of the Danelaw, lands hard-won to re-conquer over decades of Viking conquest. Given back freely to purchase peace.
+[TODO: Establishment of Under-Geat, Shadow Gate, Old Frith, and the decision to come through the Frith. Wolfhere argued with Olaf about the southwest fence being week, but Wulfstan argues that Oda will not let the Saxons violate the frith.]
 
-The news of the parchment-peace was fresh on the ears that morning. The Vikings of King Olaf Guthfrithson had largely been defeated. The battle walls were teetering, the resistance weakened. Most of the warriors left were still Vikings stout-to-a-man, but their numbers had dwindled. Their time for a brokered peace had arrived.
+[TODO: Elswyth will sell them all the mushrooms and rabbits she can gather, but she misses them in the morning. She runs through town and fiends the train stuck by the north gate. Tor hires her to join the group because of her woodland experience. She finally agrees because of the redcap promising he has brothers, but the readers don't get to learn that yet.]
+
+The steady rain had given way to fog that morning, one that smelled of wet log-smoke and death. The previous night's funeral pyres were fed by the fallen logs of a rampart. The Viking King, Olaf Guthfrithson, and his Bishop, Wulfstan I of York, had fled Leicester in the night. But before they left, they negotiated a peace with Bishop Oda of Canterbury, working on behalf of the Saxons. The Five Boroughs of the Midlands would be surrendered to the Vikings, the lands of the Danelaw, lands hard-won to re-conquer over decades of Viking conquest. Given back freely to purchase peace.
+
+The news of the parchment-peace was fresh on the ears that morning. The Vikings of King Olaf Guthfrithson had largely been defeated. They had lost the outer walls of Leicester, and were now making a last stand in the old Roman Forum. The walls of the ancient marketplace were high and strong still, and the archways were barricaded with honey-wagons and barrels. Most of the warriors left were still Vikings stout-to-a-man, but their numbers had dwindled. Their time for a brokered peace had arrived.
 
 Up and down the lines, there was disbelief. The Vikings had been cornered. Victory was near, and yet, Canterbury had bargained it away. The deal was a bitter harvest; spring was well underway, and the farmers of the fyrds were already late for planting. The winter stalled the Saxon recruitment. The Vikings fought for time, and they won.
 
@@ -10,7 +14,7 @@ The Vikings got to stay.
 
 The Saxons and their allies, after all their effort, purchased the long road home.
 
-After the crier announced the resolution from the walls that morning, and produced the parchment-deal, the Vikings slowly gathered the remains of their host and trophies. With all their dead in the pyres, all that remained was the short road to the Boroughs, to their recovered sanctuaries of the Danelaw. The Saxons had a longer road. For two months they had only known the cold hangover of winter bleeding into spring in a sparse camp, and they were still weeks away from their warm hearths. The Danes had the halls of Leicester.
+After the crier announced the resolution from the Forum walls that morning, and produced the parchment-deal, the Vikings slowly gathered the remains of their host and trophies. With all their dead in the pyres, all that remained was the short road to the Boroughs, to their recovered sanctuaries of the Danelaw. The Saxons had a longer road. For two months they had only known the cold hangover of winter bleeding into spring in a sparse camp, and they were still weeks away from their warm hearths. The Danes had the halls of Leicester.
 
 Osric paid no attention. He was a man of tall stature but hollowed by hunger, sickness, and wounded pride. He was an outsider like many from his fyrd, strange accents in a strange land. These fyrdmen, roughly a hundred strong, had been delivered for this battle, a favor from his Northumbrian lord to a Saxon debtor. His sweat and toil were payment for a debt he didn't know. His own lord sat in his hall in Northumbria, far from the battle, warm and dry.
 

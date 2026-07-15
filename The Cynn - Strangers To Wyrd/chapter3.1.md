@@ -1,5 +1,9 @@
 ## Chapter Three: The Tale of the Coal-Wise Apprentice
 
+[TODO Moved Under-Geat to SW of city]
+[TODO: Shadow-Wife now first meets Elswyth at midnight near the Shadow Gate... she's polishing Morning-Eye's cheeks]
+[TODO: Long-Mile (not Iron-Back) is a carter that helps her transport her coal]
+[TODO: Elswyth is home when Ulfhednar attack... she flees west into the forest across the bridge]
 ### Part One: The Hunters of the Pit
 
 In 933 AD, Elswyth and her parents lived in Under-Geat. It was a small hamlet of 35 cottages, just outside of Leicester on the northern hillside overlooking the river Soar. Looking up the gentle sloping hill was the church, a monument of stone stolen from the giants - Romans by another name - who built the Jewry Wall of Leicester. It was the Church of Saint Nicholas.
@@ -80,6 +84,8 @@ Despite her impatience, the wisdom seemed solid to her, and so that was the fami
 But she hated the nickname. "Meadow-bud, I'm nothing of the sort," she thought, as she would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She wasn't allowed to practice on logs, yet, but she was already stronger than he realized. "My father will see, I'm not merely the coal-maid. I will follow him into the forest and together we will fell the trees."
 
 Elswyth and Eadgyth worked the pits in cycles. Godwine felled timber and hauled it to the drying stacks. Once seasoned, the wood was stacked into a waiting charcoal clamp. Some pits burned fiercely beneath their earthen coverings, others merely smoldered, and others cooled after days of careful watching. When a pit had finally gone cold, the family filled burlap sacks with the finished charcoal.
+
+[TODO: Iron-Back is now Long-Mile a carter... he smuggles the coal in and protects her identity as the Coaler-Wight]
 
 The Soar had a barge master named Iron-Back. He helped them load their coal sacks and would ferry them across the Soar. From there, they would walk the short path south up to the Shadow Gate.
 

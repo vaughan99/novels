@@ -6,7 +6,7 @@ The following novel contains extreme tonal whiplash. Please stop reading if you 
 * numbness in your hands, feet, or speech center
 * adding "ditch-meat" to your culinary vocabulary
 * an irrational distrust of cough medicine
-* looking for stained glass and sheep's stomach during pottery class
+* looking for glass and sheep's stomach during pottery class
 * re-decorating your entire house on the advice of a ghost living in your floorboards
 * a sudden urge to name a body part and declare it as your next band member
 * a need to interrogate robots to determine if they're hearing voices
