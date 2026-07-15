@@ -11,12 +11,14 @@
             "id": "a13045364c167058",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "The Cynn - Strangers To Wyrd/maps/Story-Map-8.png"
+                "file": "The Cynn - Strangers To Wyrd/chapter1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Story-Map-8"
+              "icon": "lucide-file",
+              "title": "chapter1"
             }
           }
         ]
@@ -188,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +207,7 @@
   },
   "active": "a13045364c167058",
   "lastOpenFiles": [
+    "The Cynn - Strangers To Wyrd/maps/Story-Map-8.png",
     "The Cynn - Strangers To Wyrd/chapter1.md",
     "The Cynn - Strangers To Wyrd/chapter2.3.md",
     "The Cynn - Strangers To Wyrd/chapter2.2.md",
@@ -215,7 +218,6 @@
     "The Cynn - Strangers To Wyrd/chapter6.md",
     "The Cynn - Strangers To Wyrd/chapter3.2.md",
     "The Cynn - Strangers To Wyrd/chapter3.1.md",
-    "The Cynn - Strangers To Wyrd/maps/Story-Map-8.png",
     "The Cynn - Strangers To Wyrd/maps/Story-Map.png",
     "The Cynn - Strangers To Wyrd/maps/Story-Map-5.png",
     "The Cynn - Strangers To Wyrd/maps/Story-Map-4.png",
@@ -249,7 +251,6 @@
     "The Cynn - Strangers To Wyrd/chapter4.1.md",
     "The Cynn - Strangers To Wyrd/chapter4.3.md",
     "The Cynn - Strangers To Wyrd/chapter4.4.md",
-    "The Cynn - Strangers To Wyrd/chapter9.md",
     "artwork/wodbora/Unconfirmed 184093.crdownload",
     "Table of Contents.canvas"
   ]

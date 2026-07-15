@@ -1,9 +1,5 @@
 ## Chapter 1: A Promise of Piles
 
-
-
-[TODO: Elswyth will sell them all the mushrooms and rabbits she can gather, but she misses them in the morning. She runs through town and fiends the train stuck by the north gate. Tor hires her to join the group because of her woodland experience. She finally agrees because of the redcap promising he has brothers, but the readers don't get to learn that yet.]
-
 The steady rain had given way to fog that morning, one that smelled of wet log-smoke and death. The previous night's funeral pyres were fed by the fallen logs of a shattered rampart, and the smoke drifted slowly through the battered streets of Leicester.
 
 Victory should have belonged to the Saxons. The city had been surrounded for nearly two months. The Viking king had been driven from the walls and forced back into a shrinking web of barricades centered upon the old Roman Forum. Veteran bands still held crossroads, halls, and stout Roman buildings throughout the city, and every one of those positions promised another bloody fight, but no man doubted the outcome. Leicester was lost.
@@ -66,7 +62,12 @@ For two months that spring, the Saxon horde had made _Under-Geat_ their home. An
 
 That morning, she took the news of the peace with dread. She had no ear for war, but she also had no love for the Danes, especially those dressed as wolves. While the Danes ruled, she preferred the call of the forest birds to the sounds of the Vikings' boasts. Now with the Danelaw officially in the hands of the Danes, she wasn't sure that Leicester was her home.
 
-The Tyne River fyrd was one of these companies that stayed just outside of _Under-Geat_. Elswyth had made a promise to the wagon master of the fyrd, a man named Murdock the Scot  
+Osric's Tyne River fyrd was one of the companies encamped just outside _Under-Geat_. Their wagon master was a Scot named Murdock, a fire-bearded man whose first instinct was always to count: wagons, oxen, barrels, sacks, and finally people. He had seen her faithfully deliver her bounty for several weeks, and when the peace was read he bid her check her traps one final time before they left. She had promised she would.
+
+Before she could return, Osric had finished his repair, and the reeve of the fyrd whipped the train into motion. The farmers of this fyrd had further to travel than most, and he could waste no time waiting. Espe for a single rabbit.
+
+
+
 [TODO: Elsywth promises to empty her traps one last time and sell the contents to Murdock. The fyrd wagon train gets going before she can get back, and she runs into town to find them. She finds them on the road just outside the North gate, broken down again.]
 
 Cynewulf, also of Leicester, was strong and salt-bearded, yet weary. A priest at first, he gave up that life for the life of a soldier and highwayman. He had the cake of the road stuck to him, a tired mercenary in this war, fighting for the Saxons. His foreign warband brought him to Leicester. They were harassing Viking reinforcements from York and had been very effective.
