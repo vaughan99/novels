@@ -11,14 +11,12 @@
             "id": "a13045364c167058",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Cynn - Strangers To Wyrd/chapter3.2.md",
-                "mode": "source",
-                "source": false
+                "file": "The Cynn - Strangers To Wyrd/maps/Story-Map-8.png"
               },
-              "icon": "lucide-file",
-              "title": "chapter3.2"
+              "icon": "lucide-image",
+              "title": "Story-Map-8"
             }
           }
         ]
@@ -207,11 +205,16 @@
   },
   "active": "a13045364c167058",
   "lastOpenFiles": [
-    "The Cynn - Strangers To Wyrd/chapter3.1.md",
+    "The Cynn - Strangers To Wyrd/chapter1.md",
     "The Cynn - Strangers To Wyrd/chapter2.3.md",
     "The Cynn - Strangers To Wyrd/chapter2.2.md",
     "The Cynn - Strangers To Wyrd/chapter2.1.md",
-    "The Cynn - Strangers To Wyrd/chapter1.md",
+    "The Cynn - Strangers To Wyrd/chapter4.5.md",
+    "The Cynn - Strangers To Wyrd/chapter5.2.md",
+    "The Cynn - Strangers To Wyrd/chapter5.1.md",
+    "The Cynn - Strangers To Wyrd/chapter6.md",
+    "The Cynn - Strangers To Wyrd/chapter3.2.md",
+    "The Cynn - Strangers To Wyrd/chapter3.1.md",
     "The Cynn - Strangers To Wyrd/maps/Story-Map-8.png",
     "The Cynn - Strangers To Wyrd/maps/Story-Map.png",
     "The Cynn - Strangers To Wyrd/maps/Story-Map-5.png",
@@ -222,7 +225,6 @@
     "The Cynn - Strangers To Wyrd/maps/Story-Map-6.png",
     "The Cynn - Strangers To Wyrd/maps/Unconfirmed 5181.crdownload",
     "The Cynn - Strangers To Wyrd/maps/Unconfirmed 614893.crdownload",
-    "The Cynn - Strangers To Wyrd/chapter3.2.md",
     "The Cynn - Strangers To Wyrd/maps/medieval_leicester_modern.jpg",
     "The Cynn - Strangers To Wyrd/maps/Unconfirmed 275081.crdownload",
     "The Cynn - Strangers To Wyrd/maps/Map-of-medieval-Leicester.png",
@@ -248,10 +250,6 @@
     "The Cynn - Strangers To Wyrd/chapter4.3.md",
     "The Cynn - Strangers To Wyrd/chapter4.4.md",
     "The Cynn - Strangers To Wyrd/chapter9.md",
-    "The Cynn - Strangers To Wyrd/chapter7.md",
-    "The Cynn - Strangers To Wyrd/chapter8.md",
-    "The Cynn - Strangers To Wyrd/chapter3.3.md",
-    "The Cynn - Strangers To Wyrd/chapter10.md",
     "artwork/wodbora/Unconfirmed 184093.crdownload",
     "Table of Contents.canvas"
   ]
