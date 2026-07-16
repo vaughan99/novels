@@ -1,8 +1,5 @@
 ## Chapter Three: The Tale of the Coal-Wise Apprentice
 
-[TODO: Shadow-Wife now first meets Elswyth at midnight near the Shadow Gate... she's polishing Morning-Eye's cheeks]
-[TODO: Long-Mile (not Iron-Back) is a carter that helps her transport her coal]
-[TODO: Elswyth is home when Ulfhednar attack... she flees west into the forest across the bridge]
 ### Part One: The Hunters of the Pit
 
 In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of 35 cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gentle sloping hill was the church, a monument of stone stolen from the giants - Romans by another name - who built the Jewry Wall of Leicester. It was the Church of Saint Nicholas.
@@ -57,7 +54,11 @@ Beyond the Old Frith, the Church Quarter spread across the hill. Graves lined th
 
 Elswyth's family were coal-burners originally from the Saxon heartland, the town of Witanceaster to the southwest. They prepared charcoal for the forges and the Church. As more local families entered the trade, each load of charcoal brought fewer pennies than the last. Their access to the wood-lots was getting more difficult as well. All they needed for their trade were their axes, a few coal-rakes, a shovel and a tinder box, so they packed up their few belongings and moved on.
 
-Whispers carried on the wind from Leicester promised deep woods and the steady demand of war-forges and bell-founders. Leicester was part of the Five Burroughs of the Danelaw, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers - weapon-forges and casting-pits for bells and crosses were always hungry for more coal. The road was long and dangerous, but when they arrived, they found there was room for honest coalers to ply their trade. The only space for their new home was next to the Roman graveyard, at the foot of the hill. They staked a claim to a small knoll on the opposite bank of the Soar, which led to the sprawling Charnwood beyond. There they prepared their charcoal clamps, slowly turning Charnwood's timber into the fuel that fed Leicester's forges and bell-pits.
+Whispers carried on the wind from Leicester promised deep woods and the steady demand of war-forges and bell-founders. Leicester was part of the Five Burroughs of the Danelaw, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers - weapon-forges and casting-pits for bells and crosses were always hungry for more coal.
+
+The road was long and dangerous, but when they arrived, they found there was room for honest coalers to ply their trade. The only space for their new home in _Under-Geat_ was next to the Roman graveyard, at the foot of the hill. They built their hearth with stone from the Roman wall, as many had done.
+
+They staked a claim to a small unused knoll on the opposite bank of the Soar, which led to the sprawling Charnwood beyond. It was close enough to the road for a carter to reach them, but far enough from the village that the smoke troubled no one. There they prepared their charcoal clamps, slowly turning Charnwood's timber into the fuel that fed Leicester's forges and bell-pits.
 
 Elswyth was of ten winters, and she had been learning the family trade. Her father, Godwine, would brave the Charnwood forest to find the best hardwood with his felling axe, and Elswyth and her mother Eadgyth would manage the charcoal clamps on the knoll with their rakes and smaller hand axes. It was hot, smelly, thankless work.
 
@@ -82,13 +83,15 @@ The family had their pagan superstitions too. When harvesting time for the coal 
 
 Despite her impatience, the wisdom seemed solid to her, and so that was the family rule. Harvest only coal from the center. Edges for the elves. And one day she would run her own charcoal pits, and teach that rule to her children.
 
-But she hated the nickname. "Meadow-bud, I'm nothing of the sort," she thought, as she would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She wasn't allowed to practice on logs, yet, but she was already stronger than he realized. "My father will see, I'm not merely the coal-maid. I will follow him into the forest and together we will fell the trees."
+But she hated the nickname. "Meadow-bud, I'm nothing of the sort," she thought, as she would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She was already stronger than he realized. "My father will see, I'm not merely the coal-maid. I will follow him into the forest and together we will fell the trees."
 
 Elswyth and Eadgyth worked the pits in cycles. Godwine felled timber and hauled it to the drying stacks. Once seasoned, the wood was stacked into a waiting charcoal clamp. Some pits burned fiercely beneath their earthen coverings, others merely smoldered, and others cooled after days of careful watching. When a pit had finally gone cold, the family filled burlap sacks with the finished charcoal.
 
-[TODO: Iron-Back is now Long-Mile a carter... he smuggles the coal in and protects her identity as the Coaler-Wight]
+Leicester had several carters who knew the roads around the town. But none had traveled as far and wide as Long-Mile. His given name was long forgotten, even by himself, as even as a child, he roamed far from home to his mother's dismay.
 
-The Soar had a barge master named Iron-Back. He helped them load their coal sacks and would ferry them across the Soar. From there, they would walk the short path south up to the Shadow Gate.
+Long-Mile was as long as his name suggested. He perched on a wagon whose driver's bench sat a hen's height above every other cart in Leicester, so that he always seemed to be looking farther down the road than everyone else. He swore that he could see ruts before even they knew they existed.
+
+Long-Mile was friends with Godwine, and always seemed to know the exact moment to arrive after the last of the coal was bagged. Elswyth and Eadgyth would ride on the sacks of coal up to _Under-Geat_ at the earliest part of the morning, ready to be the first under Morning-Eye's nose.
 
 It was there she learned the rhythm of the trade, watching her father sell their charcoal to a young, strapping deacon named Cynewulf. Like them, he was always black with soot and sweat. He wasn't a coaler like them; he worked the bell-pits, and he treated their coal with a reverence that surprised her. He was kind, but distant, and he always insisted that their charcoal was the best in the Danelaw. Elswyth liked him for that; he saw the craft in their soot-stained hands.
 
@@ -96,13 +99,27 @@ If her father taught her the fire, her mother tried to teach her the earth. Eadg
 
 Elswyth was not fond of the meadow-work. She lacked the patient eye for the forest-larder. She would trample mushrooms without a thought. She would dismiss medicinal herbs as mere weeds. Still, Eadgyth never scolded her. Times would not always be as kind as they were now. Someday the forest would be the only thing standing between her daughter and the grave across the yard.
 
-On March 14th, 933, the Vikings came like a wolfpack in full deer-chase. They hit everything from the Church to the Soar's edge. There was nothing Elswyth could do. One moment she had an eye on the fire on the knoll beyond the river, the next moment three wolf-skins were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed - and the sound carried. The Viking's wolf head snapped to her, his eyes locking on hers.
+On March 14th, 933, the day started like any other. Perched behind a stone edifice of the necropolis, the wolf-men peered into _Under-Geat_. With one raised fist, the slaughter began.
 
-She didn't freeze. She grabbed the heavy felling axe - the Vikings must *never* have that precious steel - and she bolted straight for the tree-line. He gave chase instantly, jumping headlong into the Soar. She was foot-sure through the branches, turning the familiar woods into a maze. She had shed the wolf-man after an eternity of frantic flight; she was lucky her breath had held out that long. He spat into the dirt, looked once more toward the trees, then turned back toward the smoke rising beyond the Soar.
+The wolf-men came as a wolfpack in full deer-chase.
+
+Elswyth had woken early, as she wanted to be the first of the children fishing by the river's edge when the sun came up. Behind her, the screams rose like a chorus of suffering.
+
+The wolves swept everything from _Under-Geat_ to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed - and the sound carried. The Viking's wolf head snapped to her, his eyes locking on hers.
+
+She didn't freeze. She jumped into the ice-cold river without a thought. He gave chase instantly, jumping headlong into the Soar.
+
+One of the first things Godwine taught her after they came to _Under-Geat_ was that the Soar had a temper. Rain made it angry. Summer made it gentle. But the spring thaw made it bitter. "If you can swim in March, Meadow-Bud," he used to say, "you can swim any day God gives you." It was that lesson that saved her life.
+
+Elswyth could hear the wolf behind her. She dared not look back.
+
+She scrambled onto the opposite bank and found the road. From the road she knew the way to the charcoal knoll, and from the knoll, the Charnwood. She retraced the cart's path, which took her to the best hiding places in her world.
+
+She was foot-sure through the undergrowth, turning the familiar wood into a maze. She had shed the wolf-man after an eternity of frantic flight; she was lucky her breath had held out that long. He spat into the dirt, looked once more toward the trees, then turned back toward the smoke rising beyond the Soar.
 
 When the chase ended, an eerie quiet settled on the Charnwood. Nothing dared move. The air was still, like it was afraid of being chased by wolves - or something else entirely.
 
-The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves - Eadgyth among them - piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it. Her shiver was from fear, and she was desperately trying to beat it back. She clutched the axe to her body like a boat holding an anchor. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
+The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves - Eadgyth among them - piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it. Her shiver was from fear, and she was desperately trying to beat it back. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
 
 In the morning, she was awakened by a soft breath, and the smell of pipe-smoke of an herb she didn't know. "Hello," a small man-voice whispered. At the mouth of the hollow there was a woodland spirit, a wood-gnome by the tell of her parents' stories.
 
@@ -112,7 +129,7 @@ He was smaller than her, and dressed simply in traveling clothes: forest green b
 
 He smiled, "Well it's a girl. Well, hello 'Meadow-Bud'". He used the nickname her father would use. It gave her a small sense of ease, as it was a common nickname given to girls near the wood. But she also resented it, because she was so much more. "Come now, you're safe with me."
 
-She dragged herself from the hollow, knuckles white from holding the axe. At the mouth of the den, the spirit gave a deep, over-long bow. "Now, _Meadow-Bud_, allow me. I am Fussleton Dowry-Cap, at your service." He smiled with too many teeth, and rolled the "R" of his Dowry-Cap with excessive pride. "Most impressive, how you shed the wolf." He spoke with the clinical precision of a man weighing grain, his manners as sharp and bloodless as a fresh-honed blade.
+She dragged herself from the hollow, knuckles white from clenching her cloak about her body. At the mouth of the den, the spirit gave a deep, over-long bow. "Now, _Meadow-Bud_, allow me. I am Fussleton Dowry-Cap, at your service." He smiled with too many teeth, and rolled the "R" of his Dowry-Cap with excessive pride. "Most impressive, how you shed the wolf." He spoke with the clinical precision of a man weighing grain, his manners as sharp and bloodless as a fresh-honed blade.
 
 "Dowry-Cap... I've never heard that type of name, " she whispered. 
 
@@ -180,4 +197,4 @@ Huginn: "Coach Fussleton tells us his athlete has tremendous potential, though h
 
 Muninn: "...but..."
 
-Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing that felling axe. Our insiders tell us his plan calls for good rhythm and flea's-leg timing. Back to you in the studio."
+Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing a felling axe. Our insiders tell us his plan calls for good rhythm and flea's-leg timing. Back to you in the studio."

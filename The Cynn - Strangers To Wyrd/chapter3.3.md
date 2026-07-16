@@ -2,7 +2,7 @@
 
 ### Part Three: The Feast Day
 
-Years passed in Under-Geat.
+Years passed in _Under-Geat_.
 
 She occasionally encountered threats of the forest.
 
@@ -35,11 +35,11 @@ It thundered into the undergrowth beyond. The boar did not circle back.
 
 She didn't give chase. She didn't mean to take down the boar. She only meant to survive the day.
 
-The daily ritual of Elswyth and Iron-Back continued. Sometimes she would pay her penny. Sometimes it was a cluster of mushrooms, or a marten pelt. He would accept anything she brought. He would relay stories as he heard them from villagers and visitors, friends and strangers. And she would learn what everyone thought of the _Coaler-Wight_. 
+The daily ritual of Elswyth and Long-Mile continued. Sometimes she would pay her penny. Sometimes it was a cluster of mushrooms, or a marten pelt. He would accept anything she brought. He would relay stories as he heard them from villagers and visitors, friends and strangers. And she would learn what everyone thought of the _Coaler-Wight_. 
 
 He told her of the time old Judith started gossiping that Shadow-Wife had married a ghost. The next morning, Judith found her wool had been stolen. In its stead, a lump of charcoal sat in her knitting basket. By noon she was demanding every lorica the priest knew. By evening she had decided the ghost was coming for her next. She refused visitors for the rest of the week.
 
-He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood. Elswyth frowned. "I didn't." Iron-Back replied "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
+He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood. Elswyth frowned. "I didn't." Long-Mile replied "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
 
 Elswyth was amused. "You think that was..."
 
@@ -51,7 +51,7 @@ They both laughed. "Shadow-Wife!"
 
 Elswyth shook her head. "The _Coaler-Wight_ is becoming very opinionated."
 
-Something caught Iron-Back's eye, a bulge in one of Elswyth's empty sacks. He pointed to it.
+Something caught Long-Mile's eye, a bulge in one of Elswyth's empty sacks. He pointed to it.
 
 Elswyth opened the bag, and there it was. A folded square of linen tied with string. She untied it, and the parcel opened. The yellow-white lump stared back up at her in the moonlight.
 
@@ -79,7 +79,7 @@ The nightly ritual with Shadow-Wife also continued. After sunset, Elswyth would 
 
 Once the stories of the _Coaler-Wight_ took flight, she began finding other things beneath the boards as well: one half of a pair of knitting needles. A loaf of bread. A simple whetstone. The torn corner of a scarf. Half a pair of shears.
 
-Each time, Elswyth smiled. Later that night she would show the object to Rōwerearm. Together they tried to match the object to the newest tale. More often than not, they did.
+Each time, Elswyth smiled. Later that night she would show the object to Long-Mile. Together they tried to match the object to the newest tale. More often than not, they did.
 
 The villagers would concoct more bizarre stories about the _Coaler-Wight_. 
 
@@ -143,9 +143,9 @@ Muninn: "Philosophically you did."
 
 Huginn: "I suppose you think I stole the ferryman's body too."
 
-Muninn: "The reader might reasonably suspect that I was the ferryman."
+Muninn: "The reader might reasonably suspect that I was the carter."
 
-Huginn, looking at the reader temporarily, then back at Muninn: "Um, were you? The ferryman?"
+Huginn, looking at the reader temporarily, then back at Muninn: "Um, were you? The carter?"
 
 Muninn: "Allegedly."
 
@@ -153,7 +153,7 @@ Huginn: "He did remember Elswyth. He wasn't surprised by her survival. You are t
 
 Muninn: "Go on."
 
-Huginn: "He did show up exactly when she needed him to. That's an awfully big coincidence."
+Huginn: "He did show up exactly when she needed him. That's an awfully big coincidence."
 
 Muninn: "Yes. Continue."
 
@@ -163,7 +163,11 @@ Muninn: "That's how some myths get built, brother. I suggested an end. You provi
 
 ---
 
-In the late fall of 942, the cold arrived early. The Vikings returned to Leicester, establishing camp before the winter locked the land in ice. This time, however, the host was weary. They robbed and they stole, as was their nature, but the Ulfhednar did not scour the land from church to tree-line as they had before. They listened to the stories of the _Coaler-Wight_. They also gave the Roman necropolis a wide berth. Old men in the host muttered that the giant-folk who had raised Leicester's impossible walls had buried their dead there long before Dane or Saxon ever set foot upon the island. Some swore the graves marked an old road into Helheim. Others whispered that the giants still watched over their own. Whatever the truth, none of the Ulfhednar cared to test it.
+In the late fall of 942, the cold arrived early. The Vikings returned to Leicester, establishing camp before the winter locked the land in ice. This time, however, the host was weary. They robbed and they stole, as was their nature, but the _Ulfhednar_ did not scour the land from _Under-Geat_ to the Church as they had before. They listened to the stories of the _Coaler-Wight_.
+
+They also gave the Roman necropolis a wide berth.
+
+Old men in the host muttered that the giant-folk who had raised Leicester's impossible walls had buried their dead there long before Dane or Saxon ever set foot upon the island. Some swore the graves marked an old road into Helheim. Others whispered that the giants still watched over their own. Whatever the truth, none of the Ulfhednar cared to test it.
 
 The Vikings did not like the masks of the Shadow Gate either. They were the mocking faces of stone giants. Men muttered that the eyes followed them through the market.
 
