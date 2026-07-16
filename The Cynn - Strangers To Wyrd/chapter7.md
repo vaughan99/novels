@@ -1,12 +1,10 @@
-## Chapter 7: Barrow-Edge, The Hedge-Stalker
+## Chapter Seven: Barrow-Edge, The Hedge-Stalker
 
-[TODO revisit, add detail]
+The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the glow of slowly burning charcoal, hot enough to warm the space. The glow bathed the room in a heavy, flickering orange light, casting long, monstrous shadows behind the columns.
 
-[TODO: The spell enters the barrow-dream, and in there, Ingvar uses the ward to take over Osric's body and fight with the shadow fyrd]
+His fingers, cracked and raw from digging axles from mud, clutched nothing. The char-stick and training shield were long gone. Outside, three veteran Ulfhednar gathered around the chute opening, their whispers echoing into the forge chamber. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.
 
-The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the glow of slowly burning charcoal, hot enough to warm his space. The glow bathed the room in a heavy, flickering orange light, casting long, monstrous shadows behind the columns.
-
-His fingers, cracked and raw from digging axles from mud, clutched nothing. The char-stick and training shield were long gone. Outside, the stone maze of the old forum market echoed with the heavy, calculated crunch of iron-nailed boots. Three veteran Ulfhednar stepped through the collapsed archway of the smithy, their shapes silhouetted against the dim orange glow. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.
+Each landed on the charcoal pile. Each stood to face Osric.
 
 Their hand-axes glinted with a dull, murderous light. Osric’s heart hammered against his hollowed ribs. He was starving, shivering from the lingering rot of the goblin-sickness, and the exhaustion of wrestling axles from the mud. He wanted to lie down in the dirt. He wanted the cold night to finally take him so he could join Ealhild and the children in the soft snow.
 
@@ -14,7 +12,7 @@ Then, the forge erupted in a yellow angry heat. The new light illuminated the ou
 
 The broadseax called to him... not literally, but he *knew* it, as if it hung from his father's belt when he was just a child. His hand closed around the hilt of _Barrow's Edge_.
 
-It felt *known*. *Welcomed*. 
+It felt *known*. *Welcomed*.
 
 Osric pulled _Barrow's Edge_ from the scabbard, and Ealhild's voice whispered in his ear, clear as day. "Say the spell... _mēt sceadu-heorþ_" (_Meet the shadow-hearth_). He knew the words, but he didn't know exactly what they meant. He knew and trusted that voice, more than any other, and that's all that mattered.
 
@@ -182,17 +180,23 @@ He reached for the seax at his belt to carve the meat, but it was missing.
 
 "Love, did you forget something?" Ealhild was standing beside him, his seax in her hand. "When you loan Beorn your seax for whittling, you must ask for it back."
 
-He took it from her hand and stared at it. He remembered everything about that knife. But there was something missing. One week previous, he had dug a stubborn nail out of the byre's door with this knife. It left a scratch.
+He took it from her hand. He remembered everything about that knife. But there was something missing.
+
+He turned it over in his hands.
+
+One week previous, he had dug a stubborn nail out of the byre's door with this knife. It left a long scratch down the spine.
 
 The scratch was gone.
 
 Osric looked at _everything_. "What is happening?"
 
-Suddenly, the door swung open. It was Ingvarr and the other children.
+The door swung open. It was Ingvarr and the other children.
 
-Ingvarr smiled at his father, and laid _Barrow's Edge_ on the table. "The weeds have been cut down. The wood's been stacked, and Eaxl even removed the twigs. The axe needs sharpening, _Father_. I'll get to that tomorrow."
+Ingvarr smiled at his father, and laid _Barrow's Edge_ on the table. "The weeds have been cut down. The wood's been stacked, and Eaxl even removed the twigs. The seax needs sharpening again, _Father_. I'll get to that tomorrow."
 
 Ealhild stepped in behind Ingvarr and gave the boy a hug from behind, and a kiss on the back of his head. "Isn't he the sweetest boy? The fyrd will be proud of him one day. Now, go help Mathild. The fish need scaling, and you're best with the knife."
+
+Ingvarr turned to the hearth and slowly walked away.
 
 Osric looked straight into Ealhild's eyes. "Sit down, we need to talk."
 
@@ -208,7 +212,7 @@ She blew out the candle.
 
 Darkness.
 
-His world crashed into the mud.
+His world crashed onto the brick of the forge.
 
 His heart lurched, as though struck awake by a smith's hammer. Spring ice-melt coursed through his veins.
 
@@ -218,11 +222,9 @@ His body shook with impossible cold. He clenched his teeth to prevent them from 
 
 He opened his eyes.
 
-He was back on the floor of the forge.
-
 The _Barrow's Edge_ blade lay on the ground before him, resting quietly in its scabbard. His last memory of the forge was the weight of it in his hand.
 
-The orange light of the forge still danced as shadows on the forge walls.
+The orange light of the forge still danced as shadows on the forge walls. But his skin was as grey as the dead.
 
 He crawled to the forge wall, and lifted himself up. The wave of heat from the forge was exquisite.
 
@@ -232,7 +234,7 @@ And then he remembered the Vikings.
 
 His eyes darted around the room.
 
-In the corner, he saw three dead wolf-men.
+In the corner, he saw three dead men.
 
 Only.
 
@@ -248,63 +250,120 @@ And they were stacked on top of each other.
 
 Their gear had been sorted into tidy piles beside the wall.
 
-Even their coins were stacked neatly, lying beside an empty purse.
+Three wolf headdresses.
 
+Three sets of fur armor.
 
+Three spears. Three axes. Three shields.
 
-[TODO]
+Even their coins had been stacked neatly beside three empty purses.
 
+He gasped once again for air. His lungs felt like they too had been plunged into an icy river.
 
+"So..." He swallowed. "you followed me... here?"
 
-The damp, soot-stained walls of the Roman ruin vanished, and he was thrust back in time to his cottage. The hearth was warm, blazing with a gentle, crackling light. Ealhild's embrace was warmer still, her arms wrapping around his broad shoulders, and the sweet, bright laughing of his children echoed through his ears. The rich, heavy smell of the harvest was cooking over the flames. Ealhild's fingers ran up and down his arm, soothing him into stillness.
+He looked around once more.
 
-"My love, I will guard the fires of the hearth," she whispered against his neck. "You must defend the home. The fyrd needs you, as we do. It's time to hold the gate." 
+"Not content... with building... bathhouses... for cattle?"
 
-Time violently resumed.
+There was no answer.
 
-The vision shattered, throwing Osric back into the orange-lit roots of the forge just as the three Vikings charged. The first two Ulfhednar engaged simultaneously, their axes swinging in a synchronized storm of steel and fur. Osric swung a wide, desperate arc at both, trying to threaten them and force them back.
+"Back to being mad."
 
-His stroke caught the first Viking's shield flat-on. The moment the edge of the heavy broadseax met the seasoned wood, Fyrleoht tore through it like a crucible-tongue. The blade flared a blinding, white-hot heat, shearing through the thick planks clean down to the iron boss. The iron core clattered uselessly into the soot.
+He giggled and coughed next to the flame. The _flame_? "Why is there... a fire in an abandoned... forge? Oh right... I'm asking the... fire-breathing... dragon... that... tried to fatten me up. Huh. Huh."
 
-The blade bit into the forearm of the Viking, and the metal instantly became an absolute sheet of frost. His arm was rime-gripped as the fierce ice bit deep into his blood, traveling straight up his veins into the upper limb. The Viking dropped his split shield and retreated into the darkness, clutching his stiffening, frost-locked arm in sheer terror. The Ulfhednar's morale broke, and he started whispering the name of Odin for protection.
+Osric would remember none of what actually happened. The farmer had stepped into his old hearth, a glamour held in _Alfheimr_ by Ingrid, the nisse. Osric's body remained motionless...
 
-The ice had flared up the Viking's arm, but to Osric, the blade had drawn the heat through the blade... into him. The warmth of Ealhild's embrace flashed across his chest. The taste of honey-oat cakes briefly touched his lips. The smell of mutton-roast as on the air. His strength was restored, if but a bit.
+Until...
 
-But there was no time to celebrate the broken line, as the second Viking arrived like a hammer. Sensing that this tall Northumbrian was hollowed by hunger and lacked true physical strength, the second Ulfhednar lunged forward into a brutal, low-driving tackle. His iron-clad shoulders aimed directly for Osric's hips, intending to crush the farmer against the stone floor before the broadseax could swing back. The Dane hit with the full force of a charging boar, his arms wrapping tightly around Osric’s thighs.
+Ingvarr and his fellow children crossed the cottage threshold into the yard. Only then did they take up the mantle of the _Hedge-Stalker_ and the _Shadow Fyrd_.
 
-But the smiths of the Cynn had secured a stone from Osric's river-rock fireplace directly into the pommel. The hearth-wall stood strong. The moment the Dane’s weight slammed into him, the blade summoned the hearth's weight to reinforce his,  straight through to the bedrock of the ancient Roman foundations. Osric did not fly backward. He did not buckle. In face, he barely felt it.
+Ingvarr, now bearing Osric's body, stood emotionless as the three Vikings closed in. His eyes were as grey as stone. The body stood firm, as though it had no memory of hours spent wrestling axles in the mud.
 
-The tackle was met with stone. The Viking hit him and rebounded with a dull, sickening thud, as if he had driven his shoulders full-force into a massive, deep-rooted stone block. As the tackled Dane stumbled sideways, Osric brought the broadseax around in a frantic, awkward hacking motion, aiming for the man's exposed flank.
+His _brother_ and _sisters_ were the _Shadow Fyrd_, circling him ominously as absences of light and form, ready to help their brother perform _the daily chores of bloody carnage._
 
-The thick steel cut through the Viking's tough leather armor first like a white flash of fire, slicing the hide apart instantly before into the meat near the lung. It wasn't a terribly deep wound, as Osric still lacked sufficient strength. But it was enough.
+Ingvarr reached down without looking and claimed the new shield at the base of the anvil.
 
-The moment the edge found living tissue, the backward current engaged. The Ulfhednar experienced it as an impossible, agonizing paradox - a surge of blinding, searing heat and absolute, bone-deep chill striking his core simultaneously. The sheer, unnatural contradiction of the sensation broke the warrior's battle-trance.
+Ingvarr held his shield forward, his eyes peering over the rim, _Barrow's Edge_ poised behind him to strike.
 
-A strange, involuntary giggle rattled out of his throat, followed instantly by a terrifying, agonizing howl. His breath turned to thick winter frost as the sword pulled the heat from his torso, and he collapsed onto his side, hacking and writhing in the soot. His lungs whistling as the frost crept outward from his ribs.
+The first wolf-man lunged with a roar, his axe sweeping low toward Ingvarr's knee. Ingvarr did not retreat. The instant the blow committed, one of the _Shadow Fyrd_ slipped soundlessly behind the Viking. The warrior's heel found no earth where he expected it. His footing vanished beneath him, his weight carried him forward, and the axe bit harmlessly into the tile. _Barrow's Edge_ answered with a single downward stroke through the exposed neck. Before the body had finished falling, Ingvarr had already turned away.
 
-But inside Osric, the stolen payload hit with the force of a tidal wave.This second feast yielded a far more violent, gluttonous result than the first. The massive reservoir of vital heat did not merely warm his skin — it settled deep into his organs. For the first time in three long months, his hollowed, shrunken belly felt full, but not overly so. The grey, corpse-like sallow on his face vanished as an immediate, hot rush of crimson blood returned to his cheeks. The agonizing ache of the winter's sickness evaporated from his bones. The broadseax pulsed in his palm, and a terrifying, apex strength flooded back into his right arm. He felt like the anchor of the old shieldwall again. He was restored just in time.
+The remaining two split apart, one circling left with spear in hand while the other rushed behind his companion with shield raised high. They had hunted shield-walls before. They knew how to overwhelm a lone defender. What they did not know was that every shadow around them had hands.
 
-The final veteran Ulfhednar did not charge. He had seen the split shield. He had heard the impossible, freezing giggle of his dying pack-brother. His copper-bright eyes narrowed, dropping all wild, howling blood-lust for the cold, calculated caution of a seasoned killer. He shifted his grip on his hand-axe, keeping his center of gravity low, his shoulders tight behind his iron-rimmed guard. This was no longer a slaughter of sheep. It was a professional duel.
+The spearman thrust. A shadow's unseen fingers caught the haft just long enough to drag its point aside. The spear glanced across the shield instead of piercing beneath it. Ingvarr stepped inside the reach without haste. _Barrow's Edge_ flashed once beneath the shield-rim, opening the man's thigh to the bone. As he stumbled, another absence of light hooked behind his other leg. The Viking collapsed heavily onto his back. Ingvarr drove the blade through his chest as calmly as a farmer setting a fence-post.
 
-The Dane initiated with a lightning-fast, horizontal probe, his axe-blade snapping out to test Osric’s reaction. Osric swung the heavy broadseax to parry, but the Viking was already pulling back, angling his footwork to slide into Osric's blind spot. Steel met steel with a sharp, bloodless clink. The Dane bounced his weapon off Fyrleoht’s straight spine, using the momentum to execute a vicious, sliding riposte. The small hand-axe caught Osric across the ribs. It was a glancing blow, but the sharp iron tore through the Saxon's thinned tunic, drawing a hot line of real blood that soaked into the cloth.
+The last wolf-man hesitated. _This Saxon is not as he appears_.
 
-Osric didn't stumble. The hearth-stone pommel held his boots fast to the earth, but he felt the bite. He was bleeding, his own mortality competing with the stolen life-force roaring through his veins. The Viking circled, his movements fluid and disciplined. He lunged again, a double-feint aimed at the throat that dipped low at the last heartbeat to slice across Osric's forward thigh. Another hot sting of pain.
+He stood back, waiting for Ingvarr to commit. He felt a hand tug at his cloak, pulling him backward. He stepped back and shook his cloak.
 
-The Dane was trying to bleed the giant farmer out, piece by piece, refusing to let his weapon touch Fyrleoht's devouring edge. But Osric had two lifetimes of stolen stamina inside his lungs. He stopped chasing the Dane's speed and safely waited for the rhythm.
+Another hand tugged his shield to the side, opening his ribs. Ingvarr thrust, but the Viking stepped to the side, dodging the blow.
 
-The Viking stepped in for a heavy, decisive downward cut, targeting Osric's skull. Osric expected the blow. Instead of parrying with the broadseax, he raised his bare left hand to catch the wooden shaft of the axe. The impact hurt terribly, the sheer force fracturing a few small bones in his palm, but it was a very survivable wound. He held fast, trapping the weapon.
+A pair of hands found his back foot and held it in place.
 
-The Viking tried to raise his remaining shield instinctively, moving to shield-punch Osric and break his grip. But Osric’s sword-arm was already in flight. The broadseax sheared straight through the side of the shield, ripping the wood clean off in a blinding flash of heat. The severed piece of oak fell away, laying flaming on the soot-stained floor.
+The wolf-man's eyes grew wide. A shadow passed before his face. Where there was light, only darkness. The wolf-man screamed, as invisible fingers dug into his eyes. He dropped his shield to claw at his own face.
 
-Fyrleoht carried through the arc, tearing through the Dane's iron chain shirt, the links melting like soft wax under the white-hot edge. Then the blade broke into the bone-cage of the chest, burying itself deep within the warrior's torso. The final link snapped closed.
+The scream lasted only as long as the final thrust from _Barrow's Edge_ into his chest.
 
-The broadseax instantly became a sheet of absolute frost. The edge was locked deep inside the marrow, and a sudden, violent burst of ice and white rime erupted from the chest wound, rapidly encompassing the Viking's entire body. The frost raced up his neck, locking his terrified, copper eyes into a permanent, milky stare as his flesh shriveled into a solid ice-sculpture, pinned to the ancient floor.
+Silence returned to the forge.
 
-But for Osric, the backward rush of heat completely severed him from reality. For what seemed like an eternity — but really only lasting a handful of deep breaths — the underground forge vanished entirely. He was back home. The brutal cold of the Leicester night died away, replaced by the deep, enveloping warmth of his own cottage. He was locked in the tight, real embrace of Ealhild, her breath soft against his neck. The crackle of the hearth-fire was a roar of safety in his ears, the laughter of his children was deafening and sweet, and the smell of the harvest feast was so thick he could taste it on the back of his throat. He was safe. He was whole. The tragedy had never happened.
+Ingvarr regarded the three bodies for a long moment, his grey eyes as unreadable as weathered granite. There was still work to be done.
 
-Then, reality violently snapped back. He was complete... yet empty. The warmth had nourished him to a semblance of health, but left him with the cold realization that there would not be Ealhild... without blood.
+The _Shadow Fyrd_ moved at once.
 
+Axes were lifted from limp hands. Shields were stacked together. Spears were laid in a neat row against the wall. Wolf-headdresses were folded beside their owners' fur armor. Knives, belts, boots, purses, and every loose coin were gathered without a word. One by one, the dead were stripped, lifted, and laid atop each other with the same care a family might stack cordwood before winter. Every tool had been sorted, every coin counted, every body accounted for.
 
-[TODO]
+The forge was cold. That, too, required tending. Ingvarr pointed to the charcoal and the bellows.
 
-Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay four small steel-tipped javelins in a shoulder-sling of rawhide.
+Two of the children lifted fresh coal into the fire. The other pressed the bellows to breathe more life into the blaze. The old forge breathed hot yet again. Warmth slowly filled the room.
+
+Only then did Ingvarr return _Barrow's Edge_ to its scabbard. The household's bloodiest chore had been finished. All that remained was to wait for their master to wake.
+
+Ingvarr crossed the threshold of the cottage once more, surrendering Osric's body to await its rightful master.
+
+---
+
+Huginn: "Now children... do _NOT_ try this at home."
+
+Muninn: "The _Shadow Fyrd_ are professionals."
+
+Huginn: "That's right. Seasoned housecleaning professionals."
+
+Muninn: "But, _DO_ help your parents with chores."
+
+Huginn: "Yes, still help them with _real_ yardwork. Not anything involving _blood_..."
+
+Muninn: "... or _viscera_ ..."
+
+Huginn: "... or _fire-building_ ..."
+
+Muninn: "... or _stripping dead bodies_ ... "
+
+Huginn: "... and if they ask you to cut the weeds, please ensure they are _VERY SPECIFIC_ about what they want cut down."
+
+Muninn: "I think they get the picture."
+
+Huginn: "And _I think_ our lawyers are going to need a bonus."
+
+---
+
+Once his body had forgotten how cold it had been, Osric fell into a deep sleep.
+
+He awoke to a dark room. The only light came from the soft glow of a few remaining coals. His chest was frightfully sore. He staggered to his feet.
+
+He loaded the forge with fresh coal, and operated the bellows. It was all he could do to see again.
+
+Osric saw the same scene as before. It was twice as horrible as he remembered.
+
+His eyes fell upon the chest by the anvil, still waiting to be opened.
+
+Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay a shoulder-sling of rawhide with four steel-tipped javelins.
+
+He looked around once more.
+
+"So now the fire-breathing dragon... the king of the straw-daub... the master of cow spas... wants to give me a fighting chance, is it?"
+
+He marveled at the craft of the equipment.
+
+He picked up the spangenhelm.
+
+"Well, it's either this or a wolf's head. I rather prefer how I'd look in this."

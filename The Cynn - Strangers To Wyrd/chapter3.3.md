@@ -644,7 +644,7 @@ The neighbors up the hill crossed themselves in their bed, and drew their bed fu
 
 Elswyth reached down and found the Alexander Stone. She stood for a moment, her face reflecting slightly on the glassy surface.
 
-Elswyth dove into the Soar, frantically trying to reach home. She rushed in, finding her box on the floor. The box lay bare; the pelt was gone. It neatly sat in the center of the ruined hut.
+Elswyth dove into the Soar, frantically ran back to her hut. She rushed in, finding her box on the floor. The box lay bare; the pelt was gone. It neatly sat in the center of the ruined hut.
 
 She saw the morning light, and her mind snapped to the present. She knew she had moments before the village rhythm began.
 
@@ -673,7 +673,7 @@ She reached into her pocket, pulled out the Alexander Stone, and placed it firml
 
 ---
 
-Huginn: "Today we're interviewing Naz T. Cuss, the winner of the Forge-Elf Cooking Challenge. He's the one whose menu was chosen for the Spotted King today."
+Huginn: "Today we're interviewing Naz T. Cuss, the winner of the Forge-Elf Cooking Challenge. He's the one whose menu was chosen for the _Spotted King_ today."
 
 Muninn: "Not this again..."
 
