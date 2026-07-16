@@ -1,4 +1,4 @@
-## Chapter 9: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
+## Chapter Nine: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
 Cynewulf stood on the porch of the church. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Roganvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
 
@@ -130,13 +130,13 @@ Muninn: "That's an old memory, Cynewulf. The _Wodhere_ demands your unconfessed 
 
 Huginn: "Confess!"
 
-Cynewulf thought forward from that moment of his first confession. There had been jealousy of his father's travels. Moments of anger in the bell-foundry. 
+Cynewulf thought forward from that moment of his first confession. There had been jealousy of his father's travels. Moments of anger in the bell-foundry.
 
 Cynewulf: "I... was jealous of my father... he traveled throughout Mercia. I never got to leave Leicester."
 
 Muninn: "That's a one-worm meal for a magpie, priest. This bird you face is ravenous, and it remembers the _whole_ corpse... as do I."
 
-Cynewulf thought back at all the unholy deeds he had done. After the fall of the Griffons, he remembered every group he ever joined. The time he cut off a man's hand for offering too little silver. The knife fight in the ale-house over a copper button. The cottage he left to his warband, hearing the widow scream as his men took her. The poor souls on the road he butchered. The merchant-men. The couriers. The shepherds. Their wives. Even their _children_.  Shame swept over him like a tidal force of nature.
+Cynewulf thought back at all the unholy deeds he had done. After the fall of the Griffons, he remembered every group he ever joined. The time he cut off a man's hand for offering too little silver. The knife fight in the ale-house over a copper button. The cottage he left to his warband, hearing the widow scream as his men took her. The poor souls on the road he butchered. The merchant-men. The couriers. The shepherds. Their wives. Even their _children_.  Shame swept over him like a tidal force of nature.
 
 Muninn: "His memory is a flood, brother. He needs to focus!"
 
@@ -152,7 +152,7 @@ Cynewulf: "Wh... Whaaat? We didn't have time to pass pleasantries!!"
 
 Huginn: "No priest. To name a thing is to respect a thing. What was his name?"
 
-Cynewulf whispered... "I don't know what you want me to say." His world collapsed. Tears flooded his eyes, as the memory of that day filled his soul. "He DID'T HAVE... A NAME!"
+Cynewulf whispered... "I don't know what you want me to say." His world collapsed. Tears flooded his eyes, as the memory of that day filled his soul. "He DIDN'T HAVE... A NAME!"
 
 Muninn: "The flood is rising. The memory is sweeping. He's almost there!"
 
@@ -194,7 +194,7 @@ The _witan-sleep_ shattered, and his spirit was thrust back into his living body
 
 The sky above the church's belltower sang with fresh horror. There drew a freezing roar of wind and black rain — not a storm of nature, but a concussive shockwave of ancient rot, the clattering rattle of dry bones, and the deafening, suffocating flap of a thousand invisible wings. The air turned heavy as lead. Words leapt from the blade, surging like liquid iron up through his sword-arm, jolting his neck forward until his jaw nearly cracked. The ancient, jagged language of the _Old Hate_ — words not of his own making—erupted from his throat like an unholy volcano.
 
-The spell of the Wodbora was cast. "_Atola Wodhere, ne þū lencg gebunden eart!_".
+The spell of the Wodbora was cast. "_ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ_".
 
 Rognvaldr swung, but his weapon froze. The lethal iron was pinned immovably by a concussive shockwave of freezing air and ancient rot — the _Wodhere had arrived_.
 
@@ -238,7 +238,7 @@ With that, the Ravens of Woden flew away.
 
 Cynewulf dared not look at the space where the giant had stood, but something told him that he must. He needed the memory to sear into his mind.
 
-The storm had left nothing behind but an empty horror. There was a spray of blood and sheared hair on the churned mud, his broken weapon, and his emptied armor — but the giant himself was utterly _absent_.
+The storm had left nothing behind but an empty horror. There was not even a spray of blood nor a strand of hair. His broken weapon, and his emptied armor lay there — but the giant himself was utterly _absent_.
 
 Cynewulf fell to his knees and retched.
 
@@ -252,13 +252,19 @@ His first instinct was to run. How could he face his former flock? But every jou
 
 He stayed.
 
-First came the church-wardens and clergy, fully-clothed with candles in hand, from the priest-homes. They were followers of the Rule of Saint Benedict, to sleep fully clothed. Then clusters of townsolk mustered onto the road to the church, demanding to know why the bells rang at night. A stout blacksmith and two town-guards came running, their torches casting a harsh, dancing orange light across the stone steps. All of them stopped dead in their tracks. Their eyes darted from the spray of black blood to the massive, hollowed patchwork armor of the giant lying flat in the mud. There arose a cloud of whispers.
+First came the church-wardens and clergy, fully-clothed with candles in hand, from the priest-homes. They were followers of the _Rule of Saint Benedict_, to sleep fully clothed.
+
+Then clusters of townsolk mustered onto the road to the church, demanding to know why the bells rang at night. A stout blacksmith and two town-guards came running, their torches casting a harsh, dancing orange light across the stone steps.
+
+Many Danes were awakened as well, rushing to the Church. They had no more answers than anyone else.
+
+All of them stopped dead in their tracks. Their eyes darted from Cynewulf to the massive, hollowed patchwork armor of the giant lying flat in the mud. There arose a cloud of whispers.
 
 It was clear to Cynewulf... there was only one witness to the event.
 
 Then, the blacksmith raised his torch, the light falling directly across Cynewulf’s weathered, scarred face. The old man gasped, his grip loosening on his iron club. He didn't see a calloused highwayman or a brutal mercenary of the rearguard. He looked into the priest's eyes and stepped forward, his voice trembling with a sudden, reverent awe.
 
-"Father... Father Cynewulf?" the blacksmith whispered. "By the saints, it is you. You've come back to us. You stood against the wolves." An elderly woman from the parish dropped to her knees in the slush, crossing herself as she looked up at him. "Father Cynewulf... you’re alive. You saved the holy house." It was hard for him to remember a time when he saved anything. 
+"Father... Father Cynewulf?" the blacksmith whispered. "By the saints, it is you. You've come back to us. You stood against the wolves." An elderly woman from the parish dropped to her knees in the slush, crossing herself as she looked up at him. "Father Cynewulf... you’re alive. You saved the holy house." It was hard for him to remember a time when he saved anything.
 
 They knew his name. They remembered his face. The Road had stolen his innocence. The Sword his belonging. The Wound his humanity. But now, he knew, he must be the Shield... for all.
 
@@ -280,7 +286,11 @@ Murdock strolled over, and took the sight in. "By the blood of the saints..." He
 
 The old Italian Benedictine priest, Father Matteo, carefully stepped around the armor. He then stared into the dark corners of the yard.
 
-Father Matteo: "My son... I am grateful the church still stands." He peered into the empty cuirass. "...But I must ask the practical question."
+Father Matteo had not been born to England. As a youth he had been given as an oblate to the great Benedictine monastery of Monte Cassino, where Saint Benedict himself had once walked its cloisters. Before the young monk's vows were complete, Saracen raiders scattered the brethren to the winds. Matteo escaped with little more than the Rule he had spent his youth learning and the conviction that a monastery was more than stone walls. Obedience, prayer, labor, and brotherhood could be carried wherever God—or necessity—led them.
+
+He crossed the Alps with other displaced brothers and eventually found his way to England, where bishops and abbots sent him wherever another pair of faithful hands was needed. He learned his English among the monasteries and minsters of Wessex before being passed from one parish to the next like a well-worn psalter. In the autumn of 930, after the village priest Cynewulf disappeared without explanation, Matteo was sent north to Leicester expecting to remain only until another priest could be found. The replacement never came. Somewhere between burying the old, baptizing the young, blessing the harvest, and reconciling neighbors before Blackjoy, the foreign monk ceased to be a guest. Leicester had quietly become his home.
+
+Father Matteo: "My son... I am grateful the church still stands." He peered into the empty mess of armor. "...But I must ask the practical question."
 
 Cynewulf: "Father?"
 
@@ -320,9 +330,11 @@ The Saxon brothers were dead.
 
 One of the eastern Vikings—the one whose silver always bore strange foreign stamps—knelt beside his fallen companion. He folded the dead man's fingers around the haft of his axe and tightened them one last time. Only then did he close his friend's eyes.
 
+He stood and nodded at Cynewulf.
+
 All of the fyrdmen lay dead.
 
-Elswyth, Osric, and the other thralls could not be found. 
+Elswyth, Osric, and the other thralls could not be found.
 
 Tor: "Cynewulf. Good to see you still breathing. That giant had me worried."
 
@@ -368,7 +380,7 @@ Cynewulf secured sanctuary with Father Matteo, and the group was taken inside to
 
 The next morning, Father Matteo wakened Cynewulf and bid him to follow. They arrived in the rectory, where the chest sat closed. They were otherwise alone.
 
-"I do not know what hands brought this chest, my son. It would seem they've laid out quite the vocation for you."
+"I've seen what's inside, Cynewulf. I do not know what hands brought this chest, my son. It would seem they've laid out quite the vocation."
 
 Father Matteo rested a hand upon the chest.
 
@@ -392,9 +404,8 @@ Father Matteo turned to Cynewulf. "I will not tell the villagers of this. The Lo
 
 He smiled.
 
-"I have no intention of explaining to the bishop why a complete suit of armor appeared on my doorstep overnight. For now, between us, I cannot say whether Providence has spoken, but how could I deny these gifts to a protector of God's children?"
+"I also have no intention of explaining to the bishop why a complete suit of armor appeared on my doorstep overnight. For now, between us, I cannot say whether Providence has spoken, but how could I deny these gifts to a protector of God's children?"
 
 His smile faded.
 
 "If that is indeed who you are... Take them quietly with the Church's blessing."
-
