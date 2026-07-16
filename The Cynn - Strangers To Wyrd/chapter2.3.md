@@ -224,7 +224,7 @@ Muninn: "You never asked me."
 
 Huginn: "Asked you what?"
 
-Muninn: "What instrument I'll play. We are ravens. We can't play instruments."
+Muninn: "What instrument I'll play. But then again, we are ravens. We can't play instruments."
 
 Huginn: "That's why we need the Skeleton Crew. Duh."
 

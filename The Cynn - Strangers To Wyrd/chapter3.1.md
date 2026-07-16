@@ -1,12 +1,11 @@
 ## Chapter Three: The Tale of the Coal-Wise Apprentice
 
-[TODO Moved Under-Geat to SW of city]
 [TODO: Shadow-Wife now first meets Elswyth at midnight near the Shadow Gate... she's polishing Morning-Eye's cheeks]
 [TODO: Long-Mile (not Iron-Back) is a carter that helps her transport her coal]
 [TODO: Elswyth is home when Ulfhednar attack... she flees west into the forest across the bridge]
 ### Part One: The Hunters of the Pit
 
-In 933 AD, Elswyth and her parents lived in Under-Geat. It was a small hamlet of 35 cottages, just outside of Leicester on the northern hillside overlooking the river Soar. Looking up the gentle sloping hill was the church, a monument of stone stolen from the giants - Romans by another name - who built the Jewry Wall of Leicester. It was the Church of Saint Nicholas.
+In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of 35 cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gentle sloping hill was the church, a monument of stone stolen from the giants - Romans by another name - who built the Jewry Wall of Leicester. It was the Church of Saint Nicholas.
 
 ---
 
@@ -24,13 +23,15 @@ Huginn: "I remember now. Splendid game. A hundred men screaming, broken shins, m
 
 ---
 
-Just below the top of the hill was a large black gate and a fence - The Shadow Gate. The hamlet took its name from being under the Gate, and it formed the center of hamlet social life.
+Just below the top of the hill was a large black gate set into an ancient Roman wall patched with timber. It was known as the Shadow Gate. The hamlet took its name from being under that gate, and it formed the center of hamlet social life.
 
-The villagers were mostly fishermen and commonfolk whose livelihoods centered on the church. They would bring their wares to the Gate, setting up stalls, telling gossip, and making exchanges. During the day, the Gate would open and the clergy would mingle, telling stories, offering prayers and teaching lorica. Vendors from inside Leicester would arrive through the Gate as well. All business was conducted under the watchful eyes of two large stone face masks facing down the hill towards the hamlet.
+Beyond the Shadow Gate was the Old Frith compound, a yard of compacted dirt that had seen countless feet over centuries since the Romans left. The yard served as a Church market on most days when the sun was warm on the skin, but it also saw the gathering of hundreds of faithful on Easter and the Feast Day of St. Augustine. 
+
+The villagers were mostly fishermen and commonfolk whose livelihoods centered on the church. They would bring their wares to the Shadow Gate and wait for the creak of the old oak doors. Once open, they would file into the Old Frith, setting up stalls, telling gossip, and making exchanges. During the day, the Gate would open and the clergy would mingle, telling stories, offering prayers and teaching lorica. Vendors from inside Leicester would arrive to the Old Frith. All business was conducted under the watchful eyes of two large stone face masks facing into the Old Frith.
 
 _Blackjoy_ was the one whose jaw was clenched and his eyes narrow. He was neither sad nor angry - more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest"—the villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. Oddly, the church placed a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
 
-_Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning, and its closing each afternoon. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather.
+_Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning, and its closing each evening. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather.
 
 ---
 
@@ -52,7 +53,7 @@ Blackjoy: "Try spending eternity having people look at your face, then start swe
 
 ---
 
-Beyond the Gate and its fence lay the churchyard and the road into Leicester. West of the churchyard stood the graveyard, then the bell-pits beyond it, and finally the priest-homes and dormitories. South along the road lay the church entrance, and beyond that, the cobbled streets of Leicester.
+Beyond the Old Frith, the Church Quarter spread across the hill. Graves lined the western wall. Nearby stood the yardworks, where timber, stone, brick, and sand reclaimed from the ancient bathhouse and the walls found new purpose. An orchard shaded the slope below the bell-foundry and the great carpentry workshops, while the church itself overlooked a quiet cluster of priest-homes. 
 
 Elswyth's family were coal-burners originally from the Saxon heartland, the town of Witanceaster to the southwest. They prepared charcoal for the forges and the Church. As more local families entered the trade, each load of charcoal brought fewer pennies than the last. Their access to the wood-lots was getting more difficult as well. All they needed for their trade were their axes, a few coal-rakes, a shovel and a tinder box, so they packed up their few belongings and moved on.
 
