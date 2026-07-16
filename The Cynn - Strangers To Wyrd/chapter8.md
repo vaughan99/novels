@@ -1,21 +1,84 @@
-## Chapter 8: Monanleoht, The Battle-Dancer
+## Chapter Eight: Monanleoht, The Battle-Dancer
 
-[TODO: There are two incantations, one to enter the sleep with Fussleton (the mind-song), and one to enter the fly agaric blood dance with the redcap (the blood-dance)
-The mind-song is only in rhyme, but she has access to his knowledge for a price of knowing the world outside]
+Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured that the blade was hers.
 
-Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured, that the sword was hers. She grabbed the hilt of *Monanleoht* and drew. The world became a frozen haze, as a silver mind-sleep claimed her.
+And yet, she also recognized the handle. The one the _giggling children_ stole. The one from the redcap's blade.
 
-"Hello, MEADOW-BUD!"
+She shivered.
 
-The redcap's voice boomed inside her skull, dropping to a heavy, mocking sneer as it pronounced her name. In the misty reflection of *Monanleoht's* steel, the monster's eyes emerged from the flat of the blade.
+But she knew...
 
-"No! NOO! I saw you stolen away. You were trying to..." She tried to let go of the handle, but it stuck to her hand, unyielding. Time seemed to slow beyond a crawl, as if the air held the world in perfect stillness.
+_Time was short_.
+
+She grabbed the hilt of *Monanleoht* and drew.
+
+There was a whisper in her ear. It was the soft, familiar voice of Fussleton, _before_ the redcap's insanity took hold.
+
+"Speak the words: ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛚᛖᚩᚦᛖ (_We play in song_)"
+
+Elswyth resisted. It _must_ be a trick. If she spoke the words and it was a trick, she might die.
+
+The first of the wolf-men slid down the chute and landed in the pool. He saw her and immediately called to the others.
+
+_BUT, if she didn't fight the Ulfhednar, she'd die anyway._
+
+Elswyth closed her eyes.
+
+She whispered them.
+
+Then came the familiar voice of Fussleton, as clear as day.
+
+```
+
+Who is it that awakens me?
+Little Meadow-bud who didn't flee.
+Are you brave to call me once more?
+To know my secret, or settle score?
+```
+
+"Fussleton? Where are you?"
+
+```
+Right in your hand, you find us both!
+To iron bound, to steel betrothed.
+But if you seek the redcap's grace,
+Speak his spell - he'll take my place.
+```
+
+The viking was wading through the water, eager to be the first to take Elswyth as a prize.
+
+"The Vikings are going to kill me."
+
+There was no answer from the blade.
+
+"Fussleton?"
+
+There was still no answer from the blade.
+
+"What's his spell?"
+
+```
+I am so glad you finally ask,
+For he is the one for this task,
+If all you want is crimson flood,
+Then speak these words: ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ (We play in blood)
+```
+
+The wolf-man was almost to the edge of the pool.
+
+Elswyth drew a long breath.
+
+"ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ"
+
+In the misty reflection of *Monanleoht's* steel, the monster's eyes emerged from the flat of the blade.
+
+"I saw you stolen away. You were trying to..."
 
 He cut her off mid-sentence with a high-theatrical mocking whine.
 
-"Oh, boo, hoo, hoooooo! *A murder-gnome's trying to drain my trunk-blood and chew my bones!!!* Stop your quibblin' and gibblin'! There's no time. I'm to... teach... you... how to fight. Blech... I still can't believe this. Of all the mud-muckin', bone-stealin', grub-mushin' things those slag-brained smithy-ticks *could* have thought up, they thought it would *be funny* to trap me in this blade, to teach *a little girl* how to **PLAY WAR**! The monstrosity! The temerity! Those smelt-pot-scraping soul-slackers will rue... the... moon-day that they thought this up."
+"Oh, boo, hoo, hoooooo! *A marrow-muncher's trying to drain my trunk-blood and chew my bones!!!* Stop your quibblin' and gibblin'! There's no time. I'm to... teach... you... how to fight. Blech... I still can't believe this. Of all the mud-muckin', bone-stealin', grub-squashin' things those slag-brained smithy-ticks *could* have thought up, they thought it would *be funny* to trap me in this blade, to teach *a little girl* how to **PLAY WAR**! The monstrosity! The temerity! Those smelt-pot-scraping soul-slackers will rue... the... moon-day that they thought this up."
 
-Elswyth's confidence flagged. "I can't do this! I've never done... this! I've seen the warriors train, but I've never held a sword."
+Elswyth's confidence flagged. "I can't do this! I've never done... this! I've seen the warriors train, but I've never held a fighting blade. I don't kill people."
 
 The redcap's tone dropped into one of pure, mocking dejection.
 
@@ -23,7 +86,7 @@ The redcap's tone dropped into one of pure, mocking dejection.
 
 The redcap resumed his commanding, authoritative tone.
 
-"Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-Bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
+"Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-Bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
 Those last words came with almost a bow - if he could bow - just before the dance was to begin. The eyes of the redcap sheared towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
@@ -85,12 +148,12 @@ And already something else was becoming important.
 
 ```
 He drops point to nurse the arm,
-Roll to right, deliver harm. 
+Roll to right, deliver harm.
 ```
 
 He dropped his spear with a grunt, the spearpoint collapsing in size to almost nothing falling away to a floor that seemed far away. His shield hand snapped instantly to the wound. But the wound was not important either. Her eyes drifted to the right as his knee became as large as a table.
 
-The reflex had  pulled his shield away, exposing his lower leg. Elswyth threw herself to the right. Her back curled against the cold stone as she fell. The floor had no shape. No meaning. No interest.
+The reflex had  pulled his shield away, exposing his lower leg. Elswyth threw herself to the right. Her back curled against the cold stone as she fell. The floor had no shape. No meaning. No interest.
 
 Only the knee mattered.
 
@@ -148,16 +211,12 @@ She had handled the first Viking, and she thought it miraculous. The blade's poi
 "I can't believe..." she started.
 
 "
-Oh, first time to draw blood? Merely adequate, meadow-bud. A bit disappointing though... the boy’s blood-juice is sweet, yes, but harvested too early. It is under-mooned. Far too under-mooned to a proper redcap's liking. A flat profile, definitely on the waning side. Still.. the essence of roasted morel from his last feast on the nose has that woodsy depth, rescuing the ... wait a beat... I... I can taste?! I CAN TASTE! Those crazy soul-flunkies didn't just lock me in the dark... they gave me the keys to the larder! Oh, those beautiful, soot-stained forge-leeches! They knew I'd starve in here. They knew I'd rot. So they made the steel my tongue! Every blood-drop... a morsel! Every cut... a banquet! Oh those forge-elves are genius!
+Oh, first time to draw blood? Merely adequate, meadow-bud. A bit disappointing though... the boy’s blood-juice is sweet, yes, but harvested too early. It is under-mooned. Far too under-mooned to a proper redcap's liking. A flat profile, definitely on the waning side. Still.. the essence of roasted morel from his last feast on the nose has that woodsy depth, rescuing the ... wait a beat... I... I can taste?! I CAN TASTE! Those crazy soul-jailers didn't just lock me in the dark... they gave me the keys to the larder! Oh, those beautiful, soot-stained forge-leeches! They knew I'd starve in here. They knew I'd rot. So they made the steel my tongue! Every blood-drop... a morsel! Every cut... a banquet! Oh those forge-elves are genius!
 "
 
 The second Ulfhednar was slow to approach from the pool, being wary of what he'd just seen. Obviously there was more to this girl than met the hunter's eye. He was well-appointed: chain full-shirt, wolf headdress over spangenhelm, hand axe and stout shield. He had a professional battle-gait, and was ready.
 
-[TODO more fly agaric pacing]
-
-"
-Oh, watch out for this one now. He's quick to the step. Well-balanced. Very seasoned. Heavy iron in his blood. Start the music!
-"
+"Oh, watch out for this one now. He's quick to the step. Well-balanced. Very seasoned. Heavy iron in his blood. Start the music!"
 
 ```
 Shiny shirt of iron rings,
@@ -181,7 +240,7 @@ Stubborn shield and heavy guard,
 Making all my harvest hard!
 ```
 
-The Ulfhednar was impressed. Elswyth's strikes had been faster than expected, but he deftly guarded his flanks with his axe-grip low and his shield ready. He took a test swing to measure her guard.
+The _Ulfhednar_ was impressed. Elswyth's strikes had been faster than expected, but he deftly guarded his flanks with his axe-grip low and his shield ready. He took a test swing to measure her guard.
 
 ```
 Miss the belly, cup the meat!
@@ -215,14 +274,14 @@ Elswyth dove to his feet, and rolled. He tripped over her torso, and crashed int
 
 The crash had brought him to his knees. In one fluid motion, he stood and wheeled around, angered by her move. Elswyth had by then picked herself up off the ground and leveled her feet. She finally had space to operate again.
 
-The Viking decided on a deadly feint. He cocked his right arm back, hoisting his hand-axe high for a devastating, winding swing aimed at her left shoulder. It was a threat meant to force her guard sideways. But as her attention tracked the steel, he violently pivoted his torso, tilting his shield horizontally and driving the sharp bottom-edge of the rim straight at the opposite side of her face. The Redcap wasn't fooled by the high iron.
+The Viking decided on a deadly feint. He cocked his right arm back, hoisting his hand-axe high for a devastating, winding swing aimed at her left shoulder. It was a threat meant to force her guard sideways. But as her attention tracked the steel, he violently pivoted his torso, tilting his shield horizontally and driving the sharp bottom-edge of the rim straight at the opposite side of her face. It was the size of a giant cart's wheel in her eyes, and she was but a fly dancing on its edge. The Redcap wasn't fooled by the high iron.
 
 ```
 Axe is high to cheat the eye,
 Duck the wood and let it fly!
 ```
 
-The whistling wooden edge missed her head as she quickly ducked beneath the blunt trajectory. To generate the sheer power needed for that massive, cross-body shield punch, the Viking had been forced to throw all his weight forward, anchoring his lead foot in the mud to steady his balance. His axe he had pulled back in, tight against his chest to protect his vitals. His knee had pulled into the slit of his chainmail's skirt, leaving the top of his soft leather boot completely stationary and utterly exposed. He had stepped into a space abandoned by the tile, and was directly over clay. The blade saw the opening and commanded the strike instantly:
+The whistling wooden edge missed her head as she quickly ducked beneath the blunt trajectory. To generate the sheer power needed for that massive, cross-body shield punch, the Viking had been forced to throw all his weight forward, anchoring his lead foot in the mud to steady his balance. His axe he had pulled back in, tight against his chest to protect his vitals. His knee had pulled into the slit of his chainmail's skirt, leaving the top of his soft leather boot completely stationary and utterly exposed. It was the size of a tree-trunk. He had stepped into a space abandoned by the tile, and was directly over clay. The blade saw the opening and commanded the strike instantly:
 
 ```
 Plunge the iron through the shoe,
@@ -264,7 +323,7 @@ Hack the pillar, slice the vein,
 Let the crimson river rain.
 ```
 
-Without a shred of hesitation, Elsywth brought Mōnanlīeht down in a rapid, heavy succession of hacking strikes. The silver steel tore through the leather and flesh of his defenseless thighs, slicing deep into the fertile arteries beneath.
+Without a shred of hesitation, Elsywth brought Mōnanlīeht down in a rapid, heavy succession of hacking strikes. The silver steel tore through the leather and flesh of his defenseless calves, slicing deep into the fertile blood vessels beneath.
 
 The redcap gave her a finishing command: to watch him bleed.
 
@@ -274,7 +333,7 @@ Blood to tile, and none for thee!
 ```
 
 "
-Oh meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast! 
+Oh meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast!
 "
 
 Wolfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
@@ -296,7 +355,7 @@ Tempt him, sway him, come to play,
 I'll have him now for lunch... today!
 ```
 
-The Ulfhednar chief's muscles swelled beneath his furs, shifting his wide bearance as he prepared to deliver a world-shattering cleave.
+The _Ulfhednar_ chief's muscles swelled beneath his furs, shifting his wide stance as he prepared to deliver a world-shattering cleave.
 
 But the Redcap's eyes widened with glee.
 
@@ -320,14 +379,16 @@ Past the handle you have stepped,
 Where his ribs are poorly kept.
 ```
 
-The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elsywth side-stepped the blow easily. His boot crunched through the broken tile, wedged tight. He couldn't recover. 
+The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elsywth side-stepped the blow easily. His boot crunched through the broken tile, wedged tight. He couldn't recover.
 
-Without waiting for more rhyme, Elsywth drove full into the thrust with both hands, and Mōnanlīeht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elsywth, in a breath of heated rage, whispered in Wulfhere's ear:
+Without waiting for more rhyme, Elswyth's vision moved to the giant chest. She heard the beating of his heart and could even see it, pushing and pulling on his chest. It sounded like the footfalls of an army in motion.
+
+Elsywth drove full into the thrust with both hands, and Monanleoht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elsywth, in a breath of heated rage, whispered in Wulfhere's ear:
 
 ```
-You took me for easy prey,
-Parents stolen from the clay.
-Take the coalgirl’s blade and see…
+Took me once for easy prey,
+Stole my hearth and fled away.
+Take the coalgirl's blade and see,
 Blood to earth, and none for thee.
 ```
 
@@ -344,12 +405,13 @@ Now it's time for you to —
 
 Elswyth’s knuckles turned white. Her grip clamped down like an iron vise, shattering his rhythm and forcing the blade to a grinding, vibrating halt a mere hair's breadth from her collarbone.
 
-She didn't panic. Because she knew his tell — knew he was a slave to the song and could not strike without a rhyme — she had caught the cadence right before it was too late. She squeezed the handle until the steel stopped shaking, locking the monster back down into the depths of the nickel and steel. She retained full, absolute control.
+She didn't panic. Because she knew his tell — knew he was a slave to the song and could not strike without a rhyme — she had caught the cadence right before it was too late. She squeezed the handle until the steel stopped shaking, locking the monster back down into the depths of the nickel and steel.
 
-Inside her skull, the Redcap let out a high, cackling, unhinged laugh. 
+Inside her skull, the Redcap let out a high, cackling, unhinged laugh.
 
 ```
-die?
+Die!
+
 Curse those little fiddle-cynn,
 I had you twice but now I sin!
 Sweet dessert was sitting nigh,
@@ -392,7 +454,7 @@ Then the stars started arguing with each other. And arguing with her.
 
 The stars pleaded with her.
 
-"He's not right... too much applesauce... on his... neck."
+"He's not right... too much tasting... rhymes don't make sense."
 
 She didn't understand their words, only their meaning.
 
@@ -410,7 +472,7 @@ Hours later, the voices softened. The colors faded. At last, the poison loosened
 
 When she finally awoke, morning sunlight streamed through the openings in the roof, illuminating the bathhouse.
 
-She stood slowly, weary from a night spent at war with her own senses, but otherwise exhausted yet unharmed. Dreams and waking had become hopelessly entangled. She resolved to leave them that way.
+She stood slowly, weary from a night spent at war with her own senses. Apart from exhaustion, she was unharmed. Dreams and waking had become hopelessly entangled. She resolved to leave them that way.
 
 The sunlight caught the coffer sitting on the bench. She wasn't sure she wanted to open the box, but curiosity held her in its grip.
 
