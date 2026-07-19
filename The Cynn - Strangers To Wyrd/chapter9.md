@@ -288,7 +288,9 @@ The old Italian Benedictine priest, Father Matteo, carefully stepped around the 
 
 Father Matteo had not been born to England. As a youth he had been given as an oblate to the great Benedictine monastery of Monte Cassino, where Saint Benedict himself had once walked its cloisters. Before the young monk's vows were complete, Saracen raiders scattered the brethren to the winds. Matteo escaped with little more than the Rule he had spent his youth learning and the conviction that a monastery was more than stone walls. Obedience, prayer, labor, and brotherhood could be carried wherever God—or necessity—led them.
 
-He crossed the Alps with other displaced brothers and eventually found his way to England, where bishops and abbots sent him wherever another pair of faithful hands was needed. He learned his English among the monasteries and minsters of Wessex before being passed from one parish to the next like a well-worn psalter. In the autumn of 930, after the village priest Cynewulf disappeared without explanation, Matteo was sent north to Leicester expecting to remain only until another priest could be found. The replacement never came. Somewhere between burying the old, baptizing the young, blessing the harvest, and reconciling neighbors before Blackjoy, the foreign monk ceased to be a guest. Leicester had quietly become his home.
+He crossed the Alps with other displaced brothers and eventually found his way to England, where bishops and abbots sent him wherever another pair of faithful hands was needed. He learned his English among the monasteries and minsters of Wessex before being passed from one parish to the next like a well-worn psalter. In the autumn of 933, after the village priest Cynewulf disappeared without explanation, Matteo was sent north to Leicester expecting to remain only until another priest could be found. The replacement never came. Somewhere between burying the old, baptizing the young, blessing the harvest, and reconciling neighbors before Blackjoy, the foreign monk ceased to be a guest. Leicester had quietly become his home.
+
+Over the past ten years, Matteo put his Benedictine love of labor and service to use. He built the yardworks to efficiently recycle the Roman brick and stone. Under his direction, the broken shells of imperial bathhouses and roofless forums were stripped of their ancient chokehold on the quarter. The intent was always to build up the southern wall once more, but the Bishop always had another use for the stone. The liturgy of labor was a salve for the loss of the raid, and the Church's authority in Leicester grew as a result.
 
 Father Matteo: "My son... I am grateful the church still stands." He peered into the empty mess of armor. "...But I must ask the practical question."
 
@@ -302,7 +304,7 @@ Every eye fixed on Cynewulf.
 
 Father Matteo slowly crossed himself. Every member of the flock followed suit.
 
-"Perhaps..." Father Matteo seemed momentarily lost in thought, "I must speak to the Bishop about this." He was consumed by thought.
+"Perhaps..." Father Matteo seemed momentarily lost in thought, "I must speak to the Bishop about this."
 
 He fell silent again.
 
@@ -352,7 +354,7 @@ Cynewulf and Murdock looked at each other. Cynewulf replied, "Let's get this bac
 
 Quickly they gathered the valuables and retreated to the church.
 
-Father Matteo had barely finished teaching a few of the flock new loricas against the unlikely prospect of a naked Viking giant paying them a visit in the night.
+Father Matteo had barely finished offering last rites to those who had succumbed to their wounds. He was now teaching a few of the flock new loricas against the unlikely prospect of a naked Viking giant paying them a visit in the night.
 
 A handful of parishioners still lingered. A new debate had already begun.
 
@@ -372,7 +374,9 @@ She folded her arms.
 
 "I haven't seen them for two weeks!"
 
-Father Matteo: "These are all matters I will take up with the Bishop. I will travel myself to seek guidance about these... escalations... we have seen these past few years. Now, go back to your beds... please."
+Father Matteo: "These are all matters I will take up with the Bishop. I will travel myself to seek guidance about these... escalations... we have seen these past few years. Now, go back to your beds... please. I still have burials, and reconstruction, and..."
+
+The list of Matteo's concerns grew longer as the night wore on.
 
 Muttering among themselves, the remaining villagers drifted back toward _Under-Geat_, unsatisfied, each quietly convinced the others were underestimating the _Coaler-Wight_.
 
