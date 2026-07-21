@@ -1,44 +1,441 @@
 ## Chapter 1: A Promise of Piles
 
-The steady rain had given way to fog that morning, one that smelled of wet log-smoke and death. The previous night's funeral pyres were fed by the fallen logs of a shattered rampart, and the smoke drifted slowly through the battered streets of Leicester.
+The Saxon armies had gathered from icy roads far away, to deliver death to the Danes who occupied Leicester. 
 
-Victory should have belonged to the Saxons. The city had been surrounded for nearly two months. The Viking king had been driven from the walls and forced back into a shrinking web of barricades centered upon the old Roman Forum. Veteran bands still held crossroads, halls, and stout Roman buildings throughout the city, and every one of those positions promised another bloody fight, but no man doubted the outcome. Leicester was lost.
+---
 
-Instead, before dawn, King Olaf Guthfrithson departed beneath a banner of peace.
+Muninn: "You mention death in your very first sentence? These are children, Huginn, not morticians."
 
-Olaf Guthfrithson was no common sea-raider. King of Dublin and claimant to York, he had seized Leicester the previous autumn in his campaign to restore the Five Boroughs of the Danelaw to Norse rule. For generations those boroughs had passed back and forth between Saxon and Danish kings, won at terrible cost and lost almost as quickly. Every generation believed it had settled the question. Every generation discovered otherwise.
+Huginn: "I think it's polite."
 
-Waiting beyond Leicester's battered walls stood Oda, Archbishop of Canterbury, negotiating on behalf of the Saxon kings. Across the table sat Wulfstan, Archbishop of York, counsellor to Olaf and perhaps the most influential churchman in the north. Few men in England possessed greater authority than those two bishops. They served opposing kingdoms, yet each had watched the same weary cycle repeat itself for decades. Kings won counties. Their sons buried them. Borders shifted. Villages burned. Then another army marched beneath another banner, convinced that... this time... history would grant permanency.
+Muninn: "To announce death so casually?"
 
-Neither bishop believed the Danelaw could be settled by parchment.
+Huginn: "To announce that the buffet has arrived. I wouldn't want anyone feeling left out."
 
-Nor did they believe it could be settled by another week of siege.
+Muninn: "They're human. Not ravens. They're not left out."
 
-For nearly three years England had endured bitter seasons unlike any living man could remember. Summers had struggled to warm the earth. Harvests had failed. Granaries emptied faster than they filled. Whether the blame lay with God, strange skies, or simple misfortune mattered little to those who buried hungry children. Both bishops understood what many soldiers did not. The true enemy waiting inside Leicester's walls was no longer Olaf Guthfrithson.
+Huginn: "Well, good thing it's just a story then. How does etiquette work here? Do I offer them a juice pouch... or maybe a nice mutton sandwich?"
 
-It was time.
+Muninn: "You keep reading... _the story_."
 
-Every additional week at siege stole another week from spring planting. The fyrds that surrounded Leicester were not professional armies. They were farmers. Carpenters. Millers. Shepherds. Men who had left their plows standing in muddy fields when their lords summoned them to war. They had endured the long winter in camp because victory seemed close. Yet victory delayed can become indistinguishable from defeat. A kingdom might recover from losing a city. Recovering from another failed harvest was far less certain.
+---
 
-The treaty neither bishop signed claimed to settle none of the great questions that had divided England. It declared no final victor. The Five Boroughs, even those reclaimed by the Saxons before the siege, would be wholly in Olaf's hands now. He had not won them on the battlefield, but because neither bishop wished to purchase another season of blood for a prize that history itself had never allowed either kingdom to keep. If God intended the Danelaw to remain Danish, no army could forever prevent it. If He intended otherwise, no treaty could forever preserve it. The bishops chose to spare the harvest and leave the judgment of kingdoms to Providence.
+Inside the city walls, King Olaf Guthfrithson studied his enemy.
 
-Not everyone agreed.
+He was no common sea-raider.
 
-Among Olaf's captains, one broad-shouldered veteran had argued days earlier that the neglected church wall along Leicester's southern edge should be strengthened. The old Roman masonry had long since crumbled there, replaced by heavy timber repairs and little else. He had crossed that ground before and trusted neither its stones nor the sanctuary they enclosed. Wulfstan disagreed.
+King of Dublin and claimant to York, he heard of King Æthelstan's death in 939 and learned that Æthelstan's brother Edmund, a youth of eighteen winters, had been proclaimed King of the Saxons. The boy had even assumed Æthelstan's title of King of the English. Olaf wagered that parchment and trinkets could proclaim a king. Only men standing knee-deep in mud could prove one.
 
-The land in question was _The Old Frith_ and _Under-Geat_, a Church protectorate that straddled the ailing southern wall. Its ancient privilege was _frith_—the peace of the Church. Upon that ground, swords were expected to remain sheathed, even when kingdoms were at war. Wulfstan knew Oda would defend that peace for as long as any man could. Olaf accepted the archbishop's judgment over the soldier's.
+There could be no better time to reclaim the Five Boroughs of the Danelaw.
 
-Both men proved correct.
+For generations those boroughs had passed back and forth between Saxon and Danish kings, won at terrible cost and lost almost as quickly. Every generation believed it had settled the question. Every generation discovered otherwise.
 
-Oda delayed the assault upon the Church Quarter until delay itself became impossible. Precious hours were spent searching for another way into the city while the bishops struggled to keep holy ground from becoming a battlefield. In the end necessity prevailed. The weakened southern wall was breached, and Leicester was effectively lost. The broad captain had judged the wall correctly. Wulfstan had judged Oda correctly. Yet by then the siege had already taken enough lives that neither archbishop could justify demanding another week of fighting for a victory that promised to cost the very harvest England required to survive.
+He was no relic of the old sea-kings. Olaf had been baptized into Christ, heard Mass, and ruled among Christian subjects. Yet the old ways lingered in his halls. Many of his warriors still swore by the Norse gods and still sought the kind of death worthy of remembrance.
+
+Olaf descended upon the Danelaw. He took York easily. By the autumn of 942, Leicester 
+had fallen into Danish hands, and he held it through the winter.
+
+King Edmund had called upon his lords to deliver a force to re-take Leicester. His lords answered.
+
+The armies fighting for Edmund came from East Anglia, Mercia, Wessex, and even Northumbria. Mercenaries came from from every corner where the news of silver could spread.
+
+At their head stood King Edmund I, now a man of twenty-two winters, and King for four. Beside him rode Bishop Oda of Canterbury, a Dane by birth and an Englishman by conviction, whose prayers carried nearly as much weight as the king's commands.
+
+For weeks the armies had tested Leicester's walls. They were stout and well defended—except in one place.
+
+The southwestern wall was crumbling. Between the South Gate and the West Gate stood the Shadow Gate, where age and neglect had reduced the Roman masonry to little more than a timber-reinforced scar. Every soldier knew it was the city's weakest point.
+
+Yet no one attacked it.
+
+Because of the _frith_.
+
+"Oda, you must see this my way." The King stared at the South Gate. "Good men will die if you don't."
+
+Oda said nothing.
+
+"The Shadow Gate is scarcely a wall anymore," Edmund continued. "A few hundred men could force it before noon."
+
+"They could."
+
+"Then why are we still standing here?"
+
+Oda looked toward the church belltower rising above Leicester's rooftops.
+
+"Because the path runs through Under-Geat."
+
+Oda sighed, and his hand found his golden cross. "My lord King, my answer has not changed. The Church's _frith_ is a covenant. We do not merely cast it aside for convenience."
+
+The King leveled an icy stare at Oda. "I would hardly call the deaths of a few hundred men, taken while reclaiming a city for Christ, a matter of _convenience_. Olaf may call himself Christian, but too many of the men behind those walls still kneel to the old gods."
+
+Edmund motioned to the walls.
+
+"And what of the Christian souls inside? Is the concern for the Church's _frith_ more pressing than their prayers for deliverance?"
+
+"The _frith_ exists _for_ their protection, Edmund. Not in spite of it."
+
+Edmund looked back toward his army. Most of the spears before him belonged over hearths, not in the king's barracks.
+
+"Too many men have died. We have no more time, Oda. Planting will soon be upon us, and with that the _fyrds_ go home."
+
+Oda's gaze turned upon a wall of willows to the west of the road. Beyond the willows was Under-Geat.
+
+"Then swear to me: the villagers will be unharmed. And you must not raise a hand against anyone who does not raise one first."
+
+Edmund narrowed his eyes. "I cannot guarantee the safety of every soul."
+
+"You can swear before God that you will try."
+
+"Aye. But when the fighting starts, my men's lives mean more to them than my oath."
+
+Oda pursed his lips.
+
+"At least let me send word to the villagers to abandon their..."
+
+"Absolutely not! The moment Olaf sees the villagers being escorted away, every spear in Leicester will be guarding that wall."
+
+Oda paused for a moment, a smile forming at the corner of his mouth.
+
+Oda raised his eyes. "Every spear?"
+
+Edmund scanned from Under-Geat to the East Wall.
+
+"Of course! CAPTAINS!"
+
+His commanders rode up on their horses.
+
+"Tell your baggage masters I want all supply wagons outside of Under-Geat. Clear the willows and brush to make room. _And make a show of it_. Then gather the ladders and all horses. Pick your finest riders. When I give the signal, tell them to ride hard for the East Gate and scale that wall. They'll have moments to open that gate."
+
+He looked each captain in the eye.
+
+"Make them count."
+
+Edmund scanned his men once again.
+
+"The rest will stand in Under-Geat. I want their spears held high so that any Dane that can count will see our number. And they'll see me at the fore and know this is my decision."
+
+He looked back at Oda.
+
+"I swear to you and before God I will try not to harm a Christian soul within the _frith_ by our hand."
+
+He smiled.
+
+"When we know the East Gate is open, the swiftest army will be the one to keep it."
+
+He then summoned one captain to step forward. The captain was Galindo, a Spaniard who served as reeve of a remote Tyne River _fyrd_. He had spent most of his life counting wagons, settling disputes, and calling men to the _fyrd_—not leading assaults upon stone walls.
+
+"Galindo, when we commit to the East Gate, stay behind hidden in the willows. When Olaf answers the East Gate, see what he leaves behind. If the Shadow Gate be lightly held by pagan souls, take it. The villagers will be cleared, so use what force you must. Keep that gate open and signal me when you have it."
+
+He grabbed the captain by his tunic.
+
+"If we hold the Shadow Gate and occupy the East Gate, their flank will be exposed. With God's will, we'll have both by nightfall. Speed is everything."
+
+"God's will," was all he could muster.
+
+Edmund nodded.
+
+He turned to gather his forces.
+
+Behind the Forum walls, Olaf's captains stood in a ring around a map carved into the courtyard mud.
+
+Olaf traced the roads with the tip of his spear.
+
+"Edmund has gathered here, before the South Gate. Since arriving, he has tested every road gate."
+
+The spear moved from one mark to the next.
+
+"North. East. South. West."
+
+He looked up.
+
+"Each time we answered with steel."
+
+A wolf-man of the Danes stepped forward, a burly captain named Wulfhere the Broad. He was a member of the _Ulfhednar_. Their reputation for wild savagery needed no introduction.
+
+"The Shadow Gate remains lightly protected. That will be his next objective. Assign more men there."
+
+Wulfstan, the Archbishop of York and close ally of Olaf, stepped forward in his soft furs and gold-encrusted cross. 
+
+"My lord Olaf, Oda is with them. He will protect that gate."
+
+Wulfhere spat towards the bishop's fur-lined boots.
+
+"You think like a wolf cub who thinks his mother will protect him from the bear."
+
+Wulfstan ignored the challenge. He turned to Olaf.
+
+"Oda _will_ protect the Church's _frith_."
+
+"Then stand in the breach," Wulfhere barked.
+
+He planted his spear in the middle of the Shadow Gate held it there.
+
+"Stand here. Hold your cross out and command them to stay their hand..."
+
+A smile crept over Wulfhere's face.
+
+"...as they walk right by you."
+
+Some of the captains laughed, others were deadly serious.
+
+"You don't know these men," Wulfstan objected.
+
+"But I know the ground, Bishop. I've been through that wall. Have you?"
+
+"Enough, Wulfhere." Olaf's voice was steady and commanding.
+
+"You've made your objection known. See to your wolves."
+
+Wulfhere scowled at Wulfstan as he turned quickly to leave. He left his bootprint on the Shadow Gate.
+
+Olaf turned to the group before him.
+
+"Watch the roads. If Edmund and Oda turn toward Under-Geat, reinforce the Shadow Gate at once. They will find steel waiting for them."
+
+Wulfstan nervously rubbed his cross in his fingers.
+
+"We must not offer such offense as to have them think we have broken the _frith_."
+
+Olaf put his hand on Wulfstan's shoulder and smiled.
+
+"No. I want him to count spears. Let him be the first to choose steel over peace."
+
+Night fell that day on the Saxons inside Leicester. Many men were lost on both sides. And many more would surely die if a peace could not be had. For the Saxons, the action had been a day of success, but a night of frustration.
+
+The Danes lost both the East Gate and the Shadow Gate. Soon after the South and West gates fell as well. But Olaf had prepared a contingency. All roads to the North Gate were barred. The Forum stood like a castle before the Saxons. And each crossroad and home stood like a shield-wall. Each step would be paid for in blood.
+
+Oda waited that night in the nave of the Church of Augustine and Columba. Wulfstan waited at the entry of the Forum, a mere eighty paces away. And yet, they stood worlds apart. Each had sued for peace.
+
+Wulfstan walked alone from the Forum's archway onto the steps of the Church. The Saxons eyed him cautiously, but still revered his cross as he held it plainly as his shield. Many crossed themselves as he passed.
+
+Oda received him with a scribe by his side. A table and three chairs had been brought. On the table lay lit candles and the implements of statecraft.
+
+Oda motioned his hand to the chair.
+
+"Peace be with you."
+
+Wulfstan took the chair and seated.
+
+"And with you."
+
+Oda seated directly opposite Wulfstan, the flicker of candlelight illuminating the matching rings on their fingers.
+
+The scribe uncorked his ink.
+
+Wulfstan folded his hands before him.
+
+"My king bids me ask your terms."
+
+Oda shook his head.
+
+"No. Tell me yours."
+
+Wulfstan did not hesitate.
+
+"The Forum can withstand another fortnight."
+
+Oda looked at him curiously.
+
+"Only a fortnight?"
+
+"Our grain will stretch further if we butcher the horses."
+
+"The Saxons have no wish to starve you."
+
+"I know."
+
+"Then why only a fortnight? I think you underestimate your own men."
+
+Wulfstan frowned.
+
+"My own men?"
+
+"You count only grain and horses."
+
+Wulfstan rested both hands upon the table, but gave no response.
+
+Oda leaned in.
+
+"I count desperation. The men in your Forum know there is nowhere left to retreat. Every father will defend the next doorway as though his own children slept behind it."
+
+"They will."
+
+Oda sat back and gave a weary smile.
+
+"And we have spent weeks burying brothers beneath these walls. Every street we take will convince us the next one must justify the last."
+
+The smile vanished.
+
+"We both... the Saxons and Danes... will not stop until one army no longer exists."
+
+The candles hissed softly.
+
+Wulfstan finally spoke.
+
+"You think the fighting will last longer."
+
+"I think Leicester will consume every man either king has brought. But that is nothing..."
+
+Oda paused to let his next words hit like a hammer. He swallowed hard.
+
+"Leicester will be the undoing of Mercia."
+
+The scribe stopped writing.
+
+Oda turned toward the church doors.
+
+"Edmund told me this morning that planting cannot wait."
+
+He looked back.
+
+"I fear even he has not understood his own words."
+
+Wulfstan remained silent.
+
+"The _fyrd_ is not an army."
+
+Oda's voice had become almost pastoral.
+
+"It is a field with spears."
+
+He let the words settle.
+
+"Every week they remain in Leicester is another week fields lie unplowed."
+
+"The Danes suffer the same."
+
+"They do."
+
+Oda crossed himself.
+
+"God has already sent us three hard winters. Our granaries are not what they were."
+
+"Then why should Edmund yield now, after all his gains?"
+
+Wulfstan grew suspicious.
+
+"Do you ask for our grain? Before, you meant not to starve us."
+
+Oda's hands came down firmly upon the table. The inkwell jumped, and the scribe caught the parchment before it shifted.
+
+"Because winter keeps no allegiance!"
+
+The words hung in the air.
+
+"If Mercia, Northumbria, Wessex... fails to sow..."
+
+Oda looked beyond Leicester, as though he could already see the empty fields.
+
+"...then children who have never heard the name Olaf Guthfrithson will die for this city."
+
+Neither man spoke.
+
+Finally Wulfstan broke the silence.
+
+"What would you ask of my king?"
+
+Oda looked directly into his eyes.
+
+"For generations the Danelaw has passed between our kings."
+
+"By sword."
+
+"By sword."
+
+"And now?"
+
+Oda rested a hand upon the Gospel lying beside the candles.
+
+"Perhaps it is time another judge decided."
+
+Wulfstan's eyes narrowed.
+
+"What judge?"
+
+"God."
+
+Silence.
+
+"My king cannot abandon the Danelaw."
+
+"I do not ask him to."
+
+"What then?"
+
+"Let Olaf hold what he now holds."
+
+Wulfstan's brow furrowed.
+
+"Until?"
+
+Oda took a long breath.
+
+"Until God renders His judgment."
+
+"And how shall He do that?"
+
+"When Olaf dies."
+
+The room fell utterly still.
+
+The scribe looked up from his parchment.
+
+Oda continued.
+
+"If Edmund cannot reclaim the Danelaw while Olaf lives, then let him press the claim when Olaf stands before Christ."
+
+Wulfstan stared at him.
+
+"You ask me to make my king's death the boundary of the peace."
+
+"I ask you to let Olaf's kingdom be remembered for the souls he spared, not the lands he left his sons."
+
+Wulfstan considered the words.
+
+"Olaf will hate it."
+
+"Edmund hates it even now."
+
+"Then who shall love it?"
+
+Oda looked toward the crucifix.
+
+"I pray the widows."
+
+---
+
+Huginn: "Well, I hated it. Every scratched word on that page."
+
+Muninn: "It was a very different kind of deal. Historians still scratch their heads to this day."
+
+Huginn: "I was promised piles."
+
+Muninn: "You were."
+
+Huginn: "And I was denied."
+
+Muninn: "Maybe there's a lesson. Always pack a lunchbox. Just in case."
+
+Huginn: "And what do you suggest I put in this lunchbox?"
+
+Muninn: "Juice pouch. Mutton sandwich. Everything a grouchy toddler needs..."
+
+Huginn: "Are you saying I'm a hypoglycemic toddler?"
+
+Muninn: "No. I'm merely implying it. And wouldn't a nice mutton sandwich be good right about now. Layers upon layers of greasy meat... hold the bread."
+
+Huginn: "Stop teasing me!"
+
+---
+
+The previous night's funeral pyres were fed by the fallen logs of a shattered rampart, and the smoke drifted slowly through the battered streets of Leicester.
+
+Before dawn, King Olaf Guthfrithson and Wulfstan departed the North Gate beneath a banner of peace.
 
 When the crier mounted the Forum wall that morning and held aloft the wax-sealed treaty, silence spread through both armies. The Danes gathered their dead, their baggage, and what remained of their host for the short road back toward the restored Boroughs of the Danelaw.
 
-The fyrds faced a much longer journey. They returned to fields already waiting for the plow, and to the knowledge that after months of hardship they had won nearly every battle fought with sword and spear.
+The _fyrds_ faced a much longer journey. They returned to fields already waiting for the plow, and to the knowledge that after months of hardship they had won nearly every battle fought with sword and spear.
 
 The only loss, in their minds, was the one fought with ink.
-
-The Vikings got to stay.
 
 Osric paid no attention.
 
@@ -48,9 +445,9 @@ Osric's clothes were a beggar's hoard. He wore three tunics at once: a stiff, gr
 
 Osric once held an honored position in the fyrd, a tall, proud warrior-farmer with the strongest back, who anchored the shield wall. But now, he dug latrines, and wagons out of mud. When the news came, it didn't matter at the time. His attention was held by the carriage wheel that had detached, its axle flat in the muck. He didn't have time for parchment-deals, not when the baggage-master had a whip in the hand.
 
-In the battle, he had barely survived. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not soldier's work, but that of a thrall.
+In the battle, his survival was not decided by skill. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not soldier's work, but that of a thrall.
 
-Elswyth was from _Under-Geat_, a daughter of the charcoal and the forest. She seldom mingled with the village-folk now, for she had spent half her life balanced on the sharp edge between truth and lie. Which was which depended on who you asked.
+Elswyth was from Under-Geat, a daughter of the charcoal and the forest. She seldom mingled with the village-folk now, for she had spent half her life balanced on the sharp edge between truth and lie. Which was which depended on who you asked.
 
 She cared little what others thought of her. The quality of her charcoal came first. Her skill at coaxing a living from the forest was not far behind. Both kept her fed, and neither cared a whit for village gossip.
 
@@ -58,11 +455,11 @@ She was dressed for the damp forest and the heat of the char-pits, not the threa
 
 In the beginning, her family did the dirty work of managing charcoal pits with wood taken from the nearby Charnwood forest. The charcoal fed the Church bell foundry and the Yardworks' lime kilns. But now she was alone. She continued that work in the still of the night, away from the eyes and ears of the villagers.
 
-For two months that spring, the Saxon horde had made _Under-Geat_ their home. And for two months, Elswyth watched the forest awaken, filling her snares before filling her basket. She avoided the villagers when selling to the visitors, always drawing up her cowl before offering anything for sale. Mushrooms were often traded for broth. A small rabbit could bring a loaf of bread. But a marten's pelt could buy four suppers, and its meat would be the fifth.
+For two months that spring, the Saxon horde had made Under-Geat their home. And for two months, Elswyth watched the forest awaken, filling her snares before filling her basket. She avoided the villagers when selling to the visitors, always drawing up her cowl before offering anything for sale. Mushrooms were often traded for broth. A small rabbit could bring a loaf of bread. But a marten's pelt could buy four suppers, and its meat would be the fifth.
 
 That morning, she took the news of the peace with dread. She had no ear for war, but she also had no love for the Danes, especially those dressed as wolves. While the Danes ruled, she preferred the call of the forest birds to the sounds of the Vikings' boasts. Now with the Danelaw officially in the hands of the Danes, she wasn't sure that Leicester was her home.
 
-Osric's Tyne River fyrd was one of the companies encamped just outside _Under-Geat_. Their wagon master was a Scot named Murdock, a fire-bearded man whose first instinct was always to count: wagons, oxen, barrels, sacks, and finally people. He had seen her faithfully deliver her bounty for several weeks. And with the mud, his count of spare axles was down to a single finger. He needed a forester to prepare for the worst. Broken axles did not grow on wagons, and hungry men did not march on promises.
+Osric's Tyne River fyrd was one of the companies encamped just outside Under-Geat. Their wagon master was a Scot named Murdock, a fire-bearded man whose first instinct was always to count: wagons, oxen, barrels, sacks, and finally people. He had seen Elswyth faithfully deliver her bounty for several weeks. And with the mud, his count of spare axles was down to a single hand. He needed a forester to prepare for the worst. Broken axles did not grow on wagons, and hungry men did not march on promises.
 
 Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her clean Easter tunic wrapped in burlap, and the twine and triggers of her traps - all kept in a bundle of empty charcoal sacks.
 
@@ -70,7 +467,7 @@ And finally, her hand found the smooth lump of coal in her pocket, polished over
 
 She was ready to go.
 
-By the time she returned, the wagons were already creaking into motion. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons and let _Under-Geat_ disappear behind her.
+By the time she returned, the wagons were already creaking into motion. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons and let Under-Geat disappear behind her.
 
 The train wound its way through the cluttered streets of Leicester. The town was still reeling from the aftermath of the siege. In the rain, the train would stop three times to remove barrel barricades and debris from High Street.
 
@@ -82,29 +479,29 @@ A veteran turned on the road, looking back at a hundred men with shields and spe
 
 Cynewulf, also of Leicester, was strong and salt-bearded, yet weary. A priest at first, he gave up that life for the life of a soldier and highwayman. He had the cake of the road stuck to him, a tired mercenary in this war, fighting for the Saxons. His foreign warband brought him to Leicester. They were harassing Viking reinforcements from York and had been very effective.
 
-The moment their campaign ended, their charter bid them return home. They traded farewells and turned west. Cynewulf watched them disappear down the road until they were little more than colored specks against the spring hills. Only then did he turn back toward Leicester. The road felt quieter without them.
+The moment their campaign ended, their charter bid them return home. They traded farewells, their road taking them north and then west to Powys, a far off region of Wales. Cynewulf watched them disappear down the road until they were little more than colored specks against the spring hills. Only then did he turn south back toward Leicester. The road felt quieter without them.
 
 Cynewulf had the bearing of a soldier. His byrnie—once a proud shirt of black interlocking iron mail—was threadbare and sagging, missing clusters of rings that had rusted away and been crudely patched. Underneath the iron, he wore a quilted weapon-shirt of heavy linen. The quilting threads had snapped in dozens of places, allowing the dirty flax stuffing to leak out of the tears like tufts of sheep's wool. It was stiff with the salt of old sweat, and the shoulders were stained a deep, bloody orange where the rusting mail had bled into the fabric. His cloak was a new fur-lined trophy, as were his boots. At his hip hung an aging langseax whose edge rippled with shallow waves—the mark of a blade that had survived many battles and nearly as many blacksmiths. His shield had been split to splinters in the road engagements, and was gone. What little wealth he possessed came from the battlefield: fragments of silver, steel, and bronze scavenged from the fallen and not yet traded to the smiths for coin.
 
 Cynewulf's vows were taken at the Church in Leicester, and that is where Elswyth once knew him. In those days, before he traded his vestments for a chain shirt, he was an acolyte who worked in the bell foundry. Her family's coal fed the fires then. He glanced at the church several times at night through the rain, trying to remember the lines of the bell-fry, the happier times. But now, with the siege ended, the church was the beginning of the next road.
 
-With his warband gone, Cynewulf wandered south toward the North Gate to see where the wind wanted to blow him next. He knew the Church was offering crusts of bread and a bit of broth to those unfortunate who had nowhere else to be. That is how he happened upon the Tyne River fyrd. Roughly a hundred men stood in the rain watching one thrall kneeling in the mud yet again over a broken axle.
+With his warband gone, Cynewulf wandered south toward the North Gate to see where the wind wanted to blow him next. He knew the Church was offering crusts of bread and a bit of broth to those unfortunate who had nowhere else to be. That is how he happened upon the Tyne River _fyrd_. Roughly a hundred men stood in the rain watching one thrall kneeling in the mud yet again over a broken axle.
 
 A man on an unusually fine horse rode up to him.
 
-"Hail, soldier," a man said. "You are either very unlucky, or very expensive."
+"Hail, soldier," a man said. "Lose your way, or has the way lost you?"
 
 Cynewulf frowned. "What?"
 
-"A veteran standing alone after a campaign? Usually it means one of two things. Either your company died, or someone else already hired them."
+The rider smiled. "A veteran walking alone back into the fire, lost in his thoughts? Either you lost your company, or they lost you."
 
-"Neither."
+Cynewulf snapped to the present and stroked his beard. "Both, I suppose."
 
-The foreigner smiled. "Then today is full of surprises."
+The foreigner laughed. "Then today is full of surprises."
 
 He extended a hand.
 
-"Galindo. Reeve to the fyrd from the Tyne Valley."
+"Galindo. Reeve to the _fyrd_ from the Tyne Valley."
 
 Cynewulf shook it cautiously.
 
@@ -116,7 +513,7 @@ Galindo glanced back toward the baggage train. Osric was still crouched over the
 
 "For what?"
 
-"For leaving." Galindo answered immediately. "The peace has been read. Half the fyrd is already thinking about sowing crops. The other half is thinking about their wives. I need guards for the baggage train before they begin their race to see which ones get home first."
+"For leaving." Galindo answered immediately. "The peace has been read. Half the _fyrd_ is already thinking about sowing crops. The other half is thinking about their wives. I need guards for the baggage train before they begin their race to see which ones get home first."
 
 Cynewulf followed his gaze toward the wagons.
 
@@ -126,7 +523,7 @@ Cynewulf followed his gaze toward the wagons.
 
 "And?"
 
-"The fyrd is an unsaddled horse, and time is a luxury."
+"The _fyrd_ is an unbridled horse that smells home, and time is a luxury."
 
 Galindo pointed toward the camp.
 
@@ -136,28 +533,69 @@ Cynewulf looked over his shoulder.
 
 "And if I fail?"
 
-"Then I'll find somebody else." Galindo smiled. "But if I thought you would fail, we wouldn't be speaking."
+"Then you'll prove I was wrong. And I'm _rarely_ wrong." Galindo smiled.
 
 Cynewulf made haste into Leicester.
 
 Cynewulf knew the very bandits he might face on the road to the Tyne, because he had once ridden beside them. He did not fear them. He did not respect them. He understood them. Men like that followed silver first and everything else second. Once, he had told himself he was no different.
 
-He remembered the old Leicester and the occupations around it. He knew not to ask the woodsmen. Spring belonged to them. He knew not to ask the millers, nor the carters, nor the smiths. They had work waiting long before the war had arrived.
+He remembered how Leicester had worked before the siege. Spring had returned, and so had the work. He knew not to ask the woodsmen. The forests were calling them. Nor the millers, nor the carters, nor the smiths. Their trades had been waiting months for peace.
 
-Instead he looked for the men who lingered after the others had found their purpose. He sought the men who were not eager to leave. An ale-house would be the obvious place to start, if there were still ale in Leicester.
+Instead he looked for the men who lingered after the others had found their purpose. He sought the men who were not eager to leave.
 
-He realized the ones he needed were like him. He was already in search of food, heading towards the churchyard 
-Cynewulf scoured the room with his eyes, like a wolf searching for another who had lost its pack.  A man in a hurry to reach his wife was already on the road. A man eager to sow his fields was packing his cart. The men still nursing ale were just nursing ale.
+He passed The Aleway.
 
-And that is where he found them:
+An ale-house would have been the obvious place to start, if there were still ale in Leicester.
 
-An old veteran who sat against a fence with patchwork armor, a large shield, and a bearded axe. His hair and scars said Dane, but his manners said Saxon. His competency and his knowledge of English and Norse got him in.
+He kept walking.
 
-A one-eyed archer was making merry with the one of the church cooks. He mentioned "I can only fire in one direction at a time" - his humor got him in. 
+He realized the ones he needed were like him. He was already in search of food, heading toward the churchyard. The ones he wanted would be doing exactly the same.
 
-Two young brothers were abandoned by their eldest brother's warband. He thought so little of them, he didn't bother to wake them for departure. They brought spears, shields, and a bitter disposition. Their fire got them in.
+Cynewulf crossed the open common of Middleflat, named for the great Roman stone foundation stripped bare and now serving as a speaking platform. Danes laughed as they hauled away barricades, tossing timbers aside as though they had never expected to need them again.
 
-Two Northmen occupied a table near the door. Their clothes were Scandinavian, their silver was foreign, and their accents belonged much further east than Denmark. When Cynewulf asked whether they served Olaf, both laughed and spat on the ground. Their strength and their answer got them in.
+They had no time for him.
+
+He certainly had no time for them.
+
+He kept walking.
+
+Cynewulf stopped between the Forum and the Church of Augustine and Columba. As a deacon and then priest of this church, he had seen this sight a thousand times.
+
+The Church looked the same. The Jewry Wall and the belltower always seemed to be giants trying to decide which was taller, and the belltower always seemed to win the debate.
+
+But he had never seen the Forum so scarred. Danes were pulling barricades from the Roman archways. Beyond them lay a wreck of splintered timber, soot, filth, and the lingering signs of death. He looked away.
+
+He stepped towards the Old Frith. He didn't expect to see piles of rubble.
+
+The old bathhouse behind the Jewry Wall was being excavated. Before him lay untidy heaps of marble, brick, timber, roof tile, and broken stone.
+
+"Someone's been busy," he said to himself as he strode by.
+
+Cynewulf scoured the Old Frith with his eyes, like a wolf searching for another who had lost its pack. A man in a hurry to reach his wife was already on the road. A man eager to sow his fields was packing his cart. The men lingering over their broth interested him most.
+
+That was where he found them.
+
+The first was an old veteran resting against a fence, wrapped in patched mail and carrying a broad shield and a bearded axe. His hair and scars spoke of Denmark. His manners spoke of Mercia. He answered Cynewulf in fluent English before finishing the question in Norse. Whatever side he had once fought for, he had survived long enough to know both.
+
+Nearby, a one-eyed archer had the church cook laughing so hard she nearly dropped the ladle.
+
+Cynewulf asked, "So does the arrow always follow where you look?"
+
+"Close enough."
+
+"But don't you need both eyes?"
+
+"Both eyes? My enemies and the ladies already know." He finished his broth in one gulp. "I only shoot in one direction anyway!"
+
+Cynewulf smiled despite himself.
+
+Two young brothers sat apart from the others, their shields stacked neatly beside them. Their eldest brother's warband had left before dawn without waking them. Whether through cruelty or indifference hardly mattered now. They wore the wounded pride of men determined never to be left behind again.
+
+The last two caught his attention before he reached them. They dressed like Northmen, but not Danish Northmen. Their armor wasn't mail at all, but hundreds of small iron plates laced together until each man seemed wrapped in the scales of some great fish. They spoke to each other in Norse, but it rolled off the tongue with a cadence he didn't expect. When Cynewulf asked if they had served Olaf, they laughed together and spat into the dirt.
+
+"Never him."
+
+They offered little else, though they seemed to understand him well enough. At the mention of silver, they exchanged a glance, rose, and shouldered their shields.
 
 They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time, he had judged men by who might keep one from harm.
 
@@ -277,7 +715,7 @@ The archer stopped dead in his tracks.
 
 "Best be settling in. Report to the wagon master." Galindo replied.
 
-High above the town, perched on the highest wall of the Forum, a tall and proud Viking war-band leader studied his enemy still. He was the _Hersir_ of the _Ulfhednar_, Wulfhere the Broad. The _Ulfhednar_ were the wolf-men of the Danes, men who married their souls to the wolves of Odin. Though his kind's number were dwindling on the island, he was fierce and true to his kind. To him, the brokered peace was a thing for priests and deer-meat. He had lost some of his number in the fighting before, but the trophy pile was small, and many of his number still longed for Valhalla. 
+High above the town, perched on the highest wall of the Forum, Wulfhere studied his enemy still. The _Ulfhednar_ were the wolf-men of the Danes, men who married their souls to the wolves of Odin. Though his kind's number were dwindling on the island, he was fierce and true to his kind. To him, the brokered peace was a thing for priests and deer-meat. He had lost some of his number in the fighting before, but the trophy pile was small, and many of his number still longed for Valhalla. 
 
 He finally gave the wave to signal the _Ulfhednar_ advance out of the camp. They weren't staying in Leicester. The spring thaw had opened the river-roads, and there were estates to the north and east that hadn't seen a blade in months. There were _karvis_ to be seized in the fishing villages of the estuaries—small, fast boats and poorly guarded—which would lead to a summer of raiding the coast.
 
@@ -373,5 +811,5 @@ Huginn: "Those _Ulfhednar_ were truly stink-foul, weren't they brother? They sme
 
 Muninn: "Bad intentions? Those don't smell. Otherwise you would be most ripe indeed. As for the _Ulfhednar_, they *were* our best providers you know... piles of dead warriors, Huginn. *PILES*. Our brothers would feast for moons."
 
-Huginn: "Yes, I remember it as clearly as sitting on Osric's hearthstone. Which reminds me..."
+Huginn: "I said stop teasing me!"
 
