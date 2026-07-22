@@ -2,7 +2,7 @@
 
 ### Part Two: The Liturgy of the Road
 
-_The road does not care for confessions, nor does it grant absolution. But it is a priest. A very stern one. When it gives sermons, it asks questions of its flock: How much weight do you carry? Who should you trouble with questions, and who should just receive a nod? What is your bearing to others? What will you eat? Did you bring water? And, who looks like... a mark?_
+_The Road does not care for confessions, nor does it grant absolution. But it is a priest. A very stern one. When it gives sermons, it asks questions of its flock: How much weight do you carry? Who should you trouble with questions, and who should just receive a nod? What is your bearing to others? What will you eat? Did you bring water? And, who looks like... a mark?_
 
 _These are the lessons of the Road._
 
@@ -18,7 +18,7 @@ _He had lived none of them._
 
 On the fourth day, near the edge of the Rutland woods, the Road asked him with another question: _What do you do when others want what you have?_
 
-Three men stepped from the hazel scrub. They did not look like the fierce Ulfhednar who had burned his church; they looked like hungry wet dogs. They wore boiled leather patches and carried rusted boar-spears. Their leader was a squint-eyed Saxon with a broken nose and a laugh like dry gravel.
+Three men stepped from the hazel scrub. They did not look like the fierce _Ulfhednar_ who had burned his church; they looked like hungry wet dogs. They wore boiled leather patches and carried rusted boar-spears. Their leader was a squint-eyed Saxon with a broken nose and a laugh like dry gravel.
 
 Cynewulf, still carrying the easy confidence of a young priest who commanded a parish, did not run. He did not even raise his shield. Instead, he stood tall, adjusted the heavy sack on his shoulder, and smiled.
 
@@ -168,7 +168,7 @@ _Fer-Main_ left without saying a word.
 
 Cynewulf approached the armorer about his mail. He removed his mail coat and put it in a sand barrel for the day's march, the rhythm of the wagon forcing the sand into every link. Once the days march was done, it would be prepared for oil, and torching to bring out the black.
 
-Cynewulf, his joints aching, helped pack up the camp. When they left, Cynewulf found a space on the wagon next to the barrel with his mail. He ensured that it turned every so often to keep the wear on his mail even. He heard the hiss of the sand against the links, with every bump, every rut and every turn. His mail, like his spirit, was being scoured by the grit of the road.
+Cynewulf, his joints aching, helped pack up the camp. When they left, Cynewulf found a space on the wagon next to the barrel with his mail. He ensured that it turned every so often to keep the wear on his mail even. He heard the hiss of the sand against the links, with every bump, every rut and every turn. His mail, like his spirit, was being scoured by the grit of the Road.
 
 _To lead a pack, you must give others a reason to follow. To remain in a pack, give them a reason to keep you. The Road's ditches wait for those who gave no one a reason to keep them._
 
@@ -176,31 +176,31 @@ _So sayeth the Road._
 
 ---
 
-[TODO replace]
+Huginn: "See? Latin! I knew it! It's the magical language!"
 
-Huginn: "Don't look now. Cynewulf is becoming Andy Dufresne. I wonder if he's going to invent a whole new identity to launder silver."
+Muninn: "There is nothing magical about Latin."
 
-Muninn: "Andy Dufresne? Please. He’s more like Radar. Dufresne escapes. Radar runs the camp."
+Huginn: "_Lingua Latīna tam magica est ut etiam unicorni eam statim discant!_"
 
-Huginn: "Radar? That’s absurd. Cynewulf doesn’t have a teddy bear or a heroic little face."
+Muninn: "There are no unicorns. And even if there were, they wouldn't learn Latin from birth."
 
-Muninn: "He has the eyes. The quiet, watchful look of a man who knows where the seals are, who is lying, and which pouch has the coin."
+Huginn: "_Quidquid Latine dictum sit altum videtur._"
 
-Huginn: "No, no. Dufresne. He’s got the bookish thing, the grim determination, the whole ‘one small man outsmarts a prison full of fools’ energy."
+Muninn: "No, not everything said in Latin sounds profound."
 
-Muninn: "Prison? He’s not escaping a prison. He’s joining one. A mercenary camp is just a prison with better horses and worse morals."
+Huginn: "_Ave, parvī hominēs!_"
 
-Huginn: "Which is exactly why it’s Dufresne! He’s going to carve his way out with paperwork and patience."
+Muninn: "Just because you greet them as little humans in Latin doesn't make them understand..."
 
-Muninn: "He’s not carving out. He’s becoming indispensable. That’s Radar. The man who knows where everything is, who gets the message, who quietly holds the machine together."
+Huginn: "_Ego sum corvus pulcherrimus._"
 
-Huginn: "He doesn't have a trumpet. Didn't Radar play the trumpet?"
+Muninn stared. "Wrong. _I_ am the most handsome raven. Ditch-meat with feathers is not handsome."
 
-Muninn: "He plays the Latin. Sounds just as awful to the untrained ear."
+Huginn: "_Lorem ipsum dolor sit amet..._"
 
-Huginn: "Fine. But if he starts building a tunnel under Fer-Main’s tent, I’m saying I told you so."
+Muninn: "That's not proper Latin. It's mangled Cicero. Programmers use it as placeholder text."
 
-Muninn: "And if he starts saluting everyone and carrying supplies, I’m making you eat a feather."
+Huginn: "Exactly! Even programmers know Latin makes things sound important!"
 
 ---
 
@@ -278,18 +278,46 @@ _So sayeth the Road._
 
 ---
 
-Huginn: "Do you think we could get _Fer-Main_ to forge us a requisition for a new brother? We need a third raven."
+Huginn: "I've been working on my own letter. It's time I read it."
 
-Muninn: "If you’re the Mind, and I’m the Memory, what would our other brother be?"
+Muninn: "Oh, this should be good..."
 
-Huginn: "Tay."
+Huginn: "Dear Most Reverend Office of the All-Father..."
 
-Muninn: "Tay?"
+Muninn sighed.
 
-Huginn: "Short for tay-kout."
+Huginn: "...We, the humble flock of the Church of Perpetually Hungry Ravens..."
 
-Muninn: "But what would be his specialty? His reason for existing? What would the All-Father task him with?"
+Muninn: "No."
 
-Huginn: "Food delivery. Geri and Freki are always starving for lunch."
+Huginn: "...write from the edge of the world."
 
-Muninn: "Fine. I'll put in my order after I put you in the ditch."
+Huginn: "...where a tragic shortage of bodies has afflicted our parish."
+
+Muninn: "Huginn..."
+
+Huginn: "...Our congregation consists of one exceptionally handsome raven..."
+
+Muninn: "Incorrect."
+
+Huginn: "...one grumpy translator..."
+
+Muninn: "Accurate."
+
+Huginn: "... and an eyeball we affectionally call Brother Steve ..."
+
+Huginn: "... He has lost his hands and feet... "
+
+Huginn: "... and is desperately wanting to become a drummer again ..."
+
+Huginn: "... We ask that you help us ..."
+
+Huginn: "... in guiding Steve... back to his ... vocation. Amen."
+
+Muninn stared at Huginn for a very long time.
+
+Then he looked down at the imaginary parchment in his claws.
+
+He sighed.
+
+Muninn: "Now where can I stamp this thing so we can _please_ get back to the story!"

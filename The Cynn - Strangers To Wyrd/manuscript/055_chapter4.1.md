@@ -166,15 +166,15 @@ My sin is not the spilt blood of sheep. My sin is that I'm abandoning the wolves
 
 The heavy, weeping weight of the shepherd's confession vanished in a heartbeat, replaced by a glint in the old man's weathered eyes. The shepherd continued, his voice steadying as if telling an ancient tale.
 
-"There is a final curse I must mention. I saw it in the night. It was a flight of both light and dark in the sky, of black wings and spectral clouds. It sounded as a wolf howl and a rattle of bones. It was a Hate... a Wodhere... from the Old Times."
+"There is a final curse I must mention. I saw it in the night. It was a flight of both light and dark in the sky, of black wings and spectral clouds. It sounded as a wolf howl and a rattle of bones. It was a _Hate_... a _Wodhere_... from the Old Times."
 
-Cynewulf's neck hairs tightened. He needed to know more; this man's soul depended on it. "Describe this Hate, please." His politeness was a ruse, because the revelation hit him hard, like a heavy Bible dropped flat against his palm. Cynewulf steeled his ears for the coming tale.
+Cynewulf's neck hairs tightened. He needed to know more; this man's soul depended on it. "Describe this _Hate_, please." His politeness was a ruse, because the revelation hit him hard, like a heavy Bible dropped flat against his palm. Cynewulf steeled his ears for the coming tale.
 
 But the old man declined. "I've said too much. It was not meant for the living," he said, his breath sighing.
 
-Cynewulf thought hard. What could he possibly do for this man? In the moment of the priest's confusion, the old man leaned in close. With one final, smiling breath, he spoke in perfect Latin: "Memento mei bene."
+Cynewulf thought hard. What could he possibly do for this man? In the moment of the priest's confusion, the old man leaned in close. With one final, smiling breath, he spoke in perfect Latin: "_Memento mei bene_."
 
-Cynewulf was still fumbling for his penitential, trying to look up something — anything — that could give him guidance when the phrase hit like a fresh-struck bell. Remember me well? Cynewulf thought. He snapped his eyes back up, but the grey shepherd had not only gotten up; he was halfway out the door already with his staff. Cynewulf couldn't remember hearing the wood-clack or the shuffle of the shepherd's retreat.
+Cynewulf was still fumbling for his penitential, trying to look up something — anything — that could give him guidance when the phrase hit like a fresh-struck bell. _Remember me well?_ Cynewulf thought. He snapped his eyes back up, but the grey shepherd had not only gotten up; he was halfway out the door already with his staff. Cynewulf couldn't remember hearing the wood-clack or the shuffle of the shepherd's retreat.
 
 That last confession struck him as odd. Trained wolves? Who was this shepherd? How is it he came to know Latin, when he could barely speak English? "He probably overheard one of the priests speaking in Latin," he thought, easing his mind. "The old man was probably obsessing over this bit of Latin as he tended his flock. That's how he perfected the pronunciation. It's nothing." Cynewulf had tried to put the confession out of mind, but it stayed with him the rest of his days.
 
@@ -194,7 +194,7 @@ Cynewulf was incensed. How dare these... creatures... invade our sanctum? The ra
 
 Cynewulf stood and watched as the floor of his priest-home pooled with blood. He peered through the doorway, and saw that the _Ulfhednar_ boy had been carrying a small chest of loot, set cleanly on the ground. He looked back at what he had done. With exhilaration. He saw the chest of silver. He saw how easily he had bested the _Ulfhednar_. His arm was bell-strong and he was already wearing the retired thegn's chain-shirt byrnie. He told the children in the closet to run. They scurried out the door, and his mind began to race.
 
-Cynewulf took the shield and axe. He grabbed a few valuable items off the table, and the chest on the ground. And he ran. He was tired of the hum-drum work of the church. He was tired of pinching coin when he could be grabbing it by the handfuls. He never got to see the world, but heard so many stories about it from the confessions. Living cloistered on church grounds, he longed to see the open road. He decided to become a mercenary. He could learn the soldier-trade, and easily had enough money to get started.
+Cynewulf took the shield and axe. He grabbed a few valuable items off the table, and the chest on the ground. And he ran. He was tired of the hum-drum work of the church. He never got to see the world, but heard so many stories about it from the confessions. Living cloistered on church grounds, he longed to see the open road. He decided to become a mercenary. He could learn the soldier-trade, and easily had enough money to get started.
 
 He left Leicester, keeping to himself as he scurried under the weight of the silver. He knew that pawning it in the city would be scorn-folly; his new life had to begin elsewhere. In time, the town would forget his name. Perhaps, in their minds, he was merely a lamb sacrificed to the wolves that day.
 

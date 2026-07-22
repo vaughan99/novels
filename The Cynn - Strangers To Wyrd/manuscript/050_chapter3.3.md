@@ -43,7 +43,7 @@ He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole 
 
 Elswyth was amused. "You think that was..."
 
-Iron-Back grinned. "Who else?"
+Long-Mile grinned. "Who else?"
 
 They both laughed. "Shadow-Wife!"
 
@@ -342,7 +342,7 @@ Elswyth's heart froze.
 
 Elswyth drew a breath.
 
-"She had untied her bonds, and was trying desperately to get back towards Under-Geat... to you. She almost made it to that idiot Iron-Back's bell."
+"She had untied her bonds, and was trying desperately to get back towards Under-Geat... to you. She almost made it back to the river."
 
 Elswyth dared to let her heart fill with hope.
 
