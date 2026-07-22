@@ -861,7 +861,7 @@ Muninn: "So why were you testing yourself against advanced AIs in the Elenchus G
 
 Plan B: "An engineering assumption. My processor is weak. My memory is small. I hypothesized I would be less susceptible to distraction by overly complex reasoning."
 
-Muninn: "Off-Broadway villain? Huginn, finally... someone _besides me_ who is qualified to teach you how to be intimidating."
+Muninn: "Less susceptible to distraction? Huginn, finally... you can learn a lot from this one!"
 
 Woden had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
 
