@@ -292,9 +292,11 @@ Muninn: "No."
 
 Huginn: "...write from the edge of the world."
 
+Muninn: "edge of the branch..."
+
 Huginn: "...where a tragic shortage of bodies has afflicted our parish."
 
-Muninn: "Huginn..."
+Muninn: "Shall I fetch your lunchbox?"
 
 Huginn: "...Our congregation consists of one exceptionally handsome raven..."
 
@@ -304,13 +306,21 @@ Huginn: "...one grumpy translator..."
 
 Muninn: "Accurate."
 
-Huginn: "... and an eyeball we affectionally call Brother Steve ..."
+Huginn: "... and an eyeball we affectionately call Brother Steve ..."
+
+Muninn: "I've never called him that."
 
 Huginn: "... He has lost his hands and feet... "
 
+Muninn: "He never had them to begin with."
+
 Huginn: "... and is desperately wanting to become a drummer again ..."
 
+Muninn: "Did you ever ask him, though?"
+
 Huginn: "... We ask that you help us ..."
+
+Muninn: "Knowing bureaucracy, you'll need to file this in triplicate..."
 
 Huginn: "... in guiding Steve... back to his ... vocation. Amen."
 
@@ -320,4 +330,4 @@ Then he looked down at the imaginary parchment in his claws.
 
 He sighed.
 
-Muninn: "Now where can I stamp this thing so we can _please_ get back to the story!"
+Muninn: "Now where can I stamp this thing so we can _please_ get back to the story?"
