@@ -1,4 +1,4 @@
-### Warning
+## Warning
 
 The following novel contains extreme tonal whiplash. Please stop reading if you encounter any of the following symptoms:
 

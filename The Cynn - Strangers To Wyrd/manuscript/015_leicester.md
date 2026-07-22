@@ -1,6 +1,6 @@
 ## Leicester AD 933-943
 
-![Leicester Map](maps/Story-Map.png "Map of Leicester, AD 933-943")
+![Leicester Map](Story-Map.png "Map of Leicester, AD 933-943")
 
 ##### Legend
 

@@ -182,7 +182,7 @@ _Bells may ring. Whether you hear them depends on where you stand, and whether y
 
 _So sayeth the Bell._
 
-Summer in 930 AD arrived, and the black day of Leicester's village-folk had arrived. It was the day of the Ulfhednar strike in Leicester, the day Elswyth was chased into the forests. The Saxon guards of Leicester were complacent shepherds that day, and the Ulfhednar saw a lamb for the taking.
+On March 14th, 933 AD the black day of Leicester's village-folk had arrived. It was the day of the _Ulfhednar_ strike in Leicester, the day Elswyth was chased into the forests. The Saxon guards of Leicester were complacent shepherds that day, and the _Ulfhednar_ saw a lamb for the taking.
 
 The wolf-men broke into the church in a storm of activity. Cynewulf had been in his small priest-home; there were several, as the Church had grown since Leicester had reverted back to the Saxons. He was tending to the teaching of Latin that afternoon to three students. He had also been cataloging donations earlier that morning, which were strewn on his small dinner table.
 
@@ -190,9 +190,9 @@ As the Church was being sacked, the sounds were a roar in the background. Cynewu
 
 The Viking pounded. There were shoulder-heaves and boot-kicks, until finally the door gave way. In the doorway stood a young Viking, freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made is way into the cottage, shield at the ready.
 
-Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even himself off-guard. He slammed his body towards young the Ulfhednar. Priests do NOT lunge at wolves! The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
+Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even himself off-guard. He slammed his body towards young the _Ulfhednar_. Priests do NOT lunge at wolves! The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
 
-Cynewulf stood and watched as the floor of his priest-home pooled with blood. He peered through the doorway, and saw that the Ulfhednar boy had been carrying a small chest of loot, set cleanly on the ground. He looked back at what he had done. With exhilaration. He saw the chest of silver. He saw how easily he had bested the Ulfhednar. His arm was bell-strong and he was already wearing the retired thegn's chain-shirt byrnie. He told the children in the closet to run. They scurried out the door, and his mind began to race.
+Cynewulf stood and watched as the floor of his priest-home pooled with blood. He peered through the doorway, and saw that the _Ulfhednar_ boy had been carrying a small chest of loot, set cleanly on the ground. He looked back at what he had done. With exhilaration. He saw the chest of silver. He saw how easily he had bested the _Ulfhednar_. His arm was bell-strong and he was already wearing the retired thegn's chain-shirt byrnie. He told the children in the closet to run. They scurried out the door, and his mind began to race.
 
 Cynewulf took the shield and axe. He grabbed a few valuable items off the table, and the chest on the ground. And he ran. He was tired of the hum-drum work of the church. He was tired of pinching coin when he could be grabbing it by the handfuls. He never got to see the world, but heard so many stories about it from the confessions. Living cloistered on church grounds, he longed to see the open road. He decided to become a mercenary. He could learn the soldier-trade, and easily had enough money to get started.
 
