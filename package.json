@@ -8,7 +8,8 @@
     "build": "node compiler/src/build.mjs",
     "build-cynn": "npm run build -- \"The Cynn - Strangers To Wyrd\"",
     "build-all": "npm run clean && npm run build-cynn",
-    "clean": "rm -fr ./build/*"
+    "clean": "rm -fr ./build/*",
+    "split-md": "node compiler/src/split-md-file.mjs"
   },
   "dependencies": {
   },

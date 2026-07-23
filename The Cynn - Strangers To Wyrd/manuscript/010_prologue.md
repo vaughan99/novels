@@ -20,11 +20,11 @@ Muninn: "I told that story last week, remember? Pick again!"
 
 Huginn tilted his head, a single dark eye gleaming with a sharp calculation that vanished the instant his beak opened.
 
-"Wait," Huginn chirped innocently. "What about the one where... oh, what was it? There were these humans on a road. They got stuck in the mud. There was more mud... and then they were punked... in the mud?"
+"Wait," Huginn chirped innocently. "What about the one where... oh, what was it? There were these humans on a road. They got stuck in the mud. And the Boss gave them stuff."
 
-Muninn snorted, his feathers ruffling with immediate, superior irritation. "You absolute bird-brain. That wasn't a simple mud-stuck caravan! That was 943 at the Jewry Wall! Always the slaughter with you, always the murderiness hidden beneath a bog!"
+Muninn snorted, his feathers ruffling with immediate, superior irritation. "You absolute bird-brain. That wasn't a simple mud-stuck caravan! That was 943 just outside Leicester! Always the slaughter with you, always the murderiness hidden beneath a bog!"
 
-Huginn: "Ohhh, NOW I REMEMBER! That was the day the Boss gave that guy the Ride of his life!"
+Huginn: "Ohhh, NOW I REMEMBER! ... Leicester, mud, wolves, three important humans, other less important humans, ruins, mayhem, giant reveals, _spectacular mayhem_, and laundry."
 
 Muninn nodded arrogantly and turned to the park. "Listen well children. Commit this to mind and memory, for it is a tale of ..."
 
