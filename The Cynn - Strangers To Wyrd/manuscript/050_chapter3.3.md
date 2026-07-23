@@ -1,5 +1,3 @@
-## Chapter Three: The Tale of the Coal-wise Apprentice
-
 ### Part Three: The Feast Day
 
 Years passed in _Under-Geat_.

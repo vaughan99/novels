@@ -1,23 +1,16 @@
-import { execFile } from "node:child_process";
+import { mkdir } from "node:fs/promises";
+import { exec } from "node:child_process";
 import { promisify } from "node:util";
 import path from "node:path";
 
-const exec = promisify(execFile);
+const execP = promisify(exec);
 
-export async function renderHtml(markdownFile, buildDirectory, novel) {
+export async function renderHtml(buildDir, mdFile) {
+    const command = `pandoc --resource-path=. --standalone --from=gfm --to=html5 --output=novel.html --embed-resources --standalone --verbose novel.md`;
+    console.log(`Rendering HTML using command:\n${command}`);
 
-    const htmlFile = path.join(
-        buildDirectory,
-        novel + '.html'
+    await execP(
+        command,
+        { cwd: buildDir }    
     );
-    console.log(`Rendering HTML to ${htmlFile}`);
-
-    await exec("pandoc", [
-        markdownFile,
-        "--standalone",
-        "--from=gfm",
-        "--to=html5",
-        "--output",
-        htmlFile
-    ]);
 }

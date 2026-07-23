@@ -1,6 +1,4 @@
-## Chapter 5: The Blades
-
-### Part2: The Cynn
+### Part Two: The Cynn
 
 Deep in the heart of Leicester, behind the Jewry wall, lies the tall stone home of ancient giants. The Romans built their walls high - so high that the townsfolk were convinced that they were giants indeed. The home is free of human souls now, or so most people think as they pass by the crumbling arches in the dusk. The townsfolk cross themselves and quicken their pace, believing the red-brick vaults may hold more than just stagnant rainwater and the memory of the dead.
 

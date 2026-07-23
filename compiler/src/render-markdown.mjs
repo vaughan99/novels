@@ -1,10 +1,11 @@
+import { mkdir } from "node:fs/promises";
 import { writeFile } from "node:fs/promises";
 import path from "node:path";
 
-export async function renderMarkdown(manuscript, buildDirectory, novel) {
+export async function renderMarkdown(manuscript, buildDir) {
     const mdFile = path.join(
-        buildDirectory,
-        novel + '.md'
+        buildDir,
+        'novel.md'
     );
     console.log(`Rendering manuscript MD to ${mdFile}`);
 

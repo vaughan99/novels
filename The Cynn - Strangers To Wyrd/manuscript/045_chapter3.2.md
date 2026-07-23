@@ -1,5 +1,3 @@
-## Chapter Three: The Tale of the Coal-Wise Apprentice
-
 ### Part Two: The In-Between
 
 The training began exactly as he promised, though it was nothing like the songs he had sung over the stew. It was a brutal, rhythmic education in the art of disappearing and collecting.

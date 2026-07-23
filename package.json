@@ -7,7 +7,7 @@
   "scripts": {
     "build": "node compiler/src/build.mjs",
     "build-cynn": "npm run build -- \"The Cynn - Strangers To Wyrd\"",
-    "build-all": "npm run build-cynn",
+    "build-all": "npm run clean && npm run build-cynn",
     "clean": "rm -fr ./build/*"
   },
   "dependencies": {

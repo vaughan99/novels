@@ -1,5 +1,3 @@
-## Chapter Four: The Tale of the Bell's Deacon
-
 ### Part Three: The Liturgy of the Sword
 
 _There are times when the lessons of the Road are not enough for survival. There are times when you cannot bargain. You cannot run, or hide. You are faced with seconds of frightening decision: whether to draw your sword and risk the ditch. The Road may teach you how to survive the journey, but the Sword teaches you how to survive when you arrive._

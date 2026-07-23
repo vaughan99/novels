@@ -1,6 +1,7 @@
 import { mkdir } from "node:fs/promises";
 import path from "node:path";
 
+import { copyAssets } from "./copy-assets.mjs";
 import { readManuscript } from "./read-manuscript.mjs";
 import { renderMarkdown } from "./render-markdown.mjs";
 import { renderHtml } from "./render-html.mjs";
@@ -14,15 +15,17 @@ async function build() {
     }
 
     const manuscriptDir = path.join(novel, "manuscript");
-    const buildDir = "./build";
+    const buildDir = `./build/${novel}`;
 
     await mkdir(buildDir, { recursive: true });
 
+    await copyAssets(novel, buildDir);
+
     const manuscript = await readManuscript(manuscriptDir);
 
-    const markdownFile = await renderMarkdown(manuscript, buildDir, novel);
+    const mdFile = await renderMarkdown(manuscript, buildDir);
 
-    await renderHtml(markdownFile, buildDir, novel);
+    await renderHtml(buildDir, mdFile);
 
     console.log("Done.");
 }

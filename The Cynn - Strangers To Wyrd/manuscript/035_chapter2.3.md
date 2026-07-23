@@ -1,5 +1,3 @@
-## Chapter Two: The Tale of the Hearth-Warm Fyrdman
-
 ### Part Three: The Feared
 
 For the next few days, Osric was resigned to living with a monster - which is easier, if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.

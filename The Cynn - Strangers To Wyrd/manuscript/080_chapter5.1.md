@@ -1,6 +1,6 @@
-## Chapter 5: The Blades
+## Chapter Five: The Blades
 
-### Part 1: The Debate
+### Part One: The Debate
 
 Woden met Freyr high in the summer air, looking down upon the patchwork fields of the Danelaw. Mortals were going about their daily lives. They could see every detail: the thin blue smoke of charcoal kilns rising from the eaves of Charnwood, the slow crawl of oxen pulling plows through the heavy Midland clay, and the sharp, square towers of stone churches rising where sacred oak groves had once stood.
 

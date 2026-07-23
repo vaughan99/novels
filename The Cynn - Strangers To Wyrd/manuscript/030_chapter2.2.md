@@ -1,5 +1,3 @@
-## Chapter Two: The Tale of the Hearth-Warm Fyrdman
-
 ### Part Two: The Bowl
 
 The nisse waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
