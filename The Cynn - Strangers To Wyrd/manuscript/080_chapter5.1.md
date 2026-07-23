@@ -111,7 +111,7 @@ Woden: "Why do you say that?"
 
 Freyr: "You look for certainty, I look for patterns. Cynewulf works hard at his bell-forge. He seems smart and able. He lacks temperament and experience. Men like him usually discover what they must to survive."
 
-Woden: "There is a fourth, whose convergences I have seen from the day of his birth. And this is where the opportunity lies. His name is Wolfhere. He is a strong believer in my cult. By the time the convergence comes, he will be leader of my wolves."
+Woden: "There is a fourth, whose convergences I have seen from the day of his birth. And this is where the opportunity lies. His name is Wulfhere. He is a strong believer in my cult. By the time the convergence comes, he will be a leader of my wolves."
 
 Freyr's eyes widened a bit.
 
@@ -127,11 +127,11 @@ Freyr: "What exactly are you suggesting?"
 
 Woden: "_Wyrd_ is losing its hold, and yet I cannot see how these mortals perceive that loss. And knowing how mortals perceive _wyrd_ now may yet be... informative.
 
-These three have different relationships to the _Christ_. Osric's faith is occasional and transactional. It is born out of necessity more than true devotion. He would just as quickly abandon it to worship you if he thought that meant more rain. Elswyth's family's faith is driven more by intent, but they still hold to pagan beliefs... your forge-elves to be precise. And Cynewulf, he was born into his faith and lives it... for now.
+These three have different relationships to the _Christ_. Osric's faith is occasional and transactional. It is born out of necessity more than true devotion. He would just as quickly abandon it to worship you if he thought that meant more rain. Elswyth's family's faith is driven more by intent, but they still hold to pagan beliefs... your forge-elves to be precise. They would not dare mention it, but I see an obsession there. And Cynewulf, he was born into his faith and lives it... for now.
 
 Each one of them, if they were to meet my wolves in battle, would almost certainly die."
 
-Woden studied the camps of his cults, looking at each Ulfhednar individually.
+Woden studied the camps of his cults, looking at each wolf individually.
 
 Woden: "What I'm about to suggest pains me more than you can ever imagine."
 
@@ -297,7 +297,7 @@ Muninn: "Can we just stop arguing for a moment?"
 
 Huginn: "I think I found a Truth."
 
-Muninn: "And what would that be."
+Muninn: "And what would that be?"
 
 Huginn: "I can beat you into submission."
 

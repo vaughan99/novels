@@ -10,7 +10,13 @@ A magic weapon would not simply change a battle. It should change the person car
 
 That, to me, feels much closer to the way magical objects appear in mythology and folklore. Their power is not merely physical. Their power is social, spiritual, and psychological. They reshape the world around their owners long before they ever reshape a battlefield.
 
-One of the first stories that forced me to think about this was Michael Moorcock's _Stormbringer_. The sword fascinated me not because it was powerful, but because it came with a cost. And it was sentient. It altered the life of its owner, reshaped his choices, and eventually became impossible to separate from his identity. It was one of the first magical weapons I encountered that felt less like equipment and more like a problem. Looking back, I suspect that realization stayed with me. The most interesting magical objects were never the ones that guaranteed victory. They were the ones that made me question whether using them was a good idea in the first place.
+The obvious one was _Excalibur_. Reading about King Arthur's entry in a fantasy RPG game book and having that blade be reduced to a number of statistics was less than wondrous.
+
+Another story that forced me to think about this was Michael Moorcock's _Stormbringer_. The sword fascinated me not because it was powerful, but because it came with such a terrible cost. It was sentient. It altered the life of its owner, reshaped his choices, and eventually became impossible to separate from his identity.
+
+It was one of the first magical weapons I encountered that felt less like equipment and more like a character in its own right—something its owner had to reckon with rather than simply wield. Looking back, I suspect that realization stayed with me.
+
+The most interesting magical objects were never the ones that guaranteed victory. They were the ones that made me question whether using them was a good idea in the first place.
 
 If a blade genuinely housed a spirit, what would its owner believe about it? If a sword were associated with divine judgment, would its wielder feel honored or terrified? If a weapon carried a curse, how long would it take before the owner began wondering whether every misfortune was somehow connected to it? The most interesting magic, at least to me, has never been about power. It has been about consequences. A magical weapon should not merely solve problems. It should create new ones.
 
@@ -22,7 +28,7 @@ The three blades at the heart of this story emerged from these ideas. The blades
 
 I started with commissioning my first blade, "Fyrleoht." I researched enough Old English to know what to call it. I gave it an oath too, which turned out to be only 80% correct Old English. "Geboren of fyr, Geawacen be willan." The intent was: "Born of fire, Awakened by the will". I envisioned it was a simple blade. It merely reflected firelight from the campfire better than most. Perhaps it isn't even a "magical" blade, just better polished. By virtue of the oath that was inscribed, the wielder felt like the blade had a little agency. And maybe that's what a +1 weapon is... not just a statistic that adds a point to a die roll, but something that gives the wielder a bit of extra confidence.
 
-Imagine a guard standing watch. He pulls out "Fyrleoht" to sharpen it by the campfire, and the dancing fire in the blade's surface effectively says: "I see you. That fire is lighting your environment. You're not alone here. Stand watch with me." Not literally of course. That would be a blade of fiery ventriloquism +1, which could be interesting, but that's not the point. It's the confidence that gets him through the night.
+Imagine a guard standing watch. He pulls out "Fyrleoht" to sharpen it by the campfire, and the dancing fire in the blade's surface effectively says: "I see you. You're not alone here. Stand watch with me." Not literally of course. That would be a blade of fiery ventriloquism +1, which could be interesting, but that's not the point. It's the confidence that gets him through the night.
 
 My ideas of Wodbora started as: "What if a sword demanded that you save your soul in order to unlock its ultimate feature, one that unleashes pure chaos? Oh, and you can't tell anybody about it. Oh, and as part of your confession, you have to bid a penance for your sin that might get rejected?" That was the "what" of the blade: the effect. But that's incomplete. What really mattered was the "who" and the "why." Before I could answer those questions, I wanted a stable of three blades. That seemed like the beginning of a more complete mythology.
 
@@ -32,12 +38,11 @@ Monanleoht: "What if prowess in battle cost you your sanity, and using it meant 
 
 Barrow-Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a broken farmer, also in the middle of a Brothers Grimm-styled folk horror story, going into battle.
 
-As the story grew, I realized that some mythic powers really demand a mythic commissioner. Enter Woden and Freyr. Woden has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
+As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Woden and Freyr. Woden has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
 
 Looking at the crossroads of the Danelaw at the time, I envisioned Woden having an existential crisis. He is losing followers. Both families of Scandinavian gods - the Aesir and the Vanir - are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Woden to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarok... only for Ragnarok not to be inevitable after all. At some point, Woden - being the god of wisdom - would want answers. How do you test fate? How do you test how humans perceive fate? What we find is that Woden isn't testing humanity; he's testing himself.
 
-
-This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one. Everything else followed from that.
+This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 unholy vortex-summoner of doom called _Wodbora_. Everything else followed from that.
 
 ---
 ### Who Are The Cynn, Really?
@@ -54,58 +59,40 @@ That is what the Cynn really are: craft joined to mythmaking, and having fun doi
 
 #### The Church, The Shadow Gate and Under-Geat
 
-There is a historical record of the existence of a Church of St. Augustine and St. Columba in the early 10th century. The record is vague as to its placement, saying it was near the Roman Forum. During the Norman period, that church disappears from the record, and the Church of St. Nicholas was erected next to the Jewry wall. It stands today. One implication that seems likely is that the Church of St. Nicholas was built on top of the Church of St. Augustine and St. Columba, either re-using the existing footprint, or having first torn down the old church.
+Historical records attest to the existence of a Church of St. Augustine and St. Columba in the early 10th century. The record is vague as to its placement, saying it was near the Roman Forum. During the Norman period, that church disappears from the record, and the Church of St. Nicholas was erected next to the Jewry wall. It stands today. One implication that seems likely is that the Church of St. Nicholas was built on the same site. Whether it used the existing church as a basis, or was built anew from the old church's foundations was not of interest.
 
 For the purposes of the novel, I place the church exactly where the Church of St. Nicholas is today.
 
 Another one of the larger narrative liberties taken in _The Cynn_ concerns Leicester's southwestern corner. In the novel, this area is occupied by the Church protectorate of **Under-Geat**, entered through the fictional **Shadow Gate**. The Roman wall here is portrayed as badly deteriorated, with long stretches of masonry replaced by timber palisades and simple repairs. While neither Under-Geat nor the Shadow Gate are historical places, they were created to explain a landscape that would soon change dramatically.
 
-Within little more than a century of the novel's events, the Normans transformed this quarter of Leicester. The area became the site of Leicester Castle and, later, the fortified precinct known as the Newarke. These substantial works suggest that the southwest corner of the city was important enough to renovate. Rather than imagining those fortifications appearing on pristine Roman defenses, I found it more compelling to imagine that they were built in response to centuries of decline. By 943, nearly five hundred years had passed since the Roman administration had left Britain. It seemed unlikely that every section of Leicester's walls would have remained equally well maintained.
+Within little more than a century of the novel's events, the Normans transformed this quarter of Leicester. The area became the site of Leicester Castle and, later, the fortified precinct known as the Newarke. These substantial works suggest that the southwest corner of the city was important enough to renovate, and indeed was in need of renovation. Rather than imagining those fortifications appearing on pristine Roman defenses, I found it more compelling to imagine that they were built in response to centuries of decline. By 943, nearly five hundred years had passed since the Roman administration had left Britain. It seemed unlikely that every section of Leicester's walls would have remained equally well maintained. With the river nearby, the method of failure seemed obvious... a muddy embankment and a sliding foundation.
 
 The Roman walls undoubtedly continued to provide an imposing barrier, but they were also an invaluable source of dressed stone for generations of builders. In _The Cynn_, the Church has inherited much of the former Roman civic quarter and quietly repurposes its ruins. Stone becomes churches, grave markers, and foundations; damaged stretches of wall are bridged with timber rather than rebuilt in costly masonry. This vision is speculative, but it attempts to reconcile the Roman city's gradual decay with the extensive rebuilding undertaken after the Norman Conquest. The fictional Shadow Gate thus serves not only as the entrance to the Church's _frith_, but also as a symbol of a city suspended between the fading world of Rome and the fortified medieval town that would follow.
 
-Finally, there was question as to the placement of the Seige of Leicester itself. Unfortunately, there is little record of the battle. It is not known definitively whether the outer walls were breached. It was only surmised that King Olaf and bishop Wulfstan were under duress; enough to want to flee the city even as the peace was read.
-
-My assumption was that, if Jewry wall and bathhouses were actively being mined for stone, then the church was fairly influential. I found it plausible that a church influential enough to oversee the quarrying and reuse of Roman masonry would have required a sizeable precinct including a protectorate for its workforce. That became the Old Frith, Yardworks, etc. and Under-Geat.
-
-In the context of a possibly failing southwestern wall, and with one of their parish priests having disappeared (Cynewulf), I made a narrative choice to have the Church hierarchy behave in a certain fashion. Originally, Leicester had its own bishop. However, the bishopric of Leicester fell apart in the 9th century with the political upheaval of the Danelaw. When the Saxons obtained Leicester once more, the bishopric of Leicester was handed to Wynsige, the Bishop of Dorchester. The interesting thing about Wynsige is that he died around the Siege of Leicester, 942-943 AD.
-
-I decided to use his assignment over Leicester as a subtle plot device. If he had access to a Benedictine priest, someone well traveled with a workman-like disposition, he could install that priest in Leicester right next to the Jewry wall. In that position, this priest, Father Matteo, would turn the crumbling architecture into a business. Father Matteo would be motivated to repair the southwestern wall. But, I made a narrative choice to cast Wynsige as a corrupt politician, who redirected the work of Matteo to have the stone sent in different directions, to effectively buy influence through the town. The southwestern wall never got repaired. Then Wynsige dies. This becomes interesting in the next section.
-
-#### Leicester and the Peace of 943
-
-The events of _The Cynn_ take place against the backdrop of a real historical conflict. Following the death of King Æthelstan in 939, political authority in England entered a period of uncertainty. Olaf Guthfrithson, ruler of Dublin and York, moved quickly to exploit the situation. In 940, his forces pushed deep into Mercia, attempting to reassert Scandinavian influence over territories that had been contested for generations. The campaign ultimately culminated in Leicester, one of the Five Boroughs of the Danelaw and one of the most strategically important settlements in central England.
-
-Unfortunately, the surviving historical sources provide only fragments of the story. Medieval chroniclers were often more interested in recording victories, royal successions, and divine providence than explaining logistics, supply, or the day-to-day realities of campaigning. As a result, historians can reconstruct only the broad outline of events. Olaf advanced aggressively into Mercia. Resistance hardened. Leicester became the focal point of the campaign. By 943, both sides found themselves confronting the possibility of a prolonged and costly conflict. The year is contested, as the historical record seems to be a bit hazy.
-
-For narrative purposes, I had some decisions to make. I decided it reasonable to assume that Olaf wanted to push as far south as he could from York before winter set in. So, I had him take Leicester in the fall of 942 AD, for Leicester to be sieged in the spring of 943 AD by the Saxons.
-
-Considering the narrative choice to create the Old Frith, the Shadow Gate, and the hamlet of Under-Geat, I became interested in the tension such a landscape would create around the siege itself. If the Church maintained a protected precinct outside the city's principal line of defense, both sides of a siege would face difficult choices. I could imagine Bishop Wulfstan urging King Olaf to keep his warriors clear of the Church's lands, lest Archbishop Oda feel compelled to declare that the Church's _frith_ had been violated. Likewise, I imagined Oda honoring that peace for as long as possible, only consenting to an assault through the Church's protectorate when every other option had failed. None of this is recorded history. It is, however, the sort of political and spiritual dilemma that seemed entirely at home in tenth-century England, where kings, bishops, and abbots exercised overlapping authorities and where the sanctity of ecclesiastical land was a matter of genuine consequence.
-
-The historical sources record that the siege ended with a negotiated peace and that King Olaf and Bishop Wulfstan departed Leicester soon afterward, but they say almost nothing about the circumstances surrounding that agreement. I found it plausible that a temporary truce might have preceded the formal peace, giving both sides an opportunity to negotiate while Olaf quietly prepared his withdrawal. If so, the North Gate or East Gate seem the most likely avenues of escape, allowing Olaf's forces to leave the city before the Saxon army fully occupied it.
-
-I imagined that a temporary truce would have been called the night before, enough to have Oda and Wulfstan bargain with one another. During the truce, I imagined quiet preparations being made by Olaf to make a quick exit, perhaps through a gate he still controlled. In this scenario, the North and East gates seem likely exit points for him and Wulfstan immediately after the peace was signed. 
-
-The peace that was negotiated was very interesting, and very unorthodox. 
-
-For modern readers, it is tempting to imagine warfare primarily in military terms. Medieval rulers certainly thought about strategy and fortifications, but they were equally constrained by factors that rarely appear in battle narratives. Armies were supported by fields, livestock, wagons, and labor. Most fighting men were not professional soldiers. They were farmers temporarily called away from their homes. Every week spent campaigning was a week not spent repairing winter damage, preparing fields, or planting crops. The agricultural calendar was often as powerful as any king.
-
-This reality is particularly important for understanding the negotiated peace. Both sides had reasons to continue the struggle, yet both also faced mounting pressure to return men to the land. The years preceding the settlement appear to have been marked by unusually severe winters. Evidence suggests that volcanic activity in Iceland contributed to a period of climatic disruption between 940 and 942, bringing colder weather and poor harvests across parts of northern Europe. Hunger and uncertainty made the arrival of spring labor increasingly urgent. Delaying planting could threaten not only individual households, but entire communities. While kings pursued political objectives, reeves, bishops, and local leaders were forced to confront a simpler question: how long could ordinary people afford to remain at war?
-
-The resulting settlement was unusual. Rather than decisively resolving the political dispute, it effectively postponed it. The agreement granted Olaf possession of the Five Boroughs under conditions tied to the survival of both rulers. To modern eyes, the arrangement can appear strangely temporary. To contemporaries, it may have represented a practical acknowledgment that neither side possessed the resources or the will to secure a decisive outcome at that moment. The peace did not eliminate the underlying conflict. It merely delayed its next chapter.
-
-History would ultimately render the agreement short-lived. Olaf died within the year, and the political landscape shifted once again. Yet this brevity is precisely what makes the moment so interesting. The peace existed during a narrow window in which competing futures remained possible. Neither side knew how events would unfold. The people living through the settlement could not see the outcome that later generations would regard as inevitable.
-
-This uncertainty is central to the novel. The characters inhabit a world poised between possibilities. The Danelaw remains politically contested. Religious identities remain fluid. Old loyalties coexist with emerging institutions. A farmer from Northumbria may find himself fighting in Mercia. A priest may carry assumptions inherited from older traditions. A Danish household may participate in Christian festivals while preserving customs brought across the North Sea. The peace of 943 serves as a fitting backdrop because it embodies the same uncertainty explored throughout the story.
-
-For this reason, the siege itself is less important than the conditions it created. The novel does not take place at the end of an age, nor fully within a new one. It takes place during the brief and unstable interval between them. Leicester provides the historical setting for that transition. The deeper story concerns how people navigate a world whose future remains unresolved.
+Under-Geat arose from a simple observation. A church standing beside what amounted to a Roman stone quarry—and, in many respects, a quarry of relics—would likely accumulate considerable wealth and influence. The needs of such a minster would naturally foster its own supporting economy. Under-Geat and the Old Frith are my attempt to imagine that ecosystem.
 
 ---
-#### A Note About Personal Philosophy
+#### Leicester and the Peace of 943
 
-The cosmology and the focus on _wyrd_ arise from the worldview of tenth-century England, the influence of *The Cynn*, and the assumptions held by many of the story's characters. They are not presented as unquestioned truths, but as ideas that are themselves subject to scrutiny.
+The events of _The Cynn_ take place against the backdrop of a real historical conflict. Following the death of King Æthelstan in 939, political authority in England entered a period of uncertainty. Olaf Guthfrithson, ruler of Dublin and York, moved quickly to exploit the situation. His campaign into Mercia culminated in Leicester, one of the Five Boroughs of the Danelaw and one of the most strategically important settlements in central England.
 
-_Wyrd_ is not part of my personal philosophy, but it is an interesting concept to explore. Modern traditions and ways of thinking have been shaped by many influences over time; _wyrd_ is one of them. Like many of the ideas found in this book, it offers a different lens through which to consider questions of choice, responsibility, and circumstance.
+Unfortunately, the surviving historical sources provide only fragments of the story. Medieval chroniclers were often more interested in recording victories, royal successions, and divine providence than explaining logistics, supply, or the day-to-day realities of campaigning. We can reconstruct the broad outline of events—Olaf advanced into Mercia, resistance hardened, and Leicester became the focal point of the campaign—but little more. Even the precise chronology remains debated. For the purposes of the novel, I chose to place Olaf's capture of Leicester in the autumn of 942 and the Saxon siege in the spring of 943.
+
+There is almost no surviving description of the siege itself. No troop numbers. No battle lines. No account of assaults or defenses. The novel therefore invents the siege, but only because the peace that followed is unusually well documented.
+
+That freedom allowed me to build the siege around the fictional landscape of Under-Geat, the Shadow Gate, and the Church's protectorate. If the Church maintained a protected precinct outside the city's principal line of defense, both sides would face difficult political and spiritual choices. I imagined Bishop Wulfstan urging King Olaf to keep his warriors clear of the Church's lands, lest Archbishop Oda declare the Church's _frith_ violated. Likewise, I imagined Oda honoring that peace for as long as possible, consenting to an assault through the Church's protectorate only when every other option had failed. None of this is recorded history. It is, however, the sort of dilemma that seems entirely at home in tenth-century England, where kings, bishops, and abbots exercised overlapping authority and where ecclesiastical land enjoyed genuine legal and spiritual protection.
+
+The historical sources record that Olaf and Bishop Wulfstan departed Leicester soon after the agreement, but say almost nothing about the negotiations themselves. I found it plausible that a temporary truce preceded the formal peace, giving both sides an opportunity to negotiate while Olaf quietly prepared his withdrawal. Whether events unfolded this way can never be known, but it provided a believable framework for the story.
+
+For modern readers, it is tempting to think of medieval warfare primarily in military terms. Contemporary rulers certainly cared about fortifications and battlefield strategy, but they were equally constrained by factors that rarely appear in battle narratives. Armies depended upon fields, livestock, wagons, and labor. Most fighting men were not professional soldiers; they were farmers temporarily called away from their homes. Every week spent campaigning was a week not spent repairing winter damage, preparing fields, or planting crops. The agricultural calendar could be every bit as powerful as a king.
+
+This context is essential to understanding the negotiated peace. Both sides had reasons to continue the struggle, yet both also faced mounting pressure to return men to the land. The years preceding the settlement appear to have been marked by unusually severe winters. Evidence suggests that volcanic activity in Iceland between 940 and 942 contributed to colder weather and poor harvests across parts of northern Europe. Hunger and uncertainty made the arrival of spring labor increasingly urgent. Delaying the planting season threatened not merely armies, but entire communities. While kings pursued political ambitions, reeves, bishops, and local leaders faced a simpler question: how long could ordinary people afford to remain at war?
+
+The resulting settlement was remarkable. Rather than decisively resolving the political dispute, it effectively postponed it. Olaf retained the Five Boroughs under conditions tied to the survival of both rulers. To modern readers the arrangement may appear strangely temporary. To contemporaries, it was likely a practical acknowledgment that neither side possessed either the resources or the will to force a decisive conclusion. The peace did not end the conflict. It merely delayed its next chapter.
+
+History ultimately rendered the agreement short-lived. Olaf died within the year, and King Edmund recovered the Five Boroughs. They remained part of the English kingdom until the Norman Conquest reshaped England once again.
+
+---
 
 #### Living Between Worlds
 
@@ -156,83 +143,74 @@ This novel is not an attempt to preserve Woden unchanged, like an artifact seale
 
 #### Wyrd (And Why It's So Weird)
 
-Modern readers often encounter _wyrd_ translated simply as "fate." While convenient, that translation can be misleading. Today, fate is often imagined as a fixed destination: an unavoidable future waiting at the end of a road. In that view, events are predetermined, and human choices merely create the illusion of freedom. Yet this is not how most people in tenth-century England would have understood _wyrd_. To them, wyrd was neither a script nor a prison. It was something stranger.
+Modern readers often encounter _wyrd_ translated simply as **fate**. While convenient, that translation is misleading. Fate usually suggests a future that has already been written, where every event is predetermined and every choice merely creates the illusion of freedom. That is not how I came to understand _wyrd_ while researching this novel.
 
-The Old English word _wyrd_ is related to ideas of becoming, happening, and unfolding. Rather than describing a predetermined future, it describes the process by which events emerge from the world. A seed becomes a tree. A child becomes an adult. A promise becomes a feud. A kingdom becomes a memory. 
+Instead, I found it more helpful to think of _wyrd_ as **the tendency of the world to unfold in certain ways**. Every choice matters. Every promise, betrayal, friendship, and sacrifice sends ripples through the lives of others. Those ripples interact until they eventually produce moments where many lives naturally converge. _Wyrd_ is less a script than a pattern of consequences stretching through time.
 
-Crucially, _wyrd_ is not a chaotic void; it is a web of patterns. While the future is not a fixed script, it is marked by waypoints of convergence—moments where the threads of the past inevitably pull together to create a new reality. These are the points where the pattern becomes visible, where the consequences of a thousand small choices finally manifest as a single, unavoidable event. _Wyrd_ concerns the manner in which things come to be. It is less a destination than a pattern of consequences stretching through time, a river that may twist and turn, but always flows toward the sea.
+The image that finally made _wyrd_ click for me was not a river, but **gravity**.
 
-While the older Saxon tradition often envisioned _wyrd_ as a singular, inexorable force, the Norse tradition utilized the Norns—a useful metaphor for understanding how that force operates. They did not see _wyrd_ as a book to be read, but as a tapestry to be woven. They saw the lives of men as individual strands—some as fine as a maiden’s hair, others as coarse as hemp—all being pulled into the loom of the world.
+Imagine two people whose lives are destined to intersect. They are free to make countless decisions along the way. They may travel different roads, marry different people, or spend decades apart. Their choices remain real. Yet if their meeting truly belongs to _wyrd_, the world seems to possess a subtle tendency to draw their paths together. They might miss one another today, only to meet years later under entirely different circumstances. The convergence remains; the path toward it is flexible.
 
-These strands are not fixed in place from the start. They twist, they knot, and they fray. But there are moments—these "waypoints of convergence"—where the Norns pull the threads tight. At these points, the pattern becomes undeniable. The individual strands may have had the freedom to wander, but they are ultimately bound to the design of the whole. _Wyrd_ is the tension in those threads. It is the realization that while we may choose the direction of our own strand, we are all part of a weave that is being crafted by forces far older than ourselves.
+This is how I imagine _wyrd_ operating in _The Cynn_. It does not remove free will. Instead, it gently constrains the range of possible futures. Early in life, those possibilities are almost limitless. As time passes and choices accumulate, the number of remaining paths naturally narrows. By the end of life, only a handful of futures remain possible. Whether this truly preserves free will or merely creates its appearance is exactly the sort of question that fascinated medieval thinkers—and one that the novel intentionally leaves unresolved.
 
-People of early medieval England did not generally see fate and choice as opposing forces. A person's decisions mattered enormously. Courage mattered. Loyalty mattered. Oath-breaking mattered. Character mattered. The choices one made would echo outward through family, community, and history. Those consequences became part of _wyrd_. In other words, _wyrd_ was not something imposed upon a person from outside. Human actions participated in its unfolding.
+This distinction becomes even more interesting when viewed from the perspective of the gods.
 
-Imagine standing in a river. The current exists whether you wish it to or not. You did not create the river, nor can you command it. Yet your choices still matter. You may swim with the current, struggle against it, cross it, or be swept away by it. The river places limits upon your freedom, but it does not eliminate it. _Wyrd_ was often understood in much the same way. The world possessed tendencies, patterns, and consequences beyond any individual's control. The question was not whether those forces existed, but how a person should respond to them.
+Mortals possess a finite horizon. Their lives are measured in decades. If _wyrd_ is drawing them toward a future convergence, the pull gradually becomes stronger as the end of life approaches. They feel urgency because time is short.
 
-This perspective helps explain why so many heroes in Old English literature remain morally responsible for their actions. If fate were merely predestination, courage would have little meaning. Yet courage is one of the defining virtues of the age. The hero cannot always choose the circumstances in which he finds himself, but he can choose how he meets them. The measure of a person lies not in escaping _wyrd_, but in confronting it honorably. To a tenth-century audience, this was not a contradiction. It was simply reality.
+The gods, however, experience time differently. In the mythology of _The Cynn_, they do not die of old age. Their horizon is measured not by death, but by Ragnarök itself. If that final convergence lies thousands—or even millions—of years away, the pull of _wyrd_ becomes almost imperceptible. A god possesses nearly limitless freedom in the short term, yet knows that every choice may still contribute to an inevitable end.
 
-Christianity introduced new ways of understanding providence, salvation, and divine will, yet these ideas often blended with older ways of thinking rather than replacing them immediately. The England of the tenth century was a place where older and newer worldviews frequently overlapped. A farmer might attend Mass while still speaking of luck, destiny, and signs. A priest might preach Christian doctrine while understanding the world through concepts inherited from his ancestors. Rather than existing as separate systems, these ideas often occupied the same cultural landscape.
+This is Woden's curse.
 
-This overlap is one reason _wyrd_ can feel unfamiliar to modern readers. We often seek clear boundaries: fate or free will, pagan or Christian, chance or purpose. The people of the tenth century were generally more comfortable living between categories. _Wyrd_ did not require every event to be predetermined, nor did it require the world to be random. It described a reality in which actions, consequences, obligations, relationships, and mysteries were woven together into a larger pattern that no individual could fully comprehend.
+He has spent ages trying to map these convergences. He cannot control them, but he believes he can see many of them. He prepares for them. Plans around them. Worries over them. Ragnarök is not merely a prophecy to him. It is the ultimate convergence toward which history appears to be moving. If he truly understands _wyrd_, then preparing for Ragnarök is not simply wise—it is his responsibility as the All-Father.
 
-That uncertainty lies at the heart of _The Cynn_. Osric, Ealhild, Elswyth, Cynewulf, Freyr, and Woden all wrestle with the same question: how should a person act when they cannot fully understand the pattern in which they are caught? None of them possess perfect knowledge. None can see the whole weave. Yet all must make choices. The answer offered by this story is not that _wyrd_ removes responsibility. Quite the opposite. The inability to see the entire pattern is precisely what makes responsibility meaningful.
+Then something impossible happens.
 
-Perhaps this is why _wyrd_ continues to fascinate modern readers. We may live in a different age, but we face a similar dilemma. We inherit circumstances we did not choose. We make decisions without perfect information. We act without knowing exactly how our choices will shape the future. The world remains larger than our understanding. In that sense, _wyrd_ is not merely an ancient concept. It is a reminder that uncertainty has always been part of the human experience.
+The convergences begin to disappear.
 
-This is why _wyrd_ is so weird. It is neither complete pre-destination nor complete free will. It is not destiny, luck, providence, or chance, though it shares qualities with all of them. It is a way of seeing the world as an unfolding web of relationships and consequences in which every person participates, but which no person fully controls. Those who understand _wyrd_ (like Woden) can see the coming points of convergence and use them. To the rest of us,  understanding _wyrd_ is not to solve the mystery. It is to recognize that the mystery is part of the pattern itself.
+Not from the world itself, but from Woden's sight.
 
----
-### Free Will In The Presence Of Wyrd
+Suddenly, the one certainty upon which he built his understanding of reality no longer seems reliable. He no longer knows whether he is reading the pattern correctly, whether the pattern itself has changed, or whether someone greater than himself is now weaving it.
 
-If _wyrd_ is not destiny in the modern sense, then an obvious question follows: what becomes of free will? If human beings live within patterns they cannot fully understand, if consequences unfold beyond their control, and if the future is shaped by forces larger than themselves, are their choices truly their own? Modern readers often assume these ideas must be in conflict. Either we possess freedom, or we are bound by fate. Yet for many people living in tenth-century England, the question would have seemed strangely framed. _Wyrd_ and human choice were not rivals. They were partners.
+That uncertainty is what drives the events of _The Cynn_. The three blades are Woden's attempt to determine whether his understanding of the world still corresponds to reality.
 
-Part of the confusion comes from our tendency to imagine freedom as the absence of constraints. We often define free will as the ability to choose anything at any time. But this has rarely been the reality of human life. None of us choose where we are born. We do not choose our parents, our language, our era, our culture, or the circumstances into which we arrive. Every person enters a world already in motion. The people of early medieval England understood this intuitively. Freedom was not the ability to choose one's circumstances. Freedom was the ability to choose one's response to them.
+Freyr ultimately teaches him a different lesson.
 
-Imagine two people destined to meet by _wyrd_. Both start at some starting point in their lives, unable to choose where they begin. Both possess the free will to turn left or right at any fork in the road. If A turns left and B turns right at the same fork, they do not converge—but those who understand their upcoming _wyrd_ convergence would simply say: _not yet._ The convergence between them is not a fixed coordinate in time or space. Their choices are real, and their paths may diverge for a lifetime, but _wyrd_ acts as a gravitational pull, ensuring their roads eventually intersect. The convergence is the destination; the path is the choice. It would only be predestination if the meeting were a fixed, unalterable point on a map. _Wyrd_ is not a script; it is best understood as gravity.
+Woden believes the great question is whether _wyrd_ still governs the world. Freyr asks a far simpler one: **How have mortals managed to live without certainty all along?**
 
-One might argue that if two people are destined to meet by _wyrd_, yet have not yet crossed paths, the pressure of that convergence must increase as their mortality draws near. Mathematically, if the convergence is a certainty, the universe must constrain their choices more tightly as time runs out. As the convergence approaches, the 'margin of error' for their choices narrows.
+Farmers plant crops without knowing whether winter will be kind. Parents raise children without knowing what sort of world they will inherit. Friends make promises without knowing whether they will live to keep them. Mortals have always acted without seeing the whole pattern.
 
-If one believes in _wyrd_, one must accept a form of 'choice focusing.' Think of _wyrd_ not as a wall, but as a lens. We possess the free will to move, but the universe acts as an optical array, narrowing our available paths over time to ensure a convergence. The universe conforms to the path of two light beams, gradually bending them until they meet at a single point.
+In the end, that becomes Woden's greatest discovery. The true strength of humanity was never the ability to understand _wyrd_. It was the courage to continue making good choices without ever fully understanding it.
 
-But this raises the ultimate question: **Is that true free will?** Or is it merely the illusion of choice within a system designed to force an outcome? Perhaps the answer lies in the fact that the beams are still moving. They are not being pushed by an external hand; they are simply traveling through a medium that shapes their trajectory. They are free to be light, but they are bound to the lens.
-
-Ultimately, I am not here to defend this system of _wyrd_; I am only trying to understand it. What makes this magic system interesting is that it remains a mystery even to Woden. He has spent his entire existence attempting to map this 'Optical Array' of the universe. He knows that convergence points exist, he sees many of them, and he is convinced that some of them—like Ragnarok—are inherently catastrophic.
-
-He is a god cursed with knowledge, desperate to steer the threads away from those particular points of collision. Yet, there is a fundamental uncertainty at the heart of his work: he can see the pattern, but he cannot be certain if he is truly reading it, or merely projecting his own fears onto the array. He is a master strategist who suspects, in his darkest moments, that he might be playing a game he doesn't fully understand. All he knows is that one must prepare for the convergence. To him, it's not a choice.
-
-In that sense, Woden is one of the few characters in this mythology whose free will is most under strain. One could even argue that he is the one without any free will, from the standpoint that Woden has a sense of duty to all of creation. Mortals may be blissfully unaware of their _wyrd_, and have many choices that finally fall into the gravity well pulled by _wyrd_. But Woden, cursed with knowing many of these convergences, feels compelled to act to prepare for them. He is the only one who sees the final convergence, and the only choice he feels he can make is to prepare.
-
-One must note that there is a distinction to be made. Humans are mortal with respect to time, gods (in this mythology) are immortal with respect to time. They do not die from old age. The choice funnel for them is not nearly as constrained as for mortals, because they might have infinite time. That's a paradox for Woden; he sees Ragnarok coming, but can't say when. The horizon of that event might be near infinite. All he can say definitively is, it hasn't happened yet.
-
-This is what I propose: To someone living in the 10th century, to claim that Woden did have free will to choose not to prepare for Ragnarok, the counter-argument would be: then he's not the All-Father. The role of the All-Father is to shepherd humanity's choices towards that final end, in their view. He is the one who _must_ know the end, so that we don't have to be burdened by that knowledge.
-
-Imagine the possibilities if Woden were to finally discover: I'm NOT the one who knows the end, anymore. Therefore, I'm NOT the All-Father. That is the summary of his existential crisis in my story, and why he must confront the terrifying notion that Christ's God, not him, may in fact BE the All-Father.
+The idea of fate behaving more like gravity within a given time horizon—mortality for mortals, infinity for gods—is what makes _wyrd_ so wonderfully weird to me. I cannot say that _wyrd_ is part of my personal philosophy, but it is an interesting concept to explore, especially in the context of a magic system.
 
 ---
 #### Inside the Debate
 
-At first glance, the debate between Freyr and Woden appears to concern the fate of the old gods during the conversion of England. Such a reading is not entirely incorrect, but it is incomplete. The deeper question is not whether Christianity will replace the older religion. By the tenth century, that replacement was already underway. The real question is what such a change means for concepts like duty, identity, obligation, memory, and free will. The gods in this story are not merely observing history. They are attempting to understand it.
+Throughout the novel, wisdom is not portrayed as passive contemplation, but as disciplined observation. Woden does not guess. He constructs tests. The three blades are not gifts. They are instruments of experimentation.
 
-Modern readers often imagine religious change as a competition between systems of belief. One side wins and the other loses. Early medieval reality was rarely so simple. In many regions, especially within the Danelaw, people inherited customs, loyalties, and assumptions from multiple traditions simultaneously. Conversion was often a process of adaptation rather than replacement. New beliefs emerged alongside older habits of thought. This produced a world in which apparently contradictory ideas could coexist for generations. The characters chosen to receive the three blades all inhabit this boundary.
+The first question Woden asks through all three blades is whether a convergence of _wyrd_ compels, or merely calls. If a magical blade feels like the inevitable destination of its bearer, what allows a person to accept, refuse, or transform that calling? If mortals who worship Christ can answer the gravity of _wyrd_ with faithful choice, then perhaps Woden can learn to answer the gravity of Ragnarok the same way.
 
-The arrival of Christianity presents a challenge to Woden because it appears to alter a future he believed he understood. If societies can change so dramatically, what does that imply about prophecy, destiny, and even Ragnarök itself? The crisis is not that Woden is losing worshippers. The crisis is that he is no longer certain he understands the structure of the world. Christ himself was the product of a prophecy that came true. Woden did not see that in _wyrd_. In my version of this mythology, as Christ worship is rising, Woden's vision of _wyrd_ is getting hazier with time, not more refined. 
+Each of the three blades asks other questions as well.
 
-Freyr approaches the same problem from a different perspective. As a god of fertility, growth, and renewal, he interprets change through the lens of the seasons. Crops die, fields lie fallow, and new growth emerges. To Freyr, the rise of Christianity may not represent the end of the field, but simply the next season.
+Osric's blade asks whether the old covenants between the living and the dead still endure. If a Christian may still die, walk the hedge between Midgard and Alfheimr, and return by Freyr's hand, then perhaps Christ has not displaced the older order, but permits it to endure according to purposes Woden does not yet understand.
 
-While Woden views the potential end of his reign as a catastrophe, Freyr views it as a necessary transition. He sees the current era of the Aesir and Vanir as a cycle that has reached its natural conclusion. Where Woden sees uncertainty and terror, Freyr sees relief; he understands that for the world to remain vibrant, it cannot remain stagnant. To Freyr, the 'ego death' of the gods is not a tragedy—it is simply the harshest of winters.
+Elswyth's blade asks whether Christian virtue possesses a strength the old ways never did. By forcing her to choose repeatedly between power and conscience, Woden hopes to discover whether faith truly anchors the soul against corruption or whether every moral system ultimately bends beneath enough temptation.
 
-His response to Woden’s obsession with _wyrd_ is not to deny its existence, but to question its urgency: _'Why do you struggle so hard against the inevitable? Prepare for the cycles you know exist. Transition with them as best you can. If you cannot, that is not a tragedy—that is life._ Freyr chooses to believe that the cycle is more informative, and ultimately more accessible, than _wyrd_. Any creature with intelligence can see cycles. That's pattern recognition. Pattern recognition is one of the hallmarks of intelligence. Preparing for each transition is the best one can do. Woden tries to manipulate outcomes by weaponizing his knowledge of wyrd convergences; Freyr preaches pattern recognition and patience.
+Cynewulf's blade asks the question that troubles Woden most deeply. The Wodbora cannot be wielded until its bearer first confronts the truth of himself. Woden understands sacrifice. He understands penance. He does not understand grace. If confession grants strength rather than merely demanding payment, then Christ's redemption operates according to principles Woden has never known.
 
-That's where my story picks up. Woden has an opportunity. In his mind, perhaps his last opportunity. He sees a convergence in wyrd. These characters will meet the Ulfhednar in a night of slaughter. But that's all he can see. In the context of this existential dread, and given he is obsessed with preparation, how should he test wyrd? His test might require abandonment of his wolves. But they must be sacrificed to know the truth.
+Taken together, the blades form a multi-layered experiment. Woden hopes to determine whether the old world and the new are compatible, whether _wyrd_ still governs human lives, and whether the gods themselves continue to understand the reality they inhabit. Like any careful investigator, he begins with hypotheses and expects the experiment to confirm, overturn, or at least provide information to pose a better hypothesis.
 
-The three blades emerge from this disagreement. Each is presented to a mortal who appears destined to receive it. Yet the blades are not intended to determine the choices of their bearers. They are intended to reveal them. Beorg-ecg explores grief, belonging, and the possibility of accepting a new home without forgetting an old one. Monanleoht explores desire, temptation, exhilaration, and the difficult boundary between freedom and manipulation. Wodbora explores responsibility, confession, and the moral burden of acting when every available choice carries a cost.
+Freyr, however, has another lesson in mind.
 
-The most important blade in this regard is Wodbora. Its wielder cannot invoke its power without first confessing a sin. This requirement transforms violence into a moral decision rather than a simple act of force. The question becomes not whether a person can act, but whether he should. Modern readers may recognize echoes of debates concerning responsibility, conscience, and the ethics of choosing between imperfect alternatives. Within the story, however, the blade serves an additional purpose. Wodbora asks a question that Woden himself can no longer answer.
+Throughout their debate, Woden studies the blades. Freyr studies the people who carry them. He watches three ordinary mortals endure grief, fear, guilt, madness, uncertainty, and loss. They possess no certainty about tomorrow. They never did. Yet each of them simply makes the next choice before them, much as they might choose which field to sow in spring.
 
-This is why the shepherd confession is so important. Woden does not confess that sheep have died. He confesses that he is abandoning the wolves. The confession concerns a deliberate choice made in the face of unavoidable change. Woden understands that the old order is passing. He also understands that preserving it completely may be impossible. The question is whether accepting that change represents wisdom or betrayal. That uncertainty lies at the heart of the experiment represented by the blades.
+Woden's goal is always more certainty. Freyr's goal is to make the wisest choices possible in the absence of certainty. As the god of harvests and seasons, Freyr has always understood that wisdom comes from recognizing patterns rather than seeking certainty. The harvest teaches probabilities, never guarantees.
 
-For this reason, the debate ultimately concerns neither paganism nor Christianity. It concerns the relationship between free will and wyrd. The blades appear to arrive through destiny, yet each bearer remains responsible for what follows. Wyrd may place a blade into a person's hand, but it cannot decide how that blade will be used. The irony of the debate is that Woden begins by believing he is testing mortals. By its conclusion, it becomes clear that he is testing himself. The mortals merely walk the path first.
+Woden's experiment is then easy for Freyr to co-opt. He can show that despite Woden putting each of the three through some of the worst experiences imaginable, they still make choices and move on without certainty. Even when they encounter experiences unlike anything they have ever known.
+
+Mortals have lived without certainty for as long as they have existed. They have always buried their dead without knowing whether they would meet them again. They have always planted crops without knowing whether winter would spare them. They have always chosen hope without possessing proof that hope would be rewarded.
+
+By the end of the story, Woden just begins to see Freyr's point. He may not agree with it, but he is now deprived of the certainty that he _thought_ he possessed and must learn to do what mortals have always done: choose without certainty. For a god who has spent an eternity searching for certainty, nothing could be more unnatural.
 
 ---
 #### Agency of Magical Artefacts
@@ -247,7 +225,7 @@ In practical terms, the distinction functions as a metaphysical safeguard. The w
 
 ---
 
-#### The Many Faces of the Wodhere
+#### The Many Faces of the _Wodhere_
 
 The Wild Hunt is one of the most widespread and adaptable supernatural traditions in northern Europe. Across centuries and regions, the details change dramatically. The leader may be a god, a king, a saint, a devil, or a ghost. The riders may be warriors, hunters, spirits, the restless dead, or condemned souls. Yet certain themes persist. A spectral procession crosses the night sky. The living are warned not to interfere. The boundary between the world of the living and the world of the dead briefly becomes permeable.
 
@@ -255,7 +233,7 @@ The version presented in _The Cynn_ draws inspiration from several historical la
 
 This process of reinterpretation is visible throughout medieval folklore. Traditions associated with older gods could become associated with legendary kings, local spirits, demons, saints, or cautionary tales. The question was rarely whether a phenomenon existed. The question was how it should be understood. A frightening procession in the night sky might remain frightening regardless of whether its leader was called Woden, Herla, or Hellequin. The story survived because it continued to serve a cultural purpose.
 
-The novel imagines the Wodhere during one of these transitional periods. Christianity has become dominant, yet older explanations have not entirely vanished. As a result, different characters understand the Hunt in different ways. Some view it as a remnant of pagan belief. Others interpret it through Christian theology. Still others accept elements of both explanations simultaneously. This ambiguity is intentional. It reflects the reality that religious transitions often produce overlapping interpretations rather than immediate replacements.
+The novel imagines the _Wodhere_ during one of these transitional periods. Christianity has become dominant, yet older explanations have not entirely vanished. As a result, different characters understand the Hunt in different ways. Some view it as a remnant of pagan belief. Others interpret it through Christian theology. Still others accept elements of both explanations simultaneously. This ambiguity is intentional. It reflects the reality that religious transitions often produce overlapping interpretations rather than immediate replacements.
 
 One of the recurring themes of the book is that institutions change more quickly than stories. Kings may convert. Laws may change. Churches may be built. Yet folklore often persists because it addresses questions that formal theology does not always answer. What happens to the dead who wander? Why do certain places feel haunted? Why do storms, darkness, and winter inspire such powerful feelings of dread? The Wild Hunt provided one framework through which communities explored these uncertainties.
 
@@ -267,87 +245,22 @@ For modern readers, the Wild Hunt is often encountered as a piece of folklore de
 
 
 ---
-## The Challenge, In Three Parts
-
-If you have read this far, you may have noticed something peculiar. This book is not really about swords.
-
-To be clear, I am not a historian. Historians have spent lifetimes studying the periods and cultures that inspired this story. At best, I am an enthusiastic student standing on the shoulders of people who know far more than I do.
-
-Nor am I a master bladesmith. Over the course of many years, I have managed to create a small handful of objects that can reasonably be described as blades. One or two of them are even good enough to actually use. Most taught me humility and new, highly inventive curse words.
-
-Nor am I a philosophizer. I spent a lot of time with AI, having it explain to me what wyrd was historically. It took me a while to understand Woden's potential dilemma.
-
-What I am is a lifelong off-and-on gamer, dungeon-master-storyteller, and student of myth. Like many people, I spent years fascinated by legendary objects—Excalibur, Stormbringer, the Holy Grail, and countless others. Eventually I found myself asking a different question. Not what powers these artifacts possessed, but why they remained memorable long after their powers had been forgotten.
-
-The answer, I think, is that the most interesting artifacts are not objects of power per se. They are objects with a commissioner's point of view. It's easier to understand that point of view if you commission the item, and hold it in your hand.
-
-### Part I: Craft The Idea
-
-Imagine a world, environment, campaign (if you're a D&D player), etc. Imagine a thing in that world that has meaning. Who commissioned it? Who built it? Who owns it? What were their lives like? From what was it made?
-
-Basically, put the item at the center of the story, and conceive of all the actors and their choices in the context of the item. Now you're starting to think in terms of haelu... what it means for that item's orientation in the world.
-
-### Part 2: Craft The Avatar
-
-Commission the artifact. NO, not a truly magical artifact that bursts into flames at the sound of a word (though that would be awesome). What I mean is, fashion a representation of the artifact. If possible, make it with your own hands. There is something profoundly educational about holding the thing that inspired a story. If that is not possible, learn enough about it to understand why it matters to the people who commission it, craft it, carry it, inherit it, fear it, treasure it, or depend upon it.
-
-Then ask yourself what question the artifact cares about, or more to the point, what did the commissioner of it mean for its haelu.
-
-Not what power it grants.
-
-Not what spell it casts.
-
-What question does it ask?
-
-What kind of person emerges from answering it?
-
-What does the maker learn while creating it?
-
-What do the commissioners of such an object learn from it being brought forth into the world?
-
-What kind of hǣlu does it carry into the world?
-
-And what story emerges when someone attempts to answer it honestly?
-
-More specifically:
-
-- **Wodbora** asks: _"What are you willing to confess, in order to defeat your enemy? What are you willing to bid as penance for it?"_
-- **Beorg-ecg** asks: _"Are you willing to live in a fake home with a family that isn't truly yours for power, knowing that yours are dead?"_
-- **Monanleoht** asks: _"Are you willing to employ one of the most murderous creatures in existence and sacrifice your sanity to win battles?"_
-
-These are not questions with easy answers. They are crucibles. The magic of the Cynn is that the blade does not care if you are a hero or a coward, a pagan or a Christian, a king or a peasant. It only cares about your answer.
-
-And the story is what happens when you finally speak it aloud.
-
-### Part 3: Craft The Story
-
-In that spirit, I am intentionally placing the underlying structure of _The Cynn_ into the commons.
-
-I am open-sourcing the thought process, the world-building, the structure, and the ideas within this story. It is yours now. Take any part of it.
-
-- **Keep the Cynn.** Expand them, challenge them, or completely reimagine who and what they are. I made them giggling invisible weirdos. You don't have to.
-- **Keep the debating gods.** Or, if you prefer, cast them aside. Replace Huginn and Muninn with saints, local spirits, silent ancestors, bickering philosophers, forgotten heroes, whispering demons, or abstract ideas. These are often commissioners of things. They had the object built. The motivation is very much part of the story.
-- **Ditch the steel.** It doesn't have to be a sword, or a weapon. It could be hat, or bell, or a robot. Give it a point of view. Find its _hǣlu_. Ask a question that your characters cannot easily answer, and see what happens when they try.
-
-There is only one thing I would ask. If you choose to build upon these ideas, please consider preserving **"The Cynn"** as a prefix in the title of your work. Not because I own it, not because I have a massive ego, not because permission is required, but because it serves as a maker's mark.
-
-A reader who discovers _The Cynn: Strangers to Wyrd_ might someday discover _The Cynn: The Loom of Golden Straw_, _The Cynn: The Bell of Forgotten Promises_, _The Cynn: Strangers to Karma_, or some other tale I could never have imagined, and immediately recognize that they are participating in the same conversation.
-
-The artifacts may differ. The cultures may differ. The questions may differ. Yet the challenge remains the same.
-
-The forge is open. Take any part of it, build something of your own, and pass it on. Perhaps one day a smith, weaver, carpenter, potter, musician, programmer, artist, or storyteller will create something that never occurred to me. Hopefully they will write a better story. Perhaps they will discover a question worth asking that I never thought to ask. I would consider that a success.
-
----
 ## Swords and Scabbards: What Are These Blades?
 
-I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its haelu. I just like it because it focuses my storytelling a bit better, and it seems cool. :)
+I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its _haelu_. I just like it because it focuses my storytelling a bit better, and it seems cool. :)
 
 * Name: this is the name, obviously
 * Title: this is like "The Goblin-Slayer"
 * Oath/Ward: this is a phrase outwardly visible to the world as to the contract of what this weapon will do, e.g. "Beware night-goers!"
 * Spell: this is the phrase (if present, would be on the thigh-side of scabbard) that begins the effect, e.g. "Fire swirl, and char my enemies!"
 
-I imagine the Welandes Cynn would have a shared maker's mark for swords. Closer than shown, but basically it should be a simple two runes below, at a diagonal. These represent Welandes Cynn initials, with the Cynn being diminuitive (what is called a vassal mark), showing that the Cynn are reliant on the success of the name of Welandes.
+I imagine the Welandes Cynn would have two shared maker's marks. 
+
+The first is a badge, an emblem. I chose a young oak sapling growing from a broken anvil, with crossed hammers beneath. This signifies life growing from vocation.
+
+![The Cynn's Badge](Cynn-Badge.png "The Cynn's Badge")
+
+The second is a maker's mark. Closer than shown, but basically it should be a simple two runes below, at a diagonal. These represent Welandes Cynn initials, with the Cynn being diminuitive (what is called a vassal mark), showing that the Cynn are reliant on the success of the name of Welandes.
 
 ```
 ᚹ

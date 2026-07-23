@@ -498,27 +498,43 @@ High above the fading smoke of Leicester, where the rain clouds have given way t
 
 Woden tugged at his shepherds robe with his hand, the other held _Gungnir_ tightly.
 
-"When will we know whether this was the right thing to do?"
+"The battles went as I expected. Your elves were adequate to the task."
 
 Freyr smiled.
 
-"When does the farmer decide the north hill is where the beans grow best?"
+Woden continued, "Osric was indeed resurrected, and walks still. _Christ_ allowed his soul to return without claiming it. But the blade... he wears it still."
 
-Woden frowned.
+Freyr watched Osric as he told Tor exactly where to find the chests in the bathhouse ruin.
 
-"When he sees them grow."
+"That is not a sign of acceptance. Perhaps he is inquisitive."
 
-Freyr shook his head.
+Woden looked at Elswyth, who now was testing the edge of her new felling axe against the timber.
 
-"No."
+"Elswyth seems eager to keep her blade, despite what it cost her."
 
-He looked toward the fields.
+Freyr pointed to the felling axe in her hands.
 
-"When he has seen them fail everywhere else."
+"But she is refusing to be defined by it. She tests the axe and not _Monanleoht_."
 
-Woden was not amused.
+Woden then looked at Cynewulf, who was having a discussion with Kettil about his travels.
 
-"How am I to learn whether these mortals can teach me how to deal with the holes in _wyrd's_ tapestry?"
+"Cynewulf doesn't seem any different, and he wears _Wodbora_ hidden. He is concerned that others might see it."
+
+Freyr pointed to Kettil.
+
+"And yet Cynewulf now discusses his travels more freely than before. A weight has been lifted, I think. Perhaps the confession lightened his burden?"
+
+Woden waved his hand at all three.
+
+"It will take time to learn their choices going forward. Once the novelty of these _gifts_ have worn off, I will learn how they _truly_ perceive them. There will be more tests. Osric's will be most immediate, for his family still await him in the snow."
+
+Freyr smiled.
+
+"I think your experiment is already answering a different question."
+
+Woden raised an eyebrow, his jaw clenched.
+
+"What have you seen that I have not?"
 
 "Have you not learned already, my friend?"
 
@@ -530,11 +546,11 @@ Woden gritted his teeth.
 
 Woden sneered. "Hope is merely a lack of knowledge."
 
-Freyr retorted. "Hope is the planting of seed in spring. Faith is the belief that the harvest will prove worthy of the planting. Mortals carry both, because they've learned what you have not: it's impossible to know everything."
+Freyr retorted. "Hope is the planting of seed in spring. Faith is the belief that the harvest will prove worthy of the planting. Mortals use both, because they've learned what you have not: it's impossible to know everything."
 
 "For them, certainly."
 
-"For gods too. Have you not listened to yourself? You're losing certainty, not gaining it."
+"And how long have you been chasing that boar? Are you truly closer to understanding the convergences now than when you started centuries ago? It seems you're further away than ever before."
 
 Freyr squared his shoulders and looked Woden straight in the eye.
 
@@ -546,3 +562,18 @@ Freyr leaned in, and put his hand on Woden's shoulder.
 
 "In the end, do mortals face uncertainty with more nobility than you?"
 
+Woden hissed and pulled away.
+
+"These are children who _wish_ they had a _tiny sliver_ of the sight I have!"
+
+"No. They are people who have spent their entire lives choosing without it."
+
+Freyr pointed.
+
+"You have spent an eternity searching for certainty. They spend their entire lives learning to live without it. In the end, which one is right?"
+
+Freyr smiled.
+
+"I see mortals in every season, wearing every emotion. I see laughter in winter. I see tears in spring. But you... I see only duty. Only the obsession. Tell me, if there is no Ragnarok after all, how would you want to spend your days?"
+
+Woden spent the long day pondering that question. He had no answer.
