@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+
+# AI conversations
+.copilot/
+copilot/
+.chat/
+
+# IDE
+.vscode/
+#.obsidian/
+
