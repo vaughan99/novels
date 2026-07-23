@@ -112,44 +112,47 @@ The trio continued down the road. The sun had dipped near the horizon of the mor
 
 With a quiet step across the threshold of the margins, Woden and the ravens started their commute to the Afterlife. The final remnants of a conversation trailed through the park as they left.
 
-"Okay, now explain this again," said Huginn. "Freyr, aka Scandi-Jesus, wanted to give away these blades to try to help our heroes heal their brokenness and generally *not die*. Buuuuut... the Boss wanted them to pay a price for using them, which forces them to look for alternative ways to solve their problems in the long run, and generally become better people. What I don't get is, why did the Boss do it?"
+"Okay, now explain this again," said Huginn. "Missionaries used the likeness of Freyr when talking to the Danes about conversion. So... Freyr was basically Viking Jesus?"
 
-Muninn: "Originally, to learn how mortals thought of _wyrd_, to see if he could learn something from it."
+Muninn: "Absolutely not."
 
-Muninn then whispered. "But Freyr had another idea all along. He taught the Boss that he needed to learn to think like a mortal."
+Huginn: "Scandi-Jesus?"
 
-Huginn's eyes blossomed.
+Muninn: "Even worse."
 
-"So that he could face life without certainty, like a mortal does?"
+Huginn: "Then why did the missionaries keep talking about him?"
 
-Muninn threw both wings skyward.
+Muninn: "Because wise teachers begin with what people already love."
 
-"EXACTLY! There's hope for you yet, ditch-brain."
+Huginn: "A nice pile of turkey legs?"
 
-Huginn looked disappointed.
+Muninn: "No. The Danes already admired generosity, harvest, peace after winter, and a lord who cared whether ordinary folk prospered. So missionaries started there. They showed how Christ embodied those virtues... and far more besides."
 
-"I was rather hoping to find out that Freyr was actually Santa Claus. He's big, he's boisterous, and I'm not giving up on his forge-elves being the Christmas elves. Too many similarities."
+Huginn: "So Freyr was... the training wheels?"
 
-Muninn blinked.
+Muninn: "No."
 
-"What?"
+Huginn: "The appetizer?"
 
-Huginn spread a wing as though laying out an airtight argument.
+Muninn: "Closer."
 
-"Think about it! He's big, he's jolly, he gives people gifts..."
+Huginn: "The trailer before the feature?"
 
-He lowered his voice conspiratorially.
+Muninn: "More like the prequel."
 
-"...and I'm still not convinced his forge-elves aren't the Christmas elves. There are simply too many similarities."
+Huginn: "They should get the same actor to play Jesus and Freyr, and just give one a mustache or a tattoo. But wait..."
 
-Muninn pointed to Steve under Huginn's wing.
+Muninn: "What now?"
 
-"Steve, are you getting this? You know he's going to ask you to back him up, right?"
+Huginn: "How would they explain Jesus having a golden boar?"
 
+Muninn: "They wouldn't."
 
+Huginn: "So Gullinbursti goes homeless?"
 
-Muninn looked over his shoulder at Woden, who was steadily walking through the margins as they were entering the Afterword.
+Muninn: "No, he didn't become homeless."
 
-Huginn: "They'd learn that you don't play with the Boss, period."
+Huginn: "That's alright, he can move in with us."
 
-Woden, from far away but obviously still listening: "You best remember that."
+Muninn: "I'm glad you and I aren't writing a prequel... or a sequel."
+
