@@ -12,8 +12,10 @@ The following novel contains extreme tonal whiplash. Please stop reading if you 
 * a need to interrogate robots to determine if they're hearing voices
 * a sudden urge to take your entire farm to the spa
 * worrying about timing flea jumps down to the picosecond
-* trying to understand why dragons have so much fun
-* wondering why a disclaimer list has such bizarrely _specific_ warnings
+* thinking Chaucer's narrative structure could use some raven flair
+* trying to understand why dragons have so much fun _and_ why it's better if they accessorize
+* wondering why a disclaimer list has such _bizarrely specific_ warnings
+* wondering, after reading, whether you should post a list of additional _bizarrely specific_ warnings this disclaimer somehow missed
 * anything your local blacksmith or raven cannot adequately explain
 
 If any of these symptoms persist please contact your local philosopher or theologian immediately.
