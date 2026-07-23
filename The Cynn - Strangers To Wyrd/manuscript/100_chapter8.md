@@ -72,7 +72,7 @@ Elswyth drew a long breath.
 
 In the misty reflection of *Monanleoht's* steel, the monster's eyes emerged from the flat of the blade.
 
-"I saw you stolen away. You were trying to..."
+"Now listen here, you foul wretch of a..."
 
 He cut her off mid-sentence with a high-theatrical mocking whine.
 
@@ -88,7 +88,7 @@ The redcap resumed his commanding, authoritative tone.
 
 "Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-Bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
-Those last words came with almost a bow - if he could bow - just before the dance was to begin. The eyes of the redcap sheared towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
+Those last words came with almost a bow - if he could bow - just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
 A strange warmth flooded her limbs. Not the warmth of a hearth or summer sun, but something sly and invasive, creeping through her blood like roots beneath soil.
 

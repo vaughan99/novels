@@ -1,6 +1,6 @@
 ## Chapter Nine: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
-Cynewulf stood on the porch of the church. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Roganvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
+Cynewulf stood on the porch of the church. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Rognvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
 
 Rognvaldr stood and mocked him in his language. He never cared to learn the language of the Saxons. It was clear that he meant to do more than just kill Cynewulf.
 

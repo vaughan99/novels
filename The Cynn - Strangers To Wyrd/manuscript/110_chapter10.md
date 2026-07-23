@@ -466,7 +466,7 @@ Ketill looked at his boots, caked with mud, and smiled.
 
 "And your companion's name? Where was he from?"
 
-"His name is _drengr. His home is here."
+"His name is _drengr_. His home is here."
 
 He pointed to his chest.
 
