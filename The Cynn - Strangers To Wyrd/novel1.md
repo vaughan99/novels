@@ -1026,13 +1026,13 @@ His cottage stood where the south-facing terrace gravels just west of the juncti
 
 "My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrd-men. "The land knew my forefathers almost three-hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
 
-Osric's wife was Ealhild, a woman of the Danes.
+Osric's wife was Ealhild, a woman of the Swedes.
 
 ---
 
-Muninn: "Don't you mean _Álhildr_? That was the name she was given at birth."
+Muninn: "Don't you mean _Álfhildr_? That was the name she was given at birth."
 
-Huginn: "I'm not going to switch between _Álhildr_ and _Ealhild_ just to satisfy your sensibilities. We're picking just one."
+Huginn: "I'm not going to switch between _Álfhildr_ and _Ealhild_ just to satisfy your sensibilities. We're picking just one."
 
 Muninn: "You're choosing her married name over her given name. Seems arbitrary."
 
@@ -1040,7 +1040,7 @@ Huginn: "I'm choosing the name that's easier for the children to remember. Now s
 
 ---
 
-She had been born with the name _Álhildr_, but over the years it had softened into _Ealhild_ upon Northumbrian tongues.
+She had been born with the name _Álfhildr_, but over the years it had softened into _Ealhild_ upon Northumbrian tongues.
 
 ---
 
@@ -1082,7 +1082,7 @@ Huginn: "No, he's... Super-BOOOOAAARRR!"
 
 ---
 
-Ealhild's family were superstitious. The family barrow was young by Dane standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it—stories, bones, stones, and memories—until it seemed older than it truly was.
+Ealhild's family were superstitious. The family barrow was young by Northmen standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it—stories, bones, stones, and memories—until it seemed older than it truly was.
 
 Her mother taught her that one day, she would marry, and would travel far away. To carry the family traditions to a new valley was a great honor, and a great responsibility.
 
@@ -1153,7 +1153,7 @@ Ealhild retreated inside, confident that her measures would at least track the t
 
 The next day, Ealhild reviewed the night's work. The coal lines and leveling sticks seem to show that the grain had not been touched. But, she noted also the oil had traveled to another part of the bin. The outline of a small finger on the side of the bin betrayed its origin. "Oh my sweet spirit. Only you are smart enough to counter the coal lines and leveling sticks, because you know how to erase, how to replace. But you can't fool the oil." She ran to check on the horse and livestock, and found extra grain in the horse's feed. She also saw that the horse's mane had been neatly braided, and that her horseshoes were freshly plucked and clean.
 
-Smiling, Ealhild finally knew her thief, and she was relieved. It was a nisse, a barrow-spirit, brought with her barrow-stone twelve years previous. The nissar were spirits who come forth from the barrows, and guard the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and it was sensing a terrible winter was coming. A nisse would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The nisse had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
+Smiling, Ealhild finally knew her thief, and she was relieved. It was a _tomte_—what most folk in the Danelaw called a _nisse_—a barrow-spirit that had come with her family's capstone twelve years before. The _nissar_ were spirits who come forth from the barrows, and guard the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and it was sensing a terrible winter was coming. A _nisse_ would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The _nisse_ had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
 
 She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin. "We need extra tonight... and I know just what to make," she thought to herself, as she steeled herself inside.
 
@@ -1161,13 +1161,13 @@ She prepared a full meal fit for the first *true* winter night: mutton on the bo
 
 The children were sent to bed, stomachs filled and laughter spent. The wind was truly howling now, like the Wild Hunt was at their doorstep. But they had seen winter before, and these wolves lost most of their bite under the childrens' blankets.
 
-Ealhild now set about soothing the nisse. Osric begged for her to come to bed, but she was adamant. "The spirit visiting the larder needs his first-winter meal too. Rye bread, and an eye of porkbelly. Please fetch me the family bowl. We must teach this spirit to work with us and trust us. It's unfamiliar to these lands, as I once was, and must understand that we can provide for all on our land." Osric dutifully obeyed, but his wife's offering seemed... different... from what *his* mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth the mischief that would prevent."
+Ealhild now set about soothing the _nisse_. Osric begged for her to come to bed, but she was adamant. "The spirit visiting the larder needs his first-winter meal too. Rye bread, and an eye of porkbelly. Please fetch me the family bowl. We must teach this spirit to work with us and trust us. It's unfamiliar to these lands, as I once was, and must understand that we can provide for all on our land." Osric dutifully obeyed, but his wife's offering seemed... different... from what *his* mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth the mischief that would prevent."
 
 Ealhild took the offering and set it on the transition stone. She retreated in quiet, and they both went to bed. Ealhild drifted fast asleep.
 
-Osric stayed up, worried about what he had just seen. He had never had reason to question Ealhild's choices before, which made this confusion all the more agonizing. He thought: "This 'nisse', it must be like one of our larder-elves, room-gods. These are Anglian lands, and the spirits of the soil hold the gate here. This foreign creature must bend to the custom of the valley, surely? But what if she's right? If her offering is true, then the spirit should be appeased. But... what if the spirit is a larder-elf? This offering would just encourage it. It wouldn't suffer the honey-sleep, it would want more of what it was just given!" With that realization, he grabbed and lit a candle, and found the syrup freshly made on the table.
+Osric stayed up, worried about what he had just seen. He had never had reason to question Ealhild's choices before, which made this confusion all the more agonizing. He thought: "This '_nisse_', it must be like one of our _larder-elves_, _room-gods_. These are Anglian lands, and the spirits of the soil hold the gate here. This foreign creature must bend to the custom of the valley, surely? But what if she's right? If her offering is true, then the spirit should be appeased. But... what if the spirit is a _larder-elf_? This offering would just encourage it. It wouldn't suffer the honey-sleep, it would want more of what it was just given!" With that realization, he grabbed and lit a candle, and found the syrup freshly made on the table.
 
-Osric retrieved the bowl from the transition and brought it inside. He was relieved that the bowl was still full. He didn't want to take a chance scaring away the spirit, so he worked quickly and quietly. He uncorked the bottle, and it yielded a subtle pop. "That's strange, it smells of roasted nuts. Perhaps Ealhild added a few from a local tree. No matter." He poured a drizzle on the glistening pork fat, and recorked the bottle, completely content that he had fixed the offering. He replaced it, as before, on the threshold, and went to bed. "If she's right, the nisse will ignore the syrup and accept the offering. If it's a larder-elf, it will suffer the honey-sleep, and we won't see him again for at least 2 moons," he whispered to himself as he fell asleep.
+Osric retrieved the bowl from the transition and brought it inside. He was relieved that the bowl was still full. He didn't want to take a chance scaring away the spirit, so he worked quickly and quietly. He uncorked the bottle, and it yielded a subtle pop. "That's strange, it smells of roasted nuts. Perhaps Ealhild added a few from a local tree. No matter." He poured a drizzle on the glistening pork fat, and recorked the bottle, completely content that he had fixed the offering. He replaced it, as before, on the threshold, and went to bed. "If she's right, the _nisse_ will ignore the syrup and accept the offering. If it's a _larder-elf_, it will suffer the honey-sleep, and we won't see him again for at least 2 moons," he whispered to himself as he fell asleep.
 
 Deep into the night, there was a sound. It wasn't the sound of a spirit at the door. It wasn't the sound of the winter roar, which had since died to a slow whistle. It was the *other* sound of winter.
 
@@ -1191,51 +1191,51 @@ The sickness hit the moment they each went to bed. The poison stole the air from
 
 ### Part Two: The Bowl
 
-The nisse waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
+The _nisse_ waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
 
-The nisse centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl." it thought. The nisse picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine - *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The nisse realized instantly it was a sweetened doom.
+The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl." it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine - *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
 
-The small nisse's fury burst forth on to its skin. The madness oozed from its pores like a grey miasma. Just as it leaked out, it breathed, and flushed back in through every pore and orifice. It swelled into every corner of the creature. It grew, its heart pumping miasmic hate out of, and back into its being.
+The small _nisse_'s fury burst forth on to its skin. The madness oozed from its pores like a grey miasma. Just as it leaked out, it breathed, and flushed back in through every pore and orifice. It swelled into every corner of the creature. It grew, its heart pumping miasmic hate out of, and back into its being.
 
-It was brought here. Given this land to tend. For twelve years, the nisse had watched from a tiny space between the home and the threshold stone. It learned, listened, and protected. No wolves had approached the door. It picked all the blighted plants before their sickness could spread. It earned its keep. It earned respect.
+It was brought here. Given this land to tend. For twelve years, the _nisse_ had watched from a tiny space between the home and the threshold stone. It learned, listened, and protected. No wolves had approached the door. It picked all the blighted plants before their sickness could spread. It earned its keep. It earned respect.
 
-The nisse's fury turned inward. The swelling touched every sinew, every muscle. It hardened and softened with every beat, becoming stone, then mud, over and over as it grew larger. The nisse grew to the size of a giant in the doorframe. It reached in one motion, tearing the door completely off with barely a flick of its wrist. The door flew through the air. With both hands, it grabbed beams of the doorway timbers that reached all the way into the ceiling. It lifted the entire thatch roof off the walls with a primal yet *silent*... scream. 
+The _nisse_'s fury turned inward. The swelling touched every sinew, every muscle. It hardened and softened with every beat, becoming stone, then mud, over and over as it grew larger. The _nisse_ grew to the size of a giant in the doorframe. It reached in one motion, tearing the door completely off with barely a flick of its wrist. The door flew through the air. With both hands, it grabbed beams of the doorway timbers that reached all the way into the ceiling. It lifted the entire thatch roof off the walls with a primal yet *silent*... scream. 
 
-It stopped, holding the roof's beams high in the air. Its arms were steady, its legs unshakeable. Then came the release; the nisse simply let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold and snow rushed in, slapping the faces of Ealhild and the children - face already purple from the goblin sickness, and frozen in final agony.
+It stopped, holding the roof's beams high in the air. Its arms were steady, its legs unshakeable. Then came the release; the _nisse_ simply let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold and snow rushed in, slapping the faces of Ealhild and the children - face already purple from the goblin sickness, and frozen in final agony.
 
-The nisse paused. It expected to hear screams. It expected to hear the pleas of desperate people, begging the nisse for mercy. There was nothing. Only the sounds of broken timbers creaking in the wind.
+The _nisse_ paused. It expected to hear screams. It expected to hear the pleas of desperate people, begging the _nisse_ for mercy. There was nothing. Only the sounds of broken timbers creaking in the wind.
 
-Next, the nisse trudged through the snow, it's eyes set on the eorth-hord. With a stony hand, it reached down and grabbed one side of the roof. With a violent crunch, it ripped the roof clean off, and threw it. It threw grain chests, and supplies of all kinds out into the snow.
+Next, the _nisse_ trudged through the snow, it's eyes set on the eorth-hord. With a stony hand, it reached down and grabbed one side of the roof. With a violent crunch, it ripped the roof clean off, and threw it. It threw grain chests, and supplies of all kinds out into the snow.
 
 It's anger sated, the barrow-wight's form shifted. Slowly, the miasma released from its pores into the ether as its fury subsided. The creature’s great, stone-like bulk had shriveled back into its small, withered frame. The miasmic fury that had filled its veins during the night was gone, leaving only a cold, hollow weight.
 
 It entered the doorway, piles of thatch and snow in mounds before it. It crawled and slipped, finally finding the remains of the family. It found the bodies all in one place - the children had been brought with Ealhild to bed. She was still embracing her children, a crash of timber and snow on top of them.
 
-All had the tell-tale sign of the goblin sickness - purple skin. The nisse was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The nisse searched further and found Osric next to the bed, not with the others under the heap.
+All had the tell-tale sign of the goblin sickness - purple skin. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The _nisse_ searched further and found Osric next to the bed, not with the others under the heap.
 
  It looked at Ealhild’s purple lips. It looked at the quiet shapes of the children beneath the thatch. It knew the tragedy.
 
-All nisse have a responsibility. Protection. They protect the family, the hearth, the home, the land, the livestock. Every blade of grass. Every laugh from the children. Every loving embrace of a husband and wife. And now, it was all... gone. The barrow-wight was a failure.
+All _nisse_ have a responsibility. Protection. They protect the family, the hearth, the home, the land, the livestock. Every blade of grass. Every laugh from the children. Every loving embrace of a husband and wife. And now, it was all... gone. The barrow-wight was a failure.
 
-Osric was still clinging to life, but the goblins were beyond the nisse's magic. It knew that if Osric were to survive the goblins, he would be too weak to handle all that lay before him the following morning. The nisse thought back to the eorth-hord's remains and the livestock. It hurried back to the doorway with newfound resolve, plodding the steps without its usual stealth. It passed the threshold, out into the biting cold. Winter had arrived with a vengeance, and the animals would never survive the open stalls for long. They needed to be moved to the byre, and the byre needed to be ready.
+Osric was still clinging to life, but the goblins were beyond the _nisse_'s magic. It knew that if Osric were to survive the goblins, he would be too weak to handle all that lay before him the following morning. The _nisse_ thought back to the eorth-hord's remains and the livestock. It hurried back to the doorway with newfound resolve, plodding the steps without its usual stealth. It passed the threshold, out into the biting cold. Winter had arrived with a vengeance, and the animals would never survive the open stalls for long. They needed to be moved to the byre, and the byre needed to be ready.
 
-The nisse looked at the lower end of the house where the byre stood—a walled alcove of wattle and daub, sharing the cottage's long, thatched roof. It offered shelter from the biting wind and snow, far better than the exposed stalls. Luckily, it was far enough from the ruined doorway that the structure remained sound. The nisse also noticed that Osric had already moved the essentials—the troughs, the pails, the hay—in preparation for the move. There was a transfer grain chest here too, with enough grain for a few days. He had even banked the exterior walls with extra sod to keep the frost from creeping into the byre floor. It was the work of a man who knew the winter was at the door, and the final step was to move the livestock in. "Tomorrow," the nisse thought, its resolve hardening like its stone. "Food. Now."
+The _nisse_ looked at the lower end of the house where the byre stood—a walled alcove of wattle and daub, sharing the cottage's long, thatched roof. It offered shelter from the biting wind and snow, far better than the exposed stalls. Luckily, it was far enough from the ruined doorway that the structure remained sound. The _nisse_ also noticed that Osric had already moved the essentials—the troughs, the pails, the hay—in preparation for the move. There was a transfer grain chest here too, with enough grain for a few days. He had even banked the exterior walls with extra sod to keep the frost from creeping into the byre floor. It was the work of a man who knew the winter was at the door, and the final step was to move the livestock in. "Tomorrow," the _nisse_ thought, its resolve hardening like its stone. "Food. Now."
 
-The cold was turning to a blizzard; the muddy miasma clung to the nisse like hardened frost-stone. It was harder to move now as the nisse wasn't a creature for the elements, it was meant to live under the home. But the nisse pushed forward. Time was now critical.
+The cold was turning to a blizzard; the muddy miasma clung to the _nisse_ like hardened frost-stone. It was harder to move now as the _nisse_ wasn't a creature for the elements, it was meant to live under the home. But the _nisse_ pushed forward. Time was now critical.
 
-The nisse grabbed two old pails and stumbled back toward the ruined eorth-hord. The blizzard was swallowing the world. Snow lashed its face and filled the air with a shifting white haze. Somewhere beneath the drifts lay the grain chests it had scattered in its fury. The larger chests could wait. The smaller things could not. Every gust pushed another layer of snow into the shattered storehouse. Crabapples rolled between broken boards. Carrots and parsnips vanished beneath drifts. Oats and peas spilled from torn sacks and disappeared into the white. The nisse dropped to its knees and began gathering what it could. One handful at a time.
+The _nisse_ grabbed two old pails and stumbled back toward the ruined eorth-hord. The blizzard was swallowing the world. Snow lashed its face and filled the air with a shifting white haze. Somewhere beneath the drifts lay the grain chests it had scattered in its fury. The larger chests could wait. The smaller things could not. Every gust pushed another layer of snow into the shattered storehouse. Crabapples rolled between broken boards. Carrots and parsnips vanished beneath drifts. Oats and peas spilled from torn sacks and disappeared into the white. The _nisse_ dropped to its knees and began gathering what it could. One handful at a time.
 
-The work was slow in the ruin.  More than once the nisse found itself digging through a mound of snow only to uncover something it had broken itself. Then its hand brushed against a cord darkened with oil. The nisse froze. It pulled the string free from the wreckage and stared at it.
+The work was slow in the ruin.  More than once the _nisse_ found itself digging through a mound of snow only to uncover something it had broken itself. Then its hand brushed against a cord darkened with oil. The _nisse_ froze. It pulled the string free from the wreckage and stared at it.
 
-The oil-string. Such a small thing. Such a foolish thing. It remembered the knot. It remembered the scent. It remembered brushing its finger against the oil going into the grain chest to reward the horse for her loveliness. This was something it had seen before, another winter long ago. Another theft for another horse. Another set of dirty hands laying a string around a grain chest lid. "Clever Ealhild... she remembered her mother's lesson." Now the certainty felt like poison of its own. The nisse turned the cord over in its hands while the snow gathered upon its shoulders. This was where it began.
+The oil-string. Such a small thing. Such a foolish thing. It remembered the knot. It remembered the scent. It remembered brushing its finger against the oil going into the grain chest to reward the horse for her loveliness. This was something it had seen before, another winter long ago. Another theft for another horse. Another set of dirty hands laying a string around a grain chest lid. "Clever Ealhild... she remembered her mother's lesson." Now the certainty felt like poison of its own. The _nisse_ turned the cord over in its hands while the snow gathered upon its shoulders. This was where it began.
 
-At last it tucked the oil-string away and returned to its work. Every recovered vegetable, every scoop of grain, every salvaged scrap was carried back to the broken threshold and left inside the home for Osric in those two pails. "Two pails. One man. Three wraps of dried pork. One dried fish. Turnips. Crabapples. Grain enough for porridge. Enough food for a careful man," it whispered. "If he's smart." The winter would take enough from this household without help from the nisse. Exhausted, it sat briefly on the barrow-stone.
+At last it tucked the oil-string away and returned to its work. Every recovered vegetable, every scoop of grain, every salvaged scrap was carried back to the broken threshold and left inside the home for Osric in those two pails. "Two pails. One man. Three wraps of dried pork. One dried fish. Turnips. Crabapples. Grain enough for porridge. Enough food for a careful man," it whispered. "If he's smart." The winter would take enough from this household without help from the _nisse_. Exhausted, it sat briefly on the barrow-stone.
 
-Then the nisse thought of the animals, and their grain chests.
+Then the _nisse_ thought of the animals, and their grain chests.
 
 Enough rest.
 
-Tracks disappeared almost as quickly as they were made. The storm howled around it, but the little spirit continued its work, trudging back and forth through the snow, trying desperately to remember where it had thrown the rest. Fumbling, frozen hands dug through snow time and again. Time and again, it found a stump. Or a stone.  Then, a board. A chest. Broken, but still... half full. The nisse dug out the broken chest and dragged it to the byre. Larger hands would have been clumsy. Every grain was precious.
+Tracks disappeared almost as quickly as they were made. The storm howled around it, but the little spirit continued its work, trudging back and forth through the snow, trying desperately to remember where it had thrown the rest. Fumbling, frozen hands dug through snow time and again. Time and again, it found a stump. Or a stone.  Then, a board. A chest. Broken, but still... half full. The _nisse_ dug out the broken chest and dragged it to the byre. Larger hands would have been clumsy. Every grain was precious.
 
 The night was spent frantically in the white. Surveying. Remembering. Searching. Failing. Finding! Dragging. Enough grain was found, and dragged to the byre for the animals. And the work still wasn't done. "Rats. Larder-goblins! Must protect the grain." It tested the strongest of the chests, and moved grain between to protect what was left. Confident, it closed the chests.
 
@@ -1243,7 +1243,7 @@ And still, the work wasn't done.
 
 The sun was coming up. The blizzard was done, but the animals still needed to be moved. It grabbed a shovel and dug a path through from the stalls to the byre. It moved every animal. Fed every mouth.
 
-The sun was fully up when the nisse closed the byre door, collapsed, and crawled into a mound of straw, and fell fast asleep. 
+The sun was fully up when the _nisse_ closed the byre door, collapsed, and crawled into a mound of straw, and fell fast asleep. 
 
 Osric woke up in a blind chill. His vision was blurry and his body ached from the stiff cold floor. In the night, he had rolled onto the ground somehow. The sour, bile-heavy scent of his own sickness clung to him. He rubbed his face and found snow crusted on his lashes and his beard. There was a sting of ice deep in his ear. He felt his arm had a thick cake of snow. He rubbed eyes and his sight cleared just enough to see a blanket of white on the remains of his roof, three feet away.
 
@@ -1404,9 +1404,9 @@ But he could crawl now. The lie had become vivid enough, he needed to prove it w
 
 They were still. There was still so little he could do, but he found he needed to talk to them. He spent hours there, his voice a low, rhythmic murmur against the silence. He told Ealhild about the creature in the wall, explaining its habits and its strange, silent help, as if she hadn't been a permanent witness to his slow descent all along. He spoke to her as if she were simply resting, and to the monster, as if it were a guest at their table.
 
-Behind the barrow stone, in the dark crack where the cold did not reach, the nisse was listening.
+Behind the barrow stone, in the dark crack where the cold did not reach, the _nisse_ was listening.
 
-It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the nisse could not—_must not_—show itself to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen in its true form was to break the bond. It was a pact the nisse was resolved, now more than ever, to renew.
+It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the _nisse_ could not—_must not_—show itself to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen in its true form was to break the bond. It was a pact the _nisse_ was resolved, now more than ever, to renew.
 
 That winter was the coldest in a lifetime. Osric's strength returned slowly. Water was plentiful so long as the fire could melt snow, but he had to ration his grain with agonizing care. That meant keeping the hearth-fire high to make sure he was warm. He had felled enough timber and stacked enough wood for what he thought would be a harsh winter. This winter, however, was relentless.
 
@@ -1446,9 +1446,9 @@ He remembered his own raspy words to the empty room a week ago: _Well... next t
 
 ---
 
-Huginn: "Welcome to Nisse's Body and Spa! Need respite from the winter? Come on by and sample our warm water and fine cuisine. Put your hooves up and get your mane braided for no extra charge!"
+Huginn: "Welcome to _Nisse_'s Body and Spa! Need respite from the winter? Come on by and sample our warm water and fine cuisine. Put your hooves up and get your mane braided for no extra charge!"
 
-Muninn: "I have to admire the nisse's ingenuity. Most people would have saved the manure for throwing at annoying announcers."
+Muninn: "I have to admire the _nisse_'s ingenuity. Most people would have saved the manure for throwing at annoying announcers."
 
 Huginn: "Cah! Is that a threat?"
 
@@ -1480,7 +1480,7 @@ Osric dragged himself out into the biting air. Using a flat piece of timber, he 
 
 One by one, he gently slid Ealhild and the children inside, laying them side-by-side in the quiet, blue-shadowed dark of the snow-chamber.
 
-When they were settled, he did not bury them in loose drift. Instead, he found the door in the yard where the nisse had thrown it and placed it over the opening, sealing the chamber door. He packed wet snow around the edges, letting the wind freeze it solid.
+When they were settled, he did not bury them in loose drift. Instead, he found the door in the yard where the _nisse_ had thrown it and placed it over the opening, sealing the chamber door. He packed wet snow around the edges, letting the wind freeze it solid.
 
 It was a perfect, silent tomb. The cold would preserve their flesh, and the thick white vault would hide their souls from the howling riders in the sky. They would rest in their temporary hill, waiting for the spring thaw, when he could finally open the door and plant them into the warm, welcoming earth. Then they could begin their journey.
 
@@ -1528,29 +1528,29 @@ Galindo narrowed his eyes to consider the words. His gaze swept from Osric to th
 
 Osric stood. He had no answer. A deep, long silence settled over the yard, broken only by the restless shifting of the horses and the distant drip of the thaw.
 
-The nisse, hidden behind the threshold stone in its crack, watched the scene unfold.
+The _nisse_, hidden behind the threshold stone in its crack, watched the scene unfold.
 
-It saw the well-appointed man on his pretty horse pelting Osric with questions. Then, men went to the byre, started to lead away two dairy cows, and all the chickens. They were talking to the horse-man, which led to more questions. One of them went to the snow bank where the ice barrow lay, and removed the door. Osric became enraged, tackling the man. Several others pulled Osric off, holding him. The nisse bit its lip, confused by the commotion. The horse-man and Osric had more words. The words made Osric very sad, and he started crying. Yelling. Tears streamed down his face. The horse-man was listening, but then he wasn't. The men jeered Osric. One of them kicked him. The horse-man said more words and waved an arm, and the men went back into the byre. They took all the animals. The nisse watched in horror as the entire byre's contents were being tied to the carts. Osric was being tied too, by the hands, and led away on foot in the procession.
+It saw the well-appointed man on his pretty horse pelting Osric with questions. Then, men went to the byre, started to lead away two dairy cows, and all the chickens. They were talking to the horse-man, which led to more questions. One of them went to the snow bank where the ice barrow lay, and removed the door. Osric became enraged, tackling the man. Several others pulled Osric off, holding him. The _nisse_ bit its lip, confused by the commotion. The horse-man and Osric had more words. The words made Osric very sad, and he started crying. Yelling. Tears streamed down his face. The horse-man was listening, but then he wasn't. The men jeered Osric. One of them kicked him. The horse-man said more words and waved an arm, and the men went back into the byre. They took all the animals. The _nisse_ watched in horror as the entire byre's contents were being tied to the carts. Osric was being tied too, by the hands, and led away on foot in the procession.
 
-Then, the nisse was all alone.
+Then, the _nisse_ was all alone.
 
 After a moment, it went back to the ice barrow of Ealhild and the children. It stared at them for a moment, their peaceful expressions, and thought of how beautiful they were. It reached over to the door, and placed it back over the icy hole, and packed it again as Osric had done.
 
-The nisse ran into the byre. The warming stone had been kicked aside. Every animal was taken, along with most of the remaining hay. There was nothing left.
+The _nisse_ ran into the byre. The warming stone had been kicked aside. Every animal was taken, along with most of the remaining hay. There was nothing left.
 
 It sat on the floor, defeated.
 
-High on a timber of the byre, a raven called to the nisse. "Caw! Caw!" The nisse stared at it for a moment. "Caaaw!" the raven flew out of the byre, and landed on a tree branch outside, looking back at the nisse expectantly.
+High on a timber of the byre, a raven called to the _nisse_. "Caw! Caw!" The _nisse_ stared at it for a moment. "Caaaw!" the raven flew out of the byre, and landed on a tree branch outside, looking back at the _nisse_ expectantly.
 
-The nisse understood what the raven was saying. It raced to the corner and grabbed an empty barrel. Barrel in hand, it bound into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The nisse took ash from the hearth, and the roasting spit.
+The _nisse_ understood what the raven was saying. It raced to the corner and grabbed an empty barrel. Barrel in hand, it bound into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The _nisse_ took ash from the hearth, and the roasting spit.
 
 All of it went into the barrel.
 
-Finally, it found a length of rope. It dug the barrow-stone from the threshold, and wrapped it heavily, leaving two arm-loops. It lifted the barrow-stone onto its back, using the loops as straps. There, in the barrow-stone's impression in the mud laid the oil string. The nisse grabbed that last, and tied it to its belt. And the nisse headed out to the road, barrow-stone on its back, barrel in its hands. It stayed in the shadows, following the raven to Leicester.
+Finally, it found a length of rope. It dug the barrow-stone from the threshold, and wrapped it heavily, leaving two arm-loops. It lifted the barrow-stone onto its back, using the loops as straps. There, in the barrow-stone's impression in the mud laid the oil string. The _nisse_ grabbed that last, and tied it to its belt. And the _nisse_ headed out to the road, barrow-stone on its back, barrel in its hands. It stayed in the shadows, following the raven to Leicester.
 
 ---
 
-Huginn: "The nisse on the road reminds me... You know after the story is done, we have that gig to get to."
+Huginn: "The _nisse_ on the road reminds me... You know after the story is done, we have that gig to get to."
 
 Muninn: "Oh, not this again."
 
