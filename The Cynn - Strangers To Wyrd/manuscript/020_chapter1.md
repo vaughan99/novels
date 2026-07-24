@@ -1,4 +1,4 @@
-## Chapter 1: A Promise of Piles
+## Chapter One: A Promise of Piles
 
 The Saxon armies had gathered from icy roads far away, to deliver death to the Danes who occupied Leicester. 
 

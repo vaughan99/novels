@@ -11,7 +11,7 @@ async function build() {
     const novel = process.argv[2];
 
     if (!novel) {
-        throw new Error("Usage: npm run build -- ../the-cynn");
+        throw new Error("Usage: npm run build -- [novelname]");
     }
 
     const manuscriptDir = path.join(novel, "manuscript");
