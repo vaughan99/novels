@@ -110,3 +110,48 @@ ${markdown}`;
 }
 
 
+const BACK_TO_TOC = '[↑ Back to Table of Contents](#table-of-contents)';
+
+export function addBackToTOCLinks(markdown, { headingLevel = 2 } = {}) {
+  const lines = markdown.split(/\r?\n/);
+  const output = [];
+
+  let insideCodeBlock = false;
+
+  for (const line of lines) {
+    if (/^\s*(```|~~~)/.test(line)) {
+      insideCodeBlock = !insideCodeBlock;
+      output.push(line);
+      continue;
+    }
+
+    const headingMatch = line.match(/^(#{1,6})\s+(.+?)\s*#*\s*$/);
+
+    const isTargetHeading =
+      !insideCodeBlock &&
+      headingMatch &&
+      headingMatch[1].length === headingLevel;
+
+    const isTocHeading =
+      isTargetHeading &&
+      headingMatch[2].trim().toLowerCase() === 'table of contents';
+
+    if (isTargetHeading && !isTocHeading) {
+      const previousMeaningfulLine = [...output]
+        .reverse()
+        .find(existingLine => existingLine.trim() !== '');
+
+      if (previousMeaningfulLine !== BACK_TO_TOC) {
+        if (output.length && output.at(-1).trim() !== '') {
+          output.push('');
+        }
+
+        output.push(BACK_TO_TOC, '');
+      }
+    }
+
+    output.push(line);
+  }
+
+  return output.join('\n');
+}

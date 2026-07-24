@@ -1,7 +1,7 @@
 import { mkdir } from "node:fs/promises";
 import { writeFile } from "node:fs/promises";
 import path from "node:path";
-import { generateTOC, insertTOC } from "./toc.mjs";
+import { generateTOC, insertTOC, addBackToTOCLinks } from "./toc.mjs";
 
 
 export async function renderMarkdown(manuscript, buildDir) {
@@ -15,7 +15,8 @@ export async function renderMarkdown(manuscript, buildDir) {
         minLevel: 2,
         maxLevel: 4,
     });
-    const manuscriptWithTOC = insertTOC(manuscript, toc);
+    let manuscriptWithTOC = insertTOC(manuscript, toc);
+    manuscriptWithTOC = addBackToTOCLinks(manuscriptWithTOC);
 
     console.log(`Rendering manuscript MD to ${mdFile}`);
     await writeFile(mdFile, manuscriptWithTOC, "utf8");
