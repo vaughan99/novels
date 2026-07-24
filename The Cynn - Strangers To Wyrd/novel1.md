@@ -1,5 +1,71 @@
 # The Cynn: Strangers To Wyrd
 
+<!-- TOC START -->
+
+## Table of Contents
+
+- [Warning](#warning)
+- [Prologue: Same Story, Two Tails](#prologue-same-story-two-tails)
+- [Leicester AD 933-943](#leicester-ad-933-943)
+- [Chapter 1: A Promise of Piles](#chapter-1-a-promise-of-piles)
+- [Chapter Two: The Tale of the Hearth-Warm Fyrdman](#chapter-two-the-tale-of-the-hearth-warm-fyrdman)
+  - [Part One: Gerdr's Tears](#part-one-gerdrs-tears)
+  - [Part Two: The Bowl](#part-two-the-bowl)
+  - [Part Three: The Feared](#part-three-the-feared)
+- [Chapter Three: The Tale of the Coal-Wise Apprentice](#chapter-three-the-tale-of-the-coal-wise-apprentice)
+  - [Part One: The Hunters of the Pit](#part-one-the-hunters-of-the-pit)
+  - [Part Two: The In-Between](#part-two-the-in-between)
+  - [Part Three: The Feast Day](#part-three-the-feast-day)
+- [Chapter Four: The Tale of the Bell's Deacon](#chapter-four-the-tale-of-the-bells-deacon)
+  - [Part One: The Liturgy of the Bell](#part-one-the-liturgy-of-the-bell)
+  - [Part Two: The Liturgy of the Road](#part-two-the-liturgy-of-the-road)
+  - [Part Three: The Liturgy of the Sword](#part-three-the-liturgy-of-the-sword)
+  - [Part Four: The Liturgy of the Wound](#part-four-the-liturgy-of-the-wound)
+  - [Part Five: The Liturgy of the Shield](#part-five-the-liturgy-of-the-shield)
+- [Chapter Five: The Blades](#chapter-five-the-blades)
+  - [Part One: The Debate](#part-one-the-debate)
+  - [Part Two: The Cynn](#part-two-the-cynn)
+- [Chapter Six: The Night of Blood](#chapter-six-the-night-of-blood)
+- [Chapter Seven: Barrow-Edge, The Hedge-Stalker](#chapter-seven-barrow-edge-the-hedge-stalker)
+- [Chapter Eight: Monanleoht, The Battle-Dancer](#chapter-eight-monanleoht-the-battle-dancer)
+- [Chapter Nine: Wodbora, The Madness-Bringer, The Prophet of the Wodhere](#chapter-nine-wodbora-the-madness-bringer-the-prophet-of-the-wodhere)
+- [Chapter Ten: Getting A Handle On Things](#chapter-ten-getting-a-handle-on-things)
+- [Epilogue](#epilogue)
+- [Afterword](#afterword)
+  - [Why Write This Book?](#why-write-this-book)
+  - [Who Are The Cynn, Really?](#who-are-the-cynn-really)
+  - [The Tenth Century](#the-tenth-century)
+    - [The Church, The Shadow Gate and Under-Geat](#the-church-the-shadow-gate-and-under-geat)
+    - [Leicester and the Peace of 943](#leicester-and-the-peace-of-943)
+    - [Living Between Worlds](#living-between-worlds)
+    - [Who Is Woden?](#who-is-woden)
+    - [Wyrd (And Why It's So Weird)](#wyrd-and-why-its-so-weird)
+    - [Inside the Debate](#inside-the-debate)
+    - [Agency of Magical Artefacts](#agency-of-magical-artefacts)
+    - [The Many Faces of the Wodhere](#the-many-faces-of-the-wodhere)
+- [Swords and Scabbards: What Are These Blades?](#swords-and-scabbards-what-are-these-blades)
+  - [Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos](#wodbora-the-madness-bringer-the-prophet-of-wodhere-the-guardian-of-chaos)
+    - [Description](#description)
+    - [Blade Construction](#blade-construction)
+    - [Handle Construction](#handle-construction)
+    - [Scabbard Construction](#scabbard-construction)
+  - [Barrow's-Edge, the Hedge-Stalker](#barrows-edge-the-hedge-stalker)
+    - [Description](#description-1)
+    - [Blade Construction](#blade-construction-1)
+    - [Handle Construction](#handle-construction-1)
+    - [Scabbard Construction](#scabbard-construction-1)
+    - [Inscriptions](#inscriptions-1)
+  - [Monanleoht, the Battle-Dancer](#monanleoht-the-battle-dancer)
+    - [Description](#description-2)
+    - [Blade Construction](#blade-construction-2)
+    - [Handle Construction](#handle-construction-2)
+    - [Scabbard Construction](#scabbard-construction-2)
+    - [Inscriptions](#inscriptions-2)
+- [AFTERLIFE](#afterlife)
+
+<!-- TOC END -->
+
+
 ## Warning
 
 The following novel contains extreme tonal whiplash. Please stop reading if you encounter any of the following symptoms:
