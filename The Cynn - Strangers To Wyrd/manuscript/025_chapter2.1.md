@@ -12,13 +12,13 @@ His cottage stood where the south-facing terrace gravels just west of the juncti
 
 "My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrd-men. "The land knew my forefathers almost three-hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
 
-Osric's wife was Ealhild, a woman of the Danes.
+Osric's wife was Ealhild, a woman of the Swedes.
 
 ---
 
-Muninn: "Don't you mean _Álhildr_? That was the name she was given at birth."
+Muninn: "Don't you mean _Álfhildr_? That was the name she was given at birth."
 
-Huginn: "I'm not going to switch between _Álhildr_ and _Ealhild_ just to satisfy your sensibilities. We're picking just one."
+Huginn: "I'm not going to switch between _Álfhildr_ and _Ealhild_ just to satisfy your sensibilities. We're picking just one."
 
 Muninn: "You're choosing her married name over her given name. Seems arbitrary."
 
@@ -26,7 +26,7 @@ Huginn: "I'm choosing the name that's easier for the children to remember. Now s
 
 ---
 
-She had been born with the name _Álhildr_, but over the years it had softened into _Ealhild_ upon Northumbrian tongues.
+She had been born with the name _Álfhildr_, but over the years it had softened into _Ealhild_ upon Northumbrian tongues.
 
 ---
 
@@ -68,7 +68,7 @@ Huginn: "No, he's... Super-BOOOOAAARRR!"
 
 ---
 
-Ealhild's family were superstitious. The family barrow was young by Dane standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it—stories, bones, stones, and memories—until it seemed older than it truly was.
+Ealhild's family were superstitious. The family barrow was young by Northmen standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it—stories, bones, stones, and memories—until it seemed older than it truly was.
 
 Her mother taught her that one day, she would marry, and would travel far away. To carry the family traditions to a new valley was a great honor, and a great responsibility.
 
@@ -139,7 +139,7 @@ Ealhild retreated inside, confident that her measures would at least track the t
 
 The next day, Ealhild reviewed the night's work. The coal lines and leveling sticks seem to show that the grain had not been touched. But, she noted also the oil had traveled to another part of the bin. The outline of a small finger on the side of the bin betrayed its origin. "Oh my sweet spirit. Only you are smart enough to counter the coal lines and leveling sticks, because you know how to erase, how to replace. But you can't fool the oil." She ran to check on the horse and livestock, and found extra grain in the horse's feed. She also saw that the horse's mane had been neatly braided, and that her horseshoes were freshly plucked and clean.
 
-Smiling, Ealhild finally knew her thief, and she was relieved. It was a nisse, a barrow-spirit, brought with her barrow-stone twelve years previous. The nissar were spirits who come forth from the barrows, and guard the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and it was sensing a terrible winter was coming. A nisse would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The nisse had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
+Smiling, Ealhild finally knew her thief, and she was relieved. It was a _tomte_—what most folk in the Danelaw called a _nisse_—a barrow-spirit that had come with her family's capstone twelve years before. The _nissar_ were spirits who come forth from the barrows, and guard the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and it was sensing a terrible winter was coming. A _nisse_ would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The _nisse_ had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
 
 She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin. "We need extra tonight... and I know just what to make," she thought to herself, as she steeled herself inside.
 
@@ -147,13 +147,13 @@ She prepared a full meal fit for the first *true* winter night: mutton on the bo
 
 The children were sent to bed, stomachs filled and laughter spent. The wind was truly howling now, like the Wild Hunt was at their doorstep. But they had seen winter before, and these wolves lost most of their bite under the childrens' blankets.
 
-Ealhild now set about soothing the nisse. Osric begged for her to come to bed, but she was adamant. "The spirit visiting the larder needs his first-winter meal too. Rye bread, and an eye of porkbelly. Please fetch me the family bowl. We must teach this spirit to work with us and trust us. It's unfamiliar to these lands, as I once was, and must understand that we can provide for all on our land." Osric dutifully obeyed, but his wife's offering seemed... different... from what *his* mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth the mischief that would prevent."
+Ealhild now set about soothing the _nisse_. Osric begged for her to come to bed, but she was adamant. "The spirit visiting the larder needs his first-winter meal too. Rye bread, and an eye of porkbelly. Please fetch me the family bowl. We must teach this spirit to work with us and trust us. It's unfamiliar to these lands, as I once was, and must understand that we can provide for all on our land." Osric dutifully obeyed, but his wife's offering seemed... different... from what *his* mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth the mischief that would prevent."
 
 Ealhild took the offering and set it on the transition stone. She retreated in quiet, and they both went to bed. Ealhild drifted fast asleep.
 
-Osric stayed up, worried about what he had just seen. He had never had reason to question Ealhild's choices before, which made this confusion all the more agonizing. He thought: "This 'nisse', it must be like one of our larder-elves, room-gods. These are Anglian lands, and the spirits of the soil hold the gate here. This foreign creature must bend to the custom of the valley, surely? But what if she's right? If her offering is true, then the spirit should be appeased. But... what if the spirit is a larder-elf? This offering would just encourage it. It wouldn't suffer the honey-sleep, it would want more of what it was just given!" With that realization, he grabbed and lit a candle, and found the syrup freshly made on the table.
+Osric stayed up, worried about what he had just seen. He had never had reason to question Ealhild's choices before, which made this confusion all the more agonizing. He thought: "This '_nisse_', it must be like one of our _larder-elves_, _room-gods_. These are Anglian lands, and the spirits of the soil hold the gate here. This foreign creature must bend to the custom of the valley, surely? But what if she's right? If her offering is true, then the spirit should be appeased. But... what if the spirit is a _larder-elf_? This offering would just encourage it. It wouldn't suffer the honey-sleep, it would want more of what it was just given!" With that realization, he grabbed and lit a candle, and found the syrup freshly made on the table.
 
-Osric retrieved the bowl from the transition and brought it inside. He was relieved that the bowl was still full. He didn't want to take a chance scaring away the spirit, so he worked quickly and quietly. He uncorked the bottle, and it yielded a subtle pop. "That's strange, it smells of roasted nuts. Perhaps Ealhild added a few from a local tree. No matter." He poured a drizzle on the glistening pork fat, and recorked the bottle, completely content that he had fixed the offering. He replaced it, as before, on the threshold, and went to bed. "If she's right, the nisse will ignore the syrup and accept the offering. If it's a larder-elf, it will suffer the honey-sleep, and we won't see him again for at least 2 moons," he whispered to himself as he fell asleep.
+Osric retrieved the bowl from the transition and brought it inside. He was relieved that the bowl was still full. He didn't want to take a chance scaring away the spirit, so he worked quickly and quietly. He uncorked the bottle, and it yielded a subtle pop. "That's strange, it smells of roasted nuts. Perhaps Ealhild added a few from a local tree. No matter." He poured a drizzle on the glistening pork fat, and recorked the bottle, completely content that he had fixed the offering. He replaced it, as before, on the threshold, and went to bed. "If she's right, the _nisse_ will ignore the syrup and accept the offering. If it's a _larder-elf_, it will suffer the honey-sleep, and we won't see him again for at least 2 moons," he whispered to himself as he fell asleep.
 
 Deep into the night, there was a sound. It wasn't the sound of a spirit at the door. It wasn't the sound of the winter roar, which had since died to a slow whistle. It was the *other* sound of winter.
 

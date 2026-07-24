@@ -38,9 +38,9 @@ But he could crawl now. The lie had become vivid enough, he needed to prove it w
 
 They were still. There was still so little he could do, but he found he needed to talk to them. He spent hours there, his voice a low, rhythmic murmur against the silence. He told Ealhild about the creature in the wall, explaining its habits and its strange, silent help, as if she hadn't been a permanent witness to his slow descent all along. He spoke to her as if she were simply resting, and to the monster, as if it were a guest at their table.
 
-Behind the barrow stone, in the dark crack where the cold did not reach, the nisse was listening.
+Behind the barrow stone, in the dark crack where the cold did not reach, the _nisse_ was listening.
 
-It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the nisse could not—_must not_—show itself to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen in its true form was to break the bond. It was a pact the nisse was resolved, now more than ever, to renew.
+It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the _nisse_ could not—_must not_—show itself to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen in its true form was to break the bond. It was a pact the _nisse_ was resolved, now more than ever, to renew.
 
 That winter was the coldest in a lifetime. Osric's strength returned slowly. Water was plentiful so long as the fire could melt snow, but he had to ration his grain with agonizing care. That meant keeping the hearth-fire high to make sure he was warm. He had felled enough timber and stacked enough wood for what he thought would be a harsh winter. This winter, however, was relentless.
 
@@ -80,9 +80,9 @@ He remembered his own raspy words to the empty room a week ago: _Well... next t
 
 ---
 
-Huginn: "Welcome to Nisse's Body and Spa! Need respite from the winter? Come on by and sample our warm water and fine cuisine. Put your hooves up and get your mane braided for no extra charge!"
+Huginn: "Welcome to _Nisse_'s Body and Spa! Need respite from the winter? Come on by and sample our warm water and fine cuisine. Put your hooves up and get your mane braided for no extra charge!"
 
-Muninn: "I have to admire the nisse's ingenuity. Most people would have saved the manure for throwing at annoying announcers."
+Muninn: "I have to admire the _nisse_'s ingenuity. Most people would have saved the manure for throwing at annoying announcers."
 
 Huginn: "Cah! Is that a threat?"
 
@@ -114,7 +114,7 @@ Osric dragged himself out into the biting air. Using a flat piece of timber, he 
 
 One by one, he gently slid Ealhild and the children inside, laying them side-by-side in the quiet, blue-shadowed dark of the snow-chamber.
 
-When they were settled, he did not bury them in loose drift. Instead, he found the door in the yard where the nisse had thrown it and placed it over the opening, sealing the chamber door. He packed wet snow around the edges, letting the wind freeze it solid.
+When they were settled, he did not bury them in loose drift. Instead, he found the door in the yard where the _nisse_ had thrown it and placed it over the opening, sealing the chamber door. He packed wet snow around the edges, letting the wind freeze it solid.
 
 It was a perfect, silent tomb. The cold would preserve their flesh, and the thick white vault would hide their souls from the howling riders in the sky. They would rest in their temporary hill, waiting for the spring thaw, when he could finally open the door and plant them into the warm, welcoming earth. Then they could begin their journey.
 
@@ -162,29 +162,29 @@ Galindo narrowed his eyes to consider the words. His gaze swept from Osric to th
 
 Osric stood. He had no answer. A deep, long silence settled over the yard, broken only by the restless shifting of the horses and the distant drip of the thaw.
 
-The nisse, hidden behind the threshold stone in its crack, watched the scene unfold.
+The _nisse_, hidden behind the threshold stone in its crack, watched the scene unfold.
 
-It saw the well-appointed man on his pretty horse pelting Osric with questions. Then, men went to the byre, started to lead away two dairy cows, and all the chickens. They were talking to the horse-man, which led to more questions. One of them went to the snow bank where the ice barrow lay, and removed the door. Osric became enraged, tackling the man. Several others pulled Osric off, holding him. The nisse bit its lip, confused by the commotion. The horse-man and Osric had more words. The words made Osric very sad, and he started crying. Yelling. Tears streamed down his face. The horse-man was listening, but then he wasn't. The men jeered Osric. One of them kicked him. The horse-man said more words and waved an arm, and the men went back into the byre. They took all the animals. The nisse watched in horror as the entire byre's contents were being tied to the carts. Osric was being tied too, by the hands, and led away on foot in the procession.
+It saw the well-appointed man on his pretty horse pelting Osric with questions. Then, men went to the byre, started to lead away two dairy cows, and all the chickens. They were talking to the horse-man, which led to more questions. One of them went to the snow bank where the ice barrow lay, and removed the door. Osric became enraged, tackling the man. Several others pulled Osric off, holding him. The _nisse_ bit its lip, confused by the commotion. The horse-man and Osric had more words. The words made Osric very sad, and he started crying. Yelling. Tears streamed down his face. The horse-man was listening, but then he wasn't. The men jeered Osric. One of them kicked him. The horse-man said more words and waved an arm, and the men went back into the byre. They took all the animals. The _nisse_ watched in horror as the entire byre's contents were being tied to the carts. Osric was being tied too, by the hands, and led away on foot in the procession.
 
-Then, the nisse was all alone.
+Then, the _nisse_ was all alone.
 
 After a moment, it went back to the ice barrow of Ealhild and the children. It stared at them for a moment, their peaceful expressions, and thought of how beautiful they were. It reached over to the door, and placed it back over the icy hole, and packed it again as Osric had done.
 
-The nisse ran into the byre. The warming stone had been kicked aside. Every animal was taken, along with most of the remaining hay. There was nothing left.
+The _nisse_ ran into the byre. The warming stone had been kicked aside. Every animal was taken, along with most of the remaining hay. There was nothing left.
 
 It sat on the floor, defeated.
 
-High on a timber of the byre, a raven called to the nisse. "Caw! Caw!" The nisse stared at it for a moment. "Caaaw!" the raven flew out of the byre, and landed on a tree branch outside, looking back at the nisse expectantly.
+High on a timber of the byre, a raven called to the _nisse_. "Caw! Caw!" The _nisse_ stared at it for a moment. "Caaaw!" the raven flew out of the byre, and landed on a tree branch outside, looking back at the _nisse_ expectantly.
 
-The nisse understood what the raven was saying. It raced to the corner and grabbed an empty barrel. Barrel in hand, it bound into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The nisse took ash from the hearth, and the roasting spit.
+The _nisse_ understood what the raven was saying. It raced to the corner and grabbed an empty barrel. Barrel in hand, it bound into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The _nisse_ took ash from the hearth, and the roasting spit.
 
 All of it went into the barrel.
 
-Finally, it found a length of rope. It dug the barrow-stone from the threshold, and wrapped it heavily, leaving two arm-loops. It lifted the barrow-stone onto its back, using the loops as straps. There, in the barrow-stone's impression in the mud laid the oil string. The nisse grabbed that last, and tied it to its belt. And the nisse headed out to the road, barrow-stone on its back, barrel in its hands. It stayed in the shadows, following the raven to Leicester.
+Finally, it found a length of rope. It dug the barrow-stone from the threshold, and wrapped it heavily, leaving two arm-loops. It lifted the barrow-stone onto its back, using the loops as straps. There, in the barrow-stone's impression in the mud laid the oil string. The _nisse_ grabbed that last, and tied it to its belt. And the _nisse_ headed out to the road, barrow-stone on its back, barrel in its hands. It stayed in the shadows, following the raven to Leicester.
 
 ---
 
-Huginn: "The nisse on the road reminds me... You know after the story is done, we have that gig to get to."
+Huginn: "The _nisse_ on the road reminds me... You know after the story is done, we have that gig to get to."
 
 Muninn: "Oh, not this again."
 
