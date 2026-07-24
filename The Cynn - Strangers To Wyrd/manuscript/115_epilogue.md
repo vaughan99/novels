@@ -86,23 +86,13 @@ The children retreated in a scattered pack, save for one. He had claimed a falle
 
 Woden looked at the boy, truly seeing him — a rare spark of the old world surviving in a jacket and sneakers. The ravens had deftly moved to a branch above them. They were silent, and they were yielding the floor.
 
-"The birds are gossips, lad. They only care for the noise of the struggle and the way a story is told," Woden said. His voice shed its gravelly park-bench persona, deepening into something massive, like wind rushing through a mountain pass. "But I was there when the dust settled. I'll tell you."
+“The birds are gossips, lad. They delight in the noise of the struggle and in the telling of it,” Woden said.
 
-He leaned forward, tracing a faint rune in the dirt with the tip of his cane.
-
-"Osric buried the sword, lad. He couldn't break it - the spirits would have been lost to the Wild Hunt. He couldn't carry it for long either - his mind and body broke every time he saw his old family. He knew that to truly live, he had to let their memory... die. Eventually... he found his new hearth. He took a wife and built a new hall where the air always smelled of honey and stew. He knew that hard work could never be replaced by the illusions of the past. He died a grandfather with a full belly and kin at his feet. His home is gone now, collapsed and buried under three feet of English mud, but Barrow-Edge remains hidden, somewhere. The threat of the Hunt is no longer. The magic is faded, I think, but if one of Osric's kin were to find the sword, it might just... open up to them."
-
-"And the small one? Meadow-Bud?" the boy asked.
-
-"Elswyth lived a long life, too," Woden nodded. "But the _Monanleoht_ took its toll. She knew that it would be hard to control the beast it unleashed. Over time, she quieted his darkness, but she had to abandon life in among others. She found a new cottage near a new forest's edge, but eventually walked into the deep woods and lived there the rest of her life. I met her soul myself when she finally let go — I guided her out of the thicket and toward the Great Hall in the sky. But her blade? She left it buried deep within the roots of an ancient oak. It only shines when the moon is exactly right. She couldn't bear the thought of another keeping the blade, so she made sure she was its only owner. Fussleton faded away too, and now the blade is... well, just a blade. Hiding deep in a forest."
-
-The boy bit his lip. "And the man with the... tornado sword? The one who confessed?"
-
-"Cynewulf," Woden spoke the name with a grim, lingering respect. "He retired from the road. He changed his name, traded his steel for a quill, and went south - to the great church-town, Canterbury. He died a humble monk, transcribing holy texts for newer generations. He found peace in the rhythm of the pen, far away from the bell-making, the mercenary-captains, and the Old Hate. And *Wodbora*... it lost its pulse. There were a few more rides left in the blade, and then the power simply drained out of the iron, and faded from existence. Then the reins of that dark carriage were passed to a lesser king, one more suited to a mortal saddle."
+“But you are right. They stopped not because they had reached the end of the tale, but because they had reached the beginning of the epic. Find the ravens again, and perhaps they will tell you the rest.”
 
 The old man stood up, his joints making no sound. Behind his feet was an old tweed guitar case with runes covering it sitting under the bench. He picked it up in one hand, after transferring his cane to the other. He turned to leave as the ravens took flight above him with a heavy, rhythmic flap of wings.
 
-"Do not waste your brief light merely weeping over cold ashes, lad. The old tales have had their day. See that the next one bears something of your making."
+"Do not waste your brief light merely weeping over cold ashes, lad. Listen to the old tales for inspiration. Then see that the next one bears something of your making."
 
 The trio continued down the road. The sun had dipped near the horizon of the mortal world, and the children’s park was finally empty. Their day’s work was done.
 
