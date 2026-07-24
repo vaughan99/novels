@@ -439,13 +439,15 @@ The only loss, in their minds, was the one fought with ink.
 
 Osric paid no attention.
 
-He was a man of tall stature but hollowed by hunger, sickness, and wounded pride. He was an outsider like many from his fyrd, strange voices in a strange land. These fyrdmen, roughly a hundred strong, had been delivered for this battle from the Tyne River, a favor from his Northumbrian lord to a Saxon debtor. His sweat and toil were payment for a debt he didn't know. His own lord sat in his hall in Northumbria, far from the battle, warm and dry.
+He was a man of tall stature but hollowed by hunger, sickness, and wounded pride. He was an outsider like many from his fyrd, strange voices in a strange land. These fyrdmen, roughly a hundred strong, had been delivered for this battle from the Tyne River, a debt paid by his Northumbrian lord to the Saxon King. His sweat and toil were payment for a debt he didn't know. His own lord sat in his hall in Northumbria, far from the battle, warm and dry.
 
 Osric's clothes were a beggar's hoard. He wore three tunics at once: a stiff, greyed linen undershirt that clung to his ribs, a moth-fretted green wool kirtle, and over that, a heavy, grease-stained warrior’s tunic, its sleeves frayed to the threads at his wrists. Around his shoulders, he had draped a heavy, mold-spotted blue cloak pinned with a rusted iron nail. His legs were a mismatched ruin of wrappings. His feet were stuffed into split-leather boots, wrapped over with greasy sheepskin rags to keep the dampness of the dirt floor from seeping into his bones. Beneath the mountain of damp wool, his face was gaunt, his eyes sunken, and his beard grown wild and tangled with bits of hearth-straw. He looked less like a man of the fyrd and more like a ghost made of rags.
 
 Osric once held an honored position in the fyrd, a tall, proud warrior-farmer with the strongest back, who anchored the shield wall. But now, he dug latrines, and wagons out of mud. When the news came, it didn't matter at the time. His attention was held by the carriage wheel that had detached, its axle flat in the muck. He didn't have time for parchment-deals, not when the baggage-master had a whip in the hand.
 
 In the battle, his survival was not decided by skill. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not soldier's work, but that of a thrall.
+
+Among the army of Olaf were Northumbrian levies, farmers like Osric from neighboring towns but paying homage to York instead of the Saxons. He had hoped not to meet them in battle, as his wife's kinsmen were from the _Piceringas_ near York, and he had traded with others on Olaf's side. 
 
 Elswyth was from Under-Geat, a daughter of the charcoal and the forest. She seldom mingled with the village-folk now, for she had spent half her life balanced on the sharp edge between truth and lie. Which was which depended on who you asked.
 
@@ -461,7 +463,7 @@ That morning, she took the news of the peace with dread. She had no ear for war,
 
 Osric's Tyne River fyrd was one of the companies encamped just outside Under-Geat. Their wagon master was a Scot named Murdock, a fire-bearded man whose first instinct was always to count: wagons, oxen, barrels, sacks, and finally people. He had seen Elswyth faithfully deliver her bounty for several weeks. And with the mud, his count of spare axles was down to a single hand. He needed a forester to prepare for the worst. Broken axles did not grow on wagons, and hungry men did not march on promises.
 
-Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her clean Easter tunic wrapped in burlap, and the twine and triggers of her traps - all kept in a bundle of empty charcoal sacks.
+Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her wedge-driving cudgel, an assortment of iron and wooden wedges, her clean Easter tunic wrapped in linen, and the twine and triggers of her traps - all kept in a bundle of empty charcoal sacks.
 
 And finally, her hand found the smooth lump of coal in her pocket, polished over years of handling until it shone like black glass.
 

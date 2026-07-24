@@ -217,9 +217,11 @@ She stepped down from her ladder once more.
 
 Shadow-Wife turned towards her cottage by the graves. "Now, go fetch your sacks. You'll find the cowl folded at the foot of the cross."
 
-She dug in the refuse piles of the yardworks and foundry, looking for torn sacks. There were several. She took every sack she could find, along with a sliver of brass no bigger than her thumb. With a little filing, it would make a fine needle. She also found the cowl beneath the last cross of the graveyard, just as Shadow-Wife had said.
+She dug in the refuse piles of the yardworks and foundry, looking for torn sacks. There were several. She took every sack she could find. Moving along to the casting refuse, she found a sliver of brass no bigger than her thumb. With a little filing, it would make a fine needle. Lastly, she found the flashing and sprues of a bell-casting. These would make good wedges until proper iron ones could be bought.
 
-She avoided the patrols as easily as she avoided anything in the forest. Her feet found the path to Long-Mile's wagon shed amongst the workshops of the Church Quarter. She knew he slept in a loft above the wagon if he were home.
+She also found the cowl beneath the last cross of the graveyard, just as Shadow-Wife had said.
+
+She avoided the patrols as easily as she avoided anything in the forest. Her feet found the path to Long-Mile's wagon shed in Carters' Row. She knew he slept in a loft above the wagon if he were home.
 
 She slowly pulled at the shed's door and it creaked open. She could hear him snoring.
 
@@ -281,9 +283,9 @@ Long-Mile laughed aloud. "Of course you are! You know I can't keep a straight fa
 
 He stroked his thin wispy beard.
 
-"No, I'm just _Long-Mile_. Everyone's friend, but no one's _court sage_. Words flow into these ears, child, but they don't leave the lips. You'd be surprised what folk will tell a carter."
+"No, I'm just _Long-Mile_. Everyone's friend, but no one's _court sage_. Words flow into these ears, child, but they don't leave the lips. You'd be surprised what folk will tell a carter. And 'ole Bread and Butter here pick up bits of conversation too, I'm sure."
 
-Long-Mile lit a candle and they climbed into the back of the wagon. It was the first long, proper talk Elswyth had had with a normal person in her short memory. She listened to his stories while she sewed her coal bags shut with strips of linden bast, a forest trick Fussleton had taught her. The same stitches he used for clothing closed torn sacks as neatly as any tunic.
+Long-Mile brushed the shoulders of Butter, while Elswyth brushed the shoulders of Bread while talking about the last year. When that was done, they climbed into the back of the wagon. It was the first long, proper talk Elswyth had had with a normal person in her short memory. She listened to his stories while she sewed her coal bags shut with strips of linden bast, a forest trick Fussleton had taught her. The same stitches he used for clothing closed torn sacks as neatly as any tunic.
 
 Just before morning, she left him for the quiet of her ruined hut and slept through the light of day.
 
@@ -321,13 +323,13 @@ Long-Mile barely caught the penny, almost dropping it under his seat. He narrowe
 
 ---
 
-Bread: "Butter, I didn't know you spoke Old Norse."
+Bread: "Butter, I didn't know you can teach Old Norse."
 
-Butter: "Bread, I didn't know you didn't know how to speak Old Norse."
+Butter: "Bread, I can teach any language."
 
 Bread: "Can you teach me?"
 
-Butter: "I can teach you."
+Butter: "I would be overjoyed to teach you."
 
 Bread: "On the road?"
 
@@ -335,15 +337,29 @@ Butter: "Where else?"
 
 Bread: "How do you say _hole_ in Old Norse?"
 
-Butter: "How? Well first, you step out of the hole."
+Butter: "How? Well first, you find a hole."
 
-Bread: "Oh. That's easy."
+Bread: "Like this one?"
 
-Butter: "Then, you say the word."
+Butter: "Delightful! Then, you step into the hole and say 'hole'"
+
+Bread: "Alright, here I go! I've stepped into the hole. 'Hole'. Did I say it right?"
+
+Butter: "Splendid! You're doing well. Then you step out of the hole."
+
+Bread: "Oh. That's easy. Hardly any effort!"
+
+Butter: "Then, you say the word for hole in that language."
 
 Bread: "Oh. That's easy too."
 
 Butter: "See?"
+
+Bread: "So, what's the word for hole in Old Norse?"
+
+Butter: "I don't know. The ride ended before I learned that part."
+
+Bread: "Well, let me know when you get there."
 
 Long-Mile: "WHHHAAA! Stop waking me up you two!"
 
