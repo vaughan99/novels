@@ -6833,7 +6833,7 @@ Elswyth and Osric entered the Old Frith.
 
 The churchyard had become a refuge for every sort of soul. Farmers, merchants, craftsmen, widows, and travelers wandered among the graves and parish buildings, waiting for news, bread and broth, or simply somewhere safe to stand.
 
-Rumors drifted through the crowd as freely as the smoke. Some insisted the peace had been broken. Others swore it had held. The Danes now holding the town seemed far more interested in making silver from the wagons than in settling the argument.
+Rumors drifted through the crowd as freely as the smoke. Last night, there was a battle outside the North Gate. Some insisted the peace had been broken. Others swore it had held. The Danes now holding the town seemed far more interested in making silver from the wagons themselves than in settling the argument.
 
 Regardless, nobody paid them any heed.
 
@@ -6893,11 +6893,11 @@ He jabbed a thumb towards Cynewulf's black-oiled mail.
 
 "If you've got another perfectly true tale that'll sound like drunken nonsense tomorrow, I'd rather hear it after I find some ale."
 
-Osric and Elswyth looked at each other, then at Cynewulf. The old veteran's hand dropped onto the handle of _Wodbora_. He quickly drew his cloak over it. His face curled into a slight smirk, and his eyes veered downward, staring at the the drying mud.
+Osric and Elswyth looked at each other, then at Cynewulf. His skin-cracked hand dropped onto the handle of _Wodbora_. He quickly drew his cloak over it. His face curled into a slight smirk, and his eyes veered downward, staring at the the drying mud.
 
 It's obvious he didn't want to talk about it.
 
-One-eye leaned in. A smile crept across his face.
+One-Eye leaned in. A smile crept across his face.
 
 "So, if the angels' price for new kit is a miracle, does dropping a man at fifty paces count? I mean, they must know I have only one eye?"
 
@@ -6925,7 +6925,7 @@ Since arriving in Leicester with her parents as a young girl, Elswyth had been n
 
 For the first time, she felt like a sapling in a pot—not bound to the earth.
 
-"Well, what are waiting for?"
+"Well, what are we waiting for?"
 
 Cynewulf knew this conversation well in his own mind. His own _Liturgy of the Road_ had drilled it into him from the day he left Leicester long ago.
 
@@ -7009,13 +7009,13 @@ He wanted to be worthy of it.
 
 High above the fading smoke of Leicester, where the rain clouds have given way to the smiling sun, Woden and Freyr observed humanity once more.
 
-Woden tugged at his shepherds robe with his hand, the other held _Gungnir_ tightly.
+Woden tugged at his shepherd's robe with one hand, the other held _Gungnir_ tightly.
 
 "The battles went as I expected. Your elves were adequate to the task."
 
 Freyr smiled.
 
-Woden continued, "Osric was indeed resurrected, and walks still. _Christ_ allowed his soul to return without claiming it. But the blade... he wears it still."
+Woden continued, "Osric was indeed resurrected, and walks still. _Christ_ allowed his soul to return without claiming it. But the blade... he wears it yet."
 
 Freyr watched Osric as he told Tor exactly where to find the chests in the bathhouse ruin.
 
@@ -7184,19 +7184,19 @@ Woden looked at the boy, truly seeing him — a rare spark of the old world surv
 
 He leaned forward, tracing a faint rune in the dirt with the tip of his cane.
 
-"Osric buried the sword, lad. He couldn't break it - the spirits would have been lost to the Wild Hunt. He couldn't carry it either - his mind and body broke every time he saw his old family. He knew that to truly live, he had to let their memory... die. Eventually... he found his new hearth. He took a wife and built a hall where the air always smelled of honey and stew, just as the blade promised. He knew that hard work could never be replaced by the illusions of the past. He died a grandfather with a full belly and kin at his feet. His home is gone now, collapsed and buried under three feet of English mud, but Barrow's Edge remains hidden, somewhere. The threat of the Hunt is no longer. The magic is faded, I think, but if one of Osric's kin were to find the sword, it might just... open up to them."
+"Osric buried the sword, lad. He couldn't break it - the spirits would have been lost to the Wild Hunt. He couldn't carry it for long either - his mind and body broke every time he saw his old family. He knew that to truly live, he had to let their memory... die. Eventually... he found his new hearth. He took a wife and built a new hall where the air always smelled of honey and stew. He knew that hard work could never be replaced by the illusions of the past. He died a grandfather with a full belly and kin at his feet. His home is gone now, collapsed and buried under three feet of English mud, but Barrow-Edge remains hidden, somewhere. The threat of the Hunt is no longer. The magic is faded, I think, but if one of Osric's kin were to find the sword, it might just... open up to them."
 
 "And the small one? Meadow-Bud?" the boy asked.
 
-"Elswyth lived a long life, too," Woden nodded. "But the *Mōnanleoht* took its toll. She knew that it would be hard to control the beast it unleashed. Over time, she quieted his darkness, but she had to abandon life at the forest edge. She left her cottage and walked into the deep woods and lived there the rest of her life. I met her soul myself when she finally let go — I guided her out of the thicket and toward the Great Hall in the sky, for we were kin by then. But her blade? She left it buried deep within the roots of an ancient oak. It only shines when the moon is exactly right. She couldn't bear the thought of another keeping the blade, so she made sure she was its only, and last, owner. Fussleton faded away, and now the blade is... well, just a blade. Hiding deep in a forest."
+"Elswyth lived a long life, too," Woden nodded. "But the _Monanleoht_ took its toll. She knew that it would be hard to control the beast it unleashed. Over time, she quieted his darkness, but she had to abandon life in among others. She found a new cottage near a new forest's edge, but eventually walked into the deep woods and lived there the rest of her life. I met her soul myself when she finally let go — I guided her out of the thicket and toward the Great Hall in the sky. But her blade? She left it buried deep within the roots of an ancient oak. It only shines when the moon is exactly right. She couldn't bear the thought of another keeping the blade, so she made sure she was its only owner. Fussleton faded away too, and now the blade is... well, just a blade. Hiding deep in a forest."
 
 The boy bit his lip. "And the man with the... tornado sword? The one who confessed?"
 
 "Cynewulf," Woden spoke the name with a grim, lingering respect. "He retired from the road. He changed his name, traded his steel for a quill, and went south - to the great church-town, Canterbury. He died a humble monk, transcribing holy texts for newer generations. He found peace in the rhythm of the pen, far away from the bell-making, the mercenary-captains, and the Old Hate. And *Wodbora*... it lost its pulse. There were a few more rides left in the blade, and then the power simply drained out of the iron, and faded from existence. Then the reins of that dark carriage were passed to a lesser king, one more suited to a mortal saddle."
 
-The old man stood up, his joints making no sound. Behind his feet was an old tweed guitar case with runes covering it. He picked it up in one hand, after transferring his cane to the other. He turned to leave as the ravens took flight above him with a heavy, rhythmic flap of wings.
+The old man stood up, his joints making no sound. Behind his feet was an old tweed guitar case with runes covering it sitting under the bench. He picked it up in one hand, after transferring his cane to the other. He turned to leave as the ravens took flight above him with a heavy, rhythmic flap of wings.
 
-"Do not waste your brief light merely weeping over cold ashes, lad, or staring into a dead man's mirror. The old shepherds are gone, and the flocks have moved within newer walls. But the world before you is still a forge, and the hammer is in your hands. Look closely at what the world discards — an old rusted spring by the roadside, a buried rail-spike, or a broken soul caked in mud. Dig them up, scrape away the grime, and let them be useful again. For the finest blades are always born from the things that were once forgotten."
+"Do not waste your brief light merely weeping over cold ashes, lad. The old tales have had their day. See that the next one bears something of your making."
 
 The trio continued down the road. The sun had dipped near the horizon of the mortal world, and the children’s park was finally empty. Their day’s work was done.
 
@@ -7206,50 +7206,51 @@ The trio continued down the road. The sun had dipped near the horizon of the mor
 
 With a quiet step across the threshold of the margins, Woden and the ravens started their commute to the Afterlife. The final remnants of a conversation trailed through the park as they left.
 
-"Okay, now explain this again," said Huginn. "Missionaries used the likeness of Freyr when talking to the Danes about conversion. So... Freyr was basically Viking Jesus?"
+Huginn: “Okay, now explain this again. Couldn’t missionaries have used Freyr when talking to the Danes about conversion? Freyr was basically Viking Jesus.”
 
-Muninn: "Absolutely not."
+Muninn: “Absolutely not.”
 
-Huginn: "Scandi-Jesus?"
+Huginn: “Scandi-Jesus?”
 
-Muninn: "Even worse."
+Muninn: “Even worse.”
 
-Huginn: "Then why did the missionaries keep talking about him?"
+Huginn: “Seems like a lost opportunity.”
 
-Muninn: "Because wise teachers begin with what people already love."
+Muninn: “Wise teachers begin with what people find familiar. But the old religion was never that tidy. Not every Dane cared particularly about Freyr. Missionaries had Thor, Odin, local gods, household spirits, and any number of customs to contend with.”
 
-Huginn: "A nice pile of turkey legs?"
+Huginn: “Maybe they should’ve started with a nice pile of turkey legs.”
 
-Muninn: "No. The Danes already admired generosity, harvest, peace after winter, and a lord who cared whether ordinary folk prospered. So missionaries started there. They showed how Christ embodied those virtues... and far more besides."
+Muninn: “Freyr represented generosity, harvest, peace after winter, and a lord who cared whether ordinary folk prospered. So I cannot say you’re completely wrong. A missionary could have started there, showing how Christ embodied those virtues... and far more besides.”
 
-Huginn: "So Freyr was... the training wheels?"
+Huginn: “So Freyr could have been... the training wheels?”
 
-Muninn: "No."
+Muninn: “No.”
 
-Huginn: "The appetizer?"
+Huginn: “The appetizer?”
 
-Muninn: "Closer."
+Muninn: “Closer.”
 
-Huginn: "The trailer before the feature?"
+Huginn: “The trailer before the feature?”
 
-Muninn: "More like the prequel."
+Muninn: “More like the prequel.”
 
-Huginn: "They should get the same actor to play Jesus and Freyr, and just give one a mustache or a tattoo. But wait..."
+Huginn: “They should get the same actor to play Jesus and Freyr and just give one a mustache or a tattoo. But wait...”
 
-Muninn: "What now?"
+Muninn: “What now?”
 
-Huginn: "How would they explain Jesus having a golden boar?"
+Huginn: “How would they explain Jesus having a golden boar?”
 
-Muninn: "They wouldn't."
+Muninn: “They wouldn’t.”
 
-Huginn: "So Gullinbursti goes homeless?"
+Huginn: “So Gullinbursti goes homeless?”
 
-Muninn: "No, he didn't become homeless."
+Muninn: “No, he didn’t become homeless.”
 
-Huginn: "That's alright, he can move in with us."
+Huginn: “Well, if he *did* need a new home, he could move in with us. Isn’t that right, Steve? It would be nice to have a superhero around.”
 
-Muninn: "I'm glad you and I aren't writing a prequel... or a sequel."
+Steve nodded, flicking up and down enthusiastically.
 
+Muninn: “I’m glad you and I aren’t writing a prequel... or a sequel.”
 
 
 ## Afterword
