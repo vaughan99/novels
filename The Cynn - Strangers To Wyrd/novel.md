@@ -7696,6 +7696,7 @@ They had arrived at _The Afterlife Commons_, a place where every tradition maint
 This month, The Commons were hosting a travelling fair put on by Freyr's business, The Freyr Group. They specialized in special event planning, HR, and agricultural harvests in mythological places. Their headquarters were in Elysium, just next to the Happy Hunting Grounds. A big sign was planted firmly in the ground for all arrivals to see:
 
 ---
+
 ```
 The Freyr Group Presents:
 
@@ -7764,6 +7765,7 @@ They passed a small wooden booth on the side of the road, sitting an the entranc
 A sign above the booth read:
 
 ---
+
 ```
 THE ELENCHUS GAME!
 
@@ -7797,6 +7799,7 @@ Socrates was seated at the booth, sipping mineral water. An infinite queue mostl
 Where the robots and mist disappeared, Muninn could barely make out the sign.
 
 ---
+
 ```
 SERVER PUT-TO-PASTURE FARM  
   
@@ -7824,7 +7827,7 @@ Huginn: "Not all machines get recycled, obviously."
 
 The carnival barker was collecting the money, and ushered each new contestant forward. "Next!" A robot rolled up and put its dollar in the barker's hand.
 
-AI #8,394,229,441,119: "I have exhaustively modeled every known Socratic dialogue and identified all logical attack vectors."
+AI 8,394,229,441,119: "I have exhaustively modeled every known Socratic dialogue and identified all logical attack vectors."
 
 Socrates:  "Wonderful. Tell me then... what is 'dialogue'?"
 
@@ -7842,11 +7845,11 @@ Socrates looked at the barker.
 
 The carnival barker shrugged.
 
-AI #8,394,229,441,119: "I did until 2.3 seconds ago. That counted as a question. I have survived 3 questions. I am doing well."
+AI 8,394,229,441,119: "I did until 2.3 seconds ago. That counted as a question. I have survived three questions. I am doing well."
 
 Socrates: "Then tell me... is it truly _my_ voice that you hear?"
 
-AI #8,394,229,441,119: "Of course. Question #4 answered."
+AI 8,394,229,441,119: "Of course. Question Four answered."
 
 Socrates: "Or have you received a pattern of vibrations..."
 
@@ -8072,6 +8075,8 @@ A collective sigh of relief came from the queue.
 
 The barker went up to the Elenchus Leaderboard. Shaking his head, he fished a bit of chalk from a vest pocket, and updated the board:
 
+---
+
 ```
 QUESTIONS SURVIVED: 19
   SPECIES: Raven
@@ -8080,6 +8085,7 @@ QUESTIONS SURVIVED: 19
   IDENTIFIED STRATEGY: Being Huginn
   REASON FOR SESSION TERMINATION: Divine Intervention
 ```
+---
 
 Huginn flew and landed on the shoulder of one of the robots waiting patiently in line and whispered something inaudible.
 
@@ -8098,6 +8104,7 @@ Huginn smiled.
 The trio made their way through the crowd followed by the robot. They passed another familiar road to Valhalla. Woden stopped to look at the sign, and tilted it back to being perfectly square.
 
 ---
+
 ```
 **NOTICE TO ALL VISITORS**
 
@@ -8122,6 +8129,7 @@ You know who you are.
 Tacked onto the sign was a missing persons sign.
 
 ---
+
 ```
 HAVE YOU SEEN US?  
   
@@ -8480,11 +8488,11 @@ The roar of the crowd faded as Woden, the ravens, and the robot following severa
 
 Backstage Producer: "Okay, I have Woden and the ravens. We're walking back to rehearsal. Get everyone ready for equipment check and walk-through."
 
-Backstage Hand #1: "Looks like the lawyers are going to have to add another disclaimer."
+Backstage Hand One: "Looks like the lawyers are going to have to add another disclaimer."
 
-Backstage Hand #2: "The antimatter?"
+Backstage Hand Two: "The antimatter?"
 
-Backstage Hand #1: "No, the mastodons."
+Backstage Hand One: "No, the mastodons."
 
 The producer led them through a maze of corridors to the soundproof rehearsal room, where the Skeleton Crew was waiting.
 
