@@ -634,13 +634,15 @@ The only loss, in their minds, was the one fought with ink.
 
 Osric paid no attention.
 
-He was a man of tall stature but hollowed by hunger, sickness, and wounded pride. He was an outsider like many from his fyrd, strange voices in a strange land. These fyrdmen, roughly a hundred strong, had been delivered for this battle from the Tyne River, a favor from his Northumbrian lord to a Saxon debtor. His sweat and toil were payment for a debt he didn't know. His own lord sat in his hall in Northumbria, far from the battle, warm and dry.
+He was a man of tall stature but hollowed by hunger, sickness, and wounded pride. He was an outsider like many from his fyrd, strange voices in a strange land. These fyrdmen, roughly a hundred strong, had been delivered for this battle from the Tyne River, a debt paid by his Northumbrian lord to the Saxon King. His sweat and toil were payment for a debt he didn't know. His own lord sat in his hall in Northumbria, far from the battle, warm and dry.
 
 Osric's clothes were a beggar's hoard. He wore three tunics at once: a stiff, greyed linen undershirt that clung to his ribs, a moth-fretted green wool kirtle, and over that, a heavy, grease-stained warrior’s tunic, its sleeves frayed to the threads at his wrists. Around his shoulders, he had draped a heavy, mold-spotted blue cloak pinned with a rusted iron nail. His legs were a mismatched ruin of wrappings. His feet were stuffed into split-leather boots, wrapped over with greasy sheepskin rags to keep the dampness of the dirt floor from seeping into his bones. Beneath the mountain of damp wool, his face was gaunt, his eyes sunken, and his beard grown wild and tangled with bits of hearth-straw. He looked less like a man of the fyrd and more like a ghost made of rags.
 
 Osric once held an honored position in the fyrd, a tall, proud warrior-farmer with the strongest back, who anchored the shield wall. But now, he dug latrines, and wagons out of mud. When the news came, it didn't matter at the time. His attention was held by the carriage wheel that had detached, its axle flat in the muck. He didn't have time for parchment-deals, not when the baggage-master had a whip in the hand.
 
 In the battle, his survival was not decided by skill. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not soldier's work, but that of a thrall.
+
+Among the army of Olaf were Northumbrian levies, farmers like Osric from neighboring towns but paying homage to York instead of the Saxons. He had hoped not to meet them in battle, as his wife's kinsmen were from the _Piceringas_ near York, and he had traded with others on Olaf's side. 
 
 Elswyth was from Under-Geat, a daughter of the charcoal and the forest. She seldom mingled with the village-folk now, for she had spent half her life balanced on the sharp edge between truth and lie. Which was which depended on who you asked.
 
@@ -656,7 +658,7 @@ That morning, she took the news of the peace with dread. She had no ear for war,
 
 Osric's Tyne River fyrd was one of the companies encamped just outside Under-Geat. Their wagon master was a Scot named Murdock, a fire-bearded man whose first instinct was always to count: wagons, oxen, barrels, sacks, and finally people. He had seen Elswyth faithfully deliver her bounty for several weeks. And with the mud, his count of spare axles was down to a single hand. He needed a forester to prepare for the worst. Broken axles did not grow on wagons, and hungry men did not march on promises.
 
-Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her clean Easter tunic wrapped in burlap, and the twine and triggers of her traps - all kept in a bundle of empty charcoal sacks.
+Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her wedge-driving cudgel, an assortment of iron and wooden wedges, her clean Easter tunic wrapped in linen, and the twine and triggers of her traps - all kept in a bundle of empty charcoal sacks.
 
 And finally, her hand found the smooth lump of coal in her pocket, polished over years of handling until it shone like black glass.
 
@@ -1658,7 +1660,7 @@ The _Old Frith_ was also shared with the neighboring _Church of St. Martin_. Eac
 
 The villagers were commonfolk whose livelihoods centered on the church. They would bring their wares to the _Shadow Gate_ and wait for the creak of the old oak doors. Once open, they would file into the _Old Frith_, setting up stalls, telling gossip, and making exchanges. During the day, the gate would open and the clergy would mingle, telling stories, offering prayers and teaching lorica. Vendors from inside Leicester would arrive to the _Old Frith_. All business was conducted under the watchful eyes of two large stone face masks facing into the _Old Frith_.
 
-_Blackjoy_ was the one whose jaw was clenched and his eyes narrow. He was neither sad nor angry - more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest"—the villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. Oddly, the church placed a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
+_Blackjoy_ was the one whose jaw was clenched and his eyes narrow. He was neither sad nor angry - more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest"—the villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
 
 _Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning, and its closing each evening. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather.
 
@@ -1717,7 +1719,7 @@ Despite her impatience, the wisdom seemed solid to her, and so that was the fami
 
 But she hated the nickname. "_Meadow-bud_, I'm nothing of the sort," she thought, as she would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She was already stronger than he realized. "My father will see, I'm not merely the coal-maid. I will follow him into the forest and together we will fell the trees."
 
-Elswyth and Eadgyth worked the pits in cycles. Godwine felled timber and hauled it to the drying stacks. Once seasoned, the wood was stacked into a waiting charcoal clamp. Some pits burned fiercely beneath their earthen coverings, others merely smoldered, and others cooled after days of careful watching. When a pit had finally gone cold, the family filled burlap sacks with the finished charcoal.
+Elswyth and Eadgyth worked the pits in cycles. Godwine felled timber and hauled it to the drying stacks. Once seasoned, the wood was stacked into a waiting charcoal clamp. Some pits burned fiercely beneath their earthen coverings, others merely smoldered, and others cooled after days of careful watching. When a pit had finally gone cold, the family filled coarse hemp sacks with the finished charcoal.
 
 Leicester had several carters who knew the roads around the town. But none had traveled as far and wide as Long-Mile. His given name was long forgotten, even by himself, as even as a child, he roamed far from home to his mother's dismay.
 
@@ -2051,9 +2053,11 @@ She stepped down from her ladder once more.
 
 Shadow-Wife turned towards her cottage by the graves. "Now, go fetch your sacks. You'll find the cowl folded at the foot of the cross."
 
-She dug in the refuse piles of the yardworks and foundry, looking for torn sacks. There were several. She took every sack she could find, along with a sliver of brass no bigger than her thumb. With a little filing, it would make a fine needle. She also found the cowl beneath the last cross of the graveyard, just as Shadow-Wife had said.
+She dug in the refuse piles of the yardworks and foundry, looking for torn sacks. There were several. She took every sack she could find. Moving along to the casting refuse, she found a sliver of brass no bigger than her thumb. With a little filing, it would make a fine needle. Lastly, she found the flashing and sprues of a bell-casting. These would make good wedges until proper iron ones could be bought.
 
-She avoided the patrols as easily as she avoided anything in the forest. Her feet found the path to Long-Mile's wagon shed amongst the workshops of the Church Quarter. She knew he slept in a loft above the wagon if he were home.
+She also found the cowl beneath the last cross of the graveyard, just as Shadow-Wife had said.
+
+She avoided the patrols as easily as she avoided anything in the forest. Her feet found the path to Long-Mile's wagon shed in Carters' Row. She knew he slept in a loft above the wagon if he were home.
 
 She slowly pulled at the shed's door and it creaked open. She could hear him snoring.
 
@@ -2115,9 +2119,9 @@ Long-Mile laughed aloud. "Of course you are! You know I can't keep a straight fa
 
 He stroked his thin wispy beard.
 
-"No, I'm just _Long-Mile_. Everyone's friend, but no one's _court sage_. Words flow into these ears, child, but they don't leave the lips. You'd be surprised what folk will tell a carter."
+"No, I'm just _Long-Mile_. Everyone's friend, but no one's _court sage_. Words flow into these ears, child, but they don't leave the lips. You'd be surprised what folk will tell a carter. And 'ole Bread and Butter here pick up bits of conversation too, I'm sure."
 
-Long-Mile lit a candle and they climbed into the back of the wagon. It was the first long, proper talk Elswyth had had with a normal person in her short memory. She listened to his stories while she sewed her coal bags shut with strips of linden bast, a forest trick Fussleton had taught her. The same stitches he used for clothing closed torn sacks as neatly as any tunic.
+Long-Mile brushed the shoulders of Butter, while Elswyth brushed the shoulders of Bread while talking about the last year. When that was done, they climbed into the back of the wagon. It was the first long, proper talk Elswyth had had with a normal person in her short memory. She listened to his stories while she sewed her coal bags shut with strips of linden bast, a forest trick Fussleton had taught her. The same stitches he used for clothing closed torn sacks as neatly as any tunic.
 
 Just before morning, she left him for the quiet of her ruined hut and slept through the light of day.
 
@@ -2155,13 +2159,13 @@ Long-Mile barely caught the penny, almost dropping it under his seat. He narrowe
 
 ---
 
-Bread: "Butter, I didn't know you spoke Old Norse."
+Bread: "Butter, I didn't know you can teach Old Norse."
 
-Butter: "Bread, I didn't know you didn't know how to speak Old Norse."
+Butter: "Bread, I can teach any language."
 
 Bread: "Can you teach me?"
 
-Butter: "I can teach you."
+Butter: "I would be overjoyed to teach you."
 
 Bread: "On the road?"
 
@@ -2169,15 +2173,29 @@ Butter: "Where else?"
 
 Bread: "How do you say _hole_ in Old Norse?"
 
-Butter: "How? Well first, you step out of the hole."
+Butter: "How? Well first, you find a hole."
 
-Bread: "Oh. That's easy."
+Bread: "Like this one?"
 
-Butter: "Then, you say the word."
+Butter: "Delightful! Then, you step into the hole and say 'hole'"
+
+Bread: "Alright, here I go! I've stepped into the hole. 'Hole'. Did I say it right?"
+
+Butter: "Splendid! You're doing well. Then you step out of the hole."
+
+Bread: "Oh. That's easy. Hardly any effort!"
+
+Butter: "Then, you say the word for hole in that language."
 
 Bread: "Oh. That's easy too."
 
 Butter: "See?"
+
+Bread: "So, what's the word for hole in Old Norse?"
+
+Butter: "I don't know. The ride ended before I learned that part."
+
+Bread: "Well, let me know when you get there."
 
 Long-Mile: "WHHHAAA! Stop waking me up you two!"
 
