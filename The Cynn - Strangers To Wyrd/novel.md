@@ -66,6 +66,8 @@
 <!-- TOC END -->
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Warning
 
 The following novel contains extreme tonal whiplash. Please stop reading if you encounter any of the following symptoms:
@@ -91,6 +93,8 @@ If any of these symptoms persist please contact your local philosopher or theolo
 However, if any of these symptoms seem even the _slightest_ bit delightful... welcome to _The Cynn_. By the end of the book, you'll understand why.
 
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Prologue: Same Story, Two Tails
 
@@ -132,6 +136,8 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 
 "It was April 20th," Muninn interrupted. "And it was morning."
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Leicester AD 933-943
 
@@ -184,6 +190,8 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 | North Gate                    | Road to Nottingham                           |
 | East Gate                     | Fosse Way to Lincoln                         |
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter One: A Promise of Piles
 
@@ -1002,6 +1010,8 @@ Huginn: "I said stop teasing me!"
 
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Two: The Tale of the Hearth-Warm Fyrdman
 
 ### Part One: Gerdr's Tears
@@ -1615,6 +1625,8 @@ Huginn: "You say that now."
 Muninn: "I said it a thousand years ago."
 
 Huginn: "And yet here you are."
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter Three: The Tale of the Coal-Wise Apprentice
 
@@ -2950,6 +2962,8 @@ Huginn: "You have to admit he made a wonderful menu."
 Muninn: "Yes. I think _you'd_ call it 'Tuesday night's supper.'"
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Four: The Tale of the Bell's Deacon
 
 ### Part One: The Liturgy of the Bell
@@ -2958,7 +2972,7 @@ _A bell rings in the distance, and people orient themselves to it. They use it t
 
 _These are the lessons of the Bell_.
 
-This story starts earlier, 913 AD; Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
+This story starts earlier in 913 AD. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
 
 Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
 
@@ -4394,6 +4408,8 @@ Huginn: "Yes, but their weapons make for inedible corpses."
 Muninn: "I've watched you for a thousand years. Fine dining and freshness have never occupied the same thought where _you're_ concerned."
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Five: The Blades
 
 ### Part One: The Debate
@@ -5038,6 +5054,8 @@ Muninn: "You didn't bird-brain. All-Father told them to put us there, remember? 
 Huginn: "I'm getting hungry. The sun is setting. Let's see if the Night of Blood has begun."
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Six: The Night of Blood
 
 The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled yet again on the North Gate road. The iron-bound wheels strained against the sucking mud, forcing pins to shear and snapping seasoned ash axles like dry twigs.
@@ -5238,6 +5256,8 @@ Across the top rested a black leather scabbard embossed with two ragged ravens, 
 
 The giant Rognvaldr slowly climbed the steps into the churchyard. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter Seven: Barrow-Edge, The Hedge-Stalker
 
@@ -5608,6 +5628,8 @@ He marveled at the craft of the equipment.
 He picked up the spangenhelm.
 
 "Well, it's either this or a wolf's head. I rather prefer how I'd look in this."
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter Eight: Monanleoht, The Battle-Dancer
 
@@ -6094,6 +6116,8 @@ Beneath the clothing, she also found a woodsman's felling axe. Its broad bit car
 Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three small brass bells - each scarcely larger than a walnut - and small iron fittings whose purpose she could only guess.
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Nine: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
 Cynewulf stood on the porch of the church. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Rognvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
@@ -6510,6 +6534,8 @@ His smile faded.
 
 "If that is indeed who you are... Take them quietly with the Church's blessing."
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter Ten: Getting A Handle On Things
 
@@ -7092,6 +7118,8 @@ Freyr smiled.
 Woden spent the long day pondering that question. He had no answer.
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Epilogue
 
 Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The childrens' beaks aren't ready for tougher meat, Huginn! The way YOU tell it, every little person they meet will be a psycho murder-gnome!"
@@ -7252,6 +7280,8 @@ Steve nodded, flicking up and down enthusiastically.
 
 Muninn: “I’m glad you and I aren’t writing a prequel... or a sequel.”
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Afterword
 
@@ -7500,6 +7530,9 @@ For modern readers, the Wild Hunt is often encountered as a piece of folklore de
 
 
 ---
+
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Swords and Scabbards: What Are These Blades?
 
 I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its _haelu_. I just like it because it focuses my storytelling a bit better, and it seems cool. :)
@@ -7653,6 +7686,8 @@ This blade is about style, and the scabbard should represent that. The scabbard 
 | Scabbard Obverse (Outward) | Oath     | Wē gameniaþ on lēoðe | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛚᛖᚩᚦᛖ``` | way GAH-men-ee-ath on LAY-oh-theh | We play/rejoice in song/poetry |
 | Scabbard Reverse (Inward)  | Spell    | Wē gameniaþ on blōde | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ``` | way GAH-men-ee-ath on BLOH-deh    | We play/rejoice in blood       |
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## AFTERLIFE
 

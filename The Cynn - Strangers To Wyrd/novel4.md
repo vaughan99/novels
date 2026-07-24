@@ -579,6 +579,8 @@ Freyr smiled.
 Woden spent the long day pondering that question. He had no answer.
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Epilogue
 
 Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The childrens' beaks aren't ready for tougher meat, Huginn! The way YOU tell it, every little person they meet will be a psycho murder-gnome!"
@@ -739,6 +741,8 @@ Steve nodded, flicking up and down enthusiastically.
 
 Muninn: “I’m glad you and I aren’t writing a prequel... or a sequel.”
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Afterword
 
@@ -987,6 +991,9 @@ For modern readers, the Wild Hunt is often encountered as a piece of folklore de
 
 
 ---
+
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Swords and Scabbards: What Are These Blades?
 
 I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its _haelu_. I just like it because it focuses my storytelling a bit better, and it seems cool. :)
@@ -1140,6 +1147,8 @@ This blade is about style, and the scabbard should represent that. The scabbard 
 | Scabbard Obverse (Outward) | Oath     | Wē gameniaþ on lēoðe | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛚᛖᚩᚦᛖ``` | way GAH-men-ee-ath on LAY-oh-theh | We play/rejoice in song/poetry |
 | Scabbard Reverse (Inward)  | Spell    | Wē gameniaþ on blōde | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ``` | way GAH-men-ee-ath on BLOH-deh    | We play/rejoice in blood       |
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## AFTERLIFE
 

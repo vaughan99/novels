@@ -1332,6 +1332,8 @@ Huginn: "You have to admit he made a wonderful menu."
 Muninn: "Yes. I think _you'd_ call it 'Tuesday night's supper.'"
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Four: The Tale of the Bell's Deacon
 
 ### Part One: The Liturgy of the Bell
@@ -1340,7 +1342,7 @@ _A bell rings in the distance, and people orient themselves to it. They use it t
 
 _These are the lessons of the Bell_.
 
-This story starts earlier, 913 AD; Cynewulf is the oldest of the three. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
+This story starts earlier in 913 AD. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
 
 Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
 
@@ -2775,4 +2777,6 @@ Huginn: "Yes, but their weapons make for inedible corpses."
 
 Muninn: "I've watched you for a thousand years. Fine dining and freshness have never occupied the same thought where _you're_ concerned."
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 

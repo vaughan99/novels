@@ -642,6 +642,8 @@ Muninn: "You didn't bird-brain. All-Father told them to put us there, remember? 
 Huginn: "I'm getting hungry. The sun is setting. Let's see if the Night of Blood has begun."
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Six: The Night of Blood
 
 The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled yet again on the North Gate road. The iron-bound wheels strained against the sucking mud, forcing pins to shear and snapping seasoned ash axles like dry twigs.
@@ -842,6 +844,8 @@ Across the top rested a black leather scabbard embossed with two ragged ravens, 
 
 The giant Rognvaldr slowly climbed the steps into the churchyard. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter Seven: Barrow-Edge, The Hedge-Stalker
 
@@ -1212,6 +1216,8 @@ He marveled at the craft of the equipment.
 He picked up the spangenhelm.
 
 "Well, it's either this or a wolf's head. I rather prefer how I'd look in this."
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter Eight: Monanleoht, The Battle-Dancer
 
@@ -1698,6 +1704,8 @@ Beneath the clothing, she also found a woodsman's felling axe. Its broad bit car
 Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three small brass bells - each scarcely larger than a walnut - and small iron fittings whose purpose she could only guess.
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Nine: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
 Cynewulf stood on the porch of the church. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Rognvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
@@ -2114,4 +2122,6 @@ His smile faded.
 
 "If that is indeed who you are... Take them quietly with the Church's blessing."
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 

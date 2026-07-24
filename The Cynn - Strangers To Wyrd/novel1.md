@@ -66,6 +66,8 @@
 <!-- TOC END -->
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Warning
 
 The following novel contains extreme tonal whiplash. Please stop reading if you encounter any of the following symptoms:
@@ -91,6 +93,8 @@ If any of these symptoms persist please contact your local philosopher or theolo
 However, if any of these symptoms seem even the _slightest_ bit delightful... welcome to _The Cynn_. By the end of the book, you'll understand why.
 
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Prologue: Same Story, Two Tails
 
@@ -132,6 +136,8 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 
 "It was April 20th," Muninn interrupted. "And it was morning."
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Leicester AD 933-943
 
@@ -184,6 +190,8 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 | North Gate                    | Road to Nottingham                           |
 | East Gate                     | Fosse Way to Lincoln                         |
 
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter One: A Promise of Piles
 
@@ -1002,6 +1010,8 @@ Huginn: "I said stop teasing me!"
 
 
 
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Two: The Tale of the Hearth-Warm Fyrdman
 
 ### Part One: Gerdr's Tears
@@ -1615,4 +1625,6 @@ Huginn: "You say that now."
 Muninn: "I said it a thousand years ago."
 
 Huginn: "And yet here you are."
+
+[↑ Back to Table of Contents](#table-of-contents)
 
