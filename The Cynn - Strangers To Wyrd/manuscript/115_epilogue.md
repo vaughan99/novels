@@ -147,3 +147,5 @@ Huginn: “Well, if he *did* need a new home, he could move in with us. Isn’t 
 Steve nodded, flicking up and down enthusiastically.
 
 Muninn: “I’m glad you and I aren’t writing a prequel... or a sequel.”
+
+Huginn: "So you're saying the Author isn't consulting you on the sequel?"
