@@ -7,7 +7,7 @@
 - [Warning](#warning)
 - [Prologue: Same Story, Two Tails](#prologue-same-story-two-tails)
 - [Leicester AD 933-943](#leicester-ad-933-943)
-- [Chapter 1: A Promise of Piles](#chapter-1-a-promise-of-piles)
+- [Chapter One: A Promise of Piles](#chapter-one-a-promise-of-piles)
 - [Chapter Two: The Tale of the Hearth-Warm Fyrdman](#chapter-two-the-tale-of-the-hearth-warm-fyrdman)
   - [Part One: Gerdr's Tears](#part-one-gerdrs-tears)
   - [Part Two: The Bowl](#part-two-the-bowl)
@@ -185,7 +185,7 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 | East Gate                     | Fosse Way to Lincoln                         |
 
 
-## Chapter 1: A Promise of Piles
+## Chapter One: A Promise of Piles
 
 The Saxon armies had gathered from icy roads far away, to deliver death to the Danes who occupied Leicester. 
 
