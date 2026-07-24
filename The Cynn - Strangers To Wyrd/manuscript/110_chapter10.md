@@ -320,7 +320,7 @@ Elswyth and Osric entered the Old Frith.
 
 The churchyard had become a refuge for every sort of soul. Farmers, merchants, craftsmen, widows, and travelers wandered among the graves and parish buildings, waiting for news, bread and broth, or simply somewhere safe to stand.
 
-Rumors drifted through the crowd as freely as the smoke. Some insisted the peace had been broken. Others swore it had held. The Danes now holding the town seemed far more interested in making silver from the wagons than in settling the argument.
+Rumors drifted through the crowd as freely as the smoke. Last night, there was a battle outside the North Gate. Some insisted the peace had been broken. Others swore it had held. The Danes now holding the town seemed far more interested in making silver from the wagons themselves than in settling the argument.
 
 Regardless, nobody paid them any heed.
 
@@ -380,11 +380,11 @@ He jabbed a thumb towards Cynewulf's black-oiled mail.
 
 "If you've got another perfectly true tale that'll sound like drunken nonsense tomorrow, I'd rather hear it after I find some ale."
 
-Osric and Elswyth looked at each other, then at Cynewulf. The old veteran's hand dropped onto the handle of _Wodbora_. He quickly drew his cloak over it. His face curled into a slight smirk, and his eyes veered downward, staring at the the drying mud.
+Osric and Elswyth looked at each other, then at Cynewulf. His skin-cracked hand dropped onto the handle of _Wodbora_. He quickly drew his cloak over it. His face curled into a slight smirk, and his eyes veered downward, staring at the the drying mud.
 
 It's obvious he didn't want to talk about it.
 
-One-eye leaned in. A smile crept across his face.
+One-Eye leaned in. A smile crept across his face.
 
 "So, if the angels' price for new kit is a miracle, does dropping a man at fifty paces count? I mean, they must know I have only one eye?"
 
@@ -412,7 +412,7 @@ Since arriving in Leicester with her parents as a young girl, Elswyth had been n
 
 For the first time, she felt like a sapling in a pot—not bound to the earth.
 
-"Well, what are waiting for?"
+"Well, what are we waiting for?"
 
 Cynewulf knew this conversation well in his own mind. His own _Liturgy of the Road_ had drilled it into him from the day he left Leicester long ago.
 
@@ -496,13 +496,13 @@ He wanted to be worthy of it.
 
 High above the fading smoke of Leicester, where the rain clouds have given way to the smiling sun, Woden and Freyr observed humanity once more.
 
-Woden tugged at his shepherds robe with his hand, the other held _Gungnir_ tightly.
+Woden tugged at his shepherd's robe with one hand, the other held _Gungnir_ tightly.
 
 "The battles went as I expected. Your elves were adequate to the task."
 
 Freyr smiled.
 
-Woden continued, "Osric was indeed resurrected, and walks still. _Christ_ allowed his soul to return without claiming it. But the blade... he wears it still."
+Woden continued, "Osric was indeed resurrected, and walks still. _Christ_ allowed his soul to return without claiming it. But the blade... he wears it yet."
 
 Freyr watched Osric as he told Tor exactly where to find the chests in the bathhouse ruin.
 
