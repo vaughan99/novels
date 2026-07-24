@@ -350,7 +350,7 @@ Her eyes were as big as moons. Elswyth screamed.
 
 "Are you _really_ that upset? You assumed she died, _Meadow-Bud_. Does it really matter if it was at the hands of Vikings, or in the service of a better cause?"
 
-"You foul... murderous..." Her mind closed to the shapes of words that tried to escape her mouth.
+"YOU FOUL... MURDEROUS..." Her mind closed to the shapes of words that tried to escape her mouth.
 
 "You aren't even going to ask?" Fussleton shook his head.
 
@@ -642,7 +642,7 @@ The neighbors up the hill crossed themselves in their bed, and drew their bed fu
 
 Elswyth reached down and found the Alexander Stone. She stood for a moment, her face reflecting slightly on the glassy surface.
 
-Elswyth dove into the Soar, frantically ran back to her hut. She rushed in, finding her box on the floor. The box lay bare; the pelt was gone. It neatly sat in the center of the ruined hut.
+Elswyth frantically ran back to her hut. She rushed in, finding her box on the floor. The box lay bare; the pelt was gone. It neatly sat in the center of the ruined hut.
 
 She saw the morning light, and her mind snapped to the present. She knew she had moments before the village rhythm began.
 
