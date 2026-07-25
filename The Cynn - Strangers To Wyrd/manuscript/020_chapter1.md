@@ -739,15 +739,15 @@ The other Vikings laughed and joked at the state of the fyrd as they passed by. 
 
 One of the wolf-men jumped to Cynewulf standing toe-to-toe, with a wide grin. He smiled with yellow teeth, knowing that Cynewulf's leash was the parchment. The wolfman barked and howled, the saliva spraying against Cynewulf's cheek. Cynewulf didn't blink. He didn't move. He just stared through the man, his eyes as flat and grey as the Leicester mud. "Move... along..." he repeated. 
 
-The wolf-man’s grin faltered slightly against that hollow stare, his howl dying down into a low snarl. He spat on the ground between them, then turned back to his pack with a mocking bark of laughter. "Sheep! Look at the sheep!" the wolf-man jeered, their laughter echoing off the damp stone walls as they turned away. "Where is your shepherd, sheep? Maybe we own the leash, eh?" Wolfhere looked on in approval.
+The wolf-man’s grin faltered slightly against that hollow stare, his howl dying down into a low snarl. He spat on the ground between them, then turned back to his pack with a mocking bark of laughter. "Sheep! Look at the sheep!" the wolf-man jeered, their laughter echoing off the damp stone walls as they turned away. "Where is your shepherd, sheep? Maybe we own the leash, eh?"
+
+Wulfhere looked on in approval, watching the challenge with a smile. He liked to know the character of men well before their throat met his blade. With one last glance, he turned with his men and headed north.
 
 Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath - a long shuddering exhale. He stared down at the deep, muddy impressions of the wolf-man who had stood nine inches from his. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes. He turned his back to the road to survey the state of the wagons.
 
-Wulfhere watched the challenge with a smile. He liked to know the character of men well before their throat met his blade.
+Cynewulf's new men had watched the exchange in silence.
 
-His new men had watched the exchange in silence.
-
-The one-eyed archer was the first to speak. "Well. That's one way to find out if a man's brave."
+One-Eye was the first to speak. "Well. That's one way to find out if a man's brave."
 
 Tor shook his head. "Not brave."
 
@@ -761,11 +761,11 @@ Cynewulf did not look up from the wagons. "Stow your gear. I don't think we're l
 
 Neither brother asked again. The answer settled over the group like a cold rain.
 
-The one-eyed archer stared after the departing wolf-men. "Well," he muttered, "good thing you didn't piss your pants. I'd have to worry about us if you did."
+One-Eye stared after the departing wolf-men. "Well," he muttered, "good thing you didn't piss your pants. I'd have to worry about us if you did."
 
 That got a laugh from everyone except Cynewulf.
 
-After traveling a distance, the Ulfhednar stopped to rest in a clearing. Wulfhere was there, urging his men to gather around. His eyes seemed fixed to Leicester, wide and full of intent.
+After traveling a distance, the _Ulfhednar_ stopped to rest in a clearing. Wulfhere was there, urging his men to gather around. His eyes seemed fixed to Leicester, wide and full of intent.
 
 Among them were his best. His second-in-command was a giant, over seven feet of bone and muscle, Rognvaldr the Ragged. His frame was so large, no single mail coat could cover it. It was a mosaic of armor that served as the testament to the war-band's kills, as it was built from the pieces of armor of the fallen. The others were lean and hungry, mostly young but scarred by the unending training of the wolf cult. Their eyes burned for the treasure-pile that had once been promised or the final embrace of valkyries. Both would have to wait as long as peace reigned. 
 
@@ -777,13 +777,13 @@ He started pacing before them, staring at each man as he spoke.
 
 Rognvaldr stepped forward, his arms reaching wide. "Come brothers! We feel your anger. We feel how you were betrayed. Look each other in the eye! Let your eyes show your brothers that you will not be denied!"
 
-Wolfhere continued. "These Saxons... they keep making the same mistakes. They think wolves feast on air and priest-speech. A wolf cannot eat a peace-meal. I have seen their broken bands, their burnt sticks, and the forest girls they have guarding their baggage. They are deer for the slaughter, friends. We are circling back tonight. Let the others crawl to the Boroughs and reclaim just what the Saxons allow them."
+Wulfhere continued. "These Saxons... they keep making the same mistakes. They think wolves feast on air and priest-speech. A wolf cannot eat a peace-meal. I have seen their broken bands, their burnt sticks, and the forest girls they have guarding their baggage. They are deer for the slaughter, friends. We are circling back tonight. Let the others crawl to the Boroughs and reclaim just what the Saxons allow them."
 
 Rognvaldr started a drum chain. Each wolf began to slap his thighs in unison, a guttural grunt marking every fourth beat. The rhythm was a heartbeat—the heartbeat of a pack that had forgotten how to be men.
 
 "_We_ will collect the hoard-pile we were promised yet. Then we'll move to the coast estates, and cut that belly from groin to neck. And if we fail?"
 
-Wolfhere paused, looking into the eyes of each of his wolf-men, one at a time. Their eyes were wide now, their hands slapping rhythmically against their thighs faster and faster. Some were growling, some barking, and others stood with thick, white saliva dripping from their hungry maws.
+Wulfhere paused, looking into the eyes of each of his wolf-men, one at a time. Their eyes were wide now, their hands slapping rhythmically against their thighs faster and faster. Some were growling, some barking, and others stood with thick, white saliva dripping from their hungry maws.
 
 Rognvaldr moved down the line like a butcher personally checking each slab of meat on the hook. He wasn't a man of words, but he was a master of the frenzy. He grabbed the youngest of the _Ulfhednar_ by the shoulders and screamed, inches from the boy's face. The youth screamed back, a raw, visceral sound, and lunged forward.
 
@@ -793,7 +793,7 @@ Blood dripped from the arm, wetted by the young wolf's saliva.
 
 Rognvaldr only roared in approval, shoving the boy back into the pack.
 
-Wolfhere seized the moment, his voice cutting through the chaos:
+Wulfhere seized the moment, his voice cutting through the chaos:
 
 "AND IF WE FAIL... I have glorious news!"
 
