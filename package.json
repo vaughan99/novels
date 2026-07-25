@@ -8,6 +8,7 @@
     "build": "node compiler/src/build.mjs",
     "build-cynn": "npm run build -- \"The Cynn - Strangers To Wyrd\" && npm run split-md -- \"./build/The Cynn - Strangers To Wyrd/novel.md\" 4",
     "build-all": "npm run clean && npm run build-cynn && npm run generate-novel-index",
+    "build-and-deploy": "npm run build-all && npm run deply",
     "clean": "rm -fr ./build/*",
     "deploy": "npx gh-pages -d ./build --nojekyll",
     "generate-novel-index": "node compiler/src/generate-novel-index.mjs",
