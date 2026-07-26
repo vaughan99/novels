@@ -1,14 +1,16 @@
 ### Part Two: The Cynn
 
-Deep in the heart of Leicester, behind the Jewry wall, lies the tall stone home of ancient giants. The Romans built their walls high - so high that the townsfolk were convinced that they were giants indeed. The home is free of human souls now, or so most people think as they pass by the crumbling arches in the dusk. The townsfolk cross themselves and quicken their pace, believing the red-brick vaults may hold more than just stagnant rainwater and the memory of the dead.
+Deep in the heart of Leicester, behind the Jewry wall, lay the ruin of the ancient bathhouses. During the day, the Church had been collecting statues, archways, stone, and brick from this ruin for several years. The sprawling bathhouse was free of human souls after sunset, or so most people thought as they passed by the crumbling arches in the dusk. The townsfolk would cross themselves and quicken their pace, believing the red-brick vaults held more than just stagnant rainwater and the memory of the dead.
 
-They are right.
+They were right.
 
-The ruins are not empty. The bathhouse may not carry the breath of humans or the tread of feet during the day, but the winds of the night avoid the spirits that ply their trade now. Deep within the roots of the stone, where the ancient giant hearths have been cold for centuries, a different kind of heat is waking. It does not smell of wood-ash, or the rancid fat of the _Ulfhednar_ camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smells of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
+The ruins were not empty. The bathhouse saw the slow deliberate work of the stone-claimers during the day, but the winds of the night avoided the spirits that plied their trade in the dark.
+
+Deep within the roots of the stone, where the ancient hearths have been cold for centuries, a different kind of heat was waking. It did not smell of wood-ash, or the rancid fat of the _Ulfhednar_ camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smelled of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
 
 There is no wind beneath the earth, yet the soot on the low ceilings shifts and dances. If a man were to press his ear to the damp masonry, he would not hear the parchment-peace being discussed by the lords, nor the weary sighs of Cynewulf’s rearguard. He would hear a sound high and sharp, like a needle scraping through a burial shroud. He would hear the tiny sound of a child’s giggle echo from the black furnace-mouths, followed by a low, hollow whistle.
 
-They did not labor with the clumsy strength of mortal blacksmiths. These were the _Weylands Cynn_—the scattered bloodline of the Great Smith himself. Centuries before, Weyland had walked the earth at the height of his craft, leaving his genius stamped into the marrow of his descendants. Men still remembered a few of his works—_Mímung_, and, if later storytellers were to be believed, _Excalibur_, the sword of King Arthur—but they had long forgotten the master. Their thoughts now rested on prayers, stone angels, and the plain steel of human hands. The Cynn alone still remembered the ancient foundry marks.
+They did not labor with the clumsy strength of mortal blacksmiths. These were the _Weylands Cynn_. These were elves of the scattered bloodline of the Great Smith himself. Centuries before, Weyland had walked the earth at the height of his craft, leaving his genius stamped into the marrow of his descendants. Men still remembered a few of his works. Greatest among them, if later storytellers were to be believed, was _Excalibur_, the sword of King Arthur. But mortals had long forgotten the master. Their thoughts now rested on prayers, stone angels, and the plain steel of human hands. The Cynn alone still remembered the ancient foundry marks.
 
 The day of the debate came before the horrible winters of Osric's farm, the raids of Leicester that killed Elswyth's parents, and Cynewulf's ordination as priest. Time had marched forward. Soon would come the convergence... the meeting of Osric, Elswyth, Cynewulf, and Wulfhere. The parchment-peace was near. Woden and Freyr's debate was still fresh in their minds, and they knew they had little time to spare.
 
@@ -58,11 +60,13 @@ Woden's eye crackled with an energy of momentary hate. "You *dared* defy me. Yes
 
 Ingvar looked at Ingrid. He saw the golden light of Freyr’s promise and the grim reality of Woden’s demand. "Agreed," Ingvar said, his voice echoing with the finality of a closing tomb. "I am the yard to the edge. The shieldwall is the fence. Let the forging begin."
 
-Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered - the harvest of the barrow is at hand!"
+Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered. The harvest of the barrow is at hand!"
 
 Shadowy hammers held by invisible hands gravitated toward the forge. Coal from a hidden well erupted at the Ingrid's feet, and she scooped the black stones furiously into the empty hearth. The furnace burst into flame instantly. The heat felt moderate at first, but it turned a blinding yellow-white with the first breath of the bellows.
 
-Freyr and Woden each took a step back. They watched in the dying sunlight the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil - a final offering of somber joy.
+Freyr and Woden each took a step back. They watched in the dying sunlight the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil.
+
+A final offering of somber joy.
 
 Freyr's smile grew ever broader, as he witnessed the new billet of steel and wrought iron emerge from the crucible. It flew to the anvil, and a hundred dizzying hammers worked to the sound of a giggling song of clinks and clangs. The sparks of the hammers reflected in Woden's eye as he sternly watched the progress while gripping his spear. The form quickly turned from a rectangular billet, to a large farmer's broadseax. It was heavy and long, meant for a woodsman's chop and a reaping of fall lambs. It had runes too, which betrayed its more divine inspiration.
 
@@ -128,7 +132,7 @@ Woden stepped forward to stare into the eyes of the redcap, studying his madness
 
 Woden looked at Freyr. "Agreed?"
 
-"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade - light and poised like the moonlit marten upon the bough!" He and Woden stepped back once more to let the forging commence.
+"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade. Make it light and poised like the moonlit marten upon the bough!" He and Woden stepped back once more to let the forging commence.
 
 The foreman of the forge-elves, Besidius, leaned close and whispered into Freyr's ear.
 

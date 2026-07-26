@@ -366,6 +366,8 @@ His eyes fell upon the chest by the anvil, still waiting to be opened.
 
 Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length stiff waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay a shoulder-sling of rawhide with four steel-tipped javelins.
 
+Behind the chest lay a long linen sheet pulled about a pole. He pulled the pole from the sheet... It was his father's boar-spear, its reforged socket fitted to a new shaft of stout oak. The flanks and edge of the broad spearhead gleamed with fresh polish. Woven leather wrapped the haft where the hands would grip it, and an iron shoe protected the butt.
+
 He looked around once more.
 
 "So now the fire-breathing dragon... the king of the straw-daub... the master of cow spas... wants to give me a fighting chance, is it?"

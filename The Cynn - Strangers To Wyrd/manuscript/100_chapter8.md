@@ -42,7 +42,7 @@ To know my secret, or settle score?
 Right in your hand, you find us both!
 To iron bound, to steel betrothed.
 But if you seek the redcap's grace,
-Speak his spell - he'll take my place.
+Speak his spell, he'll take my place.
 ```
 
 The viking was wading through the water, eager to be the first to take Elswyth as a prize.
@@ -88,7 +88,7 @@ The redcap resumed his commanding, authoritative tone.
 
 "Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-Bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
-Those last words came with almost a bow - if he could bow - just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
+Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
 A strange warmth flooded her limbs. Not the warmth of a hearth or summer sun, but something sly and invasive, creeping through her blood like roots beneath soil.
 
@@ -164,7 +164,7 @@ Trunk blood flows from the deep root,
 All for floor, and none for boot.
 ```
 
-She saw a gap in the armor - a mere sliver of skin between the bottom of his mail and the top of his boot. To her, it was three fingers wide and the blade was already in motion. She slashed from her knees. The moon-bright edge slipped into the gap and grated against bone.
+She saw a gap in the armor. It was a mere sliver of skin between the bottom of his mail and the top of his boot. To her, it was three fingers wide and the blade was already in motion. She slashed from her knees. The moon-bright edge slipped into the gap and grated against bone.
 
 The Viking screamed and staggered backward.
 
@@ -480,4 +480,4 @@ Inside the coffer she found a neatly folded set of charcoal-black garments. A su
 
 Beneath the clothing, she also found a woodsman's felling axe. Its broad bit carried a _welkin-iron_ edge, bright as _Monanleoht's_ blade. The ash haft was wrapped in supple leather, its shallow flutes fitting naturally beneath her fingers.
 
-Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three small brass bells - each scarcely larger than a walnut - and small iron fittings whose purpose she could only guess.
+Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three tiny brass bells and small iron fittings whose purpose she could only guess.

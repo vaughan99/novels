@@ -8,7 +8,7 @@ The call came in the spring of 934. The Saxon King Athelstan was marching north,
 
 A rider from the King arrived.
 
-The rider did not look like a man who had traveled the Road; he looked like a man who had been carved out of the King’s own iron. He sat his horse in the center of the camp, the royal banner snapping in the wind like a warning. He was here for a lance at the head of a host - a vanguard of heavy cavalry.
+The rider did not look like a man who had traveled the Road; he looked like a man who had been carved out of the King’s own iron. He sat his horse in the center of the camp, the royal banner snapping in the wind like a warning. He was here for a vanguard of heavy cavalry.
 
 _Fer-Main_ stepped out of his tent, his hand resting casually on the pommel of his sword. He didn't bow. He didn't need to. He was the law of the camp, and the King’s rider knew it.
 
@@ -24,7 +24,7 @@ _Fer-Main_ didn't reach for the parchment. Instead, he cast a sideways glance t
 
 _Fer-Main_ called out to Cynewulf. "Look at the ink. Tell me if the King's silver weighs as much as his words."
 
-Cynewulf stepped forward, his black leathers creaking. He took the parchment from the rider’s hand, and an embroidered golden ribbon - a low-banner for the standard to prove their legal kingly authority to any who dare question. His fingers unrolled the stiff sheepskin. He knew the Winchester hand; he knew the exact formulaic Latin of Athelstan’s chancery. He scanned the lines, his eyes lingering on the green wax seal.
+Cynewulf stepped forward, his black leathers creaking. He took the parchment from the rider’s hand and an embroidered golden ribbon banner. It's the kind of standard a company might attach to theirs to prove their legal kingly authority to any who dare question. His fingers unrolled the stiff sheepskin. He knew the Winchester hand; he knew the exact formulaic Latin of Æthelstan's chancery. He scanned the lines, his eyes lingering on the green wax seal.
 
 "The script is genuine," Cynewulf said, his voice steady and clear. "The terms are as he says. The ribbon looks authentic, I see the King's arms in the embroidery. However, the salvage rights exclude any lands belonging to the Bishopric of Durham."
 
@@ -66,7 +66,7 @@ He had his destrier. His mail was old but well oiled and quite functional. He ow
 
 The Northumbrian border was a wall of grey mist and jagged, skeletal trees. As they crossed the threshold, the air grew colder, smelling of wet peat and the metallic tang of coming rain. There were eyes peering from the hedges, frightened by the trampling hooves. None dared to stand in the way.
 
-Cynewulf rode in the second rank, his eyes scanning from the tree's line to the lead horse - if there was just a hitch or turn, he'd have to instantly respond.
+Cynewulf rode in the second rank, his eyes scanning from the tree's line to the lead horse. If there was just a hitch or turn, he'd have to instantly respond.
 
 "They’re watching us," Cynewulf murmured, his voice low enough that only the man beside him could hear.
 
@@ -76,9 +76,9 @@ Suddenly the lead horse _did_ hitch. The company ground to a sudden halt, the ho
 
 "Sudden turn at the tree line... there. Tall shadow-trees. A fence. Those eyes at the hedges were a warning." The scout was speaking in Frankish, and Cynewulf's ears were bending to the rhythm of it. _Fer-Main_ turned to the company, "Trap ahead. Strike the banner! Double-wide formation at the trot." He pointed to Cynewulf and three others: "You, form at the rear. You're the bow hunters. Don't fail us. If they have bows, on my mark, sweep behind the fence. That's where they'll hide. And for Christ's sake, keep your shield high. _No mistakes!_"
 
-The company trotted in formation, as if they didn't suspect anything. Cynewulf formed at the rear with the other three, as they looked at each other in wild expectation. At any moment, they would be asked to ride hard, slipping behind a fence, jumping ditches, dodging trees, and riding for the kill. He was taught - with archers, every moment matters. A second of hesitation meant a shaft in the horse’s neck or your own.
+The company trotted in formation, as if they didn't suspect anything. Cynewulf formed at the rear with the other three, as they looked at each other in wild expectation. At any moment, they would be asked to ride hard, slipping behind a fence, jumping ditches, dodging trees, and riding for the kill. He was taught that with archers, every moment matters. A second of hesitation meant a shaft in the horse’s neck or your own.
 
-_Fer-Main_ didn't wait long. The moment he saw the outline of a bow, his hand went up in an iron claw. He knew that the bows would be trained on his column, and they wouldn't expect riders from their flank - hopefully - until it was too late.
+_Fer-Main_ didn't wait long. The moment he saw the outline of a bow, his hand went up in an iron claw. He knew that the bows would be trained on his column, and they wouldn't expect riders from their flank until it was too late.
 
 The column's shields went up in unison. The riders held their short heavy spears, for the long throw, waiting for the command.
 
@@ -110,23 +110,27 @@ Cynewulf watched as the men moved with practiced, emotionless speed. They didn't
 
 "Quickly, let their bodies find the ditch! We move!" _Fer-Main_ spurred his men to ride once again.
 
-_The Sword is a sudden, horrible thing - a threat that lands. Sometimes it's not a sword at all. A fist. A spear. A bolt from a crossbow. Many times, you don't even see it. Regardless, you must prepare for its arrival, like a host for his guests at a feast. Not enough preparation, and your guest will take everything you have._
+_The Sword is a sudden, horrible thing, a threat... that lands. Sometimes it's not a sword at all. A fist. A spear. A bolt from a crossbow. Many times, you don't even see it. Regardless, you must prepare for its arrival, like a host for his guests at a feast. Not enough preparation, and your guest will take everything you have._
 
 _So sayeth the Sword._
 
 ---
 
-[TODO replace]
+Huginn: "Muninn, I must protest. You've threatened me a few hundred times today alone."
 
-Huginn: "Now that's what I call going clubbing."
+Muninn: "Three hundred seventy-five, not including the one I have lined up right now."
 
-Muninn: "The boy was handy with a stick, you have to give him that."
+Huginn: "I'm beginning to think you don't like me."
 
-Huginn: "He caught a spear to the spine. When you go clubbing, it helps if know how to dance, is all I'm saying."
+Muninn: "I'm sorry you feel that way."
 
-Muninn: "Did you see the way Cynewulf looked at the stick-boy? The priest remembered something. From the church-home. The Viking boy he punched to death."
+Huginn: "Have you kept count of the number of times I've threatened you?"
 
-Huginn: "That boy didn't know how to dance either."
+Muninn: "I have. Six today."
+
+Huginn: "Maybe you should take that as a hint, brother. Maybe you should be more forgiving."
+
+Muninn: "I could be more forgiving, but then you'd never remember it."
 
 ---
 
@@ -134,13 +138,13 @@ That night's camp was brutally efficient. This was not the same company Cynewulf
 
 Cynewulf had a broken rib, simple and survivable. The pain was a reminder of his mistake. But he couldn't let the pain drive him to another mistake. He focused his mind again. _No mistakes._
 
-The plunder was split with cold efficiency. The quartermaster reviewed his salvage pony's items - two bows and quivers, a bronze Thor pendant, cheap wool clothing, and cheap cobbled shoes. The men's seaxes were taken as the picks by their killers. The quartermaster pawned the remaining items in camp on the spot - he would sell them later at market for their real price. Each rider received a share of silver immediately. This time it was a few pennies.
+The plunder was split with cold efficiency. The quartermaster reviewed his salvage pony's items: two bows and quivers, a bronze Thor pendant, cheap wool clothing, and cheap cobbled shoes. The men's seaxes were taken as the picks by their killers. The quartermaster pawned the remaining items in camp on the spot. He would sell them later at market for their real price. Each rider received a share of silver immediately. This time it was a few pennies.
 
 Once done, the quartermaster asked the customary question: _buying from the stores?_ This was where the real trade occurred, and the rule was absolute—only to the quartermaster. Every deal was negotiated through him, ensuring the company’s ledger remained balanced and the men stayed dependent on the company’s supply. The quartermaster knew the value, and the men wouldn't be able to cheat each other. That's how you keep morale and discipline.
 
 Cynewulf watched the process, surprised by the lack of argument. He had expected the usual chaos of the road—the haggling over rusted seaxes, the desperate trades of shirts for belts, the inevitable fights over who deserved the better share. Instead, this was cleaner, more efficient. It was a system. The killers got their single pick, the rest got a share of silver, and a chance to buy back the better items. And, he noted with a grim realization, it meant the company took its cut before the men ever touched a coin.
 
-Two days of hard-riding and the ground opened to the Wall. This was Hadrian's Wall. It used to be a barrier two-men high for miles across unforgiving terrain, used by the Romans to gird against waves of Picts. The Wall here was a graveyard of stone. Centuries of frost and gravity had done what the Picts never could, pulling the massive blocks down into a mound of rubble. This was a choice - storm the gate, or find a way through the rubble.
+Two days of hard-riding and the ground opened to the Wall. This was Hadrian's Wall. It used to be a barrier two-men high for miles across unforgiving terrain, used by the Romans to gird against waves of Picts. The Wall here was a graveyard of stone. Centuries of frost and gravity had done what the Picts never could, pulling the massive blocks down into a mound of rubble. This was a choice: storm the gate, or find a way through the rubble.
 
 _Fer-Main_ pulled his horse to a halt, his eyes scanning the "mouth" of the gate where Dere Street pierced the stone. It was lazily choked with some timber, sharpened stakes, and the debris of a dozen different skirmishes. Smoke curled lazily from behind the barricade, and the silhouettes of men moved along the ramparts, watching the _Griffons_ with the predatory stillness of wolves.
 

@@ -2,7 +2,7 @@
 
 ### Part One: The Hunters of the Pit
 
-In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gentle sloping hill was the church, a monument of stone stolen from the giants - Romans by another name - who built the Jewry Wall of Leicester. It was the Church of Saint Nicholas.
+In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gentle sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester. To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
 
 ---
 
@@ -28,7 +28,7 @@ The _Old Frith_ was also shared with the neighboring _Church of St. Martin_. Eac
 
 The villagers were commonfolk whose livelihoods centered on the church. They would bring their wares to the _Shadow Gate_ and wait for the creak of the old oak doors. Once open, they would file into the _Old Frith_, setting up stalls, telling gossip, and making exchanges. During the day, the gate would open and the clergy would mingle, telling stories, offering prayers and teaching lorica. Vendors from inside Leicester would arrive to the _Old Frith_. All business was conducted under the watchful eyes of two large stone face masks facing into the _Old Frith_.
 
-_Blackjoy_ was the one whose jaw was clenched and his eyes narrow. He was neither sad nor angry - more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest"—the villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
+_Blackjoy_ was the one whose jaw was clenched and his eyes narrow. He was neither sad nor angry; he was more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest". The villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
 
 _Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning, and its closing each evening. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather.
 
@@ -56,7 +56,7 @@ Beyond the _Old Frith_, the _Mission Quarter_ spread across the hillside. Graves
 
 Elswyth's family were coal-burners originally from the Saxon heartland, the town of _Witanceaster_ to the southwest. They prepared charcoal for the forges and the Church. As more local families entered the trade, each load of charcoal brought fewer pennies than the last. Their access to the wood-lots was getting more difficult as well. All they needed for their trade were their axes, a few coal-rakes, a shovel and a tinder box, so they packed up their few belongings and moved on.
 
-Whispers carried on the wind from _Leicester_ promised deep woods and the steady demand of war-forges and bell-founders. _Leicester_ was part of the _Five Burroughs of the Danelaw_, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers - weapon-forges and casting-pits for bells and crosses were always hungry for more coal.
+Whispers carried on the wind from _Leicester_ promised deep woods and the steady demand of war-forges and bell-founders. _Leicester_ was part of the _Five Burroughs of the Danelaw_, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers. Weapon-forges and casting-pits for bells and crosses were always hungry for more coal.
 
 The road was long and dangerous, but when they arrived, they found there was room for honest coalers to ply their trade. The only space for their new home in _Under-Geat_ was next to the Roman graveyard, at the foot of the hill. They built their hearth with stone from the Roman wall, as many had done.
 
@@ -68,7 +68,7 @@ Godwine was a man who read the forest like a prayer book. He ignored the soft, u
 
 Godwine and his family were observant Christians, but knew their profession kept them at the edges of parish life. Smoke and soot clung to them like a second skin. Until heavy rain or the Easter washing, they would sooner stand in the church porch than bring the smell of the charcoal pits before the altar.
 
-They would offer prayers to saints by the glow of the coal-fire. They owned no Bible, and were not literate enough to read one anyway, so their faith remained a private, oral tradition. Their favorite prayer was to _Saint Alexander of Comana_ - a fellow coaler and 'accidental bishop' of the Eastern tradition, a story whispered down from travelers and rarely heard in the local parish. Godwine's grandfather once heard of him from a traveling monk who visited _Witanceaster_ and worked as a cross-caster. The monk honored Saint Alexander on August 11th, and Godwine's grandfather kept up the tradition. They each kept coal tokens they called _Alexander's stones_ - a good luck charm for protection against burns. It was a perfect lump of charcoal, polished to a glassy sheen.
+They would offer prayers to saints by the glow of the coal-fire. They owned no Bible, and were not literate enough to read one anyway, so their faith remained a private, oral tradition. Their favorite prayer was to _Saint Alexander of Comana_. He was a fellow coaler and 'accidental bishop' of the Eastern tradition, a story whispered down from travelers and rarely heard in the local parish. Godwine's grandfather once heard of him from a traveling monk who visited _Witanceaster_ and worked as a cross-caster. The monk honored Saint Alexander on August 11th, and Godwine's grandfather kept up the tradition. They each kept coal tokens they called _Alexander's stones_, whose good luck brought protection from burns. It was a perfect lump of charcoal, polished to a glassy sheen.
 
 Before every large burn, they would gather hands, and pray:
 
@@ -107,7 +107,7 @@ The wolf-men came as a wolfpack in full deer-chase.
 
 Elswyth had woken early, as she wanted to be the first of the children fishing by the river's edge when the sun came up. Behind her, the screams rose like a chorus of suffering.
 
-The wolves swept everything from _Under-Geat_ to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed - and the sound carried. The Viking's wolf head snapped to her, his eyes locking on hers.
+The wolves swept everything from _Under-Geat_ to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed. The Viking's wolf head snapped to her, his eyes locking on hers.
 
 She didn't freeze. She jumped into the ice-cold river without a thought. He gave chase instantly, jumping headlong into the Soar.
 
@@ -119,15 +119,15 @@ She scrambled onto the opposite bank and found the road. From the road she knew 
 
 She was foot-sure through the undergrowth, turning the familiar wood into a maze. She had shed the wolf-man after an eternity of frantic flight; she was lucky her breath had held out that long. He spat into the dirt, looked once more toward the trees, then turned back toward the smoke rising beyond the _Soar_.
 
-When the chase ended, an eerie quiet settled on the _Charnwood_. Nothing dared move. The air was still, like it was afraid of being chased by wolves - or something else entirely.
+When the chase ended, an eerie quiet settled on the _Charnwood_. Nothing dared move. The air was still, like it was afraid of being chased by wolves... or something else entirely.
 
-The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves - Eadgyth among them - piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it. Her shiver was from fear, and she was desperately trying to beat it back. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
+The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it. She tried not to think of her mother being taken. Her shiver was from fear, and she was desperately trying to beat it back. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
 
 In the morning, she was awakened by a soft breath, and the smell of pipe-smoke of an herb she didn't know. "Hello," a small man-voice whispered. At the mouth of the hollow there was a woodland spirit, a wood-gnome by the tell of her parents' stories.
 
 Wood-gnomes, she was taught, were shy and humble creatures, but were nothing to be trifled with. They were known to be territorial, and might swat your ankles with their oaken swatches to ensure you left quickly. Yet this small man did not hiss or reach for a weapon.
 
-He was smaller than her, and dressed simply in traveling clothes: forest green breeches and matching shirt, and a coat made of woven bark - bast from the linden tree. He had a stocking hat, ruddy brown and damp, on his blank-face head. He barely had a few tufts of white hair poking out innocently from under the stocking hat pulled close to the brow. On his feet were shoes, also of woven bast, and his footfall was free and soundless.
+He was smaller than her, and dressed simply in traveling clothes: forest green breeches and matching shirt, and a coat made of woven bast from the linden tree. He had a stocking hat, ruddy brown and damp, on his blank-face head. He barely had a few tufts of white hair poking out innocently from under the stocking hat pulled close to the brow. On his feet were shoes, also of woven bast, and his footfall was free and soundless.
 
 He smiled, "Well it's a girl. Well, hello '_Meadow-Bud_'". He used the nickname her father would use. It gave her a small sense of ease, as it was a common nickname given to girls near the wood. But she also resented it, because she was so much more. "Come now, you're safe with me."
 
@@ -159,7 +159,7 @@ He jolted back to the present. "Where are my manners? We must get you home dear.
 
 Fussleton took her deeper into the wood, and set about training her how to live there. Elswyth listened this time. Her mother was right; a night spent without a meal is a lesson best not repeated.
 
-He brought her to his hovel, a massive log hollow with a door. She barely fit inside, but she felt safe. They talked into the night about her father's wood-collection and her mother's forest wisdom - the parts she could remember. He agreed with some, but was very judgmental about much of it.
+He brought her to his hovel, a massive log hollow with a door. She barely fit inside, but she felt safe. They talked into the night about her father's wood-collection and her mother's forest wisdom, or at least the parts she could remember. He agreed with some, but was very judgmental about much of it.
 
 "Yes, I knew your parents. They were strong, able folk. But their feet fell heavy on the branches. They were pilgrims in this wood, always passing through, never belonging. But I?" He leaned in, his eyes glinting in the dark. "I will teach you to live as a gnome does! I will teach you the songs and the _true_ rhythm of the wooded hearth."
 

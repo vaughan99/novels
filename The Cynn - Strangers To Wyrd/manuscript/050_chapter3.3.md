@@ -87,7 +87,7 @@ After a visitor from York landed in the ditch, the villagers decided the _Coaler
 
 Not every morning ended with the forest.
 
-Sometimes Elswyth lingered at the edge of the Shadow Gate after selling her coal. She kept her cowl low and stood at the back of the little crowd while the parish priests taught the villagers loricas against wolves, fever, drowning, thieves, and - of course - restless spirits, like the _Coaler-Wight_.
+Sometimes Elswyth lingered at the edge of the Shadow Gate after selling her coal. She kept her cowl low and stood at the back of the little crowd while the parish priests taught the villagers loricas against wolves, fever, drowning, thieves, and restless spirits... like the _Coaler-Wight_.
 
 Most of the villagers learned only the rhythm. They repeated the Latin sounds without knowing the words, trusting that the holy cadence itself was a shield against darkness.
 
@@ -312,7 +312,7 @@ He twirled it once.
 
 Elswyth another step towards the axe.
 
-"The moon maiden, in your first poem - the family poem - was _she_ your last partner?" 
+"The moon maiden in your family poem... was _she_ your last partner?" 
 
 Elswyth took another careful step towards the axe.
 
@@ -478,11 +478,13 @@ He stomped his foot, and glared at Elswyth.
 
 "You coal-slinging, rake-legged woad snail! That hurt!"
 
+That's when she noticed. He had stopped. He wasn't looking to pounce. He wasn't waving his blade. He was truly thrown off his rhythm.
+
 Elswyth knew this wasn't a solution. It was time.
 
 She stepped onto the coals.
 
-"You want me? You'll have to fight me here." She pulled out her mushroom knife - the last bit of steel on her.
+"You want me? You'll have to fight me here." She pulled out her small mushroom knife. It was the last bit of steel that she had.
 
 "But my nose hurts! How am I supposed to properly enjoy this?"
 
@@ -498,7 +500,7 @@ He gingerly touched his nose.
 
 He sighed.
 
-"But I can't have you set yourself on fire. Can't rescue the dish that way."
+"But I can't have you set yourself on fire. Can't rescue the dish that way," he casually mentioned to himself.
 
 His smile faded into a grimace.
 

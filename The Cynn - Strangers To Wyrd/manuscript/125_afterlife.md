@@ -24,7 +24,7 @@ All Month in The Commons!
 Today's Featured Attractions:
 
 GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
-_Be the first in your family - or anybody's - to fly with the pigs!_
+_Be the first in your family (or anybody's) to fly with the pigs!_
 
 THE ELENCHUS GAME, STARRING SOCRATES!
 _Match wits with history's greatest inquisitor!_

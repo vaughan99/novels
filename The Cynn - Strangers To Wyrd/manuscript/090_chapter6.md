@@ -12,7 +12,7 @@ Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for
 
 The fyrdmen clustered around his horse.
 
-"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You - and you - gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
+"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You... and you... gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
 
 He looked down at the mud.
 
@@ -76,7 +76,7 @@ The one-eyed archer scrambled to the top of one of the carts near the corner. He
 
 Osric stood in the wall, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole spear, but it didn't last long. A broad-axe bit into the pole. The ash shaft sheared in two with a single, mocking crack. Osric dropped the useless shaft and leaned his full weight into his shield, bracing its back with his free hand.
 
-For a few heartbeats neither side gave ground. Another arrow flew by Wulfhere's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Rognvaldr, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt - still in its groove - into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
+For a few heartbeats neither side gave ground. Another arrow flew by Wulfhere's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Rognvaldr, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
 
 Wulfhere seized his moment. A smile crept across his face. "Pull!"
 
@@ -182,7 +182,7 @@ She waded through the near-freezing water, each splash stealing air from her lun
 
 The ceiling was collapsed in parts, and the night sky was visible. The floor of the bathhouse was cracked marble tile, built on moist clay.
 
-Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. On the bench was a long narrow coffer of wood, its top had an iron symbol: an oak tree sprouting from an anvil, hammers crossed.  On top of the coffer lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle - the one she knew all too well - beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
+Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. On the bench was a long narrow coffer of wood, its top had an iron symbol: an oak tree sprouting from an anvil, hammers crossed.  On top of the coffer lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
 
 She heard the footsteps of Vikings around the rainwater chute above, and they could see her track ended there. They were determined to follow her into the dark.
 

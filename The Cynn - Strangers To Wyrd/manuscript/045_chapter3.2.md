@@ -11,9 +11,9 @@ The wood, the ground, even your skin!
 Everything drinks the moon in.
 ```
 
-He danced to his own tune around the fire, repeating the lines thirteen times. His feet both twirled and skipped with unnatural charm, his head bobbing until his cap - the one stained with dark, crimson ink - nearly flew off his head.
+He danced to his own tune around the fire, repeating the lines thirteen times. His feet both twirled and skipped with unnatural charm, his head bobbing until his cap nearly flew off his head.
 
-That is when he would pull out his bodhran and tipper - a small frame drum with a two-sided drumstick. He worked himself into a drumming frenzy, prancing and singing his rhymes to ancient melodies. He taught her to dance, to feel the drumbeat as if it were her own heart. Dances lasted into the morning hours to the light of the moon.
+That is when he would pull out his bodhran and tipper, the kind of small frame drum with a two-sided drumstick. He worked himself into a drumming frenzy, prancing and singing his rhymes to ancient melodies. He taught her to dance, to feel the drumbeat as if it were her own heart. Dances lasted into the morning hours to the light of the moon.
 
 ```
 Can you keep the beat with me?

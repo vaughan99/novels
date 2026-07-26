@@ -479,7 +479,7 @@ That morning, she took the news of the peace with dread. She had no ear for war,
 
 Osric's Tyne River fyrd was one of the companies encamped just outside Under-Geat. Their wagon master was a Scot named Murdock, a fire-bearded man whose first instinct was always to count: wagons, oxen, barrels, sacks, and finally people. He had seen Elswyth faithfully deliver her bounty for several weeks. And with the mud, his count of spare axles was down to a single hand. He needed a forester to prepare for the worst. Broken axles did not grow on wagons, and hungry men did not march on promises.
 
-Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her wedge-driving cudgel, an assortment of iron and wooden wedges, her clean Easter tunic wrapped in linen, and the twine and triggers of her traps - all kept in a bundle of empty charcoal sacks.
+Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her wedge-driving cudgel, an assortment of iron and wooden wedges, her clean Easter tunic wrapped in linen, and the twine and triggers of her traps. It was all kept in a bundle of empty charcoal sacks.
 
 And finally, her hand found the smooth lump of coal in her pocket, polished over years of handling until it shone like black glass.
 
@@ -759,7 +759,7 @@ The wolf-man’s grin faltered slightly against that hollow stare, his howl dyin
 
 Wulfhere looked on in approval, watching the challenge with a smile. He liked to know the character of men well before their throat met his blade. With one last glance, he turned with his men and headed north.
 
-Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath - a long shuddering exhale. He stared down at the deep, muddy impressions of the wolf-man who had stood nine inches from his. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes. He turned his back to the road to survey the state of the wagons.
+Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath in a long shuddering exhale. He stared down at the deep, muddy impressions of the wolf-man who had stood nine inches from his. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes. He turned his back to the road to survey the state of the wagons.
 
 Cynewulf's new men had watched the exchange in silence.
 

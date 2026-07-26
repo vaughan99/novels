@@ -36,7 +36,9 @@ Huginn: "There, happy?"
 
 She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow.
 
-Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, he immediately found what he was looking for - a plot of land for his service. He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone was put as the cap on the barrow, the black jet streaks shining in the sun.
+Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
+
+He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone with jet was put as the cap on the barrow, the black streaks shining in the sun.
 
 Her grand-father bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
@@ -94,8 +96,8 @@ She arrived at the cottage in five days, a reasonably fast trek. Osric's fyrdmen
 
 She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone: 
 
-ᚠ - Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and 
-ᛟ - Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
+ᚠ: Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and 
+ᛟ: Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
 
 The dowry-promise of more cows was paid two years after she arrived, bringing their pen to four cows. Their wealth steadily grew, as Osric could now provide grain, and Ealhild provided the cream and butter. Osric had not yet built his cheese vats; that would come when he had enough cows, and children tall enough to reach the center for the skimming. Until then, they traded the leftover cream to their neighbor for finished cheese.
 
@@ -117,7 +119,7 @@ He remembered the theft.
 
 The trouble began in the _eorth-hord_.
 
-Ealhild would note that each time she pulled grain from the chests in the eorth-hord, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints, no gnawed wood, no leavings of rats. She brought Osric over, candle in hand, to show him. He was tired from late fall's work - sowing the fields, fixing thatch, mending and insulating pens - and had barely begun stocking the wood-stack. He had no time for such matters. "Ealhild, I trust you to work the eorth-hord," he muttered, his eyes heavy with exhaustion. "Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
+Ealhild would note that each time she pulled grain from the chests in the eorth-hord, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints, no gnawed wood, no leavings of rats. She brought Osric over, candle in hand, to show him. He was tired from late fall's work: sowing the fields, fixing thatch, mending and insulating pens, and stacking the cord-wood. He hadn't even begun to move the animals to the byre and separate the cockrels. He had no time for such matters. "Ealhild, I trust you to work the eorth-hord," he muttered, his eyes heavy with exhaustion. "Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
 
 And so she set to work. She started with the obvious things. "Maybe the feet of these rats are not heavy to make tracks?" With the width of her fingers as a guide, she meticulously measured each gap and every seal, every box and every salted wrap. Nothing. "Maybe my memory is failing. I need to track the theft." So she delved deep into her Freyr-family's wisdom. "Lines of charcoal on the chest walls, counting one two and three. A leveling stick in the center, notched one two and three. That's good enough for rats and children's hands. But... " She searched her mind for all the possibilities. She grabbed the vial of linseed oil, and bit of yarn from her knitting basket. "The last ward... I'll seal the chests with tallow, save a small hole at the top. I'll nail a linseed-oil string to mark the opening of the lid. If this is what I think it is, it will see the hole as an opening, and if it reaches in, the oil will catch the hand of the thief." She smeared tallow into the lines between the boards. She oiled the string, nailed it to the inside lid of the massive chest of grain. "Now let the thief come reveal its nature."
 

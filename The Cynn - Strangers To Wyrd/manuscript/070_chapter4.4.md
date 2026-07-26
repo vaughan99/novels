@@ -36,7 +36,7 @@ He didn't wait for an argument. He stood, the langseax heavy and unfamiliar at h
 
 The two survivors who were still whole exchanged a look—a silent, hollow communion of men who had seen the end of the world and were now tasked with carrying the news. They didn't argue. They didn't pray. They simply stood and finished the stripping.
 
-The gear - suits of mail, shields, spears, even a sword - was loaded on to two of the horses. The one horse that was severely injured was stripped of its saddle, its halter, and bags. They were loaded as well.
+Suits of mail, shields, spears, even a sword were loaded on to two of the horses. The one horse that was severely injured was stripped of its saddle, its halter, and bags. They were loaded as well.
 
 Cynewulf was no longer a priest. He knew that he had no communion, no oil, no way to administer the rites. He had the power only for hearing 'lay confession'... a desperate attempt for a soul to cleanse itself by speaking their secrets to another Christian. He wasn't sure if even that counted for him anymore. He offered, "Do you have a confession?"
 
@@ -122,7 +122,7 @@ He finally raised his head, his eyes cold and dismissive. "Go. Join the baggage 
 
 Cynewulf stood, his body aching, his soul hollowed out. He turned and walked out of the pavilion, leaving the King to his maps and his secrets. His shield and langseax were returned by the King's guard. "But where is my horse? I left it here..." Cynewulf was confused. He had handed the horse off to the guard. "Your friends took it with them. They were off to the carts. They seemed eager."
 
-He found the baggage train in the dark on foot. He asked the drivers for news of the _Griffons_ wagons. He finally found a driver with news; two men arrived with an extra horse, saying that they were the last of the _Griffons_ and that they were heading back to Frankia. They bid the drivers move quickly, and they left. They took everything. All he had was his armor, a shield, and his langseax - no coin, no supplies, and now, no army or lord to hire him.
+He found the baggage train in the dark on foot. He asked the drivers for news of the _Griffons_ wagons. He finally found a driver with news; two men arrived with an extra horse, saying that they were the last of the _Griffons_ and that they were heading back to Frankia. They bid the drivers move quickly, and they left. They took everything. All he had was his armor, a shield, and his langseax. He had no coin, no supplies, and now, no army or lord to hire him.
 
 He stared at the space where he was told the wagons had been waiting. It was just a few ruts, oxen hoofprints in the mud, and the smell of manure. Cynewulf's knew that there was no way to catch them. They were probably on their way to Hamwic to ferry back to Frankia, never to be seen again on these shores. He stood there staring at manure for what seemed like an eternity.
 
@@ -148,7 +148,7 @@ With the entire host moving north, he reasoned that the road's patrols would be 
 
 He headed south. He found them in the dark corners of the Midlands—men who had been chewed up by the same war and spat out by the same kings. They were a collection of broken things, warbands of ghosts who fought for silver because they had forgotten every other reason to fight.
 
-For years he drifted between bands, never staying longer than his trust in people -  and he trusted no man and called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. When jarls broke promises, he remembered. The old priest had called it "ember hate". He was a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
+For years he drifted between bands, never staying longer than his trust in people. He trusted no man and called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. When jarls broke promises, he remembered. The old priest had called it "ember hate". He was a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
 
 He was hollow man in a suit of mail, selling his blade to anyone who didn't ask about his past. He was a creature of the road, a ghost who had forgotten the shape of his own name.
 
@@ -182,7 +182,7 @@ Cynewulf didn't thank him. He didn't look at the chapel. He simply dragged his c
 
 It was all Cynewulf could do to stop himself from jumping into the coals. He kneeled before the altar of heat, resting his hands and cheek on the hot stone.
 
-The abbot left him in peace. A moment later, a sister brought a crust of bread and warm water. He found the first thing he could - a fist-sized piece of bloomery iron - and threw it at her. It missed, hitting the wall over her shoulder with a heavy crack. Slag and iron splinters rained into her hair and onto her shoulders. He screamed at her to leave. In the distance he could hear the crying of the nun, and the voice of the abbot.
+The abbot left him in peace. A moment later, a sister brought a crust of bread and warm water. He found the first thing he could and threw it at her. The fist-sized bloomery iron missed, hitting the wall over her shoulder with a heavy crack. Slag and iron splinters rained into her hair and onto her shoulders. He screamed at her to leave. In the distance he could hear the crying of the nun, and the voice of the abbot.
 
 "Do not blame him, child. The road has been cruel to that one. He has forgotten what kindness looks like."
 
@@ -272,7 +272,7 @@ One of them, a man with a scarred jaw and a cloak that had seen better decades, 
 
 "You look like a man who knows how to use that," the stranger grinned and pointed, his vowels rolling like stones in a river. He was gesturing to the langseax.
 
-Most of them were _Cymry_ skirmishers—warriors of the Powys hills, who fought with a ferocity that made the Saxon house-carls look like statues.  They fought light on their feet, using little armor - just small shields and fast dodges. They didn't line up in warfare, they preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle - ranged skirmishers that taunt you from afar, and whom you can never quite catch. Against such men, a shield wall felt less like a fortress and more like a prison..
+Most of them were _Cymry_ skirmishers. They were warriors of the Powys hills who fought with a ferocity that made the Saxon house-carls look like statues.  They fought light on their feet, avoiding blows with just small shields and fast dodges. They didn't line up in warfare, they preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle, ranged skirmishers that taunt you from afar, and whom you can never quite catch. Against such men, a shield wall felt less like a fortress and more like a prison..
 
 "We’re heading for Leicester. The Vikings are holed up, and there’s coin to be made in the breach. You look like a warrior. Will we see you there, or are you preparing our victory feast here for our return?" He laughed so hard, it was easy to understand he was joking.
 
@@ -317,15 +317,15 @@ The _Dannedd y Ddraig_ were a riot of noise, singing bawdy songs of the Welsh 
 Women: "I see and hear the Bishop cry!"
 Men: "Way, oh way, beyond the sea."
 Women: "Who now stole the Bishop's pie?"
-Men: "Don't look my way - it wasn't me."
+Men: "Don't look my way, it wasn't me."
 Women: "I see and hear the abbot's goose."
 Men: "Way, oh way, beyond the sea."
 Women: "The yard's a mess and the bird is loose!"
-Men: "Don't look my way - it wasn't me."
+Men: "Don't look my way, it wasn't me."
 Women: "I see and hear Sant Padrig moan."
 Men: "Way, oh way, beyond the sea."
 Women: "Some one played upon his bone."
-Men: "Don't look my way - it wasn't me."
+Men: "Don't look my way, it wasn't me."
 
 One of the men, a younger lad named "Baldy Gwyn", was caught off-guard and laughed hysterically, breaking the refrain. The company stopped as one, every finger pointing at Baldy.
 

@@ -4,7 +4,7 @@ _The Road does not care for confessions, nor does it grant absolution. But it is
 
 _These are the lessons of the Road._
 
-For the first three days out of Leicester, Cynewulf carried a world of silver, or so it seemed. The boy's shield was hung over his back, and the axe he stole was stuffed into his belt. The sack of stolen church plate and goblets made his left hand numb with pain, while the small chest of coin rubbed his right hip raw. He wore the thegn's donation - the stolen iron byrnie - over his priestly woolens, the mail weighing down his every step. 
+For the first three days out of Leicester, Cynewulf carried a world of silver, or so it seemed. The boy's shield was hung over his back, and the axe he stole was stuffed into his belt. The sack of stolen church plate and goblets made his left hand numb with pain, while the small chest of coin rubbed his right hip raw. He wore the thegn's donated byrnie over his priestly woolens, the mail weighing down his every step. 
 
 He troubled anyone who might have a bit of food, or a drink of water. He managed to pay a shepherd moving sheep on the road for a bit of dried lamb. He found water in a pond off the road, wet from the spring rain. That didn't last long, though. He slept on the dirt, off the road. He never understood just how exhausting travel can be. He knew working the bell pits had made him strong, but nothing prepared him for this.
 
@@ -104,7 +104,7 @@ Cynewulf looked at the stallion, then at the _Griffons Noirs_ men. He thought of
 
 "Good," _Fer-Main_ said, turning his horse. "Follow us. When was the last time your mail saw oil, or a sand barrel? See the armorer when we next camp. You'll have to sleep in the open and earn your keep. If you survive."
 
-The _Griffons Noirs_ had a few wagons at the back of their train for supplies and pavilions. Cynewulf ran to try to catch a wagon, but even it was too fast for his tired legs, and it didn't slow for him. He followed the trail of the host and found their camp three hours later, as dark was settling in. The men and horses were fed, and setting up for sleep. There was no meal left - Cynewulf found empty bones to gnaw on, and crusts of bread that had fallen from their meal.
+The _Griffons Noirs_ had a few wagons at the back of their train for supplies and pavilions. Cynewulf ran to try to catch a wagon, but even it was too fast for his tired legs, and it didn't slow for him. He followed the trail of the host and found their camp three hours later, as dark was settling in. The men and horses were fed, and setting up for sleep. There was no meal left. Cynewulf found empty bones to gnaw on, and crusts of bread that had fallen from their meal.
 
 He curled up in the mud near the perimeter, his axe gripped in his hand, watching the black-clad figures move like ghosts through the firelight. He was a scavenger in a pack again, but this pack was like no other he had seen.
 
@@ -154,7 +154,7 @@ _Fer-Main_ went still. "Explain."
 
 Cynewulf didn't flinch. "You fight for coin, but you are always at the mercy of the men who write the contracts. You are always the outsider. A scriptorium remembers names, records debts, carries letters farther than horses, and speaks to every bishop and ealdorman before your company ever arrives."
 
-He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. Bronze is not kind - it requires heat, precision. The seal dies of the deeds and scrolls are made of bronze - easy to make for someone who knows how. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can write a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
+He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. Bronze is not kind. It requires heat and precision. The seal dies of the deeds and scrolls are made of bronze, which is easy to make for someone who knows how. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can write a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
 
 The captain’s eyes narrowed, a flicker of genuine, predatory interest crossing his face. He didn't ask if it was moral; he only saw the utility.
 
@@ -268,7 +268,7 @@ _Fer-Main_ didn't speak much, but he knew the weight of a tool when he held it.
 
 The mercenary captain didn't offer praise; he offered a horse. A destrier, still wild-eyed and trembling from the breaking-pen, stood waiting by the tent. Beside it lay a set of black leathers, oiled and supple, the mark of a man who belonged to the inner circle of the company.
 
-Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen didn't accept him - they didn't need to. He had accepted himself, and that was more important than all the silver in _Fer-Main's_ purse.
+Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen didn't accept him, but they didn't need to. He had accepted himself, and that was more important than all the silver in _Fer-Main's_ purse.
 
 _Blessed are the aware, for the Road reveals its shortcuts to them. Blessed are the cunning, for they shall forge the keys to locked gates. Woe to those who have neither, for they shall lose their silver to the bandits and the taxman._
 

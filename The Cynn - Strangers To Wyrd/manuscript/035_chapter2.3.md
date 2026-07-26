@@ -1,6 +1,6 @@
 ### Part Three: The Feared
 
-For the next few days, Osric was resigned to living with a monster - which is easier, if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
+For the next few days, Osric was resigned to living with a monster. It is easier if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
 
 Every inch was a battle. His fingers, stiff and blue, clawed at the dirt floor, pulling his dead weight toward the cold stone. He arrived, and he fell into darkness yet again.
 
@@ -16,7 +16,7 @@ He took bites when he could, alternating with heaved breaths. It was as if he co
 
 "You win. I'm fat now," he mocked again. He had no intention to let this creature nurse him back to health, but he knew he needed to stay here by the fire as long as possible.
 
-He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He saw that the firewood pile by the hearth had enough for a day, and he could use some bits of the roof. At some point - soon - he would need more.
+He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He saw that the firewood pile by the hearth had enough for a day, and he could use some bits of the roof. At some point he would need more.
 
 "You know... the mare? She likes... the braids. In her hair... I can tell." He felt a strange, cold necessity in the words. He had to talk to the creature. If he didn't, he was only talking to his own madness, and he knew that was a road he couldn't afford to walk. Better to speak to the monster in the wall than to the ghost in his own head. Even if he had to break his speech to gasp for breath.
 
@@ -46,7 +46,11 @@ That winter was the coldest in a lifetime. Osric's strength returned slowly. Wat
 
 Once Osric could finally stand on his own two feet, he decided to see what remained of his livestock. He chose a day when the air was still, when the cold's bite didn't cut quite as deep. He staggered out to the byre, his knees trembling, but stopped when he reached the door. The heavy drifts of snow had already been neatly dug away from the entrance.
 
-The hair on the back of his neck flared. He smelled the hint of smoke - the absolute worst enemy of a byre. He struggled with the latch and pushed the door open. Inside, the air was thick with the familiar, comforting smell of manure and warm beast-breath. The animals were healthy, their coats dry.
+The hair on the back of his neck flared. He smelled the hint of smoke. Byres in flames are the worst thought of any farmer.
+
+He struggled with the latch and pushed the door open. Inside, the air was thick with the familiar, comforting smell of manure and warm beast-breath. The animals were healthy, their coats dry.
+
+There was no sign of fire.
 
 But as he stepped inside, he felt a strange patch of warmth rising from the clay floor. He looked down.
 
@@ -64,7 +68,7 @@ There was no answer, of course. But the wooden pail gave a soft, bubbling plop a
 
 Osric let out a low, defeated chuckle. "Well. I suppose I can't complain about the ventilation."
 
-The revelation dawned on him that there was plenty of meat here in this byre. He saw that the creature had found the creels and had separated the cockerels - it had separated the younger males into willow baskets for use as food for the winter. 
+The revelation dawned on him that there was plenty of meat here in this byre. He saw that the creature had found the creels and had separated the young cockerels into willow baskets for use as food for the winter. 
 
 Osric stared up at the hanging gallery of his winter meals. The silent partner had laid out the entire larder.
 
@@ -72,7 +76,7 @@ Osric stared up at the hanging gallery of his winter meals. The silent partner h
 
 He knew, looking at those wicker thrones, that they would see him through the rest of the winter.
 
-His eyes drifted to the mare in her stall. He stepped closer, squinting in the dim, warm light. The creature had even found time to maintain the braid on her mane - again.
+His eyes drifted to the mare in her stall. He stepped closer, squinting in the dim, warm light. The creature had even found time to maintain the braid on her mane. Again.
 
 Osric reached out and touched the plaited hair. It was looser this time. Not so tight on the edges.
 
@@ -102,7 +106,7 @@ For a week, Osric fought the wreckage of his own home. Every day was a grueling 
 
 Slowly, gently, he freed them from their dark tomb.
 
-He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began with a passageway in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite - not yet.
+He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began with a passageway in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite. Not yet.
 
 But to delay their peace longer invited the _Wodhere_—the spectral riders of the Wild Hunt who swept through the freezing night winds, eager to claim any wandering, unguided souls left stranded in the cold.
 
@@ -192,7 +196,7 @@ Huginn: "By the way, the Skeleton Crew likes the name. I'm going to be the lead 
 
 Muninn: "_Who_ ... likes _what_?"
 
-Huginn: "The Skeleton Crew - the ones who play the other instruments. They like the name... of the band."
+Huginn: "The Skeleton Crew. The ones who play the other instruments? They like the name... of the band."
 
 Muninn: "We don't have a band."
 

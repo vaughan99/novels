@@ -1,6 +1,6 @@
 ### Part Five: The Liturgy of the Shield
 
-_A shield is trusted with the blows you cannot bear yourself. It protects you from harm, if only you will trust it. To trust it, you must know it will protect you. A community - even one as small as a family - has the same purpose. If you trust those around you and share each other's burdens, the whole suffers the blow easier than the individual._
+_A shield is trusted with the blows you cannot bear yourself. It protects you from harm, if only you will trust it. To trust it, you must know it will protect you. A community has the same purpose. If you trust those around you and share each other's burdens, the whole suffers the blow easier than the individual._
 
 _These are the lessons of the Shield._
 
@@ -34,7 +34,7 @@ On his back was the _tarian_, a small round shield the size of a man's hand and 
 
 He gestured to the spear in his hands— "And on the 8th day, God decided to give every soldier in all of Christendom a pointy stick. We just decided we should use it better than anyone else!"
 
-He patted his hip, where a short quiver of weighted darts, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_ - the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw. The iron makes them a little lighter, but re-usable."
+He patted his hip, where a short quiver of weighted darts, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_, the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw. The iron makes them a little lighter, but re-usable."
 
 Then, he reached into a small, wooden box-pouch at his belt and pulled out a wooden toggle attached to a thick wool cord. Trailing behind the toggle was a string of iron star caltrops, each one forged so that no matter how they landed, a single, needle-sharp point always faced the sky.
 
@@ -42,11 +42,11 @@ Then, he reached into a small, wooden box-pouch at his belt and pulled out a woo
 
 Cynewulf watched as Madoc coiled the line back into the box with practiced ease. It was a simple, brutal piece of engineering.
 
-Madoc reached into a small wooden cup on his belt covered with a leather strap. He held it up - it was a small clay pinchpot, the size of a plum. It had a cross traced in wax over the opening. "And this," Madoc said, his voice dropping to a conspiratorial whisper, "is the true _Anadl y Ddraig_—the Dragon’s Breath." We throw them with slings at shield walls.
+Madoc reached into a small wooden cup on his belt covered with a leather strap. He held up a small clay pinchpot no larger than a plum. It had a cross traced in wax over the opening. "And this," Madoc said, his voice dropping to a conspiratorial whisper, "is the true _Anadl y Ddraig_. When you succumb to it, you'll think our Red Dragon had just invited you into its entrails! We throw them with slings at shield walls."
 
 Cynewulf frowned, eyeing the strange clay sphere. "It’s just a tiny clay pot?"
 
-"Fermented stomach juice, and some mixture of spurge-milk, nettle-burn, hellebore, wild leeks, and foul iris—whichever is in season. We mix that with tallow and crushed Church's saintly glass," Madoc corrected, his grin widening. "When we have the mixture just right, we pack it into these clay-pot beauties. Bury them for a week under sheep dung, and let the rot do the work. Then we seal them with a wax kiss, and bury them again for a month. Once they're done, we clean them up and they're ready for gifting to the shield-wall. It doesn't kill, but it smells, stings, and clings to everything. Once it's on the skin, the glass and _medicine_ go to work. If the bishop's not looking, we call out curses in Welsh to make them think they've been bewitched! And a _fyrdman_ who flees because he thinks he's cursed is just as good as a dead one. He should be thanking us for saving his life! Ha ha ha!"
+"Fermented sheep's stomach and our lovely botanicals, whichever are in season. We have spurge-milk, nettle-burn, hellebore, wild leeks, and foul iris. We mix that with tallow and crushed Church's saintly glass," Madoc corrected, his grin widening. "When we have the mixture just right, we pack it into these clay-pot beauties. Bury them for a week under sheep dung, and let the rot do the work. Then we seal them with a wax kiss, and bury them again for a month. Once they're done, we clean them up and they're ready for gifting to the shield-wall. It doesn't kill, but it smells, stings, and clings to everything. Once it's on the skin, the glass and _medicine_ go to work. If the bishop's not looking, we call out curses in Welsh to make them think they've been bewitched! And a _fyrdman_ who flees because he thinks he's cursed is just as good as a dead one. He should be thanking us for saving his life! Ha ha ha!"
 
 Cynewulf stared at the tiny pot. He thought of the stained glass he had once cleaned in the nave, the light filtering through the saints and martyrs. Now, that same light was being used to turn men into cursed frightened animals.
 

@@ -2,7 +2,7 @@
 
 The _nisse_ waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
 
-The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl," it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine - *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
+The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl," it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine. That is *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
 
 The small _nisse_'s fury burst forth on to its skin. The madness oozed from its pores like a grey miasma. Just as it leaked out, it breathed, and flushed back in through every pore and orifice. It swelled into every corner of the creature. It grew, its heart pumping miasmic hate out of, and back into its being.
 
@@ -10,7 +10,7 @@ It was brought here. Given this land to tend. For twelve years, the _nisse_ had 
 
 The _nisse_'s fury turned inward. The swelling touched every sinew, every muscle. It hardened and softened with every beat, becoming stone, then mud, over and over as it grew larger. The _nisse_ grew to the size of a giant in the doorframe. It reached in one motion, tearing the door completely off with barely a flick of its wrist. The door flew through the air. With both hands, it grabbed beams of the doorway timbers that reached all the way into the ceiling. It lifted the entire thatch roof off the walls with a primal yet *silent*... scream. 
 
-It stopped, holding the roof's beams high in the air. Its arms were steady, its legs unshakeable. Then came the release; the _nisse_ simply let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold and snow rushed in, slapping the faces of Ealhild and the children - face already purple from the goblin sickness, and frozen in final agony.
+It stopped, holding the roof's beams high in the air. Its arms were steady, its legs unshakeable. Then came the release; the _nisse_ simply let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold and snow rushed in, slapping the goblin-sick purple faces of Ealhild and the children. Their expressions were frozen in final agony.
 
 The _nisse_ paused. It expected to hear screams. It expected to hear the pleas of desperate people, begging the _nisse_ for mercy. There was nothing. Only the sounds of broken timbers creaking in the wind.
 
@@ -18,9 +18,9 @@ Next, the _nisse_ trudged through the snow, it's eyes set on the eorth-hord. Wit
 
 Its anger sated, the barrow-wight's form shifted. Slowly, the miasma released from its pores into the ether as its fury subsided. The creature’s great, stone-like bulk had shriveled back into its small, withered frame. The miasmic fury that had filled its veins during the night was gone, leaving only a cold, hollow weight.
 
-It entered the doorway, piles of thatch and snow in mounds before it. It crawled and slipped, finally finding the remains of the family. It found the bodies all in one place - the children had been brought with Ealhild to bed. She was still embracing her children, a crash of timber and snow on top of them.
+It entered the doorway, piles of thatch and snow in mounds before it. It crawled and slipped, finally finding the remains of the family. It found the bodies all in one place; the children had been brought with Ealhild to bed. She was still embracing her children, a crash of timber and snow on top of them.
 
-All had the tell-tale sign of the goblin sickness - purple skin. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The _nisse_ searched further and found Osric next to the bed, not with the others under the heap.
+All had the tell-tale sign of the purple-skinned goblin sickness. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The _nisse_ searched further and found Osric next to the bed, not with the others under the heap.
 
  It looked at Ealhild’s purple lips. It looked at the quiet shapes of the children beneath the thatch. It knew the tragedy.
 
@@ -84,7 +84,7 @@ For two days, Osric was too weak to move. His mind slowly cleared, but only long
 
 "What did this?"
 
-He stared up at the sky; half of the roof had completely collapsed. He shivered - a deep, bone-rattling tremor that stole his strength. He was impossibly cold. He pulled everything closer to him to stay warm. He clawed at the ground, finding handfuls of fallen thatch to build a mound around him. He huddled beneath it like a wounded faun.
+He stared up at the sky; half of the roof had completely collapsed. He shivered, his body giving a deep, bone-rattling tremor that stole his strength. He was impossibly cold. He pulled everything closer to him to stay warm. He clawed at the ground, finding handfuls of fallen thatch to build a mound around him. He huddled beneath it like a wounded faun.
 
 "Am I dead?"  
 
@@ -96,7 +96,7 @@ He woke to a sound. He heard dragging, which stopped suddenly. He noticed that m
 
 His mind drifted again. He sunk into a dreamless pit.
 
-He woke to a piercing ray of sunshine. It pressed hard through a hole in the clouds, and landed clean on his face - almost warm. There was also something pressing into his hand. It had a feel, and a weight. He brought it up to his face, and saw the small crabapple peering back at him. It was shriveled and frost-bitten, a lonely survivor from the tree Ealhild had planted, yet it sat in his hand like a treasure. He didn't know he was hungry, until he saw it.
+He woke to a piercing ray of sunshine. It pressed hard through a hole in the clouds, and landed clean on his face. It was almost... warm. There was also something pressing into his hand. It had a feel, and a weight. He brought it up to his face, and saw the small crabapple peering back at him. It was shriveled and frost-bitten, a lonely survivor from the tree Ealhild had planted, yet it sat in his hand like a treasure. He didn't know he was hungry, until he saw it.
 
 "Hello? Is there someone... there?"
 
@@ -132,9 +132,9 @@ The daub didn't just fall; it was _pushed_? A deliberate, rhythmic pressure fro
 
 Another piece of daub pushed in, this time a foot higher.
 
-"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica - the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
+"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica. He couldn't remember the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
 
-He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before - the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
+He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before: the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
 
 "Ha-ha! See! You don't... exist!" he challenged. His mind struggled under the weight of logic, and he was proud that he had restored the status quo. The world was back to being a simple, miserable place where things stayed where they were put.
 
