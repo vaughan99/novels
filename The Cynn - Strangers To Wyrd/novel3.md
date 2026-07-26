@@ -1321,7 +1321,7 @@ The redcap's tone dropped into one of pure, mocking dejection.
 
 The redcap resumed his commanding, authoritative tone.
 
-"Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-Bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
+"Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
 Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
@@ -1568,7 +1568,7 @@ Blood to tile, and none for thee!
 ```
 
 "
-Oh meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast!
+Oh Meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast!
 "
 
 Wulfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
@@ -1629,7 +1629,7 @@ Blood to earth, and none for thee.
 
 Wulfhere dropped his axe and gripped Elswyth's shirt with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her linen as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
 
-"Well, meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
+"Well, Meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
 
 Then, without a heartbeat of warning, the silver steel twitched violently in her palm. The blade aggressively spun backward, the satin edge slicing through the air toward Elswyth’s own throat as the Redcap lunged to harvest her trunk-blood from within the metal. Inside her head, his voice frantically scrambled into a desperate, rushing meter:
 

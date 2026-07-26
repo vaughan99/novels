@@ -951,15 +951,15 @@ Mortals have lived without certainty for as long as they have existed. They have
 By the end of the story, Woden just begins to see Freyr's point. He may not agree with it, but he is now deprived of the certainty that he _thought_ he possessed and must learn to do what mortals have always done: choose without certainty. For a god who has spent an eternity searching for certainty, nothing could be more unnatural.
 
 ---
-#### Agency of Magical Artefacts
+#### Agency of Magical Artifacts
 
 Several historical runic inscriptions blur the distinction between object and speaker. Rather than presenting a spell as something spoken by the owner, the inscription may be framed as the voice of the object itself. To a modern reader this can seem poetic, but to an early medieval audience the distinction carried real significance. The Old English word _hǣlu_ is often translated as "health" or "wholeness," but in this context it refers to something broader: the integrity by which a thing possesses identity, purpose, destiny, and participation in the world. A thing with sufficient _hǣlu_ is not merely acted upon by wyrd; it participates in wyrd.
 
-This idea appears in several historical artefacts, including the Franks Casket, where objects are presented as speaking in their own voices. In the cosmology of the Cynn, powerful artefacts likewise possess their own _hǣlu_. Such objects are more than tools. They have names, purposes, obligations, and destinies of their own. A blade may therefore make a promise, utter a warning, or invoke a power in its own right. The inscription is not merely decorative text attached to an object; it is the object speaking.
+This idea appears in several historical artifacts, including the Franks Casket, where objects are presented as speaking in their own voices. In the cosmology of the Cynn, powerful artifacts likewise possess their own _hǣlu_. Such objects are more than tools. They have names, purposes, obligations, and destinies of their own. A blade may therefore make a promise, utter a warning, or invoke a power in its own right. The inscription is not merely decorative text attached to an object; it is the object speaking.
 
 This is why Wodbora's spell is introduced with _Wodbora cwiþ_ ("Wodbora says"). To a tenth-century audience, a mortal commanding the Wodhere would be an act of extraordinary arrogance. Who is a person to order the Mad-Host to ride? Such presumption would itself invite disaster. Wodbora avoids this problem by speaking with its own voice. The blade is not ordering the Wodhere as a servant. Rather, it acts as prophet and herald, declaring the opening of a path through which the Mad-Host may pass. The wielder directs where the Host's fury should fall, but the invocation itself belongs to Wodbora.
 
-In practical terms, the distinction functions as a metaphysical safeguard. The wielder does not claim authority over the Wodhere, and therefore does not incur the consequences of pretending to possess it. Those consequences instead belong to the named artefact whose _hǣlu_ grants it standing to speak. Wodbora is not merely a weapon. It is an actor within the story's cosmology, possessing its own place within wyrd, its own obligations, and its own voice.
+In practical terms, the distinction functions as a metaphysical safeguard. The wielder does not claim authority over the Wodhere, and therefore does not incur the consequences of pretending to possess it. Those consequences instead belong to the named artifact whose _hǣlu_ grants it standing to speak. Wodbora is not merely a weapon. It is an actor within the story's cosmology, possessing its own place within wyrd, its own obligations, and its own voice.
 
 ---
 

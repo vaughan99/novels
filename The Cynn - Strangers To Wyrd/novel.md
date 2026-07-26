@@ -41,7 +41,7 @@
     - [Who Is Woden?](#who-is-woden)
     - [Wyrd (And Why It's So Weird)](#wyrd-and-why-its-so-weird)
     - [Inside the Debate](#inside-the-debate)
-    - [Agency of Magical Artefacts](#agency-of-magical-artefacts)
+    - [Agency of Magical Artifacts](#agency-of-magical-artifacts)
     - [The Many Faces of the Wodhere](#the-many-faces-of-the-wodhere)
 - [Swords and Scabbards: What Are These Blades?](#swords-and-scabbards-what-are-these-blades)
   - [Wodbora the Madness-Bringer, the Prophet of the Wodhere, the Guardian of Chaos](#wodbora-the-madness-bringer-the-prophet-of-the-wodhere-the-guardian-of-chaos)
@@ -1658,7 +1658,7 @@ Huginn: "And yet here you are."
 
 ### Part One: The Hunters of the Pit
 
-In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gentle sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester. To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
+In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gently sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester. To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
 
 ---
 
@@ -1676,7 +1676,7 @@ Huginn: "I remember now. Splendid game. A hundred men screaming, broken shins, m
 
 ---
 
-Just below the top of the hill was a large black gate set into an ancient Roman wall patched with timber. It was known as the Shadow Gate. The hamlet took its name from being under that gate, and it formed the center of hamlet social life.
+Just below the top of the hill was a large black gate set into an ancient Roman wall patched with timber. It was known as the Shadow Gate. The hamlet took its name from being under that gate, and it formed the center of the hamlet's social life.
 
 Beyond the _Shadow Gate_ lay the _Old Frith_, a broad yard of compacted earth worn hard by countless feet in the centuries since the Romans departed. On fair days it served as the Church's market, where villagers traded beneath the open sky. At _Easter_ and on the _Feast Day of St. Augustine_, however, the yard filled with hundreds of the faithful gathered for worship.
 
@@ -1684,7 +1684,7 @@ The _Old Frith_ was also shared with the neighboring _Church of St. Martin_. Eac
 
 The villagers were commonfolk whose livelihoods centered on the church. They would bring their wares to the _Shadow Gate_ and wait for the creak of the old oak doors. Once open, they would file into the _Old Frith_, setting up stalls, telling gossip, and making exchanges. During the day, the gate would open and the clergy would mingle, telling stories, offering prayers and teaching lorica. Vendors from inside Leicester would arrive to the _Old Frith_. All business was conducted under the watchful eyes of two large stone face masks facing into the _Old Frith_.
 
-_Blackjoy_ was the one whose jaw was clenched and his eyes narrow. He was neither sad nor angry; he was more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest". The villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
+_Blackjoy_ was the one whose jaw was clenched and whose eyes were narrow. He was neither sad nor angry; he was more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest". The villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
 
 _Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning, and its closing each evening. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather.
 
@@ -1702,7 +1702,7 @@ Morning-Eye: "You don't _speak_ to _any_ people."
 
 Blackjoy: "I smile at them. I'm just not very good at it."
 
-Morning-Eye: "Lucky for you. Do you know how exhausting it is being cheerful everyday?"
+Morning-Eye: "Lucky for you. Do you know how exhausting it is being cheerful every day?"
 
 Blackjoy: "Try spending eternity having people look at your face, then start swearing."
 
@@ -1712,19 +1712,19 @@ Beyond the _Old Frith_, the _Mission Quarter_ spread across the hillside. Graves
 
 Elswyth's family were coal-burners originally from the Saxon heartland, the town of _Witanceaster_ to the southwest. They prepared charcoal for the forges and the Church. As more local families entered the trade, each load of charcoal brought fewer pennies than the last. Their access to the wood-lots was getting more difficult as well. All they needed for their trade were their axes, a few coal-rakes, a shovel and a tinder box, so they packed up their few belongings and moved on.
 
-Whispers carried on the wind from _Leicester_ promised deep woods and the steady demand of war-forges and bell-founders. _Leicester_ was part of the _Five Burroughs of the Danelaw_, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers. Weapon-forges and casting-pits for bells and crosses were always hungry for more coal.
+Whispers carried on the wind from Leicester promised deep woods and the steady demand of war-forges and bell-founders. Leicester was part of the Five Boroughs of the Danelaw, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers. Weapon-forges and casting-pits for bells and crosses were always hungry for more coal.
 
-The road was long and dangerous, but when they arrived, they found there was room for honest coalers to ply their trade. The only space for their new home in _Under-Geat_ was next to the Roman graveyard, at the foot of the hill. They built their hearth with stone from the Roman wall, as many had done.
+The road was long and dangerous, but when they arrived, they found there was room for honest coalers to ply their trade. The only space for their new home in Under-Geat was next to the Roman graveyard, at the foot of the hill. They built their hearth with stone from the Roman wall, as many had done.
 
-They staked a claim to a small unused knoll on the opposite bank of the Soar, which led to the sprawling _Charnwood_ beyond. It was close enough to the road for a carter to reach them, but far enough from the village that the smoke troubled no one. There they prepared their charcoal clamps, slowly turning _Charnwood's_ timber into the fuel that fed Leicester's forges and bell-pits.
+They staked a claim to a small unused knoll on the opposite bank of the Soar, which led to the sprawling Charnwood beyond. It was close enough to the road for a carter to reach them, but far enough from the village that the smoke troubled no one. There they prepared their charcoal clamps, slowly turning Charnwood's timber into the fuel that fed Leicester's forges and bell-pits.
 
-Elswyth was of ten winters, and she had been learning the family trade. Her father, Godwine, would brave the _Charnwood_ forest to find the best hardwood with his felling axe, and Elswyth and her mother Eadgyth would manage the charcoal clamps on the knoll with their rakes and smaller hand axes. It was hot, smelly, thankless work.
+Elswyth was of ten winters, and she had been learning the family trade. Her father, Godwine, would brave the Charnwood forest to find the best hardwood with his felling axe, and Elswyth and her mother Eadgyth would manage the charcoal clamps on the knoll with their rakes and smaller hand axes. It was hot, smelly, thankless work.
 
-Godwine was a man who read the forest like a prayer book. He ignored the soft, useless pine and the brittle willow, his eyes always scanning for the silver-grey bark of the beech or the deep, furrowed skin of an ancient oak. He knew the weight of the wood by the way it swung in his hand, and he knew which logs would turn to _singing coal_, ringing with a sharp _clink_, and which would crumble to grey dust before the pit was even half-cooked. Few of the villagers foraged in the _Charnwood_; they said it was home to spirits... and spirit-makers. Godwine was used to the rhythm of forests. He looked past the shadows to find his wooden quarry.
+Godwine was a man who read the forest like a prayer book. He ignored the soft, useless pine and the brittle willow, his eyes always scanning for the silver-grey bark of the beech or the deep, furrowed skin of an ancient oak. He knew the weight of the wood by the way it swung in his hand, and he knew which logs would turn to _singing coal_, ringing with a sharp _clink_, and which would crumble to grey dust before the pit was even half-cooked. Few of the villagers foraged in the Charnwood; they said it was home to spirits... and spirit-makers. Godwine was used to the rhythm of forests. He looked past the shadows to find his wooden quarry.
 
 Godwine and his family were observant Christians, but knew their profession kept them at the edges of parish life. Smoke and soot clung to them like a second skin. Until heavy rain or the Easter washing, they would sooner stand in the church porch than bring the smell of the charcoal pits before the altar.
 
-They would offer prayers to saints by the glow of the coal-fire. They owned no Bible, and were not literate enough to read one anyway, so their faith remained a private, oral tradition. Their favorite prayer was to _Saint Alexander of Comana_. He was a fellow coaler and 'accidental bishop' of the Eastern tradition, a story whispered down from travelers and rarely heard in the local parish. Godwine's grandfather once heard of him from a traveling monk who visited _Witanceaster_ and worked as a cross-caster. The monk honored Saint Alexander on August 11th, and Godwine's grandfather kept up the tradition. They each kept coal tokens they called _Alexander's stones_, whose good luck brought protection from burns. It was a perfect lump of charcoal, polished to a glassy sheen.
+They would offer prayers to saints by the glow of the coal-fire. They owned no Bible, and were not literate enough to read one anyway, so their faith remained a private, oral tradition. Their favorite prayer was to Saint Alexander of Comana. He was a fellow coaler and 'accidental bishop' of the Eastern tradition, a story whispered down from travelers and rarely heard in the local parish. Godwine's grandfather once heard of him from a traveling monk who visited Witanceaster and worked as a cross-caster. The monk honored Saint Alexander on August 11th, and Godwine's grandfather kept up the tradition. They each kept coal tokens they called _Alexander's stones_, whose good luck brought protection from burns. It was a perfect lump of charcoal, polished to a glassy sheen.
 
 Before every large burn, they would gather hands, and pray:
 
@@ -1737,7 +1737,7 @@ Keep the wind quiet, keep the earth tight,
 And wash our souls clean of the soot we wear
 ```
 
-The family had their pagan superstitions too. When harvesting time for the coal would come, her father would point out some loss at the edges of the pit. He didn't seem worried though, because he called it an offering. "The elves are finicky things, Meadow-Bud. Best leave them to pinching the coal." Elswyth cut her father off, "Yes, 'else we might wake to a burning roof.' I remember father!" 
+The family had their pagan superstitions too. When harvesting time for the coal would come, her father would point out some loss at the edges of the pit. He didn't seem worried though, because he called it an offering. "The elves are finicky things, Meadow-bud. Best leave them to pinching the coal." Elswyth cut her father off, "Yes, 'else we might wake to a burning roof.' I remember father!" 
 
 Despite her impatience, the wisdom seemed solid to her, and so that was the family rule. Harvest only coal from the center. Edges for the elves. And one day she would run her own charcoal pits, and teach that rule to her children.
 
@@ -1749,7 +1749,7 @@ Leicester had several carters who knew the roads around the town. But none had t
 
 Long-Mile was as long as his name suggested. He perched on a wagon whose driver's bench sat a hen's height above every other cart in Leicester, so that he always seemed to be looking farther down the road than everyone else. He swore that he could see ruts before even they knew they existed.
 
-Long-Mile was friends with Godwine, and always seemed to know the exact moment to arrive after the last of the coal was bagged. Elswyth and Eadgyth would ride on the sacks of coal up to _Under-Geat_ at the earliest part of the morning, ready to be the first under Morning-Eye's nose.
+Long-Mile was friends with Godwine, and always seemed to know the exact moment to arrive after the last of the coal was bagged. Elswyth and Eadgyth would ride on the sacks of coal up to Under-Geat at the earliest part of the morning, ready to be the first under Morning-Eye's nose.
 
 It was there she learned the rhythm of the trade, watching her father sell their charcoal to a young, strapping deacon named Cynewulf. Like them, he was always black with soot and sweat. He wasn't a coaler like them; he worked the bell-pits, and he treated their coal with a reverence that surprised her. He was kind, but distant, and he always insisted that their charcoal was the best in the _Danelaw_. Elswyth liked him for that; he saw the craft in their soot-stained hands.
 
@@ -1763,11 +1763,11 @@ The wolf-men came as a wolfpack in full deer-chase.
 
 Elswyth had woken early, as she wanted to be the first of the children fishing by the river's edge when the sun came up. Behind her, the screams rose like a chorus of suffering.
 
-The wolves swept everything from _Under-Geat_ to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed. The Viking's wolf head snapped to her, his eyes locking on hers.
+The wolves swept everything from Under-Geat to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed. The Viking's wolf head snapped to her, his eyes locking on hers.
 
 She didn't freeze. She jumped into the ice-cold river without a thought. He gave chase instantly, jumping headlong into the Soar.
 
-One of the first things Godwine taught her after they came to _Under-Geat_ was that the Soar had a temper. Rain made it angry. Summer made it gentle. But the spring thaw made it bitter. "If you can swim in March, _Meadow-Bud_," he used to say, "you can swim any day God gives you." It was that lesson that saved her life.
+One of the first things Godwine taught her after they came to _Under-Geat_ was that the Soar had a temper. Rain made it angry. Summer made it gentle. But the spring thaw made it bitter. "If you can swim in March, _Meadow-bud_," he used to say, "you can swim any day God gives you." It was that lesson that saved her life.
 
 Elswyth could hear the wolf behind her. She dared not look back.
 
@@ -1779,15 +1779,19 @@ When the chase ended, an eerie quiet settled on the _Charnwood_. Nothing dared m
 
 The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it. She tried not to think of her mother being taken. Her shiver was from fear, and she was desperately trying to beat it back. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
 
-In the morning, she was awakened by a soft breath, and the smell of pipe-smoke of an herb she didn't know. "Hello," a small man-voice whispered. At the mouth of the hollow there was a woodland spirit, a wood-gnome by the tell of her parents' stories.
+In the morning, she was awakened by a soft breath, and the smell of pipe-smoke from an herb she didn't know. "Hello," a small man-voice whispered. At the mouth of the hollow there was a woodland spirit, a wood-gnome by the tell of her parents' stories.
 
 Wood-gnomes, she was taught, were shy and humble creatures, but were nothing to be trifled with. They were known to be territorial, and might swat your ankles with their oaken swatches to ensure you left quickly. Yet this small man did not hiss or reach for a weapon.
 
-He was smaller than her, and dressed simply in traveling clothes: forest green breeches and matching shirt, and a coat made of woven bast from the linden tree. He had a stocking hat, ruddy brown and damp, on his blank-face head. He barely had a few tufts of white hair poking out innocently from under the stocking hat pulled close to the brow. On his feet were shoes, also of woven bast, and his footfall was free and soundless.
+He was smaller than her, and dressed simply in traveling clothes: forest green breeches and matching shirt, and a coat made of woven bast from the linden tree. He had a stocking hat, ruddy brown and damp, on his blank-faced head. He barely had a few tufts of white hair poking out innocently from under the stocking hat pulled close to the brow. On his feet were shoes, also of woven bast, and his footfall was free and soundless.
 
-He smiled, "Well it's a girl. Well, hello '_Meadow-Bud_'". He used the nickname her father would use. It gave her a small sense of ease, as it was a common nickname given to girls near the wood. But she also resented it, because she was so much more. "Come now, you're safe with me."
+He smiled, "Well it's a girl. Well, hello '_Meadow-bud_'."
 
-She dragged herself from the hollow, knuckles white from clenching her cloak about her body. At the mouth of the den, the spirit gave a deep, over-long bow. "Now, _Meadow-Bud_, allow me. I am _Fussleton Dowry-Cap_, at your service." He smiled with too many teeth, and rolled the "_R_" of his _Dowry-Cap_ with excessive pride. "Most impressive, how you shed the wolf." He spoke with the clinical precision of a man weighing grain, his manners as sharp and bloodless as a fresh-honed blade.
+He used the nickname her father would use. It gave her a small sense of ease, as it was a common nickname given to girls near the wood. But she also resented it, because she was so much more.
+
+"Come now, you're safe with me."
+
+She dragged herself from the hollow, knuckles white from clenching her cloak about her body. At the mouth of the den, the spirit gave a deep, over-long bow. "Now, _Meadow-bud_, allow me. I am _Fussleton Dowry-Cap_, at your service." He smiled with too many teeth, and rolled the "_R_" of his _Dowry-Cap_ with excessive pride. "Most impressive, how you shed the wolf." He spoke with the clinical precision of a man weighing grain, his manners as sharp and bloodless as a fresh-honed blade.
 
 "_Dowry-Cap_... I've never heard that type of name, " she whispered. 
 
@@ -1809,7 +1813,7 @@ And see that we should never part.
 
 He jolted back to the present. "Where are my manners? We must get you home dear. Your parents must be in a shiver for you!"
 
-"The wolves took my home," she said. "My parents... are gone." The words fell from her lips with a whisper, delivered with an eerie stoic calm. The crying was spent in the night. There was no time for tears in the harsh light of day
+"The wolves took my home," she said. "My parents... are gone." The words fell from her lips with a whisper, delivered with an eerie stoic calm. The crying was spent in the night. There was no time for tears in the harsh light of day.
 
 "Oh... dear dear dear... murder most foul..." _Fussleton_ took off his cap to reveal his white hairy tufts and his scalp stained with the dark crimson ink from his hat. His hands trembled as he held it to his heart. "We mustn't dwell on the matter. The wolves will be back, and they'll be hungry for you, dear. Best you come deeper into the _Charnwood_... under my protection of course." _Elswyth_ didn't have much choice, and she knew the truth of the words. The broad-shouldered Viking had pursued, that is true, but surely he would return. Once his hoard was measured and his belly was full, he would most certainly come back to the table for seconds.
 
@@ -1821,7 +1825,7 @@ He brought her to his hovel, a massive log hollow with a door. She barely fit in
 
 Her parents. Her eyes watered a bit, and she instinctively reached for the Alexander Stone in her pocket. Elswyth rolled it over and over in her hand. It was polished smooth and shiny from the oil of her skin. Her parents had given it to her as a road-token for the trek to Leicester, a promise of luck that had failed to save them.
 
-The gnome’s gaze flickered to her hand. He didn't sneer, but his smile grew thin and sharp. "A stone for a pilgrim," he murmured, his voice like dry leaves skittering on stone. "It is a heavy thing, Meadow-Bud. It anchors you to a road that no longer exists. Why carry the weight of a dead path?" He pointed his pipe to the hearth-fire. "It obviously didn't bring you luck. Consider... tossing it to the fire? Leave old things in the past, I like to say."
+The gnome’s gaze flickered to her hand. He didn't sneer, but his smile grew thin and sharp. "A stone for a pilgrim," he murmured, his voice like dry leaves skittering on stone. "It is a heavy thing, Meadow-bud. It anchors you to a road that no longer exists. Why carry the weight of a dead path?" He pointed his pipe to the hearth-fire. "It obviously didn't bring you luck. Consider... tossing it to the fire? Leave old things in the past, I like to say."
 
 She slid the stone back in her pocket. "I prefer to remember. One day, I'll be my father's apprentice again. With St. Alexander's help, I may yet be better than him. For now, I'll keep it, to honor my father."
 
@@ -1829,11 +1833,11 @@ Fussleton smiled broadly, and breathed a long torrent of smoke. "Then hold onto 
 
 He leaned back in his carved out log-chair and breathed pipe-smoke into the small cabin. It was intoxicating, addling her mind for a bit.
 
-His pipe was almost out, and he looked down at it with a small curled eyebrow. He tapped it on the table, to loosen the the clump of herb that had settled at the bottom.
+His pipe was almost out, and he looked down at it with a small curled eyebrow. He tapped it on the table, to loosen the clump of herb that had settled at the bottom.
 
 "Look there, you've barely touched your supper," Fussleton pointed, his tone shifting to one of mild, sophisticated disappointment. "Creamed morel and chanterelle soup, finished with a hint of wild garlic and sweet cicely. And the squirrel—roasted over oak-heart embers until the meat pulls clean from the bone, then dusted with a pinch of wood sorrel for brightness. You’ll hardly find a better forest-meal. It’s a shame to let such delicate flavors go to waste."
 
-He reached for a small, polished horn hanging from his belt and produced a tiny, carved bone spoon. With the precision of a jeweler, he dusted a pinch of grey, coarse salt over the soup. He pushed the soup closer to her, and the plate of squirrel. "Now eat! Your training, Meadow-Bud, starts tomorrow."
+He reached for a small, polished horn hanging from his belt and produced a tiny, carved bone spoon. With the precision of a jeweler, he dusted a pinch of grey, coarse salt over the soup. He pushed the soup closer to her, and the plate of squirrel. "Now eat! Your training, Meadow-bud, starts tomorrow."
 
 ---
 
@@ -1864,7 +1868,7 @@ The training began exactly as he promised, though it was nothing like the songs 
 
 His first lesson was shelter. Under his watchful, twitching gaze, they gathered fallen timber and woven branches to construct a small hut. It was a cramped, humble thing—barely enough to contain her—but when the spring rains began to lash the forest, it would keep her dry. It was the first thing she had built for herself, and for the first time, the forest felt less like a labyrinth and more like a home.
 
-He taught her to navigate by moonlight. "Moon's light is precious, Meadow-Bud," he would say with a sharpened jagged grin. As they sat around the campfire after a night's stroll in the dark, he burst into a quick rhythmic chant:
+He taught her to navigate by moonlight. "Moon's light is precious, Meadow-bud," he would say with a sharpened jagged grin. As they sat around the campfire after a night's stroll in the dark, he burst into a quick rhythmic chant:
 
 ```
 The wood, the ground, even your skin!
@@ -1924,7 +1928,7 @@ Bite the side to touch the sky,
 Bite the other, and you’ll die.
 ```
 
-And finally, he taught her how to trap animals of the forest. Squirrels were good for eating, but marten fur was fine, making collars for expensive cloaks, and cuffs for winter sleeves. It would fetch more than a few silver pennies.
+And finally, he taught her how to trap animals of the forest. Squirrels were good for eating, but marten fur was exquisite for making collars for expensive cloaks and cuffs for winter sleeves. It would fetch more than a few silver pennies.
 
 ```
 Soft of foot and quick of eye,
@@ -1955,7 +1959,7 @@ On the first anniversary of the night of the wolves, Fussleton led her back to t
 
 The gnome had taught her everything he thought she needed to survive as a child on the edge of the Charnwood. He taught her the secrets of the forest larder. He taught her the power of the moon, and its effect on wood and beasts. He taught her where the absolute best wood lived, and how to harvest it wisely. He taught her music, dancing, and even how to smoke a pipe. She was ready to live on her own.
 
-"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-four moons—twelve moons for your training, and one hundred and twelve for the beats your brave little heart outran the wolf. I will check on you, Meadow-Bud. I will make sure you are safe."
+"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-four moons—twelve moons for your training, and one hundred and twelve for the beats your brave little heart outran the wolf. I will check on you, Meadow-bud. I will make sure you are safe."
 
 "My heartbeat? How do you..." Elswyth stammered.
 
@@ -1963,13 +1967,13 @@ Fussleton blinked. "How do I...?"
 
 He laughed—a delighted, tinkling laugh.
 
-"Meadow-Bud..."
+"Meadow-bud..."
 
 He closed his eyes. "...there."
 
 His head began to sway.
 
-"Lub... dub. Lub... dub. Lub-dub-lub-dub... Oh, It's getting faster. Am I making you nervous, Meadow-Bud?"
+"Lub... dub. Lub... dub. Lub-dub-lub-dub... Oh, It's getting faster. Am I making you nervous, Meadow-bud?"
 
 He started dancing to a rhythm only he could hear.
 
@@ -2019,7 +2023,7 @@ The woman was Shadow-Wife, the church grave-tender and steward of the Shadow Gat
 
 Elswyth took a few steps back and froze, but prepared to run. "Aren't you waking him now?" she replied, her voice steady despite the hammering of her heart.
 
-"Oh, I was teasing, dear. These two only hear each other. Still, I sing to them every night." Shadow-Wife said, not looking up. She gestured with a gnarled finger toward the ossuary. "Are you here looking for your father, dear? He’s over there, in Raider’s Row. All the souls that died the day the wolves came are buried together."
+"Oh, I was teasing, dear. These two only hear each other. Still, I sing to them every night." She gestured with a gnarled finger toward the ossuary. "Are you here looking for your father, dear? He’s over there, in Raider’s Row. All the souls that died the day the wolves came are buried together."
 
 Elswyth froze. Shadow-Wife looked up, and squinted at her for a long moment.
 
@@ -2091,7 +2095,7 @@ She stepped into the shed.
 
 "You awake?"
 
-"WHHHAA!" Long-mile sat up suddenly, certain that the oxen were speaking in Old Norse again.
+"WHHHAA!" Long-Mile sat up suddenly, certain that the oxen were speaking in Old Norse again.
 
 Elswyth stepped closer, but the oxen seemed oblivious.
 
@@ -2107,7 +2111,7 @@ He threw off his wool blanket and opened his eyes wide, drinking in as much ligh
 
 Long-Mile threw off his wool blanket, and his hands and feet remembered the rungs of his ladder before his eyes cared to look.
 
-Elswyth hugged his leg. It's all she could manage. His face had a few wrinkles around his familiar eyes.
+Elswyth hugged his leg. It was all she could manage. His face had a few wrinkles around his familiar eyes.
 
 "Now, now." He bent down and returned her hug for a long moment.
 
@@ -2179,7 +2183,7 @@ She ran up to the old carter. The oxen stared at her, barely impressed.
 
 Long-Mile barely caught the penny, almost dropping it under his seat. He narrowed his eyes at her. "You had me thinking the wolves were back!"
 
-"Nah, just me. You're favorite... customer." She gave a twirl.
+"Nah, just me. Your favorite... customer!" She gave a twirl.
 
 ---
 
@@ -2355,7 +2359,11 @@ The daily ritual of Elswyth and Long-Mile continued. Sometimes she would pay her
 
 He told her of the time old Judith started gossiping that Shadow-Wife had married a ghost. The next morning, Judith found her wool had been stolen. In its stead, a lump of charcoal sat in her knitting basket. By noon she was demanding every lorica the priest knew. By evening she had decided the ghost was coming for her next. She refused visitors for the rest of the week.
 
-He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood. Elswyth frowned. "I didn't." Long-Mile replied "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
+He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood.
+
+Elswyth frowned. "I didn't."
+
+Long-Mile smiled. "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
 
 Elswyth was amused. "You think that was..."
 
@@ -2513,7 +2521,7 @@ She started loading her coal into the sacks.
 
 From behind her came a voice.
 
-"Hello, Meadow-Bud."
+"Hello, Meadow-bud."
 
 Her hands stopped on the coal sack.
 
@@ -2584,7 +2592,7 @@ Bite the side to touch the sky,
 Bite the other, and you’ll die.
 ```
 
-"The rhyme was there *ALL THIS TIME*, Meadow-Bud," he hissed, saliva dripping from his lips and his tongue snaking over his stalactite teeth.  "I had you repeat it, *under the touch of the sky*. Over, and over, and over!"
+"The rhyme was there *ALL THIS TIME*, Meadow-bud," he hissed, saliva dripping from his lips and his tongue snaking over his stalactite teeth.  "I had you repeat it, *under the touch of the sky*. Over, and over, and over!"
 
 He looked down at the ground between them, no longer speaking to her at all.
 
@@ -2618,7 +2626,7 @@ She had always assumed they were carved from horn.
 
 He set the skull down next to the fire.
 
-"I hear your heart, Meadow-Bud. Come! Let us dance. One last time."
+"I hear your heart, Meadow-bud. Come! Let us dance. One last time."
 
 He took up the coal rake and swept it into a graceful bow.
 
@@ -2666,7 +2674,7 @@ Elswyth dared to let her heart fill with hope.
 
 Her eyes were as big as moons. Elswyth screamed.
 
-"Are you _really_ that upset? You assumed she died, _Meadow-Bud_. Does it really matter if it was at the hands of Vikings, or in the service of a better cause?"
+"Are you _really_ that upset? You assumed she died, _Meadow-bud_. Does it really matter if it was at the hands of Vikings, or in the service of a better cause?"
 
 "YOU FOUL... MURDEROUS..." Her mind closed to the shapes of words that tried to escape her mouth.
 
@@ -2678,7 +2686,7 @@ Fussleton looked straight into Elswyth's eyes.
 
 "But your mother had been a victim for a whole month. Then suddenly, she was free."
 
-Fussleton smile turned dark.
+Fussleton's smile turned dark.
 
 "Hope."
 
@@ -2708,19 +2716,19 @@ He spun the knife between his fingers.
 
 He tilted his head.
 
-"A felling axe? That's not _dancing_, Meadow-Bud. That's a prayer disguised as iron and wood."
+"A felling axe? That's not _dancing_, Meadow-bud. That's a prayer disguised as iron and wood."
 
 He wrinkled his nose.
 
 "_Such_ a crude implement. But I do like the spirit. Who knows, a last sprinkling of _hope_ might just be enough flavor to put it over the top. We'll do it your way. You start running."
 
-She picked up the axe anyway. It's all she had.
+She picked up the axe anyway. It was all she had.
 
-"You know, redcap. Hope isn't for _flavor_. Hope is what gets your through the night when everything else has turned to ash. And all I see is ash."
+"You know, Fussleton. Hope isn't for _flavor_. Hope is what gets you through the night when everything else has turned to ash. And all I see is ash."
 
 Fussleton smiled a blood-craving smile.
 
-"And I'll start counting. Hmmm, you've been marinating in _hope_ for years. I suppose that will be my final thesis for this project. Was it _worth_ it?"
+"...And I'll start counting. Hmmm, you've been marinating in _hope_ for years. I suppose that will be my final thesis for this project. Was it _worth_ it?"
 
 He readied his knife.
 
@@ -2958,7 +2966,7 @@ No salt skull and spoon.
 
 Just peace.
 
-The neighbors up the hill crossed themselves in their bed, and drew their bed furs over their eyes. They weren't sure what they had heard from across the Soar, but it must have been another adventure of the _Coaler-Wight_.
+The neighbors up the hill crossed themselves in their beds, and drew their bed furs over their eyes. They weren't sure what they had heard from across the Soar, but it must have been another adventure of the _Coaler-Wight_.
 
 Elswyth reached down and found the Alexander Stone. She stood for a moment, her face reflecting slightly on the glassy surface.
 
@@ -3016,7 +3024,7 @@ _A bell rings in the distance, and people orient themselves to it. They use it t
 
 _These are the lessons of the Bell_.
 
-This story starts earlier in 913 AD. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
+This story began earlier, in 913 AD. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba. The ring of the Shrove-Bells called throughout Leicester. That day was the most important day for confessions on the calendar.
 
 Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
 
@@ -3150,9 +3158,9 @@ He did not yet understand it.
 
 Finally, a few weeks before Shrove Tuesday arrived that year, he took his vows and was ordained a priest. When the bells rang out once more for the Shrove Tuesday confessions, Cynewulf found himself come full circle. He sat in the very seat where he had once confessed his own "ember-hate" as a boy, ready now to hear the confessions of his own flock. He kept the small, dark sins of his own heart tucked away in the back of his mind, convincing himself that he was the perfect guide—a man who knew the weight of sin, and therefore, a man who knew exactly how to help others find their absolution.
 
-The village folk gave their confessions, one by one. It was a process that took several hours, but there lingered a silent tall presence in the back that drew nearer towards the end. He was the final penitent, and it was his turn to kneel. He was elderly, a main in a simple grey robe with a walking staff and a slow steady gate. His staff-echo was heard by the stone angels on the wall, but most of the villagers had left. He came to stand before Cynewulf, gazing down at the priest for a moment to gather his measure. He then slowly knelt on the soft pillow of the confessional floor.
+The village folk gave their confessions, one by one. It was a process that took several hours, but there lingered a silent tall presence in the back that drew nearer towards the end. He was the final penitent, and it was his turn to kneel. He was elderly, a man in a simple grey robe with a walking staff and a slow steady gait. His staff-echo was heard by the stone angels on the wall, but most of the villagers had left. He came to stand before Cynewulf, gazing down at the priest for a moment to gather his measure. He then slowly knelt on the soft pillow of the confessional floor.
 
-Cynewulf's eyes were drawn to the loop of ash wood branches on his chest. The man had made his own cross with grarled branches, perhaps from the same gnarled tree that was the provenance of his staff. The branches were tied with a fresh string made of undyed wool-yarn. The man smelled of sheep's lanolin and the fresh night air.
+Cynewulf's eyes were drawn to the loop of ash wood branches on his chest. The man had made his own cross with gnarled branches, perhaps from the same gnarled tree that was the provenance of his staff. The branches were tied with a fresh string made of undyed wool-yarn. The man smelled of sheep's lanolin and the fresh night air.
 
 Cynewulf laid his hand on the man's shoulder. "Let us begin. Tell me your name." The old man replied in a thick Dane accent.
 
@@ -3162,17 +3170,15 @@ Cynewulf tried not to look at the man's face, but instead focused on the floor a
 
 The shepherd leaned back slightly, and touched up his volume, to be better heard:
 
-"
-I've been a shepherd all my life. I have seen the grass grow green and go to stubble more times than stars in the sky. In the past, I knew my flock. I knew when the ewe would have twins. I knew when the ram would break the gate. 
+"I've been a shepherd all my life. I have seen the grass grow green and go to stubble more times than stars in the sky. In the past, I knew my flock. I knew when the ewe would have twins. I knew when the ram would break the gate. 
 
-I trained wolves to protect my sheep. I set the wolves unto the other fields to claim for all my flock. For a time, the wolves did well, and my sheep prospered.
+"I trained wolves to protect my sheep. I set the wolves unto the other fields to claim for all my flock. For a time, the wolves did well, and my sheep prospered.
 
-Down in the valley, there is a new Master. He has built stone walls to keep his sheep in. He has trained his sheep to fight the wolf. He does not need to train wolves to keep them safe. My sheep see my neighbor's walls, and they are high. They leave to seek comfort inside them.
+"Down in the valley, there is a new Master. He has built stone walls to keep his sheep in. He has trained his sheep to fight the wolf. He does not need to train wolves to keep them safe. My sheep see my neighbor's walls, and they are high. They leave to seek comfort inside them.
 
-Now the wolves have forgotten the field they are in, and hunt all the sheep.
+"Now the wolves have forgotten the field they are in, and hunt all the sheep.
 
-My sin is not the spilt blood of sheep. My sin is that I'm abandoning the wolves, *Father*. My sheep I give to the farmer-in-the-meadow. May *God* have pity on my soul.
-"
+"My sin is not the spilt blood of sheep. My sin is that I'm abandoning the wolves, *Father*. My sheep I give to the farmer-in-the-meadow. May *God* have pity on my soul."
 
 The heavy, weeping weight of the shepherd's confession vanished in a heartbeat, replaced by a glint in the old man's weathered eyes. The shepherd continued, his voice steadying as if telling an ancient tale.
 
@@ -3196,11 +3202,11 @@ On March 14th, 933 AD the black day of Leicester's village-folk had arrived. It 
 
 The wolf-men broke into the church in a storm of activity. Cynewulf had been in his small priest-home; there were several, as the Church had grown since Leicester had reverted back to the Saxons. He was tending to the teaching of Latin that afternoon to three students. He had also been cataloging donations earlier that morning, which were strewn on his small dinner table.
 
-As the Church was being sacked, the sounds were a roar in the background. Cynewulf quickly barred the door, and searched the room quickly for his plan. He told the students to hide in a closet, and he grabbed a byrnie that had been donated by a retired thegn off this table. He took a spare censor's chain and wrapped it around his fist. He was not going to let the night fall on him and his flock without a fight. The sound of Cynewulf's breathless prayers competed with the uproar, until there was a sound at the door.
+As the Church was being sacked, the sounds were a roar in the background. Cynewulf quickly barred the door, and searched the room quickly for his plan. He told the students to hide in a closet, and he grabbed a byrnie that had been donated by a retired thegn off the table. He took a spare censer's chain and wrapped it around his fist. He was not going to let the night fall on him and his flock without a fight. The sound of Cynewulf's breathless prayers competed with the uproar, until there was a sound at the door.
 
-The Viking pounded. There were shoulder-heaves and boot-kicks, until finally the door gave way. In the doorway stood a young Viking, freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made is way into the cottage, shield at the ready.
+Just as Cynewulf fastened the last buckle of the byrnie, the Viking pounded the door. There were shoulder-heaves and boot-kicks, until finally the door gave way. In the doorway stood a young Viking, a freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made his way into the cottage, shield at the ready.
 
-Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even himself off-guard. He slammed his body towards the young _Ulfhedinn_. Priests do NOT lunge at wolves! The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
+Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even him off-guard. He slammed his body towards the young _Ulfhedinn_. The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
 
 Cynewulf stood and watched as the floor of his priest-home pooled with blood. He peered through the doorway, and saw that the _Ulfhedinn_ boy had been carrying a small chest of loot, set cleanly on the ground. He looked back at what he had done. With exhilaration. He saw the chest of silver. He saw how easily he had bested the _Ulfhedinn_. His arm was bell-strong and he was already wearing the retired thegn's chain-shirt byrnie. He told the children in the closet to run. They scurried out the door, and his mind began to race.
 
@@ -4004,7 +4010,7 @@ He was awakened by the abbot.
 
 Cynewulf had not slept in two days before then. Everything ached, but luckily he hadn't lost anything to the frost.
 
-"You should have let me die." Cynewulf croaked. He stared into the space where flame once stood. "You don't know what you saved."
+"You should have let me die," Cynewulf croaked. He stared into the space where flame once stood. "You don't know what you saved."
 
 "No... I don't. But I think... neither do you." The abbot studied Cynewulf closely. "Stop talking and rest. Introductions are best when a man refuses to fight himself."
 
@@ -4110,7 +4116,7 @@ Cynewulf caught the needle, surprised by the weight of the cloak. It smelled of 
 
 The next morning, Cynewulf met them in the yard. Two Welsh had just walked the perimeter of the abbey, and had a number of broken shards of glass. One had the face of Saint Martin, the other the outline of an angel wing. They were collected from one of the walls whose pane had become damaged.
 
-"Don't mind them Saxon. They're just collecting gifts." Madoc said casually.
+"Don't mind them Saxon. They're just collecting gifts," Madoc said casually.
 
 "For their children?" Cynewulf wondered, looking back at the men.
 
@@ -5781,7 +5787,7 @@ The redcap's tone dropped into one of pure, mocking dejection.
 
 The redcap resumed his commanding, authoritative tone.
 
-"Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-Bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
+"Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
 Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
@@ -6028,7 +6034,7 @@ Blood to tile, and none for thee!
 ```
 
 "
-Oh meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast!
+Oh Meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast!
 "
 
 Wulfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
@@ -6089,7 +6095,7 @@ Blood to earth, and none for thee.
 
 Wulfhere dropped his axe and gripped Elswyth's shirt with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her linen as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
 
-"Well, meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
+"Well, Meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
 
 Then, without a heartbeat of warning, the silver steel twitched violently in her palm. The blade aggressively spun backward, the satin edge slicing through the air toward Elswyth’s own throat as the Redcap lunged to harvest her trunk-blood from within the metal. Inside her head, his voice frantically scrambled into a desperate, rushing meter:
 
@@ -7552,15 +7558,15 @@ Mortals have lived without certainty for as long as they have existed. They have
 By the end of the story, Woden just begins to see Freyr's point. He may not agree with it, but he is now deprived of the certainty that he _thought_ he possessed and must learn to do what mortals have always done: choose without certainty. For a god who has spent an eternity searching for certainty, nothing could be more unnatural.
 
 ---
-#### Agency of Magical Artefacts
+#### Agency of Magical Artifacts
 
 Several historical runic inscriptions blur the distinction between object and speaker. Rather than presenting a spell as something spoken by the owner, the inscription may be framed as the voice of the object itself. To a modern reader this can seem poetic, but to an early medieval audience the distinction carried real significance. The Old English word _hǣlu_ is often translated as "health" or "wholeness," but in this context it refers to something broader: the integrity by which a thing possesses identity, purpose, destiny, and participation in the world. A thing with sufficient _hǣlu_ is not merely acted upon by wyrd; it participates in wyrd.
 
-This idea appears in several historical artefacts, including the Franks Casket, where objects are presented as speaking in their own voices. In the cosmology of the Cynn, powerful artefacts likewise possess their own _hǣlu_. Such objects are more than tools. They have names, purposes, obligations, and destinies of their own. A blade may therefore make a promise, utter a warning, or invoke a power in its own right. The inscription is not merely decorative text attached to an object; it is the object speaking.
+This idea appears in several historical artifacts, including the Franks Casket, where objects are presented as speaking in their own voices. In the cosmology of the Cynn, powerful artifacts likewise possess their own _hǣlu_. Such objects are more than tools. They have names, purposes, obligations, and destinies of their own. A blade may therefore make a promise, utter a warning, or invoke a power in its own right. The inscription is not merely decorative text attached to an object; it is the object speaking.
 
 This is why Wodbora's spell is introduced with _Wodbora cwiþ_ ("Wodbora says"). To a tenth-century audience, a mortal commanding the Wodhere would be an act of extraordinary arrogance. Who is a person to order the Mad-Host to ride? Such presumption would itself invite disaster. Wodbora avoids this problem by speaking with its own voice. The blade is not ordering the Wodhere as a servant. Rather, it acts as prophet and herald, declaring the opening of a path through which the Mad-Host may pass. The wielder directs where the Host's fury should fall, but the invocation itself belongs to Wodbora.
 
-In practical terms, the distinction functions as a metaphysical safeguard. The wielder does not claim authority over the Wodhere, and therefore does not incur the consequences of pretending to possess it. Those consequences instead belong to the named artefact whose _hǣlu_ grants it standing to speak. Wodbora is not merely a weapon. It is an actor within the story's cosmology, possessing its own place within wyrd, its own obligations, and its own voice.
+In practical terms, the distinction functions as a metaphysical safeguard. The wielder does not claim authority over the Wodhere, and therefore does not incur the consequences of pretending to possess it. Those consequences instead belong to the named artifact whose _hǣlu_ grants it standing to speak. Wodbora is not merely a weapon. It is an actor within the story's cosmology, possessing its own place within wyrd, its own obligations, and its own voice.
 
 ---
 

@@ -41,7 +41,7 @@
     - [Who Is Woden?](#who-is-woden)
     - [Wyrd (And Why It's So Weird)](#wyrd-and-why-its-so-weird)
     - [Inside the Debate](#inside-the-debate)
-    - [Agency of Magical Artefacts](#agency-of-magical-artefacts)
+    - [Agency of Magical Artifacts](#agency-of-magical-artifacts)
     - [The Many Faces of the Wodhere](#the-many-faces-of-the-wodhere)
 - [Swords and Scabbards: What Are These Blades?](#swords-and-scabbards-what-are-these-blades)
   - [Wodbora the Madness-Bringer, the Prophet of the Wodhere, the Guardian of Chaos](#wodbora-the-madness-bringer-the-prophet-of-the-wodhere-the-guardian-of-chaos)
