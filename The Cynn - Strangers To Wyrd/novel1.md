@@ -654,7 +654,7 @@ He was a man of tall stature but hollowed by hunger, sickness, and wounded pride
 
 Osric's clothes were a beggar's hoard. He wore three tunics at once: a stiff, greyed linen undershirt that clung to his ribs, a moth-fretted green wool kirtle, and over that, a heavy, grease-stained warrior’s tunic, its sleeves frayed to the threads at his wrists. Around his shoulders, he had draped a heavy, mold-spotted blue cloak pinned with a rusted iron nail. His legs were a mismatched ruin of wrappings. His feet were stuffed into split-leather boots, wrapped over with greasy sheepskin rags to keep the dampness of the dirt floor from seeping into his bones. Beneath the mountain of damp wool, his face was gaunt, his eyes sunken, and his beard grown wild and tangled with bits of hearth-straw. He looked less like a man of the fyrd and more like a ghost made of rags.
 
-Osric once held an honored position in the fyrd, a tall, proud warrior-farmer with the strongest back, who anchored the shield wall. But now, he dug latrines, and wagons out of mud. When the news came, it didn't matter at the time. His attention was held by the carriage wheel that had detached, its axle flat in the muck. He didn't have time for parchment-deals, not when the baggage-master had a whip in the hand.
+Osric once held an honored position in the fyrd, a tall, proud warrior-farmer with the strongest back, who anchored the shield wall. But now, he dug latrines and wagons out of mud. When the news came, it didn't matter at the time. His attention was held by the carriage wheel that had detached, its axle flat in the muck. He didn't have time for parchment-deals, not when the baggage-master had a whip in the hand.
 
 In the battle, his survival was not decided by skill. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not a soldier's work, but that of a thrall.
 
@@ -1034,7 +1034,7 @@ Huginn: "I said stop teasing me!"
 
 ### Part One: Gerdr's Tears
 
-Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare. He was also a proud fyrdman, too, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
+Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare. He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
 
 He was not an especially pious man. He had seen the shuffle of war—Norseman against Christian, Christian against Norseman—and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and every harvest. Still, when the rains came late or the barley stood thin, Osric would sometimes offer a prayer for steady weather and a bountiful yield. Sometimes he offered the same prayer to Freyr, the Norse god of the harvest. It seemed no great offense to ask twice.
 
@@ -1191,7 +1191,9 @@ Deep into the night, there was a sound. It wasn't the sound of a spirit at the d
 
 The youngest of the children was "Eaxl", whose name literally meant wheel-axle. That was her nickname, as she shared her mother's name, and she liked to spin and spin like the wheels on the carts that would visit the farm.
 
-A single cough broke through the high-pitched whine from outside. It was a short, sharp hack from the girls' loft — little Eaxl, suffering the first subtle hint of winter's humour-sickness. Ealhild was awake instantly, her protective instinct overriding her own deep exhaustion. She slipped out from beneath the warm wool and furs, covered her feet with slippers, and quietly made her way to the hearth.
+A single cough broke through the high-pitched whine from outside. It was a short, sharp hack from the girls' loft. Little Eaxl was suffering the first subtle hint of winter's humour-sickness.
+
+Ealhild was awake instantly, her protective instinct overriding her own deep exhaustion. She slipped out from beneath the warm wool and furs, covered her feet with slippers, and quietly made her way to the hearth.
 
 The fire had dropped to a low, smoldering orange. It was hot enough to stoke back to warm the griddle. Ealhild grabbed a few more small branches from the pile, and nudged the fire hotter.
 
