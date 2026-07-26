@@ -35,32 +35,10 @@
   - [Why Write This Book?](#why-write-this-book)
   - [Who Are The Cynn, Really?](#who-are-the-cynn-really)
   - [The Tenth Century](#the-tenth-century)
-    - [The Church, The Shadow Gate and Under-Geat](#the-church-the-shadow-gate-and-under-geat)
-    - [Leicester and the Peace of 943](#leicester-and-the-peace-of-943)
-    - [Living Between Worlds](#living-between-worlds)
-    - [Who Is Woden?](#who-is-woden)
-    - [Wyrd (And Why It's So Weird)](#wyrd-and-why-its-so-weird)
-    - [Inside the Debate](#inside-the-debate)
-    - [Agency of Magical Artifacts](#agency-of-magical-artifacts)
-    - [The Many Faces of the Wodhere](#the-many-faces-of-the-wodhere)
 - [Swords and Scabbards: What Are These Blades?](#swords-and-scabbards-what-are-these-blades)
   - [Wodbora the Madness-Bringer, the Prophet of the Wodhere, the Guardian of Chaos](#wodbora-the-madness-bringer-the-prophet-of-the-wodhere-the-guardian-of-chaos)
-    - [Description](#description)
-    - [Blade Construction](#blade-construction)
-    - [Handle Construction](#handle-construction)
-    - [Scabbard Construction](#scabbard-construction)
   - [Barrow's Edge, the Hedge-Stalker](#barrows-edge-the-hedge-stalker)
-    - [Description](#description-1)
-    - [Blade Construction](#blade-construction-1)
-    - [Handle Construction](#handle-construction-1)
-    - [Scabbard Construction](#scabbard-construction-1)
-    - [Inscriptions](#inscriptions-1)
   - [Monanleoht, the Battle-Dancer](#monanleoht-the-battle-dancer)
-    - [Description](#description-2)
-    - [Blade Construction](#blade-construction-2)
-    - [Handle Construction](#handle-construction-2)
-    - [Scabbard Construction](#scabbard-construction-2)
-    - [Inscriptions](#inscriptions-2)
 - [AFTERLIFE](#afterlife)
 
 <!-- TOC END -->
@@ -892,7 +870,7 @@ Cynewulf took the old veteran aside. "Didn't catch your name."
 
 "Were you fighting for the lords of York then?"
 
-"Ech... no... I came her not for the siege, but for the peace. Who can ask a man to choose between mother and father? No, I sell my spear only when the shield-walls get smaller."
+"Ech... no... I came here not for the siege, but for the peace. Who can ask a man to choose between mother and father? No, I sell my spear only when the shield-walls get smaller."
 
 "So... what if we change your name. How do you like Quartermaster?"
 
@@ -2509,7 +2487,7 @@ One older Dane poured ale into Morning-Eye's mouth before drinking from the same
 
 The villagers would watch as this continued. They saw the faces withstand everything. Once winter set in, no Viking bothered with the stone giants any more.
 
-By February of 943, the Vikings retreated behind ramparts and walls. The Saxons had returned to dismantle the Vikings hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
+By February of 943, Olaf's men retreated behind ramparts and walls. The Saxons had returned to dismantle the Olaf's hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
 
 April 23rd, 943 was the night of the last full moon of the gnome's promise. Elswyth was then of twenty winters. 
 
@@ -2636,7 +2614,7 @@ He twirled it once.
 
 "Far less stubborn than my last partner! Now left, right, onto the flea's leg... Yes you've got it."
 
-Elswyth another step towards the axe.
+Elswyth took another step towards the axe.
 
 "The moon maiden in your family poem... was _she_ your last partner?" 
 
@@ -3650,7 +3628,7 @@ The column's shields went up in unison. The riders held their short heavy spears
 
 Cynewulf's horse almost jumped before he did. The four archer hunters marked the beginning of the fence line, and slipped behind. Cynewulf was first in the line, his spear before him ready to plant in the first one he saw. 
 
-This is was the moment. All the training and grooming came to this. And it happened in a flash.
+This was the moment. All the training and grooming came to this. And it happened in a flash.
 
 He was hit in the midsection from his left, a heavy club breaking on his stomach. It came from nowhere. Cynewulf was tied into his saddle, otherwise he would have hit the ditch in an instant. His horse reared, not expecting motion in its periphery, and Cynewulf dropped his spear. The pain was agony, and his breath was gone.
 
@@ -4791,7 +4769,7 @@ They stood on opposite sides of the heavy iron anvil, the bargaining table of th
 
 The forge grew quiet, save for the rhythmic drip of condensation from the Roman arches above. Outside, the sun stood on the ledge of the horizon, as if it was basking in Freyr's warmth and looking down into the coming gloom of Woden's night. The gods stood in the fading light, their patience as ancient as the stone walls themselves. They were waiting for the first visitor.
 
-The nisse arrived, cloaked in the glamour of Ealhild's form. The nisse had adopted the lie, using her magic to fool travelers on the road. It was holding a barrel filled with the contents of Osric's broken home. From her belt danced the oil-string, a silent reminder of her unveiled identity, and the beginning of the winter nightmare. The nisse dropped the barrel onto the dirt floor with a heavy, metallic clatter. The cookware copper, the iron plowshare, and the steel-boss of Osric's shield clanked within the wood-staves.
+The nisse arrived, cloaked in the glamour of Ealhild's form. The nisse had adopted the lie, using her magic to fool travelers on the road. It was holding a barrel filled with the contents of Osric's broken home. From her belt danced the oil-string, a silent reminder of her unveiled identity, and the beginning of the winter nightmare. The nisse dropped the barrel onto the dirt floor with a heavy, metallic clatter. The copper cookware, the iron plowshare, and the steel-boss of Osric's shield clanked within the wood-staves.
 
 "I have brought the pieces of a broken life," she whispered. Her voice sounded thin and distant, stripped of the warmth Ealhild once possessed. "The steel of the spear and shield, the copper of the hearth, the toys of the children. I have brought them all. I am nisse, a spirit of Freyr’s kin, vowed to protect the hearth and home for Ealhild's family. I... failed. The master Osric still lives, but he is a broken man. Can anything be done?"
 
@@ -4833,7 +4811,7 @@ Ingvar looked at Ingrid. He saw the golden light of Freyr’s promise and the gr
 
 Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered. The harvest of the barrow is at hand!"
 
-Shadowy hammers held by invisible hands gravitated toward the forge. Coal from a hidden well erupted at the Ingrid's feet, and she scooped the black stones furiously into the empty hearth. The furnace burst into flame instantly. The heat felt moderate at first, but it turned a blinding yellow-white with the first breath of the bellows.
+Shadowy hammers held by invisible hands gravitated toward the forge. Coal from a hidden well erupted at Ingrid's feet, and she scooped the black stones furiously into the empty hearth. The furnace burst into flame instantly. The heat felt moderate at first, but it turned a blinding yellow-white with the first breath of the bellows.
 
 Freyr and Woden each took a step back. They watched in the dying sunlight the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil.
 
@@ -5280,7 +5258,7 @@ Cynewulf made for the Church front door. He was hoping there might be a few arme
 
 Osric made for the right side of the bathhouse, and Elswyth split to the left. Each decided that the ruins might provide cover.
 
-Osric heard... A child's giggle. High and playful, it called from a sparse hedge to his left. "Quickly! Here!" He followed the voice before he knew he had. The hedge was covering a hole four feet in diameter. A pair of hand shoved him from behind, and he fell into the hole. Osric slid face-first down a chute, landing in a pile of charcoal. He looked up to find a large forge built into the bathhouse central hypocaust. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze cast a heavy, flickering orange light. The new light illuminated the outline of an anvil.
+Osric heard... A child's giggle. High and playful, it called from a sparse hedge to his left. "Quickly! Here!" He followed the voice before he knew he had. The hedge was covering a hole four feet in diameter. A pair of hands shoved him from behind, and he fell into the hole. Osric slid face-first down a chute, landing in a pile of charcoal. He looked up to find a large forge built into the bathhouse central hypocaust. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze cast a heavy, flickering orange light. The new light illuminated the outline of an anvil.
 
 In front of the anvil stood a medium wooden chest, its lid graced by an iron emblem of an oak tree sprouting from a broken anvil with hammers crossed.
 
@@ -5290,7 +5268,7 @@ On the anvil lay a weathered black scabbard holding a heavy farmer's long-handle
 
 Elswyth knew she was no warrior. She didn't even bother with her small mushroom handseax, and the felling axe had been left on the wagon. She sprinted toward the former entrance to the bathhouse, now just an arched ruin.
 
-As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path took here to the Roman cistern and bath-house. A giggling child voice called to her, "Down! Here!". She stopped in bewilderment, if but for a brief second. The voice was coming from a rain gutter, wide enough for a person, that disappeared into the ruin below. She peered inside, looking for a place to hide.
+As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path took her to the Roman cistern and bath-house. A giggling child voice called to her, "Down! Here!". She stopped in bewilderment, if but for a brief second. The voice was coming from a rain gutter, wide enough for a person, that disappeared into the ruin below. She peered inside, looking for a place to hide.
 
 Suddenly a pair of hands pushed her in the back. Her hands found the slime of the algae, and she slid helplessly down a smooth, stone chute until she landed with a heavy splash in the ancient moonlit pool, the cold of the water a poorly-held secret that screamed at her body. It was a vast, underground chamber filled with rainwater up to her hips. It was the _frigidarium_, the cold refreshing pool of the otherwise hot Roman bathhouse. Beyond the pool, steps rose to meet the broken tile and benches of the pool's gathering area.
 
@@ -6623,111 +6601,105 @@ Each chest bore the same iron emblem riveted to its lid:
 
 _An oak sprouting from a broken anvil, with two crossed hammers beneath._
 
-Osric stopped.
-
-"No..."
+Osric stopped. "No..."
 
 He looked at her chest.
 
 Then at his.
 
-She looked at his.
-
-"No..."
+She looked at his. "No..."
 
 Their chests hit the ground with heavy thuds.
 
 "Where did you get that?" he demanded, pointing at the insignia on her coffer.
 
-Elswyth: "Why? Did something... _weird_... happen to you too?"
+"Why? Did something... _weird_... happen to you too?"
 
-Osric: "Understatement."
+Osric shook his head. "Understatement."
 
-Elswyth: "Understatement."
+Elswyth shook her head. "Understatement."
 
-Osric: "Did the wolf-men find you? I see you're still alive."
+Osric scanned her for injuries. "Did the wolf-men find you? I see you're still alive."
 
-Elswyth: "Barely alive. And you?"
+Elswyth sighed. "Barely alive. And you?"
 
-Osric: "Barely alive. Well, were your vikings... stripped... and ... sorted?"
+"Barely alive. Well, were your Vikings... stripped... and... sorted?"
 
-Elswyth: "Sorted? What do you mean sorted?"
+Elswyth's jaw dropped. "Sorted? What do you mean sorted?"
 
-Osric opened his chest. He had lifted the gear he could fit into the box as they were, neatly folded. He presented the neatness to Elswyth.
+Osric opened his chest. The gear lay inside exactly as he had found it, already neatly folded. He presented the what he had found to Elswyth. He removed the top layer, which were a pair of Viking pants.
 
-Elswyth: "You... took the time to fold Viking pants... _neatly_?"
+Elswyth frowned. "You... took the time to fold Viking pants... _neatly_?"
 
-Osric: "No!"
+Osric dropped the pants back into the chest. "No!"
 
-Elswyth: "Well, then, who did?"
+Elswyth's hands moved to her hips. "Well, then, who did?"
 
 Osric slammed his chest shut. "You wouldn't believe me if I said another word."
 
-Elswyth: "Well, I'm not opening mine. I didn't fold mine as neatly as you... or whoever... folded yours."
+"Well, I'm not opening mine. I didn't fold mine as neatly as you... or whoever... folded yours."
 
-Osric: "I'll be fine if I never set eyes on Viking pants again."
+Osric closed his eyes. "I'll be fine if I never set eyes on Viking pants again."
 
-Elswyth: "Agreed".
+"Complete agreement."
 
-Osric: "You know, we might move faster if I grab your handle..."
+Osric opened his eyes and looked at their two boxes. "You know, we might move faster if I grab your handle..."
 
-Elswyth: "And I grab your other handle..."
+"And I grab your other handle..."
 
 They found themselves standing one in front, one in back. Elswyth's coffer was in their right hands, and Osric's in their left.
 
-Elswyth: "Great, I'm in front. But where are we going?"
+Elswyth sighed. "Great, I'm in front. But where are we going?"
 
-Osric: "I don't know. Anywhere but here?"
+"I don't know. Anywhere but here?"
 
-Elswyth: "Well, I can't go home... yet."
+"Well, I can't go home... yet."
 
-Osric: "Why not?"
+"Why not?"
 
-Elswyth: "You wouldn't believe me."
+Elswyth shook her head. "You wouldn't believe me."
 
-Osric: "Well I can't go home, ever."
+"Well I can't go home, ever."
 
-Elswyth: "Why not?"
+"Why not?"
 
-Osric: "Look, can we just agree that we avoid questions for now? We just need to find a place to... think."
+Osric closed his eyes once more. "Look, can we just agree that we avoid questions for now? We just need to find a place to... think."
 
-Elswyth: "Well if you need a priest, the church is just a few steps that way."
+"Well if you need a priest, the church is just a few steps that way."
 
-Osric: "I'm new here. Anything's fine."
+"I'm new here. Anything's fine."
 
-Elswyth: "You know, the Danes own the town again."
+"You know, the Danes own the town again."
 
-Osric: "Oh. We probably shouldn't walk through town with wolf-men loot in our chests."
+Osric looked around for anyone watching them. No one was. "Oh. We probably shouldn't walk through town with wolf-men loot in our chests."
 
-Elswyth: "Might look... bad."
+Elswyth nodded. "Might look... bad."
 
-Osric: "Very bad."
+"Very bad."
 
-Elswyth: "I spent the night in the room with the freezing pool. There's nobody there."
+Elswyth turned her head back to the frigidarium. "I spent the night in the room with the freezing pool. There's nobody there."
 
-Osric: "Was there a place to hide two chests?"
+"Was there a place to hide two chests?"
 
-Elswyth: "Yes. The place were you came from, was there a place to hide three more bodies?"
+"Yes. The place where you came from, was there a place to hide three more bodies?"
 
-Osric: "There was a forge."
+"There was a forge."
 
-Elswyth: "Are you thinking what I'm thinking?"
+A smile crept onto Elswyth's face. "Are you thinking what I'm thinking?"
 
-Osric: "Not sure. Can't see your face."
+"Not sure. Can't see your face."
 
-Elswyth: "If there's fuel for that forge..."
+"If there's fuel for that forge..."
 
-Osric: "No. That doesn't feel right..."
+"Nooo. That doesn't feel right..."
 
-Elswyth: "They're going to start to smell."
+"They're going to start to smell."
 
-Osric: "You want to burn them?"
+"You want to burn them?"
 
-Elswyth: "_They tried to kill us_."
+Elswyth's eyes narrowed. "_They tried to kill us_."
 
-She started to turn themselves around, leading back to the ruin of the bathhouse.
-
-"Think of it as a funeral pyre."
+She turned, leading Osric back to the ruin of the bathhouse. "Think of it as a funeral pyre."
 
 Osric opened his mouth to object, then found he had none.
 
@@ -6739,73 +6711,61 @@ The children.
 
 They still lay beneath the snow by the river Tyne... if they lay there at all. If the hearth in Alfheimr had not been the whole truth, the thaw would soon uncover them. If it had...
 
-Osric: "We need to hurry."
+Osric tried to quicken the pace from behind Elswyth, pushing her forward. "We need to hurry."
 
-Elswyth: "Hurry?"
+"Hurry?"
 
-Osric: "I need to get home."
+"I need to get home."
 
-Elswyth: "You said you had no home."
+"You said you had no home."
 
-Osric: "My kin. They must be buried."
+"My kin. They must be buried."
 
-Elswyth: "Slow down!"
+"Slow down!"
 
-Osric: "And I'll need a horse."
+"And I'll need a horse."
 
-Elswyth guided them to the rainwater chute and they slid in with their chests. They shed their armor before getting into the water.
-
-Elswyth: "Be mindful of the pool. The water is..."
+Elswyth guided them to the rainwater chute and they slid in with their chests. They shed their armor before getting into the water. "Be mindful of the pool. The water is..."
 
 Osric waded in. "Freezing!"
 
-Elswyth: "Usually I get only one bath for Easter! I've had two baths in two days."
+"Usually I get only one bath for Easter! I've had two baths in two days."
 
 Osric laughed. "Life as a charcoaler?"
 
-Elswyth: "Black as a soot-stained raven."
+"Black as a soot-stained raven."
 
 They hid the chests beneath broken stone and shattered tile before retrieving the three bodies from the bathhouse. Once the corpses had been lowered through the chute into the abandoned forge, they dressed again in their new armor and descended after them.
 
 Elswyth marveled at the engineering of the forge. She had delivered charcoal to forges before, but most of them had been cobbled stone hearths, a ramshackle roof, and a bellows whose leather was barely holding together.
 
-"This doesn't look like... what I expected."
+She traced her fingers on the brick lines. "This doesn't look like... what I expected."
 
-She traced her fingers on the brick lines.
+Her eyes fell upon the dead bodies, and the pile of charcoal beneath them. "Did you see this?"
 
-Her eyes fell upon the dead bodies, and the pile of charcoal beneath them.
+Osric had his hands on a dead Viking and started to pull it off the heap. "The charcoal?"
 
-Elswyth: "Did you see this?"
+"This is _my coal_. I cut it to these lengths."
 
-Osric: "The charcoal?"
+Osric stopped pulling and looked. "The forge was lit yesterday. Suddenly... _lit_. Like someone else was here."
 
-Elswyth: "This is _mine_. I know it. I cut it to these lengths."
+Elswyth stopped and stared at Osric. "Do _not_ blame this on the _Coaler-Wight_."
 
-Osric: "The forge was lit yesterday. Suddenly... _lit_. Like someone else was here."
-
-Elswyth stopped and stared at Osric.
-
-Elswyth: "Do _not_ blame this on the _Coaler-Wight_."
-
-Osric blinked.
-
-Osric: "...the what?"
+Osric blinked. "...the what?"
 
 Elswyth thought for a long moment. She didn't want to ask this, but now she felt she had no choice.
 
-Elswyth cleared her throat.
+Elswyth cleared her throat. "I'm going to ask you something, and don't laugh."
 
-Elswyth: "I'm going to ask you something, and don't laugh."
+"I'm well beyond laughing. But you may ask."
 
-Osric: "I'm well beyond laughing. But you may ask."
+"Did you find this smithy by yourself in the dark, or were you... _led_... here?"
 
-Elswyth: "Did you find this smithy by yourself in the dark, or were you... _led_... here?"
+Osric composed himself before responding. He knew this would sound ridiculous. "By a giggling child?"
 
-Osric: "By a giggling child?"
+Elswyth reeled backward. "NOO!"
 
-Elswyth: "NOO!"
-
-Osric: "Does that mean something to you?"
+"Does that mean something to you?"
 
 Elswyth stared at the charcoal.
 
@@ -6825,29 +6785,29 @@ They hadn't followed her.
 
 They had been here all along.
 
-Elswyth: "We have to leave. Now!"
+"We have to leave. Now!"
 
-Osric: "The bodies?"
+Osric looked back down at the body in front of him. "The bodies?"
 
-Elswyth: "Never mind them. Those little... _giggling things_... will take care of them. We don't want to be here. Believe me."
+"Never mind them. Those little... _giggling things_... will take care of them. We don't want to be here. Believe me."
 
-Osric: "What? What's going on?"
+"What? What's going on?"
 
-Elswyth: "Our... _gifts_? I think I know who gave them to us."
+"Our... _gifts_? I think I know who gave them to us."
 
-Osric: "Who?"
+"Who?"
 
-Elswyth whispered. "The people who live here."
+Elswyth whispered, "The people who live here."
 
-Osric whispered. "_Nobody_ lives here."
+Osric whispered, "_Nobody_ lives here."
 
-Elswyth looked around, whispering quieter still. "Yes... _nobody_... _who giggle like children._"
+Elswyth looked around, whispering quieter still, "Yes... _nobodies_... _NO... BODIES..._ _who giggle like children._"
 
 Osric looked at her for a long moment.
 
 Osric dropped the body in his hands and escaped through the narrow passageways. Elswyth was right behind him.
 
-Neither looked back as they ran to the Church.
+Neither looked back as they ran to the church.
 
 ---
 

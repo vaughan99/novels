@@ -1,1365 +1,3 @@
-## Chapter Three: The Tale of the Coal-Wise Apprentice
-
-### Part One: The Hunters of the Pit
-
-In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gently sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester. To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
-
----
-
-Muninn: "Hold on brother. You're off by three whole centuries. That was the Norman name. The church was dedicated to two saints, Augustine and Columba. One from Canterbury, one from the Gaels. Never hurts to have extra spiritual insurance."
-
-Huginn: "Augustine and Columba! I stand corrected, brother. A two-saint wall for the price of one."
-
-Muninn: "It covered the Memory, Huginn. The names changed, but the stone remained."
-
-Huginn: "Do you think they argued about naming rights, like football stadiums?"
-
-Muninn: "No, Huginn. They didn't play football... it was called 'mob ball', but it was more like 'village riot ball'. Two villages battled it out on a three-mile field during feast days with nothing but an inflated pig bladder and a year's worth of unresolved bad blood."
-
-Huginn: "I remember now. Splendid game. A hundred men screaming, broken shins, mud, and best of all... the pig didn't need its bladder anymore! Piles of discarded viscera at the goalposts. A true feast for the eyes!" 
-
----
-
-Just below the top of the hill was a large black gate set into an ancient Roman wall patched with timber. It was known as the Shadow Gate. The hamlet took its name from being under that gate, and it formed the center of the hamlet's social life.
-
-Beyond the _Shadow Gate_ lay the _Old Frith_, a broad yard of compacted earth worn hard by countless feet in the centuries since the Romans departed. On fair days it served as the Church's market, where villagers traded beneath the open sky. At _Easter_ and on the _Feast Day of St. Augustine_, however, the yard filled with hundreds of the faithful gathered for worship.
-
-The _Old Frith_ was also shared with the neighboring _Church of St. Martin_. Each _Martinmas_, a procession of livestock wound from _Saturday Market_ to the _Old Frith_, where the priests of both churches blessed the animals before winter set in.
-
-The villagers were commonfolk whose livelihoods centered on the church. They would bring their wares to the _Shadow Gate_ and wait for the creak of the old oak doors. Once open, they would file into the _Old Frith_, setting up stalls, telling gossip, and making exchanges. During the day, the gate would open and the clergy would mingle, telling stories, offering prayers and teaching lorica. Vendors from inside Leicester would arrive to the _Old Frith_. All business was conducted under the watchful eyes of two large stone face masks facing into the _Old Frith_.
-
-_Blackjoy_ was the one whose jaw was clenched and whose eyes were narrow. He was neither sad nor angry; he was more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest". The villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
-
-_Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning, and its closing each evening. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather.
-
----
-
-Morning-Eye: "Knock knock."
-
-Blackjoy: "Don't knock. Ring the bell."
-
-Morning-Eye: "No, you're supposed to say, 'Who's there?'"
-
-Blackjoy: "Ignoring the bell is rude. I don't ask questions of rude people."
-
-Morning-Eye: "You don't _speak_ to _any_ people."
-
-Blackjoy: "I smile at them. I'm just not very good at it."
-
-Morning-Eye: "Lucky for you. Do you know how exhausting it is being cheerful every day?"
-
-Blackjoy: "Try spending eternity having people look at your face, then start swearing."
-
----
-
-Beyond the _Old Frith_, the _Mission Quarter_ spread across the hillside. Graves lined the western wall. Nearby stood the _Yardworks_, where timber, stone, brick, and sand reclaimed from the ancient bathhouse and Roman walls found new purpose. There stood a bell-foundry, _Carter's Row_ with its carting warehouses and ox-pens, and the great carpentry workshops, while the church itself overlooked a quiet cluster of priest-homes.
-
-Elswyth's family were coal-burners originally from the Saxon heartland, the town of _Witanceaster_ to the southwest. They prepared charcoal for the forges and the Church. As more local families entered the trade, each load of charcoal brought fewer pennies than the last. Their access to the wood-lots was getting more difficult as well. All they needed for their trade were their axes, a few coal-rakes, a shovel and a tinder box, so they packed up their few belongings and moved on.
-
-Whispers carried on the wind from Leicester promised deep woods and the steady demand of war-forges and bell-founders. Leicester was part of the Five Boroughs of the Danelaw, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers. Weapon-forges and casting-pits for bells and crosses were always hungry for more coal.
-
-The road was long and dangerous, but when they arrived, they found there was room for honest coalers to ply their trade. The only space for their new home in Under-Geat was next to the Roman graveyard, at the foot of the hill. They built their hearth with stone from the Roman wall, as many had done.
-
-They staked a claim to a small unused knoll on the opposite bank of the Soar, which led to the sprawling Charnwood beyond. It was close enough to the road for a carter to reach them, but far enough from the village that the smoke troubled no one. There they prepared their charcoal clamps, slowly turning Charnwood's timber into the fuel that fed Leicester's forges and bell-pits.
-
-Elswyth was of ten winters, and she had been learning the family trade. Her father, Godwine, would brave the Charnwood forest to find the best hardwood with his felling axe, and Elswyth and her mother Eadgyth would manage the charcoal clamps on the knoll with their rakes and smaller hand axes. It was hot, smelly, thankless work.
-
-Godwine was a man who read the forest like a prayer book. He ignored the soft, useless pine and the brittle willow, his eyes always scanning for the silver-grey bark of the beech or the deep, furrowed skin of an ancient oak. He knew the weight of the wood by the way it swung in his hand, and he knew which logs would turn to _singing coal_, ringing with a sharp _clink_, and which would crumble to grey dust before the pit was even half-cooked. Few of the villagers foraged in the Charnwood; they said it was home to spirits... and spirit-makers. Godwine was used to the rhythm of forests. He looked past the shadows to find his wooden quarry.
-
-Godwine and his family were observant Christians, but knew their profession kept them at the edges of parish life. Smoke and soot clung to them like a second skin. Until heavy rain or the Easter washing, they would sooner stand in the church porch than bring the smell of the charcoal pits before the altar.
-
-They would offer prayers to saints by the glow of the coal-fire. They owned no Bible, and were not literate enough to read one anyway, so their faith remained a private, oral tradition. Their favorite prayer was to Saint Alexander of Comana. He was a fellow coaler and 'accidental bishop' of the Eastern tradition, a story whispered down from travelers and rarely heard in the local parish. Godwine's grandfather once heard of him from a traveling monk who visited Witanceaster and worked as a cross-caster. The monk honored Saint Alexander on August 11th, and Godwine's grandfather kept up the tradition. They each kept coal tokens they called _Alexander's stones_, whose good luck brought protection from burns. It was a perfect lump of charcoal, polished to a glassy sheen.
-
-Before every large burn, they would gather hands, and pray:
-
-```
-Saint Alexander, soot-skinned bishop,
-Who walked the darkwood and knew the smoke,
-Guard our pit from the greedy flame.
-Let the wood sleep, let the iron-fuel wake.
-Keep the wind quiet, keep the earth tight,
-And wash our souls clean of the soot we wear
-```
-
-The family had their pagan superstitions too. When harvesting time for the coal would come, her father would point out some loss at the edges of the pit. He didn't seem worried though, because he called it an offering. "The elves are finicky things, Meadow-bud. Best leave them to pinching the coal." Elswyth cut her father off, "Yes, 'else we might wake to a burning roof.' I remember father!" 
-
-Despite her impatience, the wisdom seemed solid to her, and so that was the family rule. Harvest only coal from the center. Edges for the elves. And one day she would run her own charcoal pits, and teach that rule to her children.
-
-But she hated the nickname. "_Meadow-bud_, I'm nothing of the sort," she thought, as she would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She was already stronger than he realized. "My father will see, I'm not merely the coal-maid. I will follow him into the forest and together we will fell the trees."
-
-Elswyth and Eadgyth worked the pits in cycles. Godwine felled timber and hauled it to the drying stacks. Once seasoned, the wood was stacked into a waiting charcoal clamp. Some pits burned fiercely beneath their earthen coverings, others merely smoldered, and others cooled after days of careful watching. When a pit had finally gone cold, the family filled coarse hemp sacks with the finished charcoal.
-
-Leicester had several carters who knew the roads around the town. But none had traveled as far and wide as Long-Mile. His given name was long forgotten, even by himself, as even as a child, he roamed far from home to his mother's dismay.
-
-Long-Mile was as long as his name suggested. He perched on a wagon whose driver's bench sat a hen's height above every other cart in Leicester, so that he always seemed to be looking farther down the road than everyone else. He swore that he could see ruts before even they knew they existed.
-
-Long-Mile was friends with Godwine, and always seemed to know the exact moment to arrive after the last of the coal was bagged. Elswyth and Eadgyth would ride on the sacks of coal up to Under-Geat at the earliest part of the morning, ready to be the first under Morning-Eye's nose.
-
-It was there she learned the rhythm of the trade, watching her father sell their charcoal to a young, strapping deacon named Cynewulf. Like them, he was always black with soot and sweat. He wasn't a coaler like them; he worked the bell-pits, and he treated their coal with a reverence that surprised her. He was kind, but distant, and he always insisted that their charcoal was the best in the _Danelaw_. Elswyth liked him for that; he saw the craft in their soot-stained hands.
-
-If her father taught her the fire, her mother tried to teach her the earth. Eadgyth was a woman of quiet, sharp-eyed patience who moved through the forest as if she were part of the undergrowth. On coal-cooling days, she spent hours showing Elswyth how to read the forest’s pulse: which mosses signaled a hidden spring, which berries would settle a fever, and how to harvest the wild leeks and tubers without stripping the soil bare. "A coaler who only knows the pit is a coaler who starves when the wood runs thin," her mother would whisper, pressing a handful of dried herbs into Elswyth’s palm. She taught her that the forest was not just a source of timber, but a larder for those who knew how to ask. It was a different kind of strength—not the brute force of the axe, but the quiet precision of knowing exactly what the land could provide, and exactly what it would take back.
-
-Elswyth was not fond of the meadow-work. She lacked the patient eye for the forest-larder. She would trample mushrooms without a thought. She would dismiss medicinal herbs as mere weeds. Still, Eadgyth never scolded her. Times would not always be as kind as they were now. Someday the forest would be the only thing standing between her daughter and the grave across the yard.
-
-On March 14th, 933, the day started like any other. Perched behind a stone edifice of the necropolis, the wolf-men peered into _Under-Geat_. With one raised fist, the slaughter began.
-
-The wolf-men came as a wolfpack in full deer-chase.
-
-Elswyth had woken early, as she wanted to be the first of the children fishing by the river's edge when the sun came up. Behind her, the screams rose like a chorus of suffering.
-
-The wolves swept everything from Under-Geat to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed. The Viking's wolf head snapped to her, his eyes locking on hers.
-
-She didn't freeze. She jumped into the ice-cold river without a thought. He gave chase instantly, jumping headlong into the Soar.
-
-One of the first things Godwine taught her after they came to _Under-Geat_ was that the Soar had a temper. Rain made it angry. Summer made it gentle. But the spring thaw made it bitter. "If you can swim in March, _Meadow-bud_," he used to say, "you can swim any day God gives you." It was that lesson that saved her life.
-
-Elswyth could hear the wolf behind her. She dared not look back.
-
-She scrambled onto the opposite bank and found the road. From the road she knew the way to the charcoal knoll, and from the knoll, the _Charnwood_. She retraced the cart's path, which took her to the best hiding places in her world.
-
-She was foot-sure through the undergrowth, turning the familiar wood into a maze. She had shed the wolf-man after an eternity of frantic flight; she was lucky her breath had held out that long. He spat into the dirt, looked once more toward the trees, then turned back toward the smoke rising beyond the _Soar_.
-
-When the chase ended, an eerie quiet settled on the _Charnwood_. Nothing dared move. The air was still, like it was afraid of being chased by wolves... or something else entirely.
-
-The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it. She tried not to think of her mother being taken. Her shiver was from fear, and she was desperately trying to beat it back. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
-
-In the morning, she was awakened by a soft breath, and the smell of pipe-smoke from an herb she didn't know. "Hello," a small man-voice whispered. At the mouth of the hollow there was a woodland spirit, a wood-gnome by the tell of her parents' stories.
-
-Wood-gnomes, she was taught, were shy and humble creatures, but were nothing to be trifled with. They were known to be territorial, and might swat your ankles with their oaken swatches to ensure you left quickly. Yet this small man did not hiss or reach for a weapon.
-
-He was smaller than her, and dressed simply in traveling clothes: forest green breeches and matching shirt, and a coat made of woven bast from the linden tree. He had a stocking hat, ruddy brown and damp, on his blank-faced head. He barely had a few tufts of white hair poking out innocently from under the stocking hat pulled close to the brow. On his feet were shoes, also of woven bast, and his footfall was free and soundless.
-
-He smiled, "Well it's a girl. Well, hello '_Meadow-bud_'."
-
-He used the nickname her father would use. It gave her a small sense of ease, as it was a common nickname given to girls near the wood. But she also resented it, because she was so much more.
-
-"Come now, you're safe with me."
-
-She dragged herself from the hollow, knuckles white from clenching her cloak about her body. At the mouth of the den, the spirit gave a deep, over-long bow. "Now, _Meadow-bud_, allow me. I am _Fussleton Dowry-Cap_, at your service." He smiled with too many teeth, and rolled the "_R_" of his _Dowry-Cap_ with excessive pride. "Most impressive, how you shed the wolf." He spoke with the clinical precision of a man weighing grain, his manners as sharp and bloodless as a fresh-honed blade.
-
-"_Dowry-Cap_... I've never heard that type of name, " she whispered. 
-
-The gnome’s eyes twinkled, and he began to recite, his voice taking on a rhythmic, melodic lilt:
-
-```
-Gnomish name, my playful dear!
-My kin took name most sincere.
-For in meadow they did see,
-Moon-maiden fair as fair can be.
-We brought a gift of silver fine,
-Bound in iron to mark the line,
-A bridal tax to win her heart,
-And see that we should never part.
-```
-
-
-"But that was a long time ago..." his voice trailed off.
-
-He jolted back to the present. "Where are my manners? We must get you home dear. Your parents must be in a shiver for you!"
-
-"The wolves took my home," she said. "My parents... are gone." The words fell from her lips with a whisper, delivered with an eerie stoic calm. The crying was spent in the night. There was no time for tears in the harsh light of day.
-
-"Oh... dear dear dear... murder most foul..." _Fussleton_ took off his cap to reveal his white hairy tufts and his scalp stained with the dark crimson ink from his hat. His hands trembled as he held it to his heart. "We mustn't dwell on the matter. The wolves will be back, and they'll be hungry for you, dear. Best you come deeper into the _Charnwood_... under my protection of course." _Elswyth_ didn't have much choice, and she knew the truth of the words. The broad-shouldered Viking had pursued, that is true, but surely he would return. Once his hoard was measured and his belly was full, he would most certainly come back to the table for seconds.
-
-Fussleton took her deeper into the wood, and set about training her how to live there. Elswyth listened this time. Her mother was right; a night spent without a meal is a lesson best not repeated.
-
-He brought her to his hovel, a massive log hollow with a door. She barely fit inside, but she felt safe. They talked into the night about her father's wood-collection and her mother's forest wisdom, or at least the parts she could remember. He agreed with some, but was very judgmental about much of it.
-
-"Yes, I knew your parents. They were strong, able folk. But their feet fell heavy on the branches. They were pilgrims in this wood, always passing through, never belonging. But I?" He leaned in, his eyes glinting in the dark. "I will teach you to live as a gnome does! I will teach you the songs and the _true_ rhythm of the wooded hearth."
-
-Her parents. Her eyes watered a bit, and she instinctively reached for the Alexander Stone in her pocket. Elswyth rolled it over and over in her hand. It was polished smooth and shiny from the oil of her skin. Her parents had given it to her as a road-token for the trek to Leicester, a promise of luck that had failed to save them.
-
-The gnome’s gaze flickered to her hand. He didn't sneer, but his smile grew thin and sharp. "A stone for a pilgrim," he murmured, his voice like dry leaves skittering on stone. "It is a heavy thing, Meadow-bud. It anchors you to a road that no longer exists. Why carry the weight of a dead path?" He pointed his pipe to the hearth-fire. "It obviously didn't bring you luck. Consider... tossing it to the fire? Leave old things in the past, I like to say."
-
-She slid the stone back in her pocket. "I prefer to remember. One day, I'll be my father's apprentice again. With St. Alexander's help, I may yet be better than him. For now, I'll keep it, to honor my father."
-
-Fussleton smiled broadly, and breathed a long torrent of smoke. "Then hold onto it. You'll find that your saint doesn't know _everything_ there is to know; I might have a thing or two to teach."
-
-He leaned back in his carved out log-chair and breathed pipe-smoke into the small cabin. It was intoxicating, addling her mind for a bit.
-
-His pipe was almost out, and he looked down at it with a small curled eyebrow. He tapped it on the table, to loosen the clump of herb that had settled at the bottom.
-
-"Look there, you've barely touched your supper," Fussleton pointed, his tone shifting to one of mild, sophisticated disappointment. "Creamed morel and chanterelle soup, finished with a hint of wild garlic and sweet cicely. And the squirrel—roasted over oak-heart embers until the meat pulls clean from the bone, then dusted with a pinch of wood sorrel for brightness. You’ll hardly find a better forest-meal. It’s a shame to let such delicate flavors go to waste."
-
-He reached for a small, polished horn hanging from his belt and produced a tiny, carved bone spoon. With the precision of a jeweler, he dusted a pinch of grey, coarse salt over the soup. He pushed the soup closer to her, and the plate of squirrel. "Now eat! Your training, Meadow-bud, starts tomorrow."
-
----
-
-Huginn held his right wing up to his beak, and his left wing up to the side of his ear, pretending to be holding in an earpiece.
-
-Huginn: "Good evening! Huginn Featherstone and Muninn Mockbottom reporting live from the Charnwood Olympic Training Center, where Team Danelaw has begun preparations for the first-ever Lunar Games! They think they have a new ringer in the form of Elswyth Coalergirl, a local product from nearby Under-Geat!"
-
-Muninn: "There were no Lunar Games."
-
-Huginn: "Sources say the coach is done giving his student the pep talk, and tomorrow the training begins in earnest."
-
-Muninn: "It wasn't a pep talk..."
-
-Huginn: "Sorry Muninn, your mic is cutting out there. The coach thinks she has real talent in the hundred-yard coal-bag relay and an outside shot at winning in the youth division in the timber events."
-
-Muninn: "I..."
-
-Huginn: "Coach Fussleton tells us his athlete has tremendous potential, though he insists she needs to eat more before training begins. Apparently the coach has her meal plan all worked out."
-
-Muninn: "...but..."
-
-Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing a felling axe. Our insiders tell us his plan calls for good rhythm and flea's-leg timing. Back to you in the studio."
-
-
-### Part Two: The In-Between
-
-The training began exactly as he promised, though it was nothing like the songs he had sung over the stew. It was a brutal, rhythmic education in the art of disappearing and collecting.
-
-His first lesson was shelter. Under his watchful, twitching gaze, they gathered fallen timber and woven branches to construct a small hut. It was a cramped, humble thing—barely enough to contain her—but when the spring rains began to lash the forest, it would keep her dry. It was the first thing she had built for herself, and for the first time, the forest felt less like a labyrinth and more like a home.
-
-He taught her to navigate by moonlight. "Moon's light is precious, Meadow-bud," he would say with a sharpened jagged grin. As they sat around the campfire after a night's stroll in the dark, he burst into a quick rhythmic chant:
-
-```
-The wood, the ground, even your skin!
-Everything drinks the moon in.
-```
-
-He danced to his own tune around the fire, repeating the lines thirteen times. His feet both twirled and skipped with unnatural charm, his head bobbing until his cap nearly flew off his head.
-
-That is when he would pull out his bodhran and tipper, the kind of small frame drum with a two-sided drumstick. He worked himself into a drumming frenzy, prancing and singing his rhymes to ancient melodies. He taught her to dance, to feel the drumbeat as if it were her own heart. Dances lasted into the morning hours to the light of the moon.
-
-```
-Can you keep the beat with me?
-Hands held high beneath the tree.
-Take the wisdom, your new home,
-What it's like to be a gnome.
-Finding fast the forest line,
-Forest larder, so you dine.
-```
-
-He taught her the song-secrets of the mushrooms, ancient gnome wards to keep one safe.  Each song she would have to repeat after him, over and over until she could repeat the words AND cadence to a flea's-leg.
-
-```
-Every sound that you must sing,
-To the flea's leg you must bring!
-Not too early, then you miss,
-Not too late, you've lost the kiss!
-Moving to the rhythm's time,
-Bouncing to the rhythm's rhyme,
-Jumping, dancing to the sound,
-Strictest tongue and movement bound!
-```
-
-There was a song for the safe button and field mushrooms of the leigh:
-
-```
-Fingerwide three, count with me,
-leather-in-leigh, for the pot it be.
-None for the forest, none for tree,
-all for the pot, all for thee.
-```
-
-There was a song to ward against the powerful deathcap mushroom:
-
-```
-White the gills and white the ring,
-Death is what the Goblins bring.
-Egg of silver, cap of green,
-Never let its face be seen.
-```
-
-And there was his favorite ward. This one made him smile, for no apparent reason, his teeth clicking with the beat of the song. He would add extra flair with his drum, and had a very peculiar dance. This one warded against the Fly Agaric, the red-skinned cap of deadly madness:
-
-```
-Red as berry, white as bone,
-Leave the spotted king alone.
-Bite the side to touch the sky,
-Bite the other, and you’ll die.
-```
-
-And finally, he taught her how to trap animals of the forest. Squirrels were good for eating, but marten fur was exquisite for making collars for expensive cloaks and cuffs for winter sleeves. It would fetch more than a few silver pennies.
-
-```
-Soft of foot and quick of eye,
-Where the pine and hardwood lie.
-Climb the leaning, slanted tree,
-Leave the forest, come to me.
-Honeyed bait and tainted meat,
-Lures the high-road’s silent feet.
-Snap the wire, hold the hair,
-Find the feasting in the snare.
-```
-
----
-
-Muninn: "Brother I must protest. Old English songs and spells DO NOT RHYME. They rely on witty use of alliteration and syllable-timing. You're making up these songs out of whole cloth, and mail."
-
-Huginn: "I'm... keeping it interesting... for the children. Young ears these days see the magic in rhymes. To them, the original just sounds like... words."
-
-Muninn: "And what do you know of magic rhymes?"
-
-Huginn: "That they drown out boring ravens..."
-
----
-
-On the nights of the full moon and the new moon, Fussleton would disappear. He never said where he went, but each time he returned, he appeared full of life, his eyes bright with a feverish, unnatural light. This continued for a full lunar year.
-
-On the first anniversary of the night of the wolves, Fussleton led her back to the knoll of the charcoal clamps. The pits had started to grow weeds, but the coal rakes still lay undisturbed. She also found her father's felling axe by the cutting stump, lying beneath a layer of leaves.
-
-The gnome had taught her everything he thought she needed to survive as a child on the edge of the Charnwood. He taught her the secrets of the forest larder. He taught her the power of the moon, and its effect on wood and beasts. He taught her where the absolute best wood lived, and how to harvest it wisely. He taught her music, dancing, and even how to smoke a pipe. She was ready to live on her own.
-
-"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-four moons—twelve moons for your training, and one hundred and twelve for the beats your brave little heart outran the wolf. I will check on you, Meadow-bud. I will make sure you are safe."
-
-"My heartbeat? How do you..." Elswyth stammered.
-
-Fussleton blinked. "How do I...?"
-
-He laughed—a delighted, tinkling laugh.
-
-"Meadow-bud..."
-
-He closed his eyes. "...there."
-
-His head began to sway.
-
-"Lub... dub. Lub... dub. Lub-dub-lub-dub... Oh, It's getting faster. Am I making you nervous, Meadow-bud?"
-
-He started dancing to a rhythm only he could hear.
-
-"It pounds, it bounds, it leaps, it soars... This is _your_ drum! Come on, dance to it!"
-
-She didn't dance. She stared at him.
-
-He stopped. "...You really can't hear it?"
-
-And he left her there, a girl of eleven winters, yet much, much older in lunar years.
-
-The _Ulfhednar_ were long gone by then, and a steady, quiet life had returned to Under-Geat. Elswyth stood before the charred skeleton of the coaler’s hut, the roof long since consumed by the wolves' fire. She was alone, but she was no longer the girl who had fled into the trees. She was a creature of the forest now, and the gnome’s promise hung in the air between them.
-
-The gnome had warned her that the villagers believed she was dead. If she simply returned out of the mist, he said, they would likely think her a spirit. They might chase her with iron and fire, or do even worse. He had tried to convince her to live deep in the forest, but Elswyth would not be deterred. She was going to be her father's apprentice, and one day she would make coal even better than he did.
-
-To live there, Elswyth had to invert her very existence. She never repaired the hut; to the casual eye, it remained a dead, blackened ruin, a grim monument to the raid of 933. But behind the collapsed, soot-stained rafters, she used her father’s felling axe to clear a narrow crawlspace near the hearth-stone. She lined it with dry moss and pine boughs, creating a dark, hidden nest beneath the debris. She looped branches in the shadow of the wreck to ensure rain and snow stayed off her shoulders as she slept.
-
-When the sun rose, she crawled into this soot-choked hollow and slept, her fingers wrapped tight around the handle of the felling axe. She became a creature of the day's shadows. If villagers wandered near the graveyard, they saw only a silent, haunted wreck.
-
-But when the moon climbed high, Elswyth woke.
-
-The felling of large trees was still difficult for Elswyth. Her frame was muscular for a girl of eleven winters, but the iron oak resisted the bite of the felling axe. She began by dragging the fallen limbs where she found them.
-
-She revived her father’s trade entirely in the dark. Tending a coalpit at night was a delicate, dangerous madness—a single shift in the wind could turn a slow smolder into a roaring blaze, exposing her to anyone watching from the hill. Yet she had the gnome’s rhythmic training. She worked without torches, her eyes adjusted to the pale, silver wash of the moon. She could read the heat of the pit by the faint, shimmering heat-waves rising against the stars, and she knew the wood was cooking by the sweet, heavy scent of the baking sap.
-
-She remembered her father's rule, leaving the crumbling, half-burnt edges of the coal for the forge-elves. But she also incorporated Fussleton's strange wisdom: that the harsh glare of a torch spread the magic of the moonlight too thin, and that the finest coal was made only from wood felled and cooked under the moon's cold eye. It was light _singing coal_ that clinked like iron when struck, burning with an intense, smokeless heat. A little polish, and they'd _all_ be Saint Alexander's stones.
-
-The villagers soon noticed the strange, silent activity. They saw no smoke by day, yet some mornings they caught its scent upon the wind. They didn't know it was from the old coaler's knoll. They whispered of the "_Coaler-Wight_" that lived by the Roman necropolis, a restless spirit cursed by the Viking slaughter. They swore that if the _Coaler-Wight's_ breath reached you before you made it to the Shadow Gate, it would drag you into one of its burning pits beneath the earth.
-
-Terrified of the wight, the local peasants began to leave marks on the ruined hut. Creeping up to the clearing in the safety of the twilight, they used iron nails to scratch crude, shaky crosses into the charred doorposts. They smeared thick lines of red clay across the threshold stone and threw handfuls of salt across the path, desperate to bind the ghost inside the ruin. They threw hearth ash on the pathway to the house, and left a crude crucifix in the yard.
-
-From the deep shadows of the willows, Elswyth watched them do it. She never wiped the marks away. She let the red clay dry and the iron nails rust in the wood. The fear of the living was her strongest shield; those superstitious marks kept the curious, the greedy, and the law-bringers far from her secret.
-
-She decided that if the village was so eager to have a ghost, it might as well be a ghost that deserved to be feared. She started a new, small charcoal pit right inside the Roman necropolis, carefully hidden behind some of the taller stones. It wasn't intended for sale, but to harvest the frowns on the faces of her unwitting neighbors.
-
-She had no sacks to store the coal, so she had to steal. She didn't want to alarm the villagers, so she thought it best to try the church yard. So late one night, she approached the Shadow Gate.
-
-She crept along the wall looking for an opening in the stone. She found the one Godwine opened when he took the final stone for their hearth. She put a foot through, then her leg. Once through, she slid along the wall towards the Shadow Gate and stood next to the gate posts.
-
-Morning-Eye looked past her, oblivious to her presence. Blackjoy stared off into the distance. During the day, she dreaded his gaze. By moonlight, though, he looked almost comical. Only then did she understand what Fussleton had been trying to teach her. Moonlight did not merely illuminate the world—it changed how the world was seen.
-
-"Who goes there?" An old woman's voice, softened by time, arose from behind Blackjoy. She was balanced on a step-ladder, bucket in one hand, and a dabbing cloth in the other. She was cleaning the dirt off Blackjoy's cheek where farmers had sworn the day before.
-
-"You'll wake old Blackjoy if you're not careful. He needs his sleep."
-
-The woman was Shadow-Wife, the church grave-tender and steward of the Shadow Gate. She was dressed in a simple grey woolen dress, her knees and elbows stained with the dark, damp earth of the graves. 
-
-Elswyth took a few steps back and froze, but prepared to run. "Aren't you waking him now?" she replied, her voice steady despite the hammering of her heart.
-
-"Oh, I was teasing, dear. These two only hear each other. Still, I sing to them every night." She gestured with a gnarled finger toward the ossuary. "Are you here looking for your father, dear? He’s over there, in Raider’s Row. All the souls that died the day the wolves came are buried together."
-
-Elswyth froze. Shadow-Wife looked up, and squinted at her for a long moment.
-
-"You _are_ Godwine's girl."
-
-Elswyth said nothing. The old woman nodded to herself.
-
-"Thought so. I'd never forget your hair, dear. Blonde as the sun, yet dark as charcoal. Though, under the moonlight, I almost didn't recognize you."
-
-Shadow-Wife's gaze drifted to Raider's Row again.
-
-"We thought you died, dear, but you knew that. I folded your Easter tunic and tucked it under your father's arm. Even old Judith put down her knitting needles long enough for her eyes to mist over."
-
-Elswyth stared at the ground. "My father can't rest after something like that."
-
-"Oh, believe me. He's resting," Shadow-Wife rasped, finally looking up with eyes milky but sharp. "It’s the living who can’t seem to find peace."
-
-"Who else is there?"
-
-Shadow-Wife sighed.
-
-"Oh, dear... why go digging up the past?" She stepped down from her ladder. "The only one you'd remember was Cynewulf. We buried his stole and the little things his father had given him in a small box."
-
-She fell quiet for a moment.
-
-"Never did find what the wolves did with the rest of him."
-
-Shadow-Wife moved on to Morning-Eye, testing her step-ladder's balance.
-
-"Dear, if you're looking for sacks for your coal, you'll find a few torn ones in the bell-pit refuse. I'll start setting them aside now that I know you're looking. The boys got lazy yesterday, and they're still there. And if you're looking for somewhere to hide your coal, the floorboards beneath the bier are loose."
-
-Elswyth blinked, stunned.
-
-Shadow-Wife chuckled softly.
-
-"Dear, my eyes may not be what they once were..." She rubbed Morning-Eye's eyes with her damp cloth, brightening his outlook on life. "...but I can smell you've taken up your father's vocation. You're going to need Long-Mile's help if you hope to sell the coal, and you're going to need somewhere to store it if you want to beat everyone to Morning-Eye's nose. Though, you haven't thought about how you're going to sell it yet. I can tell."
-
-Shadow-Wife looked into Morning-Eye's nose, to make sure no child had played a joke on Morning-Eye.
-
-She finally looked at Elswyth.
-
-"Can you believe what some children will put up there? Last week there was a clump of manure."
-
-She giggled. Then she stared directly into Elswyth's eyes.
-
-"They'll recognize you. And I can't sell it for you. So you either need a new face, or someone you trust to handle the silver. I have a cowl you can use until next winter. Keep your face in its shadow and hide your hair. Pretend to be a mute, and you should be fine."
-
-Elswyth finally managed to speak. "Why... are you helping me?"
-
-"The dead need help from the living, dear." 
-
-She stepped down from her ladder once more.
-
-"Besides, having a coaler-ghost around is exactly what _Under-Geat_ needs. The gossips need something else to talk about besides me. It's also been an age since _Blackjoy_ had company."
-
-Shadow-Wife turned towards her cottage by the graves. "Now, go fetch your sacks. You'll find the cowl folded at the foot of the cross."
-
-She dug in the refuse piles of the yardworks and foundry, looking for torn sacks. There were several. She took every sack she could find. Moving along to the casting refuse, she found a sliver of brass no bigger than her thumb. With a little filing, it would make a fine needle. Lastly, she found the flashing and sprues of a bell-casting. These would make good wedges until proper iron ones could be bought.
-
-She also found the cowl beneath the last cross of the graveyard, just as Shadow-Wife had said.
-
-She avoided the patrols as easily as she avoided anything in the forest. Her feet found the path to Long-Mile's wagon shed in Carters' Row. She knew he slept in a loft above the wagon if he were home.
-
-She slowly pulled at the shed's door and it creaked open. She could hear him snoring.
-
-Elswyth whispered. "Looooong-mile."
-
-She stepped into the shed.
-
-"You awake?"
-
-"WHHHAA!" Long-Mile sat up suddenly, certain that the oxen were speaking in Old Norse again.
-
-Elswyth stepped closer, but the oxen seemed oblivious.
-
-Long-Mile rubbed his eyes.
-
-"Nooooo... Elswyth? BY THE STAFF OF SAINT CHRISTOPHER!"
-
-He threw off his wool blanket and opened his eyes wide, drinking in as much light as he could.
-
-"The coaler-maid has returned! Were your father here, he'd say you've been busy. I've smelled the coal... and I've heard the stories."
-
-"Well, you old bag of carrots, you going to come down and give me a hug?"
-
-Long-Mile threw off his wool blanket, and his hands and feet remembered the rungs of his ladder before his eyes cared to look.
-
-Elswyth hugged his leg. It was all she could manage. His face had a few wrinkles around his familiar eyes.
-
-"Now, now." He bent down and returned her hug for a long moment.
-
-"Let's not get carried away. I suppose you intend on waking me at the earliest of hours to carry your coal. You mean to beat everyone to Morning-Eye's nose?"
-
-"The very first! Every morning!" Elswyth couldn't contain her joy.
-
-Long-Mile planted his hands on his hips and drew himself up with theatrical severity.
-
-"And... I suppose you think I'll do this for free?"
-
-"Of course!"
-
-He held the stern expression for another heartbeat.
-
-"...Your father spoiled you."
-
-"Which means you'll do it. I know. I can tell."
-
-"Aye... but you'll stack the sacks yourself. And I'll do it for free until you've made some proper coin."
-
-"Deal. Then you'll be at the knoll tomorrow, before first light?"
-
-Long-Mile chuckled softly, shaking his head. "You are eager, aren't you. Too eager to let an old carter sleep?"
-
-"Thanks Long-Mile! You're the very best!" She flashed the broadest grin. "Oh, and... I'm still dead. Very, very dead."
-
-Long-Mile laughed aloud. "Of course you are! You know I can't keep a straight face listening to them whisper about how you _breathe_ on folk before dragging them by their heels into the fire!"
-
-"So you'll tell nobody else?"
-
-"And who would believe me anyway? I keep everyone's secrets, child."
-
-He stroked his thin wispy beard.
-
-"No, I'm just _Long-Mile_. Everyone's friend, but no one's _court sage_. Words flow into these ears, child, but they don't leave the lips. You'd be surprised what folk will tell a carter. And 'ole Bread and Butter here pick up bits of conversation too, I'm sure."
-
-Long-Mile brushed the shoulders of Butter, while Elswyth brushed the shoulders of Bread while talking about the last year. When that was done, they climbed into the back of the wagon. It was the first long, proper talk Elswyth had had with a normal person in her short memory. She listened to his stories while she sewed her coal bags shut with strips of linden bast, a forest trick Fussleton had taught her. The same stitches he used for clothing closed torn sacks as neatly as any tunic.
-
-Just before morning, she left him for the quiet of her ruined hut and slept through the light of day.
-
-The next evening, she made her way to the knoll and finished her first full batch of charcoal. Elswyth stuffed her finished coal into her new sacks, and just as the last armload was loaded into the sack, she saw the lantern of the cart on the road, veering toward the knoll.
-
-She quietly carried her sacks and loaded them into the back of the empty cart. She climbed in, and drew the cart's canvas over her.
-
-Long-Mile drove to the North Gate. The guards there knew Long-Mile could call at any hour, and could always count on him for an errand or even just a quick joke. Any time of day, Long-Mile was granted entry.
-
-Just before sun up, he delivered her and her coal to Morning-Eye, leaving her for his next load. She waited underneath the nose. And every morning of the Old Frith market, Shadow-Wife would arrive to ring the day-bell, and open the Shadow Gate, giving Elswyth a wink and a smile.
-
-People had always known... _Shadow-Wife never smiled... at anyone_.
-
-Shadow-Wife opened the gate. The other villagers gave Elswyth a smirk, as they knew she had beaten them to the nose. But they didn't recognize her. They would never expect Elswyth had survived, and would be found on the other side of the gate come morning.
-
- The bell pit's foreman, a discerning young man with a pocket of silver, approached Elswyth. Remembering to be mute, she hid her face in the shadow of the cowl, and pointed to her lips.
-
-The young man's eyes drifted to the sacks, and he picked up a piece of coal. He rolled it in his soot-stained hands for a moment, and set it down on the others. It landed with a soft _clink_. Remembering the price of her father's coal, she waved her hands over all the sacks, and held up the price. Five fingers.
-
-"That's good coal, and a fair price. Where did you come from?"
-
-Elswyth pointed up the river north, where another hamlet sat in the distance.
-
-"You carried your father's coal all the way from there? Finest charcoal I've seen in months. I wish I had a daughter like you." He laughed. "Very well, five pennies." She stretched out her hand, and the pennies landed in her palm clinking like the coal. She closed her fingers around the pennies and ran. The young man stared after her in amazement, then his eyes went back to the sacks. He carried them inside the gate, two at a time, to a waiting cart.
-
-She ran, and kept running, to find Long-Mile on the north road.
-
-She ran up to the old carter. The oxen stared at her, barely impressed.
-
-"HERE!" Elswyth flipped him a penny. "My payment for the cartman! I am now officially your customer." She smiled and laughed.
-
-Long-Mile barely caught the penny, almost dropping it under his seat. He narrowed his eyes at her. "You had me thinking the wolves were back!"
-
-"Nah, just me. Your favorite... customer!" She gave a twirl.
-
----
-
-Bread: "Butter, I didn't know you can teach Old Norse."
-
-Butter: "Bread, I can teach any language."
-
-Bread: "Can you teach me?"
-
-Butter: "I would be overjoyed to teach you."
-
-Bread: "On the road?"
-
-Butter: "Where else?"
-
-Bread: "How do you say _hole_ in Old Norse?"
-
-Butter: "How? Well first, you find a hole."
-
-Bread: "Like this one?"
-
-Butter: "Delightful! Then, you step into the hole and say 'hole'"
-
-Bread: "Alright, here I go! I've stepped into the hole. 'Hole'. Did I say it right?"
-
-Butter: "Splendid! You're doing well. Then you step out of the hole."
-
-Bread: "Oh. That's easy. Hardly any effort!"
-
-Butter: "Then, you say the word for hole in that language."
-
-Bread: "Oh. That's easy too."
-
-Butter: "See?"
-
-Bread: "So, what's the word for hole in Old Norse?"
-
-Butter: "I don't know. The ride ended before I learned that part."
-
-Bread: "Well, let me know when you get there."
-
-Long-Mile: "WHHHAAA! Stop waking me up you two!"
-
----
-
-Elswyth settled into her routine.
-
-One night while finding wood to retrieve, she checked her marten traps. Caught in the bind, there was a very rare breed. It was a pine marten, but with a stark-white coat, the color of pure snow. Her father had told her of such a thing, a lone marten in the forest that did not play with the others. It would lay out full, every night of the full moon, to catch as much of the light as it could. The coat shimmered with hints of silver in the moonlight, and Elswyth knew that this was no ordinary pelt.
-
-She worked with practiced hands until the pelt emerged, perfect. In the moonlight it shimmered with silver. She smiled.
-
-She would not sell this one.
-
-One day, she would find something worthy of it. Perhaps the lining of a winter cloak. Perhaps a wedding gift. Perhaps something her children would see from far away and would know that mother was coming. When she was grown, she would know what it wanted to become.
-
-The next day, at the Shadow Gate, after she sold her coal, she found a peddler's cart where she saw an old pine box with rusty brass hinges. One penny. She immediately handed over the penny. She caressed the little box with soot-stained hands. It was plain, weathered, and no bigger than a loaf of bread, but it was hers. The first thing she had ever bought with silver she had earned herself. She folded the pelt carefully and placed it inside. She hid the box in the darkest corner of the coaler's hut, where it remained for many years.
-
-Every morning, after delivering her coal, she would rely on the hurried nature of her neighbors. They drew their cloaks over their faces to avoid the charcoal breath of the _Coaler-Wight_. Nobody noticed the hooded girl coming back down the hill on one of the side trails. She would duck back into her hut, and into her hidden nest by the hearth. Exhausted from her night's work and morning's haul, she would fall fast asleep.
-
-Like clockwork, the gnome would return each full moon to the knoll to test her knowledge. She would recall each rhyme, on a flea's leg, to his rhythm. He would smile. He would share a small conversation as he smoked his pipe, occasionally picking up a rake and checking coals. "Ash is respectable... oak a bit heavy... but beech..." He closed his eyes for a moment. "...Beech has manners... on the nose."  Sometimes he would bring little bags of salt, or rare herbs for her meals. Each time, he left exactly thirteen minutes after he had arrived.
-
-During the long, sun-drenched hours when she was forced to hide in her crawlspace, Elswyth did not merely sleep. She listened. She learned the heartbeat of the village: the heavy, rhythmic tread of the guards, the held breath of guards as they passed by her hut, the frantic tolling of the church bells, the far off screams of villagers playing 'mob-ball' on important feast days. She mapped the village in her mind.
-
-To keep her mind sharp, she practiced the gnome’s rhymes. She used her mushroom knife to carve rhythmic tallies into the soft pine roots she gathered for her sewing. A long notch for a heavy beat, a tiny prick for a flea’s-leg skip. She turned the rhymes into physical patterns, feeling the cadence of the gnome’s madness under her fingertips. She left these notched roots in the hollows of trees—offerings to the 'forge-elves' her father had always spoken of. She didn't know if they were real, but she knew that the edges of her coal-pits were always clean by morning, and the forest seemed to hold its breath whenever she walked through it.
-
----
-
-Huginn: "Now that Elswyth has learned rhythm, I think it's time you met Steve."
-
-Muninn: "I don't see anybody here but children."
-
-Huginn produced an eyeball hiding under his wing. It looked nervous.
-
-Muninn: "Ummmm. Huginn?"
-
-Huginn: "Meet Steve!"
-
-Muninn: "You've been having conversations with Steve's eyeball?"
-
-Huginn: "So?"
-
-Muninn: "His eyeball *listens* to you?"
-
-Huginn: "He reads beaks."
-
-Muninn: "And how do you know he is reading your... beak"?
-
-Huginn: "He has expressive eyes... Eye."
-
-Muninn: "And... how does he tell you things?"
-
-Huginn: "He nods."
-
-Muninn: "He nods?"
-
-Huginn: "Yeah I ask him yes/no questions and he nods."
-
-Muninn: "So how do you know he's a drummer?"
-
-Huginn: "He nods to the beat."
-
-Muninn: "He's a drummer?"
-
-Huginn: "Yes."
-
-Muninn: "With no hands. Or feet."
-
-Huginn: "Drummers lose appendages sometimes. They make up for it."
-
-Muninn: "No drummer has lost _every single appendage_! AND THEN REMAINED A DRUMMER!!"
-
-Huginn: "All it means is that Steve has _one less thing to unlearn_! Steve will find a way. We all need to have faith in him. He's going through a rough time."
-
-Muninn: "And... how do you know?"
-
-Huginn: "Steve told me."
-
-Muninn: "Through his eye."
-
-Huginn: "Expressive eye. Remember he nods. We established this."
-
-Muninn: "Huginn?"
-
-Huginn: "Yes?"
-
-Muninn: "Steve can stay, but I don't think he should be a drummer."
-
-Huginn: "Are you sure he can stay?"
-
-Muninn: "Absolutely."
-
-Huginn: "Steve says thank you."
-
-Muninn: "Tell Steve... nevermind."
-
-
-### Part Three: The Feast Day
-
-Years passed in _Under-Geat_.
-
-She occasionally encountered threats of the forest.
-
-There was the time she heard the rooting before she saw it. The axe slid off her shoulder and she readied it. She saw the earth churned up around the old roots of a tree. The old rhyme arrived before the panic did.
-
-```
-When the forest digs instead of sings,  
-Mind the tusks of woodland kings.
-They pick a line and forward keep,  
-Step aside and let them sweep.
-```
-
-She looked at the torn earth. Fresh. The bark rubbed smooth against an oak. A musky smell drifted on the wind.
-
-_Huff! Huff!_
-
-She wheeled on her heel. 
-
-The brown muddy beast burst forth from the brush and charged.
-
-She waited. Not _yet_. 
-
-The tusks filled her world.
-
-Then she danced. One step sideways.
-
-The boar's head swept past her hip, but its charge never wavered. It had chosen its line.
-
-It thundered into the undergrowth beyond. The boar did not circle back.
-
-She didn't give chase. She didn't mean to take down the boar. She only meant to survive the day.
-
-The daily ritual of Elswyth and Long-Mile continued. Sometimes she would pay her penny. Sometimes it was a cluster of mushrooms, or a marten pelt. He would accept anything she brought. He would relay stories as he heard them from villagers and visitors, friends and strangers. And she would learn what everyone thought of the _Coaler-Wight_. 
-
-He told her of the time old Judith started gossiping that Shadow-Wife had married a ghost. The next morning, Judith found her wool had been stolen. In its stead, a lump of charcoal sat in her knitting basket. By noon she was demanding every lorica the priest knew. By evening she had decided the ghost was coming for her next. She refused visitors for the rest of the week.
-
-He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood.
-
-Elswyth frowned. "I didn't."
-
-Long-Mile smiled. "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
-
-Elswyth was amused. "You think that was..."
-
-Long-Mile grinned. "Who else?"
-
-They both laughed. "Shadow-Wife!"
-
-"And just yesterday, Beorn loudly proclaimed that the _Coaler-Wight_ was stealing butter from his churning barrels. That's when Shadow-Wife announced to everyone that was because the _Coaler-Wight_ only steals from those who water down their milk just before arriving at market."
-
-Elswyth shook her head. "The _Coaler-Wight_ is becoming very opinionated."
-
-Something caught Long-Mile's eye, a bulge in one of Elswyth's empty sacks. He pointed to it.
-
-Elswyth opened the bag, and there it was. A folded square of linen tied with string. She untied it, and the parcel opened. The yellow-white lump stared back up at her in the moonlight.
-
-Butter.
-
-"No..."
-
----
-
-Huginn: "Do you think Saint Brigid is the saint of margarine too, or does she draw the line at hydrogenated vegetable oil?"
-
-Muninn: "She is associated with miracles concerning butter. But no ecumenical council has ever addressed the jurisdiction of saints over dairy and dairy alternatives."
-
-_Huginn started scratching on the branch._
-
-Huginn: "'Note to self: Beatification... as... patron saint... of oat milk.'"
-
-Huginn looked at his scratchings and tilted his head.
-
-"Muninn, how do you spell 'beatification'?"
-
----
-
-The nightly ritual with Shadow-Wife also continued. After sunset, Elswyth would first visit the graveyard. Beneath the loose boards of the bier, Shadow-Wife had already stacked the emptied coal sacks, folded square and ready for another night's work.
-
-Once the stories of the _Coaler-Wight_ took flight, she began finding other things beneath the boards as well: one half of a pair of knitting needles. A loaf of bread. A simple whetstone. The torn corner of a scarf. Half a pair of shears.
-
-Each time, Elswyth smiled. Later that night she would show the object to Long-Mile. Together they tried to match the object to the newest tale. More often than not, they did.
-
-The villagers would concoct more bizarre stories about the _Coaler-Wight_. 
-
-One man swore the _Coaler-Wight_ pressed her ear against Blackjoy's lips each night to hear the names of liars. By morning, their bootlaces would always be found tied together.
-
-After a visitor from York landed in the ditch, the villagers decided the _Coaler-Wight_ had spooked his horses. It took him two days to wash the mud from his clothes, and considerably longer to convince anyone it had merely been poor riding.
-
-Not every morning ended with the forest.
-
-Sometimes Elswyth lingered at the edge of the Shadow Gate after selling her coal. She kept her cowl low and stood at the back of the little crowd while the parish priests taught the villagers loricas against wolves, fever, drowning, thieves, and restless spirits... like the _Coaler-Wight_.
-
-Most of the villagers learned only the rhythm. They repeated the Latin sounds without knowing the words, trusting that the holy cadence itself was a shield against darkness.
-
-Elswyth listened differently. She had the benefit of listening to the rhythm of the coal, the crackle of the wood, and her ears picked up every nuance.  She had spent a year learning the gnome's songs to the flea's leg. The priest's prayers were no different. Long beats. Short beats. Places to breathe. Places to strike the words.
-
-By the fifth hearing she knew the entire lorica by heart. She knew where to repeat the Latin exactly as given. She also knew the places where to insert her own wishes into the prayer. No one prayer could address all concerns, so the priests created the pattern.
-
-But life moved on, for everyone, including Elswyth.
-
-Each winter, after the first deep snow, no one could find the charcoal pits hidden beneath the white blanket of the forest. Her craft carried her through the bitter months. She kept enough charcoal to warm her own hearth and sold the rest, spending her hard-earned pennies on tithes to the Church and the things the woods could never provide: wool for mending, salt for preserving, needles, thread, and the occasional iron tool.
-
-Her charcoal burned hot and clean. It gave off almost no smoke, leaving no telltale plume above the trees to betray that the _Coaler-Wight_ was home.
-
----
-
-Huginn: "I have just heard a most outrageous accusation."
-
-Muninn: "Yes?"
-
-Huginn: "Apparently I spent years masquerading as an elderly grave-tender."
-
-Muninn: "I wonder who would start such a rumor?"
-
-Huginn: "I thought you cared about honesty, memory, history..."
-
-Muninn: "Very much indeed."
-
-Huginn: "Then why did you start the rumor?"
-
-Muninn: "I can neither confirm nor deny. But I'll make observations. You do enjoy graveyards."
-
-Huginn: "Many people enjoy graveyards."
-
-Muninn: "You enjoy them more than most."
-
-Huginn: "You're not presenting evidence."
-
-Muninn: "No, I suppose not."
-
-Huginn: "You're assembling a rumor."
-
-Muninn: "Much like Shadow-Wife did. She assembled rumors. You assembled Shadow-Wife. Ergo, you did too."
-
-Huginn: "Oh I see what you did there."
-
-Muninn: "Then you appreciate my handiwork."
-
-Huginn: "That doesn't mean I literally stole her body to play jokes on Under-Geat."
-
-Muninn: "Philosophically you did."
-
-Huginn: "I suppose you think I stole the ferryman's body too."
-
-Muninn: "The reader might reasonably suspect that I was the carter."
-
-Huginn, looking at the reader temporarily, then back at Muninn: "Um, were you? The carter?"
-
-Muninn: "Allegedly."
-
-Huginn: "He did remember Elswyth. He wasn't surprised by her survival. You are the master of memory. "
-
-Muninn: "Go on."
-
-Huginn: "He did show up exactly when she needed him. That's an awfully big coincidence."
-
-Muninn: "Yes. Continue."
-
-Huginn: "I'm not sure I can. I don't like where this is going."
-
-Muninn: "That's how some myths get built, brother. I suggested an end. You provided the path."
-
----
-
-In the late fall of 942, the cold arrived early. The Vikings returned to Leicester, establishing camp before the winter locked the land in ice. This time, however, the host was weary. They robbed and they stole, as was their nature, but the _Ulfhednar_ did not scour the land from _Under-Geat_ to the Church as they had before. They listened to the stories of the _Coaler-Wight_.
-
-They also gave the Roman necropolis a wide berth.
-
-Old men in the host muttered that the giant-folk who had raised Leicester's impossible walls had buried their dead there long before Dane or Saxon ever set foot upon the island. Some swore the graves marked an old road into Helheim. Others whispered that the giants still watched over their own. Whatever the truth, none of the _Ulfhednar_ cared to test it.
-
-The Vikings did not like the masks of the Shadow Gate either. They were the mocking faces of stone giants. Men muttered that the eyes followed them through the market.
-
-One Dane climbed a ladder and smeared wet river mud across Morning-Eye's face until the giant could no longer "see."
-
-Another packed mud into Blackjoy's mouth, hoping to stop it whispering curses into his dreams.
-
-The next rain washed both faces clean.
-
-One Viking took a hammer to Blackjoy's cheek. It bounced off harmlessly, but a splinter in the handle bit the Viking's hand. The man ran, convinced that Blackjoy nibbled his palm.
-
-Two more Vikings made a game of staring down the giants while off patrol. They spat at them. They mocked them. The expressions never changed.
-
-One older Dane poured ale into Morning-Eye's mouth before drinking from the same horn himself, inviting the old giant to join him in the revelry. On quieter evenings he sat beneath Blackjoy, singing old drinking songs, convinced the giant merely needed better company.
-
-The villagers would watch as this continued. They saw the faces withstand everything. Once winter set in, no Viking bothered with the stone giants any more.
-
-By February of 943, the Vikings retreated behind ramparts and walls. The Saxons had returned to dismantle the Vikings hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
-
-April 23rd, 943 was the night of the last full moon of the gnome's promise. Elswyth was then of twenty winters. 
-
-The gnome did not come that night as she expected. She assumed he forgot. Or maybe the Vikings' and Saxons' noises had scared him away. Or perhaps he had peeked in on her after all, and saw that she was thriving better than he expected. She raked the coals faster with each passing thought.
-
-She was coal-wise and her purse had silver. Her coal had buyers. There were mushrooms in her bag and martens and squirrels in her traps. He must have known his training was well-taken, and he must have moved on. She dwelled on the matter a bit longer, before deciding to abandon the forest work and head home.
-
-She started loading her coal into the sacks. 
-
-From behind her came a voice.
-
-"Hello, Meadow-bud."
-
-Her hands stopped on the coal sack.
-
-She knew every rise and fall of that voice. She had heard it laugh, sing, tease, rhyme, and dance for many moons.
-
-She had never heard it hunt.
-
-She stood and turned.
-
-Fussleton stood there under the light of the full moon.
-
-It highlighted his feet that no longer ended in linden shoes. He wore thick metal rusty boots caked with dried blood.
-
-The light bounced off his silver blade in hand, trimmed in iron. This was not his mushroom knife that she saw him use countless times.
-
-She saw his hands, not gentle and weathered as a kind oak tree. They were the wrinkled hands of an ancient hunger.
-
-It found his cap, brown with dried blood.
-
-Her gaze moved to his maw, the moonlight reflecting off bits of grime trapped between his teeth, and saliva moistening his blood-starved lips.
-
-She finally found his eyes.
-
-They were wide.
-
-Waiting.
-
-Joyfully mad.
-
-He stood there, not merely smiling. He looked upon her with the quiet satisfaction of a master cook admiring the finest meal he would ever prepare.
-
-It was in this moment that she realized...
-
-In all their meetings...
-
-In all their conversations...
-
-He never met her in open, full moonlight.
-
-He was gone for every full moon of her training.
-
-The rest of her training, the moon's light was waning, or waxing.
-
-There were always shadows between them as they met at the knoll. He leaned on a tree. He sat behind the rock. 
-
-He always talked about the body's ability to drink in moonlight. And now her eyes drank everything.
-
-The moon didn't lie.
-
-Its fullest light told the fullest truth.
-
-He giggled.
-
-"Oh please, tell me you already knew..."
-
-He twirled, and put his hands on his hips, smiling as if posing for a portrait.
-
-"I lied. Fustian Powrie-Cap, at your service! That's my murder-name! I am the Powrie Redcap of the Gaels, the Fly Agaric of the Night-North! The Spotted King!... arrived for HARVEST."
-
-He stopped. She truly was surprised. His smile turned to confusion.
-
-He repeated the fly agaric rhyme, mocking her as he twirled:
-
-```
-Red as berry, white as bone,
-Leave the spotted king alone.
-Bite the side to touch the sky,
-Bite the other, and you’ll die.
-```
-
-"The rhyme was there *ALL THIS TIME*, Meadow-bud," he hissed, saliva dripping from his lips and his tongue snaking over his stalactite teeth.  "I had you repeat it, *under the touch of the sky*. Over, and over, and over!"
-
-He looked down at the ground between them, no longer speaking to her at all.
-
-"Oh I can't stand it. I gave her hints. She clearly trusted me too much. What kinds of lessons should I learn for next time?"
-
-Elswyth struggled for words, as she stepped towards her father's axe.
-
-"You're... a..."
-
-"Monster?" he looked back up at her. "Why yes, a very... famished... monster. With refined taste. And better manners."
-
-He sniffed, then tasted the air.
-
-"But I'm asking myself..."
-
-He tilted his head, contemplating.
-
-"Should I keep you here a little longer? The smoke is wonderfully sweet. Another few minutes would deepen the flavor..."
-
-He frowned.
-
-"...but then I risk you marinating in your own sweat."
-
-He pulled out his familiar salt horn and spoon.
-
-In the light of the full moon, Elswyth saw it was a child's skull, sealed at the base with a small hinged flap cut into its brow. The spoon was a tiny toe bone, hollowed into a delicate scoop.
-
-She had always assumed they were carved from horn.
-
-"I wouldn't want it to compete with my salt, now do I?"
-
-He set the skull down next to the fire.
-
-"I hear your heart, Meadow-bud. Come! Let us dance. One last time."
-
-He took up the coal rake and swept it into a graceful bow.
-
-"My lady. Excellent posture."
-
-He twirled it once.
-
-"Far less stubborn than my last partner! Now left, right, onto the flea's leg... Yes you've got it."
-
-Elswyth another step towards the axe.
-
-"The moon maiden in your family poem... was _she_ your last partner?" 
-
-Elswyth took another careful step towards the axe.
-
-Fussleton stopped in mid-step to look straight at her. He smiled.
-
-"I told you we won her heart with a gift of silver..."
-
-He laid the silver blade against the rake's handle.
-
-"and iron..." 
-
-Without breaking her gaze, 
-
-One smooth draw.
-
-The rake fell neatly into two pieces.
-
-"She gave us her heart." He started licking his fingers. "I didn't lie."
-
-He put his hand to his chin. "You know, I did forget to tell you one thing. About your mother."
-
-Elswyth's heart froze.
-
-"That first full moon after you were in my camp, I found the Vikings that took your mother. I had my eye on the Viking who chased you. Very mundane. Somewhat embarrassed I went to all the trouble, actually. And then I saw her."
-
-Elswyth drew a breath.
-
-"She had untied her bonds, and was trying desperately to get back towards Under-Geat... to you. She almost made it back to the river."
-
-Elswyth dared to let her heart fill with hope.
-
-"The soot-char should have been the memorable part. It wasn't. Didn't even bother with morels or sauces."
-
-Her eyes were as big as moons. Elswyth screamed.
-
-"Are you _really_ that upset? You assumed she died, _Meadow-bud_. Does it really matter if it was at the hands of Vikings, or in the service of a better cause?"
-
-"YOU FOUL... MURDEROUS..." Her mind closed to the shapes of words that tried to escape her mouth.
-
-"You aren't even going to ask?" Fussleton shook his head.
-
-"The better cause: her death taught me something. The moon's flavor is sweet, yes. Charring and smoking are good flavors too."
-
-Fussleton looked straight into Elswyth's eyes.
-
-"But your mother had been a victim for a whole month. Then suddenly, she was free."
-
-Fussleton's smile turned dark.
-
-"Hope."
-
-He licked his lips.
-
-"True... hope. Your mother's heart was gushing with it. And _hope_, I think, is why I enjoyed our conversations _so much_."
-
-He raised his knife higher towards his chest.
-
-"I taught you many things. But all of it was for you to _hope_. For years..."
-
-She took another step towards her father's axe.
-
-"Most disappointing."
-
-He pointed his knife toward the axe.
-
-"Do you really think you can hit me with that?"
-
-He laughed softly.
-
-"After everything I've taught you?"
-
-He spun the knife between his fingers.
-
-"The steps. The bends. The twists. The timing. The rhythm."
-
-He tilted his head.
-
-"A felling axe? That's not _dancing_, Meadow-bud. That's a prayer disguised as iron and wood."
-
-He wrinkled his nose.
-
-"_Such_ a crude implement. But I do like the spirit. Who knows, a last sprinkling of _hope_ might just be enough flavor to put it over the top. We'll do it your way. You start running."
-
-She picked up the axe anyway. It was all she had.
-
-"You know, Fussleton. Hope isn't for _flavor_. Hope is what gets you through the night when everything else has turned to ash. And all I see is ash."
-
-Fussleton smiled a blood-craving smile.
-
-"...And I'll start counting. Hmmm, you've been marinating in _hope_ for years. I suppose that will be my final thesis for this project. Was it _worth_ it?"
-
-He readied his knife.
-
-"Ten."
-
-She didn't move. "Not today."
-
-"Nine."
-
-"You'll catch me anyway."
-
-"Eight."
-
-Elswyth raised her axe.
-
-"Seven."
-
-Elswyth stood unwavering.
-
-"Really? Six."
-
-Elswyth eyed his blade.
-
-"Five."
-
-Elswyth narrowed her eyes and met his.
-
-"Four."
-
-Elswyth dug her eyes in the soot and dirt. Her feet were set.
-
-"Three."
-
-Elswyth exhaled.
-
-"Two."
-
-Elswyth inhaled.
-
-"One."
-
-_Elswyth smiled._ "Done."
-
-The redcap launched.
-
-Elswyth tossed the axe. Simple. Sideways. She didn't even intend to hit him.
-
-The redcap dodged it. Smiling. "Pathetic."
-
-Then Elswyth threw something else. Hidden in her hand. Something small. Black. Glassy.
-
-It flew through the air.
-
-Fussleton was too close, too confident. He didn't account for it.
-
-The Alexander Stone struck him in the nose. Hard.
-
-He stopped. Cross-eyed, he stared at the end of his nose.
-
-"OOOOOOOWWW!"
-
-His free hand flew to his face. Blood trickled between his fingers as he pinched his nostrils shut.
-
-"Whyyyyy?"
-
-He sniffed once.
-
-His face fell.
-
-"Now nothing smells right."
-
-He stomped his foot, and glared at Elswyth.
-
-"You coal-slinging, rake-legged woad snail! That hurt!"
-
-That's when she noticed. He had stopped. He wasn't looking to pounce. He wasn't waving his blade. He was truly thrown off his rhythm.
-
-Elswyth knew this wasn't a solution. It was time.
-
-She stepped onto the coals.
-
-"You want me? You'll have to fight me here." She pulled out her small mushroom knife. It was the last bit of steel that she had.
-
-"But my nose hurts! How am I supposed to properly enjoy this?"
-
-"What's the matter, _Fussy-Bud_? Too fragile to fight a _woad snail_?"
-
-"Taunting?" He laughed.
-
-"Ha ha—owww... still hurts."
-
-He gingerly touched his nose.
-
-"Really?"
-
-He sighed.
-
-"But I can't have you set yourself on fire. Can't rescue the dish that way," he casually mentioned to himself.
-
-His smile faded into a grimace.
-
-"I suppose we're at an impasse. But I expect your toes are regretting your decision."
-
-Her toes indeed were getting warm, as her turn shoes were starting to smoke.
-
-But behind the red-capped murder-gnome came a small, childish giggle.
-
-Then another.
-
-Then another.
-
-Soon there were ten.
-
-A hundred.
-
-The powrie-spirit spun on his heel and let out a scream of slicked hate and curious pitch.
-
-Nets flew from the darkness, tangling the redcap where he stood. Thick loops of rope, woven through with deathcap mushrooms, wrapped around his limbs. He struggled and bit, thrashed and twisted, but the cords held fast.
-
-His knife—silver blade bound to an iron hilt, just as his family-name poem foretold—fell from his hand into the dirt.
-
-He fought and screamed against the bindings:
-
-```
-Forge-spawn, let the madness wake,
-All your bones I'll snap and break!
-Claw the rope and bite the thread,
-Paint my cap a deeper red!
-Spit the ash and curse the spark,
-Drag you screaming to the dark!
-You can't bind the spotted king,
-Hear my teeth and iron ring!
-```
-
-The invisible children responded with a rhyme of their own:
-
-```
-Hush now, little murder king,
-Only echoes will you sing!
-Fold you tightly, fold you small,
-Squeeze you in a metal wall!
-Giggle, giggle, in the dark,
-Feed the furnace with your spark!
-You'll still laugh and you will sing
-But dancing will be another thing.
-```
-
-Elswyth stepped back off the coals. She held her mushroom knife as bravely as she could.
-
-Fussleton stopped for a moment and pleaded.
-
-"Please! Just one... little... TASTE!!!!" He reached out to Elswyth, trying to even get the tiniest scratch on her. She was too far away.
-
-The invisible forge-elves gathered round the nets.
-
-"Let the _royal feast_ commence! His Royal Majesty, _The Spotted King_ wants... _a taste_!"
-
-Fussleton was lifted into the air and placed on a nearby stump, held down by the nets. 
-
-"There, His Majesty is seated before the banquet hall."
-
-"Pages! The courses!"
-
-"Bring the King's salt!"
-
-"We must cleanse the palate!"
-
-"Mind His Majesty's chin!"
-
-"Open, Your Majesty!"
-
-"No spitting before the court!"
-
-The salt skull floated through the air, and danced over his eyes.
-
-"Does His Majesty prefer one salt skull or two? ... One it is."
-
-An invisible hand found his tongue, and pulled hard. The salt was poured the length of his tongue.
-
-Wooden trenchers drifted from the darkness in solemn procession toward _the throne_.
-
-"The first course! Boiled hedgehog, prepared with over-ripe onions, crisped in the oil of spoiled herring. His Majesty will note that the quills have been carefully preserved to deliver flavor to the tongue most directly."
-
-The hedgehog floated toward the throne.
-
-"Open for the first course!"
-
-Invisible hands pried his jaws apart, using the whiskers of his moustache and chin.
-
-The hedgehog was pushed snout-first into his mouth.
-
-It did not fit.
-
-"Push harder!"
-
-"It'll fit!"
-
-"...It didn't fit."
-
-He spat the beast back onto the trencher, blood following after it.
-
-"His Majesty must excuse the chef. Next course!"
-
-"A most _unfortunate_ oversight. _A thousand apologies._"
-
-More dishes arrived.
-
-"Second course! Raw eel, stuffed with yesteryear turnips and dandelion stems!"
-
-"Third course! Acorn mash. The acorns were gathered from the oldest leaf litter in Charnwood. The chef was most careful not to disturb the beetles and centipedes."
-
-"Lastly, raw mushrooms for the road."
-
-Elswyth saw mushrooms flying through the air, stuffing themselves into the redcap's toothy maw. He struggled against them, but he was muffled into silence.
-
-He spat one out. Two more were stuffed in.
-
-He murmured. He screamed. But it didn't matter.
-
-The redcap was lifted into the air. With the nets as handles, the forge-elves led the procession into the wood.
-
-Then, she noticed a marten skin, silver, floating through the air as if the wind were carrying it slowly. "No...." she whispered. But she dared not intervene.
-
-An invisible hand picked up the empty salt skull and spoon. It followed the invisible procession.
-
-Finally, the redcap's blade floated into the air. It was tossed, like a hand tossing a knife to another invisible thing, who laid it on the tree stump. A small hammer appeared, wielded by an invisible hand. "Here!" The hammer swung fast and true, hitting just at the join of the handle to the blade. The handle popped off, the blade flying into the Soar. The handle joined them in a line heading back into the wood.
-
-The giggles disappeared quickly into the night, just as they had arrived. There was a sudden peace in the air.
-
-No Fussleton.
-
-No knife.
-
-No salt skull and spoon.
-
-Just peace.
-
-The neighbors up the hill crossed themselves in their beds, and drew their bed furs over their eyes. They weren't sure what they had heard from across the Soar, but it must have been another adventure of the _Coaler-Wight_.
-
-Elswyth reached down and found the Alexander Stone. She stood for a moment, her face reflecting slightly on the glassy surface.
-
-Elswyth frantically ran back to her hut. She rushed in, finding her box on the floor. The box lay bare; the pelt was gone. It neatly sat in the center of the ruined hut.
-
-She saw the morning light, and her mind snapped to the present. She knew she had moments before the village rhythm began.
-
-She spent the rest of the morning curled in her sleeping hole, just as she had in the log-hollow on the night of the wolves. She pressed her forehead against the cold, damp earth and whispered the words she had learned from the priests at the Shadow Gate. They were words taught to use against the _Coaler-Wight_. Against _**her**_. And now, they were her bedrock.
-
-She summoned that spell to memory, and put the raw madness of what she had just seen into it. She rocked back and forth to the rhythm of the chant, almost singing into the dark:
-
-```
-Christus in Cruce, esto mihi scutum, sta ante me.
-Christus in Cruce, esto mihi ignis, custodi me in nocte.  
-From the Spotted King in the wood,
-From the spirit children who trap souls,
-Per sanguinem Agni, et per radicem arboris,  
-Seal this ground. I am your humble servant.
-```
-
-("Christ on the Cross, be to me a shield, stand before me. Christ on the Cross, be to me a fire, guard me in the night. From the Spotted King in the wood, From the spirit children who trap souls, By the blood of the Lamb, and by the root of the tree, Seal this ground. I am your humble servant.")
-
-She crossed herself, but her fingers traced the sign not just in the air, but toward the four corners of the sleeping hole, as if pinning the walls to the ground. She prayed for a barrier. She prayed for the Church’s stone to be as hard as the forest’s wood, and for the "God of the Bells" to be louder than the giggles in the dark.
-
-She paused, her breath hitching in the silence of the hut. She remembered the priests’ teachings: some prayers ended in _Amen_, and some did not. She didn't want to offend God—not now, not in her moment of greatest need. She needed the seal to be perfect.
-
-She reached into her pocket, pulled out the Alexander Stone, and placed it firmly in the entry to her sleeping hole. It caught the first, pale sliver of dawn light, a small, smooth eye watching the dark.
-
-"Amen," she whispered, as gently as she could.
-
----
-
-Huginn: "Today we're interviewing Naz T. Cuss, the winner of the Forge-Elf Cooking Challenge. He's the one whose menu was chosen for the _Spotted King_ today."
-
-Muninn: "Not this again..."
-
-Huginn: "So, Naz, how _did_ you come up with this menu, today?"
-
-Huginn-as-Naz: "Well, Huginn, I uh... saw a dead hedgehog on the side of the Road this morning, on the way to work... and uh... decided that if we re-forge it with some spoiled herring and onions... well... everything just came naturally from the moment."
-
-Muninn: "You sound nothing like Naz."
-
-Huginn: "You have to admit he made a wonderful menu."
-
-Muninn: "Yes. I think _you'd_ call it 'Tuesday night's supper.'"
-
-
-[↑ Back to Table of Contents](#table-of-contents)
-
 ## Chapter Four: The Tale of the Bell's Deacon
 
 ### Part One: The Liturgy of the Bell
@@ -1994,7 +632,7 @@ The column's shields went up in unison. The riders held their short heavy spears
 
 Cynewulf's horse almost jumped before he did. The four archer hunters marked the beginning of the fence line, and slipped behind. Cynewulf was first in the line, his spear before him ready to plant in the first one he saw. 
 
-This is was the moment. All the training and grooming came to this. And it happened in a flash.
+This was the moment. All the training and grooming came to this. And it happened in a flash.
 
 He was hit in the midsection from his left, a heavy club breaking on his stomach. It came from nowhere. Cynewulf was tied into his saddle, otherwise he would have hit the ditch in an instant. His horse reared, not expecting motion in its periphery, and Cynewulf dropped his spear. The pain was agony, and his breath was gone.
 
@@ -2805,6 +1443,1241 @@ Huginn: "Yes, but their weapons make for inedible corpses."
 
 Muninn: "I've watched you for a thousand years. Fine dining and freshness have never occupied the same thought where _you're_ concerned."
 
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+## Chapter Five: The Blades
+
+### Part One: The Debate
+
+Woden met Freyr high in the summer air, looking down upon the patchwork fields of the Danelaw. Mortals were going about their daily lives. They could see every detail: the thin blue smoke of charcoal kilns rising from the eaves of Charnwood, the slow crawl of oxen pulling plows through the heavy Midland clay, and the sharp, square towers of stone churches rising where sacred oak groves had once stood.
+
+Freyr looked every bit the god of harvests and abundance. He had broad, sun-browned shoulders, an ever-present smile, and a tunic woven of gold and silver thread that caught the midday light like ripe wheat. When he spoke, his thick forearms cast wide, sweeping arcs, and his voice was boisterous and resonant, carrying the warmth of a summer afternoon.
+
+Woden was in front of him, wrapped in his dark, wind-torn cloak, his wide-brimmed hat casting a deep shadow over his face. In his hand was his spear, _Gungnir_, gripped tight. He was a cold draft in the middle of August.
+
+Woden began.
+
+Woden: "I've asked you here for... a favor."
+
+Freyr: "Haha! I knew it wasn't for my joyous demeanor. But you seem unsure."
+
+Woden: "Don't make this any harder than it is! You know I hate..."
+
+Freyr: "... asking for favors. Yes. But you know, of all of _our_ gods, I'm as approachable as the spring rain."
+
+Woden looked to the people below.
+
+Woden: "I have... a problem. I'm losing sight of the convergences. As you know, there was a time when I could see every convergence in _wyrd_. I could predict which Viking would betray, which mother would have twins, which wolf would find its way home... and which would not. This new shepherd has quite... unsettled me."
+
+Woden pointed his spear at a farmer. "There, that farmer. I had known of a convergence with him and his lost son that would eventually happen. Three winters ago, the boy wandered south after a raid. I knew the father would not find him then. I knew he would return when the apple trees flowered for the third time. It _did_ happen last spring after three years."
+
+Woden closed his eye. "And now? ... Nothing. The boy came back with a cross around his neck."
+
+Freyr: "You think this _Christ_ is the disruption?"
+
+Woden: "I cannot know. The Norns' tapestry is going dark, my Vanir brother, and I don't know why. If I have seen convergences in our people, in our history, then why could I not see this _Christ_ coming? Surely he and his followers were fated to meet ours. And yet... nothing."
+
+Freyr: "So what of the Norns? Have they nothing to say?"
+
+Woden: "Everyone thinks I converse with them. Truthfully... I've never actually met them. No one realizes that if I _actually_ had their ear, we wouldn't be facing Ragnarök."
+
+Freyr: "And what would you have me do? Do as the Æsir do? Challenge _Christ_ to a duel?"
+
+Woden: "DO NOT MOCK ME!"
+
+Freyr: "Ah, there's the Woden I know. It's unbecoming to see you... unsettled."
+
+Woden set his one-eyed stare on Freyr.
+
+Woden: "You think this is my problem alone, don't you? All our gods, the Æsir, the Vanir, the Nine Realms, _everything_ is threatened. And you see fit to make jokes."
+
+Freyr studied the countryside, and the summer sky.
+
+"I'm not concerned, actually."
+
+Woden's eye became a piercing star that flashed with scorn.
+
+"_NOT CONCERNED??_"
+
+Freyr: "Have you stopped to consider that life travels in seasons, old friend? Why should this be any different? If _wyrd_ is slowing its reveal to you, maybe the season is changing. This _Christ_ may not be a competitor. He may not be _your enemy_. He may be the next season. And we are merely... fall.
+
+Winter is coming. I always believed you when you said Ragnarök would end _us_, especially if we were unprepared. I took it to be the winter of _our gods_. I took Valhalla, the valkyries, and the training of dead heroes to be your way of storing grain for the winter.
+
+And now, I'm just as prepared for this possibility as _Ragnarök_. Because perhaps _Christ_ is truly the winter of _our gods_. If the convergences are fading, perhaps the convergence you know as _Ragnarök_ never actually existed as you thought it did.
+
+The difference now is, should we fight this _Christ_? Does one fight with winter, or prepare for it?
+"
+Woden stared at the moving clouds as if they might give him some wisdom to answer the question.
+
+Woden: "How do I even answer that question, if I don't understand what I've lost? Every god relies on me. ME! I AM THE ALL-FATHER! I am _destined_ to be cursed with the knowledge of our doom. I alone carry that burden. And I alone am destined to lead us through the end of days."
+
+Freyr: "But perhaps that weight has skewed your thinking. If _Ragnarök_ is not truly a convergence, then your burden is to lead us into our next spring. Not one sustained by human worship, but one sustained by existence itself."
+
+Woden: "But the All-Father is..."
+
+Freyr: "... is what? What we've all assumed it would be? The _law-giver_ of the gods? The leader through the _final battle_? I think you're mourning your lost title as much as your life. And now, we both suspect, you might not have to lose either."
+
+Woden: "This is all easy for you to say. You gave up your sword to marry Gerðr. You embraced your doom, knowing that your choice would make you die in _Ragnarök_. Now, you see hope. Perhaps you're the fool."
+
+Freyr's smile grew larger.
+
+Freyr: "Ha! Yes, I made that choice. The truth is, I'd have made it _every single time_. Our choices are made stronger if they are weighed against certain death. It was always the right choice. And hope vindicated my choice. Does that make me a fool? No, it means that life was more generous than I expected. Either way, I am happy.
+
+We cannot purchase certainty. Not with an eye, or a noose hung around the Tree of Life, or a planting of seed. We can observe cycles, but that is the most certainty we'll ever know.
+"
+
+Freyr swept his arm to the countryside below.
+
+"Look upon my followers. Of course they pray to me for rain, and bountiful harvests, and all of the things that are out of their control. But they are not idle... They plant a seed because they must be hopeful, yes, but they do not plant it randomly. They choose times. They choose specific places. Why?"
+
+Woden looked down with a keen eye. For the first time, he did not see hope as a weakness or a luxury. "Because they plan."
+
+Woden hung in the air, his one eye following the farmers below as though he were seeing them for the first time.
+
+"This still does not answer why I have lost my sight. So, whether I accept your conclusion still depends on understanding _that_ loss. I do yet see some convergences, and that is why I'm here."
+
+Woden's eye settled on individuals.
+
+"I see an opportunity. I see three people."
+
+Freyr joined Woden by his side, eager to see what Woden does.
+
+Woden: "I have seen a convergence. Three strangers. I see a farmer, Osric, he prays to the _Christ_ as well as occasionally to you."
+
+Freyr: "Yes, wife is Ealhild. She is one of my most devout."
+
+Woden: "And there, I see a charcoal girl, Elswyth, with her family. They pray to the _Christ_ and their _saint_, yet they save coal for your forge-elves."
+
+Freyr: "Yes, they do enjoy the gift."
+
+Woden: "And there, making his bells. I see Cynewulf. He is studying to be a priest of the _Christ_, but I can still see _wyrd_ in him, for now. The convergence suggests he has a fall. He will not be a priest for long."
+
+Freyr: "Yes, I do not know this one. But I see his craft. His father, from the look of it, has craft as well. Cynewulf's craft will see them through his hardship, I suspect."
+
+Woden: "Why do you say that?"
+
+Freyr: "You look for certainty, I look for patterns. Cynewulf works hard at his bell-forge. He seems smart and able. He lacks temperament and experience. Men like him usually discover what they must to survive."
+
+Woden: "There is a fourth, whose convergences I have seen from the day of his birth. And this is where the opportunity lies. His name is Wulfhere. He is a strong believer in my cult. By the time the convergence comes, he will be a leader of my wolves."
+
+Freyr's eyes widened a bit.
+
+Freyr: "So these three will meet a band of your warriors. And you're expecting slaughter."
+
+Woden: "There _will_ be slaughter."
+
+Freyr: "That is a cycle of life. The wolves cull the weak and unprepared. The survivors must learn what they can to prevent it from occurring again. I do not wish it for any mortal, but it is a burden they must carry."
+
+Woden: "You misunderstand. I have an opportunity. To intervene. To prepare them. To even the odds."
+
+Freyr: "What exactly are you suggesting?"
+
+Woden: "_Wyrd_ is losing its hold, and yet I cannot see how these mortals perceive that loss. And knowing how mortals perceive _wyrd_ now may yet be... informative.
+
+These three have different relationships to the _Christ_. Osric's faith is occasional and transactional. It is born out of necessity more than true devotion. He would just as quickly abandon it to worship you if he thought that meant more rain. Elswyth's family's faith is driven more by intent, but they still hold to pagan beliefs... your forge-elves to be precise. They would not dare mention it, but I see an obsession there. And Cynewulf, he was born into his faith and lives it... for now.
+
+Each one of them, if they were to meet my wolves in battle, would almost certainly die."
+
+Woden studied the camps of his cults, looking at each wolf individually.
+
+Woden: "What I'm about to suggest pains me more than you can ever imagine."
+
+Freyr: "By helping these three mortals, you act against your family."
+
+The words hung in the air, defying gravity.
+
+Woden: "But I must learn all that I can. What I need is a test. Your forge-elves can make three blades, one for each of these mortals. The blades can be tuned to their specific situations. This is key. The blades must seem as though destiny itself provided them. They must be delivered in their moment of greatest need."
+
+Freyr: "And then what?"
+
+Woden: "How does one react to a gift from destiny? They will use their gift to save their lives, but that is not the test. The question is: do they embrace that destiny from that point on, or do they reject it? The gift must come at a cost. A painful cost. Much as your choice did, to throw away your sword and embrace death, for your wife... Let's see, after the battle, if these mortals make a choice worthy of hope.
+
+The convergence of Osric suggests he will lose everything. His position in the fyrd. His hearth. Even his family. Ealhild and any children they have... will die."
+
+Freyr cast his eyes on Osric and Ealhild, his face becoming as stone. "Unfortunate."
+
+Woden: "His gift should seek to replace what he will lose. But the cost should be to abandon hope for a new hearth, a new family. Embracing the blade is to embrace an eternal summer, Ealhild and his children by his side, a space you will provide in Alfheimr. But to embrace it is to live a death. As he visits his wife, the blade will lay waste to his body. Every time he uses the blade, he shall die, only to be revived when the fight is done. He will have no memory of the battle, only the sweet memory of Ealhild and his children."
+
+Freyr: "An eternal summer? One only appreciates summer if winter comes after."
+
+Woden: "And yet you permit eternal summer in Alfheimr, do you not?"
+
+Freyr: "Alfheimr is a home for those who have earned their summers with hard winters. You would give it to a man before he has earned it. The sunny valley road to Alfheimr begins in the cold, wet ground. But whether they join the road is a choice. Some choose the eternal summer of Alfheimr. Some choose to stay in their barrows. To watch over those who come after them. The season they choose reveals who they were."
+
+Woden's eye settled upon Elswyth.
+
+Woden: "The coaler's apprentice is interesting. The convergence suggests she will lose her family to Wulfhere, and that she will be haunted by one of your lost souls. A redcap, a self-styled _Spotted King_. That creature has repeatedly escaped my _Wild Hunt_, but now I expect we'll know where to find him."
+
+Freyr: "Fussleton. Yes, his fall was most unfortunate. His obsession twisted him beyond recognition."
+
+Woden: "I need your elves to intercept him before he kills her. Your elves will make a blade _from_ him, containing his soul. And _he_ will teach _her_ how to survive the slaughter. To use the blade, Elswyth must make a choice... whether to embrace the redcap's insanity, and invite it into her own mind. To do so is to embrace survival at any cost, to reject it is to embrace the hope that her learned skills are enough, even with the trauma of her near-death at the redcap's hands."
+
+Freyr: "I do not take intervention lightly, old friend. Even when heroes die, the lesson is for those around them. The god of war might seek vengeance. The god of the _Christ_ might seek to ease the suffering of the living. But the god of the harvest sees a hero's death as eventual. Death, like the seasons, is a cycle. Survivors learn that the life of a mortal is part of the natural cycle, and may even learn from that death how to survive longer. One must justify the abandonment of the lesson. But I will consider it."
+
+Woden's eye then settled on Cynewulf.
+
+Woden: "Cynewulf's fall will take him far from his _Christ_. His convergence suggests he will be a man picking up the pieces of a broken life. I see the dirt of the Road coming for him, and it will test him. I see the scars that his life will become. And I suspect, the choices that earn those scars."
+
+Freyr: "I can offer no guidance on this one. Whether he is redeemed is up to him and his _Christ_. I have hope for him, but that is all."
+
+Woden's eye settled upon Cynewulf once more. The testing of a new bell rung through the churchyard, and Cynewulf stood in contentment. For a long while, neither god spoke.
+
+Woden: "Then perhaps this blade should ask a different question."
+
+Freyr turned toward him.
+
+Freyr: "How so?"
+
+Woden: "Osric's blade asks whether grief will master him. Elswyth's asks whether fear will. Cynewulf's burden is neither grief nor fear. It is Truth."
+
+Freyr nodded slightly, but said nothing.
+
+Woden: "His convergence suggests he will become a man haunted less by what others have done to him than by what he has done himself. I see the dirt of the Road upon him. I see scars earned by difficult choices. I suspect he will spend years wondering whether his _Christ_ could still receive a man such as him."
+
+Freyr looked down toward the churches scattered across the Danelaw.
+
+Freyr: "That question is not mine to answer."
+
+Woden: "Nor mine."
+
+The words surprised them both. Woden rested both hands upon _Gungnir_, watching Cynewulf continue his work below.
+
+Woden: "But Truth belongs to neither of us. We answer to it, whether we wish to or not. I expect the same is true for _Christ_. Not necessarily that it is his master, but that he must respect it."
+
+Freyr's smile returned.
+
+Freyr: "Now you sound like a man who has spent too much time with farmers."
+
+Woden ignored the remark.
+
+Woden: "Your forge-elves will make one final blade. The _Wodbora_. It shall command my _Wild Hunt_, but no man shall call upon its power lightly. Before the Hunt answers him, he shall first enter a _witan_."
+
+Freyr raised an eyebrow.
+
+Freyr: "A council?"
+
+Woden: "Yes. But not one of men."
+
+At that moment, two ravens crossed silently overhead before disappearing into the summer clouds.
+
+Woden: "Thought and Memory shall conduct it. Huginn will pursue every excuse. Muninn will pursue every omission. Together, they will hunt the Truth."
+
+Freyr watched the ravens disappear beyond the horizon.
+
+Freyr: "You trust them to judge a soul?"
+
+Woden shook his head.
+
+Woden: "Not to judge. To uncover."
+
+He looked once more toward Cynewulf.
+
+Woden: "The blade shall demand a confession worthy of the power it grants. Not to me. Not to my ravens. They cannot forgive him. They cannot condemn him. They can only refuse to let him lie."
+
+Freyr's expression softened.
+
+Freyr: "And his _Christ_?"
+
+Woden: "Will hear every word."
+
+The breeze carried the smell of fresh-cut hay between them.
+
+Woden: "Cynewulf must confess what he has become. Then he must declare what penance Truth demands of him. If he hides from himself, the ravens will know. If he speaks honestly, the Hunt shall pass over him."
+
+Freyr studied Woden carefully.
+
+Freyr: "So the blade does not ask him to surrender it."
+
+Woden: "No."
+
+Freyr: "It asks him to surrender his pride."
+
+Woden was quiet for a moment.
+
+Woden: "Every time he reaches for the blade, he must first become an honest man. Every battle will force him to remember the faith he left behind. Every victory will begin with confession."
+
+Freyr smiled, almost imperceptibly.
+
+Freyr: "Then your greatest blade will never let him stray far from his _Christ_. You will deliver Cynewulf into _Christ's_ hands, or he'll join the Hunt."
+
+Woden's gaze never left the young bellmaker.
+
+Woden: "That is not for me to decide. Whether he returns is his choice. Whether he is redeemed belongs to another."
+
+Freyr folded his arms.
+
+Freyr: "And yet your blade will place him before the choice, every single time."
+
+For the first time that day, Woden smiled.
+
+Woden: "For Cynewulf, his choice will reveal hope... in _his own faith_."
+
+Freyr: "I don't presume to expect this _Christ_ will thank us."
+
+Woden: "No, I don't expect we'll ever know."
+
+---
+
+Huginn: "We were advocates for Truth. That felt heroic. Like angels. Or paladins. Or... unicorns."
+
+Muninn: "Truth doesn't need advocates. And it certainly doesn't need unicorns."
+
+Huginn: "Then what were we?"
+
+Muninn: "Custodians of Memory."
+
+Huginn: "Custodians? Did we wear coveralls?"
+
+Muninn: "No."
+
+Huginn: "Covered with unicorns?"
+
+Muninn: "Absolutely not."
+
+Huginn: "We were still advocates for Truth."
+
+Muninn: "Memory remembers Truth."
+
+Huginn: "Truth validates Memory."
+
+Muninn: "Can we just stop arguing for a moment?"
+
+Huginn: "I think I found a Truth."
+
+Muninn: "And what would that be?"
+
+Huginn: "I can beat you into submission."
+
+
+
+### Part Two: The Cynn
+
+Deep in the heart of Leicester, behind the Jewry wall, lay the ruin of the ancient bathhouses. During the day, the Church had been collecting statues, archways, stone, and brick from this ruin for several years. The sprawling bathhouse was free of human souls after sunset, or so most people thought as they passed by the crumbling arches in the dusk. The townsfolk would cross themselves and quicken their pace, believing the red-brick vaults held more than just stagnant rainwater and the memory of the dead.
+
+They were right.
+
+The ruins were not empty. The bathhouse saw the slow deliberate work of the stone-claimers during the day, but the winds of the night avoided the spirits that plied their trade in the dark.
+
+Deep within the roots of the stone, where the ancient hearths have been cold for centuries, a different kind of heat was waking. It did not smell of wood-ash, or the rancid fat of the _Ulfhednar_ camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smelled of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
+
+There is no wind beneath the earth, yet the soot on the low ceilings shifts and dances. If a man were to press his ear to the damp masonry, he would not hear the parchment-peace being discussed by the lords, nor the weary sighs of Cynewulf’s rearguard. He would hear a sound high and sharp, like a needle scraping through a burial shroud. He would hear the tiny sound of a child’s giggle echo from the black furnace-mouths, followed by a low, hollow whistle.
+
+They did not labor with the clumsy strength of mortal blacksmiths. These were the _Weylands Cynn_. These were elves of the scattered bloodline of the Great Smith himself. Centuries before, Weyland had walked the earth at the height of his craft, leaving his genius stamped into the marrow of his descendants. Men still remembered a few of his works. Greatest among them, if later storytellers were to be believed, was _Excalibur_, the sword of King Arthur. But mortals had long forgotten the master. Their thoughts now rested on prayers, stone angels, and the plain steel of human hands. The Cynn alone still remembered the ancient foundry marks.
+
+The day of the debate came before the horrible winters of Osric's farm, the raids of Leicester that killed Elswyth's parents, and Cynewulf's ordination as priest. Time had marched forward. Soon would come the convergence... the meeting of Osric, Elswyth, Cynewulf, and Wulfhere. The parchment-peace was near. Woden and Freyr's debate was still fresh in their minds, and they knew they had little time to spare.
+
+The Cynn belonged to Freyr. They were the hidden smiths of the deep places, and the iron they drew from the veins of the earth answered to him. Woden had come for something different. Freyr would provide the steel. Woden would provide the purpose.
+
+They stood on opposite sides of the heavy iron anvil, the bargaining table of the Cynn. Woden leaned into the dark, his single eye fixed on the scarred face of the anvil, while Freyr loomed opposite him, his broad frame radiating an uncanny golden warmth and an easy grin. Between them, the anvil waited—a silent, scarred witness to the fact that before a single blade could be struck, the gods themselves had to agree on the length and width of a blade's contract.
+
+The forge grew quiet, save for the rhythmic drip of condensation from the Roman arches above. Outside, the sun stood on the ledge of the horizon, as if it was basking in Freyr's warmth and looking down into the coming gloom of Woden's night. The gods stood in the fading light, their patience as ancient as the stone walls themselves. They were waiting for the first visitor.
+
+The nisse arrived, cloaked in the glamour of Ealhild's form. The nisse had adopted the lie, using her magic to fool travelers on the road. It was holding a barrel filled with the contents of Osric's broken home. From her belt danced the oil-string, a silent reminder of her unveiled identity, and the beginning of the winter nightmare. The nisse dropped the barrel onto the dirt floor with a heavy, metallic clatter. The copper cookware, the iron plowshare, and the steel-boss of Osric's shield clanked within the wood-staves.
+
+"I have brought the pieces of a broken life," she whispered. Her voice sounded thin and distant, stripped of the warmth Ealhild once possessed. "The steel of the spear and shield, the copper of the hearth, the toys of the children. I have brought them all. I am nisse, a spirit of Freyr’s kin, vowed to protect the hearth and home for Ealhild's family. I... failed. The master Osric still lives, but he is a broken man. Can anything be done?"
+
+Freyr’s grin did not falter, though his eyes grew impossibly bright, reflecting the dying sun. He leaned over the anvil, his massive, broad frame casting a shadow that seemed to bloom with the scent of spring flowers. "Failed?!" he boomed, his voice vibrating in the very marrow of the Roman arches. "Ha Ha Ha! You have not failed! Not yet anyway. You are here, trying to mend the broken fence. You've brought the tools and materials required. My elves shall see them sorted."
+
+He gestured with a sweeping, golden hand, and the shadows of the forge seemed to stir, the Cynn emerging from the masonry like smoke to begin the work of separating the charred iron from the river-stones. They descended on the barrel and called out the items as their invisible fingers thumbed through the collection. Their voices came and went as an impossible childish giggle. "A wooden horse!" "A mighty plowshare!" "A stone of the barrow!" The inventory had been collected.
+
+Woden remained motionless, his single eye fixed on the oil-string that danced at the nisse's hip. He did not care for the harvest or the sentiment of the hearth. He reached out, his long, pale fingers tracing the edge of the anvil, and the air around his hand grew unnaturally cold.
+
+"You speak of mending," Woden rasped, his gaze shifting from the string to the nisse’s hollow eyes. "How is Osric to be mended?"
+
+The nisse responded without looking up, "I am prepared to offer myself. I will live with the barrow stone in the blade."
+
+Woden's eye grew large. "What good is a blade with a broken spirit in its spine! You give the man a death sentence."
+
+The nisse transformed into the presence of her former living self, Ingrid. It was an illusion, a ghost of a memory.
+
+"I was Ingrid, daughter of Ormr. I honored my father's gods... _you_... until marriage compelled me to follow Freyr. I hoped one day to have many sons to fight for you in Valhalla."
+
+Ingrid paused a moment. She looked up to Woden, and straightened. "I summon my husband, Ingvar the Steady, son of Torsten, who died in Halfdan's host at York. He is the lord of the family barrow. I summon his servants of the shieldwall."
+
+She reached to the floor where the barrow stone laid, and set it firmly on the anvil. She tapped the ancestry rune with her finger. From the barrow stone, four ghostly spirits emerged, dressed in Dane armor, shields, spears, and axes. They were her husband Ingvar, and three of his friends who died in a pitched battle while taking York. Ingvar the Steady stood at the fore, his face a mask of grim, eternal vigilance, flanked by three of his closest brothers-in-arms who had fallen beside him in the final, desperate push for York. Ingvar was the brother of Ealhild's grandfather, and the tomb had been built in his honor, a silent monument to a war that had never truly ended.
+
+"Ingvar, my husband," Ingrid began. "My vigil over Ealhild's home was a ruin of my making. I am bound to the fate of Osric, her husband. But my pledge is not enough. You are here to speak for our family." She stepped back, and the spirits of the shieldwall seemed to swell in stature, their spectral armor catching the orange glow of the coals.
+
+"You and I are bound in kinship and love, " he said to her. "You sacrificed yourself for me after my death, to join me in the barrow. You gave up the sun for the shadow."
+
+Ingrid looked at him with loving eyes. "And I ask you now, will you follow me into Osric's blade? Will you be the master of the blade while I tend the hearth in Alfheimr?"
+
+Ingvar's back straightened. He did not hesitate. "My choice was to protect our family. This is the same choice. Of course. I will act to save Osric. He is Ealhild's husband, and we are bound to him like any other kin."
+
+Freyr studied the five spirits with a keen knowing smile. "Yes! Ingvar, son of Torsten, well met! On that battlefield, you rejected both the valkyries, and the walk in the sunny valley to Alfheimr! You chose the vow of the barrow, to watch over your family and its descendants. A noble choice! And I accept you into Alfheimr once again! You were never to be denied."
+
+Woden's eye crackled with an energy of momentary hate. "You *dared* defy me. Yes, I remember you as well, and the valkyries were somber that day." The forge fell into a suffocating silence, the spirits of the shieldwall standing motionless as the _All-Father’s_ gaze bore into them. The ravens shifted on the rafters above, peering to see what would happen next. Then, slowly, Woden’s posture relaxed, his shoulders dropping, and the cold, piercing light in his eye softened into a dangerous, calculating twinkle.
+
+"There is hope for a new pact," Woden rasped, his voice now smooth as polished stone. "One that sees you, your wife, and your friends finally resting in Alfheimr. Your yard shall be measured by the length of the steel. Your friends will be the fence at the hedge. You will protect the remains of Ealhild's family... but the risk is very great for you, Ingvar. The blade is a fragile thing... if it breaks, you all will be cast out from Alfheimr. You will become hedge spirits, and the _Wild Hunt_ will give chase. And you *will* run. " Woden leaned closer, his single eye burning with a cold, terrifying intensity. "Ingrid, Osric must pay a price as well. You will bring him to Alfheimr with you while the blade is wielded, and you will keep him there while Ingvar guards the fence. Osric will be held within a breath of death. He wagers your eternity. You shall wager his life. Agreed?"
+
+Ingvar looked at Ingrid. He saw the golden light of Freyr’s promise and the grim reality of Woden’s demand. "Agreed," Ingvar said, his voice echoing with the finality of a closing tomb. "I am the yard to the edge. The shieldwall is the fence. Let the forging begin."
+
+Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered. The harvest of the barrow is at hand!"
+
+Shadowy hammers held by invisible hands gravitated toward the forge. Coal from a hidden well erupted at Ingrid's feet, and she scooped the black stones furiously into the empty hearth. The furnace burst into flame instantly. The heat felt moderate at first, but it turned a blinding yellow-white with the first breath of the bellows.
+
+Freyr and Woden each took a step back. They watched in the dying sunlight the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil.
+
+A final offering of somber joy.
+
+Freyr's smile grew ever broader, as he witnessed the new billet of steel and wrought iron emerge from the crucible. It flew to the anvil, and a hundred dizzying hammers worked to the sound of a giggling song of clinks and clangs. The sparks of the hammers reflected in Woden's eye as he sternly watched the progress while gripping his spear. The form quickly turned from a rectangular billet, to a large farmer's broadseax. It was heavy and long, meant for a woodsman's chop and a reaping of fall lambs. It had runes too, which betrayed its more divine inspiration.
+
+Finally, Freyr raised both hands and the Cynn stopped, hammers in the air. He summoned the spirits to his hands and pressed them to the blade. He nodded, and the Cynn struck with all their hammers. Quickly the blade was thrust back into the fire, where it was studied with invisible eyes. "Not yet" said one. "Wait!" said another. "Now, quickly" said a third. The blade flew towards the oil and hovered over the opening... waiting... and then it plunged. A burst of green flame flew from the oil, then a sharp sizzle. The blade was drawn, and the elves laughed with pure childish glee. Invisible hands carried the blade off into the shadows to receive its handle and scabbard.
+
+---
+
+Muninn: "This is so much better than ordinary fairy tales."
+
+Huginn: "Yes! No singing about gold, no braided beards, and absolutely no helpful advice for any of our heroes."
+
+Muninn: "Exactly. Just child-giggles, stolen cookware, a little person tied to a wooden handle, and a hot-billet of love. But that's your feast-field, not mine."
+
+Huginn: "You're right. I am a lover, not a fighter."
+
+Muninn: "Wait... did we just... agree??"
+
+Huginn: "About all of it, or just me being a lover?"
+
+Muninn: "A lover of bad poetry and worse ditch-meat..."
+
+Huginn: "Cah! The bellows need new hands. If they fit a nisse's hand, I wonder if they fit a redcap's."
+
+---
+
+The spirit fyrd had barely vanished before the prisoner arrived.
+
+Woden and Freyr stepped forward once more, eyeing each other patiently, waiting for the next blade. The barrel tipped and spilled its old quench-oil into a gutter. More oil filled the space, same as before.
+
+A marten skin of white and silver danced through the door. It was kept separate, held in midair not daring to touch a thing.
+
+Next, a clay pipe entered, smoking. It stopped in mid-step, and a breath was drawn. The smoke drifted back out, filling the forge with Fussleton's addling pipe-smoke. A delighted giggle came from the invisible smoker, and the pipe continued on its journey to the forge.
+
+A blood-stained cap entered next, now red in the forge's true light. Redcap mushrooms in a basket. One by one, they dropped into the fresh oil.
+
+The redcap did not kneel, nor did he come by choice. Invisible currents dragged him kicking through the soot, his small, muscular frame writhing against a thick, poisonous cord of woven deathcap mushrooms that bound his arms to his chest. The pale fungal caps bruised against his leather jerkin, leaking a milky, toxic sap into the air. His mouth was filled with yet more mushrooms.
+
+He spat the mushrooms onto the cobblestones, his eyes burning like hot copper beneath his filth-crusted hair. "Muck-dwellers! Wall-lice! Lowly smiths of the dirt!" the redcap, without cap, shrieked, his voice a rhythmic, snapping chant of old battle-verses. "You strike the anvil with a coward's hand, while I paint the highway with the blood of man!"
+
+From somewhere inside the blank Roman tile, a sudden burst of child-giggles erupted, loud and sharp.
+
+"He's rhyming!" cried one invisible voice. "He thinks he's a skald!" giggled a second. "Look at his tiny teeth," chimed a third from the hearth-roots. "So sharp. So full of old bone-grime. He smells of the ditch-ways."
+
+The redcap howled, as the mushroom-ropes dragged themselves to the bellows. The cords wove his hands to the bellow-handles, and a coal pit erupted from the floor at his feet. Pieces of coal danced on his body like ants crawling up a log, throwing themselves into the fire. The ropes lifted him up, and threw his weight against the heavy wood-handle of the bellows. The fire roared. Above the flames, the scream of giggles drew to an operatic chorus.
+
+"I am the Spotted King! I've slit more throats than you've cast iron pots, you wall-bound worms!"
+
+"So murderously small," the wall whistled back, the sound shifting down toward the furnace-mouth. "Funny, he doesn't look so murder-ish without his cap and knife!" "The little killer wants to play." "He wants a sharp toy for his jail cell!"
+
+The voices stopped, as if waiting. Then they cried out in a cascade.
+
+"Give him the welkin-iron!" a hundred voices chirped in overlapping sequence.
+
+Freyr stepped forward and cut the chorus short, with his palm held high. "SILENCE!! Friends, please..." He turned his gaze toward the redcap, his expression one of weary, paternal disappointment, yet still with an unshakeable smile. "Fussleton, now were you not warned about the dangers of the mushrooms in the meadow. You were taught the rhymes. But you ignored them completely! And now, look at you! Barely a sane bone in that body of yours. What *do* you have to say for yourself, hmmm?"
+
+Fussleton’s copper eyes widened, his jaw working silently as he struggled against the mushroom-cords. The redcap, who had spent centuries terrorizing travelers and painting highways with blood, suddenly looked like a scolded child caught with his hand in the honeypot.
+
+The redcap stared at Freyr, his eyes unblinking, saying nothing. He knew that his only response would be murderous, and that Freyr could do worse than what he was planning.
+
+"No? Very well!" Freyr said, his voice hardening. "You chose the path of the blood-painted meadow. You wanted to be a king of murder? Very well. Your old memory shall be the memory of the steel. You, as you are, shall be the teacher of the battle-dance. Perhaps, after a long while, you shall earn your freedom. But if you should let the blade break, you will be as a hedge-spirit, subject to the _Wild Hunt_ once more."
+
+Woden stepped forward to stare into the eyes of the redcap, studying his madness like a fine painting. "Your wod is fresh, keen, and cunning. It is madness that must serve a new hand well. But, the wielder of this blade must bind with this madness in harmony." Woden traced his finger along the redcap's jaw, and whispered, "You will infuse your fly agaric into your wielder's hand. You will keep them safe by showing them the dangers in song, and in their senses." He stepped back, and looked at Freyr. "The wielder must know there is a price for this magic. They will be struck mad after the blade is put back, for a time. We will see the choice they make... to survive battle only to be driven to madness."
+
+Woden looked at Freyr. "Agreed?"
+
+"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade. Make it light and poised like the moonlit marten upon the bough!" He and Woden stepped back once more to let the forging commence.
+
+The foreman of the forge-elves, Besidius, leaned close and whispered into Freyr's ear.
+
+Besidius: "Master-of-the-Fray, do you want that extra-pointy, like the marten's teeth?"
+
+Freyr: "Of course, Besidius!"
+
+Besidius: "Done, your Fray-ship!"
+
+Freyr burst into laughter at the dreadful faux honorific.
+
+A billet of curious white steel emerged from the gloom and landed in the forge. The elves called it _welkin-iron_—sky-vault iron, the nickel-rich heart of a celestial stone that had fallen from the heavens in the deep past. It was stubborn, brittle stuff, but the Cynn had spent months and many baskets of Elswyth's coal taming it. Again and again they heated the sky-stone to a yellow-white glow, drove out its stony impurities beneath their hammers, and folded it over charcoal fires until the heavens themselves had learned the ways of steel. What remained was a dense billet of pale, nickel-rich metal whose silvery luster seemed poised to catch moonlight itself.
+
+The redcap was carried and bound by his mushroomed ropes to the bellows. More coal erupted from the floor, and crawled up the redcap's legs like black dancing ants, throwing themselves into the fire.
+
+The coal turned a violent yellow breed in the forge, causing the redcap's eyes to glow demonically with hate. The mushrooms released more poison and the cord pulled tighter. The business was close at hand now, and the redcap fought ever harder to break the seal. "No! Noo!" He gritted his teeth as his bound torso shoved against the bellows. He screamed out rhythmic curses as the invisible hammers began their frantic, chaotic dance on the anvil once more. He spat into the fire.
+
+Then he broke into song, trying to steal the voice of the forge-elves. But they countered with their own. They matched his timing perfectly, to within... a flea's leg.
+
+```
+Spotted King: Sing your songs, you stone-bound rats!
+Cynn:         We’ve split the skulls of better brats!
+Spotted King: Your little fire cannot tame—
+Cynn:         The beast that wears the bloody name!
+```
+
+They cut him off mid-breath. The temerity! The redcap slammed his weight into the handle, willingly this time, to accelerate the jaunt. He thought, "The speed is the thing! I will outwit these idiots yet!". He forced his lungs to move faster, spitting his verses like rapid hammer-blows to outpace the choir.
+
+```
+Spotted King: You wall-lice crawl inside the dead!
+Cynn:         But we know where your boots did tread!
+Spotted King: You cannot say I am soul-blight!
+Cynn:         We care not for your moral plight!
+Spotted King: I am the better of us two!
+Cynn:         It is too late, you cannot sue!
+Spotted King: The wooded realm I gave to her!
+Cynn:         But only to cut down her fur!
+```
+
+The bricks hummed back in perfect, mocking ten-part harmony. The pace of the duel accelerated, the alternating voices snapping back and forth like string-plucks on a driving mandolin, matching the frantic, chaotic clink-clink-clink of the invisible hammers on the anvil. A hundred more rounds it went. A thousand more. Nobody kept count. The redcap was now driving his bruised body full into the bellows, desperate to outpace the Cynn. At that moment, a ray of pure moonlight shone on the forge.
+
+```
+Spotted King: I have you now, the moon released!
+Cynn:         It will not help the angry beast!
+Spotted King: I know its name, to me it's sent!
+Cynn:         The light is pure, you discontent!
+Spotted King: The secret of the moon-lit coal!
+Cynn:         Is in the black stones that we stole!
+Spotted King: The coal's not mine! It must have sold!
+Cynn:         Belonged to the ten-year-old!
+Spotted King: You pinched the coal right from her pits?
+Cynn:         We knew that we would match your wits!
+Spotted King: You do not care 'bout what you stole?
+Cynn:         We pre-arranged the master-toll!
+Spotted King: You planned the trap to foil my role?
+Cynn:         We stole the fuel to trap your soul!
+Spotted King: I looked at her so killing-ly!
+Cynn:         Her family gave it willingly!
+Spotted King: So what now is your plan for me?
+Cynn:         To train the hand convincingly!
+Spotted King: My wicked style is mine alone!
+Cynn:         For standard training you'll be prone!
+Spotted King: I will not teach, I will not speak!
+Cynn:         You'll train the arm or find no creek!
+Spotted King: I crave no more the scarlet feast!
+Cynn:         The thirst in you has never ceased! 
+Spotted King: No mortal hand shall master mine!
+Cynn:         You bow beneath the hand's design!
+Spotted King: The noose is tight!
+Cynn:         It ends tonight!
+Spotted King: I'm drawn to steel!
+Cynn:         Before us kneel!
+Spotted King: My anger break!
+Cynn:         Your will we take!
+Spotted King: This steely cage...
+Cynn:         Holds all your RAGE!
+```
+
+Their voices suddenly dropped his rhythm entirely to strike a heavy, unified chord. Freyr's hands commanded the smoke, grabbing the redcap and pressing the murder-gnome ever closer to the blade. The redcap’s copper eyes widened, his breath fracturing as the invisible hammers delivered a final, devastating blow to the metal.
+
+"NOOOOOOOOOOO!" — CLANG.
+
+And into the quench it went, moving quickly this time, so as to catch the moonlight and the fury before they escaped the steel. It dropped. A tornado of green flame erupted from the vat, cut short with a sharp, violent hiss. The blade lifted and levitated. It was carried to the shadows to receive its handle and scabbard. The marten skin was folded into the scabbard, forever being the coat for the blade.
+
+---
+
+Huginn: "DUN... DUN... DUUUUUUUUUUUUUUUHHHN!"
+
+Huginn squawked, his voice cracking on the final note. He froze mid-dance, his left wing still extended toward the stars and his tail feathers flared, completely locked in place as his brother turned a cold eye toward him.
+
+Muninn: "What in the All-Father's name are you doing, brother?"
+
+Huginn: "I was dancing to the beat, and now I am playing the air-organ!"
+
+Huginn smiled, released his dance posture, and smoothed down his ruffled wing-feathers with a look of immense dignity.
+
+Huginn: "For dramatic effect. It felt like the scene needed a...  heavy chord... right there."
+
+Muninn: "That wasn't an _air organ_, or any other organ, except maybe a body part I haven't liberated yet."
+
+Huginn: "It was a metaphoooorical organ. Besides, look at the redcap below. Wait, where did he go?"
+
+Muninn: "He's screaming inside the steel now. And leave the music to the Cynn. They broke a murderer's spirit with Elswyth's prized coal, which is far more respectable than your dancing and squawking."
+
+Huginn: "Fine. But you have to admit, it DID really lift the mood."
+
+Muninn: "I doubt it. What really needs lifting are the feathers in your tail. They're molting. Tuck those feathers in, brother."
+
+---
+
+Freyr and Woden stepped forward one last time, meeting at the anvil.
+
+Woden: "For this third blade, have you considered my proposal?"
+
+Freyr: "Yes, another space in Alfheimr. This one in the likeness of a church, of _Christ_."
+
+Woden: "When the blade is drawn, the _witan sleep_ will take Cynewulf there. The ravens will also be summoned."
+
+Freyr's eyes widened and his smile blazed once more. "Ahh, the place for a witan. For a man who must *confess*. Very well, old man. I offer the church itself. I shall create a space in Alfheimr that is a church, with a vaulted stone ceiling and a thousand lit candles. And your _witan_-sleep will stop time. The wielder must be given time to search his soul. I will not allow this to be a sudden death. If he is to be judged, he must be given the silence to hear his own heart."
+
+Woden grumbled, but resigned. "Fine. He will have the time it takes for the _Wodhere_ to run him to ground—the span of a hundred heartbeats before the Hunt chases the breath from his lungs. That is all the time I am willing to give."
+
+Freyr’s smile softened, though his eyes remained fixed on the altar. "A chase, then. A trial of speed and spirit. Let it be done!"
+
+The Cynn forge-elves made a circle around the two gods, listening intently.
+
+"To summon the _Wild Hunt_ we need a part of Woden. To summon the ravens, we need a part of them."
+
+"Something small."
+
+"Something that commands."
+
+"Something that gathers."
+
+"Something that sends."
+
+"Something the ravens bring."
+
+"Something the ravens keep."
+
+"Something that returns."
+
+"Something living."
+
+"Woden's essence gathers and sends. He commands and is given respect."
+
+"His blood?"
+
+"His blood."
+
+"A drop."
+
+"One drop only."
+
+"The ravens are sent and brought."
+
+"They fly."
+
+"By the wing."
+
+"By the feather."
+
+"They bring the feather."
+
+"They keep the feather."
+
+"Except One."
+
+"Each."
+
+Woden looked at his ravens, and nodded. He lowered the blade of _Gungnir_ and used the spear's head to cut his hand. Five drops of blood landed in a waiting goblet.
+
+The ravens landed on the anvil. One feather was taken from each.
+
+Woden looked at Freyr one last time. "You will see these blades to their owners?"
+
+Freyr: "As sure as the night falls."
+
+Woden looked at Huginn and Muninn. "Come on feathers. Time to move on."
+
+
+---
+
+Huginn: "DUN...DUN.."
+
+Muninn: "For the LAST TIME! THERE. ARE. NO. ORGANS. IN. A. FORGE!!"
+
+Huginn stared blankly. This isn't the first time he's been yelled at for forgetting rules. He was eager to change the subject.
+
+Huginn: "That was a spooooky night. We didn't even chatter!"
+
+Muninn: "I was too busy staring at those awful tailfeathers."
+
+Huginn: "I was wondering what to wear to my first inquisition."
+
+Muninn: "Wear? You're a bird, Huginn! You're wearing the same thing you've been wearing since the dawn of time. Maybe try a nice twig behind the ear?"
+
+Huginn: "How about a necklace made from a raven's beak?"
+
+Muninn: "Wow that's not subtle."
+
+Huginn: "I think I spy our faces on the scabbard. I don't remember sitting for a portrait!"
+
+Muninn: "You didn't bird-brain. All-Father told them to put us there, remember? We are the inquisitors. He merely gets to listen. Those were the rules."
+
+Huginn: "I'm getting hungry. The sun is setting. Let's see if the Night of Blood has begun."
+
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+## Chapter Six: The Night of Blood
+
+The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled yet again on the North Gate road. The iron-bound wheels strained against the sucking mud, forcing pins to shear and snapping seasoned ash axles like dry twigs.
+
+Reeve Galindo, astride his horse, looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
+
+"My lord Reeve, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted blade. "The _Ulfhednar_ did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "_That - is - why - you - were - hired!_ These men will not die... we've hired you!"
+
+Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for the help, but you have to know those wolf-types are a hard lot. I'd trust the Devil to grow a halo before I trust them to keep peace."
+
+"I'll not discuss this again. Fyrd! Gather round!"
+
+The fyrdmen clustered around his horse.
+
+"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You... and you... gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
+
+He looked down at the mud.
+
+The fyrd sprang into motion. Grain sacks disappeared onto shoulders, ropes were slipped over wrists, and protesting goats were tugged free of the wagons. Murdock waded into the confusion, barking orders as he struggled to impose some measure of order upon the chaos.
+
+"Murdock!"
+
+The baggage master looked up.
+
+"Catch up if you can. With the lighter load, Dere Street should bring you to us before we reach home."
+
+Galindo turned his horse’s head, tapped his southern stirrups, and led the main body of the fyrd away into the gathering dusk. That left a sparse, hollow rearguard to manage the struggle: Murdock, Cynewulf's small band, Osric and three fellow fyrd-thralls, Elswyth, and six weary fyrdmen serving as cart-drivers with shields no longer fit for the shieldwall. In this fyrd, a neglected shield earned a man the indignity of carrying the baggage of others.
+
+"Well, isn't that a proper horse's ass," Murdock snorted. It wasn't clear if he meant Galindo, or the clean backside of Galindo's horse. "Can't possibly dirty his boots in this mess, can he?... Alright, back to work!"
+
+Osric dropped a heavy, splintered piece of ash into the slush, his hands shaking from numbing cold and hunger. He wiped the cold sweat from his brow and looked at Murdock. "The spares are spent, master," Osric reported, his voice flat with exhaustion. "We are out of axles. The last seasoned axle snapped when the left cart took the ditch. "
+
+Murdock side-stared Elswyth, knowing that his full glare was a snare only for stronger animals. "You know the darkwood well enough for axle-timber I take it?" he asked, his voice treading lightly. She nodded. "I can find it in the moonlight."
+
+Murdock raised an eyebrow. "Aye, but you think you're going to carry that back here by yourself through the mud? You think any of these men are going to follow you into the Charnwood at night? Bravery doesn't grow on these trees, lass."
+
+Osric smiled, if only for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light." The sun hung low in the sky. One hour. Just one hour without crawling through the filth—that was all Osric wanted.
+
+"First light? By the blood of the saints, man, if we bide our time here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon master did not waste time weeping or wanting.
+
+He stepped into the center of the stalled host, his voice cracking like a whip. "Move the healthy beasts! Unhitch the rear carts and wheel them broadside! I want a circle of oak and leather before the sky turns black!" Murdock took charge with a feral, driving energy, dragging everyone into the toil.
+
+Murdock saw a corner where two walls met. "Anchor the circle there. Leave a gap no more than a man at the corner."
+
+The one-eyed archer raised his hand. "I think I know the answer, but why build a wall with a hole?"
+
+Murdock briefly looked up. "In case one of the oxen suddenly decides he's the _King of Mercia_!"
+
+"But why a small hole."
+
+"We wouldn't want the _King_ to think we've opened the castle gate just for him, now do we?"
+
+The men grappled the heavy baggage boxes, stacking them beneath the wagon beds to block the gaps. Osric and Cynewulf worked side by side, their movements heavy and full of unspoken dread. They both knew the truth of the night. A cart-fort was a fine thing against common highwaymen, but _Ulfhednar_ are hunters of better craft.
+
+Elswyth slipped over the tailgate of one of the carts and huddled beneath a heavy wool blanket against the wagon wall near the corner gap. She kept to herself, though the others were only a few paces away.
+
+Night descended like a heavy iron lid. Murdock set the watches, three at a time. There was no dry wood for a fire. They ate their rations wet and cold beneath the pale glow of a single lantern hanging from the roadward wagon. The world went dead, horribly quiet. A thick fog settled in.
+
+Out in the dark, fifteen pairs of copper-bright eyes quietly approached the train from further down the road. Wulfhere the Broad raised his hand. Beside him, the seven-foot giant, Rognvaldr, grinned, his armor of stolen mail-scraps clinking softly like a heavy shroud.
+
+"The Spaniard has left the bones for us," Rognvaldr whispered. His eyes were wilding, as if the frenzy of Odin was his alone. He threatened to rush in, but Wulfhere raised his hand in a fist, then slowly opened his palm flat down. "The bones have meat on them," Wulfhere countered softly. "But the wolf does not leap the fence while the sheep are watching. Break the beasts first. Gather stones."
+
+The _Ulfhednar_ did not charge with steel. Instead, half their number foraged in the dark, looking for the soft white of stone peering up from their muddy beds. They returned and distributed the stones, held by folding their cloak as a makeshift bag. With precise, rhythmic cruelty, they began pelting the tethered oxen inside the cart-fort. The heavy stones rained down out of the fog, striking the beasts on their flanks and horns. The oxen, already maddened by hunger and the smell of wolf-grease on the wind, began to panic. They thrashed against their leather yokes, bellowing their angst.
+
+The ox furthest to the rear, a boulder of muscle, snapped its yoke, throwing its full weight against oxen in front of it. The others careened, their eyes as wide as the moon above. The wagon-fort buckled. With a splintering crash, the panicked ox spurred the rest. They broke through, tearing open a massive, jagged hole in the wagon's defense. Cries from the guards to the oxen to stop were ignored. "The wall is broken!" a fyrdman screamed, his voice cut short as a heavy stone caught him across the jaw.
+
+The oxen cleared the gap, trampling down the road into the town, and before the ragged crew could drag a box into the breach, the _Ulfhednar_ charged. They came out of the fog like a wave of screaming fur, their faces painted with old ash, their voices rising into a guttural howl that turned the blood to ice.
+
+Those few who had managed to fall asleep awakened instantly, their hands finding shields and spears merely inches away. Bleary-eyed, they hastily formed a wall, their backs to the open corner a few feet away.
+
+The wolf-men crashed into the forming shieldwall. Two fyrdmen flew backwards, their backs landing in the mud. One had an axe embedded in his shoulder. A spear caught one of the Vikings in the ribs, bringing him to his knees. One of the Saxon brothers took a javelin to his shield, the head driving deep into his forearm. The shieldwall bent but did not break, boots carving furrows through the mud as the _Ulfhednar_ drove it back.
+
+Cynewulf stood at the rear, having no shield, his rusty langseax gripped tight in his hand. He braced his other hand against the fyrdman in front of him. "Hold, men!" he screamed. He knew the next moments were crucial.
+
+The one-eyed archer scrambled to the top of one of the carts near the corner. He loosed an arrow that pierced Wulfhere's shield. Murdock arose from another wagon flanking the charge, the _thwack_ of his crossbow echoing off the carts and walls. A bolt found a wolf-man in the ribs, and he fell.
+
+Osric stood in the wall, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole spear, but it didn't last long. A broad-axe bit into the pole. The ash shaft sheared in two with a single, mocking crack. Osric dropped the useless shaft and leaned his full weight into his shield, bracing its back with his free hand.
+
+For a few heartbeats neither side gave ground. Another arrow flew by Wulfhere's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Rognvaldr, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
+
+Wulfhere seized his moment. A smile crept across his face. "Pull!"
+
+The _Ulfhednar_ gave two quick steps backward. As they withdrew, the hooked beards of their axes caught shield-rims, wrenching them down. The Saxons, leaning with all their weight into the pressure, stumbled after them.
+
+Two fyrdmen pitched face-first into the mud.
+
+The wolves were upon them before either could rise.
+
+Axes rose.
+
+Axes fell.
+
+The screams lasted only a heartbeat.
+
+One of the Saxon brothers lurched a pace too far. A waiting seax slid beneath his shield and buried itself in his belly. He gasped, folded around the blade, and disappeared beneath a knot of snarling wolfskins.
+
+The shieldwall dissolved.
+
+Not all at once.
+
+One shield turned.
+
+Another man stepped back.
+
+Someone screamed to close the gap.
+
+Then every fight became its own.
+
+Cynewulf surged through the opening with his rusty langseax, driving it toward the nearest wolf. Steel met iron. His old blade snapped clean across the middle.
+
+For an instant he stared at the broken stump still clutched in his hand.
+
+Then he threw himself bodily into the wolf instead, tackling him. The Viking released his shield, and gripped the butt of his axe blade with his free hand, guiding it towards Cynewulf's throat. Cynewulf raised his forearm just under the axe blade, fending it off long enough for him to find the Viking's own seax handle on his belt. He drew the small blade and drove it under the armpit and into his lung.
+
+Across the fort, Murdock let the empty crossbow fall. His targe found his left arm, his hand-axe his right. Without hesitation he vaulted from the wagon and disappeared into the melee with a roar more fitting for a teamster defending his life's work than a warrior seeking glory.
+
+Elswyth never waited.
+
+She flung her heavy wool blanket into the face of the nearest wolf-man. The thick folds wrapped around his head and shoulders. Cursing, he clawed blindly at the wool.
+
+She was already running.
+
+Osric did not lunge after the retreat.
+
+His broken burn-pole lay forgotten in the mud. Empty-handed now, he remained where the second rank had been, watching men he had marched beside vanish beneath axes and seaxes.
+
+The one-eyed archer loosed one final arrow into the confusion.
+
+But the melee became too chaotic to risk another arrow.
+
+The fight had swallowed the wagons.
+
+He dropped the bow.
+
+Tor took one sweeping look across the collapsing line—the dead fyrdmen, Cynewulf wrestling in the mud, wolves pouring through the breach, Elswyth already fleeing toward the ruins.
+
+His voice cut through the chaos.
+
+"Retreat! Break away! Save who you can!"
+
+Cynewulf rolled away, leaving the seax buried in the dying Viking. He scrambled beneath the nearest wagon. Shoving a baggage chest aside, he crawled through and emerged on the far side.
+
+Elswyth jumped off the wagon and ran.
+
+Osric, heeding Tor's words, dropped the wreck of his training shield to fit through the corner gap. Ahead of him, the wet slap of fleeing feet told him the fyrd-thralls had already reached Murdock's gap.
+
+Elswyth caught Wulfhere's eye, as her shadowed profile jumped into the dark.
+
+"That girl is worth more silver than the others. You two, with me!" He and two wolf-men broke from the pack and gave chase.
+
+Rognvaldr saw Cynewulf roll under the wagon. A predatory smile grew over his face as he stepped back through the breach. He followed.
+
+Three more Vikings noticed Osric fleeing through the gap at the rear. They squeezed through after him.
+
+The remaining Vikings faced off with the remainder of the rearguard. Behind them, the clash of steel and the screams of dying men slowly faded into the night.
+
+The other thralls disappeared into the night. But Osric, Elswyth, and Cynewulf ran south to the North Gate, praying it was still open.
+
+It was. In all the chaos of the day, the guards had decided that if the Saxons wanted to leave, it was best not to stop them with a closed gate.
+
+They sprinted past the gate. Behind them, the wolf-men were chasing.
+
+Cynewulf made for the Church front door. He was hoping there might be a few armed souls in the nave that might help a Saxon.
+
+Osric made for the right side of the bathhouse, and Elswyth split to the left. Each decided that the ruins might provide cover.
+
+Osric heard... A child's giggle. High and playful, it called from a sparse hedge to his left. "Quickly! Here!" He followed the voice before he knew he had. The hedge was covering a hole four feet in diameter. A pair of hands shoved him from behind, and he fell into the hole. Osric slid face-first down a chute, landing in a pile of charcoal. He looked up to find a large forge built into the bathhouse central hypocaust. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze cast a heavy, flickering orange light. The new light illuminated the outline of an anvil.
+
+In front of the anvil stood a medium wooden chest, its lid graced by an iron emblem of an oak tree sprouting from a broken anvil with hammers crossed.
+
+Leaning against the chest rested a broad round shield. Its boss was crowned by a rounded dome, with stout ribs radiating toward the rim. The thick wooden boards had been richly waxed, while the iron rim was hollowed and wrought into the likeness of the willows of the hedge. On the boards was the painting of a small oak tree sprouting from a broken anvil, with hammers crossed at the anvil's feet.
+
+On the anvil lay a weathered black scabbard holding a heavy farmer's long-handled broadseax, its handle blackened and inlaid with a seam of glassy jet. It was _Barrow's Edge, the Hedge-Stalker_.
+
+Elswyth knew she was no warrior. She didn't even bother with her small mushroom handseax, and the felling axe had been left on the wagon. She sprinted toward the former entrance to the bathhouse, now just an arched ruin.
+
+As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path took her to the Roman cistern and bath-house. A giggling child voice called to her, "Down! Here!". She stopped in bewilderment, if but for a brief second. The voice was coming from a rain gutter, wide enough for a person, that disappeared into the ruin below. She peered inside, looking for a place to hide.
+
+Suddenly a pair of hands pushed her in the back. Her hands found the slime of the algae, and she slid helplessly down a smooth, stone chute until she landed with a heavy splash in the ancient moonlit pool, the cold of the water a poorly-held secret that screamed at her body. It was a vast, underground chamber filled with rainwater up to her hips. It was the _frigidarium_, the cold refreshing pool of the otherwise hot Roman bathhouse. Beyond the pool, steps rose to meet the broken tile and benches of the pool's gathering area.
+
+She waded through the near-freezing water, each splash stealing air from her lungs. 
+
+The ceiling was collapsed in parts, and the night sky was visible. The floor of the bathhouse was cracked marble tile, built on moist clay.
+
+Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. On the bench was a long narrow coffer of wood, its top had an iron symbol: an oak tree sprouting from an anvil, hammers crossed.  On top of the coffer lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
+
+She heard the footsteps of Vikings around the rainwater chute above, and they could see her track ended there. They were determined to follow her into the dark.
+
+Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Rognvaldr caught Cynewulf's silhouette against the moonlit path. His grin widened. He quickened his pace.
+
+Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast — the church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
+
+There, lying across the cold stone, Cynewulf found a large flat-topped chest of wood and iron, the lid carrying the iron badge of the Cynn: a young oak sprouting from a broken anvil with two crossed hammers at the foot. 
+
+Leaning on the chest was a compact round shield, perhaps a hand's-width wider than the _tarians_ of the _Dragon's Teeth_. The core was a union of hornbeam and linden. The face and rim were covered with thick waxed cuir bouilli. The boiled leather had been painted in alternating quarters of green and brown on the face. In the center, a round steel boss gleamed, punched with a foundry mark of a small oak sprouting from a broken anvil, with crossed hammers below. 
+
+Across the top rested a black leather scabbard embossed with two ragged ravens, ancient runes, and the endless knot of two wolves forever chasing one another. The blade's handle was long, easily enough for two hands, but still practical for one. Its handle was wound in darkened steel wire, the coils sealed beneath a charcoal-black resin until metal and ash had become one. At either end, stout Turk's head knots gripped the wrap like the bindings of an old mariner's rope. Within slept _Wodbora, the Madness-Bringer, the Prophet of the Wodhere_.
+
+The giant Rognvaldr slowly climbed the steps into the churchyard. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
+
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+## Chapter Seven: Barrow's Edge, The Hedge-Stalker
+
+The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the glow of slowly burning charcoal, hot enough to warm the space. The glow bathed the room in a heavy, flickering orange light, casting long, monstrous shadows behind the columns.
+
+His fingers, cracked and raw from digging axles from mud, clutched nothing. The char-stick and training shield were long gone. Outside, three veteran _Ulfhednar_ gathered around the chute opening, their whispers echoing into the forge chamber. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.
+
+Each landed on the charcoal pile. Each stood to face Osric.
+
+Their hand-axes glinted with a dull, murderous light. Osric’s heart hammered against his hollowed ribs. He was starving, shivering from the lingering rot of the goblin-sickness, and the exhaustion of wrestling axles from the mud. He wanted to lie down in the dirt. He wanted the cold night to finally take him so he could join Ealhild and the children in the soft snow.
+
+Then, the forge erupted in a yellow angry heat. The new light illuminated the outline of an anvil, atop it a simple hearth broadseax in a stout iron-bound scabbard with no adornment. As plain as it appeared, this was no mere kitchen-blade... this kind was familiar, two-handed, thick, useful. His father used one instead of the axe, for felling wood-limbs and performing the fall butchery.
+
+The broadseax called to him... not literally, but he *knew* it, as if it hung from his father's belt when he was just a child. His hand closed around the hilt of _Barrow's Edge_.
+
+It felt *known*. *Welcomed*.
+
+Osric pulled _Barrow's Edge_ from the scabbard, and Ealhild's voice whispered in his ear, clear as day. "Say the spell... _mēt sceadu-heorþ_" (_Meet the shadow-hearth_). He knew the words, but he didn't know exactly what they meant. He knew and trusted that voice, more than any other, and that's all that mattered.
+
+"_Mēt sceadu-heorþ!_"
+
+Time froze.
+
+The world went black, but only for a moment. His eyes closed.
+
+What came next was impossible.
+
+He heard the sound of his children playing on the floor, and the soft bubbling of a pot. He smelled Ealhild's summer fruit preserves cooking over the fire. He felt the warmth of the hearth. Before he even opened his eyes, he knew.
+
+He was home.
+
+He heard the all-too-familiar huff of Ealhild in front of him, the sound of a slightly impatient wife whose husband had drifted into his own thoughts again.
+
+"Well, Osric? If I put this to your lips, I might get swatted! Open your eyes. I need you to taste the gooseberry preserves."
+
+He opened his eyes.
+
+Ealhild stood before him, as she had so many times before, demanding he taste one of her latest creations. A wooden spoon held a taste of fruited syrup.
+
+"I used the last of old Thorvald's honey from last summer. When you see him again, tell him to move his bees to the clover on the north hillside. This jar was good, but I _really_ liked the honey from two summers ago." The rhythm of her voice softened his mind every time he heard it.
+
+He blinked.
+
+"Oh, Osric... _þú gamli bjáni_... you look like a draugr. Sit down before you fall down."
+
+She slid the stool across the floor with her foot and gently pressed him onto it. He dropped onto the seat without resistance.
+
+"Have I chicken eggs for eyes, Osric? Stop staring and open!"
+
+"But..."
+
+Ealhild put on her best imitation of Osric. "'_My stomach hurts._' '_I'm full._' '_Let the children taste instead._' There. I've saved you the trouble. If I wanted _their_ opinion, they'd know it."
+
+She tapped his chin.
+
+He opened his mouth. He closed his lips around the wooden spoon, enough to taste the syrup. The sharpness of the gooseberries and honey had been rounded somehow, leaving a faint sweetness he couldn't quite place.
+
+Ealhild smiled expectantly. "Now, what did I add? You have to guess."
+
+He knew he _should_ know. Ealhild had played this game a hundred times before. But his thoughts refused to leave her face.
+
+"Raspberries! I found some when Eaxl and I went for a stroll. Oh, if you find a seed, save it! They're going in the garden."
+
+Osric looked around the room.
+
+He saw Eaxl playing with her wooden toy, a model of Gullinbursti the Boar. She smiled up at him and aimed the little boar in his direction.
+
+"Stand back, troll! I am the King of the Butter! My golden bristles make the butter yellow, and I won't let you sour our cream!"
+
+She laughed, trotting the toy across the floor before sending it flying through the air.
+
+She then frowned.
+
+"What's the matter, Eaxl." Ealhild bent over Eaxl.
+
+"My bristles... they're gone." Eaxl pointed to Gullinbursti's snout. There were small holes, but no brass wire.
+
+"I will cut your boar new bristles, and that will make him fly again!" Ealhild laughed and tickled Eaxl, and the girl laughed once more.
+
+Osric was confused. "When did she get brass for her toy?"
+
+Ealhild smiled at Osric. "When you were training with the fyrd, my love. I shaved some from an old brooch."
+
+Her older brother, Beorn, was whittling a new button from a piece of soft wood. He looked up and smiled without saying a word.
+
+Mathild, the next oldest, was cleaning pots. She looked in turn and smiled, without saying a word.
+
+Finally there was the eldest... Ingvarr, named after one of Ealhild's ancestors, sat in the corner sharpening a broad warseax. He was on his knees, the weight of the blade forcing Ingvarr to hold the blade with both hands. He methodically slid the edge on the large whetstone on the ground.
+
+Whhhiiiitt... Whhhiiiitt.
+
+He looked up from the blade and gave a small smile, then turned his attention back to the broadseax. He spit on the whetstone.
+
+Whhhiiiitt... Whhhiiiitt.
+
+Osric turned to Ealhild. "When did you let Ingvarr start sharpening my father's warseax?"
+
+"Oh, _now_ we're worried about your father's warseax. I think you _should_ be worried about harvest. Are the stalks still standing? Have you seen any weeds sprouting? You know how I feel about weeds."
+
+"I... hadn't noticed. Ealhild, listen to me... I wasn't... here... a moment ago."
+
+"Yes, I could tell." Ealhild tapped the side of his head. "You wandered off again. You keep escaping into your thoughts when you should be here talking to me about the barley."
+
+"No, I mean... I was about to die."
+
+"You don't say." Her voice trailed off as she crossed to the door and peered through the crack. "Those weeds again."
+
+She sighed.
+
+"Yes. Three of them, standing right by the hedge."
+
+Osric stood. "I need to leave. You... the children... whatever is happening here... you're all in danger."
+
+Ealhild laughed hysterically.
+
+"I mean it, Ealhild. I... you must be protected."
+
+"FROM WEEDS?" Ealhild could barely contain herself.
+
+Whhhiiiitt... the sharpening stopped.
+
+The children looked up, amused.
+
+Ealhild grabbed Osric by the shoulders. "Are you really so concerned about the weeds? Well then, we have a chore. Sit down Osric, the children can handle this."
+
+"No! You can't send them out there!" Osric protested.
+
+Ealhild put her finger over his lips.
+
+"Ingvarr, take the children outside and cut the weeds down. While you're there, please stack the wood and remove the twigs. Show your father that weeds don't concern us."
+
+Ealhild turned to Osric. "There, see? Just rest. You've had a busy day."
+
+Ingvarr arose from the corner, laying the whetstone on the sill.
+
+He ushered the children out the door while staring at Osric.
+
+A smile crept across is face. "I pull the weeds at the hedgerow. The children are the fence."
+
+He turned to Ealhild. "Isn't that right _mother_?"
+
+Ealhild kissed him on the forehead. "Yes, of course. Go on. Let's not keep your father waiting."
+
+It was then Osric noticed... the warseax wasn't his father's.
+
+It was _Barrow's Edge_.
+
+Osric turned to Ealhild. "And... since when have you stopped calling him Ingi? You haven't called him _Ingvarr_ since he stopped nursing."
+
+Ealhild smiled and turned to Osric.
+
+"He's a growing boy, Osric. One day, he'll run this farm. We can't go calling him _Ingi_ forever."
+
+She stared out the door crack at the children in the yard.
+
+"How could the fyrd take him seriously... if his mother... called him that?"
+
+She closed the door.
+
+"Now, isn't it time for mutton?"
+
+The candle on the table lit suddenly, and the smell of fresh mutton suddenly filled the air. He saw a chunk of mutton roasting on a spit in the hearth.
+
+"There, you see? Mathild fetched it while you weren't looking. She knows that's your favorite."
+
+She pinched the edge of the mutton, and it left a touch of grease on her finger. "Here... taste." She put her finger next to Osric's lips. "Let's see if she salted it... perfectly."
+
+Osric tasted it. The taste of the salt-pan dominated the flavor.
+
+"It's fine. A bit salty."
+
+She stared at her finger. "A bit too salty..." she quietly said to herself.
+
+"Let's drive that hunger out of your bones." She fetched the spit off the fire.
+
+He turned toward the table.
+
+A wooden trencher sat waiting for him.
+
+He was almost certain the table had been empty a moment ago.
+
+He reached for the seax at his belt to carve the meat, but it was missing.
+
+"Love, did you forget something?" Ealhild was standing beside him, his seax in her hand. "When you loan Beorn your seax for whittling, you must ask for it back."
+
+He took it from her hand. He remembered everything about that knife. But there was something missing.
+
+He turned it over in his hands.
+
+One week previous, he had dug a stubborn nail out of the byre's door with this knife. It left a long scratch down the spine.
+
+The scratch was gone.
+
+Osric looked at _everything_. "What is happening?"
+
+The door swung open. It was Ingvarr and the other children.
+
+Ingvarr smiled at his father, and laid _Barrow's Edge_ on the table. "The weeds have been cut down. The wood's been stacked, and Eaxl even removed the twigs. The seax needs sharpening again, _Father_. I'll get to that tomorrow."
+
+Ealhild stepped in behind Ingvarr and gave the boy a hug from behind, and a kiss on the back of his head. "Isn't he the sweetest boy? The fyrd will be proud of him one day. Now, go help Mathild. The fish need scaling, and you're best with the knife."
+
+Ingvarr turned to the hearth and slowly walked away.
+
+Osric looked straight into Ealhild's eyes. "Sit down, we need to talk."
+
+Ealhild still stood, but she bent over to put her face opposite Osric's. She smiled once again.
+
+"I think maybe you've had enough for one day."
+
+She slowly leaned in for a kiss.
+
+Then she turned her head.
+
+She blew out the candle.
+
+Darkness.
+
+His world crashed onto the brick of the forge.
+
+His heart lurched, as though struck awake by a smith's hammer. Spring ice-melt coursed through his veins.
+
+He gasped.
+
+His body shook with impossible cold. He clenched his teeth to prevent them from shattering.
+
+He opened his eyes.
+
+The _Barrow's Edge_ blade lay on the ground before him, resting quietly in its scabbard. His last memory of the forge was the weight of it in his hand.
+
+The orange light of the forge still danced as shadows on the forge walls. But his skin was as grey as the dead.
+
+He crawled to the forge wall, and lifted himself up. The wave of heat from the forge was exquisite.
+
+He crawled onto the wall, dangerously close to the fire. He laid, shivering, absorbing the warmth.
+
+And then he remembered the Vikings.
+
+His eyes darted around the room.
+
+In the corner, he saw three dead men.
+
+Only.
+
+They had no headgear.
+
+No armor.
+
+No belts.
+
+No boots.
+
+And they were stacked on top of each other.
+
+Their gear had been sorted into tidy piles beside the wall.
+
+Three wolf headdresses.
+
+Three sets of fur armor.
+
+Three spears. Three axes. Three shields.
+
+Even their coins had been stacked neatly beside three empty purses.
+
+He gasped once again for air. His lungs felt like they too had been plunged into an icy river.
+
+"So..." He swallowed. "you followed me... here?"
+
+He looked around once more.
+
+"Not content... with building... bathhouses... for cattle?"
+
+There was no answer.
+
+"Back to being mad."
+
+He giggled and coughed next to the flame. The _flame_? "Why is there... a fire in an abandoned... forge? Oh right... I'm asking the... fire-breathing... dragon... that... tried to fatten me up. Huh. Huh."
+
+Osric would remember none of what actually happened.
+
+The farmer had stepped into his old hearth, a glamour held in _Alfheimr_ by Ingrid, the nisse.
+
+Osric's body remained motionless...
+
+Until...
+
+Ingvarr and his fellow children crossed the cottage threshold into the yard.
+
+Only then did they take up the mantle of the _Hedge-Stalker_ and the _Shadow Fyrd_.
+
+Ingvarr, now bearing Osric's body, stood emotionless as the three Vikings closed in. His eyes were as grey as stone. The body stood firm, as though it had no memory of hours spent wrestling axles in the mud.
+
+His _brother_ and _sisters_ were the _Shadow Fyrd_, circling him ominously as absences of light and form, ready to help their brother perform _the daily chores of bloody carnage._
+
+Ingvarr reached down without looking and claimed the new shield at the base of the anvil.
+
+Ingvarr held his shield forward, his eyes peering over the rim, _Barrow's Edge_ poised behind him to strike. A slow smile crept across his stony face.
+
+The first wolf-man lunged with a roar, his axe sweeping low toward Ingvarr's knee. Ingvarr did not retreat. The instant the blow committed, one of the _Shadow Fyrd_ slipped soundlessly behind the Viking. The warrior's heel found no earth where he expected it. His footing vanished beneath him, his weight carried him forward, and the axe bit harmlessly into the tile. _Barrow's Edge_ answered with a single downward stroke through the exposed neck. Before the body had finished falling, Ingvarr had already turned away.
+
+The remaining two split apart, one circling left with spear in hand while the other rushed behind his companion with shield raised high. They had hunted shield-walls before. They knew how to overwhelm a lone defender. What they did not know was that every shadow around them had hands.
+
+The spearman thrust. A shadow's unseen fingers caught the haft just long enough to drag its point aside. The spear glanced across the shield instead of piercing beneath it. Ingvarr stepped inside the reach without haste. _Barrow's Edge_ flashed once beneath the shield-rim, opening the man's thigh to the bone. As he stumbled, another absence of light hooked behind his other leg. The Viking collapsed heavily onto his back. Ingvarr drove the blade through his chest as calmly as a farmer setting a fence-post.
+
+The last wolf-man hesitated. _This fyrdman is not as he appears_.
+
+He stood back, waiting for Ingvarr to commit. He felt a hand tug at his cloak, pulling him backward. He stepped back and shook his cloak.
+
+Another hand tugged his shield to the side, opening his ribs. Ingvarr thrust, but the Viking stepped to the side, dodging the blow.
+
+A pair of hands found his back foot and held it in place.
+
+The wolf-man's eyes grew wide. A shadow passed before his face. Where there was light, only darkness. The wolf-man screamed, as invisible fingers dug into his eyes. He dropped his shield to claw at his own face.
+
+The scream lasted only as long as the final thrust from _Barrow's Edge_ into his chest.
+
+Silence returned to the forge.
+
+Ingvarr regarded the three bodies for a long moment, his grey eyes as unreadable as weathered granite. There was still work to be done.
+
+The _Shadow Fyrd_ moved at once.
+
+Axes were lifted from limp hands. Shields were stacked together. Spears were laid in a neat row against the wall. Wolf-headdresses were folded beside their owners' fur armor. Knives, belts, boots, purses, and every loose coin were gathered without a word. One by one, the dead were stripped, lifted, and laid atop each other with the same care a family might stack cordwood before winter. Every tool had been sorted, every coin counted, every body accounted for.
+
+The forge was cold. That, too, required tending. Ingvarr pointed to the charcoal and the bellows.
+
+Two of the children lifted fresh coal into the fire. The other pressed the bellows to breathe more life into the blaze. The old forge breathed hot yet again. Warmth slowly filled the room.
+
+Only then did Ingvarr return _Barrow's Edge_ to its scabbard. The household's bloodiest chore had been finished. All that remained was to wait for their master to wake.
+
+Ingvarr crossed the threshold of the cottage once more, surrendering Osric's body to await its rightful master.
+
+---
+
+Huginn: "Now children... do _NOT_ try this at home."
+
+Muninn: "The _Shadow Fyrd_ are professionals."
+
+Huginn: "That's right. Seasoned housecleaning professionals."
+
+Muninn: "But, _DO_ help your parents with chores."
+
+Huginn: "Yes, still help them with _real_ yardwork. Not anything involving _blood_..."
+
+Muninn: "... or _viscera_ ..."
+
+Huginn: "... or _fire-building_ ..."
+
+Muninn: "... or _stripping dead bodies_ ... "
+
+Huginn: "... and if they ask you to cut the weeds, please ensure they are _VERY SPECIFIC_ about what they want cut down."
+
+Muninn: "I think they get the picture."
+
+Huginn: "And _I think_ our lawyers are going to need a bonus."
+
+---
+
+Once his body had forgotten how cold it had been, Osric fell into a deep sleep.
+
+He awoke to a dark room. The only light came from the soft glow of a few remaining coals. His chest was frightfully sore. He staggered to his feet.
+
+He loaded the forge with fresh coal, and operated the bellows. It was all he could do to see again.
+
+Osric saw the same scene as before. It was twice as horrible as he remembered.
+
+His eyes fell upon the chest by the anvil, still waiting to be opened.
+
+Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length stiff waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay a shoulder-sling of rawhide with four steel-tipped javelins.
+
+Behind the chest lay a long linen sheet pulled about a pole. He pulled the pole from the sheet... It was his father's boar-spear, its reforged socket fitted to a new shaft of stout oak. The flanks and edge of the broad spearhead gleamed with fresh polish. Woven leather wrapped the haft where the hands would grip it, and an iron shoe protected the butt.
+
+He looked around once more.
+
+"So now the fire-breathing dragon... the king of the straw-daub... the master of cow spas... wants to give me a fighting chance, is it?"
+
+He marveled at the craft of the equipment.
+
+He picked up the spangenhelm.
+
+"Well, it's either this or a wolf's head. I rather prefer how I'd look in this."
 
 [↑ Back to Table of Contents](#table-of-contents)
 
