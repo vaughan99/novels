@@ -6,7 +6,7 @@
   "description": "Novel compiler for Obsidian manuscripts.",
   "scripts": {
     "build": "node compiler/src/build.mjs",
-    "build-cynn": "npm run build -- \"The Cynn - Strangers To Wyrd\" && npm run split-md -- \"./build/The Cynn - Strangers To Wyrd/novel.md\" 4",
+    "build-cynn": "npm run build -- \"The Cynn - Strangers To Wyrd\" && npm run split-md -- \"./build/The Cynn - Strangers To Wyrd/novel.md\" 3",
     "build-all": "npm run clean && npm run build-cynn && npm run generate-novel-index",
     "build-and-deploy": "npm run build-all && npm run deploy",
     "clean": "rm -fr ./build/*",

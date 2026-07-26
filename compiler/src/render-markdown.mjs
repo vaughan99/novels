@@ -13,7 +13,7 @@ export async function renderMarkdown(manuscript, buildDir) {
     // Add a TOC to the Markdown file.
     const toc = generateTOC(manuscript, {
         minLevel: 2,
-        maxLevel: 4,
+        maxLevel: 3,
     });
     let manuscriptWithTOC = insertTOC(manuscript, toc);
     manuscriptWithTOC = addBackToTOCLinks(manuscriptWithTOC);
