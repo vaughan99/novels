@@ -134,7 +134,7 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 
 "It all started at the end of the Siege of Leicester, 943 _Anno Domini_, in eastern England. I believe it was... the rains of spring.".
 
-"It was April 20th," Muninn interrupted. "And it was morning."
+"It was Saturday, March 25th," Muninn interrupted. "And it was the morning of Easter Eve."
 
 
 [↑ Back to Table of Contents](#table-of-contents)
@@ -1931,7 +1931,7 @@ On the first anniversary of the night of the wolves, Fussleton led her back to t
 
 The gnome had taught her everything he thought she needed to survive as a child on the edge of the Charnwood. He taught her the secrets of the forest larder. He taught her the power of the moon, and its effect on wood and beasts. He taught her where the absolute best wood lived, and how to harvest it wisely. He taught her music, dancing, and even how to smoke a pipe. She was ready to live on her own.
 
-"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-five moons—twelve moons for your training, and one hundred and thirteen for the beats your brave little heart outran the wolf. I will check on you, Meadow-Bud. I will make sure you are safe."
+"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-four moons—twelve moons for your training, and one hundred and twelve for the beats your brave little heart outran the wolf. I will check on you, Meadow-Bud. I will make sure you are safe."
 
 "My heartbeat? How do you..." Elswyth stammered.
 
@@ -2039,7 +2039,7 @@ She finally looked at Elswyth.
 
 "Can you believe what some children will put up there? Last week there was a clump of manure."
 
-She giggled. Then she stared directly into Elsywth's eyes.
+She giggled. Then she stared directly into Elswyth's eyes.
 
 "They'll recognize you. And I can't sell it for you. So you either need a new face, or someone you trust to handle the silver. I have a cowl you can use until next winter. Keep your face in its shadow and hide your hair. Pretend to be a mute, and you should be fine."
 
@@ -5898,7 +5898,7 @@ Miss the belly, cup the meat!
 Lean it back on your heel feet!"
 ```
 
-The hand-axe whistled toward her midsection, a heavy, cleaving arc meant to open her up. Instead of raising Mōnanlīeht to block, Elsywth simply hollowed her core. She cupped her hands over her stomach to pull her flesh away from the steel, her voice carrying the redcap's rhythm, as the axe shaved the air inches from her shirt.
+The hand-axe whistled toward her midsection, a heavy, cleaving arc meant to open her up. Instead of raising Mōnanlīeht to block, Elswyth simply hollowed her core. She cupped her hands over her stomach to pull her flesh away from the steel, her voice carrying the redcap's rhythm, as the axe shaved the air inches from her shirt.
 
 Realizing his caution was getting him mocked, the seasoned Ulfhednar went full on attack. He abandoned his patient defense, unleashing a measured, blinding storm of steel and seasoned shield-craft. Every strike was dodged. As the hand-axe hacked left in a brutal opening strike, the iron in her mind buzzed a split second before the steel arrived, forcing her to duck her head.
 
@@ -5939,42 +5939,42 @@ Plunge the iron through the shoe,
 Pin him down and drive it through.
 ```
 
-With a single, explosive downward plunge, Elsywth drove Mōnanlīeht straight through the top of his planted foot, burying the silver steel deep into the earth beneath him. The Ulfhednar shrieked, pinned like a beetle to a forest floor. Elsywth tugged at the hilt, but the steel was wedged fast in the clay. She lacked the raw muscle to wrench the weapon free. Her hands snapped away from the leather handle, but the weapon did not go silent. Even disconnected from her flesh, the blade whispered its next dark instruction, offering a cruel solution to her lack of strength:
+With a single, explosive downward plunge, Elswyth drove Mōnanlīeht straight through the top of his planted foot, burying the silver steel deep into the earth beneath him. The Ulfhednar shrieked, pinned like a beetle to a forest floor. Elswyth tugged at the hilt, but the steel was wedged fast in the clay. She lacked the raw muscle to wrench the weapon free. Her hands snapped away from the leather handle, but the weapon did not go silent. Even disconnected from her flesh, the blade whispered its next dark instruction, offering a cruel solution to her lack of strength:
 
 ```
 Pull the wolf down by the snout,
 Put his heavy vision out.
 ```
 
-Instantly catching the rhythm, Elsywth lunged upward. She grabbed the thick fur of the wolf headdress draping over his spangenhelm and dragged the heavy pelt over his face, blinding him in darkness beneath the coarse gray hide. Even blinded, the veteran's professional discipline held. He unleashed a fierce, sweeping horizontal swing with his hand-axe to carve out a protective circle of space. The blade screamed into her mind to dodge the blind steel:
+Instantly catching the rhythm, Elswyth lunged upward. She grabbed the thick fur of the wolf headdress draping over his spangenhelm and dragged the heavy pelt over his face, blinding him in darkness beneath the coarse gray hide. Even blinded, the veteran's professional discipline held. He unleashed a fierce, sweeping horizontal swing with his hand-axe to carve out a protective circle of space. The blade screamed into her mind to dodge the blind steel:
 
 ```
 Blind man swings a wide design,
 Spin away from danger line!
 ```
 
-Elsywth swung back, out of the weapon’s arc just in time. The Viking drew his shield tightly against his chest, and used the blunt top of his axe-haft to frantically wedge the pelt back up away from his eyes. He was recovering his sight, but the desperate, blind movement forced his upper body to twist, pulling his stout shield briefly out of position. His left flank was left utterly unguarded. Before Elsywth could even think, the cold pulse of the blade dictated her next movement with cruel precision:
+Elswyth swung back, out of the weapon’s arc just in time. The Viking drew his shield tightly against his chest, and used the blunt top of his axe-haft to frantically wedge the pelt back up away from his eyes. He was recovering his sight, but the desperate, blind movement forced his upper body to twist, pulling his stout shield briefly out of position. His left flank was left utterly unguarded. Before Elswyth could even think, the cold pulse of the blade dictated her next movement with cruel precision:
 
 ```
 Step right now, and coil the spring,
 Drop the knee of castled king!
 ```
 
-Elsywth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Mōnanlīeht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the leather hilt sticking right up out of his ruined boot. The voice in her head snapped shut like a trap, demanding the harvest be finished:
+Elswyth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Mōnanlīeht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the leather hilt sticking right up out of his ruined boot. The voice in her head snapped shut like a trap, demanding the harvest be finished:
 
 ```
 Take iron from the leather,
 End the wolf altogether.
 ```
 
-Elsywth stepped forward, re-engaging her grip on the hilt. She smoothly pulled the blade free. His legs were before her, unguarded, as he tried to drag himself to safety. But the rhyme was merciless:
+Elswyth stepped forward, re-engaging her grip on the hilt. She smoothly pulled the blade free. His legs were before her, unguarded, as he tried to drag himself to safety. But the rhyme was merciless:
 
 ```
 Hack the pillar, slice the vein,
 Let the crimson river rain.
 ```
 
-Without a shred of hesitation, Elsywth brought Mōnanlīeht down in a rapid, heavy succession of hacking strikes. The silver steel tore through the leather and flesh of his defenseless calves, slicing deep into the fertile blood vessels beneath.
+Without a shred of hesitation, Elswyth brought Mōnanlīeht down in a rapid, heavy succession of hacking strikes. The silver steel tore through the leather and flesh of his defenseless calves, slicing deep into the fertile blood vessels beneath.
 
 The redcap gave her a finishing command: to watch him bleed.
 
@@ -5987,9 +5987,9 @@ Blood to tile, and none for thee!
 Oh meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast!
 "
 
-Wolfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
+Wulfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
 
-"You... girl from darkwood... I know you. The wolf has caught your scent again," Wolfhere taunted. He smiled confidently. Nobody had bested him in a tactical fight, not even Rognvaldr.
+"You... girl from darkwood... I know you. The wolf has caught your scent again," Wulfhere taunted. He smiled confidently. Nobody had bested him in a tactical fight, not even Rognvaldr.
 
 "I'm... not afraid... of you," Elswyth stammered.
 
@@ -6030,11 +6030,11 @@ Past the handle you have stepped,
 Where his ribs are poorly kept.
 ```
 
-The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elsywth side-stepped the blow easily. His boot crunched through the broken tile, wedged tight. He couldn't recover.
+The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elswyth side-stepped the blow easily. His boot crunched through the broken tile, wedged tight. He couldn't recover.
 
 Without waiting for more rhyme, Elswyth's vision moved to the giant chest. She heard the beating of his heart and could even see it, pushing and pulling on his chest. It sounded like the footfalls of an army in motion.
 
-Elsywth drove full into the thrust with both hands, and Monanleoht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elsywth, in a breath of heated rage, whispered in Wulfhere's ear:
+Elswyth drove full into the thrust with both hands, and Monanleoht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elswyth, in a breath of heated rage, whispered in Wulfhere's ear:
 
 ```
 Took me once for easy prey,
@@ -6043,7 +6043,7 @@ Take the coalgirl's blade and see,
 Blood to earth, and none for thee.
 ```
 
-Wulfhere dropped his axe and gripped Elsywth's shirt with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her linen as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
+Wulfhere dropped his axe and gripped Elswyth's shirt with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her linen as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
 
 "Well, meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
 
@@ -6733,7 +6733,7 @@ Elswyth: "This is _mine_. I know it. I cut it to these lengths."
 
 Osric: "The forge was lit yesterday. Suddenly... _lit_. Like someone else was here."
 
-Elsywth stopped and stared at Osric.
+Elswyth stopped and stared at Osric.
 
 Elswyth: "Do _not_ blame this on the _Coaler-Wight_."
 
