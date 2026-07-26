@@ -84,7 +84,7 @@ The column's shields went up in unison. The riders held their short heavy spears
 
 Cynewulf's horse almost jumped before he did. The four archer hunters marked the beginning of the fence line, and slipped behind. Cynewulf was first in the line, his spear before him ready to plant in the first one he saw. 
 
-This is was the moment. All the training and grooming came to this. And it happened in a flash.
+This was the moment. All the training and grooming came to this. And it happened in a flash.
 
 He was hit in the midsection from his left, a heavy club breaking on his stomach. It came from nowhere. Cynewulf was tied into his saddle, otherwise he would have hit the ditch in an instant. His horse reared, not expecting motion in its periphery, and Cynewulf dropped his spear. The pain was agony, and his breath was gone.
 

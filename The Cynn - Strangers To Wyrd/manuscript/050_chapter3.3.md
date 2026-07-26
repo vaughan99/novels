@@ -187,7 +187,7 @@ One older Dane poured ale into Morning-Eye's mouth before drinking from the same
 
 The villagers would watch as this continued. They saw the faces withstand everything. Once winter set in, no Viking bothered with the stone giants any more.
 
-By February of 943, the Vikings retreated behind ramparts and walls. The Saxons had returned to dismantle the Vikings hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
+By February of 943, Olaf's men retreated behind ramparts and walls. The Saxons had returned to dismantle the Olaf's hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
 
 April 23rd, 943 was the night of the last full moon of the gnome's promise. Elswyth was then of twenty winters. 
 
@@ -314,7 +314,7 @@ He twirled it once.
 
 "Far less stubborn than my last partner! Now left, right, onto the flea's leg... Yes you've got it."
 
-Elswyth another step towards the axe.
+Elswyth took another step towards the axe.
 
 "The moon maiden in your family poem... was _she_ your last partner?" 
 

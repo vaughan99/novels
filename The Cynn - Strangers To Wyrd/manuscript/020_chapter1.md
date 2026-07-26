@@ -697,7 +697,7 @@ Cynewulf took the old veteran aside. "Didn't catch your name."
 
 "Were you fighting for the lords of York then?"
 
-"Ech... no... I came her not for the siege, but for the peace. Who can ask a man to choose between mother and father? No, I sell my spear only when the shield-walls get smaller."
+"Ech... no... I came here not for the siege, but for the peace. Who can ask a man to choose between mother and father? No, I sell my spear only when the shield-walls get smaller."
 
 "So... what if we change your name. How do you like Quartermaster?"
 

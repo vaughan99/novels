@@ -16,111 +16,105 @@ Each chest bore the same iron emblem riveted to its lid:
 
 _An oak sprouting from a broken anvil, with two crossed hammers beneath._
 
-Osric stopped.
-
-"No..."
+Osric stopped. "No..."
 
 He looked at her chest.
 
 Then at his.
 
-She looked at his.
-
-"No..."
+She looked at his. "No..."
 
 Their chests hit the ground with heavy thuds.
 
 "Where did you get that?" he demanded, pointing at the insignia on her coffer.
 
-Elswyth: "Why? Did something... _weird_... happen to you too?"
+"Why? Did something... _weird_... happen to you too?"
 
-Osric: "Understatement."
+Osric shook his head. "Understatement."
 
-Elswyth: "Understatement."
+Elswyth shook her head. "Understatement."
 
-Osric: "Did the wolf-men find you? I see you're still alive."
+Osric scanned her for injuries. "Did the wolf-men find you? I see you're still alive."
 
-Elswyth: "Barely alive. And you?"
+Elswyth sighed. "Barely alive. And you?"
 
-Osric: "Barely alive. Well, were your vikings... stripped... and ... sorted?"
+"Barely alive. Well, were your Vikings... stripped... and... sorted?"
 
-Elswyth: "Sorted? What do you mean sorted?"
+Elswyth's jaw dropped. "Sorted? What do you mean sorted?"
 
-Osric opened his chest. He had lifted the gear he could fit into the box as they were, neatly folded. He presented the neatness to Elswyth.
+Osric opened his chest. The gear lay inside exactly as he had found it, already neatly folded. He presented the what he had found to Elswyth. He removed the top layer, which were a pair of Viking pants.
 
-Elswyth: "You... took the time to fold Viking pants... _neatly_?"
+Elswyth frowned. "You... took the time to fold Viking pants... _neatly_?"
 
-Osric: "No!"
+Osric dropped the pants back into the chest. "No!"
 
-Elswyth: "Well, then, who did?"
+Elswyth's hands moved to her hips. "Well, then, who did?"
 
 Osric slammed his chest shut. "You wouldn't believe me if I said another word."
 
-Elswyth: "Well, I'm not opening mine. I didn't fold mine as neatly as you... or whoever... folded yours."
+"Well, I'm not opening mine. I didn't fold mine as neatly as you... or whoever... folded yours."
 
-Osric: "I'll be fine if I never set eyes on Viking pants again."
+Osric closed his eyes. "I'll be fine if I never set eyes on Viking pants again."
 
-Elswyth: "Agreed".
+"Complete agreement."
 
-Osric: "You know, we might move faster if I grab your handle..."
+Osric opened his eyes and looked at their two boxes. "You know, we might move faster if I grab your handle..."
 
-Elswyth: "And I grab your other handle..."
+"And I grab your other handle..."
 
 They found themselves standing one in front, one in back. Elswyth's coffer was in their right hands, and Osric's in their left.
 
-Elswyth: "Great, I'm in front. But where are we going?"
+Elswyth sighed. "Great, I'm in front. But where are we going?"
 
-Osric: "I don't know. Anywhere but here?"
+"I don't know. Anywhere but here?"
 
-Elswyth: "Well, I can't go home... yet."
+"Well, I can't go home... yet."
 
-Osric: "Why not?"
+"Why not?"
 
-Elswyth: "You wouldn't believe me."
+Elswyth shook her head. "You wouldn't believe me."
 
-Osric: "Well I can't go home, ever."
+"Well I can't go home, ever."
 
-Elswyth: "Why not?"
+"Why not?"
 
-Osric: "Look, can we just agree that we avoid questions for now? We just need to find a place to... think."
+Osric closed his eyes once more. "Look, can we just agree that we avoid questions for now? We just need to find a place to... think."
 
-Elswyth: "Well if you need a priest, the church is just a few steps that way."
+"Well if you need a priest, the church is just a few steps that way."
 
-Osric: "I'm new here. Anything's fine."
+"I'm new here. Anything's fine."
 
-Elswyth: "You know, the Danes own the town again."
+"You know, the Danes own the town again."
 
-Osric: "Oh. We probably shouldn't walk through town with wolf-men loot in our chests."
+Osric looked around for anyone watching them. No one was. "Oh. We probably shouldn't walk through town with wolf-men loot in our chests."
 
-Elswyth: "Might look... bad."
+Elswyth nodded. "Might look... bad."
 
-Osric: "Very bad."
+"Very bad."
 
-Elswyth: "I spent the night in the room with the freezing pool. There's nobody there."
+Elswyth turned her head back to the frigidarium. "I spent the night in the room with the freezing pool. There's nobody there."
 
-Osric: "Was there a place to hide two chests?"
+"Was there a place to hide two chests?"
 
-Elswyth: "Yes. The place were you came from, was there a place to hide three more bodies?"
+"Yes. The place where you came from, was there a place to hide three more bodies?"
 
-Osric: "There was a forge."
+"There was a forge."
 
-Elswyth: "Are you thinking what I'm thinking?"
+A smile crept onto Elswyth's face. "Are you thinking what I'm thinking?"
 
-Osric: "Not sure. Can't see your face."
+"Not sure. Can't see your face."
 
-Elswyth: "If there's fuel for that forge..."
+"If there's fuel for that forge..."
 
-Osric: "No. That doesn't feel right..."
+"Nooo. That doesn't feel right..."
 
-Elswyth: "They're going to start to smell."
+"They're going to start to smell."
 
-Osric: "You want to burn them?"
+"You want to burn them?"
 
-Elswyth: "_They tried to kill us_."
+Elswyth's eyes narrowed. "_They tried to kill us_."
 
-She started to turn themselves around, leading back to the ruin of the bathhouse.
-
-"Think of it as a funeral pyre."
+She turned, leading Osric back to the ruin of the bathhouse. "Think of it as a funeral pyre."
 
 Osric opened his mouth to object, then found he had none.
 
@@ -132,73 +126,61 @@ The children.
 
 They still lay beneath the snow by the river Tyne... if they lay there at all. If the hearth in Alfheimr had not been the whole truth, the thaw would soon uncover them. If it had...
 
-Osric: "We need to hurry."
+Osric tried to quicken the pace from behind Elswyth, pushing her forward. "We need to hurry."
 
-Elswyth: "Hurry?"
+"Hurry?"
 
-Osric: "I need to get home."
+"I need to get home."
 
-Elswyth: "You said you had no home."
+"You said you had no home."
 
-Osric: "My kin. They must be buried."
+"My kin. They must be buried."
 
-Elswyth: "Slow down!"
+"Slow down!"
 
-Osric: "And I'll need a horse."
+"And I'll need a horse."
 
-Elswyth guided them to the rainwater chute and they slid in with their chests. They shed their armor before getting into the water.
-
-Elswyth: "Be mindful of the pool. The water is..."
+Elswyth guided them to the rainwater chute and they slid in with their chests. They shed their armor before getting into the water. "Be mindful of the pool. The water is..."
 
 Osric waded in. "Freezing!"
 
-Elswyth: "Usually I get only one bath for Easter! I've had two baths in two days."
+"Usually I get only one bath for Easter! I've had two baths in two days."
 
 Osric laughed. "Life as a charcoaler?"
 
-Elswyth: "Black as a soot-stained raven."
+"Black as a soot-stained raven."
 
 They hid the chests beneath broken stone and shattered tile before retrieving the three bodies from the bathhouse. Once the corpses had been lowered through the chute into the abandoned forge, they dressed again in their new armor and descended after them.
 
 Elswyth marveled at the engineering of the forge. She had delivered charcoal to forges before, but most of them had been cobbled stone hearths, a ramshackle roof, and a bellows whose leather was barely holding together.
 
-"This doesn't look like... what I expected."
+She traced her fingers on the brick lines. "This doesn't look like... what I expected."
 
-She traced her fingers on the brick lines.
+Her eyes fell upon the dead bodies, and the pile of charcoal beneath them. "Did you see this?"
 
-Her eyes fell upon the dead bodies, and the pile of charcoal beneath them.
+Osric had his hands on a dead Viking and started to pull it off the heap. "The charcoal?"
 
-Elswyth: "Did you see this?"
+"This is _my coal_. I cut it to these lengths."
 
-Osric: "The charcoal?"
+Osric stopped pulling and looked. "The forge was lit yesterday. Suddenly... _lit_. Like someone else was here."
 
-Elswyth: "This is _mine_. I know it. I cut it to these lengths."
+Elswyth stopped and stared at Osric. "Do _not_ blame this on the _Coaler-Wight_."
 
-Osric: "The forge was lit yesterday. Suddenly... _lit_. Like someone else was here."
-
-Elswyth stopped and stared at Osric.
-
-Elswyth: "Do _not_ blame this on the _Coaler-Wight_."
-
-Osric blinked.
-
-Osric: "...the what?"
+Osric blinked. "...the what?"
 
 Elswyth thought for a long moment. She didn't want to ask this, but now she felt she had no choice.
 
-Elswyth cleared her throat.
+Elswyth cleared her throat. "I'm going to ask you something, and don't laugh."
 
-Elswyth: "I'm going to ask you something, and don't laugh."
+"I'm well beyond laughing. But you may ask."
 
-Osric: "I'm well beyond laughing. But you may ask."
+"Did you find this smithy by yourself in the dark, or were you... _led_... here?"
 
-Elswyth: "Did you find this smithy by yourself in the dark, or were you... _led_... here?"
+Osric composed himself before responding. He knew this would sound ridiculous. "By a giggling child?"
 
-Osric: "By a giggling child?"
+Elswyth reeled backward. "NOO!"
 
-Elswyth: "NOO!"
-
-Osric: "Does that mean something to you?"
+"Does that mean something to you?"
 
 Elswyth stared at the charcoal.
 
@@ -218,29 +200,29 @@ They hadn't followed her.
 
 They had been here all along.
 
-Elswyth: "We have to leave. Now!"
+"We have to leave. Now!"
 
-Osric: "The bodies?"
+Osric looked back down at the body in front of him. "The bodies?"
 
-Elswyth: "Never mind them. Those little... _giggling things_... will take care of them. We don't want to be here. Believe me."
+"Never mind them. Those little... _giggling things_... will take care of them. We don't want to be here. Believe me."
 
-Osric: "What? What's going on?"
+"What? What's going on?"
 
-Elswyth: "Our... _gifts_? I think I know who gave them to us."
+"Our... _gifts_? I think I know who gave them to us."
 
-Osric: "Who?"
+"Who?"
 
-Elswyth whispered. "The people who live here."
+Elswyth whispered, "The people who live here."
 
-Osric whispered. "_Nobody_ lives here."
+Osric whispered, "_Nobody_ lives here."
 
-Elswyth looked around, whispering quieter still. "Yes... _nobody_... _who giggle like children._"
+Elswyth looked around, whispering quieter still, "Yes... _nobodies_... _NO... BODIES..._ _who giggle like children._"
 
 Osric looked at her for a long moment.
 
 Osric dropped the body in his hands and escaped through the narrow passageways. Elswyth was right behind him.
 
-Neither looked back as they ran to the Church.
+Neither looked back as they ran to the church.
 
 ---
 

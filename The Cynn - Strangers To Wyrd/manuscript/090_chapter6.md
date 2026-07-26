@@ -164,7 +164,7 @@ Cynewulf made for the Church front door. He was hoping there might be a few arme
 
 Osric made for the right side of the bathhouse, and Elswyth split to the left. Each decided that the ruins might provide cover.
 
-Osric heard... A child's giggle. High and playful, it called from a sparse hedge to his left. "Quickly! Here!" He followed the voice before he knew he had. The hedge was covering a hole four feet in diameter. A pair of hand shoved him from behind, and he fell into the hole. Osric slid face-first down a chute, landing in a pile of charcoal. He looked up to find a large forge built into the bathhouse central hypocaust. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze cast a heavy, flickering orange light. The new light illuminated the outline of an anvil.
+Osric heard... A child's giggle. High and playful, it called from a sparse hedge to his left. "Quickly! Here!" He followed the voice before he knew he had. The hedge was covering a hole four feet in diameter. A pair of hands shoved him from behind, and he fell into the hole. Osric slid face-first down a chute, landing in a pile of charcoal. He looked up to find a large forge built into the bathhouse central hypocaust. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze cast a heavy, flickering orange light. The new light illuminated the outline of an anvil.
 
 In front of the anvil stood a medium wooden chest, its lid graced by an iron emblem of an oak tree sprouting from a broken anvil with hammers crossed.
 
@@ -174,7 +174,7 @@ On the anvil lay a weathered black scabbard holding a heavy farmer's long-handle
 
 Elswyth knew she was no warrior. She didn't even bother with her small mushroom handseax, and the felling axe had been left on the wagon. She sprinted toward the former entrance to the bathhouse, now just an arched ruin.
 
-As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path took here to the Roman cistern and bath-house. A giggling child voice called to her, "Down! Here!". She stopped in bewilderment, if but for a brief second. The voice was coming from a rain gutter, wide enough for a person, that disappeared into the ruin below. She peered inside, looking for a place to hide.
+As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path took her to the Roman cistern and bath-house. A giggling child voice called to her, "Down! Here!". She stopped in bewilderment, if but for a brief second. The voice was coming from a rain gutter, wide enough for a person, that disappeared into the ruin below. She peered inside, looking for a place to hide.
 
 Suddenly a pair of hands pushed her in the back. Her hands found the slime of the algae, and she slid helplessly down a smooth, stone chute until she landed with a heavy splash in the ancient moonlit pool, the cold of the water a poorly-held secret that screamed at her body. It was a vast, underground chamber filled with rainwater up to her hips. It was the _frigidarium_, the cold refreshing pool of the otherwise hot Roman bathhouse. Beyond the pool, steps rose to meet the broken tile and benches of the pool's gathering area.
 
