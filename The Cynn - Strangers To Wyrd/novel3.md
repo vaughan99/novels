@@ -159,7 +159,7 @@ Freyr: "Alfheimr is a home for those who have earned their summers with hard win
 
 Woden's eye settled upon Elswyth.
 
-Woden: "The coaler's apprentice is interesting. The convergence suggests she will lose her family to Wolfhere, and that she will be haunted by one of your lost souls. A redcap, a self-styled _Spotted King_. That creature has repeatedly escaped my _Wild Hunt_, but now I expect we'll know where to find him."
+Woden: "The coaler's apprentice is interesting. The convergence suggests she will lose her family to Wulfhere, and that she will be haunted by one of your lost souls. A redcap, a self-styled _Spotted King_. That creature has repeatedly escaped my _Wild Hunt_, but now I expect we'll know where to find him."
 
 Freyr: "Fussleton. Yes, his fall was most unfortunate. His obsession twisted him beyond recognition."
 
@@ -536,7 +536,7 @@ Muninn: "That wasn't an _air organ_, or any other organ, except maybe a body par
 
 Huginn: "It was a metaphoooorical organ. Besides, look at the redcap below. Wait, where did he go?"
 
-Munnin: "He's screaming inside the steel now. And leave the music to the Cynn. They broke a murderer's spirit with Elswyth's prized coal, which is far more respectable than your dancing and squawking."
+Muninn: "He's screaming inside the steel now. And leave the music to the Cynn. They broke a murderer's spirit with Elswyth's prized coal, which is far more respectable than your dancing and squawking."
 
 Huginn: "Fine. But you have to admit, it DID really lift the mood."
 
@@ -612,7 +612,7 @@ Woden looked at Freyr one last time. "You will see these blades to their owners?
 
 Freyr: "As sure as the night falls."
 
-Woden looked at Huninn and Muninn. "Come on feathers. Time to move on."
+Woden looked at Huginn and Muninn. "Come on feathers. Time to move on."
 
 
 ---
@@ -682,7 +682,7 @@ Murdock raised an eyebrow. "Aye, but you think you're going to carry that back h
 
 Osric smiled, if only for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light." The sun hung low in the sky. One hour. Just one hour without crawling through the filth—that was all Osric wanted.
 
-"First light? By the blood of the saints, man, if we bide our time here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon-master did not waste time weeping or wanting.
+"First light? By the blood of the saints, man, if we bide our time here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon master did not waste time weeping or wanting.
 
 He stepped into the center of the stalled host, his voice cracking like a whip. "Move the healthy beasts! Unhitch the rear carts and wheel them broadside! I want a circle of oak and leather before the sky turns black!" Murdock took charge with a feral, driving energy, dragging everyone into the toil.
 
@@ -714,7 +714,7 @@ The oxen cleared the gap, trampling down the road into the town, and before the 
 
 Those few who had managed to fall asleep awakened instantly, their hands finding shields and spears merely inches away. Bleary-eyed, they hastily formed a wall, their backs to the open corner a few feet away.
 
-The wolf-men crashed into the forming shieldwall. Two fyrdmen flew backwards, their backs landing in the mud. One had an axe embedded in his shoulder. A spear caught one of the Vikings in the ribs, bringing him to his knees. One of the Saxon brothers took a javelin to his shield, the head driving deep into his forearm. The shieldwall bent but did not break, boots carving furrows through the mud as the Ulfhednar drove it back.
+The wolf-men crashed into the forming shieldwall. Two fyrdmen flew backwards, their backs landing in the mud. One had an axe embedded in his shoulder. A spear caught one of the Vikings in the ribs, bringing him to his knees. One of the Saxon brothers took a javelin to his shield, the head driving deep into his forearm. The shieldwall bent but did not break, boots carving furrows through the mud as the _Ulfhednar_ drove it back.
 
 Cynewulf stood at the rear, having no shield, his rusty langseax gripped tight in his hand. He braced his other hand against the fyrdman in front of him. "Hold, men!" he screamed. He knew the next moments were crucial.
 
@@ -847,11 +847,11 @@ The giant Rognvaldr slowly climbed the steps into the churchyard. His massive he
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-## Chapter Seven: Barrow-Edge, The Hedge-Stalker
+## Chapter Seven: Barrow's Edge, The Hedge-Stalker
 
 The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the glow of slowly burning charcoal, hot enough to warm the space. The glow bathed the room in a heavy, flickering orange light, casting long, monstrous shadows behind the columns.
 
-His fingers, cracked and raw from digging axles from mud, clutched nothing. The char-stick and training shield were long gone. Outside, three veteran Ulfhednar gathered around the chute opening, their whispers echoing into the forge chamber. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.
+His fingers, cracked and raw from digging axles from mud, clutched nothing. The char-stick and training shield were long gone. Outside, three veteran _Ulfhednar_ gathered around the chute opening, their whispers echoing into the forge chamber. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.
 
 Each landed on the charcoal pile. Each stood to face Osric.
 
@@ -933,7 +933,7 @@ Her older brother, Beorn, was whittling a new button from a piece of soft wood. 
 
 Mathild, the next oldest, was cleaning pots. She looked in turn and smiled, without saying a word.
 
-Finally there was the eldest... Ingvarr, named after one of Ealhild's ancestors, sat in the corner sharpening a broadseax.
+Finally there was the eldest... Ingvarr, named after one of Ealhild's ancestors, sat in the corner sharpening a broad warseax. He was on his knees, the weight of the blade forcing Ingvarr to hold the blade with both hands. He methodically slid the edge on the large whetstone on the ground.
 
 Whhhiiiitt... Whhhiiiitt.
 
@@ -951,7 +951,7 @@ Osric turned to Ealhild. "When did you let Ingvarr start sharpening my father's 
 
 "No, I mean... I was about to die."
 
-"You don't say." She crossed to the door and peered through the crack. "Those weeds again."
+"You don't say." Her voice trailed off as she crossed to the door and peered through the crack. "Those weeds again."
 
 She sighed.
 
@@ -977,7 +977,7 @@ Ealhild put her finger over his lips.
 
 "Ingvarr, take the children outside and cut the weeds down. While you're there, please stack the wood and remove the twigs. Show your father that weeds don't concern us."
 
-Ealhild turned to Osric. "There, see. Just rest. You've had a busy day."
+Ealhild turned to Osric. "There, see? Just rest. You've had a busy day."
 
 Ingvarr arose from the corner, laying the whetstone on the sill.
 
@@ -1016,6 +1016,8 @@ She pinched the edge of the mutton, and it left a touch of grease on her finger.
 Osric tasted it. The taste of the salt-pan dominated the flavor.
 
 "It's fine. A bit salty."
+
+She stared at her finger. "A bit too salty..." she quietly said to herself.
 
 "Let's drive that hunger out of your bones." She fetched the spit off the fire.
 
@@ -1121,11 +1123,17 @@ There was no answer.
 
 He giggled and coughed next to the flame. The _flame_? "Why is there... a fire in an abandoned... forge? Oh right... I'm asking the... fire-breathing... dragon... that... tried to fatten me up. Huh. Huh."
 
-Osric would remember none of what actually happened. The farmer had stepped into his old hearth, a glamour held in _Alfheimr_ by Ingrid, the nisse. Osric's body remained motionless...
+Osric would remember none of what actually happened.
+
+The farmer had stepped into his old hearth, a glamour held in _Alfheimr_ by Ingrid, the nisse.
+
+Osric's body remained motionless...
 
 Until...
 
-Ingvarr and his fellow children crossed the cottage threshold into the yard. Only then did they take up the mantle of the _Hedge-Stalker_ and the _Shadow Fyrd_.
+Ingvarr and his fellow children crossed the cottage threshold into the yard.
+
+Only then did they take up the mantle of the _Hedge-Stalker_ and the _Shadow Fyrd_.
 
 Ingvarr, now bearing Osric's body, stood emotionless as the three Vikings closed in. His eyes were as grey as stone. The body stood firm, as though it had no memory of hours spent wrestling axles in the mud.
 
@@ -1133,7 +1141,7 @@ His _brother_ and _sisters_ were the _Shadow Fyrd_, circling him ominously as ab
 
 Ingvarr reached down without looking and claimed the new shield at the base of the anvil.
 
-Ingvarr held his shield forward, his eyes peering over the rim, _Barrow's Edge_ poised behind him to strike.
+Ingvarr held his shield forward, his eyes peering over the rim, _Barrow's Edge_ poised behind him to strike. A slow smile crept across his stony face.
 
 The first wolf-man lunged with a roar, his axe sweeping low toward Ingvarr's knee. Ingvarr did not retreat. The instant the blow committed, one of the _Shadow Fyrd_ slipped soundlessly behind the Viking. The warrior's heel found no earth where he expected it. His footing vanished beneath him, his weight carried him forward, and the axe bit harmlessly into the tile. _Barrow's Edge_ answered with a single downward stroke through the exposed neck. Before the body had finished falling, Ingvarr had already turned away.
 
@@ -1141,7 +1149,7 @@ The remaining two split apart, one circling left with spear in hand while the ot
 
 The spearman thrust. A shadow's unseen fingers caught the haft just long enough to drag its point aside. The spear glanced across the shield instead of piercing beneath it. Ingvarr stepped inside the reach without haste. _Barrow's Edge_ flashed once beneath the shield-rim, opening the man's thigh to the bone. As he stumbled, another absence of light hooked behind his other leg. The Viking collapsed heavily onto his back. Ingvarr drove the blade through his chest as calmly as a farmer setting a fence-post.
 
-The last wolf-man hesitated. _This Saxon is not as he appears_.
+The last wolf-man hesitated. _This fyrdman is not as he appears_.
 
 He stood back, waiting for Ingvarr to commit. He felt a hand tug at his cloak, pulling him backward. He stepped back and shook his cloak.
 
@@ -1205,7 +1213,7 @@ Osric saw the same scene as before. It was twice as horrible as he remembered.
 
 His eyes fell upon the chest by the anvil, still waiting to be opened.
 
-Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay a shoulder-sling of rawhide with four steel-tipped javelins.
+Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length stiff waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay a shoulder-sling of rawhide with four steel-tipped javelins.
 
 He looked around once more.
 
@@ -1468,7 +1476,7 @@ Miss the belly, cup the meat!
 Lean it back on your heel feet!"
 ```
 
-The hand-axe whistled toward her midsection, a heavy, cleaving arc meant to open her up. Instead of raising Mōnanlīeht to block, Elswyth simply hollowed her core. She cupped her hands over her stomach to pull her flesh away from the steel, her voice carrying the redcap's rhythm, as the axe shaved the air inches from her shirt.
+The hand-axe whistled toward her midsection, a heavy, cleaving arc meant to open her up. Instead of raising Monanleoht to block, Elswyth simply hollowed her core. She cupped her hands over her stomach to pull her flesh away from the steel, her voice carrying the redcap's rhythm, as the axe shaved the air inches from her shirt.
 
 Realizing his caution was getting him mocked, the seasoned Ulfhednar went full on attack. He abandoned his patient defense, unleashing a measured, blinding storm of steel and seasoned shield-craft. Every strike was dodged. As the hand-axe hacked left in a brutal opening strike, the iron in her mind buzzed a split second before the steel arrived, forcing her to duck her head.
 
@@ -1509,7 +1517,7 @@ Plunge the iron through the shoe,
 Pin him down and drive it through.
 ```
 
-With a single, explosive downward plunge, Elswyth drove Mōnanlīeht straight through the top of his planted foot, burying the silver steel deep into the earth beneath him. The Ulfhednar shrieked, pinned like a beetle to a forest floor. Elswyth tugged at the hilt, but the steel was wedged fast in the clay. She lacked the raw muscle to wrench the weapon free. Her hands snapped away from the leather handle, but the weapon did not go silent. Even disconnected from her flesh, the blade whispered its next dark instruction, offering a cruel solution to her lack of strength:
+With a single, explosive downward plunge, Elswyth drove Monanleoht straight through the top of his planted foot, burying the silver steel deep into the earth beneath him. The Ulfhednar shrieked, pinned like a beetle to a forest floor. Elswyth tugged at the hilt, but the steel was wedged fast in the clay. She lacked the raw muscle to wrench the weapon free. Her hands snapped away from the leather handle, but the weapon did not go silent. Even disconnected from her flesh, the blade whispered its next dark instruction, offering a cruel solution to her lack of strength:
 
 ```
 Pull the wolf down by the snout,
@@ -1530,7 +1538,7 @@ Step right now, and coil the spring,
 Drop the knee of castled king!
 ```
 
-Elswyth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Mōnanlīeht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the leather hilt sticking right up out of his ruined boot. The voice in her head snapped shut like a trap, demanding the harvest be finished:
+Elswyth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Monanleoht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the leather hilt sticking right up out of his ruined boot. The voice in her head snapped shut like a trap, demanding the harvest be finished:
 
 ```
 Take iron from the leather,
@@ -1544,7 +1552,7 @@ Hack the pillar, slice the vein,
 Let the crimson river rain.
 ```
 
-Without a shred of hesitation, Elswyth brought Mōnanlīeht down in a rapid, heavy succession of hacking strikes. The silver steel tore through the leather and flesh of his defenseless calves, slicing deep into the fertile blood vessels beneath.
+Without a shred of hesitation, Elswyth brought Monanleoht down in a rapid, heavy succession of hacking strikes. The silver steel tore through the leather and flesh of his defenseless calves, slicing deep into the fertile blood vessels beneath.
 
 The redcap gave her a finishing command: to watch him bleed.
 

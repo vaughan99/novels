@@ -26,7 +26,7 @@
   - [Part One: The Debate](#part-one-the-debate)
   - [Part Two: The Cynn](#part-two-the-cynn)
 - [Chapter Six: The Night of Blood](#chapter-six-the-night-of-blood)
-- [Chapter Seven: Barrow-Edge, The Hedge-Stalker](#chapter-seven-barrow-edge-the-hedge-stalker)
+- [Chapter Seven: Barrow's Edge, The Hedge-Stalker](#chapter-seven-barrows-edge-the-hedge-stalker)
 - [Chapter Eight: Monanleoht, The Battle-Dancer](#chapter-eight-monanleoht-the-battle-dancer)
 - [Chapter Nine: Wodbora, The Madness-Bringer, The Prophet of the Wodhere](#chapter-nine-wodbora-the-madness-bringer-the-prophet-of-the-wodhere)
 - [Chapter Ten: Getting A Handle On Things](#chapter-ten-getting-a-handle-on-things)
@@ -44,12 +44,12 @@
     - [Agency of Magical Artefacts](#agency-of-magical-artefacts)
     - [The Many Faces of the Wodhere](#the-many-faces-of-the-wodhere)
 - [Swords and Scabbards: What Are These Blades?](#swords-and-scabbards-what-are-these-blades)
-  - [Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos](#wodbora-the-madness-bringer-the-prophet-of-wodhere-the-guardian-of-chaos)
+  - [Wodbora the Madness-Bringer, the Prophet of the Wodhere, the Guardian of Chaos](#wodbora-the-madness-bringer-the-prophet-of-the-wodhere-the-guardian-of-chaos)
     - [Description](#description)
     - [Blade Construction](#blade-construction)
     - [Handle Construction](#handle-construction)
     - [Scabbard Construction](#scabbard-construction)
-  - [Barrow's-Edge, the Hedge-Stalker](#barrows-edge-the-hedge-stalker)
+  - [Barrow's Edge, the Hedge-Stalker](#barrows-edge-the-hedge-stalker)
     - [Description](#description-1)
     - [Blade Construction](#blade-construction-1)
     - [Handle Construction](#handle-construction-1)
@@ -126,13 +126,13 @@ Huginn: "Ohhh, NOW I REMEMBER! ... Leicester, mud, wolves, three important human
 
 Muninn nodded arrogantly and turned to the park. "Listen well children. Commit this to mind and memory, for it is a tale of ..."
 
-Huginn interrupted, his wings instantly flaring as the trap snaps shut. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me? I connect all the pieces into the epic tale that it is. It's... mine!" Huginn beat his wings and repeated, "mine! mine! mine!"
+Huginn interrupted. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me? I connect all the pieces into the epic tale that it is. It's... mine!" Huginn beat his wings and repeated, "mine! mine! mine!"
 
 Muninn, rolling his obsidian eyes, shook his head... a slow shake practiced from seemingly the beginning of time itself. "You... ALWAYS... want to own the tale. Thankfully, I'm here... to keep the oath of the thing true. Proceed."
 
 Huginn continued, the twinkle in his eye betraying the smile his face couldn't give. The children stared as he spread his wings and spoke of faraway lands and ancient deeds; of foul creatures, ghosts, and goblins; of myths and legends, and the truths hidden behind them.
 
-"It all started at the end of the Siege of Leicester, 943 _Anno Domini_, in eastern England. I believe it was... the rains of spring.".
+"It all started at the end of the Siege of Leicester, 943 _Anno Domini_, in eastern England. I believe it was... the rains of spring."
 
 "It was Saturday, March 25th," Muninn interrupted. "And it was the morning of Easter Eve."
 
@@ -232,9 +232,9 @@ had fallen into Danish hands, and he held it through the winter.
 
 King Edmund had called upon his lords to deliver a force to re-take Leicester. His lords answered.
 
-The armies fighting for Edmund came from East Anglia, Mercia, Wessex, and even Northumbria. Mercenaries came from from every corner where the news of silver could spread.
+The armies fighting for Edmund came from East Anglia, Mercia, Wessex, and even Northumbria. Mercenaries came from every corner where the news of silver could spread.
 
-At their head stood King Edmund I, now a man of twenty-two winters, and King for four. Beside him rode Bishop Oda of Canterbury, a Dane by birth and an Englishman by conviction, whose prayers carried nearly as much weight as the king's commands.
+At their head stood King Edmund I, now a man of twenty-two winters, and King for four. Beside him rode Archbishop Oda of Canterbury, a Dane by birth and an Englishman by conviction, whose prayers carried nearly as much weight as the king's commands.
 
 For weeks the armies had tested Leicester's walls. They were stout and well defended—except in one place.
 
@@ -258,7 +258,7 @@ Oda looked toward the church belltower rising above Leicester's rooftops.
 
 "Because the path runs through Under-Geat."
 
-Oda sighed, and his hand found his golden cross. "My lord King, my answer has not changed. The Church's _frith_ is a covenant. We do not merely cast it aside for convenience."
+Oda sighed, and his hand found his golden cross. "My lord King, my answer has not changed. The Church's _frith_ is a covenant. We do not merely cast it aside for convenience. To ask this of me on Easter Eve borders on blasphemy."
 
 The King leveled an icy stare at Oda. "I would hardly call the deaths of a few hundred men, taken while reclaiming a city for Christ, a matter of _convenience_. Olaf may call himself Christian, but too many of the men behind those walls still kneel to the old gods."
 
@@ -316,7 +316,7 @@ He smiled.
 
 "When we know the East Gate is open, the swiftest army will be the one to keep it."
 
-He then summoned one captain to step forward. The captain was Galindo, a Spaniard who served as reeve of a remote Tyne River _fyrd_. He had spent most of his life counting wagons, settling disputes, and calling men to the _fyrd_—not leading assaults upon stone walls.
+He then summoned one captain to step forward. The captain was Galindo, a Spaniard who served as reeve of a remote Tyne River fyrd. He had spent most of his life counting wagons, settling disputes, and calling men to the fyrd—not leading assaults upon stone walls.
 
 "Galindo, when we commit to the East Gate, stay behind hidden in the willows. When Olaf answers the East Gate, see what he leaves behind. If the Shadow Gate be lightly held by pagan souls, take it. The villagers will be cleared, so use what force you must. Keep that gate open and signal me when you have it."
 
@@ -362,7 +362,7 @@ Wulfstan ignored the challenge. He turned to Olaf.
 
 "Then stand in the breach," Wulfhere barked.
 
-He planted his spear in the middle of the Shadow Gate held it there.
+He planted his spear in the middle of the Shadow Gate and held it there.
 
 "Stand here. Hold your cross out and command them to stay their hand..."
 
@@ -406,13 +406,29 @@ Oda received him with a scribe by his side. A table and three chairs had been br
 
 Oda motioned his hand to the chair.
 
-"Peace be with you."
+"Peace of the Resurrection be with you."
 
-Wulfstan took the chair and seated.
+Wulfstan looked at the chair that was offered. He did not sit.
 
-"And with you."
+"And with you. But before we begin, Oda, we should pray."
 
-Oda seated directly opposite Wulfstan, the flicker of candlelight illuminating the matching rings on their fingers.
+Wulfstan turned and knelt before the altar, his weight gently pressing into the cushion.
+
+Oda joined beside him.
+
+"If you'll permit me..." Wulfstan bowed his head.
+
+"_Beati pacifici, quoniam filii Dei vocabuntur_. (_Blessed are the peacemakers, for they shall be called the children of God._)
+
+Silence fell over the church.
+
+Oda bowed his head.
+
+"_Misericordia et veritas obviaverunt sibi; iustitia et pax osculatae sunt._" (_Mercy and truth have met one another; justice and peace have kissed._)
+
+They each prayed upon the words in silence for a long moment. They then rose and were seated.
+
+Oda sat directly opposite Wulfstan, the flicker of candlelight illuminating the matching rings on their fingers.
 
 The scribe uncorked his ink.
 
@@ -486,7 +502,7 @@ He looked back.
 
 Wulfstan remained silent.
 
-"The _fyrd_ is not an army."
+"The fyrd is not an army."
 
 Oda's voice had become almost pastoral.
 
@@ -516,7 +532,7 @@ Oda's hands came down firmly upon the table. The inkwell jumped, and the scribe 
 
 The words hung in the air.
 
-"If Mercia, Northumbria, Wessex... fails to sow..."
+"If Mercia, Northumbria, Wessex... fail to sow..."
 
 Oda looked beyond Leicester, as though he could already see the empty fields.
 
@@ -582,7 +598,7 @@ Wulfstan stared at him.
 
 "You ask me to make my king's death the boundary of the peace."
 
-"I ask you to let Olaf's kingdom be remembered for the souls he spared, not the lands he left his sons."
+"I ask you to let Olaf's kingdom be remembered for the souls he spared on Easter, not the lands he left his sons."
 
 Wulfstan considered the words.
 
@@ -626,7 +642,7 @@ The previous night's funeral pyres were fed by the fallen logs of a shattered ra
 
 Before dawn, King Olaf Guthfrithson and Wulfstan departed the North Gate beneath a banner of peace.
 
-When the crier mounted the Forum wall that morning and held aloft the wax-sealed treaty, silence spread through both armies. The Danes gathered their dead, their baggage, and what remained of their host for the short road back toward the restored Boroughs of the Danelaw.
+When the crier mounted the Forum wall that Easter morning and held aloft the wax-sealed treaty, silence spread through both armies. The Danes gathered their dead, their baggage, and what remained of their host for the short road back toward the restored Boroughs of the Danelaw.
 
 The _fyrds_ faced a much longer journey. They returned to fields already waiting for the plow, and to the knowledge that after months of hardship they had won nearly every battle fought with sword and spear.
 
@@ -640,7 +656,7 @@ Osric's clothes were a beggar's hoard. He wore three tunics at once: a stiff, gr
 
 Osric once held an honored position in the fyrd, a tall, proud warrior-farmer with the strongest back, who anchored the shield wall. But now, he dug latrines, and wagons out of mud. When the news came, it didn't matter at the time. His attention was held by the carriage wheel that had detached, its axle flat in the muck. He didn't have time for parchment-deals, not when the baggage-master had a whip in the hand.
 
-In the battle, his survival was not decided by skill. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not soldier's work, but that of a thrall.
+In the battle, his survival was not decided by skill. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not a soldier's work, but that of a thrall.
 
 Among the army of Olaf were Northumbrian levies, farmers like Osric from neighboring towns but paying homage to York instead of the Saxons. He had hoped not to meet them in battle, as his wife's kinsmen were from the _Piceringas_ near York, and he had traded with others on Olaf's side. 
 
@@ -682,7 +698,7 @@ Cynewulf had the bearing of a soldier. His byrnie—once a proud shirt of black 
 
 Cynewulf's vows were taken at the Church in Leicester, and that is where Elswyth once knew him. In those days, before he traded his vestments for a chain shirt, he was an acolyte who worked in the bell foundry. Her family's coal fed the fires then. He glanced at the church several times at night through the rain, trying to remember the lines of the bell-fry, the happier times. But now, with the siege ended, the church was the beginning of the next road.
 
-With his warband gone, Cynewulf wandered south toward the North Gate to see where the wind wanted to blow him next. He knew the Church was offering crusts of bread and a bit of broth to those unfortunate who had nowhere else to be. That is how he happened upon the Tyne River _fyrd_. Roughly a hundred men stood in the rain watching one thrall kneeling in the mud yet again over a broken axle.
+With his warband gone, Cynewulf wandered south toward the North Gate to see where the wind wanted to blow him next. He knew the Church was offering crusts of bread and a bit of broth to those unfortunate souls who had nowhere else to be. That is how he happened upon the Tyne River fyrd. Roughly a hundred men stood in the rain watching one thrall kneeling in the mud yet again over a broken axle.
 
 A man on an unusually fine horse rode up to him.
 
@@ -698,7 +714,7 @@ The foreigner laughed. "Then today is full of surprises."
 
 He extended a hand.
 
-"Galindo. Reeve to the _fyrd_ from the Tyne Valley."
+"Galindo. Reeve to the fyrd from the Tyne Valley."
 
 Cynewulf shook it cautiously.
 
@@ -710,7 +726,7 @@ Galindo glanced back toward the baggage train. Osric was still crouched over the
 
 "For what?"
 
-"For leaving." Galindo answered immediately. "The peace has been read. Half the _fyrd_ is already thinking about sowing crops. The other half is thinking about their wives. I need guards for the baggage train before they begin their race to see which ones get home first."
+"For leaving." Galindo answered immediately. "The peace has been read. Half the fyrd is already thinking about sowing crops. The other half is thinking about their wives. I need guards for the baggage train before they begin their race to see which ones get home first."
 
 Cynewulf followed his gaze toward the wagons.
 
@@ -720,7 +736,7 @@ Cynewulf followed his gaze toward the wagons.
 
 "And?"
 
-"The _fyrd_ is an unbridled horse that smells home, and time is a luxury."
+"The fyrd is an unbridled horse that smells home, and time is a luxury."
 
 Galindo pointed toward the camp.
 
@@ -876,7 +892,7 @@ Cynewulf took the old veteran aside. "Didn't catch your name."
 
 "Were you fighting for the lords of York then?"
 
-"Ech... no... I came her not for the seige, but for the peace. Who can ask a man to choose between mother and father? No, I sell my spear only when the shield-walls get smaller."
+"Ech... no... I came her not for the siege, but for the peace. Who can ask a man to choose between mother and father? No, I sell my spear only when the shield-walls get smaller."
 
 "So... what if we change your name. How do you like Quartermaster?"
 
@@ -910,7 +926,7 @@ The archer stopped dead in his tracks.
 
 "Both." One-Eye pressed the iron cross at his neck to his lips. "Forgive me, Father," he whispered, "I know not all our trials are alike... but it seems You've been favoring the mud lately."
 
-"Best be settling in. Report to the wagon master." Galindo replied.
+"Best be settling in. Report to the wagon master," Galindo replied.
 
 High above the town, perched on the highest wall of the Forum, Wulfhere studied his enemy still. The _Ulfhednar_ were the wolf-men of the Danes, men who married their souls to the wolves of Odin. Though his kind's number were dwindling on the island, he was fierce and true to his kind. To him, the brokered peace was a thing for priests and deer-meat. He had lost some of his number in the fighting before, but the trophy pile was small, and many of his number still longed for Valhalla. 
 
@@ -950,7 +966,7 @@ The archer frowned. "No?"
 
 Tor spat into the mud. "Brave men get themselves killed proving it. Wise men have fear. They just don't show it."
 
-Cynewulf approached, and the brothers exchanged a glance. "Have you ever fought one of them? The wolf-men I mean." asked one.
+Cynewulf approached, and the brothers exchanged a glance. "Have you ever fought one of them? The wolf-men I mean," asked one.
 
 Cynewulf did not look up from the wagons. "Stow your gear. I don't think we're leaving tonight." He nervously looked back up the road.
 
@@ -1000,7 +1016,7 @@ The men howled. The sound marked the soul leaving only the wolf behind.
 
 ---
 
-Huginn: "No, wait... it was more like...  Valhallaaaaaaa...!!!
+Huginn: "No, wait... it was more like...  Valhallaaaaaaa...!!!"
 
 Muninn: "Wrong. On both counts."
 
@@ -1026,7 +1042,7 @@ He attended the little parish church at Easter, at Michaelmas, and on the Feast 
 
 His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near _Hagustealdsham_. His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
 
-"My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrd-men. "The land knew my forefathers almost three-hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
+"My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrd-men. "The land knew my forefathers almost three hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
 
 Osric's wife was Ealhild, a woman of the Swedes.
 
@@ -1050,11 +1066,11 @@ Huginn: "There, happy?"
 
 ---
 
-She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were a kindred spirit. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow.
+She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow.
 
 Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, he immediately found what he was looking for - a plot of land for his service. He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone was put as the cap on the barrow, the black jet streaks shining in the sun.
 
-Her grand-father bred the first of the areas famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
+Her grand-father bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
 Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord, Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked. She pretended to be Gerðr with her mother, tempting Freyr to lay down his sword and frolic with her. She also knew some of her mother's stories were invented on the spot, but another tale of Gullinbursti the Golden-Bristled Boar soaring over hedgerows, or butting a troll into a ditch for stealing barley, never failed to make her laugh. 
 
@@ -1094,9 +1110,9 @@ When she went, she would take a barrow's capstone with her... to bring the spiri
 
 "But why was she sad?" Ealhild was truly concerned.
 
-"She wasn't sad Ealhild. She loved her mother, and she loved Freyr. Some tears are too big for one name. You will take the capstone with you when you are married. You will be as Gerðr, and you will find your Freyr."
+"She wasn't sad, Ealhild. She loved her mother, and she loved Freyr. Some tears are too big for one name. You will take the capstone with you when you are married. You will be as Gerðr, and you will find your Freyr."
 
-That day came, as Ealhild's father was eager to expand northward. While much of land in that direction was tough and bitter, the lands of the Tyne river had wealth and made for good grazing land. He had come to know of Osric, whose father was interested in the stronger Danish plows. The dowry was simple... an extra plowshare, and a cow from the dairy herd, with promise of more once the pens were established.
+That day came, as Ealhild's father was eager to expand northward. While much of the land in that direction was tough and bitter, the lands of the Tyne river had wealth and made for good grazing land. He had come to know of Osric, whose father was interested in the stronger Danish plows. The dowry was simple... an extra plowshare, and a cow from the dairy herd, with promise of more once the pens were established.
 
 She would never forget the day Osric arrived, freshly bathed on his draught horse, attended by five of his fellow fyrdmen. She saw Freyr in him. The easy smile. The broad shoulders. The quiet confidence of a man who knew his work and did it well.
 
@@ -1106,14 +1122,14 @@ And the capstone.
 
 It rode strapped to the horse's blanket, heavier than anything else she carried.
 
-She arrived to the cottage in five days, a reasonably fast trek. Osric's fyrdmen said their goodbyes while Ealhild eagerly took the barrow-stone for placement. She spotted the perfect place... the step down from the door down into the earth, the very threshold of the home. Osric had barely seen off his friends, when he turned to find Ealhild making offerings of the field she had brought with her. A bundle of barley. A sprig of three herbs. And, the boar's blood, held in a boiled-leather vial, coagulated and ready for mixing for paint. All were lovingly prepared under her mother's watch before she left.
+She arrived at the cottage in five days, a reasonably fast trek. Osric's fyrdmen said their goodbyes while Ealhild eagerly took the barrow-stone for placement. She spotted the perfect place... the step down from the door down into the earth, the very threshold of the home. Osric had barely seen off his friends, when he turned to find Ealhild making offerings of the field she had brought with her. A bundle of barley. A sprig of three herbs. And, the boar's blood, held in a boiled-leather vial, coagulated and ready for mixing for paint. All were lovingly prepared under her mother's watch before she left.
 
 She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone: 
 
 ᚠ - Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and 
 ᛟ - Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
 
-The dowry-promise of more cows was paid two years after she arrived, bringing their pen to four cows. Their wealth steadily grew, as Osric could now provide grain, and Ealhild provided the cream and butter. Osric had not yet built his cheese vats; that would come when he had enough cows, and children tall enough to reach the center for the skimming. Until then, they traded the left over cream to their neighbor for finished cheese.
+The dowry-promise of more cows was paid two years after she arrived, bringing their pen to four cows. Their wealth steadily grew, as Osric could now provide grain, and Ealhild provided the cream and butter. Osric had not yet built his cheese vats; that would come when he had enough cows, and children tall enough to reach the center for the skimming. Until then, they traded the leftover cream to their neighbor for finished cheese.
 
 Twelve years had passed since their marriage. They were years of love, kinship, hard work, and children. Their hearth was one of the best smelling in all of the land. They had four children, two boys and two girls. They eagerly helped with chores, and brought very little mischief.
 
@@ -1153,17 +1169,17 @@ Huginn: "Even ravens skip over the goblin-sick. It's such a hateful malice."
 
 Ealhild retreated inside, confident that her measures would at least track the theft. The fire under the elderberries had grown dim, so the syrup must be complete, she thought. She ladled the syrup into their clay-bottles. They seemed warm still, and so surely the fire had warded the goblin-magic.
 
-The next day, Ealhild reviewed the night's work. The coal lines and leveling sticks seem to show that the grain had not been touched. But, she noted also the oil had traveled to another part of the bin. The outline of a small finger on the side of the bin betrayed its origin. "Oh my sweet spirit. Only you are smart enough to counter the coal lines and leveling sticks, because you know how to erase, how to replace. But you can't fool the oil." She ran to check on the horse and livestock, and found extra grain in the horse's feed. She also saw that the horse's mane had been neatly braided, and that her horseshoes were freshly plucked and clean.
+The next day, Ealhild reviewed the night's work. The coal lines and leveling sticks seemed to show that the grain had not been touched. But, she noted also the oil had traveled to another part of the bin. The outline of a small finger on the side of the bin betrayed its origin. "Oh my sweet spirit. Only you are smart enough to counter the coal lines and leveling sticks, because you know how to erase, how to replace. But you can't fool the oil." She ran to check on the horse and livestock, and found extra grain in the horse's feed. She also saw that the horse's mane had been neatly braided, and that her horseshoes were freshly picked and clean.
 
-Smiling, Ealhild finally knew her thief, and she was relieved. It was a _tomte_—what most folk in the Danelaw called a _nisse_—a barrow-spirit that had come with her family's capstone twelve years before. The _nissar_ were spirits who come forth from the barrows, and guard the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and it was sensing a terrible winter was coming. A _nisse_ would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The _nisse_ had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
+Smiling, Ealhild finally knew her thief, and she was relieved. It was a _tomte_—what most folk in the Danelaw called a _nisse_—a barrow-spirit that had come with her family's capstone twelve years before. A nisse was a spirit who came forth from the barrows, and guarded the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and this _nisse_ was sensing a terrible winter was coming. A _nisse_ would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The _nisse_ had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
 
 She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin. "We need extra tonight... and I know just what to make," she thought to herself, as she steeled herself inside.
 
 She prepared a full meal fit for the first *true* winter night: mutton on the bone, pickled herring relish with sharp radishes, fresh bread, skyr cheese with honey, roasted sheep marrow directly from the fire, and salted ale-soaked prunes. Their feast lasted well into the evening. They joked about the braids on the horse... Osric thought the girls were playing maid to the horse, but Ealhild quietly knew the truth.
 
-The children were sent to bed, stomachs filled and laughter spent. The wind was truly howling now, like the Wild Hunt was at their doorstep. But they had seen winter before, and these wolves lost most of their bite under the childrens' blankets.
+The children were sent to bed, stomachs filled and laughter spent. The wind was truly howling now, like the Wild Hunt was at their doorstep. But they had seen winter before, and these wolves lost most of their bite under the children's blankets.
 
-Ealhild now set about soothing the _nisse_. Osric begged for her to come to bed, but she was adamant. "The spirit visiting the larder needs his first-winter meal too. Rye bread, and an eye of porkbelly. Please fetch me the family bowl. We must teach this spirit to work with us and trust us. It's unfamiliar to these lands, as I once was, and must understand that we can provide for all on our land." Osric dutifully obeyed, but his wife's offering seemed... different... from what *his* mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth the mischief that would prevent."
+Ealhild now set about soothing the _nisse_. Osric begged for her to come to bed, but she was adamant. "The spirit visiting the larder needs his first-winter meal too. Rye bread, and an eye of porkbelly. Please fetch me the family bowl. We must teach this spirit to work with us and trust us. It's unfamiliar to these lands, as I once was, and must understand that we can provide for all on our land." Osric dutifully obeyed, but his wife's offering seemed... different... from what *his* mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth preventing the mischief that would otherwise follow."
 
 Ealhild took the offering and set it on the transition stone. She retreated in quiet, and they both went to bed. Ealhild drifted fast asleep.
 
@@ -1195,7 +1211,7 @@ The sickness hit the moment they each went to bed. The poison stole the air from
 
 The _nisse_ waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
 
-The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl." it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine - *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
+The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl," it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine - *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
 
 The small _nisse_'s fury burst forth on to its skin. The madness oozed from its pores like a grey miasma. Just as it leaked out, it breathed, and flushed back in through every pore and orifice. It swelled into every corner of the creature. It grew, its heart pumping miasmic hate out of, and back into its being.
 
@@ -1209,7 +1225,7 @@ The _nisse_ paused. It expected to hear screams. It expected to hear the pleas o
 
 Next, the _nisse_ trudged through the snow, it's eyes set on the eorth-hord. With a stony hand, it reached down and grabbed one side of the roof. With a violent crunch, it ripped the roof clean off, and threw it. It threw grain chests, and supplies of all kinds out into the snow.
 
-It's anger sated, the barrow-wight's form shifted. Slowly, the miasma released from its pores into the ether as its fury subsided. The creature’s great, stone-like bulk had shriveled back into its small, withered frame. The miasmic fury that had filled its veins during the night was gone, leaving only a cold, hollow weight.
+Its anger sated, the barrow-wight's form shifted. Slowly, the miasma released from its pores into the ether as its fury subsided. The creature’s great, stone-like bulk had shriveled back into its small, withered frame. The miasmic fury that had filled its veins during the night was gone, leaving only a cold, hollow weight.
 
 It entered the doorway, piles of thatch and snow in mounds before it. It crawled and slipped, finally finding the remains of the family. It found the bodies all in one place - the children had been brought with Ealhild to bed. She was still embracing her children, a crash of timber and snow on top of them.
 
@@ -1321,7 +1337,7 @@ The daub didn't just fall; it was _pushed_? A deliberate, rhythmic pressure fro
 
 "Maybe one... of the children... survived? Is that... possible? Maybe... I miscounted?" The thoughts raced through his head, while his lungs still refused breath.
 
-"Ealhild? Little Ones?" he almost managed a normal tone. His breath was ragged though, as the adrenaline was driving his lungs harder than he could stand. But still there was no response. He laid there, on the floor, staring at the wall.
+"Ealhild? Little Ones?" he almost managed a normal tone. His breath was ragged though, as the adrenaline was driving his lungs harder than he could stand. But still there was no response. He lay there, on the floor, staring at the wall.
 
 Another piece of daub pushed in, this time a foot higher.
 
@@ -1380,7 +1396,7 @@ His vision cleared, focusing on the floor. A bowl of thin, steaming porridge sat
 
 Osric stared at the meal, his stomach twisting with a mix of hunger and dread. "Clever creature," he whispered. "Now I know... your game. I’m to be... fattened up first... aren't I?"
 
-He took bites when he could, alternating with heaved breaths. It's as if he couldn't afford to swallow lest his breathing fail.
+He took bites when he could, alternating with heaved breaths. It was as if he couldn't afford to swallow lest his breathing fail.
 
 "You win. I'm fat now," he mocked again. He had no intention to let this creature nurse him back to health, but he knew he needed to stay here by the fire as long as possible.
 
@@ -1408,17 +1424,17 @@ They were still. There was still so little he could do, but he found he needed t
 
 Behind the barrow stone, in the dark crack where the cold did not reach, the _nisse_ was listening.
 
-It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the _nisse_ could not—_must not_—show itself to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen in its true form was to break the bond. It was a pact the _nisse_ was resolved, now more than ever, to renew.
+It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the _nisse_ could not—_must not_—show its true nature to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen in its true form was to break the bond. It was a pact the _nisse_ was resolved, now more than ever, to renew.
 
 That winter was the coldest in a lifetime. Osric's strength returned slowly. Water was plentiful so long as the fire could melt snow, but he had to ration his grain with agonizing care. That meant keeping the hearth-fire high to make sure he was warm. He had felled enough timber and stacked enough wood for what he thought would be a harsh winter. This winter, however, was relentless.
 
 Once Osric could finally stand on his own two feet, he decided to see what remained of his livestock. He chose a day when the air was still, when the cold's bite didn't cut quite as deep. He staggered out to the byre, his knees trembling, but stopped when he reached the door. The heavy drifts of snow had already been neatly dug away from the entrance.
 
-The hair on the back of his neck flared. He smelled the hint of fire - the absolute worst enemy of a byre. He struggled with the latch and pushed the door open. Inside, the air was thick with the familiar, comforting smell of manure and warm beast-breath. The animals were healthy, their coats dry.
+The hair on the back of his neck flared. He smelled the hint of smoke - the absolute worst enemy of a byre. He struggled with the latch and pushed the door open. Inside, the air was thick with the familiar, comforting smell of manure and warm beast-breath. The animals were healthy, their coats dry.
 
 But as he stepped inside, he felt a strange patch of warmth rising from the clay floor. He looked down.
 
-In the middle of the aisle, a large, flat river-slate was set flush into the dirt. Atop it sat the wooden pail of melting snow. There was no fire. There was no smoke. Yet, when Osric knelt and touched the slate, it was hot enough to bite his fingers.
+In the middle of the aisle, a large, flat river-slate was set flush into the dirt. Atop it sat the wooden pail of melting snow. There was no fire. There was no visible smoke. Yet, when Osric knelt and touched the slate, it was hot enough to bite his fingers.
 
 He frowned, his farmer's brain instantly searching for the trick. He leaned down, pressing his ear to the damp clay.
 
@@ -1428,7 +1444,7 @@ Osric sat back on his heels, his mouth slightly open.
 
 "A draft-channel," he whispered. "You dug under the wall. You're burning the dung in the earth to heat the stone." He stared at the hot slate, then at the dark corners of the byre. "My grandfather told me the old Romans built their baths like this. You... you built a bath-house for my livestock and heat it with their own manure?"
 
-There was no answer, of course. But the wooden pail gave a soft, bubbling plop as the snow turned to water, as if to say - "of course".
+There was no answer, of course. But the wooden pail gave a soft, bubbling plop as the snow turned to water, as if to say... "of course".
 
 Osric let out a low, defeated chuckle. "Well. I suppose I can't complain about the ventilation."
 
@@ -1538,17 +1554,17 @@ Then, the _nisse_ was all alone.
 
 After a moment, it went back to the ice barrow of Ealhild and the children. It stared at them for a moment, their peaceful expressions, and thought of how beautiful they were. It reached over to the door, and placed it back over the icy hole, and packed it again as Osric had done.
 
-The _nisse_ ran into the byre. The warming stone had been kicked aside. Every animal was taken, along with most of the remaining hay. There was nothing left.
+Then the _nisse_ ran into the byre. The warming stone had been kicked aside. Every animal was taken, along with most of the remaining hay. There was nothing left.
 
 It sat on the floor, defeated.
 
 High on a timber of the byre, a raven called to the _nisse_. "Caw! Caw!" The _nisse_ stared at it for a moment. "Caaaw!" the raven flew out of the byre, and landed on a tree branch outside, looking back at the _nisse_ expectantly.
 
-The _nisse_ understood what the raven was saying. It raced to the corner and grabbed an empty barrel. Barrel in hand, it bound into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The _nisse_ took ash from the hearth, and the roasting spit.
+The _nisse_ understood what the raven was saying. It raced to the corner and grabbed an empty barrel. Barrel in hand, it bounded into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The _nisse_ took ash from the hearth, and the roasting spit.
 
 All of it went into the barrel.
 
-Finally, it found a length of rope. It dug the barrow-stone from the threshold, and wrapped it heavily, leaving two arm-loops. It lifted the barrow-stone onto its back, using the loops as straps. There, in the barrow-stone's impression in the mud laid the oil string. The _nisse_ grabbed that last, and tied it to its belt. And the _nisse_ headed out to the road, barrow-stone on its back, barrel in its hands. It stayed in the shadows, following the raven to Leicester.
+Finally, it found a length of rope. It dug the barrow-stone from the threshold, and wrapped it heavily, leaving two arm-loops. It lifted the barrow-stone onto its back, using the loops as straps. There, in the barrow-stone's impression in the mud lay the oil string. The _nisse_ grabbed that last, and tied it to its belt. And the _nisse_ headed out to the road, barrow-stone on its back, barrel in its hands. It stayed in the shadows, following the raven to Leicester.
 
 ---
 
