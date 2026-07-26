@@ -305,15 +305,17 @@ Huginn: "I can beat you into submission."
 
 ### Part Two: The Cynn
 
-Deep in the heart of Leicester, behind the Jewry wall, lies the tall stone home of ancient giants. The Romans built their walls high - so high that the townsfolk were convinced that they were giants indeed. The home is free of human souls now, or so most people think as they pass by the crumbling arches in the dusk. The townsfolk cross themselves and quicken their pace, believing the red-brick vaults may hold more than just stagnant rainwater and the memory of the dead.
+Deep in the heart of Leicester, behind the Jewry wall, lay the ruin of the ancient bathhouses. During the day, the Church had been collecting statues, archways, stone, and brick from this ruin for several years. The sprawling bathhouse was free of human souls after sunset, or so most people thought as they passed by the crumbling arches in the dusk. The townsfolk would cross themselves and quicken their pace, believing the red-brick vaults held more than just stagnant rainwater and the memory of the dead.
 
-They are right.
+They were right.
 
-The ruins are not empty. The bathhouse may not carry the breath of humans or the tread of feet during the day, but the winds of the night avoid the spirits that ply their trade now. Deep within the roots of the stone, where the ancient giant hearths have been cold for centuries, a different kind of heat is waking. It does not smell of wood-ash, or the rancid fat of the _Ulfhednar_ camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smells of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
+The ruins were not empty. The bathhouse saw the slow deliberate work of the stone-claimers during the day, but the winds of the night avoided the spirits that plied their trade in the dark.
+
+Deep within the roots of the stone, where the ancient hearths have been cold for centuries, a different kind of heat was waking. It did not smell of wood-ash, or the rancid fat of the _Ulfhednar_ camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smelled of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
 
 There is no wind beneath the earth, yet the soot on the low ceilings shifts and dances. If a man were to press his ear to the damp masonry, he would not hear the parchment-peace being discussed by the lords, nor the weary sighs of Cynewulf’s rearguard. He would hear a sound high and sharp, like a needle scraping through a burial shroud. He would hear the tiny sound of a child’s giggle echo from the black furnace-mouths, followed by a low, hollow whistle.
 
-They did not labor with the clumsy strength of mortal blacksmiths. These were the _Weylands Cynn_—the scattered bloodline of the Great Smith himself. Centuries before, Weyland had walked the earth at the height of his craft, leaving his genius stamped into the marrow of his descendants. Men still remembered a few of his works—_Mímung_, and, if later storytellers were to be believed, _Excalibur_, the sword of King Arthur—but they had long forgotten the master. Their thoughts now rested on prayers, stone angels, and the plain steel of human hands. The Cynn alone still remembered the ancient foundry marks.
+They did not labor with the clumsy strength of mortal blacksmiths. These were the _Weylands Cynn_. These were elves of the scattered bloodline of the Great Smith himself. Centuries before, Weyland had walked the earth at the height of his craft, leaving his genius stamped into the marrow of his descendants. Men still remembered a few of his works. Greatest among them, if later storytellers were to be believed, was _Excalibur_, the sword of King Arthur. But mortals had long forgotten the master. Their thoughts now rested on prayers, stone angels, and the plain steel of human hands. The Cynn alone still remembered the ancient foundry marks.
 
 The day of the debate came before the horrible winters of Osric's farm, the raids of Leicester that killed Elswyth's parents, and Cynewulf's ordination as priest. Time had marched forward. Soon would come the convergence... the meeting of Osric, Elswyth, Cynewulf, and Wulfhere. The parchment-peace was near. Woden and Freyr's debate was still fresh in their minds, and they knew they had little time to spare.
 
@@ -363,11 +365,13 @@ Woden's eye crackled with an energy of momentary hate. "You *dared* defy me. Yes
 
 Ingvar looked at Ingrid. He saw the golden light of Freyr’s promise and the grim reality of Woden’s demand. "Agreed," Ingvar said, his voice echoing with the finality of a closing tomb. "I am the yard to the edge. The shieldwall is the fence. Let the forging begin."
 
-Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered - the harvest of the barrow is at hand!"
+Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered. The harvest of the barrow is at hand!"
 
 Shadowy hammers held by invisible hands gravitated toward the forge. Coal from a hidden well erupted at the Ingrid's feet, and she scooped the black stones furiously into the empty hearth. The furnace burst into flame instantly. The heat felt moderate at first, but it turned a blinding yellow-white with the first breath of the bellows.
 
-Freyr and Woden each took a step back. They watched in the dying sunlight the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil - a final offering of somber joy.
+Freyr and Woden each took a step back. They watched in the dying sunlight the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil.
+
+A final offering of somber joy.
 
 Freyr's smile grew ever broader, as he witnessed the new billet of steel and wrought iron emerge from the crucible. It flew to the anvil, and a hundred dizzying hammers worked to the sound of a giggling song of clinks and clangs. The sparks of the hammers reflected in Woden's eye as he sternly watched the progress while gripping his spear. The form quickly turned from a rectangular billet, to a large farmer's broadseax. It was heavy and long, meant for a woodsman's chop and a reaping of fall lambs. It had runes too, which betrayed its more divine inspiration.
 
@@ -433,7 +437,7 @@ Woden stepped forward to stare into the eyes of the redcap, studying his madness
 
 Woden looked at Freyr. "Agreed?"
 
-"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade - light and poised like the moonlit marten upon the bough!" He and Woden stepped back once more to let the forging commence.
+"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade. Make it light and poised like the moonlit marten upon the bough!" He and Woden stepped back once more to let the forging commence.
 
 The foreman of the forge-elves, Besidius, leaned close and whispered into Freyr's ear.
 
@@ -658,7 +662,7 @@ Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for
 
 The fyrdmen clustered around his horse.
 
-"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You - and you - gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
+"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You... and you... gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
 
 He looked down at the mud.
 
@@ -722,7 +726,7 @@ The one-eyed archer scrambled to the top of one of the carts near the corner. He
 
 Osric stood in the wall, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole spear, but it didn't last long. A broad-axe bit into the pole. The ash shaft sheared in two with a single, mocking crack. Osric dropped the useless shaft and leaned his full weight into his shield, bracing its back with his free hand.
 
-For a few heartbeats neither side gave ground. Another arrow flew by Wulfhere's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Rognvaldr, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt - still in its groove - into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
+For a few heartbeats neither side gave ground. Another arrow flew by Wulfhere's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Rognvaldr, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
 
 Wulfhere seized his moment. A smile crept across his face. "Pull!"
 
@@ -828,7 +832,7 @@ She waded through the near-freezing water, each splash stealing air from her lun
 
 The ceiling was collapsed in parts, and the night sky was visible. The floor of the bathhouse was cracked marble tile, built on moist clay.
 
-Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. On the bench was a long narrow coffer of wood, its top had an iron symbol: an oak tree sprouting from an anvil, hammers crossed.  On top of the coffer lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle - the one she knew all too well - beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
+Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. On the bench was a long narrow coffer of wood, its top had an iron symbol: an oak tree sprouting from an anvil, hammers crossed.  On top of the coffer lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
 
 She heard the footsteps of Vikings around the rainwater chute above, and they could see her track ended there. They were determined to follow her into the dark.
 
@@ -1215,6 +1219,8 @@ His eyes fell upon the chest by the anvil, still waiting to be opened.
 
 Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length stiff waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay a shoulder-sling of rawhide with four steel-tipped javelins.
 
+Behind the chest lay a long linen sheet pulled about a pole. He pulled the pole from the sheet... It was his father's boar-spear, its reforged socket fitted to a new shaft of stout oak. The flanks and edge of the broad spearhead gleamed with fresh polish. Woven leather wrapped the haft where the hands would grip it, and an iron shoe protected the butt.
+
 He looked around once more.
 
 "So now the fire-breathing dragon... the king of the straw-daub... the master of cow spas... wants to give me a fighting chance, is it?"
@@ -1271,7 +1277,7 @@ To know my secret, or settle score?
 Right in your hand, you find us both!
 To iron bound, to steel betrothed.
 But if you seek the redcap's grace,
-Speak his spell - he'll take my place.
+Speak his spell, he'll take my place.
 ```
 
 The viking was wading through the water, eager to be the first to take Elswyth as a prize.
@@ -1317,7 +1323,7 @@ The redcap resumed his commanding, authoritative tone.
 
 "Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-Bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
-Those last words came with almost a bow - if he could bow - just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
+Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
 A strange warmth flooded her limbs. Not the warmth of a hearth or summer sun, but something sly and invasive, creeping through her blood like roots beneath soil.
 
@@ -1393,7 +1399,7 @@ Trunk blood flows from the deep root,
 All for floor, and none for boot.
 ```
 
-She saw a gap in the armor - a mere sliver of skin between the bottom of his mail and the top of his boot. To her, it was three fingers wide and the blade was already in motion. She slashed from her knees. The moon-bright edge slipped into the gap and grated against bone.
+She saw a gap in the armor. It was a mere sliver of skin between the bottom of his mail and the top of his boot. To her, it was three fingers wide and the blade was already in motion. She slashed from her knees. The moon-bright edge slipped into the gap and grated against bone.
 
 The Viking screamed and staggered backward.
 
@@ -1709,14 +1715,14 @@ Inside the coffer she found a neatly folded set of charcoal-black garments. A su
 
 Beneath the clothing, she also found a woodsman's felling axe. Its broad bit carried a _welkin-iron_ edge, bright as _Monanleoht's_ blade. The ash haft was wrapped in supple leather, its shallow flutes fitting naturally beneath her fingers.
 
-Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three small brass bells - each scarcely larger than a walnut - and small iron fittings whose purpose she could only guess.
+Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three tiny brass bells and small iron fittings whose purpose she could only guess.
 
 
 [↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter Nine: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
-Cynewulf stood on the porch of the church. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Rognvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
+Cynewulf stood on the porch of the church. His legs were tired from running, his soul weary from searching. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Rognvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
 
 Rognvaldr stood and mocked him in his language. He never cared to learn the language of the Saxons. It was clear that he meant to do more than just kill Cynewulf.
 

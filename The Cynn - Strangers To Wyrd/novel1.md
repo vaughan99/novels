@@ -674,7 +674,7 @@ That morning, she took the news of the peace with dread. She had no ear for war,
 
 Osric's Tyne River fyrd was one of the companies encamped just outside Under-Geat. Their wagon master was a Scot named Murdock, a fire-bearded man whose first instinct was always to count: wagons, oxen, barrels, sacks, and finally people. He had seen Elswyth faithfully deliver her bounty for several weeks. And with the mud, his count of spare axles was down to a single hand. He needed a forester to prepare for the worst. Broken axles did not grow on wagons, and hungry men did not march on promises.
 
-Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her wedge-driving cudgel, an assortment of iron and wooden wedges, her clean Easter tunic wrapped in linen, and the twine and triggers of her traps - all kept in a bundle of empty charcoal sacks.
+Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her wedge-driving cudgel, an assortment of iron and wooden wedges, her clean Easter tunic wrapped in linen, and the twine and triggers of her traps. It was all kept in a bundle of empty charcoal sacks.
 
 And finally, her hand found the smooth lump of coal in her pocket, polished over years of handling until it shone like black glass.
 
@@ -954,7 +954,7 @@ The wolf-man’s grin faltered slightly against that hollow stare, his howl dyin
 
 Wulfhere looked on in approval, watching the challenge with a smile. He liked to know the character of men well before their throat met his blade. With one last glance, he turned with his men and headed north.
 
-Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath - a long shuddering exhale. He stared down at the deep, muddy impressions of the wolf-man who had stood nine inches from his. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes. He turned his back to the road to survey the state of the wagons.
+Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath in a long shuddering exhale. He stared down at the deep, muddy impressions of the wolf-man who had stood nine inches from his. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes. He turned his back to the road to survey the state of the wagons.
 
 Cynewulf's new men had watched the exchange in silence.
 
@@ -1068,7 +1068,9 @@ Huginn: "There, happy?"
 
 She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow.
 
-Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, he immediately found what he was looking for - a plot of land for his service. He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone was put as the cap on the barrow, the black jet streaks shining in the sun.
+Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
+
+He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone with jet was put as the cap on the barrow, the black streaks shining in the sun.
 
 Her grand-father bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
@@ -1126,8 +1128,8 @@ She arrived at the cottage in five days, a reasonably fast trek. Osric's fyrdmen
 
 She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone: 
 
-ᚠ - Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and 
-ᛟ - Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
+ᚠ: Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and 
+ᛟ: Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
 
 The dowry-promise of more cows was paid two years after she arrived, bringing their pen to four cows. Their wealth steadily grew, as Osric could now provide grain, and Ealhild provided the cream and butter. Osric had not yet built his cheese vats; that would come when he had enough cows, and children tall enough to reach the center for the skimming. Until then, they traded the leftover cream to their neighbor for finished cheese.
 
@@ -1149,7 +1151,7 @@ He remembered the theft.
 
 The trouble began in the _eorth-hord_.
 
-Ealhild would note that each time she pulled grain from the chests in the eorth-hord, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints, no gnawed wood, no leavings of rats. She brought Osric over, candle in hand, to show him. He was tired from late fall's work - sowing the fields, fixing thatch, mending and insulating pens - and had barely begun stocking the wood-stack. He had no time for such matters. "Ealhild, I trust you to work the eorth-hord," he muttered, his eyes heavy with exhaustion. "Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
+Ealhild would note that each time she pulled grain from the chests in the eorth-hord, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints, no gnawed wood, no leavings of rats. She brought Osric over, candle in hand, to show him. He was tired from late fall's work: sowing the fields, fixing thatch, mending and insulating pens, and stacking the cord-wood. He hadn't even begun to move the animals to the byre and separate the cockrels. He had no time for such matters. "Ealhild, I trust you to work the eorth-hord," he muttered, his eyes heavy with exhaustion. "Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
 
 And so she set to work. She started with the obvious things. "Maybe the feet of these rats are not heavy to make tracks?" With the width of her fingers as a guide, she meticulously measured each gap and every seal, every box and every salted wrap. Nothing. "Maybe my memory is failing. I need to track the theft." So she delved deep into her Freyr-family's wisdom. "Lines of charcoal on the chest walls, counting one two and three. A leveling stick in the center, notched one two and three. That's good enough for rats and children's hands. But... " She searched her mind for all the possibilities. She grabbed the vial of linseed oil, and bit of yarn from her knitting basket. "The last ward... I'll seal the chests with tallow, save a small hole at the top. I'll nail a linseed-oil string to mark the opening of the lid. If this is what I think it is, it will see the hole as an opening, and if it reaches in, the oil will catch the hand of the thief." She smeared tallow into the lines between the boards. She oiled the string, nailed it to the inside lid of the massive chest of grain. "Now let the thief come reveal its nature."
 
@@ -1213,7 +1215,7 @@ The sickness hit the moment they each went to bed. The poison stole the air from
 
 The _nisse_ waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
 
-The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl," it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine - *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
+The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl," it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine. That is *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
 
 The small _nisse_'s fury burst forth on to its skin. The madness oozed from its pores like a grey miasma. Just as it leaked out, it breathed, and flushed back in through every pore and orifice. It swelled into every corner of the creature. It grew, its heart pumping miasmic hate out of, and back into its being.
 
@@ -1221,7 +1223,7 @@ It was brought here. Given this land to tend. For twelve years, the _nisse_ had 
 
 The _nisse_'s fury turned inward. The swelling touched every sinew, every muscle. It hardened and softened with every beat, becoming stone, then mud, over and over as it grew larger. The _nisse_ grew to the size of a giant in the doorframe. It reached in one motion, tearing the door completely off with barely a flick of its wrist. The door flew through the air. With both hands, it grabbed beams of the doorway timbers that reached all the way into the ceiling. It lifted the entire thatch roof off the walls with a primal yet *silent*... scream. 
 
-It stopped, holding the roof's beams high in the air. Its arms were steady, its legs unshakeable. Then came the release; the _nisse_ simply let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold and snow rushed in, slapping the faces of Ealhild and the children - face already purple from the goblin sickness, and frozen in final agony.
+It stopped, holding the roof's beams high in the air. Its arms were steady, its legs unshakeable. Then came the release; the _nisse_ simply let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold and snow rushed in, slapping the goblin-sick purple faces of Ealhild and the children. Their expressions were frozen in final agony.
 
 The _nisse_ paused. It expected to hear screams. It expected to hear the pleas of desperate people, begging the _nisse_ for mercy. There was nothing. Only the sounds of broken timbers creaking in the wind.
 
@@ -1229,9 +1231,9 @@ Next, the _nisse_ trudged through the snow, it's eyes set on the eorth-hord. Wit
 
 Its anger sated, the barrow-wight's form shifted. Slowly, the miasma released from its pores into the ether as its fury subsided. The creature’s great, stone-like bulk had shriveled back into its small, withered frame. The miasmic fury that had filled its veins during the night was gone, leaving only a cold, hollow weight.
 
-It entered the doorway, piles of thatch and snow in mounds before it. It crawled and slipped, finally finding the remains of the family. It found the bodies all in one place - the children had been brought with Ealhild to bed. She was still embracing her children, a crash of timber and snow on top of them.
+It entered the doorway, piles of thatch and snow in mounds before it. It crawled and slipped, finally finding the remains of the family. It found the bodies all in one place; the children had been brought with Ealhild to bed. She was still embracing her children, a crash of timber and snow on top of them.
 
-All had the tell-tale sign of the goblin sickness - purple skin. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The _nisse_ searched further and found Osric next to the bed, not with the others under the heap.
+All had the tell-tale sign of the purple-skinned goblin sickness. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The _nisse_ searched further and found Osric next to the bed, not with the others under the heap.
 
  It looked at Ealhild’s purple lips. It looked at the quiet shapes of the children beneath the thatch. It knew the tragedy.
 
@@ -1295,7 +1297,7 @@ For two days, Osric was too weak to move. His mind slowly cleared, but only long
 
 "What did this?"
 
-He stared up at the sky; half of the roof had completely collapsed. He shivered - a deep, bone-rattling tremor that stole his strength. He was impossibly cold. He pulled everything closer to him to stay warm. He clawed at the ground, finding handfuls of fallen thatch to build a mound around him. He huddled beneath it like a wounded faun.
+He stared up at the sky; half of the roof had completely collapsed. He shivered, his body giving a deep, bone-rattling tremor that stole his strength. He was impossibly cold. He pulled everything closer to him to stay warm. He clawed at the ground, finding handfuls of fallen thatch to build a mound around him. He huddled beneath it like a wounded faun.
 
 "Am I dead?"  
 
@@ -1307,7 +1309,7 @@ He woke to a sound. He heard dragging, which stopped suddenly. He noticed that m
 
 His mind drifted again. He sunk into a dreamless pit.
 
-He woke to a piercing ray of sunshine. It pressed hard through a hole in the clouds, and landed clean on his face - almost warm. There was also something pressing into his hand. It had a feel, and a weight. He brought it up to his face, and saw the small crabapple peering back at him. It was shriveled and frost-bitten, a lonely survivor from the tree Ealhild had planted, yet it sat in his hand like a treasure. He didn't know he was hungry, until he saw it.
+He woke to a piercing ray of sunshine. It pressed hard through a hole in the clouds, and landed clean on his face. It was almost... warm. There was also something pressing into his hand. It had a feel, and a weight. He brought it up to his face, and saw the small crabapple peering back at him. It was shriveled and frost-bitten, a lonely survivor from the tree Ealhild had planted, yet it sat in his hand like a treasure. He didn't know he was hungry, until he saw it.
 
 "Hello? Is there someone... there?"
 
@@ -1343,9 +1345,9 @@ The daub didn't just fall; it was _pushed_? A deliberate, rhythmic pressure fro
 
 Another piece of daub pushed in, this time a foot higher.
 
-"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica - the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
+"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica. He couldn't remember the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
 
-He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before - the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
+He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before: the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
 
 "Ha-ha! See! You don't... exist!" he challenged. His mind struggled under the weight of logic, and he was proud that he had restored the status quo. The world was back to being a simple, miserable place where things stayed where they were put.
 
@@ -1386,7 +1388,7 @@ He turn back to his cove, his eyes stared at the ground. His expression went bla
 
 ### Part Three: The Feared
 
-For the next few days, Osric was resigned to living with a monster - which is easier, if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
+For the next few days, Osric was resigned to living with a monster. It is easier if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
 
 Every inch was a battle. His fingers, stiff and blue, clawed at the dirt floor, pulling his dead weight toward the cold stone. He arrived, and he fell into darkness yet again.
 
@@ -1402,7 +1404,7 @@ He took bites when he could, alternating with heaved breaths. It was as if he co
 
 "You win. I'm fat now," he mocked again. He had no intention to let this creature nurse him back to health, but he knew he needed to stay here by the fire as long as possible.
 
-He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He saw that the firewood pile by the hearth had enough for a day, and he could use some bits of the roof. At some point - soon - he would need more.
+He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He saw that the firewood pile by the hearth had enough for a day, and he could use some bits of the roof. At some point he would need more.
 
 "You know... the mare? She likes... the braids. In her hair... I can tell." He felt a strange, cold necessity in the words. He had to talk to the creature. If he didn't, he was only talking to his own madness, and he knew that was a road he couldn't afford to walk. Better to speak to the monster in the wall than to the ghost in his own head. Even if he had to break his speech to gasp for breath.
 
@@ -1432,7 +1434,11 @@ That winter was the coldest in a lifetime. Osric's strength returned slowly. Wat
 
 Once Osric could finally stand on his own two feet, he decided to see what remained of his livestock. He chose a day when the air was still, when the cold's bite didn't cut quite as deep. He staggered out to the byre, his knees trembling, but stopped when he reached the door. The heavy drifts of snow had already been neatly dug away from the entrance.
 
-The hair on the back of his neck flared. He smelled the hint of smoke - the absolute worst enemy of a byre. He struggled with the latch and pushed the door open. Inside, the air was thick with the familiar, comforting smell of manure and warm beast-breath. The animals were healthy, their coats dry.
+The hair on the back of his neck flared. He smelled the hint of smoke. Byres in flames are the worst thought of any farmer.
+
+He struggled with the latch and pushed the door open. Inside, the air was thick with the familiar, comforting smell of manure and warm beast-breath. The animals were healthy, their coats dry.
+
+There was no sign of fire.
 
 But as he stepped inside, he felt a strange patch of warmth rising from the clay floor. He looked down.
 
@@ -1450,7 +1456,7 @@ There was no answer, of course. But the wooden pail gave a soft, bubbling plop a
 
 Osric let out a low, defeated chuckle. "Well. I suppose I can't complain about the ventilation."
 
-The revelation dawned on him that there was plenty of meat here in this byre. He saw that the creature had found the creels and had separated the cockerels - it had separated the younger males into willow baskets for use as food for the winter. 
+The revelation dawned on him that there was plenty of meat here in this byre. He saw that the creature had found the creels and had separated the young cockerels into willow baskets for use as food for the winter. 
 
 Osric stared up at the hanging gallery of his winter meals. The silent partner had laid out the entire larder.
 
@@ -1458,7 +1464,7 @@ Osric stared up at the hanging gallery of his winter meals. The silent partner h
 
 He knew, looking at those wicker thrones, that they would see him through the rest of the winter.
 
-His eyes drifted to the mare in her stall. He stepped closer, squinting in the dim, warm light. The creature had even found time to maintain the braid on her mane - again.
+His eyes drifted to the mare in her stall. He stepped closer, squinting in the dim, warm light. The creature had even found time to maintain the braid on her mane. Again.
 
 Osric reached out and touched the plaited hair. It was looser this time. Not so tight on the edges.
 
@@ -1488,7 +1494,7 @@ For a week, Osric fought the wreckage of his own home. Every day was a grueling 
 
 Slowly, gently, he freed them from their dark tomb.
 
-He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began with a passageway in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite - not yet.
+He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began with a passageway in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite. Not yet.
 
 But to delay their peace longer invited the _Wodhere_—the spectral riders of the Wild Hunt who swept through the freezing night winds, eager to claim any wandering, unguided souls left stranded in the cold.
 
@@ -1578,7 +1584,7 @@ Huginn: "By the way, the Skeleton Crew likes the name. I'm going to be the lead 
 
 Muninn: "_Who_ ... likes _what_?"
 
-Huginn: "The Skeleton Crew - the ones who play the other instruments. They like the name... of the band."
+Huginn: "The Skeleton Crew. The ones who play the other instruments? They like the name... of the band."
 
 Muninn: "We don't have a band."
 

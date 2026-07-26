@@ -674,7 +674,7 @@ That morning, she took the news of the peace with dread. She had no ear for war,
 
 Osric's Tyne River fyrd was one of the companies encamped just outside Under-Geat. Their wagon master was a Scot named Murdock, a fire-bearded man whose first instinct was always to count: wagons, oxen, barrels, sacks, and finally people. He had seen Elswyth faithfully deliver her bounty for several weeks. And with the mud, his count of spare axles was down to a single hand. He needed a forester to prepare for the worst. Broken axles did not grow on wagons, and hungry men did not march on promises.
 
-Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her wedge-driving cudgel, an assortment of iron and wooden wedges, her clean Easter tunic wrapped in linen, and the twine and triggers of her traps - all kept in a bundle of empty charcoal sacks.
+Murdock offered her a place with the company before the wagons departed north. She accepted before she had time to think better of it. The ruin of her coaler's hut held little worth taking: a blanket, a knife, a cooking pot, her father's aging felling axe, her wedge-driving cudgel, an assortment of iron and wooden wedges, her clean Easter tunic wrapped in linen, and the twine and triggers of her traps. It was all kept in a bundle of empty charcoal sacks.
 
 And finally, her hand found the smooth lump of coal in her pocket, polished over years of handling until it shone like black glass.
 
@@ -954,7 +954,7 @@ The wolf-man’s grin faltered slightly against that hollow stare, his howl dyin
 
 Wulfhere looked on in approval, watching the challenge with a smile. He liked to know the character of men well before their throat met his blade. With one last glance, he turned with his men and headed north.
 
-Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath - a long shuddering exhale. He stared down at the deep, muddy impressions of the wolf-man who had stood nine inches from his. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes. He turned his back to the road to survey the state of the wagons.
+Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath in a long shuddering exhale. He stared down at the deep, muddy impressions of the wolf-man who had stood nine inches from his. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes. He turned his back to the road to survey the state of the wagons.
 
 Cynewulf's new men had watched the exchange in silence.
 
@@ -1068,7 +1068,9 @@ Huginn: "There, happy?"
 
 She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow.
 
-Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, he immediately found what he was looking for - a plot of land for his service. He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone was put as the cap on the barrow, the black jet streaks shining in the sun.
+Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
+
+He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone with jet was put as the cap on the barrow, the black streaks shining in the sun.
 
 Her grand-father bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
@@ -1126,8 +1128,8 @@ She arrived at the cottage in five days, a reasonably fast trek. Osric's fyrdmen
 
 She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone: 
 
-ᚠ - Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and 
-ᛟ - Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
+ᚠ: Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and 
+ᛟ: Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
 
 The dowry-promise of more cows was paid two years after she arrived, bringing their pen to four cows. Their wealth steadily grew, as Osric could now provide grain, and Ealhild provided the cream and butter. Osric had not yet built his cheese vats; that would come when he had enough cows, and children tall enough to reach the center for the skimming. Until then, they traded the leftover cream to their neighbor for finished cheese.
 
@@ -1149,7 +1151,7 @@ He remembered the theft.
 
 The trouble began in the _eorth-hord_.
 
-Ealhild would note that each time she pulled grain from the chests in the eorth-hord, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints, no gnawed wood, no leavings of rats. She brought Osric over, candle in hand, to show him. He was tired from late fall's work - sowing the fields, fixing thatch, mending and insulating pens - and had barely begun stocking the wood-stack. He had no time for such matters. "Ealhild, I trust you to work the eorth-hord," he muttered, his eyes heavy with exhaustion. "Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
+Ealhild would note that each time she pulled grain from the chests in the eorth-hord, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints, no gnawed wood, no leavings of rats. She brought Osric over, candle in hand, to show him. He was tired from late fall's work: sowing the fields, fixing thatch, mending and insulating pens, and stacking the cord-wood. He hadn't even begun to move the animals to the byre and separate the cockrels. He had no time for such matters. "Ealhild, I trust you to work the eorth-hord," he muttered, his eyes heavy with exhaustion. "Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
 
 And so she set to work. She started with the obvious things. "Maybe the feet of these rats are not heavy to make tracks?" With the width of her fingers as a guide, she meticulously measured each gap and every seal, every box and every salted wrap. Nothing. "Maybe my memory is failing. I need to track the theft." So she delved deep into her Freyr-family's wisdom. "Lines of charcoal on the chest walls, counting one two and three. A leveling stick in the center, notched one two and three. That's good enough for rats and children's hands. But... " She searched her mind for all the possibilities. She grabbed the vial of linseed oil, and bit of yarn from her knitting basket. "The last ward... I'll seal the chests with tallow, save a small hole at the top. I'll nail a linseed-oil string to mark the opening of the lid. If this is what I think it is, it will see the hole as an opening, and if it reaches in, the oil will catch the hand of the thief." She smeared tallow into the lines between the boards. She oiled the string, nailed it to the inside lid of the massive chest of grain. "Now let the thief come reveal its nature."
 
@@ -1213,7 +1215,7 @@ The sickness hit the moment they each went to bed. The poison stole the air from
 
 The _nisse_ waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
 
-The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl," it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine - *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
+The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl," it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine. That is *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
 
 The small _nisse_'s fury burst forth on to its skin. The madness oozed from its pores like a grey miasma. Just as it leaked out, it breathed, and flushed back in through every pore and orifice. It swelled into every corner of the creature. It grew, its heart pumping miasmic hate out of, and back into its being.
 
@@ -1221,7 +1223,7 @@ It was brought here. Given this land to tend. For twelve years, the _nisse_ had 
 
 The _nisse_'s fury turned inward. The swelling touched every sinew, every muscle. It hardened and softened with every beat, becoming stone, then mud, over and over as it grew larger. The _nisse_ grew to the size of a giant in the doorframe. It reached in one motion, tearing the door completely off with barely a flick of its wrist. The door flew through the air. With both hands, it grabbed beams of the doorway timbers that reached all the way into the ceiling. It lifted the entire thatch roof off the walls with a primal yet *silent*... scream. 
 
-It stopped, holding the roof's beams high in the air. Its arms were steady, its legs unshakeable. Then came the release; the _nisse_ simply let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold and snow rushed in, slapping the faces of Ealhild and the children - face already purple from the goblin sickness, and frozen in final agony.
+It stopped, holding the roof's beams high in the air. Its arms were steady, its legs unshakeable. Then came the release; the _nisse_ simply let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold and snow rushed in, slapping the goblin-sick purple faces of Ealhild and the children. Their expressions were frozen in final agony.
 
 The _nisse_ paused. It expected to hear screams. It expected to hear the pleas of desperate people, begging the _nisse_ for mercy. There was nothing. Only the sounds of broken timbers creaking in the wind.
 
@@ -1229,9 +1231,9 @@ Next, the _nisse_ trudged through the snow, it's eyes set on the eorth-hord. Wit
 
 Its anger sated, the barrow-wight's form shifted. Slowly, the miasma released from its pores into the ether as its fury subsided. The creature’s great, stone-like bulk had shriveled back into its small, withered frame. The miasmic fury that had filled its veins during the night was gone, leaving only a cold, hollow weight.
 
-It entered the doorway, piles of thatch and snow in mounds before it. It crawled and slipped, finally finding the remains of the family. It found the bodies all in one place - the children had been brought with Ealhild to bed. She was still embracing her children, a crash of timber and snow on top of them.
+It entered the doorway, piles of thatch and snow in mounds before it. It crawled and slipped, finally finding the remains of the family. It found the bodies all in one place; the children had been brought with Ealhild to bed. She was still embracing her children, a crash of timber and snow on top of them.
 
-All had the tell-tale sign of the goblin sickness - purple skin. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The _nisse_ searched further and found Osric next to the bed, not with the others under the heap.
+All had the tell-tale sign of the purple-skinned goblin sickness. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The _nisse_ searched further and found Osric next to the bed, not with the others under the heap.
 
  It looked at Ealhild’s purple lips. It looked at the quiet shapes of the children beneath the thatch. It knew the tragedy.
 
@@ -1295,7 +1297,7 @@ For two days, Osric was too weak to move. His mind slowly cleared, but only long
 
 "What did this?"
 
-He stared up at the sky; half of the roof had completely collapsed. He shivered - a deep, bone-rattling tremor that stole his strength. He was impossibly cold. He pulled everything closer to him to stay warm. He clawed at the ground, finding handfuls of fallen thatch to build a mound around him. He huddled beneath it like a wounded faun.
+He stared up at the sky; half of the roof had completely collapsed. He shivered, his body giving a deep, bone-rattling tremor that stole his strength. He was impossibly cold. He pulled everything closer to him to stay warm. He clawed at the ground, finding handfuls of fallen thatch to build a mound around him. He huddled beneath it like a wounded faun.
 
 "Am I dead?"  
 
@@ -1307,7 +1309,7 @@ He woke to a sound. He heard dragging, which stopped suddenly. He noticed that m
 
 His mind drifted again. He sunk into a dreamless pit.
 
-He woke to a piercing ray of sunshine. It pressed hard through a hole in the clouds, and landed clean on his face - almost warm. There was also something pressing into his hand. It had a feel, and a weight. He brought it up to his face, and saw the small crabapple peering back at him. It was shriveled and frost-bitten, a lonely survivor from the tree Ealhild had planted, yet it sat in his hand like a treasure. He didn't know he was hungry, until he saw it.
+He woke to a piercing ray of sunshine. It pressed hard through a hole in the clouds, and landed clean on his face. It was almost... warm. There was also something pressing into his hand. It had a feel, and a weight. He brought it up to his face, and saw the small crabapple peering back at him. It was shriveled and frost-bitten, a lonely survivor from the tree Ealhild had planted, yet it sat in his hand like a treasure. He didn't know he was hungry, until he saw it.
 
 "Hello? Is there someone... there?"
 
@@ -1343,9 +1345,9 @@ The daub didn't just fall; it was _pushed_? A deliberate, rhythmic pressure fro
 
 Another piece of daub pushed in, this time a foot higher.
 
-"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica - the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
+"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica. He couldn't remember the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
 
-He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before - the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
+He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before: the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
 
 "Ha-ha! See! You don't... exist!" he challenged. His mind struggled under the weight of logic, and he was proud that he had restored the status quo. The world was back to being a simple, miserable place where things stayed where they were put.
 
@@ -1386,7 +1388,7 @@ He turn back to his cove, his eyes stared at the ground. His expression went bla
 
 ### Part Three: The Feared
 
-For the next few days, Osric was resigned to living with a monster - which is easier, if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
+For the next few days, Osric was resigned to living with a monster. It is easier if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
 
 Every inch was a battle. His fingers, stiff and blue, clawed at the dirt floor, pulling his dead weight toward the cold stone. He arrived, and he fell into darkness yet again.
 
@@ -1402,7 +1404,7 @@ He took bites when he could, alternating with heaved breaths. It was as if he co
 
 "You win. I'm fat now," he mocked again. He had no intention to let this creature nurse him back to health, but he knew he needed to stay here by the fire as long as possible.
 
-He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He saw that the firewood pile by the hearth had enough for a day, and he could use some bits of the roof. At some point - soon - he would need more.
+He started counting his food. He counted the firewood. Then he looked at the hearth surround and knew that he needed to sleep here. He saw that the firewood pile by the hearth had enough for a day, and he could use some bits of the roof. At some point he would need more.
 
 "You know... the mare? She likes... the braids. In her hair... I can tell." He felt a strange, cold necessity in the words. He had to talk to the creature. If he didn't, he was only talking to his own madness, and he knew that was a road he couldn't afford to walk. Better to speak to the monster in the wall than to the ghost in his own head. Even if he had to break his speech to gasp for breath.
 
@@ -1432,7 +1434,11 @@ That winter was the coldest in a lifetime. Osric's strength returned slowly. Wat
 
 Once Osric could finally stand on his own two feet, he decided to see what remained of his livestock. He chose a day when the air was still, when the cold's bite didn't cut quite as deep. He staggered out to the byre, his knees trembling, but stopped when he reached the door. The heavy drifts of snow had already been neatly dug away from the entrance.
 
-The hair on the back of his neck flared. He smelled the hint of smoke - the absolute worst enemy of a byre. He struggled with the latch and pushed the door open. Inside, the air was thick with the familiar, comforting smell of manure and warm beast-breath. The animals were healthy, their coats dry.
+The hair on the back of his neck flared. He smelled the hint of smoke. Byres in flames are the worst thought of any farmer.
+
+He struggled with the latch and pushed the door open. Inside, the air was thick with the familiar, comforting smell of manure and warm beast-breath. The animals were healthy, their coats dry.
+
+There was no sign of fire.
 
 But as he stepped inside, he felt a strange patch of warmth rising from the clay floor. He looked down.
 
@@ -1450,7 +1456,7 @@ There was no answer, of course. But the wooden pail gave a soft, bubbling plop a
 
 Osric let out a low, defeated chuckle. "Well. I suppose I can't complain about the ventilation."
 
-The revelation dawned on him that there was plenty of meat here in this byre. He saw that the creature had found the creels and had separated the cockerels - it had separated the younger males into willow baskets for use as food for the winter. 
+The revelation dawned on him that there was plenty of meat here in this byre. He saw that the creature had found the creels and had separated the young cockerels into willow baskets for use as food for the winter. 
 
 Osric stared up at the hanging gallery of his winter meals. The silent partner had laid out the entire larder.
 
@@ -1458,7 +1464,7 @@ Osric stared up at the hanging gallery of his winter meals. The silent partner h
 
 He knew, looking at those wicker thrones, that they would see him through the rest of the winter.
 
-His eyes drifted to the mare in her stall. He stepped closer, squinting in the dim, warm light. The creature had even found time to maintain the braid on her mane - again.
+His eyes drifted to the mare in her stall. He stepped closer, squinting in the dim, warm light. The creature had even found time to maintain the braid on her mane. Again.
 
 Osric reached out and touched the plaited hair. It was looser this time. Not so tight on the edges.
 
@@ -1488,7 +1494,7 @@ For a week, Osric fought the wreckage of his own home. Every day was a grueling 
 
 Slowly, gently, he freed them from their dark tomb.
 
-He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began with a passageway in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite - not yet.
+He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began with a passageway in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite. Not yet.
 
 But to delay their peace longer invited the _Wodhere_—the spectral riders of the Wild Hunt who swept through the freezing night winds, eager to claim any wandering, unguided souls left stranded in the cold.
 
@@ -1578,7 +1584,7 @@ Huginn: "By the way, the Skeleton Crew likes the name. I'm going to be the lead 
 
 Muninn: "_Who_ ... likes _what_?"
 
-Huginn: "The Skeleton Crew - the ones who play the other instruments. They like the name... of the band."
+Huginn: "The Skeleton Crew. The ones who play the other instruments? They like the name... of the band."
 
 Muninn: "We don't have a band."
 
@@ -1652,7 +1658,7 @@ Huginn: "And yet here you are."
 
 ### Part One: The Hunters of the Pit
 
-In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gentle sloping hill was the church, a monument of stone stolen from the giants - Romans by another name - who built the Jewry Wall of Leicester. It was the Church of Saint Nicholas.
+In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gentle sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester. To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
 
 ---
 
@@ -1678,7 +1684,7 @@ The _Old Frith_ was also shared with the neighboring _Church of St. Martin_. Eac
 
 The villagers were commonfolk whose livelihoods centered on the church. They would bring their wares to the _Shadow Gate_ and wait for the creak of the old oak doors. Once open, they would file into the _Old Frith_, setting up stalls, telling gossip, and making exchanges. During the day, the gate would open and the clergy would mingle, telling stories, offering prayers and teaching lorica. Vendors from inside Leicester would arrive to the _Old Frith_. All business was conducted under the watchful eyes of two large stone face masks facing into the _Old Frith_.
 
-_Blackjoy_ was the one whose jaw was clenched and his eyes narrow. He was neither sad nor angry - more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest"—the villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
+_Blackjoy_ was the one whose jaw was clenched and his eyes narrow. He was neither sad nor angry; he was more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest". The villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
 
 _Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning, and its closing each evening. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather.
 
@@ -1706,7 +1712,7 @@ Beyond the _Old Frith_, the _Mission Quarter_ spread across the hillside. Graves
 
 Elswyth's family were coal-burners originally from the Saxon heartland, the town of _Witanceaster_ to the southwest. They prepared charcoal for the forges and the Church. As more local families entered the trade, each load of charcoal brought fewer pennies than the last. Their access to the wood-lots was getting more difficult as well. All they needed for their trade were their axes, a few coal-rakes, a shovel and a tinder box, so they packed up their few belongings and moved on.
 
-Whispers carried on the wind from _Leicester_ promised deep woods and the steady demand of war-forges and bell-founders. _Leicester_ was part of the _Five Burroughs of the Danelaw_, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers - weapon-forges and casting-pits for bells and crosses were always hungry for more coal.
+Whispers carried on the wind from _Leicester_ promised deep woods and the steady demand of war-forges and bell-founders. _Leicester_ was part of the _Five Burroughs of the Danelaw_, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers. Weapon-forges and casting-pits for bells and crosses were always hungry for more coal.
 
 The road was long and dangerous, but when they arrived, they found there was room for honest coalers to ply their trade. The only space for their new home in _Under-Geat_ was next to the Roman graveyard, at the foot of the hill. They built their hearth with stone from the Roman wall, as many had done.
 
@@ -1718,7 +1724,7 @@ Godwine was a man who read the forest like a prayer book. He ignored the soft, u
 
 Godwine and his family were observant Christians, but knew their profession kept them at the edges of parish life. Smoke and soot clung to them like a second skin. Until heavy rain or the Easter washing, they would sooner stand in the church porch than bring the smell of the charcoal pits before the altar.
 
-They would offer prayers to saints by the glow of the coal-fire. They owned no Bible, and were not literate enough to read one anyway, so their faith remained a private, oral tradition. Their favorite prayer was to _Saint Alexander of Comana_ - a fellow coaler and 'accidental bishop' of the Eastern tradition, a story whispered down from travelers and rarely heard in the local parish. Godwine's grandfather once heard of him from a traveling monk who visited _Witanceaster_ and worked as a cross-caster. The monk honored Saint Alexander on August 11th, and Godwine's grandfather kept up the tradition. They each kept coal tokens they called _Alexander's stones_ - a good luck charm for protection against burns. It was a perfect lump of charcoal, polished to a glassy sheen.
+They would offer prayers to saints by the glow of the coal-fire. They owned no Bible, and were not literate enough to read one anyway, so their faith remained a private, oral tradition. Their favorite prayer was to _Saint Alexander of Comana_. He was a fellow coaler and 'accidental bishop' of the Eastern tradition, a story whispered down from travelers and rarely heard in the local parish. Godwine's grandfather once heard of him from a traveling monk who visited _Witanceaster_ and worked as a cross-caster. The monk honored Saint Alexander on August 11th, and Godwine's grandfather kept up the tradition. They each kept coal tokens they called _Alexander's stones_, whose good luck brought protection from burns. It was a perfect lump of charcoal, polished to a glassy sheen.
 
 Before every large burn, they would gather hands, and pray:
 
@@ -1757,7 +1763,7 @@ The wolf-men came as a wolfpack in full deer-chase.
 
 Elswyth had woken early, as she wanted to be the first of the children fishing by the river's edge when the sun came up. Behind her, the screams rose like a chorus of suffering.
 
-The wolves swept everything from _Under-Geat_ to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed - and the sound carried. The Viking's wolf head snapped to her, his eyes locking on hers.
+The wolves swept everything from _Under-Geat_ to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed. The Viking's wolf head snapped to her, his eyes locking on hers.
 
 She didn't freeze. She jumped into the ice-cold river without a thought. He gave chase instantly, jumping headlong into the Soar.
 
@@ -1769,15 +1775,15 @@ She scrambled onto the opposite bank and found the road. From the road she knew 
 
 She was foot-sure through the undergrowth, turning the familiar wood into a maze. She had shed the wolf-man after an eternity of frantic flight; she was lucky her breath had held out that long. He spat into the dirt, looked once more toward the trees, then turned back toward the smoke rising beyond the _Soar_.
 
-When the chase ended, an eerie quiet settled on the _Charnwood_. Nothing dared move. The air was still, like it was afraid of being chased by wolves - or something else entirely.
+When the chase ended, an eerie quiet settled on the _Charnwood_. Nothing dared move. The air was still, like it was afraid of being chased by wolves... or something else entirely.
 
-The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves - Eadgyth among them - piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it. Her shiver was from fear, and she was desperately trying to beat it back. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
+The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it. She tried not to think of her mother being taken. Her shiver was from fear, and she was desperately trying to beat it back. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
 
 In the morning, she was awakened by a soft breath, and the smell of pipe-smoke of an herb she didn't know. "Hello," a small man-voice whispered. At the mouth of the hollow there was a woodland spirit, a wood-gnome by the tell of her parents' stories.
 
 Wood-gnomes, she was taught, were shy and humble creatures, but were nothing to be trifled with. They were known to be territorial, and might swat your ankles with their oaken swatches to ensure you left quickly. Yet this small man did not hiss or reach for a weapon.
 
-He was smaller than her, and dressed simply in traveling clothes: forest green breeches and matching shirt, and a coat made of woven bark - bast from the linden tree. He had a stocking hat, ruddy brown and damp, on his blank-face head. He barely had a few tufts of white hair poking out innocently from under the stocking hat pulled close to the brow. On his feet were shoes, also of woven bast, and his footfall was free and soundless.
+He was smaller than her, and dressed simply in traveling clothes: forest green breeches and matching shirt, and a coat made of woven bast from the linden tree. He had a stocking hat, ruddy brown and damp, on his blank-face head. He barely had a few tufts of white hair poking out innocently from under the stocking hat pulled close to the brow. On his feet were shoes, also of woven bast, and his footfall was free and soundless.
 
 He smiled, "Well it's a girl. Well, hello '_Meadow-Bud_'". He used the nickname her father would use. It gave her a small sense of ease, as it was a common nickname given to girls near the wood. But she also resented it, because she was so much more. "Come now, you're safe with me."
 
@@ -1809,7 +1815,7 @@ He jolted back to the present. "Where are my manners? We must get you home dear.
 
 Fussleton took her deeper into the wood, and set about training her how to live there. Elswyth listened this time. Her mother was right; a night spent without a meal is a lesson best not repeated.
 
-He brought her to his hovel, a massive log hollow with a door. She barely fit inside, but she felt safe. They talked into the night about her father's wood-collection and her mother's forest wisdom - the parts she could remember. He agreed with some, but was very judgmental about much of it.
+He brought her to his hovel, a massive log hollow with a door. She barely fit inside, but she felt safe. They talked into the night about her father's wood-collection and her mother's forest wisdom, or at least the parts she could remember. He agreed with some, but was very judgmental about much of it.
 
 "Yes, I knew your parents. They were strong, able folk. But their feet fell heavy on the branches. They were pilgrims in this wood, always passing through, never belonging. But I?" He leaned in, his eyes glinting in the dark. "I will teach you to live as a gnome does! I will teach you the songs and the _true_ rhythm of the wooded hearth."
 
@@ -1865,9 +1871,9 @@ The wood, the ground, even your skin!
 Everything drinks the moon in.
 ```
 
-He danced to his own tune around the fire, repeating the lines thirteen times. His feet both twirled and skipped with unnatural charm, his head bobbing until his cap - the one stained with dark, crimson ink - nearly flew off his head.
+He danced to his own tune around the fire, repeating the lines thirteen times. His feet both twirled and skipped with unnatural charm, his head bobbing until his cap nearly flew off his head.
 
-That is when he would pull out his bodhran and tipper - a small frame drum with a two-sided drumstick. He worked himself into a drumming frenzy, prancing and singing his rhymes to ancient melodies. He taught her to dance, to feel the drumbeat as if it were her own heart. Dances lasted into the morning hours to the light of the moon.
+That is when he would pull out his bodhran and tipper, the kind of small frame drum with a two-sided drumstick. He worked himself into a drumming frenzy, prancing and singing his rhymes to ancient melodies. He taught her to dance, to feel the drumbeat as if it were her own heart. Dances lasted into the morning hours to the light of the moon.
 
 ```
 Can you keep the beat with me?
@@ -2399,7 +2405,7 @@ After a visitor from York landed in the ditch, the villagers decided the _Coaler
 
 Not every morning ended with the forest.
 
-Sometimes Elswyth lingered at the edge of the Shadow Gate after selling her coal. She kept her cowl low and stood at the back of the little crowd while the parish priests taught the villagers loricas against wolves, fever, drowning, thieves, and - of course - restless spirits, like the _Coaler-Wight_.
+Sometimes Elswyth lingered at the edge of the Shadow Gate after selling her coal. She kept her cowl low and stood at the back of the little crowd while the parish priests taught the villagers loricas against wolves, fever, drowning, thieves, and restless spirits... like the _Coaler-Wight_.
 
 Most of the villagers learned only the rhythm. They repeated the Latin sounds without knowing the words, trusting that the holy cadence itself was a shield against darkness.
 
@@ -2624,7 +2630,7 @@ He twirled it once.
 
 Elswyth another step towards the axe.
 
-"The moon maiden, in your first poem - the family poem - was _she_ your last partner?" 
+"The moon maiden in your family poem... was _she_ your last partner?" 
 
 Elswyth took another careful step towards the axe.
 
@@ -2790,11 +2796,13 @@ He stomped his foot, and glared at Elswyth.
 
 "You coal-slinging, rake-legged woad snail! That hurt!"
 
+That's when she noticed. He had stopped. He wasn't looking to pounce. He wasn't waving his blade. He was truly thrown off his rhythm.
+
 Elswyth knew this wasn't a solution. It was time.
 
 She stepped onto the coals.
 
-"You want me? You'll have to fight me here." She pulled out her mushroom knife - the last bit of steel on her.
+"You want me? You'll have to fight me here." She pulled out her small mushroom knife. It was the last bit of steel that she had.
 
 "But my nose hurts! How am I supposed to properly enjoy this?"
 
@@ -2810,7 +2818,7 @@ He gingerly touched his nose.
 
 He sighed.
 
-"But I can't have you set yourself on fire. Can't rescue the dish that way."
+"But I can't have you set yourself on fire. Can't rescue the dish that way," he casually mentioned to himself.
 
 His smile faded into a grimace.
 
@@ -3223,7 +3231,7 @@ _The Road does not care for confessions, nor does it grant absolution. But it is
 
 _These are the lessons of the Road._
 
-For the first three days out of Leicester, Cynewulf carried a world of silver, or so it seemed. The boy's shield was hung over his back, and the axe he stole was stuffed into his belt. The sack of stolen church plate and goblets made his left hand numb with pain, while the small chest of coin rubbed his right hip raw. He wore the thegn's donation - the stolen iron byrnie - over his priestly woolens, the mail weighing down his every step. 
+For the first three days out of Leicester, Cynewulf carried a world of silver, or so it seemed. The boy's shield was hung over his back, and the axe he stole was stuffed into his belt. The sack of stolen church plate and goblets made his left hand numb with pain, while the small chest of coin rubbed his right hip raw. He wore the thegn's donated byrnie over his priestly woolens, the mail weighing down his every step. 
 
 He troubled anyone who might have a bit of food, or a drink of water. He managed to pay a shepherd moving sheep on the road for a bit of dried lamb. He found water in a pond off the road, wet from the spring rain. That didn't last long, though. He slept on the dirt, off the road. He never understood just how exhausting travel can be. He knew working the bell pits had made him strong, but nothing prepared him for this.
 
@@ -3323,7 +3331,7 @@ Cynewulf looked at the stallion, then at the _Griffons Noirs_ men. He thought of
 
 "Good," _Fer-Main_ said, turning his horse. "Follow us. When was the last time your mail saw oil, or a sand barrel? See the armorer when we next camp. You'll have to sleep in the open and earn your keep. If you survive."
 
-The _Griffons Noirs_ had a few wagons at the back of their train for supplies and pavilions. Cynewulf ran to try to catch a wagon, but even it was too fast for his tired legs, and it didn't slow for him. He followed the trail of the host and found their camp three hours later, as dark was settling in. The men and horses were fed, and setting up for sleep. There was no meal left - Cynewulf found empty bones to gnaw on, and crusts of bread that had fallen from their meal.
+The _Griffons Noirs_ had a few wagons at the back of their train for supplies and pavilions. Cynewulf ran to try to catch a wagon, but even it was too fast for his tired legs, and it didn't slow for him. He followed the trail of the host and found their camp three hours later, as dark was settling in. The men and horses were fed, and setting up for sleep. There was no meal left. Cynewulf found empty bones to gnaw on, and crusts of bread that had fallen from their meal.
 
 He curled up in the mud near the perimeter, his axe gripped in his hand, watching the black-clad figures move like ghosts through the firelight. He was a scavenger in a pack again, but this pack was like no other he had seen.
 
@@ -3373,7 +3381,7 @@ _Fer-Main_ went still. "Explain."
 
 Cynewulf didn't flinch. "You fight for coin, but you are always at the mercy of the men who write the contracts. You are always the outsider. A scriptorium remembers names, records debts, carries letters farther than horses, and speaks to every bishop and ealdorman before your company ever arrives."
 
-He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. Bronze is not kind - it requires heat, precision. The seal dies of the deeds and scrolls are made of bronze - easy to make for someone who knows how. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can write a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
+He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. Bronze is not kind. It requires heat and precision. The seal dies of the deeds and scrolls are made of bronze, which is easy to make for someone who knows how. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can write a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
 
 The captain’s eyes narrowed, a flicker of genuine, predatory interest crossing his face. He didn't ask if it was moral; he only saw the utility.
 
@@ -3487,7 +3495,7 @@ _Fer-Main_ didn't speak much, but he knew the weight of a tool when he held it.
 
 The mercenary captain didn't offer praise; he offered a horse. A destrier, still wild-eyed and trembling from the breaking-pen, stood waiting by the tent. Beside it lay a set of black leathers, oiled and supple, the mark of a man who belonged to the inner circle of the company.
 
-Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen didn't accept him - they didn't need to. He had accepted himself, and that was more important than all the silver in _Fer-Main's_ purse.
+Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen didn't accept him, but they didn't need to. He had accepted himself, and that was more important than all the silver in _Fer-Main's_ purse.
 
 _Blessed are the aware, for the Road reveals its shortcuts to them. Blessed are the cunning, for they shall forge the keys to locked gates. Woe to those who have neither, for they shall lose their silver to the bandits and the taxman._
 
@@ -3560,7 +3568,7 @@ The call came in the spring of 934. The Saxon King Athelstan was marching north,
 
 A rider from the King arrived.
 
-The rider did not look like a man who had traveled the Road; he looked like a man who had been carved out of the King’s own iron. He sat his horse in the center of the camp, the royal banner snapping in the wind like a warning. He was here for a lance at the head of a host - a vanguard of heavy cavalry.
+The rider did not look like a man who had traveled the Road; he looked like a man who had been carved out of the King’s own iron. He sat his horse in the center of the camp, the royal banner snapping in the wind like a warning. He was here for a vanguard of heavy cavalry.
 
 _Fer-Main_ stepped out of his tent, his hand resting casually on the pommel of his sword. He didn't bow. He didn't need to. He was the law of the camp, and the King’s rider knew it.
 
@@ -3576,7 +3584,7 @@ _Fer-Main_ didn't reach for the parchment. Instead, he cast a sideways glance t
 
 _Fer-Main_ called out to Cynewulf. "Look at the ink. Tell me if the King's silver weighs as much as his words."
 
-Cynewulf stepped forward, his black leathers creaking. He took the parchment from the rider’s hand, and an embroidered golden ribbon - a low-banner for the standard to prove their legal kingly authority to any who dare question. His fingers unrolled the stiff sheepskin. He knew the Winchester hand; he knew the exact formulaic Latin of Athelstan’s chancery. He scanned the lines, his eyes lingering on the green wax seal.
+Cynewulf stepped forward, his black leathers creaking. He took the parchment from the rider’s hand and an embroidered golden ribbon banner. It's the kind of standard a company might attach to theirs to prove their legal kingly authority to any who dare question. His fingers unrolled the stiff sheepskin. He knew the Winchester hand; he knew the exact formulaic Latin of Æthelstan's chancery. He scanned the lines, his eyes lingering on the green wax seal.
 
 "The script is genuine," Cynewulf said, his voice steady and clear. "The terms are as he says. The ribbon looks authentic, I see the King's arms in the embroidery. However, the salvage rights exclude any lands belonging to the Bishopric of Durham."
 
@@ -3618,7 +3626,7 @@ He had his destrier. His mail was old but well oiled and quite functional. He ow
 
 The Northumbrian border was a wall of grey mist and jagged, skeletal trees. As they crossed the threshold, the air grew colder, smelling of wet peat and the metallic tang of coming rain. There were eyes peering from the hedges, frightened by the trampling hooves. None dared to stand in the way.
 
-Cynewulf rode in the second rank, his eyes scanning from the tree's line to the lead horse - if there was just a hitch or turn, he'd have to instantly respond.
+Cynewulf rode in the second rank, his eyes scanning from the tree's line to the lead horse. If there was just a hitch or turn, he'd have to instantly respond.
 
 "They’re watching us," Cynewulf murmured, his voice low enough that only the man beside him could hear.
 
@@ -3628,9 +3636,9 @@ Suddenly the lead horse _did_ hitch. The company ground to a sudden halt, the ho
 
 "Sudden turn at the tree line... there. Tall shadow-trees. A fence. Those eyes at the hedges were a warning." The scout was speaking in Frankish, and Cynewulf's ears were bending to the rhythm of it. _Fer-Main_ turned to the company, "Trap ahead. Strike the banner! Double-wide formation at the trot." He pointed to Cynewulf and three others: "You, form at the rear. You're the bow hunters. Don't fail us. If they have bows, on my mark, sweep behind the fence. That's where they'll hide. And for Christ's sake, keep your shield high. _No mistakes!_"
 
-The company trotted in formation, as if they didn't suspect anything. Cynewulf formed at the rear with the other three, as they looked at each other in wild expectation. At any moment, they would be asked to ride hard, slipping behind a fence, jumping ditches, dodging trees, and riding for the kill. He was taught - with archers, every moment matters. A second of hesitation meant a shaft in the horse’s neck or your own.
+The company trotted in formation, as if they didn't suspect anything. Cynewulf formed at the rear with the other three, as they looked at each other in wild expectation. At any moment, they would be asked to ride hard, slipping behind a fence, jumping ditches, dodging trees, and riding for the kill. He was taught that with archers, every moment matters. A second of hesitation meant a shaft in the horse’s neck or your own.
 
-_Fer-Main_ didn't wait long. The moment he saw the outline of a bow, his hand went up in an iron claw. He knew that the bows would be trained on his column, and they wouldn't expect riders from their flank - hopefully - until it was too late.
+_Fer-Main_ didn't wait long. The moment he saw the outline of a bow, his hand went up in an iron claw. He knew that the bows would be trained on his column, and they wouldn't expect riders from their flank until it was too late.
 
 The column's shields went up in unison. The riders held their short heavy spears, for the long throw, waiting for the command.
 
@@ -3662,23 +3670,27 @@ Cynewulf watched as the men moved with practiced, emotionless speed. They didn't
 
 "Quickly, let their bodies find the ditch! We move!" _Fer-Main_ spurred his men to ride once again.
 
-_The Sword is a sudden, horrible thing - a threat that lands. Sometimes it's not a sword at all. A fist. A spear. A bolt from a crossbow. Many times, you don't even see it. Regardless, you must prepare for its arrival, like a host for his guests at a feast. Not enough preparation, and your guest will take everything you have._
+_The Sword is a sudden, horrible thing, a threat... that lands. Sometimes it's not a sword at all. A fist. A spear. A bolt from a crossbow. Many times, you don't even see it. Regardless, you must prepare for its arrival, like a host for his guests at a feast. Not enough preparation, and your guest will take everything you have._
 
 _So sayeth the Sword._
 
 ---
 
-[TODO replace]
+Huginn: "Muninn, I must protest. You've threatened me a few hundred times today alone."
 
-Huginn: "Now that's what I call going clubbing."
+Muninn: "Three hundred seventy-five, not including the one I have lined up right now."
 
-Muninn: "The boy was handy with a stick, you have to give him that."
+Huginn: "I'm beginning to think you don't like me."
 
-Huginn: "He caught a spear to the spine. When you go clubbing, it helps if know how to dance, is all I'm saying."
+Muninn: "I'm sorry you feel that way."
 
-Muninn: "Did you see the way Cynewulf looked at the stick-boy? The priest remembered something. From the church-home. The Viking boy he punched to death."
+Huginn: "Have you kept count of the number of times I've threatened you?"
 
-Huginn: "That boy didn't know how to dance either."
+Muninn: "I have. Six today."
+
+Huginn: "Maybe you should take that as a hint, brother. Maybe you should be more forgiving."
+
+Muninn: "I could be more forgiving, but then you'd never remember it."
 
 ---
 
@@ -3686,13 +3698,13 @@ That night's camp was brutally efficient. This was not the same company Cynewulf
 
 Cynewulf had a broken rib, simple and survivable. The pain was a reminder of his mistake. But he couldn't let the pain drive him to another mistake. He focused his mind again. _No mistakes._
 
-The plunder was split with cold efficiency. The quartermaster reviewed his salvage pony's items - two bows and quivers, a bronze Thor pendant, cheap wool clothing, and cheap cobbled shoes. The men's seaxes were taken as the picks by their killers. The quartermaster pawned the remaining items in camp on the spot - he would sell them later at market for their real price. Each rider received a share of silver immediately. This time it was a few pennies.
+The plunder was split with cold efficiency. The quartermaster reviewed his salvage pony's items: two bows and quivers, a bronze Thor pendant, cheap wool clothing, and cheap cobbled shoes. The men's seaxes were taken as the picks by their killers. The quartermaster pawned the remaining items in camp on the spot. He would sell them later at market for their real price. Each rider received a share of silver immediately. This time it was a few pennies.
 
 Once done, the quartermaster asked the customary question: _buying from the stores?_ This was where the real trade occurred, and the rule was absolute—only to the quartermaster. Every deal was negotiated through him, ensuring the company’s ledger remained balanced and the men stayed dependent on the company’s supply. The quartermaster knew the value, and the men wouldn't be able to cheat each other. That's how you keep morale and discipline.
 
 Cynewulf watched the process, surprised by the lack of argument. He had expected the usual chaos of the road—the haggling over rusted seaxes, the desperate trades of shirts for belts, the inevitable fights over who deserved the better share. Instead, this was cleaner, more efficient. It was a system. The killers got their single pick, the rest got a share of silver, and a chance to buy back the better items. And, he noted with a grim realization, it meant the company took its cut before the men ever touched a coin.
 
-Two days of hard-riding and the ground opened to the Wall. This was Hadrian's Wall. It used to be a barrier two-men high for miles across unforgiving terrain, used by the Romans to gird against waves of Picts. The Wall here was a graveyard of stone. Centuries of frost and gravity had done what the Picts never could, pulling the massive blocks down into a mound of rubble. This was a choice - storm the gate, or find a way through the rubble.
+Two days of hard-riding and the ground opened to the Wall. This was Hadrian's Wall. It used to be a barrier two-men high for miles across unforgiving terrain, used by the Romans to gird against waves of Picts. The Wall here was a graveyard of stone. Centuries of frost and gravity had done what the Picts never could, pulling the massive blocks down into a mound of rubble. This was a choice: storm the gate, or find a way through the rubble.
 
 _Fer-Main_ pulled his horse to a halt, his eyes scanning the "mouth" of the gate where Dere Street pierced the stone. It was lazily choked with some timber, sharpened stakes, and the debris of a dozen different skirmishes. Smoke curled lazily from behind the barricade, and the silhouettes of men moved along the ramparts, watching the _Griffons_ with the predatory stillness of wolves.
 
@@ -3830,7 +3842,7 @@ He didn't wait for an argument. He stood, the langseax heavy and unfamiliar at h
 
 The two survivors who were still whole exchanged a look—a silent, hollow communion of men who had seen the end of the world and were now tasked with carrying the news. They didn't argue. They didn't pray. They simply stood and finished the stripping.
 
-The gear - suits of mail, shields, spears, even a sword - was loaded on to two of the horses. The one horse that was severely injured was stripped of its saddle, its halter, and bags. They were loaded as well.
+Suits of mail, shields, spears, even a sword were loaded on to two of the horses. The one horse that was severely injured was stripped of its saddle, its halter, and bags. They were loaded as well.
 
 Cynewulf was no longer a priest. He knew that he had no communion, no oil, no way to administer the rites. He had the power only for hearing 'lay confession'... a desperate attempt for a soul to cleanse itself by speaking their secrets to another Christian. He wasn't sure if even that counted for him anymore. He offered, "Do you have a confession?"
 
@@ -3916,7 +3928,7 @@ He finally raised his head, his eyes cold and dismissive. "Go. Join the baggage 
 
 Cynewulf stood, his body aching, his soul hollowed out. He turned and walked out of the pavilion, leaving the King to his maps and his secrets. His shield and langseax were returned by the King's guard. "But where is my horse? I left it here..." Cynewulf was confused. He had handed the horse off to the guard. "Your friends took it with them. They were off to the carts. They seemed eager."
 
-He found the baggage train in the dark on foot. He asked the drivers for news of the _Griffons_ wagons. He finally found a driver with news; two men arrived with an extra horse, saying that they were the last of the _Griffons_ and that they were heading back to Frankia. They bid the drivers move quickly, and they left. They took everything. All he had was his armor, a shield, and his langseax - no coin, no supplies, and now, no army or lord to hire him.
+He found the baggage train in the dark on foot. He asked the drivers for news of the _Griffons_ wagons. He finally found a driver with news; two men arrived with an extra horse, saying that they were the last of the _Griffons_ and that they were heading back to Frankia. They bid the drivers move quickly, and they left. They took everything. All he had was his armor, a shield, and his langseax. He had no coin, no supplies, and now, no army or lord to hire him.
 
 He stared at the space where he was told the wagons had been waiting. It was just a few ruts, oxen hoofprints in the mud, and the smell of manure. Cynewulf's knew that there was no way to catch them. They were probably on their way to Hamwic to ferry back to Frankia, never to be seen again on these shores. He stood there staring at manure for what seemed like an eternity.
 
@@ -3942,7 +3954,7 @@ With the entire host moving north, he reasoned that the road's patrols would be 
 
 He headed south. He found them in the dark corners of the Midlands—men who had been chewed up by the same war and spat out by the same kings. They were a collection of broken things, warbands of ghosts who fought for silver because they had forgotten every other reason to fight.
 
-For years he drifted between bands, never staying longer than his trust in people -  and he trusted no man and called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. When jarls broke promises, he remembered. The old priest had called it "ember hate". He was a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
+For years he drifted between bands, never staying longer than his trust in people. He trusted no man and called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. When jarls broke promises, he remembered. The old priest had called it "ember hate". He was a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
 
 He was hollow man in a suit of mail, selling his blade to anyone who didn't ask about his past. He was a creature of the road, a ghost who had forgotten the shape of his own name.
 
@@ -3976,7 +3988,7 @@ Cynewulf didn't thank him. He didn't look at the chapel. He simply dragged his c
 
 It was all Cynewulf could do to stop himself from jumping into the coals. He kneeled before the altar of heat, resting his hands and cheek on the hot stone.
 
-The abbot left him in peace. A moment later, a sister brought a crust of bread and warm water. He found the first thing he could - a fist-sized piece of bloomery iron - and threw it at her. It missed, hitting the wall over her shoulder with a heavy crack. Slag and iron splinters rained into her hair and onto her shoulders. He screamed at her to leave. In the distance he could hear the crying of the nun, and the voice of the abbot.
+The abbot left him in peace. A moment later, a sister brought a crust of bread and warm water. He found the first thing he could and threw it at her. The fist-sized bloomery iron missed, hitting the wall over her shoulder with a heavy crack. Slag and iron splinters rained into her hair and onto her shoulders. He screamed at her to leave. In the distance he could hear the crying of the nun, and the voice of the abbot.
 
 "Do not blame him, child. The road has been cruel to that one. He has forgotten what kindness looks like."
 
@@ -4066,7 +4078,7 @@ One of them, a man with a scarred jaw and a cloak that had seen better decades, 
 
 "You look like a man who knows how to use that," the stranger grinned and pointed, his vowels rolling like stones in a river. He was gesturing to the langseax.
 
-Most of them were _Cymry_ skirmishers—warriors of the Powys hills, who fought with a ferocity that made the Saxon house-carls look like statues.  They fought light on their feet, using little armor - just small shields and fast dodges. They didn't line up in warfare, they preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle - ranged skirmishers that taunt you from afar, and whom you can never quite catch. Against such men, a shield wall felt less like a fortress and more like a prison..
+Most of them were _Cymry_ skirmishers. They were warriors of the Powys hills who fought with a ferocity that made the Saxon house-carls look like statues.  They fought light on their feet, avoiding blows with just small shields and fast dodges. They didn't line up in warfare, they preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle, ranged skirmishers that taunt you from afar, and whom you can never quite catch. Against such men, a shield wall felt less like a fortress and more like a prison..
 
 "We’re heading for Leicester. The Vikings are holed up, and there’s coin to be made in the breach. You look like a warrior. Will we see you there, or are you preparing our victory feast here for our return?" He laughed so hard, it was easy to understand he was joking.
 
@@ -4111,15 +4123,15 @@ The _Dannedd y Ddraig_ were a riot of noise, singing bawdy songs of the Welsh 
 Women: "I see and hear the Bishop cry!"
 Men: "Way, oh way, beyond the sea."
 Women: "Who now stole the Bishop's pie?"
-Men: "Don't look my way - it wasn't me."
+Men: "Don't look my way, it wasn't me."
 Women: "I see and hear the abbot's goose."
 Men: "Way, oh way, beyond the sea."
 Women: "The yard's a mess and the bird is loose!"
-Men: "Don't look my way - it wasn't me."
+Men: "Don't look my way, it wasn't me."
 Women: "I see and hear Sant Padrig moan."
 Men: "Way, oh way, beyond the sea."
 Women: "Some one played upon his bone."
-Men: "Don't look my way - it wasn't me."
+Men: "Don't look my way, it wasn't me."
 
 One of the men, a younger lad named "Baldy Gwyn", was caught off-guard and laughed hysterically, breaking the refrain. The company stopped as one, every finger pointing at Baldy.
 
@@ -4144,7 +4156,7 @@ _So sayeth the Wound._
 
 ### Part Five: The Liturgy of the Shield
 
-_A shield is trusted with the blows you cannot bear yourself. It protects you from harm, if only you will trust it. To trust it, you must know it will protect you. A community - even one as small as a family - has the same purpose. If you trust those around you and share each other's burdens, the whole suffers the blow easier than the individual._
+_A shield is trusted with the blows you cannot bear yourself. It protects you from harm, if only you will trust it. To trust it, you must know it will protect you. A community has the same purpose. If you trust those around you and share each other's burdens, the whole suffers the blow easier than the individual._
 
 _These are the lessons of the Shield._
 
@@ -4178,7 +4190,7 @@ On his back was the _tarian_, a small round shield the size of a man's hand and 
 
 He gestured to the spear in his hands— "And on the 8th day, God decided to give every soldier in all of Christendom a pointy stick. We just decided we should use it better than anyone else!"
 
-He patted his hip, where a short quiver of weighted darts, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_ - the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw. The iron makes them a little lighter, but re-usable."
+He patted his hip, where a short quiver of weighted darts, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_, the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw. The iron makes them a little lighter, but re-usable."
 
 Then, he reached into a small, wooden box-pouch at his belt and pulled out a wooden toggle attached to a thick wool cord. Trailing behind the toggle was a string of iron star caltrops, each one forged so that no matter how they landed, a single, needle-sharp point always faced the sky.
 
@@ -4186,11 +4198,11 @@ Then, he reached into a small, wooden box-pouch at his belt and pulled out a woo
 
 Cynewulf watched as Madoc coiled the line back into the box with practiced ease. It was a simple, brutal piece of engineering.
 
-Madoc reached into a small wooden cup on his belt covered with a leather strap. He held it up - it was a small clay pinchpot, the size of a plum. It had a cross traced in wax over the opening. "And this," Madoc said, his voice dropping to a conspiratorial whisper, "is the true _Anadl y Ddraig_—the Dragon’s Breath." We throw them with slings at shield walls.
+Madoc reached into a small wooden cup on his belt covered with a leather strap. He held up a small clay pinchpot no larger than a plum. It had a cross traced in wax over the opening. "And this," Madoc said, his voice dropping to a conspiratorial whisper, "is the true _Anadl y Ddraig_. When you succumb to it, you'll think our Red Dragon had just invited you into its entrails! We throw them with slings at shield walls."
 
 Cynewulf frowned, eyeing the strange clay sphere. "It’s just a tiny clay pot?"
 
-"Fermented stomach juice, and some mixture of spurge-milk, nettle-burn, hellebore, wild leeks, and foul iris—whichever is in season. We mix that with tallow and crushed Church's saintly glass," Madoc corrected, his grin widening. "When we have the mixture just right, we pack it into these clay-pot beauties. Bury them for a week under sheep dung, and let the rot do the work. Then we seal them with a wax kiss, and bury them again for a month. Once they're done, we clean them up and they're ready for gifting to the shield-wall. It doesn't kill, but it smells, stings, and clings to everything. Once it's on the skin, the glass and _medicine_ go to work. If the bishop's not looking, we call out curses in Welsh to make them think they've been bewitched! And a _fyrdman_ who flees because he thinks he's cursed is just as good as a dead one. He should be thanking us for saving his life! Ha ha ha!"
+"Fermented sheep's stomach and our lovely botanicals, whichever are in season. We have spurge-milk, nettle-burn, hellebore, wild leeks, and foul iris. We mix that with tallow and crushed Church's saintly glass," Madoc corrected, his grin widening. "When we have the mixture just right, we pack it into these clay-pot beauties. Bury them for a week under sheep dung, and let the rot do the work. Then we seal them with a wax kiss, and bury them again for a month. Once they're done, we clean them up and they're ready for gifting to the shield-wall. It doesn't kill, but it smells, stings, and clings to everything. Once it's on the skin, the glass and _medicine_ go to work. If the bishop's not looking, we call out curses in Welsh to make them think they've been bewitched! And a _fyrdman_ who flees because he thinks he's cursed is just as good as a dead one. He should be thanking us for saving his life! Ha ha ha!"
 
 Cynewulf stared at the tiny pot. He thought of the stained glass he had once cleaned in the nave, the light filtering through the saints and martyrs. Now, that same light was being used to turn men into cursed frightened animals.
 
@@ -4753,15 +4765,17 @@ Huginn: "I can beat you into submission."
 
 ### Part Two: The Cynn
 
-Deep in the heart of Leicester, behind the Jewry wall, lies the tall stone home of ancient giants. The Romans built their walls high - so high that the townsfolk were convinced that they were giants indeed. The home is free of human souls now, or so most people think as they pass by the crumbling arches in the dusk. The townsfolk cross themselves and quicken their pace, believing the red-brick vaults may hold more than just stagnant rainwater and the memory of the dead.
+Deep in the heart of Leicester, behind the Jewry wall, lay the ruin of the ancient bathhouses. During the day, the Church had been collecting statues, archways, stone, and brick from this ruin for several years. The sprawling bathhouse was free of human souls after sunset, or so most people thought as they passed by the crumbling arches in the dusk. The townsfolk would cross themselves and quicken their pace, believing the red-brick vaults held more than just stagnant rainwater and the memory of the dead.
 
-They are right.
+They were right.
 
-The ruins are not empty. The bathhouse may not carry the breath of humans or the tread of feet during the day, but the winds of the night avoid the spirits that ply their trade now. Deep within the roots of the stone, where the ancient giant hearths have been cold for centuries, a different kind of heat is waking. It does not smell of wood-ash, or the rancid fat of the _Ulfhednar_ camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smells of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
+The ruins were not empty. The bathhouse saw the slow deliberate work of the stone-claimers during the day, but the winds of the night avoided the spirits that plied their trade in the dark.
+
+Deep within the roots of the stone, where the ancient hearths have been cold for centuries, a different kind of heat was waking. It did not smell of wood-ash, or the rancid fat of the _Ulfhednar_ camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smelled of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
 
 There is no wind beneath the earth, yet the soot on the low ceilings shifts and dances. If a man were to press his ear to the damp masonry, he would not hear the parchment-peace being discussed by the lords, nor the weary sighs of Cynewulf’s rearguard. He would hear a sound high and sharp, like a needle scraping through a burial shroud. He would hear the tiny sound of a child’s giggle echo from the black furnace-mouths, followed by a low, hollow whistle.
 
-They did not labor with the clumsy strength of mortal blacksmiths. These were the _Weylands Cynn_—the scattered bloodline of the Great Smith himself. Centuries before, Weyland had walked the earth at the height of his craft, leaving his genius stamped into the marrow of his descendants. Men still remembered a few of his works—_Mímung_, and, if later storytellers were to be believed, _Excalibur_, the sword of King Arthur—but they had long forgotten the master. Their thoughts now rested on prayers, stone angels, and the plain steel of human hands. The Cynn alone still remembered the ancient foundry marks.
+They did not labor with the clumsy strength of mortal blacksmiths. These were the _Weylands Cynn_. These were elves of the scattered bloodline of the Great Smith himself. Centuries before, Weyland had walked the earth at the height of his craft, leaving his genius stamped into the marrow of his descendants. Men still remembered a few of his works. Greatest among them, if later storytellers were to be believed, was _Excalibur_, the sword of King Arthur. But mortals had long forgotten the master. Their thoughts now rested on prayers, stone angels, and the plain steel of human hands. The Cynn alone still remembered the ancient foundry marks.
 
 The day of the debate came before the horrible winters of Osric's farm, the raids of Leicester that killed Elswyth's parents, and Cynewulf's ordination as priest. Time had marched forward. Soon would come the convergence... the meeting of Osric, Elswyth, Cynewulf, and Wulfhere. The parchment-peace was near. Woden and Freyr's debate was still fresh in their minds, and they knew they had little time to spare.
 
@@ -4811,11 +4825,13 @@ Woden's eye crackled with an energy of momentary hate. "You *dared* defy me. Yes
 
 Ingvar looked at Ingrid. He saw the golden light of Freyr’s promise and the grim reality of Woden’s demand. "Agreed," Ingvar said, his voice echoing with the finality of a closing tomb. "I am the yard to the edge. The shieldwall is the fence. Let the forging begin."
 
-Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered - the harvest of the barrow is at hand!"
+Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered. The harvest of the barrow is at hand!"
 
 Shadowy hammers held by invisible hands gravitated toward the forge. Coal from a hidden well erupted at the Ingrid's feet, and she scooped the black stones furiously into the empty hearth. The furnace burst into flame instantly. The heat felt moderate at first, but it turned a blinding yellow-white with the first breath of the bellows.
 
-Freyr and Woden each took a step back. They watched in the dying sunlight the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil - a final offering of somber joy.
+Freyr and Woden each took a step back. They watched in the dying sunlight the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil.
+
+A final offering of somber joy.
 
 Freyr's smile grew ever broader, as he witnessed the new billet of steel and wrought iron emerge from the crucible. It flew to the anvil, and a hundred dizzying hammers worked to the sound of a giggling song of clinks and clangs. The sparks of the hammers reflected in Woden's eye as he sternly watched the progress while gripping his spear. The form quickly turned from a rectangular billet, to a large farmer's broadseax. It was heavy and long, meant for a woodsman's chop and a reaping of fall lambs. It had runes too, which betrayed its more divine inspiration.
 
@@ -4881,7 +4897,7 @@ Woden stepped forward to stare into the eyes of the redcap, studying his madness
 
 Woden looked at Freyr. "Agreed?"
 
-"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade - light and poised like the moonlit marten upon the bough!" He and Woden stepped back once more to let the forging commence.
+"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade. Make it light and poised like the moonlit marten upon the bough!" He and Woden stepped back once more to let the forging commence.
 
 The foreman of the forge-elves, Besidius, leaned close and whispered into Freyr's ear.
 
@@ -5106,7 +5122,7 @@ Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for
 
 The fyrdmen clustered around his horse.
 
-"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You - and you - gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
+"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You... and you... gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
 
 He looked down at the mud.
 
@@ -5170,7 +5186,7 @@ The one-eyed archer scrambled to the top of one of the carts near the corner. He
 
 Osric stood in the wall, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole spear, but it didn't last long. A broad-axe bit into the pole. The ash shaft sheared in two with a single, mocking crack. Osric dropped the useless shaft and leaned his full weight into his shield, bracing its back with his free hand.
 
-For a few heartbeats neither side gave ground. Another arrow flew by Wulfhere's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Rognvaldr, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt - still in its groove - into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
+For a few heartbeats neither side gave ground. Another arrow flew by Wulfhere's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Rognvaldr, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
 
 Wulfhere seized his moment. A smile crept across his face. "Pull!"
 
@@ -5276,7 +5292,7 @@ She waded through the near-freezing water, each splash stealing air from her lun
 
 The ceiling was collapsed in parts, and the night sky was visible. The floor of the bathhouse was cracked marble tile, built on moist clay.
 
-Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. On the bench was a long narrow coffer of wood, its top had an iron symbol: an oak tree sprouting from an anvil, hammers crossed.  On top of the coffer lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle - the one she knew all too well - beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
+Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. On the bench was a long narrow coffer of wood, its top had an iron symbol: an oak tree sprouting from an anvil, hammers crossed.  On top of the coffer lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
 
 She heard the footsteps of Vikings around the rainwater chute above, and they could see her track ended there. They were determined to follow her into the dark.
 
@@ -5663,6 +5679,8 @@ His eyes fell upon the chest by the anvil, still waiting to be opened.
 
 Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length stiff waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay a shoulder-sling of rawhide with four steel-tipped javelins.
 
+Behind the chest lay a long linen sheet pulled about a pole. He pulled the pole from the sheet... It was his father's boar-spear, its reforged socket fitted to a new shaft of stout oak. The flanks and edge of the broad spearhead gleamed with fresh polish. Woven leather wrapped the haft where the hands would grip it, and an iron shoe protected the butt.
+
 He looked around once more.
 
 "So now the fire-breathing dragon... the king of the straw-daub... the master of cow spas... wants to give me a fighting chance, is it?"
@@ -5719,7 +5737,7 @@ To know my secret, or settle score?
 Right in your hand, you find us both!
 To iron bound, to steel betrothed.
 But if you seek the redcap's grace,
-Speak his spell - he'll take my place.
+Speak his spell, he'll take my place.
 ```
 
 The viking was wading through the water, eager to be the first to take Elswyth as a prize.
@@ -5765,7 +5783,7 @@ The redcap resumed his commanding, authoritative tone.
 
 "Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-Bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
-Those last words came with almost a bow - if he could bow - just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
+Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
 A strange warmth flooded her limbs. Not the warmth of a hearth or summer sun, but something sly and invasive, creeping through her blood like roots beneath soil.
 
@@ -5841,7 +5859,7 @@ Trunk blood flows from the deep root,
 All for floor, and none for boot.
 ```
 
-She saw a gap in the armor - a mere sliver of skin between the bottom of his mail and the top of his boot. To her, it was three fingers wide and the blade was already in motion. She slashed from her knees. The moon-bright edge slipped into the gap and grated against bone.
+She saw a gap in the armor. It was a mere sliver of skin between the bottom of his mail and the top of his boot. To her, it was three fingers wide and the blade was already in motion. She slashed from her knees. The moon-bright edge slipped into the gap and grated against bone.
 
 The Viking screamed and staggered backward.
 
@@ -6157,14 +6175,14 @@ Inside the coffer she found a neatly folded set of charcoal-black garments. A su
 
 Beneath the clothing, she also found a woodsman's felling axe. Its broad bit carried a _welkin-iron_ edge, bright as _Monanleoht's_ blade. The ash haft was wrapped in supple leather, its shallow flutes fitting naturally beneath her fingers.
 
-Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three small brass bells - each scarcely larger than a walnut - and small iron fittings whose purpose she could only guess.
+Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three tiny brass bells and small iron fittings whose purpose she could only guess.
 
 
 [↑ Back to Table of Contents](#table-of-contents)
 
 ## Chapter Nine: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
-Cynewulf stood on the porch of the church. His legs - and soul - were tired from running. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Rognvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
+Cynewulf stood on the porch of the church. His legs were tired from running, his soul weary from searching. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Rognvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
 
 Rognvaldr stood and mocked him in his language. He never cared to learn the language of the Saxons. It was clear that he meant to do more than just kill Cynewulf.
 
@@ -7341,7 +7359,7 @@ The most interesting magical objects were never the ones that guaranteed victory
 
 If a blade genuinely housed a spirit, what would its owner believe about it? If a sword were associated with divine judgment, would its wielder feel honored or terrified? If a weapon carried a curse, how long would it take before the owner began wondering whether every misfortune was somehow connected to it? The most interesting magic, at least to me, has never been about power. It has been about consequences. A magical weapon should not merely solve problems. It should create new ones.
 
-Many years later, I learned how to forge knives - not well, mind you. Once that happened, the old questions returned. Only now they felt more tangible. A real blade has weight. It has balance. It reflects light in specific ways. It acquires scratches, stains, and history. Most importantly, it exists in the world. I found myself imagining what kinds of myths might grow around such objects. Not modern myths, but myths that would feel plausible to the people who actually carried blades.
+Many years later, I learned how to forge knives. I made a few knives well enough to be pleased with the accomplishment, but certainly not well enough to think myself worthy of being called a smith. Once that happened, the old questions returned. Only now they felt more tangible. A real blade has weight. It has balance. It reflects light in specific ways. It acquires scratches, stains, and history. Most importantly, it exists in the world. I found myself imagining what kinds of myths might grow around such objects. Not modern myths, but myths that would feel plausible to the people who actually carried blades.
 
 Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions. To a storyteller, that environment is irresistible. To an off-and-on Dungeon Master, it felt like discovering a campaign setting that history had already written.
 
@@ -7361,7 +7379,7 @@ Barrow's Edge: "What if a mythic weapon restored your dead family as an illusion
 
 As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Woden and Freyr. Woden has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
 
-Looking at the crossroads of the Danelaw at the time, I envisioned Woden having an existential crisis. He is losing followers. Both families of Scandinavian gods - the Aesir and the Vanir - are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Woden to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all. At some point, Woden - being the god of wisdom - would want answers. How do you test fate? How do you test how humans perceive fate? What we find is that Woden isn't testing humanity; he's testing himself.
+Looking at the crossroads of the Danelaw at the time, I envisioned Woden having an existential crisis. He is losing followers. Both families of Scandinavian gods are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Woden to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all. At some point, Woden would want answers. How do you test fate? How do you test how humans perceive fate? Ultimately, with Freyr's help, what we find is that Woden isn't testing mortals as much as he's testing himself.
 
 This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 unholy vortex-summoner of doom called _Wodbora_. Everything else followed from that.
 
@@ -7652,7 +7670,7 @@ These blades were eventually replaced by langseaxes, which were narrower and lon
 
 #### Blade Construction
 
-This blade wants wrought iron for the spine. That's a bit tricky, because that implies two things: super high heat (yellow-to-white), and a forge weld. Wrought wants to be worked super hot, but some steels like 1084 experience rapid grain growth at higher temps. 15N20 is a good steel at higher temperatures - its nickel acts as a grain stabilizer. But, even 15N20 will need temperature cycling to manage grain growth.
+This blade wants wrought iron for the spine. That's a bit tricky, because that implies two things: super high heat (yellow-to-white), and a forge weld. Wrought wants to be worked super hot, but some steels like 1084 experience rapid grain growth at higher temps. 15N20 is a good steel at higher temperatures. The nickel acts as a grain stabilizer. But, even 15N20 will need temperature cycling to manage grain growth.
 
 If you don't want to mess with wrought iron, my suggestion is to go with 5160. Specifically, a big chunky leaf spring. It's thick. It's a tough steel that can stand up to beating pretty hard, and when darkened, it can come out to the same shade as wrought iron. It won't have the pits and rough look of wrought iron, however. If the look is desired, that can be faked with rounds of arbitrary etching (dabbing etchant in cycles over and over until it looks random). 
 
@@ -7758,7 +7776,7 @@ All Month in The Commons!
 Today's Featured Attractions:
 
 GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
-_Be the first in your family - or anybody's - to fly with the pigs!_
+_Be the first in your family (or anybody's) to fly with the pigs!_
 
 THE ELENCHUS GAME, STARRING SOCRATES!
 _Match wits with history's greatest inquisitor!_
