@@ -6,7 +6,7 @@ _A bell rings in the distance, and people orient themselves to it. They use it t
 
 _These are the lessons of the Bell_.
 
-This story starts earlier in 913 AD. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba.  The ring of the Shrove-Bells called throughout Leicester. Today was the most important day for confessions on the calendar.
+This story began earlier, in 913 AD. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba. The ring of the Shrove-Bells called throughout Leicester. That day was the most important day for confessions on the calendar.
 
 Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
 
@@ -140,9 +140,9 @@ He did not yet understand it.
 
 Finally, a few weeks before Shrove Tuesday arrived that year, he took his vows and was ordained a priest. When the bells rang out once more for the Shrove Tuesday confessions, Cynewulf found himself come full circle. He sat in the very seat where he had once confessed his own "ember-hate" as a boy, ready now to hear the confessions of his own flock. He kept the small, dark sins of his own heart tucked away in the back of his mind, convincing himself that he was the perfect guide—a man who knew the weight of sin, and therefore, a man who knew exactly how to help others find their absolution.
 
-The village folk gave their confessions, one by one. It was a process that took several hours, but there lingered a silent tall presence in the back that drew nearer towards the end. He was the final penitent, and it was his turn to kneel. He was elderly, a main in a simple grey robe with a walking staff and a slow steady gate. His staff-echo was heard by the stone angels on the wall, but most of the villagers had left. He came to stand before Cynewulf, gazing down at the priest for a moment to gather his measure. He then slowly knelt on the soft pillow of the confessional floor.
+The village folk gave their confessions, one by one. It was a process that took several hours, but there lingered a silent tall presence in the back that drew nearer towards the end. He was the final penitent, and it was his turn to kneel. He was elderly, a man in a simple grey robe with a walking staff and a slow steady gait. His staff-echo was heard by the stone angels on the wall, but most of the villagers had left. He came to stand before Cynewulf, gazing down at the priest for a moment to gather his measure. He then slowly knelt on the soft pillow of the confessional floor.
 
-Cynewulf's eyes were drawn to the loop of ash wood branches on his chest. The man had made his own cross with grarled branches, perhaps from the same gnarled tree that was the provenance of his staff. The branches were tied with a fresh string made of undyed wool-yarn. The man smelled of sheep's lanolin and the fresh night air.
+Cynewulf's eyes were drawn to the loop of ash wood branches on his chest. The man had made his own cross with gnarled branches, perhaps from the same gnarled tree that was the provenance of his staff. The branches were tied with a fresh string made of undyed wool-yarn. The man smelled of sheep's lanolin and the fresh night air.
 
 Cynewulf laid his hand on the man's shoulder. "Let us begin. Tell me your name." The old man replied in a thick Dane accent.
 
@@ -152,17 +152,15 @@ Cynewulf tried not to look at the man's face, but instead focused on the floor a
 
 The shepherd leaned back slightly, and touched up his volume, to be better heard:
 
-"
-I've been a shepherd all my life. I have seen the grass grow green and go to stubble more times than stars in the sky. In the past, I knew my flock. I knew when the ewe would have twins. I knew when the ram would break the gate. 
+"I've been a shepherd all my life. I have seen the grass grow green and go to stubble more times than stars in the sky. In the past, I knew my flock. I knew when the ewe would have twins. I knew when the ram would break the gate. 
 
-I trained wolves to protect my sheep. I set the wolves unto the other fields to claim for all my flock. For a time, the wolves did well, and my sheep prospered.
+"I trained wolves to protect my sheep. I set the wolves unto the other fields to claim for all my flock. For a time, the wolves did well, and my sheep prospered.
 
-Down in the valley, there is a new Master. He has built stone walls to keep his sheep in. He has trained his sheep to fight the wolf. He does not need to train wolves to keep them safe. My sheep see my neighbor's walls, and they are high. They leave to seek comfort inside them.
+"Down in the valley, there is a new Master. He has built stone walls to keep his sheep in. He has trained his sheep to fight the wolf. He does not need to train wolves to keep them safe. My sheep see my neighbor's walls, and they are high. They leave to seek comfort inside them.
 
-Now the wolves have forgotten the field they are in, and hunt all the sheep.
+"Now the wolves have forgotten the field they are in, and hunt all the sheep.
 
-My sin is not the spilt blood of sheep. My sin is that I'm abandoning the wolves, *Father*. My sheep I give to the farmer-in-the-meadow. May *God* have pity on my soul.
-"
+"My sin is not the spilt blood of sheep. My sin is that I'm abandoning the wolves, *Father*. My sheep I give to the farmer-in-the-meadow. May *God* have pity on my soul."
 
 The heavy, weeping weight of the shepherd's confession vanished in a heartbeat, replaced by a glint in the old man's weathered eyes. The shepherd continued, his voice steadying as if telling an ancient tale.
 
@@ -186,11 +184,11 @@ On March 14th, 933 AD the black day of Leicester's village-folk had arrived. It 
 
 The wolf-men broke into the church in a storm of activity. Cynewulf had been in his small priest-home; there were several, as the Church had grown since Leicester had reverted back to the Saxons. He was tending to the teaching of Latin that afternoon to three students. He had also been cataloging donations earlier that morning, which were strewn on his small dinner table.
 
-As the Church was being sacked, the sounds were a roar in the background. Cynewulf quickly barred the door, and searched the room quickly for his plan. He told the students to hide in a closet, and he grabbed a byrnie that had been donated by a retired thegn off this table. He took a spare censor's chain and wrapped it around his fist. He was not going to let the night fall on him and his flock without a fight. The sound of Cynewulf's breathless prayers competed with the uproar, until there was a sound at the door.
+As the Church was being sacked, the sounds were a roar in the background. Cynewulf quickly barred the door, and searched the room quickly for his plan. He told the students to hide in a closet, and he grabbed a byrnie that had been donated by a retired thegn off the table. He took a spare censer's chain and wrapped it around his fist. He was not going to let the night fall on him and his flock without a fight. The sound of Cynewulf's breathless prayers competed with the uproar, until there was a sound at the door.
 
-The Viking pounded. There were shoulder-heaves and boot-kicks, until finally the door gave way. In the doorway stood a young Viking, freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made is way into the cottage, shield at the ready.
+Just as Cynewulf fastened the last buckle of the byrnie, the Viking pounded the door. There were shoulder-heaves and boot-kicks, until finally the door gave way. In the doorway stood a young Viking, a freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made his way into the cottage, shield at the ready.
 
-Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even himself off-guard. He slammed his body towards the young _Ulfhedinn_. Priests do NOT lunge at wolves! The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
+Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even him off-guard. He slammed his body towards the young _Ulfhedinn_. The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
 
 Cynewulf stood and watched as the floor of his priest-home pooled with blood. He peered through the doorway, and saw that the _Ulfhedinn_ boy had been carrying a small chest of loot, set cleanly on the ground. He looked back at what he had done. With exhilaration. He saw the chest of silver. He saw how easily he had bested the _Ulfhedinn_. His arm was bell-strong and he was already wearing the retired thegn's chain-shirt byrnie. He told the children in the closet to run. They scurried out the door, and his mind began to race.
 

@@ -37,7 +37,11 @@ The daily ritual of Elswyth and Long-Mile continued. Sometimes she would pay her
 
 He told her of the time old Judith started gossiping that Shadow-Wife had married a ghost. The next morning, Judith found her wool had been stolen. In its stead, a lump of charcoal sat in her knitting basket. By noon she was demanding every lorica the priest knew. By evening she had decided the ghost was coming for her next. She refused visitors for the rest of the week.
 
-He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood. Elswyth frowned. "I didn't." Long-Mile replied "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
+He told her of the time Old Godric the sharpener swore the _Coaler-Wight_ stole half his firewood.
+
+Elswyth frowned. "I didn't."
+
+Long-Mile smiled. "Oh I know. The fisherman that accused Godric of stealing his fish at the Shadow Gate? He received a nice bundle of firewood the next night."
 
 Elswyth was amused. "You think that was..."
 
@@ -195,7 +199,7 @@ She started loading her coal into the sacks.
 
 From behind her came a voice.
 
-"Hello, Meadow-Bud."
+"Hello, Meadow-bud."
 
 Her hands stopped on the coal sack.
 
@@ -266,7 +270,7 @@ Bite the side to touch the sky,
 Bite the other, and you’ll die.
 ```
 
-"The rhyme was there *ALL THIS TIME*, Meadow-Bud," he hissed, saliva dripping from his lips and his tongue snaking over his stalactite teeth.  "I had you repeat it, *under the touch of the sky*. Over, and over, and over!"
+"The rhyme was there *ALL THIS TIME*, Meadow-bud," he hissed, saliva dripping from his lips and his tongue snaking over his stalactite teeth.  "I had you repeat it, *under the touch of the sky*. Over, and over, and over!"
 
 He looked down at the ground between them, no longer speaking to her at all.
 
@@ -300,7 +304,7 @@ She had always assumed they were carved from horn.
 
 He set the skull down next to the fire.
 
-"I hear your heart, Meadow-Bud. Come! Let us dance. One last time."
+"I hear your heart, Meadow-bud. Come! Let us dance. One last time."
 
 He took up the coal rake and swept it into a graceful bow.
 
@@ -348,7 +352,7 @@ Elswyth dared to let her heart fill with hope.
 
 Her eyes were as big as moons. Elswyth screamed.
 
-"Are you _really_ that upset? You assumed she died, _Meadow-Bud_. Does it really matter if it was at the hands of Vikings, or in the service of a better cause?"
+"Are you _really_ that upset? You assumed she died, _Meadow-bud_. Does it really matter if it was at the hands of Vikings, or in the service of a better cause?"
 
 "YOU FOUL... MURDEROUS..." Her mind closed to the shapes of words that tried to escape her mouth.
 
@@ -360,7 +364,7 @@ Fussleton looked straight into Elswyth's eyes.
 
 "But your mother had been a victim for a whole month. Then suddenly, she was free."
 
-Fussleton smile turned dark.
+Fussleton's smile turned dark.
 
 "Hope."
 
@@ -390,19 +394,19 @@ He spun the knife between his fingers.
 
 He tilted his head.
 
-"A felling axe? That's not _dancing_, Meadow-Bud. That's a prayer disguised as iron and wood."
+"A felling axe? That's not _dancing_, Meadow-bud. That's a prayer disguised as iron and wood."
 
 He wrinkled his nose.
 
 "_Such_ a crude implement. But I do like the spirit. Who knows, a last sprinkling of _hope_ might just be enough flavor to put it over the top. We'll do it your way. You start running."
 
-She picked up the axe anyway. It's all she had.
+She picked up the axe anyway. It was all she had.
 
-"You know, redcap. Hope isn't for _flavor_. Hope is what gets your through the night when everything else has turned to ash. And all I see is ash."
+"You know, Fussleton. Hope isn't for _flavor_. Hope is what gets you through the night when everything else has turned to ash. And all I see is ash."
 
 Fussleton smiled a blood-craving smile.
 
-"And I'll start counting. Hmmm, you've been marinating in _hope_ for years. I suppose that will be my final thesis for this project. Was it _worth_ it?"
+"...And I'll start counting. Hmmm, you've been marinating in _hope_ for years. I suppose that will be my final thesis for this project. Was it _worth_ it?"
 
 He readied his knife.
 
@@ -640,7 +644,7 @@ No salt skull and spoon.
 
 Just peace.
 
-The neighbors up the hill crossed themselves in their bed, and drew their bed furs over their eyes. They weren't sure what they had heard from across the Soar, but it must have been another adventure of the _Coaler-Wight_.
+The neighbors up the hill crossed themselves in their beds, and drew their bed furs over their eyes. They weren't sure what they had heard from across the Soar, but it must have been another adventure of the _Coaler-Wight_.
 
 Elswyth reached down and found the Alexander Stone. She stood for a moment, her face reflecting slightly on the glassy surface.
 

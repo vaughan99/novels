@@ -4,7 +4,7 @@ The training began exactly as he promised, though it was nothing like the songs 
 
 His first lesson was shelter. Under his watchful, twitching gaze, they gathered fallen timber and woven branches to construct a small hut. It was a cramped, humble thing—barely enough to contain her—but when the spring rains began to lash the forest, it would keep her dry. It was the first thing she had built for herself, and for the first time, the forest felt less like a labyrinth and more like a home.
 
-He taught her to navigate by moonlight. "Moon's light is precious, Meadow-Bud," he would say with a sharpened jagged grin. As they sat around the campfire after a night's stroll in the dark, he burst into a quick rhythmic chant:
+He taught her to navigate by moonlight. "Moon's light is precious, Meadow-bud," he would say with a sharpened jagged grin. As they sat around the campfire after a night's stroll in the dark, he burst into a quick rhythmic chant:
 
 ```
 The wood, the ground, even your skin!
@@ -64,7 +64,7 @@ Bite the side to touch the sky,
 Bite the other, and you’ll die.
 ```
 
-And finally, he taught her how to trap animals of the forest. Squirrels were good for eating, but marten fur was fine, making collars for expensive cloaks, and cuffs for winter sleeves. It would fetch more than a few silver pennies.
+And finally, he taught her how to trap animals of the forest. Squirrels were good for eating, but marten fur was exquisite for making collars for expensive cloaks and cuffs for winter sleeves. It would fetch more than a few silver pennies.
 
 ```
 Soft of foot and quick of eye,
@@ -95,7 +95,7 @@ On the first anniversary of the night of the wolves, Fussleton led her back to t
 
 The gnome had taught her everything he thought she needed to survive as a child on the edge of the Charnwood. He taught her the secrets of the forest larder. He taught her the power of the moon, and its effect on wood and beasts. He taught her where the absolute best wood lived, and how to harvest it wisely. He taught her music, dancing, and even how to smoke a pipe. She was ready to live on her own.
 
-"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-four moons—twelve moons for your training, and one hundred and twelve for the beats your brave little heart outran the wolf. I will check on you, Meadow-Bud. I will make sure you are safe."
+"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-four moons—twelve moons for your training, and one hundred and twelve for the beats your brave little heart outran the wolf. I will check on you, Meadow-bud. I will make sure you are safe."
 
 "My heartbeat? How do you..." Elswyth stammered.
 
@@ -103,13 +103,13 @@ Fussleton blinked. "How do I...?"
 
 He laughed—a delighted, tinkling laugh.
 
-"Meadow-Bud..."
+"Meadow-bud..."
 
 He closed his eyes. "...there."
 
 His head began to sway.
 
-"Lub... dub. Lub... dub. Lub-dub-lub-dub... Oh, It's getting faster. Am I making you nervous, Meadow-Bud?"
+"Lub... dub. Lub... dub. Lub-dub-lub-dub... Oh, It's getting faster. Am I making you nervous, Meadow-bud?"
 
 He started dancing to a rhythm only he could hear.
 
@@ -159,7 +159,7 @@ The woman was Shadow-Wife, the church grave-tender and steward of the Shadow Gat
 
 Elswyth took a few steps back and froze, but prepared to run. "Aren't you waking him now?" she replied, her voice steady despite the hammering of her heart.
 
-"Oh, I was teasing, dear. These two only hear each other. Still, I sing to them every night." Shadow-Wife said, not looking up. She gestured with a gnarled finger toward the ossuary. "Are you here looking for your father, dear? He’s over there, in Raider’s Row. All the souls that died the day the wolves came are buried together."
+"Oh, I was teasing, dear. These two only hear each other. Still, I sing to them every night." She gestured with a gnarled finger toward the ossuary. "Are you here looking for your father, dear? He’s over there, in Raider’s Row. All the souls that died the day the wolves came are buried together."
 
 Elswyth froze. Shadow-Wife looked up, and squinted at her for a long moment.
 
@@ -231,7 +231,7 @@ She stepped into the shed.
 
 "You awake?"
 
-"WHHHAA!" Long-mile sat up suddenly, certain that the oxen were speaking in Old Norse again.
+"WHHHAA!" Long-Mile sat up suddenly, certain that the oxen were speaking in Old Norse again.
 
 Elswyth stepped closer, but the oxen seemed oblivious.
 
@@ -247,7 +247,7 @@ He threw off his wool blanket and opened his eyes wide, drinking in as much ligh
 
 Long-Mile threw off his wool blanket, and his hands and feet remembered the rungs of his ladder before his eyes cared to look.
 
-Elswyth hugged his leg. It's all she could manage. His face had a few wrinkles around his familiar eyes.
+Elswyth hugged his leg. It was all she could manage. His face had a few wrinkles around his familiar eyes.
 
 "Now, now." He bent down and returned her hug for a long moment.
 
@@ -319,7 +319,7 @@ She ran up to the old carter. The oxen stared at her, barely impressed.
 
 Long-Mile barely caught the penny, almost dropping it under his seat. He narrowed his eyes at her. "You had me thinking the wolves were back!"
 
-"Nah, just me. You're favorite... customer." She gave a twirl.
+"Nah, just me. Your favorite... customer!" She gave a twirl.
 
 ---
 

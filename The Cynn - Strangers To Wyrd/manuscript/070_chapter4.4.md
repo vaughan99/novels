@@ -198,7 +198,7 @@ He was awakened by the abbot.
 
 Cynewulf had not slept in two days before then. Everything ached, but luckily he hadn't lost anything to the frost.
 
-"You should have let me die." Cynewulf croaked. He stared into the space where flame once stood. "You don't know what you saved."
+"You should have let me die," Cynewulf croaked. He stared into the space where flame once stood. "You don't know what you saved."
 
 "No... I don't. But I think... neither do you." The abbot studied Cynewulf closely. "Stop talking and rest. Introductions are best when a man refuses to fight himself."
 
@@ -304,7 +304,7 @@ Cynewulf caught the needle, surprised by the weight of the cloak. It smelled of 
 
 The next morning, Cynewulf met them in the yard. Two Welsh had just walked the perimeter of the abbey, and had a number of broken shards of glass. One had the face of Saint Martin, the other the outline of an angel wing. They were collected from one of the walls whose pane had become damaged.
 
-"Don't mind them Saxon. They're just collecting gifts." Madoc said casually.
+"Don't mind them Saxon. They're just collecting gifts," Madoc said casually.
 
 "For their children?" Cynewulf wondered, looking back at the men.
 
