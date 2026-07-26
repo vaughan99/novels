@@ -152,7 +152,7 @@ Elswyth: "Be mindful of the pool. The water is..."
 
 Osric waded in. "Freezing!"
 
-Elswyth: "What a novel day! Two baths in two days."
+Elswyth: "Usually I get only one bath for Easter! I've had two baths in two days."
 
 Osric laughed. "Life as a charcoaler?"
 
@@ -296,15 +296,15 @@ Muninn: "He's an eyeball."
 
 Huginn: "An American eyeball."
 
-Steve _blinked once._
+Steve _blinked once._ Up until then, nobody knew that Steve could blink.
 
 Muninn: "And your argument is that _Steve_ started the rumor? In the 1800s?"
 
 Huginn: "I don't know. Steve, did you?"
 
-Steve _waved his eye side to side_
+Steve _waved his eye side to side_.
 
-Huginn: "He's non-responsive."
+Huginn: "He's not sure."
 
 Muninn: "He said no."
 
@@ -516,11 +516,11 @@ Freyr pointed to the felling axe in her hands.
 
 "But she is refusing to be defined by it. She tests the axe and not _Monanleoht_."
 
-Woden then looked at Cynewulf, who was having a discussion with Kettil about his travels.
+Woden then looked at Cynewulf, who was having a discussion with Ketill about his travels.
 
 "Cynewulf doesn't seem any different, and he wears _Wodbora_ hidden. He is concerned that others might see it."
 
-Freyr pointed to Kettil.
+Freyr pointed to Ketill.
 
 "And yet Cynewulf now discusses his travels more freely than before. A weight has been lifted, I think. Perhaps the confession lightened his burden?"
 
