@@ -36,11 +36,11 @@ I asked similar questions of the other two blades.
 
 Monanleoht: "What if prowess in battle cost you your sanity, and using it meant making a deal with a faerie madman? Would you knowingly go insane?" That's not an easy question for a person living on the edge of a Brothers Grimm-styled folk horror story.
 
-Barrow-Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a broken farmer, also in the middle of a Brothers Grimm-styled folk horror story, going into battle.
+Barrow's Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a broken farmer, also in the middle of a Brothers Grimm-styled folk horror story, going into battle.
 
 As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Woden and Freyr. Woden has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
 
-Looking at the crossroads of the Danelaw at the time, I envisioned Woden having an existential crisis. He is losing followers. Both families of Scandinavian gods - the Aesir and the Vanir - are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Woden to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarok... only for Ragnarok not to be inevitable after all. At some point, Woden - being the god of wisdom - would want answers. How do you test fate? How do you test how humans perceive fate? What we find is that Woden isn't testing humanity; he's testing himself.
+Looking at the crossroads of the Danelaw at the time, I envisioned Woden having an existential crisis. He is losing followers. Both families of Scandinavian gods - the Aesir and the Vanir - are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Woden to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all. At some point, Woden - being the god of wisdom - would want answers. How do you test fate? How do you test how humans perceive fate? What we find is that Woden isn't testing humanity; he's testing himself.
 
 This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 unholy vortex-summoner of doom called _Wodbora_. Everything else followed from that.
 
@@ -131,7 +131,7 @@ At the same time, later folklore increasingly assigned Woden another role: leade
 
 This process of transformation mirrors the broader themes explored throughout the story. Osric, Ealhild, Elswyth, and Cynewulf all inhabit worlds shaped by overlapping identities. None of them can simply remain what they once were. Each must decide what to preserve and what to relinquish. The same question confronts Woden himself. If the old world is ending, what should survive? If traditions change, what remains worth carrying forward? 
 
-However, what makes Woden truly fascinating in this timeframe is that he is at an existential crossroads, more-so than his Scandinavian identity Odin. That is another reason for choosing him as a character. He no longer trusts wyrd. That would be terrifying, to a god that spent his entire existence trying to earn every scrap of knowledge he could to fight at Ragnarok. He cut out his eye, hung himself on a tree, built a dining hall at the end of existence, and spent eons building a stable of heroes for a final battle, only to realize that Ragnarok may never actually happen in the first place—was it all a waste? By humanizing Woden, these cease to be merely theological questions. They become the same questions any human would ask when they look back at a life of harsh sacrifice and wonder if it mattered.
+However, what makes Woden truly fascinating in this timeframe is that he is at an existential crossroads, more-so than his Scandinavian identity Odin. That is another reason for choosing him as a character. He no longer trusts wyrd. That would be terrifying, to a god that spent his entire existence trying to earn every scrap of knowledge he could to fight at Ragnarök. He cut out his eye, hung himself on a tree, built a dining hall at the end of existence, and spent eons building a stable of heroes for a final battle, only to realize that Ragnarök may never actually happen in the first place—was it all a waste? By humanizing Woden, these cease to be merely theological questions. They become the same questions any human would ask when they look back at a life of harsh sacrifice and wonder if it mattered.
 
 By contrast, Odin often arrives in modern culture already reconstructed. He has been rediscovered, reimagined, and reintroduced to contemporary audiences. Woden interested me because he stands closer to the moment of transformation itself. He is not a forgotten god, nor a fully remembered one. He exists at the boundary between the two. That boundary is where _The Cynn_ spends most of its time.
 
@@ -188,7 +188,7 @@ The idea of fate behaving more like gravity within a given time horizon—mortal
 
 Throughout the novel, wisdom is not portrayed as passive contemplation, but as disciplined observation. Woden does not guess. He constructs tests. The three blades are not gifts. They are instruments of experimentation.
 
-The first question Woden asks through all three blades is whether a convergence of _wyrd_ compels, or merely calls. If a magical blade feels like the inevitable destination of its bearer, what allows a person to accept, refuse, or transform that calling? If mortals who worship Christ can answer the gravity of _wyrd_ with faithful choice, then perhaps Woden can learn to answer the gravity of Ragnarok the same way.
+The first question Woden asks through all three blades is whether a convergence of _wyrd_ compels, or merely calls. If a magical blade feels like the inevitable destination of its bearer, what allows a person to accept, refuse, or transform that calling? If mortals who worship Christ can answer the gravity of _wyrd_ with faithful choice, then perhaps Woden can learn to answer the gravity of Ragnarök the same way.
 
 Each of the three blades asks other questions as well.
 
@@ -247,45 +247,47 @@ For modern readers, the Wild Hunt is often encountered as a piece of folklore de
 ---
 ## Swords and Scabbards: What Are These Blades?
 
-I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its _haelu_. I just like it because it focuses my storytelling a bit better, and it seems cool. :)
+I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its _hǣlu_. I just like it because it focuses my storytelling a bit better, and it seems cool. :)
 
 * Name: this is the name, obviously
 * Title: this is like "The Goblin-Slayer"
 * Oath/Ward: this is a phrase outwardly visible to the world as to the contract of what this weapon will do, e.g. "Beware night-goers!"
 * Spell: this is the phrase (if present, would be on the thigh-side of scabbard) that begins the effect, e.g. "Fire swirl, and char my enemies!"
 
-I imagine the Welandes Cynn would have two shared maker's marks. 
+I imagine that Weyland's Cynn would have two shared maker's marks. 
 
 The first is a badge, an emblem. I chose a young oak sapling growing from a broken anvil, with crossed hammers beneath. This signifies life growing from vocation.
 
 ![The Cynn's Badge](Cynn-Badge.png "The Cynn's Badge")
 
-The second is a maker's mark. Closer than shown, but basically it should be a simple two runes below, at a diagonal. These represent Welandes Cynn initials, with the Cynn being diminuitive (what is called a vassal mark), showing that the Cynn are reliant on the success of the name of Welandes.
+The second is a maker's mark. Closer than shown, but basically it should be a simple two runes below, at a diagonal. These represent Weyland's Cynn initials, with the Cynn being diminuitive (what is called a vassal mark), showing that the Cynn are reliant on the success of the name of Weyland.
 
 ```
 ᚹ
   ᚳ
 ```
 
-### Wodbora the Madness-Bringer, the Prophet of Wodhere, the Guardian of Chaos
+### Wodbora the Madness-Bringer, the Prophet of the Wodhere, the Guardian of Chaos
 
 #### Description
 
-Wodbora is a gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the grip is clenched, Woden's ravens appear and start an inquisition. They know your soul and your history, and act as a safety valve for the chaos. They know that to survive, you *must* admit to a sin that carries the same weight as what you're about to unleash. They can't tell you what to say, so they speak cryptically. You must arrive at your specific confession independently.
+Wodbora is a gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the blade is drawn and the ward is spoken, Woden's ravens appear and start an inquisition (the witan-sleep).
 
-When pulled from the scabbard, it releases the Wodhere's binding, allowing it to do as it wills (suggesting that it will find the sword and commence its horrible and frightful business right there). The madness should end when Wodbora is sheathed, however, giving the wielder some control over collateral damage. The will of the ride is its own, and it will destroy any that have not recently cleaned their soul.
+Time stops temporarily as they question you, looking for a new confession. They know your soul and your history, and act as a safety valve for the chaos. They know that to survive, you *must* admit to a sin that carries the same weight as what you're about to unleash. They can't tell you what to say, so they speak cryptically. You must arrive at your specific confession independently and propose a penance for it.
+
+When the _Wodhere_ does arrive, Wodbora speaks its own spell through your mouth, unleashing the madness. The madness should end when Wodbora is sheathed, however, giving the wielder some control over collateral damage. The will of the ride is its own, and it will destroy any that have not recently cleansed their soul.
 
 #### Blade Construction
 
-The blade construction should be single-edged, with a 9-layer nomai. The spine should be wrought iron, with alternating layers of 1084 and 15n20. Once etched, this will yield 2 rivers of 15n20 running through a dark grey field, with grainy spine. Done right, you could interpret the wrought iron as the sky, or as the ground. The carbon transfer among the ribbons of 1084 and 15n20 should blur, giving the 15n20 less of a defined line. Depending on which way you look, it's a real Rorshach test. When Tobin showed me his first etch of the prototype Wodbora blade, I couldn't decide which way was up! The silvery 15n20 could be the mist on the ground, and light grey shapes are flowing through it. Or the silvery 15n20 are the clouds, and the darker shapes represent the Wodhere in full ride sweeping the earth.
+The blade construction is a Little Bealings-style langseax. It should be single-edged, with a 9-layer no-mai. The spine should be wrought iron, with alternating layers of 1084 and 15N20. Once etched, this will yield 2 rivers of 15N20 running through a dark grey field, with grainy spine. Done right, you could interpret the wrought iron as the sky, or as the ground. The carbon transfer among the ribbons of 1084 and 15N20 should blur, giving the 15N20 less of a defined line. Depending on which way you look, it's a real Rorshach test. When Tobin showed me his first etch of the prototype Wodbora blade, I couldn't decide which way was up! The silvery 15N20 could be the mist on the ground, and light grey shapes are flowing through it. Or the silvery 15N20 are the clouds, and the darker shapes represent the Wodhere in full ride sweeping the earth.
 
 #### Handle Construction
 
-The handle should be two handed for grip, with a wood core. Instead of a guard and pommel, the handle should be wrapped in wire with Turk's head knots on either end, with simple plates acting as the caps of the blade. The visual effect should be one of a wire cage binding the Wodhere in the blade, so it doesn't spill out of the handle. This is a slight anachronism... steel wire typically wasn't used for binding handles, but silver and copper alloys certainly were for higher end blades. We're using steel to stand-in for silver, I suppose.
+The handle should be two-handed but light enough to wield with one hand. The guard and pommel should be simple wrought iron disks. The handle should be wrapped in wire with leather Turk's head knots on either end. The visual effect should be one of a wire cage binding the Wodhere in the blade, so it doesn't spill out of the handle. This is a slight anachronism... steel wire typically wasn't used for binding handles, but silver and copper alloys certainly were for higher end blades. We're using steel to stand-in for silver, I suppose.
 
 #### Scabbard Construction
 
-The scabbard should be lambskin-lined, woodcore. It should have simple steel throat and chape. The outer covering should be leather.
+The scabbard should be lambskin-lined tough leather as was common for langseaxes in that era.
 
 ##### Scabbard Obverse (Outer) Side: The Inquisitors
 
@@ -293,7 +295,7 @@ This side is outward-facing and represents the "public" protection side for the 
 
 ##### Scabbard Reverse (Inner) Side: The Invocation
 
-This side is body-facing and contains the "secret" spell that Wodbora will cast on behalf of the wielder when the sword is drawn. This side could have a Mammen-style snake (to represent the Wodhere) tightly bound, getting looser towards the chape. This signifies that the spell is a release of the host as it gets closer to the end of the statement. The throat should be where the runes are tightest, and the chape should be where they are the loosest. If this is too complex, a two line line-boxed construction would suffice, with the Spell Haelu portion in a smaller runic font size than the Incantation.
+This side is body-facing and contains the "secret" spell that Wodbora will cast on behalf of the wielder when the sword is drawn. This side could have a Mammen-style snake (to represent the Wodhere) tightly bound, getting looser towards the chape. This signifies that the spell is a release of the host as it gets closer to the end of the statement. The throat should be where the runes are tightest, and the chape should be where they are the loosest. If this is too complex, a two line line-boxed construction would suffice, with the Spell hǣlu portion in a smaller runic font size than the Incantation.
 
 
 ##### Inscriptions
@@ -303,41 +305,46 @@ This side is body-facing and contains the "secret" spell that Wodbora will cast 
 | Scabbard Obverse Line 1, Left        | Name        | Wodbora                                   | ᚹᚩᛞᛒᚩᚱᚪ                                             | WOD-bor-ah                                                | Madness-Bringer, Prophet                      |
 | Scabbard Obverse Line 1, Right       | Title       | Wōdes Weard                               | ᚹᚩᛞᛖᛋ ᛫  ᚹᛖᚪᚱᛞ                                      | WO-dess WEE-ard                                           | Guardian of Chaos                             |
 | Scabbard Obverse Line 2              | Ward        | Sceran scēapum : dēað wulfum              | ᛋᚳᛖᚪᚱᚪᚾ ᛫ ᛋᚳᛖᚪᛈᚢᛗ ᛬ ᛞᛖᚪᚦ ᛫ ᚹᚢᛚᚠᚢᛗ                   | SHARE-an SHAY-ah-pum [pause] YETH WUL-fum                 | Shears for sheep/destinies. Death for wolves. |
-| Scabbard Reverse Line 1 (small font) | Spell haelu | Wodbora cwiþ                              | ᚹᚩᛞᛒᚩᚱᚪ · ᚳᚹᛁᚦ                                      | WOD-bor-ah QUITH                                          | Wodbora says:                                 |
+| Scabbard Reverse Line 1 (small font) | Spell hǣlu | Wodbora cwiþ                              | ᚹᚩᛞᛒᚩᚱᚪ · ᚳᚹᛁᚦ                                      | WOD-bor-ah QUITH                                          | Wodbora says:                                 |
 | Scabbard Reverse Line 2 (large font) | Spell       | Atola Wodhere, ne þū lencg gebunden eart! | ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer!   |
 
 ---
 
-### Barrow's-Edge, the Hedge-Stalker
+### Barrow's Edge, the Hedge-Stalker
 
 #### Description
 
 The blade is a 16" heavy chopping broad seax with a two-handed handle, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth.
 
-Realistically, blades like these (Northolt Manor Seax) existed, but were a rarity. Most farmers would have a felling axe for field work and a separate smaller seax for utility. Those were the cheaper options. These seaxes were intimidating and fit for battle, probably wielded by the largest of ceorls who could afford them and wield them in the fyrd. They were probably predominately wrought iron, with a slice of steel for the edge. Basically a sharp wrought iron baseball bat with a very stout point. Most peasants couldn't afford that much iron and steel in one purchase, and many of the richer warriors chose dedicated swords. Leaving this weapon chosen by the very small middle of that spectrum.
+Realistically, blades like these (Northolt Manor Seax) existed, but were a rarity.  Most farmers would have an axe for field work and a separate smaller seax for utility and as a sidearm. Those were the cheaper options.
 
-The extended handle served a dual purpose: it provided the leverage to hook and pull an opponent’s shield-rim, and it allowed for a transition to a two-handed grip once a primary shield was compromised. While not a crushing weapon like an axe, the heavy, forward-weighted blade could hack through the wood and leather of a weakened shield, turning a defensive tool into a devastating offensive one.
+These warseaxes were intimidating and fit for battle, probably wielded by the largest of ceorls who could also afford them. They were probably predominately wrought iron, with a sliver of steel for the edge. Such a construction allowed the blade to have more mass than an arming sword, leaving its blade thick and less tapered for a cheaper price. It was definitely a weapon made for chopping, but still had a point similar to a Roman gladius.
 
-It was superior to a dedicated axe in the press of the shield wall. Like the Roman _gladius_, the seax’s point allowed for a brutal, punching thrust into the gaps between shields—a motion that required far less space than an axe-swing. It was a hybrid of cleaver and dagger, capable of hacking through a rim or finding the soft space beneath a mail shirt with equal ease.
+The extended handle served a dual purpose: it provided the leverage to hook and pull an opponent’s shield-rim, and it allowed for a transition to a two-handed grip once the owner's was compromised. While not a crushing weapon like an axe, the heavy, forward-weighted blade could hack through the wood and leather of a weakened shield, turning a defensive tool into a devastating offensive one.
+
+In a shield wall, the role of the broad warseax was probably a jack-of-all-trades. Like the Roman _gladius_, the seax’s point allowed for a brutal, punching thrust into the gaps between shields—a motion that required far less space than an axe-swing. It was a hybrid of cleaver and dagger, capable of hacking through a rim or finding the soft space beneath a mail shirt with equal ease. The longer handle could be used to hook and hold shields down, allowing a fellow spear wielder to find the chest of the shield owner. But, as a shield-hooking weapon, it was not as good as a bearded axe. With a step backward, the owner of a shield hooked by a handle could plausibly disarm the warseax owner, using the rim of their shield to leverage the pommel of the blade out of its owner's grip.
+
+These blades were eventually replaced by langseaxes, which were narrower and longer. The blade style was popular with Osric's forebears, and so he continued the tradition long after many of the wealthiest ceorls and captains had switched to the langseax.
 
 #### Blade Construction
 
-This blade wants wrought iron for the spine. That's a bit tricky, because that implies two things: super high heat (yellow-to-white), and a forge weld. Wrought wants to be worked super hot, but some steels like 1084 experience rapid grain growth at higher temps. 15n20 is a good steel at higher temperatures - its nickel acts as a grain stabilizer. But, even 15n20 will need temperature cycling to manage grain growth.
+This blade wants wrought iron for the spine. That's a bit tricky, because that implies two things: super high heat (yellow-to-white), and a forge weld. Wrought wants to be worked super hot, but some steels like 1084 experience rapid grain growth at higher temps. 15N20 is a good steel at higher temperatures - its nickel acts as a grain stabilizer. But, even 15N20 will need temperature cycling to manage grain growth.
 
-If you don't want to mess with wrought iron, my suggestion is to go with 5160. Specifically, a big chunky leaf spring. It's thick. It's a tough steel, can stand up to beating pretty hard, and when darkened, it can come out to the same shade as wrought iron. It won't have the pits and rough look. If the look is necessary, that can be faked with rounds of arbitrary etching (dabbing etchant in cycles over and over until it looks random). 
+If you don't want to mess with wrought iron, my suggestion is to go with 5160. Specifically, a big chunky leaf spring. It's thick. It's a tough steel that can stand up to beating pretty hard, and when darkened, it can come out to the same shade as wrought iron. It won't have the pits and rough look of wrought iron, however. If the look is desired, that can be faked with rounds of arbitrary etching (dabbing etchant in cycles over and over until it looks random). 
 
 If you go with a forge-weld, most smiths at that point abandon 5160. The chromium oxide that forms is a weld-killer. You can flux for it, but it's notoriously finicky.
 
-If you want to brave the wrought iron, then you have choices. You could do a traditional a 2-bar cleft-weld construction or a modern 3-layer san mai. Choosing 1084 would probably be ideal thematically, but there is a ton of decarburizing to be expected.
+If you want to brave the wrought iron, then you have choices. You could do a traditional a 2-bar cleft-weld construction or a modern 3-layer san-mai. Choosing 1084 would probably be ideal thematically, but there is a ton of decarburizing to be expected.
 
 If you use 1084, you definitely want a cleft weld, for two reasons. The carbon will literally leak from the 1084 into the wrought iron. A cleft weld would insure that the carbon is only stolen from the side away from the edge. Also, since 1084 has problems at higher temperatures, assuming you have a forge with some areas hotter than others (like in a coal or charcoal forge), you can put the spine in the hottest part of the fire.
 
-If you must do a san mai construction (for instance, because you feel like your forge will heat everything uniformly), you might consider other steels. Look at 15n20; the nickel in 15n20 slows down carbon migration and handles high heat better than 1084. You'll end up with a bright line on the edge, but hey, that makes it look more magical, doesn't it?
+If you must do a san-mai construction (for instance, because you feel like your forge will heat everything uniformly), you might consider other steels. Look at 15N20; the nickel in 15N20 slows down carbon migration and handles high heat better than 1084. You'll end up with a bright line on the edge, but hey, that makes it look more magical, doesn't it?
 
 Regardless, the blade should be exceptionally thick and wide. The wrought iron represents the stone and smoke of the hearth. Inscriptions will be on both sides, so it would be highly recommended to use a fiber laser and brazing techniques rather than damascening.
+
 #### Handle Construction
 
-Since this is a farmer's blade, the handle should be simple. It should be two-handed, like the Northolt Manor seax. The handle should probably be wood... bogwood would be incredible. This construction envisions the placement of Gurdr's Tears (jet gravel) as an inlay in the handle.
+Since this is a farmer's blade, the handle should be simple. It should be two-handed, like the Northolt Manor seax. There should be weight to the pommel to attempt to give the blade a bit more balance, but balance for this blade is not essential. The handle should probably be wood... bogwood would be incredible. This construction envisions the placement of Gurdr's Tears (jet gravel) as an inlay in the handle.
 
 I would highly consider picking a stabilized bone or wood handle, and performing a iron acetate soak on it. That makes a relatively black handle. By adding a jet gravel inlay, you produce a shiny-black-on-matte-black contrast, which should look subtle and cool. We're going for barrow-vibe here, so every shadow counts.
 
@@ -369,9 +376,9 @@ This is the meteorite steel blade of the Spotted King redcap's prison. He is the
 
 #### Blade Construction
 
-It should be constructed of monosteel silvery 15n20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. Your eyes should appear different when you look into the blade like a mirror, as if the gnome is staring back at you.
+It should be constructed of monosteel silvery 15N20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. Your eyes should appear different when you look into the blade like a mirror, as if the gnome is staring back at you.
 
-You could do as the forge elves, find yourself some meteorite iron, pound, refine and fold for a very long time to turn the iron into a billet of steel. You might even produce something that's half as good as ole' 15n20. Instead of doing all that, just buy the 15n20! 
+You could do as the forge elves, find yourself some meteorite iron, pound, refine and fold for a very long time to turn the iron into a billet of steel. You might even produce something that's half as good as ole' 15N20. Instead of doing all that, just buy the 15N20! 
 
 The blade is a light, relatively thin narrow seax with 12-14" blade . The break should be roughly half way down the blade, making the tip extremely fast and maneuverable.
 
@@ -379,9 +386,9 @@ There should be no fullers or inscriptions on the blade. The blade has no adornm
 
 #### Handle Construction
 
-The handle should be one-handed and be well-balanced, for maximum tip control. It should also be very secure in the hand. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping oxblood leather lace, ideally braid-wrapped with just enough 15n20 guard and pommel to counter-balance the thinner blade. Another good choice is odd-looking yet weirdly perfect section of bone or antler. It just so happens I have one of those.
+The handle should be one-handed and be well-balanced, for maximum tip control. It should also be very secure in the hand. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping oxblood leather lace, ideally braid-wrapped with just enough 15N20 guard and pommel to counter-balance the thinner blade. Another good choice is odd-looking yet weirdly perfect section of bone or antler. It just so happens I have one of those.
 
-The name should be inscribed in black on the blade's 15n20 round guard, and the title on the blade's 15n20 round pommel. If there's room, the runes should traverse the guard and pommel on the side-edge as if they are in mid-dance, each rune slightly askew angle-wise of what would be it's normal scripture-line. If there's no room on the edges, move the runes to the top and bottom flats of the guard and pommel but keep the runes out of alignment with the center line.
+The name should be inscribed in black on the blade's 15N20 round guard, and the title on the blade's 15N20 round pommel. If there's room, the runes should traverse the guard and pommel on the side-edge as if they are in mid-dance, each rune slightly askew angle-wise of what would be it's normal scripture-line. If there's no room on the edges, move the runes to the top and bottom flats of the guard and pommel but keep the runes out of alignment with the center line.
 
 #### Scabbard Construction
 
@@ -393,7 +400,7 @@ This blade is about style, and the scabbard should represent that. The scabbard 
 
 | Location                   | Function | Old English          | Futhorc Runes                    | Pronunciation                     | Meaning                        |
 | -------------------------- | -------- | -------------------- | -------------------------------- | --------------------------------- | ------------------------------ |
-| Guard Top                  | Name     | Mōnanleoht           | ```ᛗᚩᚾᚪᚾᛚᛖᚩᚻᛏ```                 | MOH-nahn-lay-okht                 | Moonlight                      |
+| Guard Top                  | Name     | Monanleoht           | ```ᛗᚩᚾᚪᚾᛚᛖᚩᚻᛏ```                 | MOH-nahn-lay-okht                 | Moonlight                      |
 | Pommel Bottom              | Title    | Beado-Hleaper        | ```ᛒᛠᛞᚩᚻᛚᛠᛈᛖᚱ```                 | BEH-ah-doe HLAY-ah-per            | Battle-Dancer                  |
 | Scabbard Obverse (Outward) | Oath     | Wē gameniaþ on lēoðe | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛚᛖᚩᚦᛖ``` | way GAH-men-ee-ath on LAY-oh-theh | We play/rejoice in song/poetry |
 | Scabbard Reverse (Inward)  | Spell    | Wē gameniaþ on blōde | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ``` | way GAH-men-ee-ath on BLOH-deh    | We play/rejoice in blood       |

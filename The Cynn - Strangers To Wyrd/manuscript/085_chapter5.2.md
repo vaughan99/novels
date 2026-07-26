@@ -231,7 +231,7 @@ Muninn: "That wasn't an _air organ_, or any other organ, except maybe a body par
 
 Huginn: "It was a metaphoooorical organ. Besides, look at the redcap below. Wait, where did he go?"
 
-Munnin: "He's screaming inside the steel now. And leave the music to the Cynn. They broke a murderer's spirit with Elswyth's prized coal, which is far more respectable than your dancing and squawking."
+Muninn: "He's screaming inside the steel now. And leave the music to the Cynn. They broke a murderer's spirit with Elswyth's prized coal, which is far more respectable than your dancing and squawking."
 
 Huginn: "Fine. But you have to admit, it DID really lift the mood."
 
@@ -307,7 +307,7 @@ Woden looked at Freyr one last time. "You will see these blades to their owners?
 
 Freyr: "As sure as the night falls."
 
-Woden looked at Huninn and Muninn. "Come on feathers. Time to move on."
+Woden looked at Huginn and Muninn. "Come on feathers. Time to move on."
 
 
 ---

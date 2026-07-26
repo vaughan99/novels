@@ -326,7 +326,7 @@ Regardless, nobody paid them any heed.
 
 The Danes were occupied with restoring order in the streets and had little interest in the frightened crowds sheltering in the churchyard. So long as the clergy kept them peaceful, they were the Church's concern, not the soldiers'.
 
-Osric immediately spotted Murdock by his red braids. He was gathered with what remained of the _fyrd_'s baggage train beside one of the surviving stone piers of the Shadow Wall. Heavy oak timbers had been passed through holes bored in the old Roman masonry to brace the repaired breach. One of the great beams now served as an impromptu bench.
+Osric immediately spotted Murdock by his red braids. He was gathered with what remained of the fyrd's baggage train beside one of the surviving stone piers of the Shadow Gate. Heavy oak timbers had been passed through holes bored in the old Roman masonry to brace the repaired breach. One of the great beams now served as an impromptu bench.
 
 Murdock saw them approach and nearly dropped his bowl of broth.
 
@@ -358,7 +358,7 @@ Murdock spread his hands toward the handful of sacks, pots, pans, and odds and e
 
 He shrugged.
 
-"If you're still a thrall to the _fyrd_, that's between you, Galindo, and God. But..."
+"If you're still a thrall to the fyrd, that's between you, Galindo, and God. But..."
 
 He gave Osric a proper head-to-toe accounting.
 
@@ -398,7 +398,7 @@ Osric stood before them, his hands clasped behind his back. What came next felt 
 
 Murdock's mouth stood agape.
 
-"For the blood of the saints, why boy? Ye want to get _back_ to the _fyrd_?"
+"For the blood of the saints, why boy? Ye want to get _back_ to the fyrd?"
 
 "I can understand if none of you wish to go with me, but I have unfinished business."
 
@@ -574,6 +574,6 @@ Freyr pointed.
 
 Freyr smiled.
 
-"I see mortals in every season, wearing every emotion. I see laughter in winter. I see tears in spring. But you... I see only duty. Only the obsession. Tell me, if there is no Ragnarok after all, how would you want to spend your days?"
+"I see mortals in every season, wearing every emotion. I see laughter in winter. I see tears in spring. But you... I see only duty. Only the obsession. Tell me, if there is no Ragnarök after all, how would you want to spend your days?"
 
 Woden spent the long day pondering that question. He had no answer.

@@ -37,9 +37,9 @@ had fallen into Danish hands, and he held it through the winter.
 
 King Edmund had called upon his lords to deliver a force to re-take Leicester. His lords answered.
 
-The armies fighting for Edmund came from East Anglia, Mercia, Wessex, and even Northumbria. Mercenaries came from from every corner where the news of silver could spread.
+The armies fighting for Edmund came from East Anglia, Mercia, Wessex, and even Northumbria. Mercenaries came from every corner where the news of silver could spread.
 
-At their head stood King Edmund I, now a man of twenty-two winters, and King for four. Beside him rode Bishop Oda of Canterbury, a Dane by birth and an Englishman by conviction, whose prayers carried nearly as much weight as the king's commands.
+At their head stood King Edmund I, now a man of twenty-two winters, and King for four. Beside him rode Archbishop Oda of Canterbury, a Dane by birth and an Englishman by conviction, whose prayers carried nearly as much weight as the king's commands.
 
 For weeks the armies had tested Leicester's walls. They were stout and well defended—except in one place.
 
@@ -63,7 +63,7 @@ Oda looked toward the church belltower rising above Leicester's rooftops.
 
 "Because the path runs through Under-Geat."
 
-Oda sighed, and his hand found his golden cross. "My lord King, my answer has not changed. The Church's _frith_ is a covenant. We do not merely cast it aside for convenience."
+Oda sighed, and his hand found his golden cross. "My lord King, my answer has not changed. The Church's _frith_ is a covenant. We do not merely cast it aside for convenience. To ask this of me on Easter Eve borders on blasphemy."
 
 The King leveled an icy stare at Oda. "I would hardly call the deaths of a few hundred men, taken while reclaiming a city for Christ, a matter of _convenience_. Olaf may call himself Christian, but too many of the men behind those walls still kneel to the old gods."
 
@@ -121,7 +121,7 @@ He smiled.
 
 "When we know the East Gate is open, the swiftest army will be the one to keep it."
 
-He then summoned one captain to step forward. The captain was Galindo, a Spaniard who served as reeve of a remote Tyne River _fyrd_. He had spent most of his life counting wagons, settling disputes, and calling men to the _fyrd_—not leading assaults upon stone walls.
+He then summoned one captain to step forward. The captain was Galindo, a Spaniard who served as reeve of a remote Tyne River fyrd. He had spent most of his life counting wagons, settling disputes, and calling men to the fyrd—not leading assaults upon stone walls.
 
 "Galindo, when we commit to the East Gate, stay behind hidden in the willows. When Olaf answers the East Gate, see what he leaves behind. If the Shadow Gate be lightly held by pagan souls, take it. The villagers will be cleared, so use what force you must. Keep that gate open and signal me when you have it."
 
@@ -167,7 +167,7 @@ Wulfstan ignored the challenge. He turned to Olaf.
 
 "Then stand in the breach," Wulfhere barked.
 
-He planted his spear in the middle of the Shadow Gate held it there.
+He planted his spear in the middle of the Shadow Gate and held it there.
 
 "Stand here. Hold your cross out and command them to stay their hand..."
 
@@ -211,13 +211,29 @@ Oda received him with a scribe by his side. A table and three chairs had been br
 
 Oda motioned his hand to the chair.
 
-"Peace be with you."
+"Peace of the Resurrection be with you."
 
-Wulfstan took the chair and seated.
+Wulfstan looked at the chair that was offered. He did not sit.
 
-"And with you."
+"And with you. But before we begin, Oda, we should pray."
 
-Oda seated directly opposite Wulfstan, the flicker of candlelight illuminating the matching rings on their fingers.
+Wulfstan turned and knelt before the altar, his weight gently pressing into the cushion.
+
+Oda joined beside him.
+
+"If you'll permit me..." Wulfstan bowed his head.
+
+"_Beati pacifici, quoniam filii Dei vocabuntur_. (_Blessed are the peacemakers, for they shall be called the children of God._)
+
+Silence fell over the church.
+
+Oda bowed his head.
+
+"_Misericordia et veritas obviaverunt sibi; iustitia et pax osculatae sunt._" (_Mercy and truth have met one another; justice and peace have kissed._)
+
+They each prayed upon the words in silence for a long moment. They then rose and were seated.
+
+Oda sat directly opposite Wulfstan, the flicker of candlelight illuminating the matching rings on their fingers.
 
 The scribe uncorked his ink.
 
@@ -291,7 +307,7 @@ He looked back.
 
 Wulfstan remained silent.
 
-"The _fyrd_ is not an army."
+"The fyrd is not an army."
 
 Oda's voice had become almost pastoral.
 
@@ -321,7 +337,7 @@ Oda's hands came down firmly upon the table. The inkwell jumped, and the scribe 
 
 The words hung in the air.
 
-"If Mercia, Northumbria, Wessex... fails to sow..."
+"If Mercia, Northumbria, Wessex... fail to sow..."
 
 Oda looked beyond Leicester, as though he could already see the empty fields.
 
@@ -387,7 +403,7 @@ Wulfstan stared at him.
 
 "You ask me to make my king's death the boundary of the peace."
 
-"I ask you to let Olaf's kingdom be remembered for the souls he spared, not the lands he left his sons."
+"I ask you to let Olaf's kingdom be remembered for the souls he spared on Easter, not the lands he left his sons."
 
 Wulfstan considered the words.
 
@@ -431,7 +447,7 @@ The previous night's funeral pyres were fed by the fallen logs of a shattered ra
 
 Before dawn, King Olaf Guthfrithson and Wulfstan departed the North Gate beneath a banner of peace.
 
-When the crier mounted the Forum wall that morning and held aloft the wax-sealed treaty, silence spread through both armies. The Danes gathered their dead, their baggage, and what remained of their host for the short road back toward the restored Boroughs of the Danelaw.
+When the crier mounted the Forum wall that Easter morning and held aloft the wax-sealed treaty, silence spread through both armies. The Danes gathered their dead, their baggage, and what remained of their host for the short road back toward the restored Boroughs of the Danelaw.
 
 The _fyrds_ faced a much longer journey. They returned to fields already waiting for the plow, and to the knowledge that after months of hardship they had won nearly every battle fought with sword and spear.
 
@@ -445,7 +461,7 @@ Osric's clothes were a beggar's hoard. He wore three tunics at once: a stiff, gr
 
 Osric once held an honored position in the fyrd, a tall, proud warrior-farmer with the strongest back, who anchored the shield wall. But now, he dug latrines, and wagons out of mud. When the news came, it didn't matter at the time. His attention was held by the carriage wheel that had detached, its axle flat in the muck. He didn't have time for parchment-deals, not when the baggage-master had a whip in the hand.
 
-In the battle, his survival was not decided by skill. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not soldier's work, but that of a thrall.
+In the battle, his survival was not decided by skill. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not a soldier's work, but that of a thrall.
 
 Among the army of Olaf were Northumbrian levies, farmers like Osric from neighboring towns but paying homage to York instead of the Saxons. He had hoped not to meet them in battle, as his wife's kinsmen were from the _Piceringas_ near York, and he had traded with others on Olaf's side. 
 
@@ -487,7 +503,7 @@ Cynewulf had the bearing of a soldier. His byrnie—once a proud shirt of black 
 
 Cynewulf's vows were taken at the Church in Leicester, and that is where Elswyth once knew him. In those days, before he traded his vestments for a chain shirt, he was an acolyte who worked in the bell foundry. Her family's coal fed the fires then. He glanced at the church several times at night through the rain, trying to remember the lines of the bell-fry, the happier times. But now, with the siege ended, the church was the beginning of the next road.
 
-With his warband gone, Cynewulf wandered south toward the North Gate to see where the wind wanted to blow him next. He knew the Church was offering crusts of bread and a bit of broth to those unfortunate who had nowhere else to be. That is how he happened upon the Tyne River _fyrd_. Roughly a hundred men stood in the rain watching one thrall kneeling in the mud yet again over a broken axle.
+With his warband gone, Cynewulf wandered south toward the North Gate to see where the wind wanted to blow him next. He knew the Church was offering crusts of bread and a bit of broth to those unfortunate souls who had nowhere else to be. That is how he happened upon the Tyne River fyrd. Roughly a hundred men stood in the rain watching one thrall kneeling in the mud yet again over a broken axle.
 
 A man on an unusually fine horse rode up to him.
 
@@ -503,7 +519,7 @@ The foreigner laughed. "Then today is full of surprises."
 
 He extended a hand.
 
-"Galindo. Reeve to the _fyrd_ from the Tyne Valley."
+"Galindo. Reeve to the fyrd from the Tyne Valley."
 
 Cynewulf shook it cautiously.
 
@@ -515,7 +531,7 @@ Galindo glanced back toward the baggage train. Osric was still crouched over the
 
 "For what?"
 
-"For leaving." Galindo answered immediately. "The peace has been read. Half the _fyrd_ is already thinking about sowing crops. The other half is thinking about their wives. I need guards for the baggage train before they begin their race to see which ones get home first."
+"For leaving." Galindo answered immediately. "The peace has been read. Half the fyrd is already thinking about sowing crops. The other half is thinking about their wives. I need guards for the baggage train before they begin their race to see which ones get home first."
 
 Cynewulf followed his gaze toward the wagons.
 
@@ -525,7 +541,7 @@ Cynewulf followed his gaze toward the wagons.
 
 "And?"
 
-"The _fyrd_ is an unbridled horse that smells home, and time is a luxury."
+"The fyrd is an unbridled horse that smells home, and time is a luxury."
 
 Galindo pointed toward the camp.
 
@@ -681,7 +697,7 @@ Cynewulf took the old veteran aside. "Didn't catch your name."
 
 "Were you fighting for the lords of York then?"
 
-"Ech... no... I came her not for the seige, but for the peace. Who can ask a man to choose between mother and father? No, I sell my spear only when the shield-walls get smaller."
+"Ech... no... I came her not for the siege, but for the peace. Who can ask a man to choose between mother and father? No, I sell my spear only when the shield-walls get smaller."
 
 "So... what if we change your name. How do you like Quartermaster?"
 
@@ -715,7 +731,7 @@ The archer stopped dead in his tracks.
 
 "Both." One-Eye pressed the iron cross at his neck to his lips. "Forgive me, Father," he whispered, "I know not all our trials are alike... but it seems You've been favoring the mud lately."
 
-"Best be settling in. Report to the wagon master." Galindo replied.
+"Best be settling in. Report to the wagon master," Galindo replied.
 
 High above the town, perched on the highest wall of the Forum, Wulfhere studied his enemy still. The _Ulfhednar_ were the wolf-men of the Danes, men who married their souls to the wolves of Odin. Though his kind's number were dwindling on the island, he was fierce and true to his kind. To him, the brokered peace was a thing for priests and deer-meat. He had lost some of his number in the fighting before, but the trophy pile was small, and many of his number still longed for Valhalla. 
 
@@ -755,7 +771,7 @@ The archer frowned. "No?"
 
 Tor spat into the mud. "Brave men get themselves killed proving it. Wise men have fear. They just don't show it."
 
-Cynewulf approached, and the brothers exchanged a glance. "Have you ever fought one of them? The wolf-men I mean." asked one.
+Cynewulf approached, and the brothers exchanged a glance. "Have you ever fought one of them? The wolf-men I mean," asked one.
 
 Cynewulf did not look up from the wagons. "Stow your gear. I don't think we're leaving tonight." He nervously looked back up the road.
 
@@ -805,7 +821,7 @@ The men howled. The sound marked the soul leaving only the wolf behind.
 
 ---
 
-Huginn: "No, wait... it was more like...  Valhallaaaaaaa...!!!
+Huginn: "No, wait... it was more like...  Valhallaaaaaaa...!!!"
 
 Muninn: "Wrong. On both counts."
 

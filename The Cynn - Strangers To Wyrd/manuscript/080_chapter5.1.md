@@ -159,7 +159,7 @@ Freyr: "Alfheimr is a home for those who have earned their summers with hard win
 
 Woden's eye settled upon Elswyth.
 
-Woden: "The coaler's apprentice is interesting. The convergence suggests she will lose her family to Wolfhere, and that she will be haunted by one of your lost souls. A redcap, a self-styled _Spotted King_. That creature has repeatedly escaped my _Wild Hunt_, but now I expect we'll know where to find him."
+Woden: "The coaler's apprentice is interesting. The convergence suggests she will lose her family to Wulfhere, and that she will be haunted by one of your lost souls. A redcap, a self-styled _Spotted King_. That creature has repeatedly escaped my _Wild Hunt_, but now I expect we'll know where to find him."
 
 Freyr: "Fussleton. Yes, his fall was most unfortunate. His obsession twisted him beyond recognition."
 

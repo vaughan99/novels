@@ -36,7 +36,7 @@ Murdock raised an eyebrow. "Aye, but you think you're going to carry that back h
 
 Osric smiled, if only for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light." The sun hung low in the sky. One hour. Just one hour without crawling through the filth—that was all Osric wanted.
 
-"First light? By the blood of the saints, man, if we bide our time here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon-master did not waste time weeping or wanting.
+"First light? By the blood of the saints, man, if we bide our time here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon master did not waste time weeping or wanting.
 
 He stepped into the center of the stalled host, his voice cracking like a whip. "Move the healthy beasts! Unhitch the rear carts and wheel them broadside! I want a circle of oak and leather before the sky turns black!" Murdock took charge with a feral, driving energy, dragging everyone into the toil.
 
@@ -68,7 +68,7 @@ The oxen cleared the gap, trampling down the road into the town, and before the 
 
 Those few who had managed to fall asleep awakened instantly, their hands finding shields and spears merely inches away. Bleary-eyed, they hastily formed a wall, their backs to the open corner a few feet away.
 
-The wolf-men crashed into the forming shieldwall. Two fyrdmen flew backwards, their backs landing in the mud. One had an axe embedded in his shoulder. A spear caught one of the Vikings in the ribs, bringing him to his knees. One of the Saxon brothers took a javelin to his shield, the head driving deep into his forearm. The shieldwall bent but did not break, boots carving furrows through the mud as the Ulfhednar drove it back.
+The wolf-men crashed into the forming shieldwall. Two fyrdmen flew backwards, their backs landing in the mud. One had an axe embedded in his shoulder. A spear caught one of the Vikings in the ribs, bringing him to his knees. One of the Saxon brothers took a javelin to his shield, the head driving deep into his forearm. The shieldwall bent but did not break, boots carving furrows through the mud as the _Ulfhednar_ drove it back.
 
 Cynewulf stood at the rear, having no shield, his rusty langseax gripped tight in his hand. He braced his other hand against the fyrdman in front of him. "Hold, men!" he screamed. He knew the next moments were crucial.
 

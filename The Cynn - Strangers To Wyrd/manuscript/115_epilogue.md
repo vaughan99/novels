@@ -1,6 +1,6 @@
 ## Epilogue
 
-Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The childrens' beaks aren't ready for tougher meat, Huginn! The way YOU tell it, every little person they meet will be a psycho murder-gnome!"
+Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The children's beaks aren't ready for tougher meat, Huginn! The way YOU tell it, every little person they meet will be a psycho murder-gnome!"
 
 Muninn reaches down with his beak and snatches the loose tailfeather from Huginn's tail. 
 
@@ -14,7 +14,7 @@ Huginn: "It has important moral lessons, brother! Look at the nisse. She and her
 
 Muninn continued, unabated.
 
-Muninn: "TWO! A mother and her two children *poisoned*... TO DEATH ... by cough medicine? Are you _INSANE_? No child will ever take medicine _ever again_."
+Muninn: "TWO! A mother and her four children *poisoned*... TO DEATH ... by cough medicine? Are you _INSANE_? No child will ever take medicine _ever again_."
 
 Muninn made another scratch.
 
@@ -32,7 +32,7 @@ Muninn: And... AND... FIVE!!! a ghost-carnival off-the-rails raven train of prim
 
 Muninn manically surveyed the children.
 
-"SUDDENLY ITS ARMAGGEDON!!!"
+"SUDDENLY ITS ARMAGEDDON!!!"
 
 Several of the children stared at Muninn for a brief second. They seemed genuinely surprised.
 
