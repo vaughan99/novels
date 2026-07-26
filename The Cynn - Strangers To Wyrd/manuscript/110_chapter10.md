@@ -176,7 +176,7 @@ Elswyth: "This is _mine_. I know it. I cut it to these lengths."
 
 Osric: "The forge was lit yesterday. Suddenly... _lit_. Like someone else was here."
 
-Elsywth stopped and stared at Osric.
+Elswyth stopped and stared at Osric.
 
 Elswyth: "Do _not_ blame this on the _Coaler-Wight_."
 

@@ -36,4 +36,4 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 
 "It all started at the end of the Siege of Leicester, 943 _Anno Domini_, in eastern England. I believe it was... the rains of spring.".
 
-"It was April 20th," Muninn interrupted. "And it was morning."
+"It was Saturday, March 25th," Muninn interrupted. "And it was the morning of Easter Eve."

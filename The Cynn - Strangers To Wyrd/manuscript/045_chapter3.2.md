@@ -95,7 +95,7 @@ On the first anniversary of the night of the wolves, Fussleton led her back to t
 
 The gnome had taught her everything he thought she needed to survive as a child on the edge of the Charnwood. He taught her the secrets of the forest larder. He taught her the power of the moon, and its effect on wood and beasts. He taught her where the absolute best wood lived, and how to harvest it wisely. He taught her music, dancing, and even how to smoke a pipe. She was ready to live on her own.
 
-"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-five moons—twelve moons for your training, and one hundred and thirteen for the beats your brave little heart outran the wolf. I will check on you, Meadow-Bud. I will make sure you are safe."
+"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-four moons—twelve moons for your training, and one hundred and twelve for the beats your brave little heart outran the wolf. I will check on you, Meadow-Bud. I will make sure you are safe."
 
 "My heartbeat? How do you..." Elswyth stammered.
 
@@ -203,7 +203,7 @@ She finally looked at Elswyth.
 
 "Can you believe what some children will put up there? Last week there was a clump of manure."
 
-She giggled. Then she stared directly into Elsywth's eyes.
+She giggled. Then she stared directly into Elswyth's eyes.
 
 "They'll recognize you. And I can't sell it for you. So you either need a new face, or someone you trust to handle the silver. I have a cowl you can use until next winter. Keep your face in its shadow and hide your hair. Pretend to be a mute, and you should be fine."
 
