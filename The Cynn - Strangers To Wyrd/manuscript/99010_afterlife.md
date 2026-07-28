@@ -855,7 +855,7 @@ It flew two inches.
 
 _Plop._
 
-Steve's Eyeball looked up at Huginn. If it could shrug, it would have.
+Steve's Eyeball looked up at Huginn from the floor. If it could shrug, it would have.
 
 Huginn: "That's okay buddy."
 
@@ -903,7 +903,7 @@ He slipped them on.
 
 "Microphone checks out. Sound check, everyone."
 
-The Skeleton Crew settled into place. The guitarist and bassist flexed bony fingers over their strings. The keyboardist ran a quick trill from the lowest key to the highest. Plan B lifted Steve over the drum kit, seven drumsticks poised in patient mechanical hands.
+The Skeleton Crew settled into place. The second guitarist and bassist flexed bony fingers over their strings. The keyboardist ran a quick trill from the lowest key to the highest. Plan B lifted Steve over the drum kit, seven drumsticks poised in patient mechanical hands.
 
 Odin struck a chord, heavy and low, that settled somewhere deep in everyone's bones.
 
