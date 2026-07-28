@@ -7334,16 +7334,381 @@ Kings had courts.
 
 She was determined to drive the thought from her mind.
 
+Osric rode beside the wagon for a time, glancing often as far ahead as he could see.
 
+“We cannot remain on this road all the way north,” he said.
 
-[TODO: Osric tells the party they can't let Galindo seem them on the road. He rides the Southern horse, from Iberia, known to be the fastest in horse to eat Northumbrian oats]
+Murdock looked over from the driver’s bench. “Aye lad. Cynewulf has the map. He'll know what to do. Ne'er you worry.”
 
-[TODO: They walk a while]
+Cynewulf overheard. "We'll determine our course on the morrow."
 
-[TODO: They stop for camp on night #1, and break out the ale. Murdock recounts Cynewulf's naked giant story. Osric recounts the tale of the fyrd taking him a thrall. And Elswyth recounts the tale of the redcap as a ghost story, and finishes it with the Coaler-Wight showed up to drag him into the ground]
+One-Eye laughed. “Unless their boots break before their axles do. Osric, did the fyrd ever ask you to mend a shoe with a wagon spoke?”
 
-[TODO: They wake up and map a path to bypass Galindo and the fyrd]
+Murdock and Elswyth laughed.
 
+“For now,” Osric replied. “But we need to pass them somewhere within the next six or seven days. We cannot follow the same road forever and hope they never notice us.”
+
+“And if we choose poorly?” One-Eye asked.
+
+Murdock sighed. "I'll be helping the pick of the road, lads. Lest we find this new wagon of ours in the ditch."
+
+Osric looked back again.
+
+“The greater danger is Galindo. Should we pass them before they recognize us, that is one thing. The men cannot catch us quickly. He can.”
+
+Elswyth glanced toward him. “Because of his horse?”
+
+Osric nodded. “That Iberian animal may be the fastest horse ever to eat Northumbrian oats.”
+
+One-Eye frowned. “Is that a known measure of speed?”
+
+“It is in the villages along the Tyne,” Osric said. “The children know that horse better than they know some of their neighbors. Whenever Galindo rides through, they race beside him.”
+
+“On horseback?” Elswyth asked.
+
+“On foot.”
+
+Tor laughed.
+
+“He holds the horse to a trot,” Osric continued as he smiled. “They still lose.”
+
+“Then why do they keep racing it?” Ketill asked.
+
+“Because they are children.”
+
+Murdock nodded gravely. “A dangerous condition. Most survive it.”
+
+Osric ignored him.
+
+“If Galindo sees us ahead on the road, he can reach us before we find cover. Then he will ask why members of his baggage guard are traveling with fresh horses, a sound wagon, and enough provisions to make his train jealous.”
+
+Tor looked toward the bed of the wagon. “And if he asks for them back?”
+
+“He may not ask.”
+
+One-Eye's voice grew dim. “Then we should make certain he never knows what he has lost. For his own sake.”
+
+"Galindo's not my enemy," Osric replied. "I don't mean him harm."
+
+“We travel the road tonight,” Cynewulf said. “Tomorrow we choose where to leave it. Somewhere in the next six or seven days, we must cross ahead of the fyrd without Galindo seeing us do it.”
+
+They continued until the light faded and the road became a pale ribbon beneath the evening sky. Osric chose a low hollow beyond a stand of thorn, far enough from the road that neither wagon nor fire could easily be seen.
+
+Murdock guided the draft horses down the slope and brought the wagon beneath a leaning oak. Tor and Ketill tended the animals. Elswyth gathered fallen branches from beneath the hedges, where the rain had not reached them. Cynewulf walked the edge of the hollow twice before allowing the fire to be lit.
+
+When darkness finally settled over the road, One-Eye drew the first cask of ale from the wagon.
+
+“We have traveled far enough,” he declared. “I shall name you Lovely. Now come sit beside me, my lovely.”
+
+Tor found wooden cups among the provisions. Ketill opened the cask, and the company gathered around the fire.
+
+For a while, they spoke of horses, roads, and how much distance they had gained on the fyrd. The ale passed from hand to hand. Then Murdock looked across the flames at Cynewulf.
+
+“I suppose this is the proper time to tell them about the naked giant.”
+
+Cynewulf lowered his cup.
+
+“No.”
+
+Elswyth sat forward. “There was a giant of a wolf-man in the South Pastures yesterday. He was there last night when the wolves came. Was that the one?”
+
+“Yes,” Cynewulf said.
+
+Murdock turned toward the others. “The giant followed Cynewulf to the church last night.”
+
+Cynewulf protested. “He was not a giant.”
+
+Murdock continued, “He stood three heads taller than Cynewulf."
+
+Ketill corrected, "No. Two."
+
+Murdock shook his head.
+
+"There they were in the street between the Forum and the church, weapons drawn.”
+
+One-Eye took a gulp of ale. “Was he naked yet?”
+
+Murdock laughed. “Of course he wasn’t naked yet. Let me finish.”
+
+He took another drink.
+
+“Cynewulf cursed the giant so thoroughly that he stripped off his armor, dropped his weapons, and fled. Then the church bells began to ring.”
+
+Elswyth drank. “Where did he go?”
+
+Everyone looked at Cynewulf.
+
+“He just... ran.”
+
+Cynewulf felt the weight of Wodbora at his belt, the hilt pressing into his hip.
+
+Murdock continued. “Aye, he ran. Then everyone heard the bells and came running. The priest looked at the armor, the shield, and the sword. He was the first to ask where the naked Viking had gone. Then the villagers kept him there for hours, demanding the proper prayer against naked evil!”
+
+The company laughed.
+
+Cynewulf drank.
+
+“That is one account.”
+
+“It is the accurate account,” Murdock said.
+
+Tor was incredulous. "So who rang the bells if everyone was asleep?"
+
+Mischief widened Murdock’s eyes. “Everyone had a different answer. Some said valkyries rang them because they expected to take a soul. Others blamed a local ghost... a thing called the _Coaler-Wight_.”
+
+He took another drink.
+
+“Me, I think the bells grew a sense of humor.”
+
+Murdock laughed so hard he almost spat out his ale.
+
+The laughter trailed and the conversation lowered, allowing the crackle of the fire to have its say.
+
+Cynewulf raised his head. “Osric, how did your own fyrd make you a thrall?”
+
+Osric gave Murdock a weary look.
+
+“You have been telling stories.”
+
+“Aye.”
+
+Elswyth looked between them. “His own men captured him?”
+
+“They had the wrong idea,” Osric said.
+
+“That hardly improves it,” Cynewulf replied.
+
+Osric settled against his saddle on the ground, and his smile disappeared.
+
+“The first night of winter was the worst of many bad nights. We had a visitor who took grain from the _eorth-hord_. My wife and I disagreed over what... it was. That distracted us from the syrup.”
+
+One-Eye stopped in mid-drink. “Syrup?”
+
+“Elderberries,” Osric said. “They went undercooked. My family and I ate it that first night.”
+
+Tears welled in his eyes.
+
+Murdock laid a hand on his shoulder. “Saints’ blood save ye, lad. I had no idea.”
+
+Osric took a moment to compose himself.
+
+"The... thing... that stole our grain, was no ordinary thing. Ealhild knew what it was. I should have trusted her. It got... offended."
+
+Tor's eyes narrowed. "It got angry?"
+
+Osric looked into the fire. "It tore the roof off the house."
+
+The company sat stunned.
+
+"By the time the fyrd came to forage for supplies, the... thing... had saved my life, rebuilt the byre, sorted the animals, and heated it for God's sake."
+
+A scowl crept across Osric's face. He stared deeper into the fire, as though his stare were the only thing keeping it hot.
+
+"The men of the fyrd saw the wreck of my house. They accused me of going mad. Then one of them noticed the snow barrow I had created for my family. He desecrated their burial. He called my wife names. I punched him. But that wasn't the worst of it."
+
+Osric gulped.
+
+“The others sent men into the byre to collect chickens and whatever livestock they could take for the campaign. They saw what the _thing_ had done. Every animal was fat, while those in their own byres had been reduced to skin and bone.
+
+“They became convinced that, in my madness, I had cared for the animals while killing my own wife and children. They accused me of stealing grain from the surrounding farms to keep the beasts fed.
+
+“To them, it was a winter curse. An ice-borne hate.
+
+“Galindo quieted the men, but his questions became harder to answer, and I could not tell him about the _thing_. He had no choice but to call for a witan, only there was no time.
+
+“So I was given into Murdock’s keeping. As was my entire byre. They spared nothing. It’s all... gone.”
+
+Murdock narrowed his eyes. “For that first week, your _thing_ provided our every meal, lad.”
+
+If doubt remained among them, no one gave it voice.
+
+The cask grew lighter. Tor spoke of selling herring pies on the docks of York. Ketill told a brief tale about a frozen river and the horses lost beneath it. One-Eye offered two different accounts of how he had lost his eye, neither agreeing with the other.
+
+At last, Murdock looked toward Elswyth.
+
+“And what stories do coalers tell?”
+
+Elswyth sat against one of the wagon wheels, turning the smooth piece of coal between her fingers.
+
+“Not stories meant for drinking.”
+
+“One hopes those are the best kind,” One-Eye said.
+
+Elswyth looked beyond the firelight.
+
+“There was once a charcoal burner who heard knocking beneath one of his pits.”
+
+The company quieted.
+
+“He thought a root had split in the heat. Then the knocking came again.”
+
+She struck the coal softly against the wheel.
+
+Once.
+
+Twice.
+
+A third time.
+
+“The burner opened the pit. The coals were cold, but smoke poured from the earth. Inside stood a little man wearing a red cap.”
+
+One-Eye lowered his cup.
+
+“The little man asked to warm himself beside the coals. He promised silver in return.”
+
+Tor smiled faintly. “A fair bargain.”
+
+“So the burner thought.”
+
+Elswyth watched the fire.
+
+“The redcap did not warm his hands. He took a hare from the burner’s snare and opened its throat. Then he washed his cap in the blood until the cloth turned dark.”
+
+Murdock stopped smiling.
+
+“The next night, he returned. Then the next. Each time he brought another cap. Each time he promised that soon his family would come.”
+
+Cynewulf held his cup without drinking.
+
+“The burner barred his hut. He set traps around the pit and waited with his axe.”
+
+One-Eye leaned nearer the fire. “Did the redcaps come?”
+
+“Yes. It turns out they all came to watch. But only one was sent to the hut each night, with a borrowed cap to wet. But this time, the gnome needed to wet his _own_ cap.”
+
+Elswyth closed her fingers around the coal.
+
+“The redcap reached for yet another rabbit. And then the earth began to smoke. The coaler clutched his axe and waited in the corner of his home. The redcap looked at its feet.”
+
+The fire snapped.
+
+“It rose through the ground. It was the Coaler-Wight.”
+
+Ketill watched her without blinking.
+
+“It seized the murder-gnome by the ankles and dragged him into the ground. He kicked. He screamed. Foul poetry spat from his lips as the fiery coals filled his mouth.”
+
+Elswyth lowered her voice.
+
+“The other redcaps watched from the trees. They didn't mourn the loss of their own... they laughed until there was nothing left above the earth but his cap, now scorched.”
+
+Murdock raised his eyebrows. "I thought redcaps favored castles..."
+
+Elswyth replied, "That's where they keep their court. But every now and then, they slink off to the local woods to find someone to wet their caps."
+
+Silence settled over the hollow.
+
+One of the horses stamped beyond the firelight.
+
+One-Eye looked down between his boots.
+
+“Why did the Coaler-Wight take him?”
+
+“Perhaps the spirit recognized an even more foul spirit than itself,” Elswyth said. "But coalers know... the Coaler-Wight protects its own."
+
+Tor took a long drink. Murdock rubbed his beard. “Coalers tell that tale to children?”
+
+“No,” Elswyth said with a smile. “They tell it to one another.”
+
+One-Eye shifted closer to the fire.
+
+Cynewulf studied Elswyth, but she kept her eyes on the coal in her hand.
+
+Tor lifted the cask.
+
+“Well. Something has been drinking this while we listened.”
+
+“The Coaler-Wight,” One-Eye said.
+
+The laughter returned, though not as loudly as before.
+
+They slept in watches.
+
+At dawn, Osric spread a cloak across the ground and weighed its corners with stones. Cynewulf crouched beside him and drew the north road with a charred stick.
+
+_Thwack._
+
+Nearby, Elswyth loosed another bolt into the grain sacks while Murdock watched with the anxious attention of a man counting every shot in silver.
+
+“The fyrd will remain on the main road,” Osric said. “Carrying sacks of grain will make their feet weary. They'll want the Roman street.”
+
+Tor knelt opposite them. “How far behind?”
+
+“Perhaps half a day now,” Cynewulf said. “Less if they made good time after leaving Leicester.”
+
+Murdock grunted. “They did not. It was raining, remember?”
+
+“Galindo may ride ahead regardless,” Osric said. “We have six or seven days at most to leave their route, gain ground, and cross back ahead of them.”
+
+Cynewulf marked several bends in the road.
+
+“We cannot simply turn west and hope. A poor track could cost us more time than the fyrd loses.”
+
+“We need firm ground,” Murdock said. “No marsh. No steep gullies. No forest track narrower than the wagon.”
+
+“And water every other day. Fill that ale barrel with water,” Tor added.
+
+Ketill pointed north of Cynewulf’s marks. “The fyrd must cross here?”
+
+Osric nodded. “A river crossing. There are few places suitable for so many wagons.”
+
+“Then we do not need to outrun them every day,” Ketill said. “Only reach the far side before they do.”
+
+Cynewulf drew another line, bending away from the road before returning north of the crossing.
+
+“We take a western route, keep to higher ground, and rejoin beyond the ford.”
+
+Murdock stared at the precise map.
+
+Elswyth moved closer.
+
+“Show me where the land rises.”
+
+Osric indicated the ridge lines he remembered. Elswyth studied them, then took the stick from Cynewulf.
+
+“Follow oak where we can,” she said. “Oak prefers firmer ground. Avoid alder and willow unless we are looking for water or mud.”
+
+She drew a second path beside Cynewulf’s.
+
+“We do not need one road. We need a chain of usable ground. Pasture, old cart tracks, woodcutters’ paths, then the road again.”
+
+Murdock examined her marks.
+
+“And if one link fails?”
+
+“We turn north or south until we find another.”
+
+“That could take a day.”
+
+“So could replacing an axle.”
+
+Murdock considered that, then nodded.
+
+Osric pointed to the place where Elswyth’s route crossed ahead of the fyrd.
+
+“We remain on the road today. Tomorrow, perhaps the next day, we leave it here. The fyrd continues toward the river. We cut west, travel north on the high ground, and return beyond the crossing.”
+
+“One question,” One-Eye said.
+
+They looked toward him.
+
+“How do we know Galindo has not already ridden ahead?”
+
+Osric folded the map-cloak inward.
+
+“We do not.”
+
+One-Eye looked toward the road.
+
+“That seems important.”
+
+“It means we watch both directions,” Cynewulf said. “No cresting hills in a group. No bright fire near the road. If we see him first, we hide.”
+
+“And if he sees us first?” Elswyth asked.
+
+Osric looked down at the sketched route before covering it with the next fold.
+
+“Then we discover whether that Iberian horse truly is the fastest animal ever to eat Northumbrian oats.”
 
 
 [↑ Back to Table of Contents](#table-of-contents)
