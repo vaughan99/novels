@@ -1,14 +1,14 @@
 ## Chapter One: A Promise of Piles
 
-The Saxon armies had gathered from icy roads far away, to deliver death to the Danes who occupied Leicester. 
+The Saxon armies had gathered from icy roads far away, to deliver _DEATH_ to the Danes who occupied Leicester. 
 
 ---
 
-Muninn: "You mention death in your very first sentence? These are children, Huginn, not morticians."
+Muninn: "You mention _DEATH_ in your very first sentence? These are children, Huginn, not morticians."
 
 Huginn: "I think it's polite."
 
-Muninn: "To announce death so casually?"
+Muninn: "To announce _DEATH_ so casually?"
 
 Huginn: "To announce that the buffet has arrived. I wouldn't want anyone feeling left out."
 

@@ -30,7 +30,7 @@ Muninn: "Are you sure you have this?"
 
 Huginn interrupted. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me?"
 
-Muninn, rolling his obsidian eyes, shook his head... a slow shake practiced from seemingly the beginning of time itself. "I'm here to see that the oath of the story is held. Proceed."
+Muninn rolled his obsidian eyes. "I'm here to see that the oath of the story is held. Proceed."
 
 Huginn continued, the twinkle in his eye betraying the smile his face couldn't give. The children stared as he spread his wings and spoke of faraway lands and ancient deeds; of foul creatures, ghosts, and goblins; of myths and legends, and the truths hidden behind them.
 
