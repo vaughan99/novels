@@ -1,4 +1,4 @@
-### Part Two: The In-Between
+### Part Two: The Long Burn
 
 The training began exactly as he promised, though it was nothing like the songs he had sung over the stew. It was a brutal, rhythmic education in the art of disappearing and collecting.
 

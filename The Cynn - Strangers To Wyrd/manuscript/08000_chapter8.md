@@ -1,4 +1,4 @@
-## Chapter Seven: Barrow's Edge, The Hedge-Stalker
+## Chapter Eight: Barrow's Edge, The Hedge-Stalker
 
 The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the glow of slowly burning charcoal, hot enough to warm the space. The glow bathed the room in a heavy, flickering orange light, casting long, monstrous shadows behind the columns.
 
@@ -134,7 +134,7 @@ Ingvarr arose from the corner, laying the whetstone on the sill.
 
 He ushered the children out the door while staring at Osric.
 
-A smile crept across is face. "I pull the weeds at the hedgerow. The children are the fence."
+A smile crept across is face. "I cut the weeds at the hedgerow. The children will tend the fence."
 
 He turned to Ealhild. "Isn't that right _mother_?"
 
@@ -158,7 +158,7 @@ She closed the door.
 
 "Now, isn't it time for mutton?"
 
-The candle on the table lit suddenly, and the smell of fresh mutton suddenly filled the air. He saw a chunk of mutton roasting on a spit in the hearth.
+He didn't remember the candle on the table being lit. He didn't remember the smell of fresh mutton filling the air. But now he saw the flame and a chunk of mutton roasting on a spit in the hearth.
 
 "There, you see? Mathild fetched it while you weren't looking. She knows that's your favorite."
 
@@ -194,7 +194,7 @@ Osric looked at _everything_. "What is happening?"
 
 The door swung open. It was Ingvarr and the other children.
 
-Ingvarr smiled at his father, and laid _Barrow's Edge_ on the table. "The weeds have been cut down. The wood's been stacked, and Eaxl even removed the twigs. The seax needs sharpening again, _Father_. I'll get to that tomorrow."
+Ingvarr smiled at his father, and laid _Barrow's Edge_ on the table. "The weeds have been cut down. The wood's been stacked, and Eaxl even removed the twigs. The broadseax needs sharpening again, _Father_. I'll get to that tomorrow."
 
 Ealhild stepped in behind Ingvarr and gave the boy a hug from behind, and a kiss on the back of his head. "Isn't he the sweetest boy? The fyrd will be proud of him one day. Now, go help Mathild. The fish need scaling, and you're best with the knife."
 

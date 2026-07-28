@@ -38,20 +38,20 @@ Monanleoht: "What if prowess in battle cost you your sanity, and using it meant 
 
 Barrow's Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a broken farmer, also in the middle of a Brothers Grimm-styled folk horror story, going into battle.
 
-As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Woden and Freyr. Woden has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
+As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Odin and Freyr. Odin has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
 
-Looking at the crossroads of the Danelaw at the time, I envisioned Woden having an existential crisis. He is losing followers. Both families of Scandinavian gods are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Woden to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all. At some point, Woden would want answers. How do you test fate? How do you test how humans perceive fate? Ultimately, with Freyr's help, what we find is that Woden isn't testing mortals as much as he's testing himself.
+Looking at the crossroads of the Danelaw at the time, I envisioned Odin having an existential crisis. He is losing followers. Both families of Scandinavian gods are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Odin to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all. At some point, Odin would want answers. How do you test fate? How do you test how humans perceive fate? Ultimately, with Freyr's help, what we find is that Odin isn't testing mortals as much as he's testing himself.
 
 This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 unholy vortex-summoner of doom called _Wodbora_. Everything else followed from that.
 
 ---
 ### Who Are The Cynn, Really?
 
-These are the forge elves who carry on the tradition of magical blade-making. They're not literally descendants of Weyland, Völundr, Vulcan, or any other divine smith. In reality, of course, they are just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun, usually while giggling like children when things actually work out okay. Huginn makes up stories about the things we make and dream up, then tells them to imaginary children.
+These are the forge elves who carry on the tradition of magical making. They're not literally descendants of Weyland, Völundr, Vulcan, or any other divine smith. In reality, of course, they are just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun, usually while giggling like children when things actually work out okay. Huginn makes up stories about the things we make and dream up, then tells them to imaginary children.
 
-The Cynn, at their heart, belong to maker culture. They respect the craftsmanship of a thing: the steel, the welds, the carving, the polish, the hours of handwork. But where maker culture often ends with the finished object, the Cynn keep asking questions. What stories grow around it? What consequences follow from it? What does the thing ask of the person who carries it?
+The Cynn, at their heart, belong to maker culture. They respect the craftsmanship of a thing: the steel, the welds, the carving, the leather, the polish, the hours of handwork. But where maker culture often ends with the finished object, the Cynn keep asking questions. What stories grow around it? What consequences follow from it? What does the thing ask of the person who carries it?
 
-That is what the Cynn really are: craft joined to mythmaking, and having fun doing it.
+That is what the Cynn really are: craft joined to merry mythmaking.
 
 ---
 
@@ -113,106 +113,40 @@ Elswyth represents a different form of life between worlds. She grows up close e
 The purpose of this story is not to suggest that paganism and Christianity were secretly identical, nor that historical people casually mixed beliefs without conflict. Tensions existed, and they could be profound. Yet the Danelaw was a place where old and new ideas overlapped, competed, influenced one another, and sometimes produced forms neither tradition would have fully recognized. Osric and Ealhild reveal this process at the level of field and hearth. Elswyth reveals it at the level of culture and memory. Cynewulf reveals it at the level of doctrine and conscience. Together they illustrate a world that was neither wholly pagan nor wholly Christian, but something more complicated: a society learning to live between worlds.
 
 ---
-#### Who Is Woden?
-
-(And then I'll do you one better: "WHY IS WODEN?!?!")
-
-Readers familiar with Norse mythology may wonder why this novel consistently uses the name _Woden_ rather than the more familiar _Odin_. The simplest answer is historical. The split between Woden and Odin is not a mythic schism, but a linguistic one. They are two branches of the same Proto-Germanic root, **_Wōdanaz_**. The Norse _Óðinn_ evolved in the North, shaped by the Viking Age’s obsession with the warrior-cult and the gallows-god. The English _Wōden_ was frozen in time, carried across the sea by the Anglo-Saxon migrations and preserved as an ancestral figurehead for royal lineages. Woden's worship was still entwined with wolves, ravens, and all the trappings of Odin, but it felt a bit more distant to the everyday Saxon.
-
-When I use the name _Woden_, I am not choosing a different god; I am choosing the version of the god that walked the English hedgerows, the one who was a king of ancestors rather than a king of the slain. The language, place names, royal genealogies, and surviving literature of the period all point toward that form. Yet historical accuracy alone does not fully explain the choice. The deeper reason is that Woden's story mirrors the one of the central concerns of this novel.
-
-Modern audiences are remarkably familiar with Odin. He appears in films, television, novels, games, heavy metal albums, and modern religious movements. Even people with little knowledge of Norse mythology often recognize the one-eyed wanderer, accompanied by ravens and wolves. Odin survived the modern age. He remains a living cultural figure. Woden, by contrast, occupies a more uncertain position. He survives in fragments. Wednesday still bears his name. Ancient genealogies still remember him. Folklore echoes still linger. Odin feels present. Woden feels recovered.
-
-This distinction fascinated me because _The Cynn_ is partially a story about what survives when a world changes. The novel takes place during a period when England was neither wholly pagan nor wholly Christian. Older traditions persisted alongside newer ones. Customs overlapped. Stories were reinterpreted. Gods were not always forgotten outright. More often, they were transformed. Woden occupies a particularly interesting place within that transformation because he was both diminished and preserved at the same time.
-
-One of the most striking examples comes from the royal genealogies of Anglo-Saxon England. Several royal houses traced their ancestry to Woden, including the line that eventually produced King Alfred the Great. Alfred was one of the most influential Christian rulers in English history, yet the genealogies preserved by Christian scribes still connected him to the old god. This apparent contradiction reveals something important about the period. Woden's religious authority may have been fading, but his cultural authority remained useful. He ceased to function primarily as a god of worship and increasingly became an ancestor, a source of legitimacy, a figure woven into the story of England itself. In a sense, Woden survived by changing jobs.
-
-At the same time, later folklore increasingly assigned Woden another role: leader of spectral riders, wandering dead, and supernatural processions that would eventually contribute to traditions associated with the Wild Hunt. Whether viewed as folklore, theology, or cultural adaptation, the pattern is striking. The god who once occupied the center of a religious system gradually became associated with the margins. He survived, but in a narrower and more uncertain capacity. For the purposes of this novel, that uncertainty was far more interesting than divine certainty. Woden became a figure already negotiating the terms of his own survival.
-
-This process of transformation mirrors the broader themes explored throughout the story. Osric, Ealhild, Elswyth, and Cynewulf all inhabit worlds shaped by overlapping identities. None of them can simply remain what they once were. Each must decide what to preserve and what to relinquish. The same question confronts Woden himself. If the old world is ending, what should survive? If traditions change, what remains worth carrying forward? 
-
-However, what makes Woden truly fascinating in this timeframe is that he is at an existential crossroads, more-so than his Scandinavian identity Odin. That is another reason for choosing him as a character. He no longer trusts wyrd. That would be terrifying, to a god that spent his entire existence trying to earn every scrap of knowledge he could to fight at Ragnarök. He cut out his eye, hung himself on a tree, built a dining hall at the end of existence, and spent eons building a stable of heroes for a final battle, only to realize that Ragnarök may never actually happen in the first place—was it all a waste? By humanizing Woden, these cease to be merely theological questions. They become the same questions any human would ask when they look back at a life of harsh sacrifice and wonder if it mattered.
-
-By contrast, Odin often arrives in modern culture already reconstructed. He has been rediscovered, reimagined, and reintroduced to contemporary audiences. Woden interested me because he stands closer to the moment of transformation itself. He is not a forgotten god, nor a fully remembered one. He exists at the boundary between the two. That boundary is where _The Cynn_ spends most of its time.
-
-In the Epilogue, Woden offers a simple lesson: do not throw things away; reforge them into something new. By that point, however, the lesson belongs as much to Freyr as it does to Woden. Freyr understands from the beginning that survival often requires transformation. Seeds become crops. Crops become seed. Growth itself depends upon change. Woden begins the story more concerned with memory, continuity, and the preservation of what might otherwise be lost. Yet over the course of the debate, he comes to recognize that preservation and transformation are not opposites. In many cases, they are the same act viewed from different directions.
-
-This novel is not an attempt to preserve Woden unchanged, like an artifact sealed behind museum glass. Modern audiences already possess a remarkably complete image of Odin, shaped by centuries of retellings, scholarship, fiction, and popular culture. Woden, by contrast, survives in fragments, echoes, and possibilities. That makes him available for interpretation. It creates space to ask how such a figure might respond to the world changing around him. In this story, I chose to imagine a Woden who eventually comes to agree with Freyr on one important point: things do not survive because they remain unchanged. They survive because each generation discovers what remains valuable within them and carries it forward in a new form. This novel is simply one small attempt to participate in that process.
-
----
 
 #### Wyrd (And Why It's So Weird)
 
 Modern readers often encounter _wyrd_ translated simply as **fate**. While convenient, that translation is misleading. Fate usually suggests a future that has already been written, where every event is predetermined and every choice merely creates the illusion of freedom. That is not how I came to understand _wyrd_ while researching this novel.
 
-Instead, I found it more helpful to think of _wyrd_ as **the tendency of the world to unfold in certain ways**. Every choice matters. Every promise, betrayal, friendship, and sacrifice sends ripples through the lives of others. Those ripples interact until they eventually produce moments where many lives naturally converge. _Wyrd_ is less a script than a pattern of consequences stretching through time.
-
-The image that finally made _wyrd_ click for me was not a river, but **gravity**.
+Instead, I found it more helpful to think of _wyrd_ as **the tendency of the world to unfold in certain ways**. The image that finally made _wyrd_ click for me was to think of it like **gravity**.
 
 Imagine two people whose lives are destined to intersect. They are free to make countless decisions along the way. They may travel different roads, marry different people, or spend decades apart. Their choices remain real. Yet if their meeting truly belongs to _wyrd_, the world seems to possess a subtle tendency to draw their paths together. They might miss one another today, only to meet years later under entirely different circumstances. The convergence remains; the path toward it is flexible.
 
-This is how I imagine _wyrd_ operating in _The Cynn_. It does not remove free will. Instead, it gently constrains the range of possible futures. Early in life, those possibilities are almost limitless. As time passes and choices accumulate, the number of remaining paths naturally narrows. By the end of life, only a handful of futures remain possible. Whether this truly preserves free will or merely creates its appearance is exactly the sort of question that fascinated medieval thinkers—and one that the novel intentionally leaves unresolved.
+This is how I imagine _wyrd_ operating in _The Cynn_. It does not remove free will. Instead, it gently constrains the range of possible futures. Early in life, those possibilities are almost limitless. As time passes and choices accumulate, the number of remaining paths naturally narrows. By the end of life, only a handful of futures remain possible. Whether this truly preserves free will or merely creates its appearance is exactly the sort of question that fascinated medieval thinkers. This novel intentionally leaves that unresolved.
 
 This distinction becomes even more interesting when viewed from the perspective of the gods.
 
-Mortals possess a finite horizon. Their lives are measured in decades. If _wyrd_ is drawing them toward a future convergence, the pull gradually becomes stronger as the end of life approaches. They feel urgency because time is short.
+Mortals possess a finite time horizon. Their lives are measured in decades. If _wyrd_ is drawing them toward a future convergence, the pull gradually becomes stronger as the end of life approaches. They feel urgency because time is short.
 
-The gods, however, experience time differently. In the mythology of _The Cynn_, they do not die of old age. Their horizon is measured not by death, but by Ragnarök itself. If that final convergence lies thousands—or even millions—of years away, the pull of _wyrd_ becomes almost imperceptible. A god possesses nearly limitless freedom in the short term, yet knows that every choice may still contribute to an inevitable end.
+The gods, however, experience time differently. In the mythology of _The Cynn_, they do not die of old age. Their horizon is measured not by death, but by Ragnarök itself, an event whose conditions are known but its time in the future is not. All Odin can ever say is that Ragnarök hasn't happened yet.
 
-This is Woden's curse.
+This is Odin's curse.
 
-He has spent ages trying to map these convergences. He cannot control them, but he believes he can see many of them. He prepares for them. Plans around them. Worries over them. Ragnarök is not merely a prophecy to him. It is the ultimate convergence toward which history appears to be moving. If he truly understands _wyrd_, then preparing for Ragnarök is not simply wise—it is his responsibility as the All-Father.
+He has spent ages trying to map these convergences. He cannot control them, but he believes he can see many of them. He prepares for them. Plans around them. Worries over them. Ragnarök is not merely a prophecy to him. It is the ultimate convergence toward which history appears to be moving. If he truly understands _wyrd_, then preparing for Ragnarök is not simply wise... it is his responsibility as the All-Father.
 
 Then something impossible happens.
 
 The convergences begin to disappear.
 
-Not from the world itself, but from Woden's sight.
+Not from the world itself necessarily, but from Odin's sight.
 
 Suddenly, the one certainty upon which he built his understanding of reality no longer seems reliable. He no longer knows whether he is reading the pattern correctly, whether the pattern itself has changed, or whether someone greater than himself is now weaving it.
 
-That uncertainty is what drives the events of _The Cynn_. The three blades are Woden's attempt to determine whether his understanding of the world still corresponds to reality.
+The idea of fate behaving more like gravity within a given time horizon (mortality for mortals, infinity for gods) is what makes _wyrd_ so wonderfully weird to me. I cannot say that _wyrd_ is part of my personal philosophy, but it is an interesting concept to explore, especially in the context of a magic system.
 
-Freyr ultimately teaches him a different lesson.
-
-Woden believes the great question is whether _wyrd_ still governs the world. Freyr asks a far simpler one: **How have mortals managed to live without certainty all along?**
-
-Farmers plant crops without knowing whether winter will be kind. Parents raise children without knowing what sort of world they will inherit. Friends make promises without knowing whether they will live to keep them. Mortals have always acted without seeing the whole pattern.
-
-In the end, that becomes Woden's greatest discovery. The true strength of humanity was never the ability to understand _wyrd_. It was the courage to continue making good choices without ever fully understanding it.
-
-The idea of fate behaving more like gravity within a given time horizon—mortality for mortals, infinity for gods—is what makes _wyrd_ so wonderfully weird to me. I cannot say that _wyrd_ is part of my personal philosophy, but it is an interesting concept to explore, especially in the context of a magic system.
 
 ---
-#### Inside the Debate
 
-Throughout the novel, wisdom is not portrayed as passive contemplation, but as disciplined observation. Woden does not guess. He constructs tests. The three blades are not gifts. They are instruments of experimentation.
-
-The first question Woden asks through all three blades is whether a convergence of _wyrd_ compels, or merely calls. If a magical blade feels like the inevitable destination of its bearer, what allows a person to accept, refuse, or transform that calling? If mortals who worship Christ can answer the gravity of _wyrd_ with faithful choice, then perhaps Woden can learn to answer the gravity of Ragnarök the same way.
-
-Each of the three blades asks other questions as well.
-
-Osric's blade asks whether the old covenants between the living and the dead still endure. If a Christian may still die, walk the hedge between Midgard and Alfheimr, and return by Freyr's hand, then perhaps Christ has not displaced the older order, but permits it to endure according to purposes Woden does not yet understand.
-
-Elswyth's blade asks whether Christian virtue possesses a strength the old ways never did. By forcing her to choose repeatedly between power and conscience, Woden hopes to discover whether faith truly anchors the soul against corruption or whether every moral system ultimately bends beneath enough temptation.
-
-Cynewulf's blade asks the question that troubles Woden most deeply. The Wodbora cannot be wielded until its bearer first confronts the truth of himself. Woden understands sacrifice. He understands penance. He does not understand grace. If confession grants strength rather than merely demanding payment, then Christ's redemption operates according to principles Woden has never known.
-
-Taken together, the blades form a multi-layered experiment. Woden hopes to determine whether the old world and the new are compatible, whether _wyrd_ still governs human lives, and whether the gods themselves continue to understand the reality they inhabit. Like any careful investigator, he begins with hypotheses and expects the experiment to confirm, overturn, or at least provide information to pose a better hypothesis.
-
-Freyr, however, has another lesson in mind.
-
-Throughout their debate, Woden studies the blades. Freyr studies the people who carry them. He watches three ordinary mortals endure grief, fear, guilt, madness, uncertainty, and loss. They possess no certainty about tomorrow. They never did. Yet each of them simply makes the next choice before them, much as they might choose which field to sow in spring.
-
-Woden's goal is always more certainty. Freyr's goal is to make the wisest choices possible in the absence of certainty. As the god of harvests and seasons, Freyr has always understood that wisdom comes from recognizing patterns rather than seeking certainty. The harvest teaches probabilities, never guarantees.
-
-Woden's experiment is then easy for Freyr to co-opt. He can show that despite Woden putting each of the three through some of the worst experiences imaginable, they still make choices and move on without certainty. Even when they encounter experiences unlike anything they have ever known.
-
-Mortals have lived without certainty for as long as they have existed. They have always buried their dead without knowing whether they would meet them again. They have always planted crops without knowing whether winter would spare them. They have always chosen hope without possessing proof that hope would be rewarded.
-
-By the end of the story, Woden just begins to see Freyr's point. He may not agree with it, but he is now deprived of the certainty that he _thought_ he possessed and must learn to do what mortals have always done: choose without certainty. For a god who has spent an eternity searching for certainty, nothing could be more unnatural.
-
----
 #### Agency of Magical Artifacts
 
 Several historical runic inscriptions blur the distinction between object and speaker. Rather than presenting a spell as something spoken by the owner, the inscription may be framed as the voice of the object itself. To a modern reader this can seem poetic, but to an early medieval audience the distinction carried real significance. The Old English word _hǣlu_ is often translated as "health" or "wholeness," but in this context it refers to something broader: the integrity by which a thing possesses identity, purpose, destiny, and participation in the world. A thing with sufficient _hǣlu_ is not merely acted upon by wyrd; it participates in wyrd.
@@ -229,9 +163,9 @@ In practical terms, the distinction functions as a metaphysical safeguard. The w
 
 The Wild Hunt is one of the most widespread and adaptable supernatural traditions in northern Europe. Across centuries and regions, the details change dramatically. The leader may be a god, a king, a saint, a devil, or a ghost. The riders may be warriors, hunters, spirits, the restless dead, or condemned souls. Yet certain themes persist. A spectral procession crosses the night sky. The living are warned not to interfere. The boundary between the world of the living and the world of the dead briefly becomes permeable.
 
-The version presented in _The Cynn_ draws inspiration from several historical layers of this tradition. During the early medieval period, stories associated with Woden appear to have been linked to ideas of death, wandering spirits, battle fury, and the movement of souls. Later Christian writers inherited many of these traditions but interpreted them through a different theological lens. Rather than disappearing, older stories were often reinterpreted. Familiar figures acquired new meanings, new names, and new roles within an increasingly Christian worldview.
+The version presented in _The Cynn_ draws inspiration from several historical layers of this tradition. During the early medieval period, stories associated with Odin appear to have been linked to ideas of death, wandering spirits, battle fury, and the movement of souls. Later Christian writers inherited many of these traditions but interpreted them through a different theological lens. Rather than disappearing, older stories were often reinterpreted. Familiar figures acquired new meanings, new names, and new roles within an increasingly Christian worldview.
 
-This process of reinterpretation is visible throughout medieval folklore. Traditions associated with older gods could become associated with legendary kings, local spirits, demons, saints, or cautionary tales. The question was rarely whether a phenomenon existed. The question was how it should be understood. A frightening procession in the night sky might remain frightening regardless of whether its leader was called Woden, Herla, or Hellequin. The story survived because it continued to serve a cultural purpose.
+This process of reinterpretation is visible throughout medieval folklore. Traditions associated with older gods could become associated with legendary kings, local spirits, demons, saints, or cautionary tales. The question was rarely whether a phenomenon existed. The question was how it should be understood. A frightening procession in the night sky might remain frightening regardless of whether its leader was called Odin, Herla, or Hellequin. The story survived because it continued to serve a cultural purpose.
 
 The novel imagines the _Wodhere_ during one of these transitional periods. Christianity has become dominant, yet older explanations have not entirely vanished. As a result, different characters understand the Hunt in different ways. Some view it as a remnant of pagan belief. Others interpret it through Christian theology. Still others accept elements of both explanations simultaneously. This ambiguity is intentional. It reflects the reality that religious transitions often produce overlapping interpretations rather than immediate replacements.
 
@@ -245,6 +179,7 @@ For modern readers, the Wild Hunt is often encountered as a piece of folklore de
 
 
 ---
+
 ## Swords and Scabbards: What Are These Blades?
 
 I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its _hǣlu_. I just like it because it focuses my storytelling a bit better, and it seems cool. :)
@@ -271,7 +206,7 @@ The second is a maker's mark. Closer than shown, but basically it should be a si
 
 #### Description
 
-Wodbora is a gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the blade is drawn and the ward is spoken, Woden's ravens appear and start an inquisition (the witan-sleep).
+Wodbora is a gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the blade is drawn and the ward is spoken, Odin's ravens appear and start an inquisition (the witan-sleep).
 
 Time stops temporarily as they question you, looking for a new confession. They know your soul and your history, and act as a safety valve for the chaos. They know that to survive, you *must* admit to a sin that carries the same weight as what you're about to unleash. They can't tell you what to say, so they speak cryptically. You must arrive at your specific confession independently and propose a penance for it.
 
@@ -291,7 +226,7 @@ The scabbard should be lambskin-lined tough leather as was common for langseaxes
 
 ##### Scabbard Obverse (Outer) Side: The Inquisitors
 
-This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade on the first line, and the ward of the blade on the second line. Two ravens, one on each side of the inscription, should be facing inward, so as to witness the ward. The ward is there not just for the public, but for the wielder too... for they must suffer the inquisition. The ravens should be in the jelling style, with scrollwork containing and framing the name/title and prayer. Since Woden is not invoked directly, the prayer is also to God, on off-chance that Woden isn't listening to the ravens.
+This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade on the first line, and the ward of the blade on the second line. Two ravens, one on each side of the inscription, should be facing inward, so as to witness the ward. The ward is there not just for the public, but for the wielder too... for they must suffer the inquisition. The ravens should be in the jelling style, with scrollwork containing and framing the name/title and prayer. Since Odin is not invoked directly, the prayer is also to God, on off-chance that Odin isn't listening to the ravens.
 
 ##### Scabbard Reverse (Inner) Side: The Invocation
 

@@ -176,4 +176,3 @@ The syrup bottle opened normally, as the goblin-air had been spent by Osric a sh
 She woke each of the children, and Osric. And they all ate the medicine in the glow of the kitchen that night.
 
 The sickness hit the moment they each went to bed. The poison stole the air from their lungs, making them like fish trying to draw breath on dry land. The goblins overpowered their blood in the pitched battle. It's best not to speak of what happened next. What is best to say is that Ealhild and the children did not survive the night.
-

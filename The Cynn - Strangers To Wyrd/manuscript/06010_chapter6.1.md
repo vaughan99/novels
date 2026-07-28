@@ -1,4 +1,4 @@
-## Chapter Four: The Tale of the Bell's Deacon
+## Chapter Six: The Tale of the Bell's Deacon
 
 ### Part One: The Liturgy of the Bell
 
@@ -138,13 +138,23 @@ Cynewulf remembered the warning.
 
 He did not yet understand it.
 
-Finally, a few weeks before Shrove Tuesday arrived that year, he took his vows and was ordained a priest. When the bells rang out once more for the Shrove Tuesday confessions, Cynewulf found himself come full circle. He sat in the very seat where he had once confessed his own "ember-hate" as a boy, ready now to hear the confessions of his own flock. He kept the small, dark sins of his own heart tucked away in the back of his mind, convincing himself that he was the perfect guide—a man who knew the weight of sin, and therefore, a man who knew exactly how to help others find their absolution.
+Finally, a few weeks before Shrove Tuesday arrived that year, he took his vows and was ordained a priest.
 
-The village folk gave their confessions, one by one. It was a process that took several hours, but there lingered a silent tall presence in the back that drew nearer towards the end. He was the final penitent, and it was his turn to kneel. He was elderly, a man in a simple grey robe with a walking staff and a slow steady gait. His staff-echo was heard by the stone angels on the wall, but most of the villagers had left. He came to stand before Cynewulf, gazing down at the priest for a moment to gather his measure. He then slowly knelt on the soft pillow of the confessional floor.
+When the bells rang out once more for the Shrove Tuesday confessions, Cynewulf found himself come full circle. There were older and more senior priests available to hear the penitents, but the time had come for him to assume his share of that mantle.
+
+He sat in the same seat from which a priest had once heard him confess his own “ember-hate” as a boy. Now he was prepared to hear the confessions of the parishioners who came before him. He kept the small, dark sins of his own heart tucked away in the back of his mind, convincing himself that he was the perfect guide. He was a man who knew the weight of sin and therefore knew exactly how to help others find absolution.
+
+The village folk gave their confessions, one by one. It was a process that took several hours.
+
+There lingered a silent tall presence in the back that drew nearer towards the end. He was the final penitent, and it was his turn to kneel. He was elderly, a man in a simple grey robe with a walking staff and a slow steady gait. His staff-echo was heard by the stone angels on the wall, but most of the villagers had left.
+
+He came to stand before Cynewulf, gazing down at the priest for a moment as though taking his measure. The old man drew his cowl back to his shoulders and lowered himself onto the cushion. Long grey hair fell across one side of his weathered face.
 
 Cynewulf's eyes were drawn to the loop of ash wood branches on his chest. The man had made his own cross with gnarled branches, perhaps from the same gnarled tree that was the provenance of his staff. The branches were tied with a fresh string made of undyed wool-yarn. The man smelled of sheep's lanolin and the fresh night air.
 
-Cynewulf laid his hand on the man's shoulder. "Let us begin. Tell me your name." The old man replied in a thick Dane accent.
+Cynewulf laid his hand on the man's shoulder. "Let us begin. Tell me your name." 
+
+The old man replied in a thick Dane accent.
 
 "I... have no name of remembrance. My name died with my old life," the shepherd whispered.
 
@@ -154,15 +164,17 @@ The shepherd leaned back slightly, and touched up his volume, to be better heard
 
 "I've been a shepherd all my life. I have seen the grass grow green and go to stubble more times than stars in the sky. In the past, I knew my flock. I knew when the ewe would have twins. I knew when the ram would break the gate. 
 
-"I trained wolves to protect my sheep. I set the wolves unto the other fields to claim for all my flock. For a time, the wolves did well, and my sheep prospered.
+"I trained dogs to protect my sheep. I sent the dogs into new pastures to claim them for my flock. For a time, the dogs did well, and my sheep prospered.
 
-"Down in the valley, there is a new Master. He has built stone walls to keep his sheep in. He has trained his sheep to fight the wolf. He does not need to train wolves to keep them safe. My sheep see my neighbor's walls, and they are high. They leave to seek comfort inside them.
+"Down in the valley, there is a new Master. He has built stone walls to keep his sheep in. He has trained his sheep to protect themselves. My sheep see my neighbor's walls, and they are high. They leave to seek comfort inside them.
 
-"Now the wolves have forgotten the field they are in, and hunt all the sheep.
+"Now the dogs have forgotten the field they are in. They prey on all the sheep."
 
-"My sin is not the spilt blood of sheep. My sin is that I'm abandoning the wolves, *Father*. My sheep I give to the farmer-in-the-meadow. May *God* have pity on my soul."
+The old shepherd leaned his forehead into his staff.
 
-The heavy, weeping weight of the shepherd's confession vanished in a heartbeat, replaced by a glint in the old man's weathered eyes. The shepherd continued, his voice steadying as if telling an ancient tale.
+"My sin is not the spilt blood of sheep. My sin is that I'm abandoning my dogs, *Father*. My sheep I am leaving to the farmer-in-the-meadow, should he want them. May *God* have pity on my soul."
+
+The heavy, weeping weight of the shepherd's confession vanished in a heartbeat. His head drew back from leaning on his staff. The shepherd continued, his voice steadying as if telling an ancient tale.
 
 "There is a final curse I must mention. I saw it in the night. It was a flight of both light and dark in the sky, of black wings and spectral clouds. It sounded as a wolf howl and a rattle of bones. It was a _Hate_... a _Wodhere_... from the Old Times."
 
@@ -174,7 +186,7 @@ Cynewulf thought hard. What could he possibly do for this man? In the moment of 
 
 Cynewulf was still fumbling for his penitential, trying to look up something — anything — that could give him guidance when the phrase hit like a fresh-struck bell. _Remember me well?_ Cynewulf thought. He snapped his eyes back up, but the grey shepherd had not only gotten up; he was halfway out the door already with his staff. Cynewulf couldn't remember hearing the wood-clack or the shuffle of the shepherd's retreat.
 
-That last confession struck him as odd. Trained wolves? Who was this shepherd? How is it he came to know Latin, when he could barely speak English? "He probably overheard one of the priests speaking in Latin," he thought, easing his mind. "The old man was probably obsessing over this bit of Latin as he tended his flock. That's how he perfected the pronunciation. It's nothing." Cynewulf had tried to put the confession out of mind, but it stayed with him the rest of his days.
+That last confession struck him as odd. Trained dogs? Who was this shepherd? How is it he came to know Latin, when he could barely speak English? "He probably overheard one of the priests speaking in Latin," he thought, easing his mind. "The old man was probably obsessing over this bit of Latin as he tended his flock. That's how he perfected the pronunciation. It's nothing." Cynewulf had tried to put the confession out of mind, but it stayed with him the rest of his days.
 
 _Bells may ring. Whether you hear them depends on where you stand, and whether you choose to listen. A bell may toll directly before you, loud enough to shatter the air, but if you decide not to hear? You might as well be deaf._
 

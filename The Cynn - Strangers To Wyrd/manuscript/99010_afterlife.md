@@ -418,7 +418,7 @@ Huginn smiled.
 
 "Nothing important."
 
-The trio made their way through the crowd followed by the robot. They passed another familiar road to Valhalla. Woden stopped to look at the sign, and tilted it back to being perfectly square.
+The trio made their way through the crowd followed by the robot. They passed another familiar road to Valhalla. Odin stopped to look at the sign, and tilted it back to being perfectly square.
 
 ---
 
@@ -461,11 +461,11 @@ DO NOT ATTEMPT TO RESTART FATE YOURSELF, UNLESS YOU WERE FATED TO DO SO.
 ```
 ---
 
-Woden noticed a party arriving from the Norse road and quickly covered his face, turning away. He motioned for the ravens to pick up the pace.
+Odin noticed a party arriving from the Norse road and quickly covered his face, turning away. He motioned for the ravens to pick up the pace.
 
 **"ALLFATHER!"**
 
-"...Ugh," Woden sighed.
+"...Ugh," Odin sighed.
 
 The arriving party had recognized him. It was one hundred Vikings. Their first excursion beyond Valhalla.
 
@@ -485,21 +485,21 @@ The arriving party had recognized him. It was one hundred Vikings. Their first e
 
 The crowd surged toward him in joyous disorder.
 
-Woden raised a hand.
+Odin raised a hand.
 
 **"SILENCE, FOOLS!"**
 
 The crowd froze.
 
-Woden jabbed a finger toward the notice board, lingering especially on the section concerning the chronic wyrd shortage.
+Odin jabbed a finger toward the notice board, lingering especially on the section concerning the chronic wyrd shortage.
 
-Woden's voice boomed, amplified by the power of ancient awesomeness.
+Odin's voice boomed, amplified by the power of ancient awesomeness.
 
 **"PROPHECIES ARE CURRENTLY UNAVAILABLE! AND I WILL NOT SIGN ANYTHING. I AM RETIRED.  GO BACK TO FEASTING FOR ETERNITY. I HAVE NOTHING MORE TO SAY."**
 
 One of the Vikings raised a hand. "...But won't you at least sign the sign?"
 
-Woden closed his eye.
+Odin closed his eye.
 
 "...No."
 
@@ -521,7 +521,7 @@ Instantly, one hundred Vikings exploded into a full sprint.
 
 "HE'S GOT A HEAD START!"
 
-Woden turned and continued back to the main stage, muttering under his breath. "Children. Oat-brained children. What possessed me to make a horde of them our last hope at the end of days? I must have been insane."
+Odin turned and continued back to the main stage, muttering under his breath. "Children. Oat-brained children. What possessed me to make a horde of them our last hope at the end of days? I must have been insane."
 
 Muninn noticed the robot following them.
 
@@ -547,7 +547,7 @@ Huginn smiled.
 
 "It'll arrive when it's needed."
 
-Woden led the group to the back stage entry, and flashed a badge that let them all in.
+Odin led the group to the back stage entry, and flashed a badge that let them all in.
 
 Meanwhile, the on-stage barker was whipping the crowd into a frenzy. Souls from every road into the Commons had gathered, many leaving their own eternities for perhaps the first time in centuries. Rumor had spread that someone had reinvented the wheel.
 
@@ -801,9 +801,9 @@ Nugh: "Human family become mastodon family."
 
 Barker: “Well!... there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that becomes a rabbit in the spirit world and returns you _horn-free_ to your destination. All while telling the most over-the-top stories to your children to maximize safety. Your insurance company will _LOVE_ these features!”
 
-The roar of the crowd faded as Woden, the ravens, and the robot following several paces behind filed into the backstage entrance.
+The roar of the crowd faded as Odin, the ravens, and the robot following several paces behind filed into the backstage entrance.
 
-Backstage Producer: "Okay, I have Woden and the ravens. We're walking back to rehearsal. Get everyone ready for equipment check and walk-through."
+Backstage Producer: "Okay, I have Odin and the ravens. We're walking back to rehearsal. Get everyone ready for equipment check and walk-through."
 
 Backstage Hand One: "Looks like the lawyers are going to have to add another disclaimer."
 
@@ -837,7 +837,7 @@ Huginn fished Steve's Eyeball from under his wing. Steve looked back at Huginn w
 
 Huginn: "Now Steve, this is what you've been training for. I _know_ you can do it. Everybody _knows_ you can do it."
 
-Woden and Muninn sat perfectly still. The Skeleton Crew looked at each other, then at Steve, and nodded their heads. Whether this signified approval or loose vertebrae was impossible to determine.
+Odin and Muninn sat perfectly still. The Skeleton Crew looked at each other, then at Steve, and nodded their heads. Whether this signified approval or loose vertebrae was impossible to determine.
 
 Steve's Eyeball looked at the Crew, then back at Huginn. The trembling stopped. A look of quiet resolve settled over the little eye.
 
@@ -883,13 +883,13 @@ Plan B: "An engineering assumption. My processor is weak. My memory is small. I 
 
 Muninn: "Less susceptible to distraction? Huginn, finally... you can learn a lot from this one!"
 
-Woden had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
+Odin had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
 
 He slipped off his jacket and rolled his sleeves above his elbows. His skin was not nearly as wrinkled as his face. Every rippling inch of muscle was covered in runic tattoos, as sharp and precise as the day they were inked.
 
 He fished a guitar pick from his pocket, carved from the thumb-bone of a nameless king who had been sent to Helheim.
 
-Huginn fished a silver necklace bearing a large **ᚨ** (_Ansuz_) medallion from Woden's guitar case and slipped it over his head. He lowered the microphone stand until the microphone was nearly touching the floor.
+Huginn fished a silver necklace bearing a large **ᚨ** (_Ansuz_) medallion from Odin's guitar case and slipped it over his head. He lowered the microphone stand until the microphone was nearly touching the floor.
 
 He cleared his throat.
 
@@ -905,6 +905,6 @@ He slipped them on.
 
 The Skeleton Crew settled into place. The guitarist and bassist flexed bony fingers over their strings. The keyboardist ran a quick trill from the lowest key to the highest. Plan B lifted Steve over the drum kit, seven drumsticks poised in patient mechanical hands.
 
-Woden struck a chord, heavy and low, that settled somewhere deep in everyone's bones.
+Odin struck a chord, heavy and low, that settled somewhere deep in everyone's bones.
 
 "Let's begin."

@@ -1,6 +1,6 @@
-## Chapter Three: The Tale of the Coal-Wise Apprentice
+## Chapter Four: The Tale of the Coal-Wise Apprentice
 
-### Part One: The Hunters of the Pit
+### Part One: The Cutting of the Wood
 
 In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gently sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester. To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
 

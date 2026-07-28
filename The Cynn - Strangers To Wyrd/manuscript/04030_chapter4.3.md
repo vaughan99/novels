@@ -1,4 +1,4 @@
-### Part Three: The Feast Day
+### Part Three: The Harvest of the Coal
 
 Years passed in _Under-Geat_.
 
@@ -189,7 +189,7 @@ The villagers would watch as this continued. They saw the faces withstand everyt
 
 By February of 943, Olaf's men retreated behind ramparts and walls. The Saxons had returned to dismantle the Olaf's hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
 
-April 23rd, 943 was the night of the last full moon of the gnome's promise. Elswyth was then of twenty winters. 
+March 24rd, 943 was the night of the last full moon of the gnome's promise. It was also a week before Easter. Elswyth was then of twenty winters. 
 
 The gnome did not come that night as she expected. She assumed he forgot. Or maybe the Vikings' and Saxons' noises had scared him away. Or perhaps he had peeked in on her after all, and saw that she was thriving better than he expected. She raked the coals faster with each passing thought.
 

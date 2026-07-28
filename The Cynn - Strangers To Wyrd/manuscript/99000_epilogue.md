@@ -68,11 +68,11 @@ The voice startled the children. It came from an adjacent bench where a very old
 
 "Yeah, I don't think they even like each other," another added.
 
-"I think they were telling a story. Did you stop to listen?" Woden asked.
+"I think they were telling a story. Did you stop to listen?" Odin asked.
 
 "Ha! We can't understand them! It's just noise!" a girl laughed, stepping out of the dirt and brushing off her knees.
 
-"Really? Do you think ravens have nothing to say? Seems to me they had quite a lot to say," Woden replied, his tone calm and unshakeable.
+"Really? Do you think ravens have nothing to say? Seems to me they had quite a lot to say," Odin replied, his tone calm and unshakeable.
 
 A sharp blast from a minivan's horn burst through the air, cutting the conversation in half. "C'mon kids, it's time to go!" a mother yelled from across the lot.
 
@@ -82,11 +82,11 @@ A sharp blast from a minivan's horn burst through the air, cutting the conversat
 
 The children retreated in a scattered pack, save for one. He had claimed a fallen stick from a nearby tree, idly swinging it at the high weeds at the park's edge.
 
-"And you? What did you think?" Woden asked the boy. The boy stepped closer, his voice quiet and intensely serious. "The black birds stopped before the end. They told me about the forge and the fire, but they didn't say what happened after. What happened to the charcoal girl? And the man who was hungry? And the priest who stopped being a priest?"
+"And you? What did you think?" Odin asked the boy. The boy stepped closer, his voice quiet and intensely serious. "The black birds stopped before the end. They told me about the forge and the fire, but they didn't say what happened after. What happened to the charcoal girl? And the man who was hungry? And the priest who stopped being a priest?"
 
-Woden looked at the boy, truly seeing him — a rare spark of the old world surviving in a jacket and sneakers. The ravens had deftly moved to a branch above them. They were silent, and they were yielding the floor.
+Odin looked at the boy, truly seeing him — a rare spark of the old world surviving in a jacket and sneakers. The ravens had deftly moved to a branch above them. They were silent, and they were yielding the floor.
 
-“The birds are gossips, lad. They delight in the noise of the struggle and in the telling of it,” Woden said.
+“The birds are gossips, lad. They delight in the noise of the struggle and in the telling of it,” Odin said.
 
 “But you are right. They stopped not because they had reached the end of the tale, but because they had reached the beginning of the epic. Find the ravens again, and perhaps they will tell you the rest.”
 
@@ -100,7 +100,7 @@ The trio continued down the road. The sun had dipped near the horizon of the mor
 
 "The table of contents said that the AFTERLIFE is this way... past the Afterword," said Huginn, somewhat annoyed. "Oh wow, that looks like a long road. The Author sure didn't skimp on details..."
 
-With a quiet step across the threshold of the margins, Woden and the ravens started their commute to the Afterlife. The final remnants of a conversation trailed through the park as they left.
+With a quiet step across the threshold of the margins, Odin and the ravens started their commute to the Afterlife. The final remnants of a conversation trailed through the park as they left.
 
 Huginn: “Okay, now explain this again. Couldn’t missionaries have used Freyr when talking to the Danes about conversion? Freyr was basically Viking Jesus.”
 
