@@ -38,7 +38,9 @@ Last came the senior priests of Leicester’s two churches, robed for Easter Mas
 
 Before the altar, woven mats of willow reed had been spread over the churned ground. The attendants guided the priests onto them, lowered the gathered cloth, and stepped aside.
 
-Elswyth made her way to the edge of the South Pastures for a better view. There she noticed a broad-shouldered wolf-man approaching the gathering with a giant wolf-man by his side. Other members of his company collected along the fringes, watching the spectacle. One of the wolf-men gave a long howl. Several laughed, and others spat upon the ground. But someone had plainly ordered them not to interfere, and the peace held.
+Elswyth made her way to the edge of the South Pastures for a better view. From the higher ground, she searched the gathering for Long-Mile and Shadow-Wife. They were the only two she cared enough about to embrace before leaving. She could find neither. With so many dead still unburied, she supposed they had more pressing work elsewhere.
+
+Then she noticed a broad-shouldered wolf-man approaching the gathering with a larger man by his side, dressed in the same manner. Other members of their company collected along the fringes, watching the spectacle. One of the wolf-men gave a long howl. Several laughed, and others spat upon the ground. But someone had plainly ordered them not to interfere, and the peace held.
 
 She thought she might recognize this broad-shouldered wolf. Carefully, she crept around the edge of the crowd closer.
 
