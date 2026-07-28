@@ -1,910 +1,663 @@
-## Chapter Eight: Monanleoht, The Battle-Dancer
+## Chapter Eleven: The Blades
 
-Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured that the blade was hers.
+### Part One: The Debate
 
-And yet, she also recognized the handle. The one the _giggling children_ stole. The one from the redcap's blade.
+Odin met Freyr high in the summer air, looking down upon the patchwork fields of the Danelaw. It was a month after Elswyth and her family had moved to Leicester.
 
-She shivered.
+Mortals were going about their daily lives. They could see every detail: the thin blue smoke of charcoal kilns rising from the eaves of Charnwood, the slow crawl of oxen pulling plows through the heavy Midland clay, and the sharp, square towers of stone churches rising where sacred oak groves had once stood.
 
-But she knew...
+Freyr looked every bit the god of harvests and abundance. He had broad, sun-browned shoulders, an ever-present smile, and a tunic woven of gold and silver thread that caught the midday light like ripe wheat. When he spoke, his thick forearms cast wide, sweeping arcs, and his voice was boisterous and resonant, carrying the warmth of a summer afternoon.
 
-_Time was short_.
+Odin was in front of him, wrapped in his dark, wind-torn cloak, his wide-brimmed hat casting a deep shadow over his face. In his hand was his spear, _Gungnir_, gripped tight. He was a cold draft in the middle of August.
 
-She grabbed the hilt of *Monanleoht* and drew.
+Odin began, "I've asked you here for... a favor."
 
-There was a whisper in her ear. It was the soft, familiar voice of Fussleton, _before_ the redcap's insanity took hold.
+"Haha! I knew it wasn't for my joyous demeanor. But you seem unsure."
 
-"Speak the words: ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛚᛖᚩᚦᛖ (_We play in song_)"
+"Don't make this any harder than it is! You know I hate..."
 
-Elswyth resisted. It _must_ be a trick. If she spoke the words and it was a trick, she might die.
+Freyr finished Odin's sentence, "... asking for favors. Yes. But you know, of all of _our_ gods, I'm as approachable as the spring rain."
 
-The first of the wolf-men slid down the chute and landed in the pool. He saw her and immediately called to the others.
+Odin looked to the people below. "I have... a problem. I'm losing sight of the convergences. As you know, there was a time when I could see every convergence in _wyrd_. I could predict which Viking would betray, which mother would have twins, which wolf would find its way home... and which would not. This new shepherd has quite... unsettled me."
 
-_BUT, if she didn't fight the Ulfhednar, she'd die anyway._
+Odin pointed his spear at a farmer. "There, that farmer. I had known of a convergence with him and his lost son that would eventually happen. Three winters ago, the boy wandered south after a raid. I knew the father would not find him then. I knew he would return when the apple trees flowered for the third time. It _did_ happen last spring after three years."
 
-Elswyth closed her eyes.
+Odin closed his eye. "And now? ... Nothing. The boy came back with a cross around his neck."
 
-She whispered them.
+Freyr studied the farmer and his boy. "You think this _Christ_ is the disruption?"
 
-Then came the familiar voice of Fussleton, as clear as day.
+Odin closed his eye. "I cannot know. The Norns' tapestry is going dark, my Vanir brother, and I don't know why. If I have seen convergences in our people, in our history, then why could I not see this _Christ_ coming? Surely he and his followers were fated to meet ours. And yet... nothing."
+
+Freyr looked confused. "So what of the Norns? Have they nothing to say?"
+
+Odin opened his eye. "Everyone thinks I converse with them. Truthfully... I've never actually met them. No one realizes that if I _actually_ had their ear, we wouldn't be facing Ragnarök."
+
+Freyr took a mocking tone. "And what would you have me do? Do as the Æsir do? Challenge _Christ_ to a duel?"
+
+"DO NOT MOCK ME!"
+
+Freyr laughed. "Ah, there's the Odin I know. It's unbecoming to see you... unsettled."
+
+Odin set his one-eyed stare on Freyr. "You think this is my problem alone, don't you? All our gods, the Æsir, the Vanir, the Nine Realms, _everything_ is threatened. And you see fit to make jokes."
+
+Freyr studied the countryside, and the summer sky. "I'm not concerned, actually."
+
+Odin's eye became a piercing star that flashed with scorn. "_NOT CONCERNED??_"
+
+Freyr spread his arms wide motioning to both horizons. "Have you stopped to consider that life travels in seasons, old friend? Why should this be any different? If _wyrd_ is slowing its reveal to you, maybe the season is changing. This _Christ_ may not be a competitor. He may not be _your enemy_. He may be the next season. And we are merely... fall.
+
+"Winter is coming. I always believed you when you said Ragnarök would end _us_, especially if we were unprepared. I took it to be the winter of _our gods_. I took Valhalla, the valkyries, and the training of dead heroes to be your way of storing grain for the winter.
+
+"And now, I'm just as prepared for this possibility as _Ragnarök_. Because perhaps _Christ_ is truly the winter of _our gods_. If the convergences are fading, perhaps the convergence you know as _Ragnarök_ never actually existed as you thought it did.
+
+"The difference now is, should we fight this _Christ_? Does one fight with winter, or prepare for it?"
+
+Odin stared at the moving clouds as if they might give him some wisdom to answer the question.
+
+"How do I even answer that question, if I don't understand what I've lost? Every god relies on me. ME! I AM THE ALL-FATHER! I am _destined_ to be cursed with the knowledge of our doom. I alone carry that burden. And I alone am destined to lead us through the end of days."
+
+Freyr shook his head. "But perhaps that weight has skewed your thinking. If _Ragnarök_ is not truly a convergence, then your burden is to lead us into our next spring. Not one sustained by human worship, but one sustained by existence itself."
+
+Odin put his forehead against his spear. "But the All-Father is..."
+
+"... is what? What we've all assumed it would be? The _law-giver_ of the gods? The leader through the _final battle_? I think you're mourning your lost title as much as your life. And now, I suspect, you might not have to lose either."
+
+Odin shook his weary head, his forehead still pressed to _Gungnir's_ shaft. "This is all easy for you to say. You gave up your sword to marry Gerðr. You embraced your doom, knowing that your choice would make you die in _Ragnarök_. Now, you see hope. Perhaps you're the fool."
+
+Freyr's smile grew larger. "Ha! Yes, I made that choice. The truth is, I'd have made it _every single time_. Our choices are made stronger if they are weighed against certain death. It was always the right choice. And hope vindicated my choice. Does that make me a fool? No, it means that life was more generous than I expected. Either way, I am happy.
+
+"We cannot purchase certainty. Not with an eye, or a noose hung around the Tree of Life, or a planting of seed. We can observe cycles, but that is the most certainty we'll ever know."
+
+Freyr swept his arm to the countryside below.
+
+"Look upon my followers. Of course they pray to me for rain, and bountiful harvests, and all of the things that are out of their control. But they are not idle... They plant a seed because they must be hopeful, yes, but they do not plant it randomly. They choose times. They choose specific places. Why?"
+
+Odin looked down with a keen eye. "Because they plan. Even beavers plan."
+
+Odin hung in the air, his one eye following the farmers below as though he were seeing them for the first time.
+
+"This still does not answer why I have lost my sight. So, whether I accept your conclusion still depends on understanding _that_ loss. I do yet see some convergences, and that is why I'm here."
+
+Odin's eye settled on individuals.
+
+"I see an opportunity. I see three people."
+
+Freyr joined Odin by his side, eager to see what Odin does.
+
+Odin: "I have seen a convergence. Three strangers. I see a farmer, Osric, he prays to the _Christ_ as well as occasionally to you."
+
+Freyr: "Yes, wife is Ealhild. She is one of my most devout."
+
+Odin: "And there, I see a charcoal girl, Elswyth, with her family. They pray to the _Christ_ and their _saint_, yet they save coal for your forge-elves."
+
+Freyr: "Yes, they do enjoy the gift."
+
+Odin: "And there, making his bells. I see Cynewulf. He is studying to be a priest of the _Christ_, but I can still see _wyrd_ in him, for now. The convergence suggests he has a fall. He will not be a priest for long."
+
+Freyr: "Yes, I do not know this one. But I see his craft. His father, from the look of it, has craft as well. Cynewulf's craft will see them through his hardship, I suspect."
+
+Odin: "Why do you say that?"
+
+Freyr: "You look for certainty, I look for patterns. Cynewulf works hard at his bell-forge. He seems smart and able. He lacks temperament and experience. Men like him usually discover what they must to survive."
+
+Odin: "There is a fourth, whose convergences I have seen from the day of his birth. And this is where the opportunity lies. His name is Wulfhere. He is a strong believer in my cult. By the time the convergence comes, he will be a leader of my wolves."
+
+Freyr's eyes widened a bit.
+
+Freyr: "So these three will meet a band of your warriors. And you're expecting slaughter."
+
+Odin: "There _will_ be slaughter."
+
+Freyr: "That is a cycle of life. The wolves cull the weak and unprepared. The survivors must learn what they can to prevent it from occurring again. I do not wish it for any mortal, but it is a burden they must carry."
+
+Odin: "You misunderstand. I have an opportunity. To intervene. To prepare them. To even the odds."
+
+Freyr: "What exactly are you suggesting?"
+
+Odin: "_Wyrd_ is losing its hold, and yet I cannot see how these mortals perceive that loss. And knowing how mortals perceive _wyrd_ now may yet be... informative.
+
+"These three have different relationships to the _Christ_. Osric's faith is occasional and transactional. It is born out of necessity more than true devotion. He would just as quickly abandon it to worship you if he thought that meant more rain. Elswyth's family's faith is driven more by intent, but they still hold to pagan beliefs... your forge-elves to be precise. They would not dare mention it, but I see an obsession there. And Cynewulf, he was born into his faith and lives it... for now.
+
+"Each one of them, if they were to meet my wolves in battle, would almost certainly die."
+
+Odin studied the camps of his cults, looking at each wolf individually.
+
+Odin: "What I'm about to suggest pains me more than you can ever imagine."
+
+Freyr: "By helping these three mortals, you act against your family."
+
+The words hung in the air, defying gravity.
+
+Odin: "But I must learn all that I can. What I need is a test. Your forge-elves can make three blades, one for each of these mortals. The blades can be crafted to their specific situations. _This is key_. The blades must seem as though destiny itself provided them. They must be delivered in their moment of greatest need."
+
+Freyr: "And then what?"
+
+Odin: "How does one react to a gift from destiny? They will use their gift to save their lives, but that is not the test. The question is: do they embrace that destiny from that point on, or do they reject it? The gift must come at a cost. A painful cost. Much as your choice did, to throw away your sword and embrace death, for your wife... Let's see, after the battle, if these mortals make a choice worthy of hope.
+
+"The convergence of Osric suggests he will lose everything. His position in the fyrd. His hearth. Even his family. Ealhild and any children they have... will die."
+
+Freyr cast his eyes on Osric and Ealhild, his face becoming as stone. "Unfortunate."
+
+Odin continued, "His gift should seek to replace what he will lose. But the cost should be to abandon hope for a new hearth, a new family. Embracing the blade is to embrace an eternal summer, Ealhild and his children by his side, a space you will provide in Alfheimr. But to embrace it is to live a death. As he visits his wife, the blade will lay waste to his body. Every time he uses the blade, he shall die, only to be revived when the fight is done. He will have no memory of the battle, only the sweet memory of Ealhild and his children."
+
+Freyr frowned. "An eternal summer? One only appreciates summer if winter comes after."
+
+Odin looked surprised. "And yet you permit eternal summer in Alfheimr, do you not?"
+
+Freyr took a wry smile. "Alfheimr is a home for those who have earned their summers with hard winters. You would give it to a man before he has earned it. The road to Alfheimr begins when life ends. But whether they join the road is a choice. Some choose the eternal summer of Alfheimr. Some choose to stay in their barrows. To watch over those who come after them. The season they choose reveals who they were."
+
+Odin's eye settled upon Elswyth.
+
+"The coaler's apprentice is interesting. The convergence suggests she will lose her family to Wulfhere, and that she will be haunted by one of your lost souls. A redcap, a self-styled _Spotted King_. That creature has repeatedly escaped my _Wild Hunt_, but now I expect we'll know where to find him."
+
+Freyr put his hands on his hips, a stern look grew on his face. "Fussleton. Yes, his fall was most unfortunate. His obsession twisted him beyond recognition."
+
+Odin smiled. "The redcap is not destined to kill her, for she is present for the convergence. I need your elves to guard her. To intercept him should he try to kill her. Your elves will make a blade _from_ him, containing his soul. And _he_ will teach _her_ how to survive the slaughter. To use the blade, Elswyth must make a choice... whether to embrace the redcap's insanity, and invite it into her own mind. To do so is to embrace survival at any cost, to reject it is to embrace the hope that her learned skills are enough, even with the trauma of her near-death at the redcap's hands."
+
+Freyr: "I do not take intervention lightly, old friend. Even when heroes die, the lesson is for those around them. The god of war might seek vengeance. The god of the _Christ_ might seek to ease the suffering of the living. But the god of the harvest sees a hero's death as eventual. Death, like the seasons, is a cycle. Survivors learn that the life of a mortal is part of the natural cycle, and may even learn from that death how to survive longer. One must justify the abandonment of the lesson. But I will consider it."
+
+Odin's eye then settled on Cynewulf.
+
+Odin: "Cynewulf's fall will take him far from his _Christ_. His convergence suggests he will be a man picking up the pieces of a broken life. I see the dirt of the Road coming for him, and it will test him. I see the scars that his life will become. And I suspect, the choices that earn those scars."
+
+Freyr: "I can offer no guidance on this one. Whether he is redeemed is up to him and his _Christ_. I have hope for him, but that is all."
+
+Odin's eye settled upon Cynewulf once more. The testing of a new bell rung through the churchyard, and Cynewulf stood in contentment. For a long while, neither god spoke.
+
+Odin: "Then perhaps this blade should ask a different question."
+
+Freyr turned toward him.
+
+Freyr: "How so?"
+
+Odin: "Osric's blade asks whether grief will master him. Elswyth's asks whether fear will. Cynewulf's burden is neither grief nor fear. It is Truth."
+
+Freyr nodded slightly, but said nothing.
+
+Odin: "I suspect he will spend years wondering whether his _Christ_ could still receive a man such as him."
+
+Freyr looked down toward the churches scattered across the Danelaw.
+
+Freyr: "That question is not mine to answer."
+
+Odin: "Nor mine."
+
+The words surprised them both. Odin rested both hands upon _Gungnir_, watching Cynewulf continue his work below.
+
+"But Truth belongs to neither of us. We answer to it, whether we wish to or not. I expect the same is true for _Christ_. Not necessarily that it is his master, but that he must respect it."
+
+Freyr's smile returned.
+
+Freyr: "Now you sound like a man who has spent too much time with farmers."
+
+Odin ignored the remark.
+
+Odin: "Your forge-elves will make one final blade. The _Wodbora_. It shall command my _Wild Hunt_, but no man shall call upon its power lightly. Before the Hunt answers him, he shall first enter a _witan_."
+
+Freyr raised an eyebrow.
+
+Freyr: "A council?"
+
+Odin: "Yes. But not one of men."
+
+At that moment, two ravens crossed silently overhead before disappearing into the summer clouds.
+
+Odin: "Thought and Memory shall conduct it. Huginn will pursue every excuse. Muninn will pursue every omission. Together, they will hunt the Truth."
+
+Freyr watched the ravens disappear beyond the horizon.
+
+Freyr: "You trust them to judge a soul?"
+
+Odin shook his head.
+
+"Not to judge. To uncover."
+
+He looked once more toward Cynewulf.
+
+"The blade shall demand a confession worthy of the power it grants. Not to me. Not to my ravens. They cannot forgive him. They cannot condemn him. They can only refuse to let him lie."
+
+Freyr's expression softened. "And his _Christ_?"
+
+Odin's eye narrowed. "...will hear every word."
+
+The breeze carried the smell of fresh-cut hay between them.
+
+Odin continued, "Cynewulf must confess what he has become. Then he must declare what penance Truth demands of him. If he hides from himself, the ravens will know. If he speaks honestly, the Hunt shall pass over him."
+
+Freyr studied Odin carefully. "So the blade does not ask him to surrender it."
+
+Odin shook his head. "No."
+
+Freyr: "It asks him to surrender his pride."
+
+Odin was quiet for a moment.
+
+Odin: "Every time he reaches for the blade, he must first become an honest man. Every battle will force him to remember the faith he left behind. Every victory will begin with confession."
+
+Freyr smiled, almost imperceptibly.
+
+Freyr: "Then your greatest blade will never let him stray far from his _Christ_. You will deliver Cynewulf into _Christ's_ hands, or he'll join the Hunt."
+
+Odin's gaze never left the young bellmaker.
+
+Odin: "That is not for me to decide. Whether he returns is his choice. Whether he is redeemed belongs to another."
+
+Freyr folded his arms.
+
+Freyr: "And yet your blade will place him before the choice, every single time."
+
+For the first time that day, Odin smiled.
+
+Odin: "For Cynewulf, his choice will reveal hope... in _his own faith_."
+
+The two studied Cynewulf a moment longer. He was congratulating the young men on a successful cast.
+
+Freyr: "And what do you hope to learn from this experiment after they survive their encounter?"
+
+Odin: "I need to know if mortals still feel the call of destiny. If they feel that wyrd is still entwined in their lives, steering choices toward greatness like the heroes of old. But these won't be the tools of thegns and heroes. They will take the shape of what they already know."
+
+---
+
+Huginn: "We were advocates for Truth. That felt heroic. Like angels. Or paladins. Or... unicorns."
+
+Muninn: "Truth doesn't need advocates. And it certainly doesn't need unicorns."
+
+Huginn: "Then what were we?"
+
+Muninn: "Custodians of Memory."
+
+Huginn: "Custodians? Did we wear coveralls?"
+
+Muninn: "No."
+
+Huginn: "Covered with unicorns?"
+
+Muninn: "Absolutely not."
+
+Huginn: "We were still advocates for Truth."
+
+Muninn: "Memory remembers Truth."
+
+Huginn: "Truth validates Memory."
+
+Muninn: "Can we just stop arguing for a moment?"
+
+Huginn: "I think I found a Truth."
+
+Muninn: "And what would that be?"
+
+Huginn: "I can beat you into submission."
+
+
+
+### Part Two: The Cynn
+
+Deep in the heart of Leicester, behind the Jewry wall, lay the ruin of the ancient bathhouses. During the day, the Church had been collecting statues, archways, stone, and brick from this ruin for several years. The sprawling bathhouse was free of human souls after sunset, or so most people thought as they passed by the crumbling arches in the dusk. The townsfolk would cross themselves and quicken their pace, believing the red-brick vaults held more than just stagnant rainwater and the memory of the dead.
+
+They were right.
+
+The ruins were not empty. The bathhouse saw the slow deliberate work of the stone-claimers during the day, but the winds of the night avoided the spirits that plied their trade in the dark.
+
+Deep within the roots of the stone, where the ancient hearths have been cold for centuries, a different kind of heat was waking. It did not smell of wood-ash, or the rancid fat of the _Ulfhednar_ camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smelled of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
+
+There is no wind beneath the earth, yet the soot on the low ceilings shifts and dances. If a man were to press his ear to the damp masonry, he would not hear the parchment-peace being discussed by the lords, nor the weary sighs of Cynewulf’s rearguard. He would hear a sound high and sharp, like a needle scraping through a burial shroud. He would hear the tiny sound of a child’s giggle echo from the black furnace-mouths, followed by a low, hollow whistle.
+
+They did not labor with the clumsy strength of mortal blacksmiths. These were the _Weylands Cynn_. These were elves of the scattered bloodline of the Great Smith himself. Centuries before, Weyland had walked the earth at the height of his craft, leaving his genius stamped into the marrow of his descendants. Men still remembered a few of his works. Greatest among them, if later storytellers were to be believed, was _Excalibur_, the sword of King Arthur. But mortals had long forgotten the master. Their thoughts now rested on prayers, stone angels, and the plain steel of human hands. The Cynn alone still remembered the ancient foundry marks.
+
+The Cynn had taken the three old hypocausts that provided heat for the bathhouse long ago, and from them built a singular large forge in the center. The walls between them were broken down and the ceiling supported to provide room for a forging hall. On one end was a chute originating from the ground above, and ending in a pile of charcoal.
+
+There were workbenches lining the wall for the specialty crafts of scabbard-making and tooling. Everything was set.
+
+The day of the debate came before the horrible winters of Osric's farm, the raids of Leicester that killed Elswyth's parents, and Cynewulf's ordination as priest. Time had marched forward. Soon would come the convergence... the meeting of Osric, Elswyth, Cynewulf, and Wulfhere. The parchment-peace was near. Odin and Freyr's debate was still fresh in their minds, and they knew they had little time to spare.
+
+Freyr was there, for the Cynn belonged to him. Odin was there as well, with his ravens perched atop a workbench not far away.
+
+They stood on opposite sides of the heavy iron anvil, the bargaining table of the Cynn. Odin leaned into the dark, his single eye fixed on the scarred face of the anvil, while Freyr loomed opposite him, his broad frame radiating an uncanny golden warmth and an easy grin. Between them, the anvil waited—a silent, scarred witness to the fact that before a single blade could be struck, the gods themselves had to agree on the length and width of a blade's contract.
+
+The forge grew quiet, save for the rhythmic drip of condensation from the Roman arches above. They were waiting for the first visitor.
+
+It was the night of March 24th, 943... a week before Easter.
+
+The nisse arrived at the top of the charcoal chute, her shadow casting its length down the soot-stained brick. Two forge-elves took her elbows and helped her into the chute. They placed the barrel in her lap, and she slid down gently onto the pile of charcoal, cloaked in the glamour of Ealhild's form. 
+
+The nisse had adopted the lie, using her magic to fool travelers on the road. It was holding the barrel filled with the contents of Osric's broken home. From her belt danced the oil-string, a silent reminder of her unveiled identity, and the beginning of the winter nightmare. The nisse dropped the barrel onto the dirt floor with a heavy, metallic clatter. The copper cookware, the iron plowshare, and the steel-boss of Osric's shield clanked within the wood-staves.
+
+She stepped through the charcoal and stood on the dirt floor of the forge.
+
+"I have brought the pieces of a broken life," she whispered. Her voice sounded thin and distant, stripped of the warmth Ealhild once possessed. "The steel of the spear and shield, the copper of the hearth, the toys of the children. I have brought them all. I am nisse, a spirit of Freyr’s kin, vowed to protect the hearth and home for Ealhild's family. I... failed. The master Osric still lives, but he is a broken man. Can anything be done?"
+
+Freyr’s grin did not falter, though his eyes grew impossibly bright, reflecting the light of the forge-fire. He leaned over the anvil, his massive, broad frame casting a shadow that seemed to bloom with the scent of spring flowers. "Failed?!" he boomed, his voice vibrating in the very marrow of the Roman arches. "Ha Ha Ha! You have not failed! Not yet anyway. You are here, trying to mend the broken fence. You've brought the tools and materials required. My elves shall see them sorted."
+
+He gestured with a sweeping, golden hand, and the shadows of the forge seemed to stir, the Cynn emerging from the masonry like smoke to begin the work of separating the charred iron from the river-stones. They descended on the barrel and called out the items as their invisible fingers thumbed through the collection. Their voices came and went as an impossible childish giggle. "A wooden horse!" "A mighty plowshare!" "A stone of the barrow!" The inventory had been collected.
+
+Odin remained motionless, his single eye fixed on the oil-string that danced at the nisse's hip. He did not care for the harvest or the sentiment of the hearth. He reached out, his long, pale fingers tracing the edge of the anvil, and the air around his hand grew unnaturally cold.
+
+"You speak of mending," Odin rasped, his gaze shifting from the string to the nisse’s hollow eyes. "How is Osric to be mended?"
+
+The nisse responded without looking up, "I am prepared to offer myself. I will live with the barrow stone in the blade."
+
+Odin's eye grew large. "What good is a blade with a broken spirit in its spine! You give the man a death sentence."
+
+The nisse transformed into the presence of her former living self, Ingrid. It was an illusion, a ghost of a memory.
+
+"I was Ingrid, daughter of Ormr. I honored my father's gods... _you_... until marriage compelled me to follow Freyr. I hoped one day to have many sons to fight for you in Valhalla."
+
+Ingrid paused a moment. She looked up to Odin, and straightened. "I summon my husband, Ingvar the Steady, son of Torsten, who died in Halfdan's host at York. He is the lord of the family barrow. I summon his servants of the shieldwall."
+
+She reached to the floor where the barrow stone lay, and set it firmly on the anvil. She tapped the ancestry rune with her finger. From the barrow stone, four ghostly spirits emerged, dressed in Dane armor, shields, spears, and axes. They were her husband Ingvar, and three of his friends who died in a pitched battle while taking York. Ingvar the Steady stood at the fore, his face a mask of grim, eternal vigilance, flanked by three of his closest brothers-in-arms who had fallen beside him in the final, desperate push for York. Ingvar was the brother of Ealhild's grandfather, and the tomb had been built in his honor, a silent monument to a war that had never truly ended.
+
+"Ingvar, my husband," Ingrid began. "My vigil over Ealhild's home was a ruin of my making. I am bound to the fate of Osric, her husband. But my pledge is not enough. You are here to speak for our family." She stepped back, and the spirits of the shieldwall seemed to swell in stature, their spectral armor catching the orange glow of the coals.
+
+"You and I are bound in kinship and love, " he said to her. "You sacrificed yourself for me after my death, to join me in the barrow. You gave up the sun for the shadow."
+
+Ingrid looked at him with loving eyes. "And I ask you now, will you follow me into Osric's blade? Will you be the master of the blade while I tend the hearth in Alfheimr?"
+
+Ingvar's back straightened. He did not hesitate. "My choice was to protect our family. This is the same choice. Of course. I will act to save Osric. He is Ealhild's husband, and we are bound to him like any other kin."
+
+Freyr studied the five spirits with a keen knowing smile. "Yes! Ingvar, son of Torsten, well met! On that battlefield, you rejected both the valkyries, and the walk in the sunny valley to Alfheimr! You chose the vow of the barrow, to watch over your family and its descendants. A noble choice! And I accept you into Alfheimr once again! You were never to be denied."
+
+Odin's eye crackled with an energy of momentary hate. "You *dared* defy me. Yes, I remember you as well, and the valkyries were somber that day." The forge fell into a suffocating silence, the spirits of the shieldwall standing motionless as the _All-Father’s_ gaze bore into them. The ravens shifted on the workbench, peering to see what would happen next. Then, slowly, Odin’s posture relaxed, his shoulders dropping, and the cold, piercing light in his eye softened into a dangerous, calculating twinkle.
+
+"There is hope for a new pact," Odin rasped, his voice now smooth as polished stone. "One that sees you, your wife, and your friends finally resting in Alfheimr. Your yard shall be measured by the length of the steel. Your friends will be the fence at the hedge. You will protect the remains of Ealhild's family... but the risk is very great for you, Ingvar. The blade is a fragile thing... if it breaks, you all will be cast out from Alfheimr. You will become hedge spirits, and the _Wild Hunt_ will give chase. And you *will* run." Odin leaned closer, his single eye burning with a cold, terrifying intensity. "Ingrid, Osric must pay a price as well. You will bring him to Alfheimr with you while the blade is wielded, and you will keep him there while Ingvar guards the fence. Osric will be held within a breath of death. He wagers your eternity. You shall wager his life. Agreed?"
+
+Ingvar looked at Ingrid. He saw the golden light of Freyr’s promise and the grim reality of Odin’s demand. "Agreed," Ingvar said, his voice echoing with the finality of a closing tomb. "I am the yard to the edge. The shieldwall is the fence. Let the forging begin."
+
+Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered. The harvest of the barrow is at hand!"
+
+Shadowy hammers held by invisible hands gravitated toward the forge. Coal from a hidden well erupted at Ingrid's feet, and she scooped the black stones furiously into the empty hearth. The furnace burst into flame instantly. The heat felt moderate at first, but it turned a blinding yellow-white with the first breath of the bellows.
+
+Freyr and Odin each took a step back. They watched in the bright forge-light the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil.
+
+A final offering of somber joy.
+
+Freyr's smile grew ever broader, as he witnessed the new billet of steel and wrought iron emerge from the crucible. It flew to the anvil, and a hundred dizzying hammers worked to the sound of a giggling song of clinks and clangs. The sparks of the hammers reflected in Odin's eye as he sternly watched the progress while gripping his spear. The form quickly turned from a rectangular billet, to a large farmer's broadseax. It was heavy and long, meant for a woodsman's chop and a reaping of fall lambs. It had runes too, which betrayed its more divine inspiration.
+
+Finally, Freyr raised both hands and the Cynn stopped, hammers in the air. He summoned the spirits to his hands and pressed them to the blade. He nodded, and the Cynn struck with all their hammers. Quickly the blade was thrust back into the fire, where it was studied with invisible eyes. "Not yet" said one. "Wait!" said another. "Now, quickly" said a third. The blade flew towards the oil and hovered over the opening... waiting... and then it plunged. A burst of green flame flew from the oil, then a sharp sizzle. The blade was drawn, and the elves laughed with pure childish glee. Invisible hands carried the blade off into the shadows to receive its handle and scabbard.
+
+---
+
+Muninn: "This is so much better than ordinary fairy tales."
+
+Huginn: "Yes! No singing about gold, no braided beards, and absolutely no helpful advice for any of our heroes."
+
+Muninn: "No carriages, no pumpkins, no witch's cauldrons..."
+
+Huginn: "Just schoolchildren with a bad attitude."
+
+Muninn: "Bad attitude?"
+
+Huginn: "You didn't see them abduct the redcap."
+
+Muninn: "Now _that's_ a memory I would cherish."
+
+Huginn: "Speaking of which... the bellows need new hands... and look who's making a delivery."
+
+---
+
+The spirit fyrd had barely vanished before the prisoner arrived.
+
+Odin and Freyr stepped forward once more, eyeing each other patiently, waiting for the next blade. The barrel tipped and spilled its old quench-oil into a gutter. More oil filled the space, same as before.
+
+The redcap did not kneel, nor did he come by choice. From inside the forge, the sounds of a struggle came from the charcoal chute's top. The shadow of the gnome, the nets, even his teeth yawned across the sooted brick of the chute. He stood before the chute... and was given an unceremonious shove.
+
+The gnome tumbled head-over-heels down the chute. Behind him, one of the forge-elves had donned Fussleton's red cap and clenched Fussleton's lit pipe between his teeth. He drew a breath, jumped, and exhaled. He slid down the chute, a hat with a trail of smoke sliding down behind the gnome.
+
+The gnome landed in a heap on the charcoal with a sickening crunch. The forge-elf found his feet at the end of the chute, jumped yet again, and the hat and pipe did four flips in the air. They landed on Fussleton's back, driving the air out of his lungs. The other forge-elves screamed with glee.
+
+"High marks!"
+
+"Bravo!"
+
+The invisible forge-elf jumped off of Fussleton, landed, and gave a deep  bow.
+
+Other forge-elves grabbed the nets as handles and yanked Fussleton to the floor, standing him to face Freyr and Odin.
+
+He spat the mushrooms onto the dirt, his eyes burning like hot copper beneath his filth-crusted hair. "Muck-dwellers! Wall-lice! Lowly smiths of the dirt!" the redcap, without cap, shrieked, his voice a rhythmic, snapping chant of old battle-verses. "You strike the anvil with a coward's hand, while I paint the highway with the blood of man!"
+
+From somewhere inside the blank Roman tile, a sudden burst of child-giggles erupted, loud and sharp.
+
+"He's rhyming!" cried one invisible voice. "He thinks he's a skald!" giggled a second. "Look at his tiny teeth," chimed a third from the hearth-roots. "So sharp. So full of old bone-grime. He smells of the ditch-ways."
+
+The redcap howled, as the mushroom-ropes dragged themselves to the bellows. The cords wove his hands to the bellow-handles, and a coal pit erupted from the floor at his feet. Pieces of coal danced on his body like ants crawling up a log, throwing themselves into the fire. The ropes lifted him up, and threw his weight against the heavy wood-handle of the bellows. The fire roared. Above the flames, the scream of giggles drew to an operatic chorus.
+
+"I am the Spotted King! I've slit more throats than you've cast iron pots, you wall-bound worms!"
+
+"So murderously small," the wall whistled back, the sound shifting down toward the furnace-mouth. "Funny, he doesn't look so murder-ish without his cap and knife!" "The little killer wants to play." "He wants a sharp toy for his jail cell!"
+
+Other items arrived as well.
+
+A marten skin of white and silver danced down the chute. The forge-elf was careful during his dance never to let it touch the black of the charcoal. It was placed on the leatherworker's bench softly.
+
+The strange forked elk handle from Fussleton’s silver-and-iron murder knife slid down the chute in invisible hands. It was placed on another workbench, waiting for a new blade.
+
+The voices stopped, as if waiting for the entire assembly to be ready. Then they cried out in a cascade.
+
+"Give him the welkin-iron!" a hundred voices chirped in overlapping sequence.
+
+Freyr stepped forward and cut the chorus short, with his palm held high. "SILENCE!! Friends, please..." He turned his gaze toward the redcap, his expression one of weary, paternal disappointment, yet still with an unshakeable smile. "Fussleton, now were you not warned about the dangers of the mushrooms in the meadow. You were taught the rhymes. But you ignored them completely! And now, look at you! Barely a sane bone in that body of yours. What *do* you have to say for yourself, hmmm?"
+
+Fussleton’s copper eyes widened, his jaw working silently as he struggled against the mushroom-cords. The redcap, who had spent centuries terrorizing travelers and painting highways with blood, suddenly looked like a scolded child caught with his hand in the honeypot.
+
+The redcap stared at Freyr, his eyes unblinking, saying nothing. He knew that his only response would be murderous, and that Freyr could do worse than what he was planning.
+
+"No? Very well!" Freyr said, his voice hardening. "You chose the path of the blood-painted meadow. You wanted to be a king of murder? Very well. Your old memory shall be the memory of the steel. You, as you are, shall be the teacher of the battle-dance. Perhaps, after a long while, you shall earn your freedom. But if you should let the blade break, you will be as a hedge-spirit, subject to the _Wild Hunt_ once more."
+
+Odin stepped forward to stare into the eyes of the redcap, studying his madness like a fine painting, tracing his chin with a long dirty fingernail. "Your wod is fresh, keen, and cunning. It is madness that must serve a new hand well. But, the wielder of this blade must bind with this madness in harmony." Odin traced his finger along the redcap's jaw, and whispered, "You will infuse your fly agaric into your wielder's hand. You will keep them safe by showing them the dangers in song, and in their senses." He stepped back, and looked at Freyr. "The wielder must know there is a price for this magic. They will be struck mad after the blade is put back, for a time. We will see the choice they make... to survive battle only to be driven to madness."
+
+Odin looked at Freyr. "Agreed?"
+
+"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade. Make it light and poised like the moonlit marten upon the bough!" He and Odin stepped back once more to let the forging commence.
+
+The foreman of the forge-elves, Besidius, leaned close and whispered into Freyr's ear.
+
+Besidius: "Master-of-the-Fray, do you want that extra-pointy, like the marten's teeth?"
+
+Freyr: "Of course, Besidius!"
+
+Besidius: "Done, your Fray-ship!"
+
+Freyr burst into laughter at the dreadful faux honorific.
+
+A billet of curious white steel emerged from the gloom and landed in the forge. The elves called it _welkin-iron_—sky-vault iron, the nickel-rich heart of a celestial stone that had fallen from the heavens in the deep past. It was stubborn, brittle stuff, but the Cynn had spent months and many baskets of Elswyth's coal taming it. Again and again they heated the sky-stone to a yellow-white glow, drove out its stony impurities beneath their hammers, and folded it over charcoal fires until the heavens themselves had learned the ways of steel. What remained was a dense billet of pale, nickel-rich metal whose silvery luster seemed poised to catch moonlight itself.
+
+The redcap was carried and bound by his mushroomed ropes to the bellows. More coal erupted from the floor, and crawled up the redcap's legs like black dancing ants, throwing themselves into the fire.
+
+The coal turned a violent yellow glow in the forge, causing the redcap's eyes to glow demonically with hate. The mushrooms released more poison and the cord pulled tighter. The business was close at hand now, and the redcap fought ever harder to break the seal. "No! Noo!" He gritted his teeth as his bound torso shoved against the bellows. He screamed out rhythmic curses as the invisible hammers began their frantic, chaotic dance on the anvil once more. He spat into the fire.
+
+Then he broke into song, trying to steal the voice of the forge-elves. But they countered with their own. They matched his timing perfectly, to within... a flea's leg.
 
 ```
-
-Who is it that awakens me?
-Little Meadow-bud who didn't flee.
-Are you brave to call me once more?
-To know my secret, or settle score?
+Spotted King: Sing your songs, you stone-bound rats!
+Cynn:         We’ve split the skulls of better brats!
+Spotted King: Your little fire cannot tame—
+Cynn:         The beast that wears the bloody name!
 ```
 
-"Fussleton? Where are you?"
+They cut him off mid-breath. The temerity! The redcap slammed his weight into the handle, willingly this time, to accelerate the jaunt. He thought, "The speed is the thing! I will outwit these idiots yet!" He forced his lungs to move faster, spitting his verses like rapid hammer-blows to outpace the choir.
 
 ```
-Right in your hand, you find us both!
-To iron bound, to steel betrothed.
-But if you seek the redcap's grace,
-Speak his spell, he'll take my place.
+Spotted King: You wall-lice crawl inside the dead!
+Cynn:         But we know where your boots did tread!
+Spotted King: You cannot say I am soul-blight!
+Cynn:         We care not for your moral plight!
+Spotted King: I am the better of us two!
+Cynn:         It is too late, you cannot sue!
+Spotted King: The wooded realm I gave to her!
+Cynn:         To serve your appetite de jour!
 ```
 
-The viking was wading through the water, eager to be the first to take Elswyth as a prize.
+The bricks hummed back in perfect, mocking ten-part harmony. The pace of the duel accelerated, the alternating voices snapping back and forth like string-plucks on a driving mandolin, matching the frantic, chaotic clink-clink-clink of the invisible hammers on the anvil. A hundred more rounds it went. A thousand more. Nobody kept count. The redcap was now driving his bruised body full into the bellows, desperate to outpace the Cynn.
 
-"The Vikings are going to kill me."
+At that moment, Besidius called out: "The mirrors! The blade awaits the moonlight!"
 
-There was no answer from the blade.
-
-"Fussleton?"
-
-There was still no answer from the blade.
-
-"What's his spell?"
+Forge-elves above and below the chute raised polished mirrors. A ray of pure moonlight struck the forge.
 
 ```
-I am so glad you finally ask,
-For he is the one for this task,
-If all you want is crimson flood,
-Then speak these words: ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ (We play in blood)
+Spotted King: I have you now, the moon released!
+Cynn:         It will not help the angry beast!
+Spotted King: I know its name, to me it's sent!
+Cynn:         The light is pure, you discontent!
+Spotted King: The secret of the moon-lit coal!
+Cynn:         Is in the black stones that we stole!
+Spotted King: The coal's not mine! It must have sold!
+Cynn:         Belonged to the ten-year-old!
+Spotted King: You pinched the coal right from her pits?
+Cynn:         We knew that we would match your wits!
+Spotted King: You do not care 'bout what you stole?
+Cynn:         We pre-arranged the master-toll!
+Spotted King: You planned the trap to foil my role?
+Cynn:         We stole the fuel to trap your soul!
+Spotted King: I looked at her so killing-ly!
+Cynn:         Her family gave it willingly!
+Spotted King: So what now is your plan for me?
+Cynn:         To train the hand convincingly!
+Spotted King: My wicked style is mine alone!
+Cynn:         For standard training you'll be prone!
+Spotted King: I will not teach, I will not speak!
+Cynn:         You'll train the arm or find no creek!
+Spotted King: I crave no more the scarlet feast!
+Cynn:         The thirst in you has never ceased! 
+Spotted King: No mortal hand shall master mine!
+Cynn:         You bow beneath the hand's design!
+Spotted King: The noose is tight!
+Cynn:         It ends tonight!
+Spotted King: I'm drawn to steel!
+Cynn:         Before us kneel!
+Spotted King: My anger break!
+Cynn:         Your will we take!
+Spotted King: This steely cage...
+Cynn:         Holds all your RAGE!
 ```
 
-The wolf-man was almost to the edge of the pool.
+Their voices suddenly dropped his rhythm entirely to strike a heavy, unified chord. Freyr's hands commanded the smoke, grabbing the redcap and pressing the murder-gnome ever closer to the blade. The redcap’s copper eyes widened, his breath fracturing as the invisible hammers delivered a final, devastating blow to the metal.
 
-Elswyth drew a long breath.
+"NOOOOOOOOOOO!" — CLANG.
 
-"ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ"
+And into the quench it went, moving quickly this time, so as to catch the moonlight and the fury before they escaped the steel. It dropped. A tornado of green flame erupted from the vat, cut short with a sharp, violent hiss. The blade lifted and levitated. It was carried to the shadows to receive its handle and scabbard. The marten skin was folded into the scabbard, forever being the coat for the blade.
 
-In the misty reflection of *Monanleoht's* steel, the monster's eyes emerged from the flat of the blade.
+---
 
-"Now listen here, you foul wretch of a..."
+Huginn: "DUN... DUN... DUUUUUUUUUUUUUUUHHHN!"
 
-He cut her off mid-sentence with a high-theatrical mocking whine.
+Huginn squawked, his voice cracking on the final note. He froze mid-dance, his left wing still extended toward the stars and his tail feathers flared, completely locked in place as his brother turned a cold eye toward him.
 
-"Oh, boo, hoo, hoooooo! *A marrow-muncher's trying to drain my trunk-blood and chew my bones!!!* Stop your quibblin' and gibblin'! There's no time. I'm to... teach... you... how to fight. Blech... I still can't believe this. Of all the mud-muckin', bone-stealin', grub-squashin' things those slag-brained smithy-ticks *could* have thought up, they thought it would *be funny* to trap me in this blade, to teach *a little girl* how to **PLAY WAR**! The monstrosity! The temerity! Those smelt-pot-scraping soul-slackers will rue... the... moon-day that they thought this up."
+Muninn: "What in the All-Father's name are you doing, brother?"
 
-Elswyth's confidence flagged. "I can't do this! I've never done... this! I've seen the warriors train, but I've never held a fighting blade. I don't kill people."
+Huginn: "I was dancing to the beat, and now I am playing the air-organ!"
 
-The redcap's tone dropped into one of pure, mocking dejection.
+Huginn smiled, released his dance posture, and smoothed down his ruffled wing-feathers with a look of immense dignity.
 
-"Oh, well I guess we just... GIVE UP?! *Sorry wolfies! I can't come out and play! I don't know the rules of the game, so pick somebody else!* NO! Your muscle-fronds are stronger than you think. You didn't _chop_ down trees and *haul* all that moon-lit wood from the deep forest just to *yammer* on about your teeny-tiny stalk!" he jeered.
+Huginn: "For dramatic effect. It felt like the scene needed a...  heavy chord... right there."
 
-The redcap resumed his commanding, authoritative tone.
+Muninn: "That wasn't an _air organ_, or any other organ, except maybe a body part I haven't liberated yet."
 
-"Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
+Huginn: "It was a metaphoooorical organ. Besides, look at the redcap below. Wait, where did he go?"
 
-Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
+Muninn: "He's screaming inside the steel now. And leave the music to the Cynn. They broke a murderer's spirit with Elswyth's prized coal, which is far more respectable than your dancing and squawking."
 
-A strange warmth flooded her limbs. Not the warmth of a hearth or summer sun, but something sly and invasive, creeping through her blood like roots beneath soil.
+Huginn: "Fine. But you have to admit, it DID really lift the mood."
 
-The world lost its proper proportions.
+Muninn: "I doubt it. What really needs lifting are the feathers in your tail. They're molting. Tuck those feathers in, brother."
 
-The Viking remained a man, yet his spearhead swelled until it seemed as large as a plowshare. The iron point dominated her sight while the rest of him shrank around it, becoming little more than hands carrying a threat. Then the point diminished and his shield grew broad as a gate. Then that too faded. Her eyes could no longer agree with one another on what mattered.
+---
 
-Stranger still, the world seemed unwilling to move until she had finished looking at it. Every heartbeat stretched long enough to inspect. Long enough to choose. Long enough to wonder.
+Freyr and Odin stepped forward one last time, meeting at the anvil.
 
-The redcap laughed.
+Odin: "For this third blade, have you considered my proposal?"
 
-"There you are. Now you're seeing with your proper eyes. Ohhh, just in time for a young wolf. He thinks he is MIGHT-Y! You know, big shields only hide a shivering skin... Repeat after me!"
+Freyr: "Yes, another space in Alfheimr. This one in the likeness of a church, of _Christ_."
 
-```
-This one has the stabby pole,
-Wood on arm, but find the hole,
-Wait right here for pointy end,
-To start on its final descend,
-```
+Odin: "When the blade is drawn and the words are spoken, the _witan sleep_ will take Cynewulf there. The ravens will also be summoned."
 
-The world lurched.
+Freyr's eyes widened and his smile blazed once more. "Ahh, the place for a witan. For a man who must *confess*. Very well, old man. I offer the church itself. I shall create a space in Alfheimr that is a church, with a vaulted stone ceiling and a thousand lit candles. And your _witan_-sleep will stop time. The wielder must be given time to search his soul. I will not allow this to be a sudden death. If he is to be judged, he must be given the silence to hear his own heart."
 
-The Viking stepped forward, but he no longer seemed whole. Elswyth's eyes fastened upon the spear. The iron head swelled until it dominated her sight, broad as a plowshare, while the warrior behind it diminished into a collection of smaller things—hands, feet, shield, beard—all circling around the true danger.
+Odin grumbled, but resigned. "Fine. He will have the time it takes for the _Wodhere_ to run him to ground—the span of a hundred heartbeats before the Hunt chases the breath from his lungs. That is all the time I am willing to give."
 
-Everything else became weather.
+Freyr’s smile softened, though his eyes remained fixed on the altar. "A chase, then. A trial of speed and spirit. Let it be done!"
 
-The spearpoint drifted toward her.
+The Cynn forge-elves made a circle around the two gods, listening intently.
 
-Not slowly. It only felt slow because she could not stop looking at it. Every edge of the iron seemed clear. Every scratch. Every glimmer of light upon its surface.
+"To summon the _Wild Hunt_ we need a part of Odin. To summon the ravens, we need a part of them."
 
-The redcap's voice purred in her skull.
+"Something small."
 
-```
-Two steps left, under the sleeve,
-Forearm blood-cut he'll receive,
-```
+"Something that commands."
 
-Her mouth repeated the words before she had time to think.
+"Something that gathers."
 
-Two steps.
+"Something that sends."
 
-The spearhead slid harmlessly past.
+"Something the ravens bring."
 
-The giant triangle of iron vanished from her attention at once. Now the forearm beneath the shield consumed her sight. The leather vambrace looked absurdly large, as though the warrior had thrust it toward her and forgotten every other part of his body.
+"Something the ravens keep."
 
-The opening was obvious.
+"Something that returns."
 
-Impossible to miss.
+"Something living."
 
-_Monanleoht_ leapt from her hands like moonlight cast into motion. The blade bit upward through leather and flesh.
+"Odin's essence gathers and sends. He commands and is given respect."
 
-Only then did the rest of the world rush back.
+"His blood?"
 
-The Viking grunted in pain. His arm snapped backward. Blood splashed across the stones. The shield wavered.
+"His blood."
 
-And already something else was becoming important.
+"A drop."
 
-```
-He drops point to nurse the arm,
-Roll to right, deliver harm.
-```
+"One drop only."
 
-He dropped his spear with a grunt, the spearpoint collapsing in size to almost nothing falling away to a floor that seemed far away. His shield hand snapped instantly to the wound. But the wound was not important either. Her eyes drifted to the right as his knee became as large as a table.
+"The ravens are sent and brought."
 
-The reflex had  pulled his shield away, exposing his lower leg. Elswyth threw herself to the right. Her back curled against the cold stone as she fell. The floor had no shape. No meaning. No interest.
+"They fly."
 
-Only the knee mattered.
+"By the wing."
 
-```
-Finger-wide three, gap at knee,
-Slice the root of the elder tree.
-Trunk blood flows from the deep root,
-All for floor, and none for boot.
-```
+"By the feather."
 
-She saw a gap in the armor. It was a mere sliver of skin between the bottom of his mail and the top of his boot. To her, it was three fingers wide and the blade was already in motion. She slashed from her knees. The moon-bright edge slipped into the gap and grated against bone.
+"They bring the feather."
 
-The Viking screamed and staggered backward.
+"They keep the feather."
 
-Only then did the wound become small again.
+"Except One."
 
-Blood poured down his boot and splashed across the stone, but it no longer held her attention.
+"Each."
 
-```
-Stand up tall, he has no pole,
-Watch him howl, ha! fragile foal,
-```
+Odin looked at his ravens, and nodded. He lowered the blade of _Gungnir_ and used the spear's head to cut his hand. One drop of blood landed in a waiting goblet.
 
-She stood up as he howled through the pain, the sound distant and muffled like it struggled to exist. Her eyes scanned.
+The ravens landed on the anvil. One feather was taken from each.
 
-```
-He drops the wood for slicey steel,
-But make his ... hand ... into ... your ... meal.
-```
+Odin looked at Freyr one last time. "You will see these blades to their owners?"
 
-The shield slipped from her notice. The wound vanished. The warrior vanished.
+Freyr: "As sure as the night falls."
 
-Only the hand remained.
+Odin looked at Huginn and Muninn. "Come on feathers. Time to move on."
 
-It clawed for the handle of his seax.
 
-The hand swelled in her sight until it seemed larger than his head. Larger than the knife it sought. Every finger stood apart. Every knuckle. Every tendon beneath the skin.
+---
 
-It looked slow.
+Huginn: "DUN...DUN.."
 
-Not because it moved slowly.
+Muninn: "For the LAST TIME! THERE. ARE. NO. ORGANS. IN. A. FORGE!!"
 
-Because she could see too much of it.
+Huginn stared blankly. This isn't the first time he's been yelled at for forgetting rules. He was eager to change the subject.
 
-She stepped into his struggling guard, gripped _Monanleoht_ with both hands and brought it down in a hard, crushing arc. The blade sheared through his wrist. A spray of hot blood was followed by the severed hand striking the tile. His battle was done.
+Huginn: "I was wondering what to wear to my first inquisition."
 
-The world lurched.
+Muninn: "Wear? You're a bird, Huginn! You're wearing the same thing you've been wearing since the dawn of time. Maybe try a nice twig behind the ear?"
 
-The giant hand became a hand again. The blood became blood. The warrior became a warrior. Yet something still felt wrong. Every object in the room seemed poised upon the head of a pin, balanced between growing enormous and shrinking to nothing. The world had remembered its proper shape, but every object negotiated its certainty.
+Huginn: "How about a necklace made from a raven's beak?"
 
-Elswyth swayed.
+Muninn: "Wow that's not subtle."
 
-She had handled the first Viking, and she thought it miraculous. The blade's poison, the redcap's tampering with her senses, made combat seem less like fighting and more like some absurd moon-dance where every answer arrived before she knew the question.
+Huginn: "I think I spy our faces on the scabbard. I don't remember sitting for a portrait!"
 
-"I can't believe..." she started.
+Muninn: "You didn't. All-Father told them to put us there, remember? We are the inquisitors. He merely gets to listen. Those were the rules."
 
-"
-Oh, first time to draw blood? Merely adequate, meadow-bud. A bit disappointing though... the boy’s blood-juice is sweet, yes, but harvested too early. It is under-mooned. Far too under-mooned to a proper redcap's liking. A flat profile, definitely on the waning side. Still.. the essence of roasted morel from his last feast on the nose has that woodsy depth, rescuing the ... wait a beat... I... I can taste?! I CAN TASTE! Those crazy soul-jailers didn't just lock me in the dark... they gave me the keys to the larder! Oh, those beautiful, soot-stained forge-leeches! They knew I'd starve in here. They knew I'd rot. So they made the steel my tongue! Every blood-drop... a morsel! Every cut... a banquet! Oh those forge-elves are genius!
-"
-
-The second Ulfhednar was slow to approach from the pool, being wary of what he'd just seen. Obviously there was more to this girl than met the hunter's eye. He was well-appointed: chain full-shirt, wolf headdress over spangenhelm, hand axe and stout shield. He had a professional battle-gait, and was ready.
-
-"Oh, watch out for this one now. He's quick to the step. Well-balanced. Very seasoned. Heavy iron in his blood. Start the music!"
-
-```
-Shiny shirt of iron rings,
-Let us see what safety brings.
-Iron hat and fuzzy head,
-Soon you will be cold and dead.
-Show me how you hold the wood,
-Let me taste if it is good.
-```
-
-The Viking didn't bite. He kept his chin tucked behind the heavy rim of his stout shield, stepping forward with absolute metric precision. Monanleoht lunged, pulling Elswyth's movements into a blurring succession of testing strikes that rang out in a fast clip.
-
-```
-Biting top and chewing low,
-Checking where the blade can go.
-Rap upon the iron boss,
-Counting up the rhythm's loss.
-Steel against the woven chain,
-Looking for a chink of pain.
-Stubborn shield and heavy guard,
-Making all my harvest hard!
-```
-
-The _Ulfhednar_ was impressed. Elswyth's strikes had been faster than expected, but he deftly guarded his flanks with his axe-grip low and his shield ready. He took a test swing to measure her guard.
-
-```
-Miss the belly, cup the meat!
-Lean it back on your heel feet!"
-```
-
-The hand-axe whistled toward her midsection, a heavy, cleaving arc meant to open her up. Instead of raising Monanleoht to block, Elswyth simply hollowed her core. She cupped her hands over her stomach to pull her flesh away from the steel, her voice carrying the redcap's rhythm, as the axe shaved the air inches from her shirt.
-
-Realizing his caution was getting him mocked, the seasoned Ulfhednar went full on attack. He abandoned his patient defense, unleashing a measured, blinding storm of steel and seasoned shield-craft. Every strike was dodged. As the hand-axe hacked left in a brutal opening strike, the iron in her mind buzzed a split second before the steel arrived, forcing her to duck her head.
-
-```
-Axe is coming from the right,
-Drop the skull and slip the white.
-```
-
-The blade bit empty air, shaving the wolf-pelt of his headdress across her forehead. The veteran didn't reset. He sensed she was on her back-heels, and immediately capitalized on her evasion by throwing a heavy, driving axe-swipe at her opposite shoulder to force her back. The internal rhyme snapped into her skull, forcing her torso to twist:
-
-```
-Shoulder strike is coming fast,
-Twist the bone and let it past!
-```
-
-She spun out of the path of the axe. Three more attempts were futile, but the Ulfhednar was undeterred, realizing it was foolish to give up the initiative. She felt the wall against her back. She couldn't retreat any more, and the veteran realized her plight. He lunged forward to pin Elswyth to the wall with his shield.
-
-```
-Abandon guard, roll at boots,
-face to stone without his roots!
-```
-
-Elswyth dove to his feet, and rolled. He tripped over her torso, and crashed into the wall, face first. He felt a quick stunning pain of the bruise on his cheek, but it was nothing. He felt Elswyth untangle herself from his legs... he couldn't trap her.
-
-The crash had brought him to his knees. In one fluid motion, he stood and wheeled around, angered by her move. Elswyth had by then picked herself up off the ground and leveled her feet. She finally had space to operate again.
-
-The Viking decided on a deadly feint. He cocked his right arm back, hoisting his hand-axe high for a devastating, winding swing aimed at her left shoulder. It was a threat meant to force her guard sideways. But as her attention tracked the steel, he violently pivoted his torso, tilting his shield horizontally and driving the sharp bottom-edge of the rim straight at the opposite side of her face. It was the size of a giant cart's wheel in her eyes, and she was but a fly dancing on its edge. The Redcap wasn't fooled by the high iron.
-
-```
-Axe is high to cheat the eye,
-Duck the wood and let it fly!
-```
-
-The whistling wooden edge missed her head as she quickly ducked beneath the blunt trajectory. To generate the sheer power needed for that massive, cross-body shield punch, the Viking had been forced to throw all his weight forward, anchoring his lead foot in the mud to steady his balance. His axe he had pulled back in, tight against his chest to protect his vitals. His knee had pulled into the slit of his chainmail's skirt, leaving the top of his soft leather boot completely stationary and utterly exposed. It was the size of a tree-trunk. He had stepped into a space abandoned by the tile, and was directly over clay. The blade saw the opening and commanded the strike instantly:
-
-```
-Plunge the iron through the shoe,
-Pin him down and drive it through.
-```
-
-With a single, explosive downward plunge, Elswyth drove Monanleoht straight through the top of his planted foot, burying the silver steel deep into the earth beneath him. The Ulfhednar shrieked, pinned like a beetle to a forest floor. Elswyth tugged at the hilt, but the steel was wedged fast in the clay. She lacked the raw muscle to wrench the weapon free. Her hands snapped away from the leather handle, but the weapon did not go silent. Even disconnected from her flesh, the blade whispered its next dark instruction, offering a cruel solution to her lack of strength:
-
-```
-Pull the wolf down by the snout,
-Put his heavy vision out.
-```
-
-Instantly catching the rhythm, Elswyth lunged upward. She grabbed the thick fur of the wolf headdress draping over his spangenhelm and dragged the heavy pelt over his face, blinding him in darkness beneath the coarse gray hide. Even blinded, the veteran's professional discipline held. He unleashed a fierce, sweeping horizontal swing with his hand-axe to carve out a protective circle of space. The blade screamed into her mind to dodge the blind steel:
-
-```
-Blind man swings a wide design,
-Spin away from danger line!
-```
-
-Elswyth swung back, out of the weapon’s arc just in time. The Viking drew his shield tightly against his chest, and used the blunt top of his axe-haft to frantically wedge the pelt back up away from his eyes. He was recovering his sight, but the desperate, blind movement forced his upper body to twist, pulling his stout shield briefly out of position. His left flank was left utterly unguarded. Before Elswyth could even think, the cold pulse of the blade dictated her next movement with cruel precision:
-
-```
-Step right now, and coil the spring,
-Drop the knee of castled king!
-```
-
-Elswyth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Monanleoht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the leather hilt sticking right up out of his ruined boot. The voice in her head snapped shut like a trap, demanding the harvest be finished:
-
-```
-Take iron from the leather,
-End the wolf altogether.
-```
-
-Elswyth stepped forward, re-engaging her grip on the hilt. She smoothly pulled the blade free. His legs were before her, unguarded, as he tried to drag himself to safety. But the rhyme was merciless:
-
-```
-Hack the pillar, slice the vein,
-Let the crimson river rain.
-```
-
-Without a shred of hesitation, Elswyth brought Monanleoht down in a rapid, heavy succession of hacking strikes. The silver steel tore through the leather and flesh of his defenseless calves, slicing deep into the fertile blood vessels beneath.
-
-The redcap gave her a finishing command: to watch him bleed.
-
-```
-Soak the field for mushroom leigh,
-Blood to tile, and none for thee!
-```
-
-"
-Oh Meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast!
-"
-
-Wulfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
-
-"You... girl from darkwood... I know you. The wolf has caught your scent again," Wulfhere taunted. He smiled confidently. Nobody had bested him in a tactical fight, not even Rognvaldr.
-
-"I'm... not afraid... of you," Elswyth stammered.
-
-"Nor should you be!" cackled the redcap.
-
-```
-Tap the cask and slice the meat!
-What a strapping, heavy treat!
-Eleven winters since the day,
-I spied him, chased him, to your way!
-I could not steer this boasting buck,
-But to you drove me, what luck!
-Tempt him, sway him, come to play,
-I'll have him now for lunch... today!
-```
-
-The _Ulfhednar_ chief's muscles swelled beneath his furs, shifting his wide stance as he prepared to deliver a world-shattering cleave.
-
-But the Redcap's eyes widened with glee.
-
-"He looks mean, but watch how easy this is!"
-
-```
-Draw the hog onto the break,
-Broken tile his gait forsake,
-```
-
-Elswyth was shaking, and Wulfhere grew ever more confident. She retreated slowly, and Wulfhere followed, never taking his eyes off hers. "Where are you going? There's nowhere to run," he mocked.
-
-```
-Great Dane axe of mountain oak,
-Heavy-winding for the stroke.
-All his weight is in the blow
-But momentum leaves him slow.
-Down it crashes on the tile,
-Shattered stone instead of bile.
-Past the handle you have stepped,
-Where his ribs are poorly kept.
-```
-
-The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elswyth side-stepped the blow easily. His boot crunched through the broken tile, wedged tight. He couldn't recover.
-
-Without waiting for more rhyme, Elswyth's vision moved to the giant chest. She heard the beating of his heart and could even see it, pushing and pulling on his chest. It sounded like the footfalls of an army in motion.
-
-Elswyth drove full into the thrust with both hands, and Monanleoht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elswyth, in a breath of heated rage, whispered in Wulfhere's ear:
-
-```
-Took me once for easy prey,
-Stole my hearth and fled away.
-Take the coalgirl's blade and see,
-Blood to earth, and none for thee.
-```
-
-Wulfhere dropped his axe and gripped Elswyth's shirt with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her linen as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
-
-"Well, Meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
-
-Then, without a heartbeat of warning, the silver steel twitched violently in her palm. The blade aggressively spun backward, the satin edge slicing through the air toward Elswyth’s own throat as the Redcap lunged to harvest her trunk-blood from within the metal. Inside her head, his voice frantically scrambled into a desperate, rushing meter:
-
-```
-The dance is done, the moon is high,
-Now it's time for you to —
-```
-
-Elswyth’s knuckles turned white. Her grip clamped down like an iron vise, shattering his rhythm and forcing the blade to a grinding, vibrating halt a mere hair's breadth from her collarbone.
-
-She didn't panic. Because she knew his tell — knew he was a slave to the song and could not strike without a rhyme — she had caught the cadence right before it was too late. She squeezed the handle until the steel stopped shaking, locking the monster back down into the depths of the nickel and steel.
-
-Inside her skull, the Redcap let out a high, cackling, unhinged laugh.
-
-```
-Die!
-
-Curse those little fiddle-cynn,
-I had you twice but now I sin!
-Sweet dessert was sitting nigh,
-So you knew I had to try!
-```
-
-Click. Elswyth put Monanleoht back in its cage, the pommel's lock silencing the gnome.
-
-With the redcap no longer there to guide her senses, she descended into madness.
-
-Every drop of water falling into the cistern became a crystal sphere, hanging impossibly in the air before crashing into the pool with the roar of a collapsing tower.
-
-She fell to her knees.
-
-Every tile smiled at her.
-
-She reached down to cover one face with her hand. Instead she found another staring back at her. The pale crescents of her fingernails gleamed like tiny moons, each fixed in its own silent grin.
-
-She squeezed her eyes shut.
-
-Darkness offered no refuge.
-
-Colors without names bloomed behind her eyelids. Her mother's face smiled from the back of a leech. Ice shimmered green as summer leaves and pink as apple blossoms, somehow both at once.
-
-Her own ragged breathing swelled into the roar of a gale through the forest canopy. Every heartbeat crashed like an axe against an ancient oak.
-
-She tried to stand.
-
-The earth slipped away beneath her.
-
-She fell, unable to keep her bearing. She rolled to the ground, staring at the ceiling.
-
-The rafters leaned together like old women sharing a secret. She was certain they stopped whispering the moment she looked at them.
-
-One of them seemed unbearably amused. Elswyth burst into laughter. She laughed until her ribs hurt, until she could scarcely breathe, until she could no longer remember why she had begun.
-
-Then the stars started arguing with each other. And arguing with her.
-
-"No! I will not unleash that monster again!"
-
-The stars pleaded with her.
-
-"He's not right... too much tasting... rhymes don't make sense."
-
-She didn't understand their words, only their meaning.
-
-"Coal doesn't breathe! It blossoms. Like... fish."
-
-Finally. Agreement.
-
-She nodded, glad that the moon had finally brought the stars to their senses.
-
-She leaned onto her side and retched.
-
-So the night passed. She witnessed impossible arguments, singing stone, and colors that laughed when she looked away.
-
-Hours later, the voices softened. The colors faded. At last, the poison loosened its grip enough to let her sleep.
-
-When she finally awoke, morning sunlight streamed through the openings in the roof, illuminating the bathhouse.
-
-She stood slowly, weary from a night spent at war with her own senses. Apart from exhaustion, she was unharmed. Dreams and waking had become hopelessly entangled. She resolved to leave them that way.
-
-The sunlight caught the coffer sitting on the bench. She wasn't sure she wanted to open the box, but curiosity held her in its grip.
-
-Inside the coffer she found a neatly folded set of charcoal-black garments. A suede coaler's apron lay atop a supple leather jerkin, beneath which were folded a linen tunic, a short half-cloak with its fitted caul, and wrappings for her arms and calves. Beside the stack rested a pair of light, thick oil-treated turn-shoes, their leather darkened by soot until they seemed born of the forge itself. There were also coaler's gloves, thick rawhide that protected her fingers from the brambles and thorns of working in the forest.
-
-Beneath the clothing, she also found a woodsman's felling axe. Its broad bit carried a _welkin-iron_ edge, bright as _Monanleoht's_ blade. The ash haft was wrapped in supple leather, its shallow flutes fitting naturally beneath her fingers.
-
-Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three tiny brass bells and small iron fittings whose purpose she could only guess.
+Huginn: "I'm getting hungry. The sun is setting. Let's see if the Night of Blood has begun."
 
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-## Chapter Nine: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
-
-Cynewulf stood on the porch of the church. His legs were tired from running, his soul weary from searching. The air lay still save the breath of Roganvaldr, the giant of the Ulfhednar, emerging from the maze. "I see a skin for my hoard, Saxon." bellowed the Viking. The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Rognvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
-
-Rognvaldr stood and mocked him in his language. He never cared to learn the language of the Saxons. It was clear that he meant to do more than just kill Cynewulf.
-
-Cynewulf sensed that his time was short. He had no shield, and no other weapon. He quickly grabbed the handle of the shield, gifted to him by unknown hands. His sword hand found the wire-wrapped handle of the _Wodbora_ just as Roganvaldr charged. He pulled the length of the blade from the scabbard. The blade had rivers of steel, light and dark, as though the steel was both fog and night.
-
-He stepped forward into the yard. He did not want to be cornered on the porch.
-
-The voice of his father whispered in his ear. "If you want to live, repeat after me. _Sceran scēapum : dēað wulfum_ (_shears for sheep, death for wolves_)"
-
-Cynewulf hesitated. "Father? I..."
-
-"Repeat the words Cynewulf!"
-
-Cynewulf still hesitated. Rognvaldr started walking forward, pleased that Cynewulf had accepted his challenge. Cynewulf held his shield high, and readied himself to receive a charge.
-
-"REPEAT!"
-
-Cynewulf spoke.
-
-"_Sceran scēapum : dēað wulfum_"
-
-The charge never came.
-
-A dark, hazy mind-dream came over him. This was the *witan-sleep*.
-
-Rognvaldr and the Leicester church yard receded from his sight, as if he had been lifted by two ravens clutching his cloak and carried into a void.
-
-Leicester never disappeared completely. His own body remained behind the shield, _Wodbora_ held back for the coming stroke. Across the churchyard, Roganvaldr had just broken into a full run, the snarl frozen upon his face. Neither man moved.
-
-He was let go.
-
-Instead of falling, his feet found turf. He stared down, and he had landed softly in a yard.
-
-A new yard.
-
-He could still see Leicester below him, as if he were standing on a cloud.
-
-He turned.
-
-Before him. the light of a thousand candles lit another church before the threshold. This church he had never seen, but similar to the ones of his father's stories. He could not place which story, or it could have borrowed memories from all of them. The shadows cast by the candles danced over stone walls and grass.
-
-And the cross in front of him. The cross had been carved from a single weathered fieldstone, its ancient grain untouched save where the mason's chisel had found it.
-
-The ravens, Hunginn and Muninn, the figures on the scabbard, landed on the opposite branches of the cross. They spoke to him in the still night air.
-
-Huginn: "Speak now, priest! The steel waits."
-
-Muninn: "Why were you chosen?"
-
-Cynewulf hesitated. Ravens _do not speak_.
-
-Muninn: "... Why does _Wodbora_ claim you?"
-
-Cynewulf: "My father... he spoke to me. Am I dead?"
-
-Muninn: "Your father passed from the world two winters ago. This is not his realm."
-
-The words did not surprise him. Long ago, in the depths of his grief, he had already mourned that the path he had chosen meant he would never see his father again.
-
-Cynewulf: "What... do you mean?"
-
-Muninn: "Why were you chosen?"
-
-Cynewulf: "What is going on..?"
-
-Huginn: "Time is short, priest of the road. You don't know what you hold."
-
-Cynewulf: "Who are you?"
-
-Muninn: "I am the long memory."
-
-Huginn: "And I am the thought that remembers nothing until it asks."
-
-Muninn: "We're here to see if you have anything to offer."
-
-Cynewulf: "Of... what?"
-
-Huginn: "The truth of who you are."
-
-Muninn: "The memory of what you were."
-
-Cynewulf: "To what?"
-
-Huginn: "To the cross before you, and to the coming storm. Speak, and Christ will hear you."
-
-Muninn: "Refuse, and the blade will remember your past. You hold the _Wodbora, the Madness-Bringer_. If you do not pay its price, you will become part of the flight."
-
-Huginn: "So now, priest, why were you chosen?"
-
-Cynewulf searched his mind.
-
-Cynewulf: "This... *Wodbora*, it must _think_ I have... something to offer?"
-
-Muninn: "Brother, look! His memory is stirring."
-
-Huginn: "The storm is building! Quickly, the storm demands an answer."
-
-Cynewulf heart dropped cold.
-
-Cynewulf: "It wants... My soul?"
-
-Muninn: "CAAH! No! But that's what it will get if you don't think harder. Back to the conversation. The _Old Hate_."
-
-Cynewulf frantically searched his mind.
-
-Cynewulf: "The old shepherd. He mentioned something about an *Old Hate*. A *wuudheree*?"
-
-Huginn: "That's the _Wodhere_. The _hunting_. The reaper of soul and flesh, priest-man. It's growing, waiting, hungering. What you hold opens the gate."
-
-Huginn pointed his wing at the langseax in Cynewulf's hand.
-
-Cynewulf: "Take it back! I don't want this! My hands have touched the _Dark One's_ stain. Why am I even talking to birds? Christ, save me!"
-
-Cynewulf kneeled before the cross.
-
-Muninn: "You can protect yourself. There's still time. Why did it choose... YOU?"
-
-Cynewulf: "The old shepherd? He gave me a confession."
-
-Muninn: "Yes... the memory is taking to flight, brother."
-
-Huginn: "The _Wild Hunt_ passes over the clean. You must show it that the Road has not sullied your soul. It's time to be clean, priest."
-
-Cynewulf: "Well... my first confession..."
-
-Muninn: "That's an old memory, Cynewulf. The _Wodhere_ demands your unconfessed sins, not the carrion of sins confessed long ago. Confess."
-
-Huginn: "Confess!"
-
-Cynewulf thought forward from that moment of his first confession. There had been jealousy of his father's travels. Moments of anger in the bell-foundry.
-
-Cynewulf: "I... was jealous of my father... he traveled throughout Mercia. I never got to leave Leicester."
-
-Muninn: "That's a one-worm meal for a magpie, priest. This bird you face is ravenous, and it remembers the _whole_ corpse... as do I."
-
-Cynewulf thought back at all the unholy deeds he had done. After the fall of the Griffons, he remembered every group he ever joined. The time he cut off a man's hand for offering too little silver. The knife fight in the ale-house over a copper button. The cottage he left to his warband, hearing the widow scream as his men took her. The poor souls on the road he butchered. The merchant-men. The couriers. The shepherds. Their wives. Even their _children_.  Shame swept over him like a tidal force of nature.
-
-Muninn: "His memory is a flood, brother. He needs to focus!"
-
-Huginn: "Choose ONE! QUICKLY!"
-
-Cynewulf thought back to the first time he had taken a life. Back in that day in his priest-home. Yes, there where sins before that, many of them very unclean, but that was the first life he had taken. It was the beginning of his journey on the Road.
-
-Cynewulf: "There was this boy. A Viking boy. He had burst into my priest-home during the raids. He was young, probably of seventeen winters, but he threatened my students, and me. He wanted to kill me! But I wasn't going to let him! He was evil! Hate spewed from him."
-
-Muninn: "Finally, a singular memory. Tell me priest, what was his name?"
-
-Cynewulf: "Wh... Whaaat? We didn't have time to pass pleasantries!!"
-
-Huginn: "No priest. To name a thing is to respect a thing. What was his name?"
-
-Cynewulf whispered... "I don't know what you want me to say." His world collapsed. Tears flooded his eyes, as the memory of that day filled his soul. "He DIDN'T HAVE... A NAME!"
-
-Muninn: "The flood is rising. The memory is sweeping. He's almost there!"
-
-Huginn: "The boy was a fresh scroll, priest, barely seventeen words on the page! He could've been your sheep, but instead you tossed the scroll into the fire."
-
-Muninn: "You let your hate control you that day. He will have no memories. Few will remember *him*."
-
-Huginn: "What would you tell him priest? What *should* you have told him?"
-
-Cynewulf's tears overflowed, and he cried. It was an authentic, forceful weep.
-
-Cynewulf: "... TO TAKE THE SILVER ON THE TABLE! ... LEAVE MY STUDENTS IN MY CARE... JUST LEAVE!"
-
-Huginn: "Powerful, but that still doesn't name the boy. How can you apologize to him if you haven't named him?"
-
-Cynewulf: "I'M SORRY!!!! I can't take back his death. I can't un-ring the bell."
-
-Huginn: "Wodere is almost here. Penance waits for no man."
-
-Cynewulf clinged to the words that ravens had said... that few will remember the boy. But the last phrase struck Cynewulf like a physical blow, vibrating down into the very meadow of his soul. Penance. The word hung in the freezing air. It was a lifeline thrown into his dark. If the boy had been denied a name by the Road, and needed remembrance, then Cynewulf would give him this one. He would turn their punishment into a promise.
-
-Cynewulf: "PENANCE! I... the boy... I name him... Penance. For the rest of my days, I shall keep your memory, Penance, and try to live a better life. Many have I killed, my sins are Legion. But I will start there, and that bell will toll every... single... day..."
-
-The last words fell off his lips like a weary prayer.
-
-Muninn: "The memory debt is paid, brother."
-
-Huginn: "It is time."
-
-Cynewulf looked up through his tears, and in the deep obsidian eyes of the inquisitors, he finally understood the terrifying symmetry of fate. The old grey shepherd had confessed to abandoning his wolves. This was the tariff. This sword was not a gift of protection. The sword was a leash on the howling hungry past to make mayhem on the present. He was given an instrument to destroy the wolves that the shepherd refused to call his own anymore. They needed a priest with sins that could measure up to the terrifying reality. Only a soul bound to penance could survive the weight of Woden's confession.
-
-Muninn and Huginn both bowed, their heads held low, solemnly.
-
-Muninn and Huginn together: "_Oremus, nam venatio Wodani instat._"
-
-Cynewulf knew this phrase well. "_Let us pray, for The Hunt of Woden draws near._"
-
-The _witan-sleep_ shattered, and his spirit was thrust back into his living body instantly.
-
-The sky above the church's belltower sang with fresh horror. There drew a freezing roar of wind and black rain — not a storm of nature, but a concussive shockwave of ancient rot, the clattering rattle of dry bones, and the deafening, suffocating flap of a thousand invisible wings. The air turned heavy as lead. Words leapt from the blade, surging like liquid iron up through his sword-arm, jolting his neck forward until his jaw nearly cracked. The ancient, jagged language of the _Old Hate_ — words not of his own making—erupted from his throat like an unholy volcano.
-
-The spell of the Wodbora was cast. "_ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ_".
-
-Rognvaldr swung, but his weapon froze. The lethal iron was pinned immovably by a concussive shockwave of freezing air and ancient rot — the _Wodhere had arrived_.
-
-From above the belltower of the church, a hooded white figure on an eight-legged spectral horse pointed a spear, and a flood of Hate unrolled into the yard.
-
-It was a squall so vicious, it was stitched from uncountable pieces of broken souls, tearing mouths, raven wings, and predatory talons. It was a singular, vile host, not individuals, that burst forth in a hungry, swallowing torrent.
-
-It first hit the bells themselves, ringing eerily into the night to announce the coming doom.
-
-Rognvaldr's sword could not fight against it. Pinned in mid-air, the giant's eyes filled with white, reflecting the spectral monstrosity screaming toward him.
-
-The _Hate_ swept over him like a breaking wave. The giant rolled in the ethereal current, careening head-over-toe five times across the cobblestones as the host of talons and mouths slashed, chewed, and screamed. Bones broke. His mind split from the sheer, unyielding chaos. He tried to let out a final war-howl, but he heard no sound other than a thousand hungry voices ripping into his thoughts. Every limb was eaten; every morsel devoured. He was... unmade.
-
-Cynewulf did not feel the _Hate_. It parted over his head, leaving his flesh completely untouched. His mind, however, recoiled from the sheer madness of what he had unleashed. He crossed himself with a trembling hand and prayed—the kind of desperate prayer a man makes when he thinks he has just released an unforgivable sin into the world.
-
-Huginn and Muninn had appeared, flying above him, calling to him below.
-
-Huginn: "The sheath!"
-
-Cynewulf snapped to the present, and sheathed the sword. The wind and scream, the mouths and wings, the talons of ripping Hate dissipated into a cloud of shadow and nothingness. The figure in the sky was gone. The ravens circled him.
-
-Muninn: "Remember this well, priest."
-
-Huginn: "You have in your hands the _Wodbora, the Madness-Bringer, the Prophet of the Wodhere_."
-
-Muninn: "The _Wodhere_ knows the hates of the heart. If you, or any of your companions, stand before the storm, it will _unmake_ the unconfessed. The _unmade_ join their hunt... forever."
-
-Huginn: "Be wise, Cynewulf, and ensure your heart is clean. Hear the confessions of your companions. Every time you speak the words, the bell tolls anew for a confession, and a new penance. It will be heard by your God. We will guide your thought and your memory, but we serve Truth, not you, and not Christ."
-
-Muninn: "Time will not be on your side to find the confession, and the penance. One hundred beats of the heart. No more."
-
-Cynewulf realized the gravity of the blade. How could he speak those words in good faith? How could he ensure that any in the presence of this horrible nightmare would be spared? Could he even offer such a terrible confession again?
-
-Cynewulf: "I shall remember my Penance. I shall not call on the _Wodhere_... I do not want to know that kind of _Hate_... ever... again."
-
-Muninn: "You're wise. But you remember still the clawing hands of the Road. This weapon isn't safe anywhere. It will exist, in your care, until the last ride."
-
-Huginn: "Others will see it Cynewulf, and try to take it for themselves. They will bring the _Wodhere_, and it will consume them and all the souls around them. You must protect the flock from the wolves ... and from themselves."
-
-With that, the Ravens of Woden flew away.
-
-Cynewulf dared not look at the space where the giant had stood, but something told him that he must. He needed the memory to sear into his mind.
-
-The storm had left nothing behind but an empty horror. There was not even a spray of blood nor a strand of hair. His broken weapon, and his emptied armor lay there — but the giant himself was utterly _absent_.
-
-Cynewulf fell to his knees and retched.
-
-He knew that to unleash such a horrible cleansing was a grave curse. He was now its guardian. And if he had need of it again, the toll would be extreme.
-
-The frantic ringing of the bells had awakened the townspeople. Down the hill, torches began to flicker in the dark windows of the town. Doors creaked open, and the terrified townspeople of Leicester, clutching iron pitchforks and wooden clubs, began to trickle out into the mudded slush, drawn toward the holy ground by the midnight alarm.
-
-Cynewulf heard them coming.
-
-His first instinct was to run. How could he face his former flock? But every journey begins with a step. His soul was tired of running, but his legs found the next step easier than before.
-
-He stayed.
-
-First came the church-wardens and clergy, fully-clothed with candles in hand, from the priest-homes. They were followers of the _Rule of Saint Benedict_, to sleep fully clothed.
-
-Then clusters of townsolk mustered onto the road to the church, demanding to know why the bells rang at night. A stout blacksmith and two town-guards came running, their torches casting a harsh, dancing orange light across the stone steps.
-
-Many Danes were awakened as well, rushing to the Church. They had no more answers than anyone else.
-
-All of them stopped dead in their tracks. Their eyes darted from Cynewulf to the massive, hollowed patchwork armor of the giant lying flat in the mud. There arose a cloud of whispers.
-
-It was clear to Cynewulf... there was only one witness to the event.
-
-Then, the blacksmith raised his torch, the light falling directly across Cynewulf’s weathered, scarred face. The old man gasped, his grip loosening on his iron club. He didn't see a calloused highwayman or a brutal mercenary of the rearguard. He looked into the priest's eyes and stepped forward, his voice trembling with a sudden, reverent awe.
-
-"Father... Father Cynewulf?" the blacksmith whispered. "By the saints, it is you. You've come back to us. You stood against the wolves." An elderly woman from the parish dropped to her knees in the slush, crossing herself as she looked up at him. "Father Cynewulf... you’re alive. You saved the holy house." It was hard for him to remember a time when he saved anything.
-
-They knew his name. They remembered his face. The Road had stolen his innocence. The Sword his belonging. The Wound his humanity. But now, he knew, he must be the Shield... for all.
-
-He didn't speak of the _Wodhere_. He didn't tell them about the black, humming langseax hidden beneath his tattered cloak. He merely gave the villagers a slow, somber nod of a priest returning from a long exile.
-
-The crowd was interrupted by a caller from further down the road.
-
-"Back to your houses! Back to your houses!" It was Murdock, his tunic stained with the blood of wolves.
-
-"There are wolf-men on the loose, and unless you want them to find you next, you might want to go back to bed."
-
-His eyes settled on Cynewulf, and his new shield and langseax.
-
-"Well where did we find that? Last I saw, your blade snapped like kindling."
-
-One of the young deacons had been hovering over Rognvaldr's heap of clothing, sword, and shield. "Never mind that! Take a look at what he did!"
-
-Murdock strolled over, and took the sight in. "By the blood of the saints..." He looked back at Cynewulf. "... what did you do? Scared him clean out of his kit, you did!"
-
-The old Italian Benedictine priest, Father Matteo, carefully stepped around the armor. He then stared into the dark corners of the yard.
-
-Father Matteo had not been born to England. As a youth he had been given as an oblate to the great Benedictine monastery of Monte Cassino, where Saint Benedict himself had once walked its cloisters. Before the young monk's vows were complete, Saracen raiders scattered the brethren to the winds. Matteo escaped with little more than the Rule he had spent his youth learning and the conviction that a monastery was more than stone walls. Obedience, prayer, labor, and brotherhood could be carried wherever God—or necessity—led them.
-
-He crossed the Alps with other displaced brothers and eventually found his way to England, where bishops and abbots sent him wherever another pair of faithful hands was needed. He learned his English among the monasteries and minsters of Wessex before being passed from one parish to the next like a well-worn psalter. In the autumn of 933, after the village priest Cynewulf disappeared without explanation, Matteo was sent north to Leicester expecting to remain only until another priest could be found. The replacement never came. Somewhere between burying the old, baptizing the young, blessing the harvest, and reconciling neighbors before Blackjoy, the foreign monk ceased to be a guest. Leicester had quietly become his home.
-
-Over the past ten years, Matteo put his Benedictine love of labor and service to use. He built the yardworks to efficiently recycle the Roman brick and stone. Under his direction, the broken shells of imperial bathhouses and roofless forums were stripped of their ancient chokehold on the quarter. The intent was always to build up the southern wall once more, but the Bishop always had another use for the stone. The liturgy of labor was a salve for the loss of the raid, and the Church's authority in Leicester grew as a result.
-
-Father Matteo: "My son... I am grateful the church still stands." He peered into the empty mess of armor. "...But I must ask the practical question."
-
-Cynewulf: "Father?"
-
-Father Matteo: "Where did the naked giant go?"
-
-Every eye fixed on Cynewulf.
-
-"He was consumed by hatred, father. He is gone."
-
-Father Matteo slowly crossed himself. Every member of the flock followed suit.
-
-"Perhaps..." Father Matteo seemed momentarily lost in thought, "I must speak to the Bishop about this."
-
-He fell silent again.
-
-Then the practical world returned.
-
-"I mean... one doesn't simply declare a miracle every time a naked giant goes missing... I should think?"
-
-Murdock was ever vigilant to the present.
-
-"Cynewulf. The wagon train—or what's left of it—stands unguarded. The melee scattered us to the four winds. We'd best reclaim what's ours before a Dane patrol lays claim to it... or pry it loose from the last of the wolf-men."
-
-A churchwarden standing on the porch looked down at the chest on the top step. "Cynewulf! Is this yours?"
-
-Cynewulf had forgotten the chest. He turned to Father Matteo. "I entrust it to your care, until I return for it."
-
-Cynewulf and Murdock made their way back to the ruined wagon train.
-
-The oxen were gone. Frightened by the pelting rocks and the battle, they had broken their traces and fled into the night. Without them, even a repaired axle would leave the wagons stranded in the mud.
-
-They found Tor and One-Eye picking through the wreckage and the bodies of the wolf-men. Sacks already hung from their shoulders as they gathered what little remained worth saving before abandoning the train for good.
-
-Half of the Cynewulf's warband fell that night.
-
-The Saxon brothers were dead.
-
-One of the eastern Vikings—the one whose silver always bore strange foreign stamps—knelt beside his fallen companion. He folded the dead man's fingers around the haft of his axe and tightened them one last time. Only then did he close his friend's eyes.
-
-He stood and nodded at Cynewulf.
-
-All of the fyrdmen lay dead.
-
-Elswyth, Osric, and the other thralls could not be found.
-
-Tor: "Cynewulf. Good to see you still breathing. That giant had me worried."
-
-Murdock barked a laugh.
-
-Tor: "...What?"
-
-Cynewulf closed his eyes.
-
-"Tor... don't ask."
-
-One-Eye looked up from his bag. "Look, the patrols are going to find us. Anyone know where we should go with all this?"
-
-Cynewulf and Murdock looked at each other. Cynewulf replied, "Let's get this back to the Church. I expect they will give us sanctuary."
-
-Quickly they gathered the valuables and retreated to the church.
-
-Father Matteo had barely finished offering last rites to those who had succumbed to their wounds. He was now teaching a few of the flock new loricas against the unlikely prospect of a naked Viking giant paying them a visit in the night.
-
-A handful of parishioners still lingered. A new debate had already begun.
-
-Old Judith, her knitting needles in hand, stamped her foot. "But how do we know it wasn't the _Coaler-Wight_? It is said to pull souls into the very ground."
-
-Father Matteo: "I assure you, there is no..."
-
-Godric the Sharpener picked up where Judith left off. "The _Coaler-Wight_ stole my wood."
-
-Beorn the Buttermaker continued. "And it stole the butter from my barrels... _in the light of day_ I might add."
-
-Father Matteo: "Those are... entirely different matters."
-
-Old Judith: "You try telling that to my knitting circle."
-
-She folded her arms.
-
-"I haven't seen them for two weeks!"
-
-Father Matteo: "These are all matters I will take up with the Bishop. I will travel myself to seek guidance about these... escalations... we have seen these past few years. Now, go back to your beds... please. I still have burials, and reconstruction, and..."
-
-The list of Matteo's concerns grew longer as the night wore on.
-
-Muttering among themselves, the remaining villagers drifted back toward _Under-Geat_, unsatisfied, each quietly convinced the others were underestimating the _Coaler-Wight_.
-
-Cynewulf secured sanctuary with Father Matteo, and the group was taken inside to sleep in the nave of the church. It wasn't comfortable, but it served its purpose well.
-
-The next morning, Father Matteo wakened Cynewulf and bid him to follow. They arrived in the rectory, where the chest sat closed. They were otherwise alone.
-
-"I've seen what's inside, Cynewulf. I do not know what hands brought this chest, my son. It would seem they've laid out quite the vocation."
-
-Father Matteo rested a hand upon the chest.
-
-"Saint Benedict teaches us to treat even the tools of the monastery as though they were vessels of the altar."
-
-He smiled faintly.
-
-"I see no reason a priest should treat these gifts with less reverence, if they are to be worn for the protection of the innocent."
-
-He opened the chest.
-
-Cynewulf studied the contents.
-
-Inside the chest, a warrior's habit lay before him with quiet dignity. Folded atop a supple under-tunic rested a finely wrought oil-blackened iron byrnie, beneath which lay a stout arming shirt and neatly wrapped bands of linen for his arms and legs. A heavy leather sword belt rested atop a neatly folded pair of linen trousers. A heavy waxed wool cloak, clasped with a silver-lined brooch, completed the attire.
-
-Beside the garments waited a pair of sturdy iron-shod boots and a spectacled felt-lined spangenhelm, its brow sturdy and nose-piece reinforced. Nestled inside was a simple quilted linen cap. There was also a wooden case with felt lining. Inside was an iron neck-chain holding a silver Christian cross no bigger than a man's ear. There was a calling horn fashioned from the horn of a great ox, its mouth and tip bound in bright silver. A stout leather strap allowed it to be slung across the shoulder.
-
-Lastly, tucked into the corner of the chest lay a polished bone scroll case, its leather thong darkened with age. Within rested carefully inked vellum maps entitled **_Omnes Viae_**— meaning _All Roads_—their winding lines tracing the great roads, towns, monasteries, castles, and notable villages of England and Alba, as though every traveler for centuries had added one more remembered mile.
-
-Father Matteo turned to Cynewulf. "I will not tell the villagers of this. The Lord may work in mysterious ways, but this seems... more mysterious... than most."
-
-He smiled.
-
-"I also have no intention of explaining to the bishop why a complete suit of armor appeared on my doorstep overnight. For now, between us, I cannot say whether Providence has spoken, but how could I deny these gifts to a protector of God's children?"
-
-His smile faded.
-
-"If that is indeed who you are... Take them quietly with the Church's blessing."
-
-
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Ten: Getting A Handle On Things
+## Chapter Twelve: Getting A Handle On Things
 
 Osric fumbled in the dark, but managed to find a narrow set of stairs tucked into the corner of the forge. The room above had light streaming in through holes in the ceiling, and it was just a matter of time before he found an opening in a wall big enough to fit through. That's when he saw her.
 
@@ -1144,11 +897,11 @@ Huginn: "The church above them eventually became St. Nicholas Church."
 
 Muninn: "Still no."
 
-Huginn: "The very same St. Nicholas. I know. I checked."
+Huginn: "The very same St. Nicholas as Santa Claus."
 
 Muninn: "...Yes."
 
-Huginn: "Woden and Freyr got together and dreamt up some toys to give. The little forge-elves made the presents."
+Huginn: "Odin and Freyr got together and dreamt up some toys to give. The little forge-elves made the presents."
 
 Muninn: "Weapons."
 
@@ -1162,43 +915,7 @@ Muninn: "Items of interest."
 
 Huginn: "_Anonymous wrapped_ items of interest."
 
-Muninn: "...Continue."
-
-Huginn: "Some might call these items _toys_."
-
-Muninn: "No."
-
-Huginn: "Face it. The myth Americans started about Christmas Elves started right here."
-
-Muninn: "And which American was standing right here when it all unfolded?"
-
-Huginn: "... Steve, help me out here."
-
-Steve: "..."
-
-Muninn: "Don't bring him into this."
-
-Huginn: "He's American."
-
-Muninn: "He's an eyeball."
-
-Huginn: "An American eyeball."
-
-Steve _blinked once._ Up until then, nobody knew that Steve could blink.
-
-Muninn: "And your argument is that _Steve_ started the rumor? In the 1800s?"
-
-Huginn: "I don't know. Steve, did you?"
-
-Steve _waved his eye side to side_.
-
-Huginn: "He's not sure."
-
-Muninn: "He said no."
-
-Huginn: "I'm still... gathering evidence."
-
-There was a long pause.
+Muninn: "That doesn't make you right."
 
 Huginn: "I think I'll get the Boss an elf hat for Christmas. He likes red."
 
@@ -1294,7 +1011,7 @@ Elswyth nudged Osric with her elbow.
 
 "How far is it... to your farm?"
 
-"Five days on foot. Four if everyone has horses."
+"Two weeks on foot, and the fyrd left yesterday. Six days comfortably, if everyone has horses."
 
 Since arriving in Leicester with her parents as a young girl, Elswyth had been no farther than the Charnwood Forest and Leicester. As someone who had spent years pretending to be a ghost, one could almost say she had never truly belonged to either.
 
@@ -1382,29 +1099,73 @@ Someday, others would tell his.
 
 He wanted to be worthy of it.
 
-High above the fading smoke of Leicester, where the rain clouds have given way to the smiling sun, Woden and Freyr observed humanity once more.
 
-Woden tugged at his shepherd's robe with one hand, the other held _Gungnir_ tightly.
+[↑ Back to Table of Contents](#table-of-contents)
+
+## Chapter Thirteen: Stories of the Road
+
+[TODO: Tor and Ketill sell the Viking equipment to the smiths and the linen-makers. ]
+
+[TODO: Cynewulf tells Tor not to buy grain for the journey. Tor is confused, but accepts it. Proposes that they buy two oxen to pick up a wagon. Osric tells them it'll slow them down and worries about axles. Murdock complains that you'll be feeding the oxen good grain.]
+
+[TODO: Osric tells the party they can't let Galindo seem them on the road. He rides the Southern horse, from Iberia, known to be the fastest in horse to eat Northumbrian oats]
+
+[TODO: Elswyth proposes Long-Mile bring two oxen and sell the cart to the church through him. That should get everyone a horse.]
+
+[TODO: They walk a while]
+
+[TODO: They stop for camp on night #1, and break out the ale. Murdock recounts Cynewulf's naked giant story. Osric recounts the tale of the fyrd taking him a thrall. And Elswyth recounts the tale of the redcap as a ghost story, and finishes it with the Coaler-Wight showed up to drag him into the ground]
+
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+## Chapter Fourteen: The Return
+
+
+
+[TODO: Party arrives before Galindo]
+
+[TODO: Osric walks up to his family. The nisse had covered up the snow barrow, but the melt is happening quickly.]
+
+[TODO: He chooses a space for the burial. He tests the ground and it is soft enough.]
+
+[TODO: They bury the family. There is a long somber silent prayer.]
+
+[TODO: Osric steps inside the home. He finds his old seax by the hearth. The nisse had overlooked it. The sheath was there, with the pattern is son Beorn had drawn... two snakes with a bramble. Beorn called the blade "Brēr-bita" (Briar-Bite). He favored it for his whittling. The scratch was present.]
+
+[TODO: Osric knew the value of the scratch, but wanted to add yet another thing. Osric asks Tor for a knife. He cuts a rune into the handle flat where an antler prong was. It was the ancestry rune, the same rune that Ealhild painted on the threshold.]
+
+[TODO: On the hill, a gathering of the hearthguard has arrived to survey the remains of Osric's home.]
+
+
+
+[↑ Back to Table of Contents](#table-of-contents)
+
+## Chapter Fifteen: Heroes, or People?
+
+High above the fading smoke of Leicester, where the rain clouds have given way to the smiling sun, Odin and Freyr observed humanity once more.
+
+Odin tugged at his shepherd's robe with one hand, the other held _Gungnir_ tightly.
 
 "The battles went as I expected. Your elves were adequate to the task."
 
 Freyr smiled.
 
-Woden continued, "Osric was indeed resurrected, and walks still. _Christ_ allowed his soul to return without claiming it. But the blade... he wears it yet."
+Odin continued, "Osric was indeed resurrected, and walks still. _Christ_ allowed his soul to return without claiming it. But the blade... he wears it yet."
 
-Freyr watched Osric as he told Tor exactly where to find the chests in the bathhouse ruin.
+Freyr watched Osric as he placed the headstone over the grave.
 
 "That is not a sign of acceptance. Perhaps he is inquisitive."
 
-Woden looked at Elswyth, who now was testing the edge of her new felling axe against the timber.
+Odin looked at Elswyth, who stood beside Osric in mourning of a family she never knew.
 
 "Elswyth seems eager to keep her blade, despite what it cost her."
 
-Freyr pointed to the felling axe in her hands.
+Freyr pointed to the felling axe slung over her shoulder.
 
-"But she is refusing to be defined by it. She tests the axe and not _Monanleoht_."
+"But she is refusing to be defined by it. She kept the felling axe, and she sharpened it to a cutting edge."
 
-Woden then looked at Cynewulf, who was having a discussion with Ketill about his travels.
+Odin then looked at Cynewulf, who was having a discussion with Ketill about the different burial traditions he had seen through his travels. Cynewulf was telling Ketill of a burial he had witnessed beyond the Humber, then asking how it compared to what the Rus had seen in his travels.
 
 "Cynewulf doesn't seem any different, and he wears _Wodbora_ hidden. He is concerned that others might see it."
 
@@ -1412,27 +1173,25 @@ Freyr pointed to Ketill.
 
 "And yet Cynewulf now discusses his travels more freely than before. A weight has been lifted, I think. Perhaps the confession lightened his burden?"
 
-Woden waved his hand at all three.
+Odin waved his hand at all three.
 
-"It will take time to learn their choices going forward. Once the novelty of these _gifts_ have worn off, I will learn how they _truly_ perceive them. There will be more tests. Osric's will be most immediate, for his family still await him in the snow."
+"It will take time to learn their choices going forward. Once the novelty of these _gifts_ have worn off, I will learn how they _truly_ perceive them. There will be more tests."
+
+The group turned to leave. Osric, tears in his eyes, said a final goodbye. One-Eye said something that brought a half-smile to Osric's face, then gave him a hug. The others gathered for a turn for his embrace.
 
 Freyr smiled.
 
 "I think your experiment is already answering a different question."
 
-Woden raised an eyebrow, his jaw clenched.
+Odin raised an eyebrow, his jaw clenched. "What have you seen that I have not?"
 
-"What have you seen that I have not?"
+Freyr smiled as he looked at the group giving comfort to Osric's grief. "Have you not learned already, my friend?"
 
-"Have you not learned already, my friend?"
+Odin gritted his teeth. "I suppose _not_."
 
-Woden gritted his teeth.
+"For mortals, there _is no tapestry they can see_. Look at them. They carry on with life because life demands that of them. Despite the odds. Despite what has happened. They have hope."
 
-"I suppose _not_."
-
-"For mortals, there _is no tapestry to see_. Look at them. They carry on with life because life demands that of them. Despite the odds. Despite what has happened. They have hope."
-
-Woden sneered. "Hope is merely a lack of knowledge."
+Odin sneered. "Hope is merely a lack of knowledge."
 
 Freyr retorted. "Hope is the planting of seed in spring. Faith is the belief that the harvest will prove worthy of the planting. Mortals use both, because they've learned what you have not: it's impossible to know everything."
 
@@ -1440,31 +1199,31 @@ Freyr retorted. "Hope is the planting of seed in spring. Faith is the belief tha
 
 "And how long have you been chasing that boar? Are you truly closer to understanding the convergences now than when you started centuries ago? It seems you're further away than ever before."
 
-Freyr squared his shoulders and looked Woden straight in the eye.
+Freyr squared his shoulders and looked Odin straight in the eye.
 
-"All that you are concerned about... all the fear... all the uncertainty... all the doubt... is what a mortal carries with them... every... single... day."
+"You mean to judge these mortals through the trials of the heroes of old. To see if they feel the call of destiny. But these mortals are _not_ the heroes of old.
 
-Woden cast his eye on the mortals, but did not answer.
+"All that you are concerned about... all the fear... all the uncertainty... all the doubt... is what these mortals carry with them... every... single... day."
 
-Freyr leaned in, and put his hand on Woden's shoulder.
+Odin cast his eye on the mortals, but did not answer.
 
-"In the end, do mortals face uncertainty with more nobility than you?"
+Freyr leaned in, and put his hand on Odin's shoulder.
 
-Woden hissed and pulled away.
+"In the end, do these mortals face uncertainty with more nobility than you?"
 
-"These are children who _wish_ they had a _tiny sliver_ of the sight I have!"
+Odin hissed and pulled away. "These are children who _wish_ they had a _tiny sliver_ of the sight I have!"
 
-"No. They are people who have spent their entire lives choosing without it."
+Freyr followed him. "No. They are _people_ who have spent their entire lives choosing without it. They are not _Sigurd_ or _Beowulf_."
 
 Freyr pointed.
 
-"You have spent an eternity searching for certainty. They spend their entire lives learning to live without it. In the end, which one is right?"
+"You have spent an eternity searching for certainty. They spend their entire lives learning to live without it. In the end, who is more noble?"
 
 Freyr smiled.
 
-"I see mortals in every season, wearing every emotion. I see laughter in winter. I see tears in spring. But you... I see only duty. Only the obsession. Tell me, if there is no Ragnarök after all, how would you want to spend your days?"
+"I see mortals in every season, wearing every emotion. I see laughter in winter. I see tears in spring. But you... I see only duty. Only the obsession. Tell me, if there is no Ragnarök after all, how would you _want_ to spend your days?"
 
-Woden spent the long day pondering that question. He had no answer.
+Odin spent the long day pondering that question. He had no answer.
 
 
 [↑ Back to Table of Contents](#table-of-contents)
@@ -1539,11 +1298,11 @@ The voice startled the children. It came from an adjacent bench where a very old
 
 "Yeah, I don't think they even like each other," another added.
 
-"I think they were telling a story. Did you stop to listen?" Woden asked.
+"I think they were telling a story. Did you stop to listen?" Odin asked.
 
 "Ha! We can't understand them! It's just noise!" a girl laughed, stepping out of the dirt and brushing off her knees.
 
-"Really? Do you think ravens have nothing to say? Seems to me they had quite a lot to say," Woden replied, his tone calm and unshakeable.
+"Really? Do you think ravens have nothing to say? Seems to me they had quite a lot to say," Odin replied, his tone calm and unshakeable.
 
 A sharp blast from a minivan's horn burst through the air, cutting the conversation in half. "C'mon kids, it's time to go!" a mother yelled from across the lot.
 
@@ -1553,11 +1312,11 @@ A sharp blast from a minivan's horn burst through the air, cutting the conversat
 
 The children retreated in a scattered pack, save for one. He had claimed a fallen stick from a nearby tree, idly swinging it at the high weeds at the park's edge.
 
-"And you? What did you think?" Woden asked the boy. The boy stepped closer, his voice quiet and intensely serious. "The black birds stopped before the end. They told me about the forge and the fire, but they didn't say what happened after. What happened to the charcoal girl? And the man who was hungry? And the priest who stopped being a priest?"
+"And you? What did you think?" Odin asked the boy. The boy stepped closer, his voice quiet and intensely serious. "The black birds stopped before the end. They told me about the forge and the fire, but they didn't say what happened after. What happened to the charcoal girl? And the man who was hungry? And the priest who stopped being a priest?"
 
-Woden looked at the boy, truly seeing him — a rare spark of the old world surviving in a jacket and sneakers. The ravens had deftly moved to a branch above them. They were silent, and they were yielding the floor.
+Odin looked at the boy, truly seeing him — a rare spark of the old world surviving in a jacket and sneakers. The ravens had deftly moved to a branch above them. They were silent, and they were yielding the floor.
 
-“The birds are gossips, lad. They delight in the noise of the struggle and in the telling of it,” Woden said.
+“The birds are gossips, lad. They delight in the noise of the struggle and in the telling of it,” Odin said.
 
 “But you are right. They stopped not because they had reached the end of the tale, but because they had reached the beginning of the epic. Find the ravens again, and perhaps they will tell you the rest.”
 
@@ -1571,7 +1330,7 @@ The trio continued down the road. The sun had dipped near the horizon of the mor
 
 "The table of contents said that the AFTERLIFE is this way... past the Afterword," said Huginn, somewhat annoyed. "Oh wow, that looks like a long road. The Author sure didn't skimp on details..."
 
-With a quiet step across the threshold of the margins, Woden and the ravens started their commute to the Afterlife. The final remnants of a conversation trailed through the park as they left.
+With a quiet step across the threshold of the margins, Odin and the ravens started their commute to the Afterlife. The final remnants of a conversation trailed through the park as they left.
 
 Huginn: “Okay, now explain this again. Couldn’t missionaries have used Freyr when talking to the Danes about conversion? Freyr was basically Viking Jesus.”
 
@@ -1664,20 +1423,20 @@ Monanleoht: "What if prowess in battle cost you your sanity, and using it meant 
 
 Barrow's Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a broken farmer, also in the middle of a Brothers Grimm-styled folk horror story, going into battle.
 
-As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Woden and Freyr. Woden has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
+As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Odin and Freyr. Odin has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
 
-Looking at the crossroads of the Danelaw at the time, I envisioned Woden having an existential crisis. He is losing followers. Both families of Scandinavian gods are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Woden to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all. At some point, Woden would want answers. How do you test fate? How do you test how humans perceive fate? Ultimately, with Freyr's help, what we find is that Woden isn't testing mortals as much as he's testing himself.
+Looking at the crossroads of the Danelaw at the time, I envisioned Odin having an existential crisis. He is losing followers. Both families of Scandinavian gods are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Odin to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all. At some point, Odin would want answers. How do you test fate? How do you test how humans perceive fate? Ultimately, with Freyr's help, what we find is that Odin isn't testing mortals as much as he's testing himself.
 
 This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 unholy vortex-summoner of doom called _Wodbora_. Everything else followed from that.
 
 ---
 ### Who Are The Cynn, Really?
 
-These are the forge elves who carry on the tradition of magical blade-making. They're not literally descendants of Weyland, Völundr, Vulcan, or any other divine smith. In reality, of course, they are just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun, usually while giggling like children when things actually work out okay. Huginn makes up stories about the things we make and dream up, then tells them to imaginary children.
+These are the forge elves who carry on the tradition of magical making. They're not literally descendants of Weyland, Völundr, Vulcan, or any other divine smith. In reality, of course, they are just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun, usually while giggling like children when things actually work out okay. Huginn makes up stories about the things we make and dream up, then tells them to imaginary children.
 
-The Cynn, at their heart, belong to maker culture. They respect the craftsmanship of a thing: the steel, the welds, the carving, the polish, the hours of handwork. But where maker culture often ends with the finished object, the Cynn keep asking questions. What stories grow around it? What consequences follow from it? What does the thing ask of the person who carries it?
+The Cynn, at their heart, belong to maker culture. They respect the craftsmanship of a thing: the steel, the welds, the carving, the leather, the polish, the hours of handwork. But where maker culture often ends with the finished object, the Cynn keep asking questions. What stories grow around it? What consequences follow from it? What does the thing ask of the person who carries it?
 
-That is what the Cynn really are: craft joined to mythmaking, and having fun doing it.
+That is what the Cynn really are: craft joined to merry mythmaking.
 
 ---
 
@@ -1739,106 +1498,40 @@ Elswyth represents a different form of life between worlds. She grows up close e
 The purpose of this story is not to suggest that paganism and Christianity were secretly identical, nor that historical people casually mixed beliefs without conflict. Tensions existed, and they could be profound. Yet the Danelaw was a place where old and new ideas overlapped, competed, influenced one another, and sometimes produced forms neither tradition would have fully recognized. Osric and Ealhild reveal this process at the level of field and hearth. Elswyth reveals it at the level of culture and memory. Cynewulf reveals it at the level of doctrine and conscience. Together they illustrate a world that was neither wholly pagan nor wholly Christian, but something more complicated: a society learning to live between worlds.
 
 ---
-#### Who Is Woden?
-
-(And then I'll do you one better: "WHY IS WODEN?!?!")
-
-Readers familiar with Norse mythology may wonder why this novel consistently uses the name _Woden_ rather than the more familiar _Odin_. The simplest answer is historical. The split between Woden and Odin is not a mythic schism, but a linguistic one. They are two branches of the same Proto-Germanic root, **_Wōdanaz_**. The Norse _Óðinn_ evolved in the North, shaped by the Viking Age’s obsession with the warrior-cult and the gallows-god. The English _Wōden_ was frozen in time, carried across the sea by the Anglo-Saxon migrations and preserved as an ancestral figurehead for royal lineages. Woden's worship was still entwined with wolves, ravens, and all the trappings of Odin, but it felt a bit more distant to the everyday Saxon.
-
-When I use the name _Woden_, I am not choosing a different god; I am choosing the version of the god that walked the English hedgerows, the one who was a king of ancestors rather than a king of the slain. The language, place names, royal genealogies, and surviving literature of the period all point toward that form. Yet historical accuracy alone does not fully explain the choice. The deeper reason is that Woden's story mirrors the one of the central concerns of this novel.
-
-Modern audiences are remarkably familiar with Odin. He appears in films, television, novels, games, heavy metal albums, and modern religious movements. Even people with little knowledge of Norse mythology often recognize the one-eyed wanderer, accompanied by ravens and wolves. Odin survived the modern age. He remains a living cultural figure. Woden, by contrast, occupies a more uncertain position. He survives in fragments. Wednesday still bears his name. Ancient genealogies still remember him. Folklore echoes still linger. Odin feels present. Woden feels recovered.
-
-This distinction fascinated me because _The Cynn_ is partially a story about what survives when a world changes. The novel takes place during a period when England was neither wholly pagan nor wholly Christian. Older traditions persisted alongside newer ones. Customs overlapped. Stories were reinterpreted. Gods were not always forgotten outright. More often, they were transformed. Woden occupies a particularly interesting place within that transformation because he was both diminished and preserved at the same time.
-
-One of the most striking examples comes from the royal genealogies of Anglo-Saxon England. Several royal houses traced their ancestry to Woden, including the line that eventually produced King Alfred the Great. Alfred was one of the most influential Christian rulers in English history, yet the genealogies preserved by Christian scribes still connected him to the old god. This apparent contradiction reveals something important about the period. Woden's religious authority may have been fading, but his cultural authority remained useful. He ceased to function primarily as a god of worship and increasingly became an ancestor, a source of legitimacy, a figure woven into the story of England itself. In a sense, Woden survived by changing jobs.
-
-At the same time, later folklore increasingly assigned Woden another role: leader of spectral riders, wandering dead, and supernatural processions that would eventually contribute to traditions associated with the Wild Hunt. Whether viewed as folklore, theology, or cultural adaptation, the pattern is striking. The god who once occupied the center of a religious system gradually became associated with the margins. He survived, but in a narrower and more uncertain capacity. For the purposes of this novel, that uncertainty was far more interesting than divine certainty. Woden became a figure already negotiating the terms of his own survival.
-
-This process of transformation mirrors the broader themes explored throughout the story. Osric, Ealhild, Elswyth, and Cynewulf all inhabit worlds shaped by overlapping identities. None of them can simply remain what they once were. Each must decide what to preserve and what to relinquish. The same question confronts Woden himself. If the old world is ending, what should survive? If traditions change, what remains worth carrying forward? 
-
-However, what makes Woden truly fascinating in this timeframe is that he is at an existential crossroads, more-so than his Scandinavian identity Odin. That is another reason for choosing him as a character. He no longer trusts wyrd. That would be terrifying, to a god that spent his entire existence trying to earn every scrap of knowledge he could to fight at Ragnarök. He cut out his eye, hung himself on a tree, built a dining hall at the end of existence, and spent eons building a stable of heroes for a final battle, only to realize that Ragnarök may never actually happen in the first place—was it all a waste? By humanizing Woden, these cease to be merely theological questions. They become the same questions any human would ask when they look back at a life of harsh sacrifice and wonder if it mattered.
-
-By contrast, Odin often arrives in modern culture already reconstructed. He has been rediscovered, reimagined, and reintroduced to contemporary audiences. Woden interested me because he stands closer to the moment of transformation itself. He is not a forgotten god, nor a fully remembered one. He exists at the boundary between the two. That boundary is where _The Cynn_ spends most of its time.
-
-In the Epilogue, Woden offers a simple lesson: do not throw things away; reforge them into something new. By that point, however, the lesson belongs as much to Freyr as it does to Woden. Freyr understands from the beginning that survival often requires transformation. Seeds become crops. Crops become seed. Growth itself depends upon change. Woden begins the story more concerned with memory, continuity, and the preservation of what might otherwise be lost. Yet over the course of the debate, he comes to recognize that preservation and transformation are not opposites. In many cases, they are the same act viewed from different directions.
-
-This novel is not an attempt to preserve Woden unchanged, like an artifact sealed behind museum glass. Modern audiences already possess a remarkably complete image of Odin, shaped by centuries of retellings, scholarship, fiction, and popular culture. Woden, by contrast, survives in fragments, echoes, and possibilities. That makes him available for interpretation. It creates space to ask how such a figure might respond to the world changing around him. In this story, I chose to imagine a Woden who eventually comes to agree with Freyr on one important point: things do not survive because they remain unchanged. They survive because each generation discovers what remains valuable within them and carries it forward in a new form. This novel is simply one small attempt to participate in that process.
-
----
 
 #### Wyrd (And Why It's So Weird)
 
 Modern readers often encounter _wyrd_ translated simply as **fate**. While convenient, that translation is misleading. Fate usually suggests a future that has already been written, where every event is predetermined and every choice merely creates the illusion of freedom. That is not how I came to understand _wyrd_ while researching this novel.
 
-Instead, I found it more helpful to think of _wyrd_ as **the tendency of the world to unfold in certain ways**. Every choice matters. Every promise, betrayal, friendship, and sacrifice sends ripples through the lives of others. Those ripples interact until they eventually produce moments where many lives naturally converge. _Wyrd_ is less a script than a pattern of consequences stretching through time.
-
-The image that finally made _wyrd_ click for me was not a river, but **gravity**.
+Instead, I found it more helpful to think of _wyrd_ as **the tendency of the world to unfold in certain ways**. The image that finally made _wyrd_ click for me was to think of it like **gravity**.
 
 Imagine two people whose lives are destined to intersect. They are free to make countless decisions along the way. They may travel different roads, marry different people, or spend decades apart. Their choices remain real. Yet if their meeting truly belongs to _wyrd_, the world seems to possess a subtle tendency to draw their paths together. They might miss one another today, only to meet years later under entirely different circumstances. The convergence remains; the path toward it is flexible.
 
-This is how I imagine _wyrd_ operating in _The Cynn_. It does not remove free will. Instead, it gently constrains the range of possible futures. Early in life, those possibilities are almost limitless. As time passes and choices accumulate, the number of remaining paths naturally narrows. By the end of life, only a handful of futures remain possible. Whether this truly preserves free will or merely creates its appearance is exactly the sort of question that fascinated medieval thinkers—and one that the novel intentionally leaves unresolved.
+This is how I imagine _wyrd_ operating in _The Cynn_. It does not remove free will. Instead, it gently constrains the range of possible futures. Early in life, those possibilities are almost limitless. As time passes and choices accumulate, the number of remaining paths naturally narrows. By the end of life, only a handful of futures remain possible. Whether this truly preserves free will or merely creates its appearance is exactly the sort of question that fascinated medieval thinkers. This novel intentionally leaves that unresolved.
 
 This distinction becomes even more interesting when viewed from the perspective of the gods.
 
-Mortals possess a finite horizon. Their lives are measured in decades. If _wyrd_ is drawing them toward a future convergence, the pull gradually becomes stronger as the end of life approaches. They feel urgency because time is short.
+Mortals possess a finite time horizon. Their lives are measured in decades. If _wyrd_ is drawing them toward a future convergence, the pull gradually becomes stronger as the end of life approaches. They feel urgency because time is short.
 
-The gods, however, experience time differently. In the mythology of _The Cynn_, they do not die of old age. Their horizon is measured not by death, but by Ragnarök itself. If that final convergence lies thousands—or even millions—of years away, the pull of _wyrd_ becomes almost imperceptible. A god possesses nearly limitless freedom in the short term, yet knows that every choice may still contribute to an inevitable end.
+The gods, however, experience time differently. In the mythology of _The Cynn_, they do not die of old age. Their horizon is measured not by death, but by Ragnarök itself, an event whose conditions are known but its time in the future is not. All Odin can ever say is that Ragnarök hasn't happened yet.
 
-This is Woden's curse.
+This is Odin's curse.
 
-He has spent ages trying to map these convergences. He cannot control them, but he believes he can see many of them. He prepares for them. Plans around them. Worries over them. Ragnarök is not merely a prophecy to him. It is the ultimate convergence toward which history appears to be moving. If he truly understands _wyrd_, then preparing for Ragnarök is not simply wise—it is his responsibility as the All-Father.
+He has spent ages trying to map these convergences. He cannot control them, but he believes he can see many of them. He prepares for them. Plans around them. Worries over them. Ragnarök is not merely a prophecy to him. It is the ultimate convergence toward which history appears to be moving. If he truly understands _wyrd_, then preparing for Ragnarök is not simply wise... it is his responsibility as the All-Father.
 
 Then something impossible happens.
 
 The convergences begin to disappear.
 
-Not from the world itself, but from Woden's sight.
+Not from the world itself necessarily, but from Odin's sight.
 
 Suddenly, the one certainty upon which he built his understanding of reality no longer seems reliable. He no longer knows whether he is reading the pattern correctly, whether the pattern itself has changed, or whether someone greater than himself is now weaving it.
 
-That uncertainty is what drives the events of _The Cynn_. The three blades are Woden's attempt to determine whether his understanding of the world still corresponds to reality.
+The idea of fate behaving more like gravity within a given time horizon (mortality for mortals, infinity for gods) is what makes _wyrd_ so wonderfully weird to me. I cannot say that _wyrd_ is part of my personal philosophy, but it is an interesting concept to explore, especially in the context of a magic system.
 
-Freyr ultimately teaches him a different lesson.
-
-Woden believes the great question is whether _wyrd_ still governs the world. Freyr asks a far simpler one: **How have mortals managed to live without certainty all along?**
-
-Farmers plant crops without knowing whether winter will be kind. Parents raise children without knowing what sort of world they will inherit. Friends make promises without knowing whether they will live to keep them. Mortals have always acted without seeing the whole pattern.
-
-In the end, that becomes Woden's greatest discovery. The true strength of humanity was never the ability to understand _wyrd_. It was the courage to continue making good choices without ever fully understanding it.
-
-The idea of fate behaving more like gravity within a given time horizon—mortality for mortals, infinity for gods—is what makes _wyrd_ so wonderfully weird to me. I cannot say that _wyrd_ is part of my personal philosophy, but it is an interesting concept to explore, especially in the context of a magic system.
 
 ---
-#### Inside the Debate
 
-Throughout the novel, wisdom is not portrayed as passive contemplation, but as disciplined observation. Woden does not guess. He constructs tests. The three blades are not gifts. They are instruments of experimentation.
-
-The first question Woden asks through all three blades is whether a convergence of _wyrd_ compels, or merely calls. If a magical blade feels like the inevitable destination of its bearer, what allows a person to accept, refuse, or transform that calling? If mortals who worship Christ can answer the gravity of _wyrd_ with faithful choice, then perhaps Woden can learn to answer the gravity of Ragnarök the same way.
-
-Each of the three blades asks other questions as well.
-
-Osric's blade asks whether the old covenants between the living and the dead still endure. If a Christian may still die, walk the hedge between Midgard and Alfheimr, and return by Freyr's hand, then perhaps Christ has not displaced the older order, but permits it to endure according to purposes Woden does not yet understand.
-
-Elswyth's blade asks whether Christian virtue possesses a strength the old ways never did. By forcing her to choose repeatedly between power and conscience, Woden hopes to discover whether faith truly anchors the soul against corruption or whether every moral system ultimately bends beneath enough temptation.
-
-Cynewulf's blade asks the question that troubles Woden most deeply. The Wodbora cannot be wielded until its bearer first confronts the truth of himself. Woden understands sacrifice. He understands penance. He does not understand grace. If confession grants strength rather than merely demanding payment, then Christ's redemption operates according to principles Woden has never known.
-
-Taken together, the blades form a multi-layered experiment. Woden hopes to determine whether the old world and the new are compatible, whether _wyrd_ still governs human lives, and whether the gods themselves continue to understand the reality they inhabit. Like any careful investigator, he begins with hypotheses and expects the experiment to confirm, overturn, or at least provide information to pose a better hypothesis.
-
-Freyr, however, has another lesson in mind.
-
-Throughout their debate, Woden studies the blades. Freyr studies the people who carry them. He watches three ordinary mortals endure grief, fear, guilt, madness, uncertainty, and loss. They possess no certainty about tomorrow. They never did. Yet each of them simply makes the next choice before them, much as they might choose which field to sow in spring.
-
-Woden's goal is always more certainty. Freyr's goal is to make the wisest choices possible in the absence of certainty. As the god of harvests and seasons, Freyr has always understood that wisdom comes from recognizing patterns rather than seeking certainty. The harvest teaches probabilities, never guarantees.
-
-Woden's experiment is then easy for Freyr to co-opt. He can show that despite Woden putting each of the three through some of the worst experiences imaginable, they still make choices and move on without certainty. Even when they encounter experiences unlike anything they have ever known.
-
-Mortals have lived without certainty for as long as they have existed. They have always buried their dead without knowing whether they would meet them again. They have always planted crops without knowing whether winter would spare them. They have always chosen hope without possessing proof that hope would be rewarded.
-
-By the end of the story, Woden just begins to see Freyr's point. He may not agree with it, but he is now deprived of the certainty that he _thought_ he possessed and must learn to do what mortals have always done: choose without certainty. For a god who has spent an eternity searching for certainty, nothing could be more unnatural.
-
----
 #### Agency of Magical Artifacts
 
 Several historical runic inscriptions blur the distinction between object and speaker. Rather than presenting a spell as something spoken by the owner, the inscription may be framed as the voice of the object itself. To a modern reader this can seem poetic, but to an early medieval audience the distinction carried real significance. The Old English word _hǣlu_ is often translated as "health" or "wholeness," but in this context it refers to something broader: the integrity by which a thing possesses identity, purpose, destiny, and participation in the world. A thing with sufficient _hǣlu_ is not merely acted upon by wyrd; it participates in wyrd.
@@ -1855,9 +1548,9 @@ In practical terms, the distinction functions as a metaphysical safeguard. The w
 
 The Wild Hunt is one of the most widespread and adaptable supernatural traditions in northern Europe. Across centuries and regions, the details change dramatically. The leader may be a god, a king, a saint, a devil, or a ghost. The riders may be warriors, hunters, spirits, the restless dead, or condemned souls. Yet certain themes persist. A spectral procession crosses the night sky. The living are warned not to interfere. The boundary between the world of the living and the world of the dead briefly becomes permeable.
 
-The version presented in _The Cynn_ draws inspiration from several historical layers of this tradition. During the early medieval period, stories associated with Woden appear to have been linked to ideas of death, wandering spirits, battle fury, and the movement of souls. Later Christian writers inherited many of these traditions but interpreted them through a different theological lens. Rather than disappearing, older stories were often reinterpreted. Familiar figures acquired new meanings, new names, and new roles within an increasingly Christian worldview.
+The version presented in _The Cynn_ draws inspiration from several historical layers of this tradition. During the early medieval period, stories associated with Odin appear to have been linked to ideas of death, wandering spirits, battle fury, and the movement of souls. Later Christian writers inherited many of these traditions but interpreted them through a different theological lens. Rather than disappearing, older stories were often reinterpreted. Familiar figures acquired new meanings, new names, and new roles within an increasingly Christian worldview.
 
-This process of reinterpretation is visible throughout medieval folklore. Traditions associated with older gods could become associated with legendary kings, local spirits, demons, saints, or cautionary tales. The question was rarely whether a phenomenon existed. The question was how it should be understood. A frightening procession in the night sky might remain frightening regardless of whether its leader was called Woden, Herla, or Hellequin. The story survived because it continued to serve a cultural purpose.
+This process of reinterpretation is visible throughout medieval folklore. Traditions associated with older gods could become associated with legendary kings, local spirits, demons, saints, or cautionary tales. The question was rarely whether a phenomenon existed. The question was how it should be understood. A frightening procession in the night sky might remain frightening regardless of whether its leader was called Odin, Herla, or Hellequin. The story survived because it continued to serve a cultural purpose.
 
 The novel imagines the _Wodhere_ during one of these transitional periods. Christianity has become dominant, yet older explanations have not entirely vanished. As a result, different characters understand the Hunt in different ways. Some view it as a remnant of pagan belief. Others interpret it through Christian theology. Still others accept elements of both explanations simultaneously. This ambiguity is intentional. It reflects the reality that religious transitions often produce overlapping interpretations rather than immediate replacements.
 
@@ -1900,7 +1593,7 @@ The second is a maker's mark. Closer than shown, but basically it should be a si
 
 #### Description
 
-Wodbora is a gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the blade is drawn and the ward is spoken, Woden's ravens appear and start an inquisition (the witan-sleep).
+Wodbora is a gatekeeper of the Wodhere (the Wild Hunt) and acts as both a guardian and beacon of chaos. Wodbora acts to protect the owner from the Wodhere when sheathed (effectively binding the Wodhere from finding the owner). When the blade is drawn and the ward is spoken, Odin's ravens appear and start an inquisition (the witan-sleep).
 
 Time stops temporarily as they question you, looking for a new confession. They know your soul and your history, and act as a safety valve for the chaos. They know that to survive, you *must* admit to a sin that carries the same weight as what you're about to unleash. They can't tell you what to say, so they speak cryptically. You must arrive at your specific confession independently and propose a penance for it.
 
@@ -1920,7 +1613,7 @@ The scabbard should be lambskin-lined tough leather as was common for langseaxes
 
 ##### Scabbard Obverse (Outer) Side: The Inquisitors
 
-This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade on the first line, and the ward of the blade on the second line. Two ravens, one on each side of the inscription, should be facing inward, so as to witness the ward. The ward is there not just for the public, but for the wielder too... for they must suffer the inquisition. The ravens should be in the jelling style, with scrollwork containing and framing the name/title and prayer. Since Woden is not invoked directly, the prayer is also to God, on off-chance that Woden isn't listening to the ravens.
+This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade on the first line, and the ward of the blade on the second line. Two ravens, one on each side of the inscription, should be facing inward, so as to witness the ward. The ward is there not just for the public, but for the wielder too... for they must suffer the inquisition. The ravens should be in the jelling style, with scrollwork containing and framing the name/title and prayer. Since Odin is not invoked directly, the prayer is also to God, on off-chance that Odin isn't listening to the ravens.
 
 ##### Scabbard Reverse (Inner) Side: The Invocation
 
@@ -2457,7 +2150,7 @@ Huginn smiled.
 
 "Nothing important."
 
-The trio made their way through the crowd followed by the robot. They passed another familiar road to Valhalla. Woden stopped to look at the sign, and tilted it back to being perfectly square.
+The trio made their way through the crowd followed by the robot. They passed another familiar road to Valhalla. Odin stopped to look at the sign, and tilted it back to being perfectly square.
 
 ---
 
@@ -2500,11 +2193,11 @@ DO NOT ATTEMPT TO RESTART FATE YOURSELF, UNLESS YOU WERE FATED TO DO SO.
 ```
 ---
 
-Woden noticed a party arriving from the Norse road and quickly covered his face, turning away. He motioned for the ravens to pick up the pace.
+Odin noticed a party arriving from the Norse road and quickly covered his face, turning away. He motioned for the ravens to pick up the pace.
 
 **"ALLFATHER!"**
 
-"...Ugh," Woden sighed.
+"...Ugh," Odin sighed.
 
 The arriving party had recognized him. It was one hundred Vikings. Their first excursion beyond Valhalla.
 
@@ -2524,21 +2217,21 @@ The arriving party had recognized him. It was one hundred Vikings. Their first e
 
 The crowd surged toward him in joyous disorder.
 
-Woden raised a hand.
+Odin raised a hand.
 
 **"SILENCE, FOOLS!"**
 
 The crowd froze.
 
-Woden jabbed a finger toward the notice board, lingering especially on the section concerning the chronic wyrd shortage.
+Odin jabbed a finger toward the notice board, lingering especially on the section concerning the chronic wyrd shortage.
 
-Woden's voice boomed, amplified by the power of ancient awesomeness.
+Odin's voice boomed, amplified by the power of ancient awesomeness.
 
 **"PROPHECIES ARE CURRENTLY UNAVAILABLE! AND I WILL NOT SIGN ANYTHING. I AM RETIRED.  GO BACK TO FEASTING FOR ETERNITY. I HAVE NOTHING MORE TO SAY."**
 
 One of the Vikings raised a hand. "...But won't you at least sign the sign?"
 
-Woden closed his eye.
+Odin closed his eye.
 
 "...No."
 
@@ -2560,7 +2253,7 @@ Instantly, one hundred Vikings exploded into a full sprint.
 
 "HE'S GOT A HEAD START!"
 
-Woden turned and continued back to the main stage, muttering under his breath. "Children. Oat-brained children. What possessed me to make a horde of them our last hope at the end of days? I must have been insane."
+Odin turned and continued back to the main stage, muttering under his breath. "Children. Oat-brained children. What possessed me to make a horde of them our last hope at the end of days? I must have been insane."
 
 Muninn noticed the robot following them.
 
@@ -2586,7 +2279,7 @@ Huginn smiled.
 
 "It'll arrive when it's needed."
 
-Woden led the group to the back stage entry, and flashed a badge that let them all in.
+Odin led the group to the back stage entry, and flashed a badge that let them all in.
 
 Meanwhile, the on-stage barker was whipping the crowd into a frenzy. Souls from every road into the Commons had gathered, many leaving their own eternities for perhaps the first time in centuries. Rumor had spread that someone had reinvented the wheel.
 
@@ -2840,9 +2533,9 @@ Nugh: "Human family become mastodon family."
 
 Barker: “Well!... there you have it, folks! You are looking at the future of family travel: carbon-fiber chassis, antimatter stick-drive, campfire-on-demand, child-safe cave-wall painting surfaces, spear rack, berry sorter, and not one, but TWO drink holders! All neatly folded into a... giant monowheel that becomes a rabbit in the spirit world and returns you _horn-free_ to your destination. All while telling the most over-the-top stories to your children to maximize safety. Your insurance company will _LOVE_ these features!”
 
-The roar of the crowd faded as Woden, the ravens, and the robot following several paces behind filed into the backstage entrance.
+The roar of the crowd faded as Odin, the ravens, and the robot following several paces behind filed into the backstage entrance.
 
-Backstage Producer: "Okay, I have Woden and the ravens. We're walking back to rehearsal. Get everyone ready for equipment check and walk-through."
+Backstage Producer: "Okay, I have Odin and the ravens. We're walking back to rehearsal. Get everyone ready for equipment check and walk-through."
 
 Backstage Hand One: "Looks like the lawyers are going to have to add another disclaimer."
 
@@ -2876,7 +2569,7 @@ Huginn fished Steve's Eyeball from under his wing. Steve looked back at Huginn w
 
 Huginn: "Now Steve, this is what you've been training for. I _know_ you can do it. Everybody _knows_ you can do it."
 
-Woden and Muninn sat perfectly still. The Skeleton Crew looked at each other, then at Steve, and nodded their heads. Whether this signified approval or loose vertebrae was impossible to determine.
+Odin and Muninn sat perfectly still. The Skeleton Crew looked at each other, then at Steve, and nodded their heads. Whether this signified approval or loose vertebrae was impossible to determine.
 
 Steve's Eyeball looked at the Crew, then back at Huginn. The trembling stopped. A look of quiet resolve settled over the little eye.
 
@@ -2922,13 +2615,13 @@ Plan B: "An engineering assumption. My processor is weak. My memory is small. I 
 
 Muninn: "Less susceptible to distraction? Huginn, finally... you can learn a lot from this one!"
 
-Woden had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
+Odin had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
 
 He slipped off his jacket and rolled his sleeves above his elbows. His skin was not nearly as wrinkled as his face. Every rippling inch of muscle was covered in runic tattoos, as sharp and precise as the day they were inked.
 
 He fished a guitar pick from his pocket, carved from the thumb-bone of a nameless king who had been sent to Helheim.
 
-Huginn fished a silver necklace bearing a large **ᚨ** (_Ansuz_) medallion from Woden's guitar case and slipped it over his head. He lowered the microphone stand until the microphone was nearly touching the floor.
+Huginn fished a silver necklace bearing a large **ᚨ** (_Ansuz_) medallion from Odin's guitar case and slipped it over his head. He lowered the microphone stand until the microphone was nearly touching the floor.
 
 He cleared his throat.
 
@@ -2944,7 +2637,7 @@ He slipped them on.
 
 The Skeleton Crew settled into place. The guitarist and bassist flexed bony fingers over their strings. The keyboardist ran a quick trill from the lowest key to the highest. Plan B lifted Steve over the drum kit, seven drumsticks poised in patient mechanical hands.
 
-Woden struck a chord, heavy and low, that settled somewhere deep in everyone's bones.
+Odin struck a chord, heavy and low, that settled somewhere deep in everyone's bones.
 
 "Let's begin."
 
