@@ -1311,7 +1311,9 @@ Last came the senior priests of Leicester’s two churches, robed for Easter Mas
 
 Before the altar, woven mats of willow reed had been spread over the churned ground. The attendants guided the priests onto them, lowered the gathered cloth, and stepped aside.
 
-Elswyth made her way to the edge of the South Pastures for a better view. There she noticed a broad-shouldered wolf-man approaching the gathering with a giant wolf-man by his side. Other members of his company collected along the fringes, watching the spectacle. One of the wolf-men gave a long howl. Several laughed, and others spat upon the ground. But someone had plainly ordered them not to interfere, and the peace held.
+Elswyth made her way to the edge of the South Pastures for a better view. From the higher ground, she searched the gathering for Long-Mile and Shadow-Wife. They were the only two she cared enough about to embrace before leaving. She could find neither. With so many dead still unburied, she supposed they had more pressing work elsewhere.
+
+Then she noticed a broad-shouldered wolf-man approaching the gathering with a larger man by his side, dressed in the same manner. Other members of their company collected along the fringes, watching the spectacle. One of the wolf-men gave a long howl. Several laughed, and others spat upon the ground. But someone had plainly ordered them not to interfere, and the peace held.
 
 She thought she might recognize this broad-shouldered wolf. Carefully, she crept around the edge of the crowd closer.
 
@@ -2765,11 +2767,13 @@ Muninn: "Yes. I think _you'd_ call it 'Tuesday night's supper.'"
 
 ## Chapter Five: Let Us Prey
 
-By the time Elswyth returned, the wagons were oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat would disappear behind her.
+By the time Elswyth returned, the train’s oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat disappeared behind her.
 
-The Easter crowds dispersed.
+As the Easter crowds dispersed, the wagons jolted into motion and settled into the steady pace of the oxen.
 
-The train wound its way through the cluttered streets of Leicester. The town was still reeling from the aftermath of the siege. In the rain, the train would stop three times to remove barrel barricades and debris from High Street.
+Rain fell as the train wound through Leicester’s cluttered streets. The town was still reeling from the siege, and the company stopped three times to clear barrel barricades and other debris from High Street.
+
+Elswyth peered from beneath the canvas at the wreckage, relieved that she would likely never see Wulfhere’s face again.
 
 The peace was emptying the city as surely as the siege had filled it. Wagons, drovers, and laborers still streamed through the North Gate, and no one seemed in any hurry to bar it.
 
@@ -2777,9 +2781,9 @@ With the North Gate behind them, one of the wagons lurched. Again.
 
 A veteran turned on the road, looking back at a hundred men with shields and spears waiting impatiently in a line. Behind them, the baggage wagons had stopped again, and the sounds of shouting carried through the rain.
 
-Cynewulf, also of Leicester, was strong and salt-bearded, yet weary. A priest at first, he gave up that life for the life of a soldier and highwayman. He had the cake of the road stuck to him, a tired mercenary in this war, fighting for the Saxons. His foreign warband brought him to Leicester. They were harassing Viking reinforcements from York and had been very effective.
+Cynewulf, also of Leicester, was strong and salt-bearded, yet weary. A priest at first, he gave up that life for the life of a soldier and highwayman. He had the cake of the road stuck to him, a tired mercenary in this war, fighting for the Saxons. His Welsh warband with the striking cloaks brought him to Leicester. He had returned his cloak to them, the final act of separation from one of the most memorable companies ever to go to war. They were harassing Viking reinforcements from York and had been very effective.
 
-The moment their campaign ended, their charter bid them return home. They traded farewells, their road taking them north and then west to Powys, a far off region of Wales. Cynewulf watched them disappear down the road until they were little more than colored specks against the spring hills. Only then did he turn south back toward Leicester. The road felt quieter without them.
+The moment their campaign ended, their charter bid them return home. They traded farewells, their road taking them north and then west to Powys. Cynewulf watched them disappear down the road until they were little more than colored specks against the spring hills. Only then did he turn south back toward Leicester. The road felt quieter without them.
 
 Cynewulf had the bearing of a soldier. His byrnie—once a proud shirt of black interlocking iron mail—was threadbare and sagging, missing clusters of rings that had rusted away and been crudely patched. Underneath the iron, he wore a quilted weapon-shirt of heavy linen. The quilting threads had snapped in dozens of places, allowing the dirty flax stuffing to leak out of the tears like tufts of sheep's wool. It was stiff with the salt of old sweat, and the shoulders were stained a deep, bloody orange where the rusting mail had bled into the fabric. His cloak was a new fur-lined trophy, as were his boots. At his hip hung an aging langseax whose edge rippled with shallow waves—the mark of a blade that had survived many battles and nearly as many blacksmiths. His shield had been split to splinters in the road engagements, and was gone. What little wealth he possessed came from the battlefield: fragments of silver, steel, and bronze scavenged from the fallen and not yet traded to the smiths for coin.
 
@@ -3015,9 +3019,7 @@ The archer stopped dead in his tracks.
 
 "Best be settling in. Report to the wagon master," Galindo replied.
 
-High above the town, perched on the highest wall of the Forum, Wulfhere studied his enemy still. The _Ulfhednar_ were the wolf-men of the Danes, men who married their souls to the wolves of Odin. Though his kind's number were dwindling on the island, he was fierce and true to his kind. To him, the brokered peace was a thing for priests and deer-meat. He had lost some of his number in the fighting before, but the trophy pile was small, and many of his number still longed for Valhalla. 
-
-He finally gave the wave to signal the _Ulfhednar_ advance out of town. They weren't staying in Leicester. The spring thaw had opened the river-roads, and there were estates to the north and east that hadn't seen a blade in months. There were _karvis_ to be seized in the fishing villages of the estuaries—small, fast boats and poorly guarded—which would lead to a summer of raiding the coast.
+Wulfhere finally gave the wave to signal the _Ulfhednar_ advance out of town. They weren't staying in Leicester. The spring thaw had opened the river-roads, and there were estates to the north and east that hadn't seen a blade in months. There were _karvis_ to be seized in the fishing villages of the estuaries—small, fast boats and poorly guarded—which would lead to a summer of raiding the coast.
 
 Wulfhere led his company of fifteen through the North Gate. The fyrd caught his eye.
 
@@ -3031,9 +3033,17 @@ From behind the canvas, Elswyth peered out to see Wulfhere. She caught her breat
 
 She sensed his eyes scanning the wagons. She wondered what he had seen.
 
-The other Vikings laughed and joked at the state of the fyrd as they passed by. Vikings were often blind to their own state, for they carried no excuses for themselves. Instead, they carried on with their merry advance on the Boroughs. But not Wulfhere. He was studying, and now he finally liked what he saw.
+The other Vikings laughed and joked at the state of the fyrd as they passed. They simply continued their merry advance upon the Boroughs.
 
-"Move along, wolf-men. Our quarrels are buried," said Cynewulf, trying to ensure a fight did not break out. He stepped in front of the fyrd before some loose tongue started a fight.
+But Wulfhere did not laugh. He studied the passing company until, at last, he found what he was looking for.
+
+His eyes settled on Cynewulf. The Welsh cloak was gone, replaced by the ragged cloak of a beggar.
+
+Wulfhere smiled.
+
+“Move along, wolf-men. Our quarrels are buried,” Cynewulf said.
+
+He stepped before the fyrd, hoping to send the Vikings onward before some loose tongue unearthed those quarrels again.
 
 One of the wolf-men jumped to Cynewulf standing toe-to-toe, with a wide grin. He smiled with yellow teeth, knowing that Cynewulf's leash was the parchment. The wolfman barked and howled, the saliva spraying against Cynewulf's cheek. Cynewulf didn't blink. He didn't move. He just stared through the man, his eyes as flat and grey as the Leicester mud. "Move... along..." he repeated. 
 
@@ -3041,7 +3051,9 @@ The wolf-man’s grin faltered slightly against that hollow stare, his howl dyin
 
 Wulfhere looked on in approval, watching the challenge with a smile. He liked to know the character of men well before their throat met his blade. With one last glance, he turned with his men and headed north.
 
-Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath in a long shuddering exhale. He stared down at the deep, muddy impressions of the wolf-man who had stood nine inches from his. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes. He turned his back to the road to survey the state of the wagons.
+Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath in a long shuddering exhale. He stared down at the deep impressions left in the mud by the wolf-man who had stood nine inches from him. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes.
+
+He turned his back to the road to survey the state of the wagons.
 
 Cynewulf's new men had watched the exchange in silence.
 
@@ -3065,13 +3077,27 @@ That got a laugh from everyone except Cynewulf.
 
 After traveling a distance, the _Ulfhednar_ stopped to rest in a clearing. Wulfhere was there, urging his men to gather around. His eyes seemed fixed to Leicester, wide and full of intent.
 
-Among them were his best. His second-in-command was a giant, over seven feet of bone and muscle, Rognvaldr the Ragged. His frame was so large, no single mail coat could cover it. It was a mosaic of armor that served as the testament to the war-band's kills, as it was built from the pieces of armor of the fallen. The others were lean and hungry, mostly young but scarred by the unending training of the wolf cult. Their eyes burned for the treasure-pile that had once been promised or the final embrace of valkyries. Both would have to wait as long as peace reigned. 
+Among them stood Rognvaldr Kill-Woven, a head or two taller than the others. No single mail coat could cover his frame. His armor was a mosaic assembled from the fallen, every mismatched patch another entry in the warband’s tally of death.
+
+The others were lean and hungry, mostly young but scarred by the unending training of the wolf cult. Their eyes burned for the treasure-pile that had once been promised or the final embrace of valkyries. Both would have to wait as long as peace reigned. 
 
 Wulfhere began. "I see the anger in your eyes. I see his words turned to rot in your minds. We have followed Olaf. We have listened to the fat jarls of York. We have seen what their guidance has brought."
 
 He started pacing before them, staring at each man as he spoke.
 
-"Did they listen to me when Oda ignored their own peace and stormed the southern wall? Did they take the fight to the Saxons when they were drawing their noose around us? They don't care about us! They never asked the wolf if the fighting was done! They promised piles and delivered ash. Olaf can rot in Helheim!"
+"Did you see the fyrd as we left town, brothers? They were the oath-breakers. With Tyr as our witness, they broke the oath with _their_ church by taking the southern wall."
+
+Wulfhere motioned for them to gather forward, and held his hand to his wolf's ear.
+
+"Did they listen to me when Oda ignored their own peace and stormed the southern wall?"
+
+"NO!"
+
+"Did they take the fight to the Saxons when they were drawing their noose around us?"
+
+"NO!"
+
+"They don't care about us! They never asked the wolf if the fighting was done! They promised piles and delivered ash. Olaf can rot in Helheim!"
 
 Rognvaldr stepped forward, his arms reaching wide. "Come brothers! We feel your anger. We feel how you were betrayed. Look each other in the eye! Let your eyes show your brothers that you will not be denied!"
 
