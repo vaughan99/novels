@@ -1,3 +1,426 @@
+## Chapter Ten: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
+
+Cynewulf stood on the porch of the church. His legs were tired from running, his soul weary from searching. The air lay still save the breath of Rognvaldr, the giant of the Ulfhednar, emerging from Middleflat. His back was to the ruin of the Forum, as he faced Cynewulf on the steps. The air was still, and the empty Forum stood as a silent witness to what was to come.
+
+"I see a skin for my hoard, Saxon." bellowed the Viking.
+
+The sword whistled before his shield in effortless circles. It was no boast. It was a warning. Many had watched Rognvaldr toy with his blade in that fashion. None that faced him had survived to speak of it.
+
+Rognvaldr stood and mocked him in his language. He never cared to learn the language of the Saxons. It was clear that he meant to do more than just kill Cynewulf.
+
+Cynewulf sensed that his time was short. He had no shield, and no other weapon. He quickly grabbed the handle of the shield, gifted to him by unknown hands. His sword hand found the wire-wrapped handle of the _Wodbora_ just as Rognvaldr charged. He pulled the length of the blade from the scabbard. The blade had rivers of steel, light and dark, as though the steel was both fog and night.
+
+He stepped forward into the yard. He did not want to be cornered on the porch.
+
+The voice of his father whispered in his ear. "If you want to live, repeat after me. _Sceran scēapum : dēað wulfum_ (_shears for sheep, death for wolves_)"
+
+Cynewulf hesitated. "Father? I..."
+
+"Repeat the words Cynewulf!"
+
+Cynewulf still hesitated. Rognvaldr started walking forward, pleased that Cynewulf had accepted his challenge. Cynewulf held his shield high, and readied himself to receive a charge.
+
+"REPEAT!"
+
+Cynewulf spoke.
+
+"_Sceran scēapum : dēað wulfum_"
+
+The charge never came.
+
+A dark, hazy mind-dream came over him. This was the *witan-sleep*.
+
+Rognvaldr and the Leicester church yard receded from his sight, as if he had been lifted by two ravens clutching his cloak and carried into a void.
+
+Leicester never disappeared completely. His own body remained behind the shield, _Wodbora_ held back for the coming stroke. Across the churchyard, Rognvaldr had just broken into a full run, the snarl frozen upon his face. Neither man moved.
+
+He was let go.
+
+Instead of falling, his feet found turf. He stared down, and he had landed softly in a yard.
+
+A new yard.
+
+He could still see Leicester below him, as if he were standing on a cloud.
+
+He turned.
+
+Before him. the light of a thousand candles lit another church before the threshold. This church he had never seen, but similar to the ones of his father's stories. He could not place which story, or it could have borrowed memories from all of them. The shadows cast by the candles danced over stone walls and grass.
+
+And the cross in front of him. The cross had been carved from a single weathered fieldstone, its ancient grain untouched save where the mason's chisel had found it.
+
+The ravens, Huginn and Muninn, the figures on the scabbard, landed on the opposite branches of the cross. They spoke to him in the still night air.
+
+Huginn: "Speak now, priest! The steel waits."
+
+Muninn: "Why were you chosen?"
+
+Cynewulf hesitated. Ravens _do not speak_.
+
+Muninn: "... Why does _Wodbora_ claim you?"
+
+Cynewulf: "My father... he spoke to me. Am I dead?"
+
+Muninn: "Your father passed from the world two winters ago. This is not his realm."
+
+The words did not surprise him. Long ago, in the depths of his grief, he had already mourned that the path he had chosen meant he would never see his father again.
+
+Cynewulf: "What... do you mean?"
+
+Muninn: "Why were you chosen?"
+
+Cynewulf: "What is going on..?"
+
+Huginn: "Time is short, priest of the road. You don't know what you hold."
+
+Cynewulf: "Who are you?"
+
+Muninn: "I am the long memory."
+
+Huginn: "And I am the thought that remembers nothing until it asks."
+
+Muninn: "We're here to see if you have anything to offer."
+
+Cynewulf: "Of... what?"
+
+Huginn: "The truth of who you are."
+
+Muninn: "The memory of what you were."
+
+Cynewulf: "To what?"
+
+Huginn: "To the cross before you, and to the coming storm. Speak, and Christ will hear you."
+
+Muninn: "Refuse, and the blade will remember your past. You hold the _Wodbora, the Madness-Bringer_. If you do not pay its price, you will become part of the flight."
+
+Huginn: "So now, priest, why were you chosen?"
+
+Cynewulf searched his mind.
+
+Cynewulf: "This... *Wodbora*, it must _think_ I have... something to offer?"
+
+Muninn: "Brother, look! His memory is stirring."
+
+Huginn: "The storm is building! Quickly, the storm demands an answer."
+
+Cynewulf heart dropped cold.
+
+Cynewulf: "It wants... My soul?"
+
+Muninn: "CAAH! No! But that's what it will get if you don't think harder. Back to the conversation. The _Old Hate_."
+
+Cynewulf frantically searched his mind.
+
+Cynewulf: "The old shepherd. He mentioned something about an *Old Hate*. A *wuudheree*?"
+
+Huginn: "That's the _Wodhere_. The _hunting_. The reaper of soul and flesh, priest-man. It's growing, waiting, hungering. What you hold opens the gate."
+
+Huginn pointed his wing at the langseax in Cynewulf's hand.
+
+Cynewulf: "Take it back! I don't want this! My hands have touched the _Dark One's_ stain. Why am I even talking to birds? Christ, save me!"
+
+Cynewulf kneeled before the cross.
+
+Muninn: "You can protect yourself. There's still time. Why did it choose... YOU?"
+
+Cynewulf: "The old shepherd? He gave me a confession."
+
+Muninn: "Yes... the memory is taking to flight, brother."
+
+Huginn: "The _Wild Hunt_ passes over the clean. You must show it that the Road has not sullied your soul. It's time to be clean, priest."
+
+Cynewulf: "Well... my first confession..."
+
+Muninn: "That's an old memory, Cynewulf. The _Wodhere_ demands your unconfessed sins, not the carrion of sins confessed long ago. Confess."
+
+Huginn: "Confess!"
+
+Cynewulf thought forward from that moment of his first confession. There had been jealousy of his father's travels. Moments of anger in the bell-foundry.
+
+Cynewulf: "I... was jealous of my father... he traveled throughout Mercia. I never got to leave Leicester."
+
+Muninn: "That's a one-worm meal for a magpie, priest. This bird you face is ravenous, and it remembers the _whole_ corpse... as do I."
+
+Cynewulf thought back at all the unholy deeds he had done. After the fall of the Griffons, he remembered every group he ever joined. The time he cut off a man's hand for offering too little silver. The knife fight in the ale-house over a copper button. The cottage he left to his warband, hearing the widow scream as his men took her. The poor souls on the road he butchered. The merchant-men. The couriers. The shepherds. Their wives. Even their _children_.  Shame swept over him like a tidal force of nature.
+
+Muninn: "His memory is a flood, brother. He needs to focus!"
+
+Huginn: "Choose ONE! QUICKLY!"
+
+Cynewulf thought back to the first time he had taken a life. Back in that day in his priest-home. Yes, there where sins before that, many of them very unclean, but that was the first life he had taken. It was the beginning of his journey on the Road.
+
+Cynewulf: "There was this boy. A Viking boy. He had burst into my priest-home during the raids. He was young, probably of seventeen winters, but he threatened my students, and me. He wanted to kill me! But I wasn't going to let him! He was evil! Hate spewed from him."
+
+Muninn: "Finally, a singular memory. Tell me priest, what was his name?"
+
+Cynewulf: "Wh... Whaaat? We didn't have time to pass pleasantries!!"
+
+Huginn: "No priest. To name a thing is to respect a thing. What was his name?"
+
+Cynewulf whispered... "I don't know what you want me to say." His world collapsed. Tears flooded his eyes, as the memory of that day filled his soul. "He DIDN'T HAVE... A NAME!"
+
+Muninn: "The flood is rising. The memory is sweeping. He's almost there!"
+
+Huginn: "The boy was a fresh scroll, priest, barely seventeen words on the page! He could've been your sheep, but instead you tossed the scroll into the fire."
+
+Muninn: "You let your hate control you that day. He will have no memories. Few will remember *him*."
+
+Huginn: "What would you tell him priest? What *should* you have told him?"
+
+Cynewulf's tears overflowed, and he cried. It was an authentic, forceful weep.
+
+Cynewulf: "... TO TAKE THE SILVER ON THE TABLE! ... LEAVE MY STUDENTS IN MY CARE... JUST LEAVE!"
+
+Huginn: "Powerful, but that still doesn't name the boy. How can you apologize to him if you haven't named him?"
+
+Cynewulf: "I'M SORRY!!!! I can't take back his death. I can't un-ring the bell."
+
+Huginn: "Wodere is almost here. Penance waits for no man."
+
+Cynewulf clinged to the words that ravens had said... that few will remember the boy. But the last phrase struck Cynewulf like a physical blow, vibrating down into the very meadow of his soul. Penance. The word hung in the freezing air. It was a lifeline thrown into his dark. If the boy had been denied a name by the Road, and needed remembrance, then Cynewulf would give him this one. He would turn their punishment into a promise.
+
+Cynewulf: "PENANCE! I... the boy... I name him... Penance. For the rest of my days, I shall keep your memory, Penance, and try to live a better life. Many have I killed, my sins are Legion. But I will start there, and that bell will toll every... single... day..."
+
+The last words fell off his lips like a weary prayer.
+
+Muninn: "The memory debt is paid, brother."
+
+Huginn: "It is time."
+
+Cynewulf looked up through his tears, and in the deep obsidian eyes of the inquisitors, he finally understood the terrifying symmetry of fate. The old grey shepherd had confessed to abandoning his wolves. This was the tariff. This sword was not a gift of protection. The sword was a leash on the howling hungry past to make mayhem on the present. He was given an instrument to destroy the wolves that the shepherd refused to call his own anymore. They needed a priest with sins that could measure up to the terrifying reality. Only a soul bound to penance could survive the weight of Odin's confession.
+
+Muninn and Huginn both bowed, their heads held low, solemnly.
+
+Muninn and Huginn together: "_Oremus, nam venatio Wodani instat._"
+
+Cynewulf knew this phrase well. "_Let us pray, for The Hunt of Odin draws near._"
+
+The _witan-sleep_ shattered, and his spirit was thrust back into his living body instantly.
+
+The sky above the church's belltower sang with fresh horror. There drew a freezing roar of wind and black rain — not a storm of nature, but a concussive shockwave of ancient rot, the clattering rattle of dry bones, and the deafening, suffocating flap of a thousand invisible wings. The air turned heavy as lead. Words leapt from the blade, surging like liquid iron up through his sword-arm, jolting his neck forward until his jaw nearly cracked. The ancient, jagged language of the _Old Hate_ — words not of his own making—erupted from his throat like an unholy volcano.
+
+The spell of the Wodbora was cast. "_ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ_".
+
+Rognvaldr swung, but his weapon froze. The lethal iron was pinned immovably by a concussive shockwave of freezing air and ancient rot — the _Wodhere had arrived_.
+
+From above the belltower of the church, a hooded white figure on an eight-legged spectral horse pointed a spear, and a flood of Hate unrolled into the yard.
+
+It was a squall so vicious, it was stitched from uncountable pieces of broken souls, tearing mouths, raven wings, and predatory talons. It was a singular, vile host, not individuals, that burst forth in a hungry, swallowing torrent.
+
+It first hit the bells themselves, ringing eerily into the night to announce the coming doom.
+
+Rognvaldr's sword could not fight against it. Pinned in mid-air, the giant's eyes filled with white, reflecting the spectral monstrosity screaming toward him.
+
+The _Hate_ swept over him like a breaking wave. The giant rolled in the ethereal current, careening head-over-toe five times across the cobblestones as the host of talons and mouths slashed, chewed, and screamed. Bones broke. His mind split from the sheer, unyielding chaos. He tried to let out a final war-howl, but he heard no sound other than a thousand hungry voices ripping into his thoughts. Every limb was eaten; every morsel devoured. He was... unmade.
+
+Cynewulf did not feel the _Hate_. It parted over his head, leaving his flesh completely untouched. His mind, however, recoiled from the sheer madness of what he had unleashed. He crossed himself with a trembling hand and prayed—the kind of desperate prayer a man makes when he thinks he has just released an unforgivable sin into the world.
+
+Huginn and Muninn had appeared, flying above him, calling to him below.
+
+Huginn: "The sheath!"
+
+Cynewulf snapped to the present, and sheathed the sword. The wind and scream, the mouths and wings, the talons of ripping Hate dissipated into a cloud of shadow and nothingness. The figure in the sky was gone. The ravens circled him.
+
+Muninn: "Remember this well, priest."
+
+Huginn: "You have in your hands the _Wodbora, the Madness-Bringer, the Prophet of the Wodhere_."
+
+Muninn: "The _Wodhere_ knows the hates of the heart. If you, or any of your companions, stand before the storm, it will _unmake_ the unconfessed. The _unmade_ join their hunt... forever."
+
+Huginn: "Be wise, Cynewulf, and ensure your heart is clean. Hear the confessions of your companions. Every time you speak the words, the bell tolls anew for a confession, and a new penance. It will be heard by your God. We will guide your thought and your memory, but we serve Truth, not you, and not Christ."
+
+Muninn: "Time will not be on your side to find the confession, and the penance. One hundred beats of the heart. No more."
+
+Cynewulf realized the gravity of the blade. How could he speak those words in good faith? How could he ensure that any in the presence of this horrible nightmare would be spared? Could he even offer such a terrible confession again?
+
+Cynewulf: "I shall remember my Penance. I shall not call on the _Wodhere_... I do not want to know that kind of _Hate_... ever... again."
+
+Muninn: "You're wise. But you remember still the clawing hands of the Road. This weapon isn't safe anywhere. It will exist, in your care, until the last ride."
+
+Huginn: "Others will see it Cynewulf, and try to take it for themselves. They will bring the _Wodhere_, and it will consume them and all the souls around them. You must protect the flock from the wolves ... and from themselves."
+
+With that, the Ravens of Odin flew away.
+
+Cynewulf dared not look at the space where the giant had stood, but something told him that he must. He needed the memory to sear into his mind.
+
+The storm had left nothing behind but an empty horror. There was not even a spray of blood nor a strand of hair. His broken weapon, and his emptied armor lay there — but the giant himself was utterly _absent_.
+
+Cynewulf fell to his knees and retched.
+
+He knew that to unleash such a horrible cleansing was a grave curse. He was now its guardian. And if he had need of it again, the toll would be extreme.
+
+The frantic ringing of the bells had awakened the townspeople. Down the hill, torches began to flicker in the dark windows of the town. Doors creaked open, and the terrified townspeople of Leicester, clutching iron pitchforks and wooden clubs, began to trickle out into the mudded slush, drawn toward the holy ground by the midnight alarm.
+
+Cynewulf heard them coming.
+
+His first instinct was to run. How could he face his former flock? But every journey begins with a step. His soul was tired of running, but his legs found the next step easier than before.
+
+He stayed.
+
+First came the church-wardens and clergy, fully-clothed with candles in hand, from the priest-homes. They were followers of the _Rule of Saint Benedict_, to sleep fully clothed.
+
+Then clusters of townsolk mustered onto the road to the church, demanding to know why the bells rang at night. A stout blacksmith and two town-guards came running, their torches casting a harsh, dancing orange light across the stone steps.
+
+Many Danes were awakened as well, rushing to the Church. They had no more answers than anyone else.
+
+All of them stopped dead in their tracks. Their eyes darted from Cynewulf to the massive, hollowed patchwork armor of the giant lying flat in the mud. Alongside it lay his sword and shield. There arose a cloud of whispers.
+
+It was clear to Cynewulf... there was only one witness to the event.
+
+Then, the blacksmith raised his torch, the light falling directly across Cynewulf’s weathered, scarred face. The old man gasped, his grip loosening on his iron club. He didn't see a calloused highwayman or a brutal mercenary of the rearguard. He looked into the priest's eyes and stepped forward, his voice trembling with a sudden, reverent awe.
+
+"Father... Father Cynewulf?" the blacksmith whispered. "By the saints, it is you. You've come back to us. You stood against the wolves." An elderly woman from the parish dropped to her knees in the slush, crossing herself as she looked up at him. "Father Cynewulf... you’re alive. You saved the holy house." It was hard for him to remember a time when he saved anything.
+
+They knew his name. They remembered his face. The Road had stolen his innocence. The Sword his belonging. The Wound his humanity. But now, he knew, he must be the Shield... for all.
+
+He didn't speak of the _Wodhere_. He didn't tell them about the black, humming langseax hidden beneath his tattered cloak. He merely gave the villagers a slow, somber nod of a priest returning from a long exile.
+
+The crowd was interrupted by a caller from further down the road.
+
+"Back to your houses! Back to your houses!" It was Murdock, his tunic stained with the blood of wolves.
+
+"There are wolf-men on the loose, and unless you want them to find you next, you might want to go back to bed."
+
+His eyes settled on Cynewulf, and his new shield and langseax.
+
+"Well where did we find that? Last I saw, your blade snapped like kindling."
+
+One of the young deacons had been hovering over Rognvaldr's heap of clothing, sword, and shield. "Never mind that! Take a look at what he did!"
+
+Murdock strolled over, and took the sight in. "By the blood of the saints..." He looked back at Cynewulf. "... what did you do? Scared him clean out of his kit, you did!"
+
+The old Italian Benedictine priest, Father Matteo, carefully stepped around the armor. He then stared into the dark corners of the yard.
+
+Father Matteo had not been born to England. As a youth he had been given as an oblate to the great Benedictine monastery of Monte Cassino, where Saint Benedict himself had once walked its cloisters. Before the young monk's vows were complete, Saracen raiders scattered the brethren to the winds. Matteo escaped with little more than the Rule he had spent his youth learning and the conviction that a monastery was more than stone walls. Obedience, prayer, labor, and brotherhood could be carried wherever God—or necessity—led them.
+
+He crossed the Alps with other displaced brothers and eventually found his way to England, where bishops and abbots sent him wherever another pair of faithful hands was needed. He learned his English among the monasteries and minsters of Wessex before being passed from one parish to the next like a well-worn psalter. In the autumn of 933, after the village priest Cynewulf disappeared without explanation, Matteo was sent north to Leicester expecting to remain only until another priest could be found. The replacement never came. Somewhere between burying the old, baptizing the young, blessing the harvest, and reconciling neighbors before Blackjoy, the foreign monk ceased to be a guest. Leicester had quietly become his home.
+
+Over the past ten years, Matteo put his Benedictine love of labor and service to use. He built the yardworks to efficiently recycle the Roman brick and stone. Under his direction, the broken shells of imperial bathhouses and roofless forums were stripped of their ancient chokehold on the quarter. The intent was always to build up the southern wall once more, but the Bishop always had another use for the stone. The liturgy of labor was a salve for the loss of the raid, and the Church's authority in Leicester grew as a result.
+
+Father Matteo: "My son... I am grateful the church still stands." He peered into the empty mess of armor. "...But I must ask the practical question."
+
+Cynewulf: "Father?"
+
+Father Matteo: "Where did the naked giant go?"
+
+Every eye fixed on Cynewulf.
+
+"He was consumed by hatred, father. He is gone."
+
+Father Matteo slowly crossed himself. Every member of the flock followed suit.
+
+"Perhaps..." Father Matteo seemed momentarily lost in thought, "I must speak to the Bishop about this."
+
+He fell silent again.
+
+Then the practical world returned.
+
+"I mean... one doesn't simply declare a miracle every time a naked giant goes missing... I should think?"
+
+Murdock was ever vigilant to the present.
+
+"Cynewulf. The wagon train... or what's left of it... stands unguarded. The melee scattered us to the four winds. We'd best reclaim what's ours before a Dane patrol lays claim to it... or pry it loose from the last of the wolf-men."
+
+A churchwarden standing on the porch looked down at the chest on the top step. "Cynewulf! Is this yours?"
+
+Cynewulf had forgotten the chest. He turned to Father Matteo, pointing to the remains of Rognvaldr. "I entrust the chest and these spoils to your care, until I return for them."
+
+Cynewulf and Murdock made their way back to the ruined wagon train.
+
+The oxen were gone. Frightened by the pelting rocks and the battle, they had broken their traces and fled into the night. Without them, even a repaired axle would leave the wagons stranded in the mud.
+
+They found Tor and One-Eye picking through the wreckage and the bodies of the wolf-men. Sacks already hung from their shoulders as they gathered what little remained worth saving before abandoning the train for good.
+
+Half of the Cynewulf's warband fell that night.
+
+The Saxon brothers were dead.
+
+One of the eastern Vikings—the one whose silver always bore strange foreign stamps—knelt beside his fallen companion. He folded the dead man's fingers around the haft of his axe and tightened them one last time. Only then did he close his friend's eyes.
+
+He stood and nodded at Cynewulf.
+
+All of the fyrdmen lay dead.
+
+Elswyth, Osric, and the other thralls could not be found.
+
+Tor: "Cynewulf. Good to see you still breathing. That giant had me worried."
+
+Murdock barked a laugh.
+
+Tor: "...What?"
+
+Cynewulf closed his eyes.
+
+"Tor... don't ask."
+
+One-Eye looked up from his bag. "Look, the patrols are going to find us. Anyone know where we should go with all this?"
+
+Cynewulf and Murdock looked at each other. Cynewulf replied, "Let's get this back to the Church. I expect they will give us sanctuary."
+
+Quickly they gathered the valuables and retreated to the church.
+
+Father Matteo had barely finished offering last rites to those who had succumbed to their wounds. He was now teaching a few of the flock new loricas against the unlikely prospect of a naked Viking giant paying them a visit in the night.
+
+A handful of parishioners still lingered. A new debate had already begun.
+
+Old Judith, her knitting needles in hand, stamped her foot. "But how do we know it wasn't the _Coaler-Wight_? It is said to pull souls into the very ground."
+
+Father Matteo: "I assure you, there is no..."
+
+Godric the Sharpener picked up where Judith left off. "The _Coaler-Wight_ stole my wood."
+
+Beorn the Buttermaker continued. "And it stole the butter from my barrels... _in the light of day_ I might add."
+
+Father Matteo: "Those are... entirely different matters."
+
+Old Judith: "You try telling that to my knitting circle."
+
+She folded her arms.
+
+"I haven't seen them for two weeks!"
+
+Father Matteo: "These are all matters I will take up with the Bishop. I will travel myself to seek guidance about these... escalations... we have seen these past few years. Now, go back to your beds... please. I still have burials, and reconstruction, and..."
+
+The list of Matteo's concerns grew longer as the night wore on.
+
+Muttering among themselves, the remaining villagers drifted back toward _Under-Geat_, unsatisfied, each quietly convinced the others were underestimating the _Coaler-Wight_.
+
+Cynewulf secured sanctuary with Father Matteo, and the group was taken inside to sleep in the nave of the church. It wasn't comfortable, but it served its purpose well.
+
+The next morning, Father Matteo wakened Cynewulf and bid him to follow. They arrived in the rectory, where the chest sat closed. They were otherwise alone.
+
+"I've seen what's inside, Cynewulf. I do not know what hands brought this chest, my son. It would seem they've laid out quite the vocation."
+
+Father Matteo rested a hand upon the chest.
+
+"Saint Benedict teaches us to treat even the tools of the monastery as though they were vessels of the altar."
+
+He smiled faintly.
+
+"I see no reason a priest should treat these gifts with less reverence, if they are to be worn for the protection of the innocent."
+
+He opened the chest.
+
+Cynewulf studied the contents.
+
+Inside the chest, a warrior's habit lay before him with quiet dignity. Folded atop a supple under-tunic rested a finely wrought oil-blackened iron byrnie, beneath which lay a stout arming shirt and neatly wrapped bands of linen for his arms and legs. A heavy leather sword belt rested atop a neatly folded pair of linen trousers. A heavy waxed wool cloak, clasped with a silver-lined brooch, completed the attire.
+
+Beside the garments waited a pair of sturdy iron-shod boots and a spectacled felt-lined spangenhelm, its brow sturdy and nose-piece reinforced. Nestled inside was a simple quilted linen cap. There was also a wooden case with felt lining. Inside was an iron neck-chain holding a silver Christian cross no bigger than a man's ear. There was a calling horn fashioned from the horn of a great ox, its mouth and tip bound in bright silver. A stout leather strap allowed it to be slung across the shoulder.
+
+Lastly, tucked into the corner of the chest lay a polished bone scroll case, its leather thong darkened with age. Within rested carefully inked vellum maps entitled **_Omnes Viae_**— meaning _All Roads_—their winding lines tracing the great roads, towns, monasteries, castles, and notable villages of England and Alba, as though every traveler for centuries had added one more remembered mile.
+
+Father Matteo turned to Cynewulf. "I will not tell the villagers of this. The Lord may work in mysterious ways, but this seems... more mysterious... than most."
+
+He smiled.
+
+"I also have no intention of explaining to the bishop why a complete suit of armor appeared on my doorstep overnight. For now, between us, I cannot say whether Providence has spoken, but how could I deny these gifts to a protector of God's children?"
+
+His smile faded.
+
+"If that is indeed who you are... Take them quietly with the Church's blessing."
+
+
+[↑ Back to Table of Contents](#table-of-contents)
+
 ## Chapter Eleven: The Blades
 
 ### Part One: The Debate
@@ -254,40 +677,21 @@ The two studied Cynewulf a moment longer. He was congratulating the young men on
 
 Freyr: "And what do you hope to learn from this experiment after they survive their encounter?"
 
-Odin: "I need to know if mortals still feel the call of destiny. If they feel that wyrd is still entwined in their lives, steering choices toward greatness like the heroes of old. But these won't be the tools of thegns and heroes. They will take the shape of what they already know."
+Odin: "I need to know if mortals still feel the call of destiny. If they feel that wyrd is still entwined in their lives, steering choices toward greatness like the heroes of old. But these won't be the tools of heroes and kings. They will take the shape of what they already know."
 
 ---
 
-Huginn: "We were advocates for Truth. That felt heroic. Like angels. Or paladins. Or... unicorns."
+Huginn: "Muninn, would you rather be a hero or a king?"
 
-Muninn: "Truth doesn't need advocates. And it certainly doesn't need unicorns."
+Muninn: "Neither. I'd rather be me."
 
-Huginn: "Then what were we?"
+Huginn: "Wouldn't you want to be heroic? Slay a dragon? Pick fights with trolls?"
 
-Muninn: "Custodians of Memory."
+Muninn: "I feel heroic without doing any of those things."
 
-Huginn: "Custodians? Did we wear coveralls?"
+Huginn: "Let me guess. Because you have to put up with me?"
 
-Muninn: "No."
-
-Huginn: "Covered with unicorns?"
-
-Muninn: "Absolutely not."
-
-Huginn: "We were still advocates for Truth."
-
-Muninn: "Memory remembers Truth."
-
-Huginn: "Truth validates Memory."
-
-Muninn: "Can we just stop arguing for a moment?"
-
-Huginn: "I think I found a Truth."
-
-Muninn: "And what would that be?"
-
-Huginn: "I can beat you into submission."
-
+Muninn: "No. Because I have to put up with me, reacting to you."
 
 
 ### Part Two: The Cynn
@@ -1102,9 +1506,9 @@ He wanted to be worthy of it.
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-## Chapter Thirteen: Stories of the Road
+## Chapter Thirteen: Stories for the Road
 
-[TODO: Tor and Ketill sell the Viking equipment to the smiths and the linen-makers. ]
+[TODO: Tor and Ketill sell the Viking equipment to the smiths and the linen-makers and leather-makers. 5 battle axes, dane axe, Rognvaldr's arming sword, 7 shields, assortment of seaxes, various armors and pieces, belts, boots, etc.]
 
 [TODO: Cynewulf tells Tor not to buy grain for the journey. Tor is confused, but accepts it. Proposes that they buy two oxen to pick up a wagon. Osric tells them it'll slow them down and worries about axles. Murdock complains that you'll be feeding the oxen good grain.]
 
@@ -1115,6 +1519,9 @@ He wanted to be worthy of it.
 [TODO: They walk a while]
 
 [TODO: They stop for camp on night #1, and break out the ale. Murdock recounts Cynewulf's naked giant story. Osric recounts the tale of the fyrd taking him a thrall. And Elswyth recounts the tale of the redcap as a ghost story, and finishes it with the Coaler-Wight showed up to drag him into the ground]
+
+[TODO: They wake up and map a path to bypass Galindo and the fyrd]
+
 
 
 [↑ Back to Table of Contents](#table-of-contents)

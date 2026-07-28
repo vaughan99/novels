@@ -32,7 +32,7 @@
   - [Part One: The Debate](#part-one-the-debate)
   - [Part Two: The Cynn](#part-two-the-cynn)
 - [Chapter Twelve: Getting A Handle On Things](#chapter-twelve-getting-a-handle-on-things)
-- [Chapter Thirteen: Stories of the Road](#chapter-thirteen-stories-of-the-road)
+- [Chapter Thirteen: Stories for the Road](#chapter-thirteen-stories-for-the-road)
 - [Chapter Fourteen: The Return](#chapter-fourteen-the-return)
 - [Chapter Fifteen: Heroes, or People?](#chapter-fifteen-heroes-or-people)
 - [Epilogue](#epilogue)
@@ -5091,7 +5091,7 @@ His eyes fell upon the chest by the anvil, still waiting to be opened.
 
 Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length stiff waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay a shoulder-sling of rawhide with four steel-tipped javelins.
 
-Behind the chest lay a long linen sheet pulled about a pole. He pulled the pole from the sheet... It was his father's boar-spear, its reforged socket fitted to a new shaft of stout oak. The flanks and edge of the broad spearhead gleamed with fresh polish. Woven leather wrapped the haft where the hands would grip it, and an iron shoe protected the butt.
+Behind the chest lay a long linen sheet pulled about a pole. He pulled the pole from the sheet... It was his boar-spear, its reforged socket fitted to a new shaft of stout oak. The flanks and edge of the broad spearhead gleamed with fresh polish. Woven leather wrapped the haft where the hands would grip it, and an iron shoe protected the butt.
 
 He looked around once more.
 
@@ -5102,6 +5102,7 @@ He marveled at the craft of the equipment.
 He picked up the spangenhelm.
 
 "Well, it's either this or a wolf's head. I rather prefer how I'd look in this."
+
 
 [↑ Back to Table of Contents](#table-of-contents)
 
@@ -6271,40 +6272,21 @@ The two studied Cynewulf a moment longer. He was congratulating the young men on
 
 Freyr: "And what do you hope to learn from this experiment after they survive their encounter?"
 
-Odin: "I need to know if mortals still feel the call of destiny. If they feel that wyrd is still entwined in their lives, steering choices toward greatness like the heroes of old. But these won't be the tools of thegns and heroes. They will take the shape of what they already know."
+Odin: "I need to know if mortals still feel the call of destiny. If they feel that wyrd is still entwined in their lives, steering choices toward greatness like the heroes of old. But these won't be the tools of heroes and kings. They will take the shape of what they already know."
 
 ---
 
-Huginn: "We were advocates for Truth. That felt heroic. Like angels. Or paladins. Or... unicorns."
+Huginn: "Muninn, would you rather be a hero or a king?"
 
-Muninn: "Truth doesn't need advocates. And it certainly doesn't need unicorns."
+Muninn: "Neither. I'd rather be me."
 
-Huginn: "Then what were we?"
+Huginn: "Wouldn't you want to be heroic? Slay a dragon? Pick fights with trolls?"
 
-Muninn: "Custodians of Memory."
+Muninn: "I feel heroic without doing any of those things."
 
-Huginn: "Custodians? Did we wear coveralls?"
+Huginn: "Let me guess. Because you have to put up with me?"
 
-Muninn: "No."
-
-Huginn: "Covered with unicorns?"
-
-Muninn: "Absolutely not."
-
-Huginn: "We were still advocates for Truth."
-
-Muninn: "Memory remembers Truth."
-
-Huginn: "Truth validates Memory."
-
-Muninn: "Can we just stop arguing for a moment?"
-
-Huginn: "I think I found a Truth."
-
-Muninn: "And what would that be?"
-
-Huginn: "I can beat you into submission."
-
+Muninn: "No. Because I have to put up with me, reacting to you."
 
 
 ### Part Two: The Cynn
@@ -7119,9 +7101,9 @@ He wanted to be worthy of it.
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-## Chapter Thirteen: Stories of the Road
+## Chapter Thirteen: Stories for the Road
 
-[TODO: Tor and Ketill sell the Viking equipment to the smiths and the linen-makers. ]
+[TODO: Tor and Ketill sell the Viking equipment to the smiths and the linen-makers and leather-makers. 5 battle axes, dane axe, Rognvaldr's arming sword, 7 shields, assortment of seaxes, various armors and pieces, belts, boots, etc.]
 
 [TODO: Cynewulf tells Tor not to buy grain for the journey. Tor is confused, but accepts it. Proposes that they buy two oxen to pick up a wagon. Osric tells them it'll slow them down and worries about axles. Murdock complains that you'll be feeding the oxen good grain.]
 
@@ -7132,6 +7114,9 @@ He wanted to be worthy of it.
 [TODO: They walk a while]
 
 [TODO: They stop for camp on night #1, and break out the ale. Murdock recounts Cynewulf's naked giant story. Osric recounts the tale of the fyrd taking him a thrall. And Elswyth recounts the tale of the redcap as a ghost story, and finishes it with the Coaler-Wight showed up to drag him into the ground]
+
+[TODO: They wake up and map a path to bypass Galindo and the fyrd]
+
 
 
 [↑ Back to Table of Contents](#table-of-contents)
