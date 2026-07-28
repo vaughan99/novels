@@ -89,7 +89,7 @@ The children sat in a ragged circle in the tall grass, their eyes fixed on the t
 
 "A story for the young-lings, to feed their hungry minds!" Huginn croaked, his beak sharp as a needle.
 
-"Which story? There are so many to recount." Muninn added.
+Muninn: "Which story? There are so many worthy of remembrance."
 
 Huginn: "Beowulf! A sad and lovely tale..."
 
@@ -105,13 +105,13 @@ Huginn tilted his head, a single dark eye gleaming with a sharp calculation that
 
 Muninn snorted, his feathers ruffling with immediate, superior irritation. "You absolute bird-brain. That wasn't a simple mud-stuck caravan! That was 943 just outside Leicester! Always the slaughter with you, always the murderiness hidden beneath a bog!"
 
-Huginn: "Ohhh, NOW I REMEMBER! ... Leicester, mud, wolves, three important humans, other less important humans, ruins, mayhem, giant reveals, _spectacular mayhem_, and laundry."
+Huginn: "Ohhh, NOW I REMEMBER! ... Leicester, mud, wolves, three important humans, barrows, gnomes, other less important humans, ruins, mayhem, reveals, _spectacular mayhem_... laundry... and... did I mention mud?"
 
-Muninn nodded arrogantly and turned to the park. "Listen well children. Commit this to mind and memory, for it is a tale of ..."
+Muninn: "Are you sure you have this?"
 
-Huginn interrupted. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me? I connect all the pieces into the epic tale that it is. It's... mine!" Huginn beat his wings and repeated, "mine! mine! mine!"
+Huginn interrupted. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me?"
 
-Muninn, rolling his obsidian eyes, shook his head... a slow shake practiced from seemingly the beginning of time itself. "You... ALWAYS... want to own the tale. Thankfully, I'm here... to keep the oath of the thing true. Proceed."
+Muninn, rolling his obsidian eyes, shook his head... a slow shake practiced from seemingly the beginning of time itself. "I'm here to see that the oath of the story is held. Proceed."
 
 Huginn continued, the twinkle in his eye betraying the smile his face couldn't give. The children stared as he spread his wings and spoke of faraway lands and ancient deeds; of foul creatures, ghosts, and goblins; of myths and legends, and the truths hidden behind them.
 
