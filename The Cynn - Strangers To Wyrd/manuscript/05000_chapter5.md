@@ -1,6 +1,8 @@
 ## Chapter Five: Let Us Prey
 
-By the time she returned, the wagons were already creaking into motion. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons and let Under-Geat disappear behind her.
+By the time Elswyth returned, the wagons were oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat would disappear behind her.
+
+The Easter crowds dispersed.
 
 The train wound its way through the cluttered streets of Leicester. The town was still reeling from the aftermath of the siege. In the rain, the train would stop three times to remove barrel barricades and debris from High Street.
 
