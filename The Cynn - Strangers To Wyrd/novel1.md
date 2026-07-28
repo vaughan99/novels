@@ -9,7 +9,7 @@
 - [Leicester AD 933-943](#leicester-ad-933-943)
 - [Chapter One: A Promise of Piles](#chapter-one-a-promise-of-piles)
 - [Chapter Two: The Tale of the Hearth-Warm Fyrdman](#chapter-two-the-tale-of-the-hearth-warm-fyrdman)
-  - [Part One: Gerdr's Tears](#part-one-gerdrs-tears)
+  - [Part One: Gerðr's Tears](#part-one-gerðrs-tears)
   - [Part Two: The Bowl](#part-two-the-bowl)
   - [Part Three: The Feared](#part-three-the-feared)
 - [Chapter Three: The Past Is Risen](#chapter-three-the-past-is-risen)
@@ -111,7 +111,7 @@ Muninn: "Are you sure you have this?"
 
 Huginn interrupted. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me?"
 
-Muninn, rolling his obsidian eyes, shook his head... a slow shake practiced from seemingly the beginning of time itself. "I'm here to see that the oath of the story is held. Proceed."
+Muninn rolled his obsidian eyes. "I'm here to see that the oath of the story is held. Proceed."
 
 Huginn continued, the twinkle in his eye betraying the smile his face couldn't give. The children stared as he spread his wings and spoke of faraway lands and ancient deeds; of foul creatures, ghosts, and goblins; of myths and legends, and the truths hidden behind them.
 
@@ -178,15 +178,15 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 
 ## Chapter One: A Promise of Piles
 
-The Saxon armies had gathered from icy roads far away, to deliver death to the Danes who occupied Leicester. 
+The Saxon armies had gathered from icy roads far away, to deliver _DEATH_ to the Danes who occupied Leicester. 
 
 ---
 
-Muninn: "You mention death in your very first sentence? These are children, Huginn, not morticians."
+Muninn: "You mention _DEATH_ in your very first sentence? These are children, Huginn, not morticians."
 
 Huginn: "I think it's polite."
 
-Muninn: "To announce death so casually?"
+Muninn: "To announce _DEATH_ so casually?"
 
 Huginn: "To announce that the buffet has arrived. I wouldn't want anyone feeling left out."
 
@@ -650,7 +650,7 @@ Osric's thoughts drifted from the broken axle. He looked into the puddle beneath
 
 ## Chapter Two: The Tale of the Hearth-Warm Fyrdman
 
-### Part One: Gerdr's Tears
+### Part One: Gerðr's Tears
 
 Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare. He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
 
