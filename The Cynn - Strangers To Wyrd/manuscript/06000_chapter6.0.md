@@ -1,6 +1,6 @@
-## Chapter Six: The Tale of the Bell's Deacon
+# Chapter Six: The Tale of the Bell's Deacon
 
-### Part Zero: The Liturgy of Huginn
+## Part Zero: The Liturgy of Huginn
 
 Muninn: "Wait. Stop. Huginn, what in the Allfather’s name are you doing?"
 

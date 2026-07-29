@@ -1,4 +1,4 @@
-## Prologue: Same Story, Two Tails
+# Prologue: Same Story, Two Tails
 
 High above the world, where the winds carried the words of kings and beggars alike, flew two ravens. One was called Huginn. His mind delighted in possibilities, forever wondering what might yet be. The other was Muninn. He remembered every face, every word, and every deed he had ever witnessed since the beginning of time. Long had they wandered the lands of men, brothers-of-the-wing, gathering ancient stories to carry back to their master.
 

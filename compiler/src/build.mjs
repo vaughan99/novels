@@ -1,10 +1,10 @@
 import { mkdir } from "node:fs/promises";
 import path from "node:path";
 
-import { copyAssets } from "./copy-assets.mjs";
+import { copyAssets, copyPandocConfig } from "./copy.mjs";
 import { readManuscript } from "./read-manuscript.mjs";
 import { renderMarkdown } from "./render-markdown.mjs";
-import { renderHtml } from "./render-html.mjs";
+import { renderHtml, renderEpub } from "./render-pandoc.mjs";
 
 async function build() {
 
@@ -20,12 +20,14 @@ async function build() {
     await mkdir(buildDir, { recursive: true });
 
     await copyAssets(novel, buildDir);
+    await copyPandocConfig(novel, buildDir);
 
     const manuscript = await readManuscript(manuscriptDir);
 
     const mdFile = await renderMarkdown(manuscript, buildDir);
 
     await renderHtml(buildDir, mdFile);
+    await renderEpub(buildDir, mdFile);
 
     console.log("Done.");
 }

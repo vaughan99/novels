@@ -1,4 +1,4 @@
-### Part Five: The Liturgy of the Shield
+## Part Five: The Liturgy of the Shield
 
 _A shield is trusted with the blows you cannot bear yourself. It protects you from harm, if only you will trust it. To trust it, you must know it will protect you. A community has the same purpose. If you trust those around you and share each other's burdens, the whole suffers the blow easier than the individual._
 

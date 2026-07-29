@@ -19,3 +19,18 @@ export async function copyAssets(novel, buildDir) {
         buildDir
     ]);
 }
+
+export async function copyPandocConfig(novel, buildDir) {
+
+    const pandocDir = path.join(
+        novel,
+        'pandoc'
+    );
+    console.log(`Copying pandoc config to ${buildDir}`);
+
+    await exec("cp", [
+        "-r",
+        pandocDir,
+        buildDir
+    ]);
+}

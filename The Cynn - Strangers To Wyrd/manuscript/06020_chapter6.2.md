@@ -1,4 +1,4 @@
-### Part Two: The Liturgy of the Road
+## Part Two: The Liturgy of the Road
 
 _The Road does not care for confessions, nor does it grant absolution. But it is a priest. A very stern one. When it gives sermons, it asks questions of its flock: How much weight do you carry? Who should you trouble with questions, and who should just receive a nod? What is your bearing to others? What will you eat? Did you bring water? And, who looks like... a mark?_
 

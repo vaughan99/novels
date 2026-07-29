@@ -1,4 +1,4 @@
-## Chapter Eight: Barrow's Edge, The Hedge-Stalker
+# Chapter Eight: Barrow's Edge, The Hedge-Stalker
 
 The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the glow of slowly burning charcoal, hot enough to warm the space. The glow bathed the room in a heavy, flickering orange light, casting long, monstrous shadows behind the columns.
 

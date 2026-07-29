@@ -1,4 +1,4 @@
-## AFTERLIFE
+# AFTERLIFE: A Gratuitous View of Life After Life
 
 It had been a brutal trek.
 

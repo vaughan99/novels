@@ -1,4 +1,4 @@
-### Part Three: The Harvest of the Coal
+## Part Three: The Harvest of the Coal
 
 Years passed in _Under-Geat_.
 

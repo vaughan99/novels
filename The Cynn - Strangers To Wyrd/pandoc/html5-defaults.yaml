@@ -1,0 +1,14 @@
+
+from: markdown
+to: html5
+standalone: true
+toc: true
+toc-depth: 2
+css:
+  - assets/css/novel.css
+template: assets/template/novel-template.html5
+metadata-file: pandoc/metadata.yaml
+resource-path:
+  - .
+embed-resources: true
+verbosity: INFO

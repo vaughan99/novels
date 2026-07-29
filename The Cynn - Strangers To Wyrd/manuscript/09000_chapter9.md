@@ -1,4 +1,4 @@
-## Chapter Nine: Monanleoht, The Battle-Dancer
+# Chapter Nine: Monanleoht, The Battle-Dancer
 
 Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured that the blade was hers.
 

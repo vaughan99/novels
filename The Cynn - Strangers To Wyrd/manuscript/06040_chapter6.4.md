@@ -1,4 +1,4 @@
-### Part Four: The Liturgy of the Wound
+## Part Four: The Liturgy of the Wound
 
 _What is a wound? It is not merely the absence of skin or the parting of flesh. It is a memory that refuses to heal. It is the body’s way of keeping the past present, a pin in the map of where the world broke you. Some wounds do not care for the passage of time; they only know the lingering ache of what was lost._
 

@@ -1,4 +1,4 @@
-## Chapter Three: The Past Is Risen
+# Chapter Three: The Past Is Risen
 
 Elswyth was from Under-Geat, a daughter of the charcoal and the forest. She seldom mingled with the village-folk now, for she had spent half her life balanced on the sharp edge between truth and lie. Which was which depended on who you asked.
 

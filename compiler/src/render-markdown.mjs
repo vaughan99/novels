@@ -11,15 +11,15 @@ export async function renderMarkdown(manuscript, buildDir) {
     );
 
     // Add a TOC to the Markdown file.
-    const toc = generateTOC(manuscript, {
-        minLevel: 2,
-        maxLevel: 3,
-    });
-    let manuscriptWithTOC = insertTOC(manuscript, toc);
-    manuscriptWithTOC = addBackToTOCLinks(manuscriptWithTOC);
+    // const toc = generateTOC(manuscript, {
+    //     minLevel: 2,
+    //     maxLevel: 3,
+    // });
+    // let manuscriptWithTOC = insertTOC(manuscript, toc);
+    // manuscriptWithTOC = addBackToTOCLinks(manuscriptWithTOC);
 
     console.log(`Rendering manuscript MD to ${mdFile}`);
-    await writeFile(mdFile, manuscriptWithTOC, "utf8");
+    await writeFile(mdFile, manuscript, "utf8");
 
     return mdFile;
 }

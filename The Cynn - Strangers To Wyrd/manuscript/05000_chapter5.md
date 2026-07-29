@@ -1,4 +1,4 @@
-## Chapter Five: Let Us Prey
+# Chapter Five: Let Us Prey
 
 By the time Elswyth returned, the train’s oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat disappeared behind her.
 

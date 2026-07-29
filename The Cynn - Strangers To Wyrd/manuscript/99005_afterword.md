@@ -1,6 +1,6 @@
-## Afterword
+# Afterword
 
-### Why Write This Book?
+## Why Write This Book?
 
 I have been fascinated by magical weapons for most of my life.
 
@@ -22,7 +22,7 @@ If a blade genuinely housed a spirit, what would its owner believe about it? If 
 
 Many years later, I learned how to forge knives. I made a few knives well enough to be pleased with the accomplishment, but certainly not well enough to think myself worthy of being called a smith. Once that happened, the old questions returned. Only now they felt more tangible. A real blade has weight. It has balance. It reflects light in specific ways. It acquires scratches, stains, and history. Most importantly, it exists in the world. I found myself imagining what kinds of myths might grow around such objects. Not modern myths, but myths that would feel plausible to the people who actually carried blades.
 
-Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions. To a storyteller, that environment is irresistible. To an off-and-on Dungeon Master, it felt like discovering a campaign setting that history had already written.
+Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions. To a storyteller, that environment is irresistible. To an oddff-and-on Dungeon Master, it felt like discovering a campaign setting that history had already written.
 
 The three blades at the heart of this story emerged from these ideas. The blades existed in my mind before I knew what story I wanted to tell. I started asking questions from the blades' perspective: "What kind of owner would want to own me? Who would commission my forging?" These three were not the first blades I imagined.
 
@@ -45,7 +45,8 @@ Looking at the crossroads of the Danelaw at the time, I envisioned Odin having a
 This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 unholy vortex-summoner of doom called _Wodbora_. Everything else followed from that.
 
 ---
-### Who Are The Cynn, Really?
+
+## Who Are The Cynn, Really?
 
 These are the forge elves who carry on the tradition of magical making. They're not literally descendants of Weyland, Völundr, Vulcan, or any other divine smith. In reality, of course, they are just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun, usually while giggling like children when things actually work out okay. Huginn makes up stories about the things we make and dream up, then tells them to imaginary children.
 
@@ -55,9 +56,9 @@ That is what the Cynn really are: craft joined to merry mythmaking.
 
 ---
 
-### The Tenth Century
+## The Tenth Century
 
-#### Leicester Map Legend
+### Leicester Map Legend
 
 | **Location**                  | **Description**                              |
 | ----------------------------- | -------------------------------------------- |
@@ -105,7 +106,8 @@ That is what the Cynn really are: craft joined to merry mythmaking.
 | East Gate                     | Fosse Way to Lincoln                         |
 
 ---
-#### The Church, The Shadow Gate and Under-Geat
+
+### The Church, The Shadow Gate and Under-Geat
 
 Historical records attest to the existence of a Church of St. Augustine and St. Columba in the early 10th century. The record is vague as to its placement, saying it was near the Roman Forum. During the Norman period, that church disappears from the record, and the Church of St. Nicholas was erected next to the Jewry wall. It stands today. One implication that seems likely is that the Church of St. Nicholas was built on the same site. Whether it used the existing church as a basis, or was built anew from the old church's foundations was not of interest.
 
@@ -120,7 +122,8 @@ The Roman walls undoubtedly continued to provide an imposing barrier, but they w
 Under-Geat arose from a simple observation. A church standing beside what amounted to a Roman stone quarry—and, in many respects, a quarry of relics—would likely accumulate considerable wealth and influence. The needs of such a minster would naturally foster its own supporting economy. Under-Geat and the Old Frith are my attempt to imagine that ecosystem.
 
 ---
-#### Leicester and the Peace of 943
+
+### Leicester and the Peace of 943
 
 The events of _The Cynn_ take place against the backdrop of a real historical conflict. Following the death of King Æthelstan in 939, political authority in England entered a period of uncertainty. Olaf Guthfrithson, ruler of Dublin and York, moved quickly to exploit the situation. His campaign into Mercia culminated in Leicester, one of the Five Boroughs of the Danelaw and one of the most strategically important settlements in central England.
 
@@ -142,7 +145,7 @@ History ultimately rendered the agreement short-lived. Olaf died within the year
 
 ---
 
-#### Living Between Worlds
+### Living Between Worlds
 
 Modern discussions of religion often assume that belief functions like membership. A person belongs to one faith, adopts its teachings, and rejects competing alternatives. Such assumptions can be useful when describing formal institutions, but they can be misleading when applied to the lived experience of tenth-century England. Conversion was rarely a single event. It was a process unfolding across generations. New beliefs arrived gradually, older customs persisted, and many people continued to navigate a world shaped by both. The result was not necessarily confusion. For many, it was simply ordinary life.
 
@@ -162,7 +165,7 @@ The purpose of this story is not to suggest that paganism and Christianity were 
 
 ---
 
-#### Wyrd (And Why It's So Weird)
+### Wyrd (And Why It's So Weird)
 
 Modern readers often encounter _wyrd_ translated simply as **fate**. While convenient, that translation is misleading. Fate usually suggests a future that has already been written, where every event is predetermined and every choice merely creates the illusion of freedom. That is not how I came to understand _wyrd_ while researching this novel.
 
@@ -195,7 +198,7 @@ The idea of fate behaving more like gravity within a given time horizon (mortali
 
 ---
 
-#### Agency of Magical Artifacts
+### Agency of Magical Artifacts
 
 Several historical runic inscriptions blur the distinction between object and speaker. Rather than presenting a spell as something spoken by the owner, the inscription may be framed as the voice of the object itself. To a modern reader this can seem poetic, but to an early medieval audience the distinction carried real significance. The Old English word _hǣlu_ is often translated as "health" or "wholeness," but in this context it refers to something broader: the integrity by which a thing possesses identity, purpose, destiny, and participation in the world. A thing with sufficient _hǣlu_ is not merely acted upon by wyrd; it participates in wyrd.
 
@@ -207,7 +210,7 @@ In practical terms, the distinction functions as a metaphysical safeguard. The w
 
 ---
 
-#### The Many Faces of the _Wodhere_
+### The Many Faces of the _Wodhere_
 
 The Wild Hunt is one of the most widespread and adaptable supernatural traditions in northern Europe. Across centuries and regions, the details change dramatically. The leader may be a god, a king, a saint, a devil, or a ghost. The riders may be warriors, hunters, spirits, the restless dead, or condemned souls. Yet certain themes persist. A spectral procession crosses the night sky. The living are warned not to interfere. The boundary between the world of the living and the world of the dead briefly becomes permeable.
 
