@@ -1540,13 +1540,13 @@ Reeve Galindo, astride his horse, looked back at the listing carts with an expre
 
 "My lord Reeve, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted blade. "The _Ulfhednar_ did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "_That - is - why - you - were - hired!_ These men will not die... we've hired you!"
 
-Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for the help, but you have to know those wolf-types are a hard lot. I'd trust the Devil to grow a halo before I trust them to keep peace."
+Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for the help, but ye have to know those wolf-types are a hard lot. I'd trust the Devil to grow a halo before I trust them to keep peace."
 
 "I'll not discuss this again. Fyrd! Gather round!"
 
 The fyrdmen clustered around his horse.
 
-"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You... and you... gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
+"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You three... you'll mind the wounded. Help them keep up. You... and you... gather enough pots and kettles to feed the fyrd.  We'll eat from our hands before we leave a meal for the Danes."
 
 He looked down at the mud.
 
@@ -1566,7 +1566,7 @@ Osric dropped a heavy, splintered piece of ash into the slush, his hands shaking
 
 Murdock side-stared Elswyth, knowing that his full glare was a snare only for stronger animals. "You know the darkwood well enough for axle-timber I take it?" he asked, his voice treading lightly. She nodded. "I can find it in the moonlight."
 
-Murdock raised an eyebrow. "Aye, but you think you're going to carry that back here by yourself through the mud? You think any of these men are going to follow you into the Charnwood at night? Bravery doesn't grow on these trees, lass."
+Murdock raised an eyebrow. "Aye, but ye think you're going to carry that back here by yerself through the mud? Ye think any of these men are going to follow ye into the Charnwood at night? Bravery doesn't grow on these trees, lass."
 
 Osric smiled, if only for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light." The sun hung low in the sky. One hour. Just one hour without crawling through the filth—that was all Osric wanted.
 
@@ -1580,7 +1580,7 @@ The one-eyed archer raised his hand. "I think I know the answer, but why build a
 
 Murdock briefly looked up. "In case one of the oxen suddenly decides he's the _King of Mercia_!"
 
-"But why a small hole."
+"But why a small hole?"
 
 "We wouldn't want the _King_ to think we've opened the castle gate just for him, now do we?"
 
@@ -1720,7 +1720,7 @@ Before her was a bench of white marble. A ray of moonlight pierced a crack in th
 
 She heard the footsteps of Vikings around the rainwater chute above, and they could see her track ended there. They were determined to follow her into the dark.
 
-Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Rognvaldr caught Cynewulf's silhouette against the moonlit path. His grin widened. He quickened his pace.
+Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Rognvaldr caught Cynewulf's silhouette crossing the Middleflat. His grin widened. He quickened his pace.
 
 Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast — the church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
 
@@ -1729,8 +1729,7 @@ There, lying across the cold stone, Cynewulf found a large flat-topped chest of 
 Leaning on the chest was a compact round shield, perhaps a hand's-width wider than the _tarians_ of the _Dragon's Teeth_. The core was a union of hornbeam and linden. The face and rim were covered with thick waxed cuir bouilli. The boiled leather had been painted in alternating quarters of green and brown on the face. In the center, a round steel boss gleamed, punched with a foundry mark of a small oak sprouting from a broken anvil, with crossed hammers below. 
 
 Across the top rested a black leather scabbard embossed with two ragged ravens, ancient runes, and the endless knot of two wolves forever chasing one another. The blade's handle was long, easily enough for two hands, but still practical for one. Its handle was wound in darkened steel wire, the coils sealed beneath a charcoal-black resin until metal and ash had become one. At either end, stout Turk's head knots gripped the wrap like the bindings of an old mariner's rope. Within slept _Wodbora, the Madness-Bringer, the Prophet of the Wodhere_.
-
-The giant Rognvaldr slowly climbed the steps into the churchyard. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
+The giant Rognvaldr slowly emerged from Middleflat. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
 
 
 [↑ Back to Table of Contents](#table-of-contents)
@@ -2617,7 +2616,7 @@ Rognvaldr stood and mocked him in his language. He never cared to learn the lang
 
 Cynewulf sensed that his time was short. He had no shield, and no other weapon. He quickly grabbed the handle of the shield, gifted to him by unknown hands. His sword hand found the wire-wrapped handle of the _Wodbora_ just as Rognvaldr charged. He pulled the length of the blade from the scabbard. The blade had rivers of steel, light and dark, as though the steel was both fog and night.
 
-He stepped forward into the yard. He did not want to be cornered on the porch.
+He stepped forward into the road. He did not want to be cornered on the porch.
 
 The voice of his father whispered in his ear. "If you want to live, repeat after me. _Sceran scēapum : dēað wulfum_ (_shears for sheep, death for wolves_)"
 
@@ -2849,13 +2848,13 @@ With that, the Ravens of Odin flew away.
 
 Cynewulf dared not look at the space where the giant had stood, but something told him that he must. He needed the memory to sear into his mind.
 
-The storm had left nothing behind but an empty horror. There was not even a spray of blood nor a strand of hair. His broken weapon, and his emptied armor lay there — but the giant himself was utterly _absent_.
+The storm had left nothing behind but an empty horror. There was not even a spray of blood nor a strand of hair. His sword, shield, his purse, and his emptied armor lay there — but the giant himself was utterly _absent_.
 
 Cynewulf fell to his knees and retched.
 
 He knew that to unleash such a horrible cleansing was a grave curse. He was now its guardian. And if he had need of it again, the toll would be extreme.
 
-The frantic ringing of the bells had awakened the townspeople. Down the hill, torches began to flicker in the dark windows of the town. Doors creaked open, and the terrified townspeople of Leicester, clutching iron pitchforks and wooden clubs, began to trickle out into the mudded slush, drawn toward the holy ground by the midnight alarm.
+The frantic ringing of the bells had awakened the townspeople and what remained of the Dane army. Down the hill, torches began to flicker in the dark windows of the town. Doors creaked open, and the terrified townspeople of Leicester, clutching iron pitchforks and wooden clubs, began to trickle out into the mudded slush, drawn toward the holy ground by the pealing of the bells.
 
 Cynewulf heard them coming.
 
@@ -2869,11 +2868,11 @@ Then clusters of townsolk mustered onto the road to the church, demanding to kno
 
 Many Danes were awakened as well, rushing to the Church. They had no more answers than anyone else.
 
-All of them stopped dead in their tracks. Their eyes darted from Cynewulf to the massive, hollowed patchwork armor of the giant lying flat in the mud. Alongside it lay his sword and shield. There arose a cloud of whispers.
+All of them stopped dead in their tracks. Their eyes darted from Cynewulf to the massive, hollowed patchwork armor of the giant lying flat in the mud. There arose a cloud of whispers.
 
-It was clear to Cynewulf... there was only one witness to the event.
+It was clear to Cynewulf... there was only one mortal witness to the event... and it was him.
 
-Then, the blacksmith raised his torch, the light falling directly across Cynewulf’s weathered, scarred face. The old man gasped, his grip loosening on his iron club. He didn't see a calloused highwayman or a brutal mercenary of the rearguard. He looked into the priest's eyes and stepped forward, his voice trembling with a sudden, reverent awe.
+Then, a blacksmith raised his torch, the light falling directly across Cynewulf’s weathered, scarred face. The old man gasped, his grip loosening on his iron club. He didn't see a calloused highwayman or a brutal mercenary of the rearguard. He looked into the priest's eyes and stepped forward, his voice trembling with a sudden, reverent awe.
 
 "Father... Father Cynewulf?" the blacksmith whispered. "By the saints, it is you. You've come back to us. You stood against the wolves." An elderly woman from the parish dropped to her knees in the slush, crossing herself as she looked up at him. "Father Cynewulf... you’re alive. You saved the holy house." It was hard for him to remember a time when he saved anything.
 
@@ -3355,7 +3354,7 @@ The nisse transformed into the presence of her former living self, Ingrid. It wa
 
 Ingrid paused a moment. She looked up to Odin, and straightened. "I summon my husband, Ingvar the Steady, son of Torsten, who died in Halfdan's host at York. He is the lord of the family barrow. I summon his servants of the shieldwall."
 
-She reached to the floor where the barrow stone lay, and set it firmly on the anvil. She tapped the ancestry rune with her finger. From the barrow stone, four ghostly spirits emerged, dressed in Dane armor, shields, spears, and axes. They were her husband Ingvar, and three of his friends who died in a pitched battle while taking York. Ingvar the Steady stood at the fore, his face a mask of grim, eternal vigilance, flanked by three of his closest brothers-in-arms who had fallen beside him in the final, desperate push for York. Ingvar was the brother of Ealhild's grandfather, and the tomb had been built in his honor, a silent monument to a war that had never truly ended.
+She reached to the floor where the barrow stone lay, and set it firmly on the anvil. She tapped the ancestry rune with her finger. From the barrow stone, four ghostly spirits emerged, dressed in Dane armor, shields, spears, and axes. Ingvar the Steady stood at the fore, his face a mask of grim, eternal vigilance, flanked by his three oath-sworn companions who had fallen beside him in the final, desperate push for York. Ingvar was the brother of Ealhild's grandfather, and the tomb had been built in his honor, a silent monument to a war that had never truly ended.
 
 "Ingvar, my husband," Ingrid began. "My vigil over Ealhild's home was a ruin of my making. I am bound to the fate of Osric, her husband. But my pledge is not enough. You are here to speak for our family." She stepped back, and the spirits of the shieldwall seemed to swell in stature, their spectral armor catching the orange glow of the coals.
 
@@ -3369,7 +3368,7 @@ Freyr studied the five spirits with a keen knowing smile. "Yes! Ingvar, son of T
 
 Odin's eye crackled with an energy of momentary hate. "You *dared* defy me. Yes, I remember you as well, and the valkyries were somber that day." The forge fell into a suffocating silence, the spirits of the shieldwall standing motionless as the _All-Father’s_ gaze bore into them. The ravens shifted on the workbench, peering to see what would happen next. Then, slowly, Odin’s posture relaxed, his shoulders dropping, and the cold, piercing light in his eye softened into a dangerous, calculating twinkle.
 
-"There is hope for a new pact," Odin rasped, his voice now smooth as polished stone. "One that sees you, your wife, and your friends finally resting in Alfheimr. Your yard shall be measured by the length of the steel. Your friends will be the fence at the hedge. You will protect the remains of Ealhild's family... but the risk is very great for you, Ingvar. The blade is a fragile thing... if it breaks, you all will be cast out from Alfheimr. You will become hedge spirits, and the _Wild Hunt_ will give chase. And you *will* run." Odin leaned closer, his single eye burning with a cold, terrifying intensity. "Ingrid, Osric must pay a price as well. You will bring him to Alfheimr with you while the blade is wielded, and you will keep him there while Ingvar guards the fence. Osric will be held within a breath of death. He wagers your eternity. You shall wager his life. Agreed?"
+"There is hope for a new pact," Odin rasped, his voice now smooth as polished stone. "One that sees you, your wife, and your friends finally resting in Alfheimr. Your yard shall be measured by the length of the steel. Your friends will be the fence at the hedge. You will protect the remains of Ealhild's family... but the risk is very great for you, Ingvar. The blade is a fragile thing... if it breaks, you all will be cast out from Alfheimr. You will become hedge spirits, and the _Wild Hunt_ will give chase. And you *will* run." Odin leaned closer, his single eye burning with a cold, terrifying intensity. "Ingrid, Osric must pay a price as well. You will bring him to Alfheimr should he say the words, and you will keep him there while Ingvar guards the fence. Osric will be held within a breath of death. He wagers your eternity. You shall wager his life. Agreed?"
 
 Ingvar looked at Ingrid. He saw the golden light of Freyr’s promise and the grim reality of Odin’s demand. "Agreed," Ingvar said, his voice echoing with the finality of a closing tomb. "I am the yard to the edge. The shieldwall is the fence. Let the forging begin."
 
@@ -3429,7 +3428,7 @@ From somewhere inside the blank Roman tile, a sudden burst of child-giggles erup
 
 "He's rhyming!" cried one invisible voice. "He thinks he's a skald!" giggled a second. "Look at his tiny teeth," chimed a third from the hearth-roots. "So sharp. So full of old bone-grime. He smells of the ditch-ways."
 
-The redcap howled, as the mushroom-ropes dragged themselves to the bellows. The cords wove his hands to the bellow-handles, and a coal pit erupted from the floor at his feet. Pieces of coal danced on his body like ants crawling up a log, throwing themselves into the fire. The ropes lifted him up, and threw his weight against the heavy wood-handle of the bellows. The fire roared. Above the flames, the scream of giggles drew to an operatic chorus.
+The redcap howled, as the mushroom-ropes dragged themselves to the anvil to face Odin and Freyr.
 
 "I am the Spotted King! I've slit more throats than you've cast iron pots, you wall-bound worms!"
 
@@ -3459,6 +3458,12 @@ Odin looked at Freyr. "Agreed?"
 
 "LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade. Make it light and poised like the moonlit marten upon the bough!" He and Odin stepped back once more to let the forging commence.
 
+The forge-elves dragged Fussleton once more, this time to the bellows. The cords wove his hands to the bellow-handles, and a coal pit erupted from the floor at his feet.
+
+Pieces of coal danced on his body like ants crawling up a log, throwing themselves into the fire.
+
+The ropes lifted him up, and threw his weight against the heavy wood-handle of the bellows. The fire roared. Above the flames, the scream of giggles drew to an operatic chorus.
+
 The foreman of the forge-elves, Besidius, leaned close and whispered into Freyr's ear.
 
 Besidius: "Master-of-the-Fray, do you want that extra-pointy, like the marten's teeth?"
@@ -3469,7 +3474,7 @@ Besidius: "Done, your Fray-ship!"
 
 Freyr burst into laughter at the dreadful faux honorific.
 
-A billet of curious white steel emerged from the gloom and landed in the forge. The elves called it _welkin-iron_—sky-vault iron, the nickel-rich heart of a celestial stone that had fallen from the heavens in the deep past. It was stubborn, brittle stuff, but the Cynn had spent months and many baskets of Elswyth's coal taming it. Again and again they heated the sky-stone to a yellow-white glow, drove out its stony impurities beneath their hammers, and folded it over charcoal fires until the heavens themselves had learned the ways of steel. What remained was a dense billet of pale, nickel-rich metal whose silvery luster seemed poised to catch moonlight itself.
+A billet of curious white steel emerged from the gloom and landed in the forge. The elves called it _welkin-iron_—sky-vault iron, the nickel-rich heart of a celestial stone that had fallen from the heavens in the deep past. It was a nickel-rich metal whose silvery luster seemed poised to catch moonlight itself.
 
 The redcap was carried and bound by his mushroomed ropes to the bellows. More coal erupted from the floor, and crawled up the redcap's legs like black dancing ants, throwing themselves into the fire.
 
@@ -3484,7 +3489,7 @@ Spotted King: Your little fire cannot tame—
 Cynn:         The beast that wears the bloody name!
 ```
 
-They cut him off mid-breath. The temerity! The redcap slammed his weight into the handle, willingly this time, to accelerate the jaunt. He thought, "The speed is the thing! I will outwit these idiots yet!" He forced his lungs to move faster, spitting his verses like rapid hammer-blows to outpace the choir.
+They cut him off mid-breath. _The temerity!_ The redcap slammed his weight into the handle, willingly this time, to accelerate the jaunt. He thought: _The speed is the thing! I will outwit these idiots yet!_ He forced his lungs to move faster, spitting his verses like rapid hammer-blows to outpace the choir.
 
 ```
 Spotted King: You wall-lice crawl inside the dead!
@@ -3578,9 +3583,9 @@ Odin: "For this third blade, have you considered my proposal?"
 
 Freyr: "Yes, another space in Alfheimr. This one in the likeness of a church, of _Christ_."
 
-Odin: "When the blade is drawn and the words are spoken, the _witan sleep_ will take Cynewulf there. The ravens will also be summoned."
+Odin: "When the blade is drawn and the words are spoken, the _witan-sleep_ will take Cynewulf there. The ravens will also be summoned."
 
-Freyr's eyes widened and his smile blazed once more. "Ahh, the place for a witan. For a man who must *confess*. Very well, old man. I offer the church itself. I shall create a space in Alfheimr that is a church, with a vaulted stone ceiling and a thousand lit candles. And your _witan_-sleep will stop time. The wielder must be given time to search his soul. I will not allow this to be a sudden death. If he is to be judged, he must be given the silence to hear his own heart."
+Freyr's eyes widened and his smile blazed once more. "Ahh, the place for a witan. For a man who must *confess*. Very well, old man. I offer the church itself. I shall create a space in Alfheimr that is a church, with a vaulted stone ceiling and a thousand lit candles. And your _witan-sleep_ will stop time. The wielder must be given time to search his soul. I will not allow this to be a sudden death. If he is to be judged, he must be given the silence to hear his own heart."
 
 Odin grumbled, but resigned. "Fine. He will have the time it takes for the _Wodhere_ to run him to ground—the span of a hundred heartbeats before the Hunt chases the breath from his lungs. That is all the time I am willing to give."
 
@@ -3588,7 +3593,7 @@ Freyr’s smile softened, though his eyes remained fixed on the altar. "A chase,
 
 The Cynn forge-elves made a circle around the two gods, listening intently.
 
-"To summon the _Wild Hunt_ we need a part of Odin. To summon the ravens, we need a part of them."
+Besidius called forth to his Cynn. "Gather round! To summon the _Wild Hunt_ we need a part of Odin. To summon the ravens, we need a part of them."
 
 "Something small."
 
@@ -3645,25 +3650,17 @@ Odin looked at Huginn and Muninn. "Come on feathers. Time to move on."
 
 ---
 
-Huginn: "DUN...DUN.."
-
-Muninn: "For the LAST TIME! THERE. ARE. NO. ORGANS. IN. A. FORGE!!"
-
-Huginn stared blankly. This isn't the first time he's been yelled at for forgetting rules. He was eager to change the subject.
-
 Huginn: "I was wondering what to wear to my first inquisition."
 
 Muninn: "Wear? You're a bird, Huginn! You're wearing the same thing you've been wearing since the dawn of time. Maybe try a nice twig behind the ear?"
 
-Huginn: "How about a necklace made from a raven's beak?"
+Huginn: "Wait! Now it's time for my favorite part."
 
-Muninn: "Wow that's not subtle."
+Muninn: "Please don't tell me."
 
-Huginn: "I think I spy our faces on the scabbard. I don't remember sitting for a portrait!"
+Huginn: "Viking laundry."
 
-Muninn: "You didn't. All-Father told them to put us there, remember? We are the inquisitors. He merely gets to listen. Those were the rules."
-
-Huginn: "I'm getting hungry. The sun is setting. Let's see if the Night of Blood has begun."
+Muninn: "Yep. You said it. You... went there."
 
 
 [↑ Back to Table of Contents](#table-of-contents)
