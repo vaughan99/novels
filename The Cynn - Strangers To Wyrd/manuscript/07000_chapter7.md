@@ -6,13 +6,13 @@ Reeve Galindo, astride his horse, looked back at the listing carts with an expre
 
 "My lord Reeve, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted blade. "The _Ulfhednar_ did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "_That - is - why - you - were - hired!_ These men will not die... we've hired you!"
 
-Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for the help, but you have to know those wolf-types are a hard lot. I'd trust the Devil to grow a halo before I trust them to keep peace."
+Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for the help, but ye have to know those wolf-types are a hard lot. I'd trust the Devil to grow a halo before I trust them to keep peace."
 
 "I'll not discuss this again. Fyrd! Gather round!"
 
 The fyrdmen clustered around his horse.
 
-"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You... and you... gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
+"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You three... you'll mind the wounded. Help them keep up. You... and you... gather enough pots and kettles to feed the fyrd.  We'll eat from our hands before we leave a meal for the Danes."
 
 He looked down at the mud.
 
@@ -32,7 +32,7 @@ Osric dropped a heavy, splintered piece of ash into the slush, his hands shaking
 
 Murdock side-stared Elswyth, knowing that his full glare was a snare only for stronger animals. "You know the darkwood well enough for axle-timber I take it?" he asked, his voice treading lightly. She nodded. "I can find it in the moonlight."
 
-Murdock raised an eyebrow. "Aye, but you think you're going to carry that back here by yourself through the mud? You think any of these men are going to follow you into the Charnwood at night? Bravery doesn't grow on these trees, lass."
+Murdock raised an eyebrow. "Aye, but ye think you're going to carry that back here by yerself through the mud? Ye think any of these men are going to follow ye into the Charnwood at night? Bravery doesn't grow on these trees, lass."
 
 Osric smiled, if only for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light." The sun hung low in the sky. One hour. Just one hour without crawling through the filth—that was all Osric wanted.
 
@@ -46,7 +46,7 @@ The one-eyed archer raised his hand. "I think I know the answer, but why build a
 
 Murdock briefly looked up. "In case one of the oxen suddenly decides he's the _King of Mercia_!"
 
-"But why a small hole."
+"But why a small hole?"
 
 "We wouldn't want the _King_ to think we've opened the castle gate just for him, now do we?"
 
@@ -186,7 +186,7 @@ Before her was a bench of white marble. A ray of moonlight pierced a crack in th
 
 She heard the footsteps of Vikings around the rainwater chute above, and they could see her track ended there. They were determined to follow her into the dark.
 
-Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Rognvaldr caught Cynewulf's silhouette against the moonlit path. His grin widened. He quickened his pace.
+Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Rognvaldr caught Cynewulf's silhouette crossing the Middleflat. His grin widened. He quickened his pace.
 
 Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast — the church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
 
@@ -195,5 +195,4 @@ There, lying across the cold stone, Cynewulf found a large flat-topped chest of 
 Leaning on the chest was a compact round shield, perhaps a hand's-width wider than the _tarians_ of the _Dragon's Teeth_. The core was a union of hornbeam and linden. The face and rim were covered with thick waxed cuir bouilli. The boiled leather had been painted in alternating quarters of green and brown on the face. In the center, a round steel boss gleamed, punched with a foundry mark of a small oak sprouting from a broken anvil, with crossed hammers below. 
 
 Across the top rested a black leather scabbard embossed with two ragged ravens, ancient runes, and the endless knot of two wolves forever chasing one another. The blade's handle was long, easily enough for two hands, but still practical for one. Its handle was wound in darkened steel wire, the coils sealed beneath a charcoal-black resin until metal and ash had become one. At either end, stout Turk's head knots gripped the wrap like the bindings of an old mariner's rope. Within slept _Wodbora, the Madness-Bringer, the Prophet of the Wodhere_.
-
-The giant Rognvaldr slowly climbed the steps into the churchyard. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
+The giant Rognvaldr slowly emerged from Middleflat. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
