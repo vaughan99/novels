@@ -2,7 +2,7 @@
 
 ### Part One: The Liturgy of the Bell
 
-_A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no-one tells the bell-maker when the bell will toll for him._
+_A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no one tells the bell-maker when the bell will toll for him._
 
 _These are the lessons of the Bell_.
 
@@ -385,7 +385,7 @@ Nobody stopped him. Nobody shoved him.
 
 He received a curled eyebrow from the quartermaster, then a wooden plate holding a bread crust and two eggs. He was handed a mug of warmed, watered-ale. He didn't savor it; he inhaled it all, the heat of the ale and the salt of the eggs grounding him in the reality of his new life. He was a scavenger no longer. He was a mercenary.
 
-Sitting in the dirt, he heard the approach of mailed stirrups and scabbards brushing on cloaks. _Fer-Main_ was paying him a visit. Behind him, was the sargeant of the watch the night before.
+Sitting in the dirt, he heard the approach of mailed stirrups and scabbards brushing on cloaks. _Fer-Main_ was paying him a visit. Behind him, was the sergeant of the watch the night before.
 
 Cynewulf jumped to his feet, eager to thank his new lord. _Fer-Main_ cut him off instantly.
 
@@ -461,7 +461,7 @@ He didn't lecture or preach; he let his fists do the teaching, hammering the pri
 
 To act as the face of the company, he was gifted black fur-trimmed clothing, access to soap, and the use of a strong pony. He spent hours every week in _Fer-Main’s_ pavilion, reporting on negotiations. _Fer-Main_ was a demanding lord, but fair. They would spend moments over wine discussing the campaign or the distant, sun-drenched life back in Frankia.
 
-Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. If he could get the Arch-Bishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable.
+Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. If he could get the Archbishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable.
 
 The disk had to be perfect though. Lead tends to spread at the edges of imprints, making it inferior for a negative for a die cast. Cynewulf worked with the smith, with access to rarer metals, to craft an alloy. Several trials and failures. Finally, his last try: lead, a bit of tin, a bit of antimony.
 
@@ -630,7 +630,7 @@ The rider’s jaw settled into iron resolve. But the parchment was already seale
 
 The rider didn't flinch. He leaned forward in his saddle, the leather of his gauntlet creaking as he gripped the reins. "The King doesn't hang his vanguard, _Fer-Main_. He just lets them starve when the supply lines get cut. You want the silver? You clear the road. You want the salvage? You take it from the Norse, not the Church. That’s the contract. Take it or leave it, but the army moves at dawn."
 
-_Fer-Main_ stared at him, the silence stretching until it felt like the air itself was hardening. He wasn't looking for a fight—he was looking for the limit of the King's desperation. And the contents of the charter was that limit.
+_Fer-Main_ stared at him, the silence stretching until it felt like the air itself was hardening. He wasn't looking for a fight—he was looking for the limit of the King's desperation. And the contents of the charter were that limit.
 
 "Fine," _Fer-Main_ said, his voice dropping to a low, dangerous register. "We’ll clear the road. Bandits in Durham beware... we'll hang their _fully-clothed_ corpses from the trees, for all to see—Pagan _and_ Christian. We’ll leave them as a testament to the King’s justice. If the Bishop of Durham has a problem with the view, he can take it up with Winchester... and if he wants to stop it, he can send a fast rider with a bag of silver."
 

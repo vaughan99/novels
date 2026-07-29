@@ -166,7 +166,7 @@ He was no relic of the old sea-kings. Olaf had been baptized into Christ, heard 
 Olaf descended upon the Danelaw. He took York easily. By the autumn of 942, Leicester 
 had fallen into Danish hands, and he held it through the winter.
 
-King Edmund had called upon his lords to deliver a force to re-take Leicester. His lords answered.
+King Edmund had called upon his lords to deliver a force to retake Leicester. His lords answered.
 
 The armies fighting for Edmund came from East Anglia, Mercia, Wessex, and even Northumbria. Mercenaries came from every corner where the news of silver could spread.
 
@@ -613,7 +613,7 @@ He attended the little parish church at Easter, at Michaelmas, and on the Feast 
 
 His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near _Hagustealdsham_. His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
 
-"My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrd-men. "The land knew my forefathers almost three hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
+"My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrdmen. "The land knew my forefathers almost three hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
 
 Osric's wife was Ealhild, a woman of the Swedes.
 
@@ -637,13 +637,13 @@ Huginn: "There, happy?"
 
 ---
 
-She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow.
+She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the southeast. It was a lush valley, free of boulders, and easy to plow.
 
 Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
 
 He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone with jet was put as the cap on the barrow, the black streaks shining in the sun.
 
-Her grand-father bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
+Her grandfather bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
 Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord, Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked. She pretended to be Gerðr with her mother, tempting Freyr to lay down his sword and frolic with her. She also knew some of her mother's stories were invented on the spot, but another tale of Gullinbursti the Golden-Bristled Boar soaring over hedgerows, or butting a troll into a ditch for stealing barley, never failed to make her laugh. 
 
@@ -871,13 +871,13 @@ He stared up at the sky; half of the roof had completely collapsed. He shivered,
 
 "Am I dead?"  
 
-He fell barely asleep. Off an on, he drifted out of unconsciousness.
+He fell barely asleep. Off and on, he drifted out of unconsciousness.
 
 He woke to a sound. He heard dragging, which stopped suddenly. He noticed that more thatch had moved to within arm's reach. It was neatly stacked, ready for him to use.
 
 "Am I going mad?"
 
-His mind drifted again. He sunk into a dreamless pit.
+His mind drifted again. He sank into a dreamless pit.
 
 He woke to a piercing ray of sunshine. It pressed hard through a hole in the clouds, and landed clean on his face. It was almost... warm. There was also something pressing into his hand. It had a feel, and a weight. He brought it up to his face, and saw the small crabapple peering back at him. It was shriveled and frost-bitten, a lonely survivor from the tree Ealhild had planted, yet it sat in his hand like a treasure. He didn't know he was hungry, until he saw it.
 
@@ -887,7 +887,11 @@ There was no response.
 
 "That's the answer. I am going mad," he croaked.
 
-His focus narrowed, and he saw a wooden bowl in front of him. It was filled with water. Steam rose from the water, swirling like an old ghost. His hands rushed forward. It was warm! Convexingly warm. He put it to his lips, and his throat flourished like an opening blossom. The warmth entered his chest, and he could practically feel his blood turning from ice, if but for a moment. He sat back into his tiny cove of thatch, amazed that warmth could feel so good. And yet, everything around him was a ruin.
+His focus narrowed, and he saw a wooden bowl in front of him. It was filled with water. Steam rose from the water, swirling like an old ghost. His hands rushed forward.
+
+_It was warm! Impossibly warm._
+
+He put it to his lips, and his throat flourished like an opening blossom. The warmth entered his chest, and he could practically feel his blood turning from ice, if but for a moment. He sat back into his tiny cove of thatch, amazed that warmth could feel so good. And yet, everything around him was a ruin.
 
 His eyes returned to the crabapple. It was small, almost pathetic, as if it was begging him not to eat it. "Sorry, little one, " he whispered. He took a bite. The crisp, sour-sweet flesh hit his palate, a sharp jolt of life that cut through the numbness of his tongue. It was the taste of the south garden, the taste of Ealhild’s hands, the taste of a summer that had ended a lifetime ago.
 
@@ -915,7 +919,7 @@ The daub didn't just fall; it was _pushed_? A deliberate, rhythmic pressure fro
 
 Another piece of daub pushed in, this time a foot higher.
 
-"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica. He couldn't remember the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
+"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica. He couldn't remember the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sown or harvested.
 
 He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before: the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
 
@@ -953,7 +957,7 @@ Then: _scrrtch_
 
 He peered. He saw straw poke out from the new daub.
 
-He turn back to his cove, his eyes stared at the ground. His expression went blank. He sighed. He giggled. He realized with terrifying clarity that for his sanity: that was the last straw.
+He turned back to his cove and he stared at the ground. His expression went blank. He sighed. He giggled. He realized with terrifying clarity that for his sanity: that was the last straw.
 
 
 ### Part Three: The Feared
@@ -3100,7 +3104,7 @@ Huginn: "I said stop teasing me!"
 
 ### Part One: The Liturgy of the Bell
 
-_A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no-one tells the bell-maker when the bell will toll for him._
+_A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no one tells the bell-maker when the bell will toll for him._
 
 _These are the lessons of the Bell_.
 
@@ -3483,7 +3487,7 @@ Nobody stopped him. Nobody shoved him.
 
 He received a curled eyebrow from the quartermaster, then a wooden plate holding a bread crust and two eggs. He was handed a mug of warmed, watered-ale. He didn't savor it; he inhaled it all, the heat of the ale and the salt of the eggs grounding him in the reality of his new life. He was a scavenger no longer. He was a mercenary.
 
-Sitting in the dirt, he heard the approach of mailed stirrups and scabbards brushing on cloaks. _Fer-Main_ was paying him a visit. Behind him, was the sargeant of the watch the night before.
+Sitting in the dirt, he heard the approach of mailed stirrups and scabbards brushing on cloaks. _Fer-Main_ was paying him a visit. Behind him, was the sergeant of the watch the night before.
 
 Cynewulf jumped to his feet, eager to thank his new lord. _Fer-Main_ cut him off instantly.
 
@@ -3559,7 +3563,7 @@ He didn't lecture or preach; he let his fists do the teaching, hammering the pri
 
 To act as the face of the company, he was gifted black fur-trimmed clothing, access to soap, and the use of a strong pony. He spent hours every week in _Fer-Main’s_ pavilion, reporting on negotiations. _Fer-Main_ was a demanding lord, but fair. They would spend moments over wine discussing the campaign or the distant, sun-drenched life back in Frankia.
 
-Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. If he could get the Arch-Bishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable.
+Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. If he could get the Archbishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable.
 
 The disk had to be perfect though. Lead tends to spread at the edges of imprints, making it inferior for a negative for a die cast. Cynewulf worked with the smith, with access to rarer metals, to craft an alloy. Several trials and failures. Finally, his last try: lead, a bit of tin, a bit of antimony.
 
@@ -3728,7 +3732,7 @@ The rider’s jaw settled into iron resolve. But the parchment was already seale
 
 The rider didn't flinch. He leaned forward in his saddle, the leather of his gauntlet creaking as he gripped the reins. "The King doesn't hang his vanguard, _Fer-Main_. He just lets them starve when the supply lines get cut. You want the silver? You clear the road. You want the salvage? You take it from the Norse, not the Church. That’s the contract. Take it or leave it, but the army moves at dawn."
 
-_Fer-Main_ stared at him, the silence stretching until it felt like the air itself was hardening. He wasn't looking for a fight—he was looking for the limit of the King's desperation. And the contents of the charter was that limit.
+_Fer-Main_ stared at him, the silence stretching until it felt like the air itself was hardening. He wasn't looking for a fight—he was looking for the limit of the King's desperation. And the contents of the charter were that limit.
 
 "Fine," _Fer-Main_ said, his voice dropping to a low, dangerous register. "We’ll clear the road. Bandits in Durham beware... we'll hang their _fully-clothed_ corpses from the trees, for all to see—Pagan _and_ Christian. We’ll leave them as a testament to the King’s justice. If the Bishop of Durham has a problem with the view, he can take it up with Winchester... and if he wants to stop it, he can send a fast rider with a bag of silver."
 
@@ -7073,8 +7077,6 @@ He jabbed a thumb towards Cynewulf's black-oiled mail.
 
 Osric and Elswyth looked at each other, then at Cynewulf. His skin-cracked hand dropped onto the handle of _Wodbora_. He quickly drew his cloak over it. His face curled into a slight smirk, and his eyes veered downward, staring at the the drying mud.
 
-It's obvious he didn't want to talk about it.
-
 One-Eye leaned in. A smile crept across his face.
 
 "So, if the angels' price for new kit is a miracle, does dropping a man at fifty paces count? I mean, they must know I have only one eye?"
@@ -8095,7 +8097,7 @@ The company retrieved the remaining shovels.
 
 They dug until afternoon.
 
-Osric chose a single grave wide enough for all four. Cynewulf worked beside him. Murdock and Tor traded places when their backs tired. Ketill cut through roots with an axe. One-Eye carried away soil in a broken shield. Elswyth lined the bottom with dry grass and lengths of clean cloth taken from the wagon.
+Osric chose a single grave wide enough for all five. Cynewulf worked beside him. Murdock and Tor traded places when their backs tired. Ketill cut through roots with an axe. One-Eye carried away soil in a broken shield. Elswyth lined the bottom with dry grass and lengths of clean cloth taken from the wagon.
 
 No one told stories.
 
@@ -8103,9 +8105,9 @@ When the grave was deep enough, they carried the family from the failing snow ba
 
 Osric lifted Ealhild.
 
-Cynewulf carried Beorn.
+Cynewulf carried Ingvarr.
 
-Tor and Ketill carried the younger children.
+Tor, Murdock, and Ketill carried the younger children.
 
 They placed them together beneath the earth.
 
@@ -8275,41 +8277,159 @@ None saw the hearthguard watching.
 
 ## Chapter Fifteen: Heroes, or People?
 
-High above the fading smoke of Leicester, where the rain clouds have given way to the smiling sun, Odin and Freyr observed humanity once more.
+High above the fading smoke of Leicester, where the rain clouds had given way to the smiling sun, Odin and Freyr observed humanity once more.
 
-Odin tugged at his shepherd's robe with one hand, the other held _Gungnir_ tightly.
+Odin tugged at his shepherd's robe with one hand, the other holding Gungnir tightly.
 
 "The battles went as I expected. Your elves were adequate to the task."
 
 Freyr smiled.
 
-Odin continued, "Osric was indeed resurrected, and walks still. _Christ_ allowed his soul to return without claiming it. But the blade... he wears it yet."
+Below them, Osric stood beside the grave of his wife and children. He had placed five stones along its length, the largest at Ealhild's head. The others waited at a respectful distance while he pressed his palm against the cold stone.
 
-Freyr watched Osric as he placed the headstone over the grave.
+Odin continued, "Osric was indeed resurrected, and walks still. Christ allowed his soul to return without claiming it. But the Barrow's Edge... he wears it yet."
+
+Freyr watched as Osric's hand fell from the stone to Barrow's Edge on his belt.
 
 "That is not a sign of acceptance. Perhaps he is inquisitive."
 
-Odin looked at Elswyth, who stood beside Osric in mourning of a family she never knew.
+"He returned for the vision," Odin said. "The dead called him home, and he obeyed."
+
+Freyr's smile faded.
+
+"No voice called him. No dream promised that his family waited beneath the snow. He did not know whether he would find their bodies, an empty barrow, or proof that everything he remembered had been a fever."
+
+Odin glanced at him.
+
+Freyr continued, "He traveled north because the dead were his to remember, even if nothing remained to reward the journey."
+
+"He knew the farm was there."
+
+"He knew where the farm had been. That is not the same thing."
+
+Odin looked again at Osric. The man had entered the ruin alone and emerged with the narrow seax Briar-Bite in his hand. Now his thumb rested on the flat of its antler grip, directly over the rune hidden beneath it.
+
+"The scratch upon the blade proved that he had returned to the waking world," Odin said. "Certainty came to him in the end."
+
+"After he chose," Freyr replied. "The choice came first."
+
+Odin gave no answer.
+
+Elswyth stood beside Osric in mourning of a family she had never known. Her cowl had fallen back, leaving her face open to the company. The felling axe remained across her shoulders, its edge newly sharpened.
 
 "Elswyth seems eager to keep her blade, despite what it cost her."
 
-Freyr pointed to the felling axe slung over her shoulder.
+Freyr pointed to the axe.
 
-"But she is refusing to be defined by it. She kept the felling axe, and she sharpened it to a cutting edge."
+"But she is refusing to be defined by it. She carries her felling axe rather than leaving it in the wagon, and she sharpened it to a cutting edge."
 
-Odin then looked at Cynewulf, who was having a discussion with Ketill about the different burial traditions he had seen through his travels. Cynewulf was telling Ketill of a burial he had witnessed beyond the Humber, then asking how it compared to what the Rus had seen in his travels.
+"A practical choice. One enchanted weapon and one ordinary tool."
 
-"Cynewulf doesn't seem any different, and he wears _Wodbora_ hidden. He is concerned that others might see it."
+"Which one do you think she trusts?"
+
+Odin considered the question.
+
+Below, Elswyth approached Osric. She said nothing. She merely stood beside him and looked upon the grave. When he turned away from it, she walked with him.
+
+Freyr nodded toward her.
+
+"She had no obligation to remain."
+
+"She follows her company."
+
+"There was no company when she first chose to follow him north. There was a grieving man who needed to bury his family, a priest she scarcely trusted, and several strangers with more weapons than sense."
+
+"She wished to leave Leicester."
+
+"She could have gone anywhere."
+
+Odin tightened his grip on Gungnir.
+
+She stood among the others without drawing her cowl again.
+
+"She spent years hiding from every eye that might accuse her of being a ghost," Freyr said. "Yet when grief required a witness, she allowed herself to be seen."
+
+"Standing beside a grave is not heroism."
+
+"No. It is kindness."
+
+Odin glanced toward him.
+
+Freyr continued, "You keep mistaking the two because skalds rarely sing of the smaller one."
+
+Odin then looked at Cynewulf, who was speaking with Ketill about the different burial traditions he had seen through his travels. Cynewulf told him of a burial witnessed beyond the Humber, then asked how it compared to what the Rus had seen along the rivers of the east.
+
+"Cynewulf doesn't seem any different, and he wears Wodbora hidden. He is concerned that others might see it."
 
 Freyr pointed to Ketill.
 
-"And yet Cynewulf now discusses his travels more freely than before. A weight has been lifted, I think. Perhaps the confession lightened his burden?"
+“And yet Cynewulf now speaks of his travels more freely than before,” Freyr said. “Perhaps confession has made the past easier to carry.”
+
+“Or Wodbora has given him confidence.”
+
+“He needed no sword to face Hacca.”
+
+Odin’s eye narrowed.
+
+The air between them shifted. The ruined farm faded, and for a moment the narrow woodland track appeared below.
+
+Bandits watched from the ridges. A felled tree blocked the road. Hacca stood before Cynewulf with twelve armed men at his back.
+
+Odin nodded.
+
+“Cynewulf defeated them without drawing Wodbora.”
+
+“He did not defeat them,” Freyr said. “He convinced them to let his company pass.”
+
+“They were afraid of him.”
+
+“They were afraid of Half-Heart.”
+
+“Then his reputation served him well.”
+
+“It offered him an easy choice,” Freyr replied. “He could have reminded Hacca exactly why the road feared that name.”
+
+“He threatened him.”
+
+“Yes. Cynewulf has not become harmless.”
+
+The woodland vision faded. Once more, Cynewulf stood beside Ketill near the ruined cottage, Wodbora hidden beneath his cloak.
+
+Freyr continued.
+
+“But he used only enough of his old self to protect the others. He did not humiliate Hacca. He did not punish him. He did not turn the encounter into another story about Half-Heart.”
+
+Odin shifted Gungnir from one hand to the other.
+
+“And you call that virtue?”
+
+“I call it a choice.”
+
+“He still carries the sword.”
+
+“Wodbora cannot simply be discarded. You made it too dangerous for that.”
+
+“So he guards the sword.”
+
+“And the man he used to be. Neither becomes harmless merely because he hides it beneath a cloak.”
+
+Cynewulf laughed at something Ketill said. The sound was brief and uncertain, as though he had forgotten how easily laughter could come.
+
+Freyr watched him.
+
+“For years, Cynewulf made himself useful so that cruel men would allow him to remain among them. Now he is beginning to understand that these people may keep him near without needing to fear him.”
+
+“You speak as though he has been redeemed.”
+
+“No,” Freyr said. “I speak as though he has begun.”
 
 Odin waved his hand at all three.
 
-"It will take time to learn their choices going forward. Once the novelty of these _gifts_ have worn off, I will learn how they _truly_ perceive them. There will be more tests."
+"It will take time to learn their choices going forward. Once the novelty of these gifts has worn off, I will learn how they truly perceive them. There will be more tests."
 
-The group turned to leave. Osric, tears in his eyes, said a final goodbye. One-Eye said something that brought a half-smile to Osric's face, then gave him a hug. The others gathered for a turn for his embrace.
+Below, Murdock called for help securing a loose patch of the byre roof. Tor and Ketill carried a ladder from the wagon. One-Eye objected that his talents were better suited to opening the remaining ale, but Elswyth put a coil of rope in his hands before he could escape.
+
+Osric looked at the activity around his ruined home with an expression that held grief, bewilderment, and something dangerously close to gratitude.
 
 Freyr smiled.
 
@@ -8317,46 +8437,145 @@ Freyr smiled.
 
 Odin raised an eyebrow, his jaw clenched. "What have you seen that I have not?"
 
-Freyr smiled as he looked at the group giving comfort to Osric's grief. "Have you not learned already, my friend?"
+"A company forming."
 
-Odin gritted his teeth. "I suppose _not_."
+Odin looked down at them.
 
-"For mortals, there _is no tapestry they can see_. Look at them. They carry on with life because life demands that of them. Despite the odds. Despite what has happened. They have hope."
+"A war-band gathers. The shape is familiar."
 
-Odin sneered. "Hope is merely a lack of knowledge."
+"No king summoned them."
 
-Freyr retorted. "Hope is the planting of seed in spring. Faith is the belief that the harvest will prove worthy of the planting. Mortals use both, because they've learned what you have not: it's impossible to know everything."
+"Cynewulf commands them."
+
+"He gives advice. Murdock ignores half of it."
+
+Odin's mouth tightened.
+
+Freyr counted upon his fingers.
+
+"No oath binds them. No lord pays them. No prophecy named them. They shared what they had. They buried one another's dead. They took watches while the others slept. They crossed bad ground because one man needed to go home."
+
+"Small deeds."
+
+"All deeds are small before a skald gives them a name."
+
+Odin stared at the people below. There was no shield-wall. No banner snapped above them. No poet stood nearby to preserve their words.
+
+Murdock climbed the ladder while complaining about its construction. Ketill held it steady. Tor passed up bundles of turf. Elswyth tied rope around the damaged beam. Cynewulf examined the wall and suggested a brace. Osric stood among them, unable to decide whether to help repair the house or ask them to stop.
+
+One-Eye opened the cask.
+
+The others shouted at him.
+
+For the first time since reaching the farm, Osric laughed.
+
+Freyr said, "Have you not learned already, my friend?"
+
+Odin gritted his teeth. "I suppose not."
+
+"You have been watching for the call of destiny. You expected the blades to reveal who among them possessed the spirit of a hero."
+
+"That was the purpose."
+
+"But there was no call when Osric chose to return. No prophecy told Elswyth that she should stand beside his grief. No god promised Cynewulf that mercy would move the tree from his road."
+
+Freyr pointed toward the company.
+
+"For mortals, there is no tapestry they can see."
+
+The words silenced even Odin.
+
+"You see the roads after they have been walked," Freyr continued. "You see where one thread crossed another and call the pattern inevitable. They stand at the crossing before the pattern exists. They must choose a road while every direction remains dark."
+
+Odin sneered. "They carry on because life demands it of them."
+
+"Yes. Despite the odds. Despite what has happened. They have hope."
+
+"Hope is merely a lack of knowledge."
+
+"Hope is the planting of seed in spring. Faith is the belief that the harvest may prove worthy of the planting. Mortals use both because they have learned what you have not: it is impossible to know everything."
 
 "For them, certainly."
 
-"And how long have you been chasing that boar? Are you truly closer to understanding the convergences now than when you started centuries ago? It seems you're further away than ever before."
+Freyr turned from the farm and looked into the distance, beyond Leicester, beyond the rivers and old Roman roads, toward paths even the gods could not clearly see.
+
+"And how long have you been chasing that boar? Are you truly closer to understanding the convergences now than when you began centuries ago? It seems you are further away than ever before."
+
+Odin's face hardened.
+
+"I know what approaches."
+
+"You fear what may approach."
+
+"I prepare for Ragnarök."
+
+"You prepare for every possible ending except the possibility that life continues."
+
+Odin brought the butt of Gungnir down upon the unseen ground beneath them.
+
+"Caution is not cowardice."
+
+"No. But neither is uncertainty defeat."
 
 Freyr squared his shoulders and looked Odin straight in the eye.
 
-"You mean to judge these mortals through the trials of the heroes of old. To see if they feel the call of destiny. But these mortals are _not_ the heroes of old.
+"You mean to judge these mortals through the trials of the heroes of old. To see if they feel the call of destiny. But these mortals are not the heroes of old."
+
+"They wish they were."
+
+"Perhaps. Stories make certainty look enviable. The hero hears the prophecy. The king raises the banner. The god chooses the champion. Every hardship becomes meaningful because the ending has already been promised."
+
+Freyr looked once more at Osric.
+
+"But no ending was promised to him when he lifted the first branch from the snow."
+
+He looked at Elswyth.
+
+"No song promised that being seen would not wound her again."
+
+He looked at Cynewulf.
+
+"No priest absolved him before he chose not to become Half-Heart upon that road."
+
+Freyr spread his hands toward them all.
 
 "All that you are concerned about... all the fear... all the uncertainty... all the doubt... is what these mortals carry with them... every... single... day."
 
 Odin cast his eye on the mortals, but did not answer.
 
-Freyr leaned in, and put his hand on Odin's shoulder.
+The company turned to leave the grave. Osric, tears in his eyes, said a final goodbye. One-Eye said something that brought a half-smile to Osric's face, then gave him a hug. The others gathered for a turn at his embrace.
+
+There was no order to it. No rite. No one had decided that this was what a company did.
+
+They simply saw the first embrace and understood.
+
+Freyr leaned in and put his hand on Odin's shoulder.
 
 "In the end, do these mortals face uncertainty with more nobility than you?"
 
-Odin hissed and pulled away. "These are children who _wish_ they had a _tiny sliver_ of the sight I have!"
+Odin hissed and pulled away. "These are _children_ who wish they had a _tiny sliver_ of the sight I have!"
 
-Freyr followed him. "No. They are _people_ who have spent their entire lives choosing without it. They are not _Sigurd_ or _Beowulf_."
+Freyr followed him.
 
-Freyr pointed.
+"No. They are people who have spent their entire lives choosing without it. They are not Sigurd or Beowulf."
+
+He pointed toward the mortals.
 
 "You have spent an eternity searching for certainty. They spend their entire lives learning to live without it. In the end, who is more noble?"
 
+Odin's eye followed the company as they gathered their tools. The broken cottage remained broken, but slightly less so. The dead remained dead. The road ahead offered no promise that their new fellowship would survive its next crossing.
+
+Still, they gathered to face it all... together.
+
 Freyr smiled.
 
-"I see mortals in every season, wearing every emotion. I see laughter in winter. I see tears in spring. But you... I see only duty. Only the obsession. Tell me, if there is no Ragnarök after all, how would you _want_ to spend your days?"
+"I see mortals in every season, wearing every emotion. I see laughter in winter. I see tears in spring. But you... I see only duty. Only the obsession. Tell me, if there is no Ragnarök after all, how would you want to spend your days?"
 
-Odin spent the long day pondering that question. He had no answer.
+Odin looked beyond the farm, toward a future that refused to reveal itself.
 
+He spent the long day pondering that question.
+
+He had no answer.
 
 [↑ Back to Table of Contents](#table-of-contents)
 

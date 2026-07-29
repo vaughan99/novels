@@ -166,7 +166,7 @@ He was no relic of the old sea-kings. Olaf had been baptized into Christ, heard 
 Olaf descended upon the Danelaw. He took York easily. By the autumn of 942, Leicester 
 had fallen into Danish hands, and he held it through the winter.
 
-King Edmund had called upon his lords to deliver a force to re-take Leicester. His lords answered.
+King Edmund had called upon his lords to deliver a force to retake Leicester. His lords answered.
 
 The armies fighting for Edmund came from East Anglia, Mercia, Wessex, and even Northumbria. Mercenaries came from every corner where the news of silver could spread.
 
@@ -613,7 +613,7 @@ He attended the little parish church at Easter, at Michaelmas, and on the Feast 
 
 His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near _Hagustealdsham_. His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
 
-"My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrd-men. "The land knew my forefathers almost three hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
+"My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrdmen. "The land knew my forefathers almost three hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
 
 Osric's wife was Ealhild, a woman of the Swedes.
 
@@ -637,13 +637,13 @@ Huginn: "There, happy?"
 
 ---
 
-She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the south-east. It was a lush valley, free of boulders, and easy to plow.
+She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the southeast. It was a lush valley, free of boulders, and easy to plow.
 
 Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
 
 He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone with jet was put as the cap on the barrow, the black streaks shining in the sun.
 
-Her grand-father bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
+Her grandfather bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
 Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord, Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked. She pretended to be Gerðr with her mother, tempting Freyr to lay down his sword and frolic with her. She also knew some of her mother's stories were invented on the spot, but another tale of Gullinbursti the Golden-Bristled Boar soaring over hedgerows, or butting a troll into a ditch for stealing barley, never failed to make her laugh. 
 
@@ -871,13 +871,13 @@ He stared up at the sky; half of the roof had completely collapsed. He shivered,
 
 "Am I dead?"  
 
-He fell barely asleep. Off an on, he drifted out of unconsciousness.
+He fell barely asleep. Off and on, he drifted out of unconsciousness.
 
 He woke to a sound. He heard dragging, which stopped suddenly. He noticed that more thatch had moved to within arm's reach. It was neatly stacked, ready for him to use.
 
 "Am I going mad?"
 
-His mind drifted again. He sunk into a dreamless pit.
+His mind drifted again. He sank into a dreamless pit.
 
 He woke to a piercing ray of sunshine. It pressed hard through a hole in the clouds, and landed clean on his face. It was almost... warm. There was also something pressing into his hand. It had a feel, and a weight. He brought it up to his face, and saw the small crabapple peering back at him. It was shriveled and frost-bitten, a lonely survivor from the tree Ealhild had planted, yet it sat in his hand like a treasure. He didn't know he was hungry, until he saw it.
 
@@ -887,7 +887,11 @@ There was no response.
 
 "That's the answer. I am going mad," he croaked.
 
-His focus narrowed, and he saw a wooden bowl in front of him. It was filled with water. Steam rose from the water, swirling like an old ghost. His hands rushed forward. It was warm! Convexingly warm. He put it to his lips, and his throat flourished like an opening blossom. The warmth entered his chest, and he could practically feel his blood turning from ice, if but for a moment. He sat back into his tiny cove of thatch, amazed that warmth could feel so good. And yet, everything around him was a ruin.
+His focus narrowed, and he saw a wooden bowl in front of him. It was filled with water. Steam rose from the water, swirling like an old ghost. His hands rushed forward.
+
+_It was warm! Impossibly warm._
+
+He put it to his lips, and his throat flourished like an opening blossom. The warmth entered his chest, and he could practically feel his blood turning from ice, if but for a moment. He sat back into his tiny cove of thatch, amazed that warmth could feel so good. And yet, everything around him was a ruin.
 
 His eyes returned to the crabapple. It was small, almost pathetic, as if it was begging him not to eat it. "Sorry, little one, " he whispered. He took a bite. The crisp, sour-sweet flesh hit his palate, a sharp jolt of life that cut through the numbness of his tongue. It was the taste of the south garden, the taste of Ealhild’s hands, the taste of a summer that had ended a lifetime ago.
 
@@ -915,7 +919,7 @@ The daub didn't just fall; it was _pushed_? A deliberate, rhythmic pressure fro
 
 Another piece of daub pushed in, this time a foot higher.
 
-"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica. He couldn't remember the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sewn or harvested.
+"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica. He couldn't remember the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sown or harvested.
 
 He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before: the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
 
@@ -953,7 +957,7 @@ Then: _scrrtch_
 
 He peered. He saw straw poke out from the new daub.
 
-He turn back to his cove, his eyes stared at the ground. His expression went blank. He sighed. He giggled. He realized with terrifying clarity that for his sanity: that was the last straw.
+He turned back to his cove and he stared at the ground. His expression went blank. He sighed. He giggled. He realized with terrifying clarity that for his sanity: that was the last straw.
 
 
 ### Part Three: The Feared
