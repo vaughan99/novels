@@ -2,7 +2,7 @@
 
 ### Part One: The Liturgy of the Bell
 
-_A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no-one tells the bell-maker when the bell will toll for him._
+_A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no one tells the bell-maker when the bell will toll for him._
 
 _These are the lessons of the Bell_.
 

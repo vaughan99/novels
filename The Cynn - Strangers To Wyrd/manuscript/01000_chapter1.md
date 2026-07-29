@@ -35,7 +35,7 @@ He was no relic of the old sea-kings. Olaf had been baptized into Christ, heard 
 Olaf descended upon the Danelaw. He took York easily. By the autumn of 942, Leicester 
 had fallen into Danish hands, and he held it through the winter.
 
-King Edmund had called upon his lords to deliver a force to re-take Leicester. His lords answered.
+King Edmund had called upon his lords to deliver a force to retake Leicester. His lords answered.
 
 The armies fighting for Edmund came from East Anglia, Mercia, Wessex, and even Northumbria. Mercenaries came from every corner where the news of silver could spread.
 

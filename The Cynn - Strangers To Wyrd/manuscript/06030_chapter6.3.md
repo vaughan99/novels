@@ -42,7 +42,7 @@ The rider’s jaw settled into iron resolve. But the parchment was already seale
 
 The rider didn't flinch. He leaned forward in his saddle, the leather of his gauntlet creaking as he gripped the reins. "The King doesn't hang his vanguard, _Fer-Main_. He just lets them starve when the supply lines get cut. You want the silver? You clear the road. You want the salvage? You take it from the Norse, not the Church. That’s the contract. Take it or leave it, but the army moves at dawn."
 
-_Fer-Main_ stared at him, the silence stretching until it felt like the air itself was hardening. He wasn't looking for a fight—he was looking for the limit of the King's desperation. And the contents of the charter was that limit.
+_Fer-Main_ stared at him, the silence stretching until it felt like the air itself was hardening. He wasn't looking for a fight—he was looking for the limit of the King's desperation. And the contents of the charter were that limit.
 
 "Fine," _Fer-Main_ said, his voice dropping to a low, dangerous register. "We’ll clear the road. Bandits in Durham beware... we'll hang their _fully-clothed_ corpses from the trees, for all to see—Pagan _and_ Christian. We’ll leave them as a testament to the King’s justice. If the Bishop of Durham has a problem with the view, he can take it up with Winchester... and if he wants to stop it, he can send a fast rider with a bag of silver."
 

@@ -146,7 +146,7 @@ Nobody stopped him. Nobody shoved him.
 
 He received a curled eyebrow from the quartermaster, then a wooden plate holding a bread crust and two eggs. He was handed a mug of warmed, watered-ale. He didn't savor it; he inhaled it all, the heat of the ale and the salt of the eggs grounding him in the reality of his new life. He was a scavenger no longer. He was a mercenary.
 
-Sitting in the dirt, he heard the approach of mailed stirrups and scabbards brushing on cloaks. _Fer-Main_ was paying him a visit. Behind him, was the sargeant of the watch the night before.
+Sitting in the dirt, he heard the approach of mailed stirrups and scabbards brushing on cloaks. _Fer-Main_ was paying him a visit. Behind him, was the sergeant of the watch the night before.
 
 Cynewulf jumped to his feet, eager to thank his new lord. _Fer-Main_ cut him off instantly.
 
@@ -222,7 +222,7 @@ He didn't lecture or preach; he let his fists do the teaching, hammering the pri
 
 To act as the face of the company, he was gifted black fur-trimmed clothing, access to soap, and the use of a strong pony. He spent hours every week in _Fer-Main’s_ pavilion, reporting on negotiations. _Fer-Main_ was a demanding lord, but fair. They would spend moments over wine discussing the campaign or the distant, sun-drenched life back in Frankia.
 
-Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. If he could get the Arch-Bishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable.
+Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. If he could get the Archbishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable.
 
 The disk had to be perfect though. Lead tends to spread at the edges of imprints, making it inferior for a negative for a die cast. Cynewulf worked with the smith, with access to rarer metals, to craft an alloy. Several trials and failures. Finally, his last try: lead, a bit of tin, a bit of antimony.
 
