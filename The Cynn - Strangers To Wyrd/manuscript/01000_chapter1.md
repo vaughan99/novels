@@ -32,8 +32,7 @@ For generations those boroughs had passed back and forth between Saxon and Danis
 
 He was no relic of the old sea-kings. Olaf had been baptized into Christ, heard Mass, and ruled among Christian subjects. Yet the old ways lingered in his halls. Many of his warriors still swore by the Norse gods and still sought the kind of death worthy of remembrance.
 
-Olaf descended upon the Danelaw. He took York easily. By the autumn of 942, Leicester 
-had fallen into Danish hands, and he held it through the winter.
+Olaf descended upon the Danelaw. He took York easily. By the autumn of 942, Leicester had fallen into Danish hands, and he held it through the winter.
 
 King Edmund had called upon his lords to deliver a force to retake Leicester. His lords answered.
 
