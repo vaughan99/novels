@@ -8571,11 +8571,13 @@ There was no order to it. No rite. No one had decided that this was what a compa
 
 They simply saw the first embrace and understood.
 
-Freyr leaned in and put his hand on Odin's shoulder.
+Odin’s eye tracked One-Eye longer than the others. His head tilted slightly, though his expression revealed nothing.
 
-"In the end, do these mortals face uncertainty with more nobility than you?"
+Freyr leaned in and put his hand on Odin’s shoulder.
 
-Odin hissed and pulled away. "These are _children_ who wish they had a _tiny sliver_ of the sight I have!"
+“In the end, do these mortals face uncertainty with more nobility than you?”
+
+Odin hissed and pulled away. “These are _children_ who wish they had a _tiny sliver_ of the sight I have!”
 
 Freyr followed him.
 
