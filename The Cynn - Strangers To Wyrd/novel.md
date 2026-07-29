@@ -126,53 +126,6 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 
 ![Leicester Map](assets/images/maps/Story-Map.png "Map of Leicester, AD 933-943")
 
-##### Legend
-
-| **Location**                  | **Description**                              |
-| ----------------------------- | -------------------------------------------- |
-| Elswyth's Hut                 | Charcoal burner's cottage                    |
-| Under-Geat                    | Church-protected hamlet                      |
-| Roman Necropolis              | Ancient Roman cemetery                       |
-| Shadow Gate                   | Church gate and Under-Geat entrance          |
-| Old Frith                     | Church market and gathering place            |
-| Church of Augustine & Columba | Minster, sanctuary, and 50-foot bell tower   |
-| Priest Homes                  | Clergy residences                            |
-| Church Workshops              | Church carpenters and craftsmen              |
-| Bell Foundry                  | Casting church bells                         |
-| Yardworks                     | Salvaged Roman building materials            |
-| Carter's Row                  | Cart yards and ox-pens                       |
-| Church of St. Martin          | Parish church                                |
-| Jewry Wall                    | Surviving Roman wall                         |
-| Roman Bathhouse               | Ancient ruin and materials quarry            |
-| Roman Forum                   | Ancient Roman civic center                   |
-| Forumside                     | Inns, lodging, and civic workers             |
-| Saturday Market               | Leicester's main market square               |
-| Middleflat                    | Public commons and games                     |
-| High Street                   | Main commercial thoroughfare                 |
-| Maker's Wall                  | Artisan workshops and forges                 |
-| Commonstone                   | Open Roman quarry, clay, and pottery trades  |
-| Fosse End                     | Warehouses and freight yards                 |
-| Willow Pier                   | Commercial river landing                     |
-| Willow Reach                  | Riverside homes and boat landings            |
-| Aleway                        | Granaries, taverns, and brewers              |
-| Feather-Pens                  | Poultry yards                                |
-| Yester-Pens                   | Livestock holding pens                       |
-| Finishing Yards               | Livestock sales and processing               |
-| South Pastures                | Livestock mustering pastures                 |
-| Low Blocks                    | Laborers' neighborhood                       |
-| The Wells                     | Public surface cisterns, capstans, and homes |
-| King's Yard                   | Royal administration and courts              |
-| King's Fold                   | Royal livestock pasture                      |
-| Approach Garrison             | East Gate military camp                      |
-| Mustering Wall                | Fyrd assembly ground                         |
-| Highside                      | Wealthy homes and gardens                    |
-| The Old Lords                 | Roman architectural estates and gardens      |
-| West Fields                   | Orchards, rented garden plots, and apiary    |
-| South Gate                    | Road to Northampton                          |
-| West Gate                     | Fosse Way to Coventry                        |
-| North Gate                    | Road to Nottingham                           |
-| East Gate                     | Fosse Way to Lincoln                         |
-
 
 [↑ Back to Table of Contents](#table-of-contents)
 
@@ -3157,11 +3110,21 @@ Cynewulf was not born to the sword. He was born to carpenters, and had a fairly 
 
 "Father, my name is Cynewulf... son of Godric. There is a heat in me," he whispered. "I looked at Eadmund — my best friend — and I wished him into the fire. We were picking through the iron bits meant for my father's small nail-forge, and he found a garnet. I'm told such things are rare. Garnets are swallowed by smelt-fire. I was jealous of the prized bauble he had found, and I wanted it for myself. And then the forge-spark jumped. I watched him burn, and for a heartbeat, I did not move." His friend was not terribly injured that day, but accusations were made, and they were no longer friends.
 
-"Cynewulf, that is an ember-hate. You must watch it carefully, and see that it dies quickly," the priest's voice was full of warning and confidence. He released his grip on Cynewulf's shoulder and consulted the penitential, a book of soul-tariffs. He had a solution in mind, but he needed to consult the book to ensure it was not over-harsh. The book snapped closed, the sound echoing through the church. "Cynewulf, you shall serve the bell-pits of the church from now through Lent. You will know the bite of embers on your skin and the glow-heat of the castings. Do this, and your sin shall be forgiven. Go forth, report this to your father, and steel yourself to the bell-master."
+"Cynewulf, that is an ember-hate. You must watch it carefully, and see that it dies quickly," the priest's voice was full of warning and confidence.
 
-The confession that day brought him to the church. The work did not seem like work. He worked the Lent season in the bell-pits, pressing clay for the mold, shoveling charcoal, setting the burn, standing back as the bronze was finally poured. The heat of the process felt cleansing. He also saw the work of the priesthood itself, the deference they received and the catharsis they delivered. It felt like a calling.
+He released his grip on Cynewulf's shoulder and consulted the penitential, a book of soul-tariffs. He had a solution in mind, but he needed to consult the book to ensure it was not over-harsh.
 
-His penance served, he told his father that he was destined for the bell-pits and then the priesthood. The bell-master had evaluated him, and there was space for a new apprentice. There was also space for a new acolyte-to-come, and so his path was clear. His time spent in the pits would pay for his Latin lessons and the tutelage he required. Godric was proud; that was a noble beginning for his son, an apprenticeship of trade and a life of humble privilege. He smiled, thinking that every time the church bells rang, his son would have had a hand in their voice. The house had been quiet since Cynewulf's mother’s passing, and Godric seemed to find a new, reflected light in his son’s sudden, burning ambition.
+The book snapped closed, the sound echoing through the church. "Cynewulf, you shall serve the bell-pits of the church from now through Lent. You will know the bite of embers on your skin and the glow-heat of the castings. Do this, and your sin shall be forgiven. Go forth, report this to your father, and steel yourself to the bell-master."
+
+The confession that day brought him to the church. The work did not seem like work.
+
+He worked the Lent season in the bell-pits, pressing clay for the mold, shoveling charcoal, setting the burn, standing back as the bronze was finally poured. The heat of the process felt cleansing.
+
+He also saw the work of the priesthood itself, the deference they received and the catharsis they delivered. It felt like a calling.
+
+His penance served, he told his father that he was destined for the bell-pits and then the priesthood. The bell-master had evaluated him, and there was space for a new apprentice. There was also space for a new acolyte-to-come, and so his path was clear. His time spent in the pits would pay for his Latin lessons and the tutelage he required.
+
+Godric was proud; that was a noble beginning for his son, an apprenticeship of trade and a life of humble privilege. He smiled, thinking that every time the church bells rang, his son would have had a hand in their voice. The house had been quiet since Cynewulf's mother’s passing, and Godric seemed to find a new, reflected light in his son’s sudden, burning ambition.
 
 The years that followed settled into a rhythm as steady as the bells themselves. When the Lent season had ended, the bell-master told Cynewulf to gather his few belongings and report to the boys' dormitory within the church grounds. His pallet was laid among the other acolytes, his meals were taken in the refectory, and his days were measured by bells rather than by the hearth.
 
@@ -3187,9 +3150,13 @@ Whenever his journeys brought him back for a Sunday or one of the greater feast 
 
 Cynewulf treasured every one. He had never seen York. He had never crossed the Humber. He had never stood beneath the great churches whose names echoed through every monastery. Through his father's eyes, however, he began to know the roads between them. Each tale carried him a little farther from Leicester before gently setting him back at the church gate, where the journey always ended for him.
 
-Godric spoke of them only as another craftsman might discuss timber or stone, but to the boy they sounded like another world. Roman roads stretching beyond the horizon. Pilgrims who spoke in strange accents. Monks from distant kingdoms. Markets where a hundred dialects mingled beneath church towers.
+Godric kept the harsher truths of the Road to himself. He spoke of towering churches and bustling markets.
 
-Godric kept the harsher truths of the Road to himself. He spoke of towering churches, curious monks, bustling markets, and the kindness of strangers, but seldom of swollen rivers that swallowed wagons, of nights spent awake listening for footsteps beyond the firelight, or of highwaymen lingering just beyond bowshot until the guards rested their hands upon axe hafts. He never mentioned the fever that swept through a traveling party in the span of three days, nor the mold that spoiled provisions before the next monastery came into view. Those were burdens for grown men, he believed, not stories to place upon the shoulders of a boy who still looked toward the horizon with wonder.
+Seldom of swollen rivers that swallowed wagons, of nights spent awake listening for footsteps beyond the firelight, or of highwaymen lingering just beyond bowshot until the guards rested their hands upon axe hafts.
+
+He never mentioned the fever that swept through a traveling party in the span of three days, nor the mold that spoiled provisions before the next monastery came into view.
+
+Those were burdens for grown men, he believed, not stories to place upon the shoulders of a boy who still looked toward the horizon with wonder.
 
 So Cynewulf inherited his father's love of the Road, but not his caution. The dangers were quietly edited from every tale, leaving behind only fellowship, discovery, and distant church towers waiting beyond the next rise.
 
@@ -3201,17 +3168,7 @@ Another journey on the Road. Cynewulf helped load the wagon each time. He was pr
 
 The Church had become a crossroads. Travelers, merchants, pilgrims, reeves, priests, and wandering scholars all passed beneath its roof. As Cynewulf's Latin improved, he was often asked to assist them. He copied letters, translated names, and listened as visitors recounted distant lands while waiting for an audience with the clergy.
 
-The confessional became another window upon the world. People confessed more than sins.
-
-A drover confessed driving cattle across half of England.
-
-A merchant confessed cheating buyers at distant markets.
-
-A sailor confessed surviving storms beyond the eastern sea.
-
-A soldier confessed battles fought under kings Cynewulf had never seen.
-
-Each confession painted another Road he had never walked. He listened carefully. Perhaps too carefully. The older priests heard burdens. Cynewulf heard stories.
+The confessional became another window upon the world. People confessed more than sins. Each confession painted another Road he had never walked.
 
 His tutors praised his memory. Latin came easily to him. Scripture followed. He copied manuscripts with a careful hand and learned the order of the Mass. Villagers who had known him as a charcoal-blackened caster's apprentice now bowed their heads as he read from books they themselves could not understand.
 
@@ -3239,15 +3196,11 @@ As Godric's reputation grew, his absences lengthened. Leicester became less a pe
 
 Cynewulf never begrudged his father's success. How could he?
 
-He had watched every step that earned it. He had held the beams while they were cut. He had climbed the scaffolds. He had hauled the ropes. He had spent long evenings solving the same problems beside him.
+He had watched every step that earned it. He had spent long evenings solving the same problems beside him, cutting, measuring, debating.
 
-When another bishop praised Godric's ingenuity, Cynewulf felt pride before anything else. Pride... and something he lacked the words to confess. Cynewulf began to feel that part of himself had been put into the casting of the bell and the frame that held it.
+When another bishop praised Godric's ingenuity, Cynewulf felt pride before anything else. Then, just as quickly, the warmth soured. A tiny ember of resentment glowed somewhere beneath his ribs before he smothered it in shame. The praise belonged to Godric. He knew that. Why, then, did the ember refuse to die?
 
-Then, just as quickly, the warmth soured. A tiny ember of resentment glowed somewhere beneath his ribs before he smothered it in shame. The praise belonged to Godric. He knew that. Why, then, did the ember refuse to die?
-
-The Road seemed always to pass through Leicester without stopping for him.
-
-He watched travelers arrive dusty and leave dustier still. Every face carried another corner of England in its memory. Every wagon disappeared beyond the gates until only its tracks remained.
+And the Road seemed always to pass through Leicester without stopping for him.
 
 He wondered, more often than he admitted even to himself, what lay beyond the next hill.
 
@@ -3257,7 +3210,7 @@ Years passed, and Cynewulf's apprenticeship came to its proper end. Before the a
 
 The first serious quarrel came not over prayer, but over bronze.
 
-A younger workman reached for the damp mold before the metal had settled. Cynewulf caught his wrist and shoved him back so hard the man stumbled into another apprentice. Harsh words followed. One accusation became another until both men stood red-faced beside the crucible, shouting over the roar of the furnace.
+A younger workman reached for a mold that had sat out on a rainy night. Molten bronze explodes wet molds. Cynewulf caught his wrist and shoved him back so hard the man stumbled into another apprentice. Harsh words followed. One accusation became another until both men stood red-faced beside the crucible, shouting over the roar of the furnace.
 
 Godric was no longer there to parent him. Godric had sold the family cottage to buy passage through Frankia and beyond, to take his knowledge all the way to Rome.
 
@@ -3339,19 +3292,31 @@ _So sayeth the Bell._
 
 On March 14th, 933 AD the black day of Leicester's village-folk had arrived. It was the day of the _Ulfhednar_ strike in Leicester, the day Elswyth was chased into the forests. The Saxon guards of Leicester were complacent shepherds that day, and the _Ulfhednar_ saw a lamb for the taking.
 
-The wolf-men broke into the church in a storm of activity. Cynewulf had been in his small priest-home; there were several, as the Church had grown since Leicester had reverted back to the Saxons. He was tending to the teaching of Latin that afternoon to three students. He had also been cataloging donations earlier that morning, which were strewn on his small dinner table.
+The wolf-men broke into the church in a storm of activity. Cynewulf had been in his small priest-home; there were several, as the Church had grown since Leicester had reverted back to the Saxons. He had been cataloging donations earlier that morning, which were strewn on his small dinner table. He was also teaching Latin that afternoon to three students. 
 
-As the Church was being sacked, the sounds were a roar in the background. Cynewulf quickly barred the door, and searched the room quickly for his plan. He told the students to hide in a closet, and he grabbed a byrnie that had been donated by a retired thegn off the table. He took a spare censer's chain and wrapped it around his fist. He was not going to let the night fall on him and his flock without a fight. The sound of Cynewulf's breathless prayers competed with the uproar, until there was a sound at the door.
+As the Church was being sacked, the sounds were a roar in the background. Cynewulf quickly barred the door, and searched the room quickly for his plan.
 
-Just as Cynewulf fastened the last buckle of the byrnie, the Viking pounded the door. There were shoulder-heaves and boot-kicks, until finally the door gave way. In the doorway stood a young Viking, a freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made his way into the cottage, shield at the ready.
+He told the students to hide in a closet, and he grabbed a byrnie that had been donated by a retired thegn off the table. He took a spare censer's chain and wrapped it around his fist. He was not going to let the night fall on him and his flock without a fight.
+
+The sound of Cynewulf's breathless prayers competed with the uproar, until there was a sound at the door.
+
+Just as Cynewulf fastened the last buckle of the byrnie, the Viking pounded the door. There were shoulder-heaves and boot-kicks, until finally the door gave way.
+
+In the doorway stood a young Viking, a freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made his way into the cottage, shield at the ready.
 
 Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even him off-guard. He slammed his body towards the young _Ulfhedinn_. The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
 
-Cynewulf stood and watched as the floor of his priest-home pooled with blood. He peered through the doorway, and saw that the _Ulfhedinn_ boy had been carrying a small chest of loot, set cleanly on the ground. He looked back at what he had done. With exhilaration. He saw the chest of silver. He saw how easily he had bested the _Ulfhedinn_. His arm was bell-strong and he was already wearing the retired thegn's chain-shirt byrnie. He told the children in the closet to run. They scurried out the door, and his mind began to race.
+Cynewulf stood and watched as the floor of his priest-home pooled with blood. He peered through the doorway, and saw that the _Ulfhedinn_ boy had been carrying a small chest of loot, set cleanly on the ground. He looked back at what he had done.
 
-Cynewulf took the shield and axe. He grabbed a few valuable items off the table, and the chest on the ground. And he ran. He was tired of the hum-drum work of the church. He never got to see the world, but heard so many stories about it from the confessions. Living cloistered on church grounds, he longed to see the open road. He decided to become a mercenary. He could learn the soldier-trade, and easily had enough money to get started.
+Cynewulf looked from the dead wolf-man to the axe, the shield, and the chest of silver. On the table, the sack of silver plates caught his eye.
 
-He left Leicester, keeping to himself as he scurried under the weight of the silver. He knew that pawning it in the city would be scorn-folly; his new life had to begin elsewhere. In time, the town would forget his name. Perhaps, in their minds, he was merely a lamb sacrificed to the wolves that day.
+A soldier’s kit. A traveler’s purse. A bag of loot. And beyond the broken doorway, a town too frightened to notice one priest disappearing.
+
+For years the Road had passed through Leicester without stopping for him. Now it stood open.
+
+He told the children to take their opportunity: _run_. Once they left, he took _everything else_.
+
+He left Leicester, keeping to himself as he scurried under the weight of the silver. He knew that pawning the plates in the city would be scorn-folly; his new life had to begin elsewhere. In time, the town would forget his name. Perhaps, in their minds, he was merely a lamb sacrificed to the wolves that day.
 
 The bells called out to warn the town of the raid. They announced the arrival of the end, and they ignored Cynewulf as he ran.
 
@@ -3444,21 +3409,29 @@ The year that followed was a slow, grinding rot.
 
 Cynewulf learned to live like a beast. The bell-strong deacon of Leicester withered away, replaced by a lean, hollow-cheeked creature with dirt ground into the pores of his face and lice nesting in his matted hair.
 
-The Road taught him lessons that no priest could ever preach. In the summer of 933 AD, he lived like a scavenger, sleeping in the hollows of fallen oaks and surviving on raw wild onions and the stolen eggs of ground-nesting birds. By autumn, he had fallen in with a desperate band of five outlaws, but when they ambushed a merchant near Nottingham, his "brothers" vanished the moment the guards drew steel, leaving him to drag a wounded leg through the brambles alone. He never trusted a partner again. When winter arrived, the cold became a more persistent enemy than the Danes. He survived by stealing a sheep from a Saxon stead, slitting its throat in the dark to eat the liver warm and raw—a desperate, bloody fuel to keep his chest from freezing—and wrapping his feet in the stiff, frozen hide to keep the frost from claiming his toes.
+The Road taught him lessons that no priest could ever preach. He lived like a scavenger at first, sleeping in the hollows of fallen oaks and surviving on raw wild onions and the stolen eggs of ground-nesting birds.
 
-By the spring of 934 AD, he took up with small, vicious bands, staying only long enough to share a meal and a theft, slipping away in the dead of night before they could cut his throat for his boots. He still didn't know war or even combat; he knew that standing silently with an axe in your hand was intimidation enough to earn a little coin. But he was still a small sinner in a wide world. A scavenger eating the scraps left by the great lords of war.
+By summer, he had fallen in with a desperate band of five outlaws, but when they ambushed a merchant near Nottingham, his "brothers" vanished the moment the guards drew steel, leaving him to drag a wounded leg through the brambles alone. He never trusted a partner again.
+
+When fall arrived, the cold became a more persistent enemy than the Danes. He stole a sheep to prepare for winter, knowing that a sheep's skin might keep him from losing his toes. He took up with three other small bands, staying only long enough to share a meal and a theft, slipping away in the dead of night before they could cut his throat for his armor.
+
+He still didn't know war or even combat; he knew that standing silently with an axe in your hand was intimidation enough to earn a little coin. But he was still a small sinner in a wide world. A scavenger eating the scraps left by the great lords of war.
 
 Every time he packed his belongings in the night to flee another band, he thought of helping his father prepare for yet another journey. As a boy, he had watched only the tools: the adze wrapped in cloth, the chisels oiled against rust, the measuring cords carefully coiled. He had paid no mind while Godric bartered for space on a wagon, counted dried provisions and waterskins, spoke quietly with guards, or waited another day for a larger company to gather. Those had seemed the dull chores that delayed the adventure.
 
 Only now did he understand that **those had been the journey**.
 
-That changed in the late autumn of 934 AD, near the salt-marshes of the Humber. For days, he had nervously been asking his own question of the Road: _How will I survive winter?_
+That changed in November of 933 AD, near the salt-marshes of the Humber. For days, he had nervously been asking his own question of the Road: _How will I survive winter?_
 
-He saw them riding through the grey mist—forty men on heavy, destrier-bred horses, clad in mail blackened with oil to hide the glint of steel. They were not Saxons, nor Danes. They were Franks, mercenaries who had traded the vineyards of the Seine for the mud of the Danelaw. They carried no banners, save for a single, tattered standard depicting a **Griffon Noir**—a Black Griffon with wings spread wide, its talons stained in a permanent, rusted red. The talons were gripping a sword, as if they carried fury in flight into battle. They were the _Griffons Noirs_, led by a man the locals called the _Iron-Grip_, though his own men proudly named him _Fer-Main_.
+He saw them riding through the grey mist—forty men on heavy, destrier-bred horses, clad in mail blackened with oil to hide the glint of steel. They were not Saxons, nor Danes. They were Franks, mercenaries who had traded the vineyards of the Seine for the mud of the Danelaw.
+
+They carried no banners save one tattered standard: a black griffon, wings spread, its rust-red talons gripping a sword. They were the _Griffons Noirs_, led by a man named only _Fer-Main_.
 
 Cynewulf did not offer them God’s peace. He did not ask to join them.
 
-Instead, when three of the _Griffons Noirs_ scouts cornered him in a ruined salt-pan, Cynewulf did not run. On their horses, they would cut him down instantly. He held his shield high, axe at the ready, and stood his ground. One of the scouts probed his shield with a spear, to test the reaction. Cynewulf retreated a step. He stared at the scout with hungry, desperate eyes. The scouts looked at each other and smiled.
+Instead, when three of the _Griffons Noirs_ scouts cornered him in a ruined salt-pan, Cynewulf did not run. On their horses, they would cut him down instantly.
+
+He held his shield high, axe at the ready, and stood his ground. One of the scouts probed his shield with a spear, to test the reaction. Cynewulf retreated a step. He stared at the scout with hungry, desperate eyes. The scouts looked at each other and smiled.
 
 _Fer-Main_ himself rode up, watching the action from atop his black stallion. He did not laugh. He only looked at Cynewulf’s hollow eyes, the matted hair, and the cold, dead way he held his axe. He held up his hand, and the scouts backed away.
 
@@ -3472,15 +3445,19 @@ Cynewulf spat a mouthful of salty mud. "I have an axe. And I am hungry."
 
 _Fer-Main_ nodded once. "We're riding north. Can you seat a horse?"
 
-Cynewulf looked at the stallion, then at the _Griffons Noirs_ men. He thought of the ditch, the raw liver, and the cold. "I can learn."
+Cynewulf looked at the stallion, then at the _Griffons Noirs_ men. "I can learn."
 
 "Good," _Fer-Main_ said, turning his horse. "Follow us. When was the last time your mail saw oil, or a sand barrel? See the armorer when we next camp. You'll have to sleep in the open and earn your keep. If you survive."
 
-The _Griffons Noirs_ had a few wagons at the back of their train for supplies and pavilions. Cynewulf ran to try to catch a wagon, but even it was too fast for his tired legs, and it didn't slow for him. He followed the trail of the host and found their camp three hours later, as dark was settling in. The men and horses were fed, and setting up for sleep. There was no meal left. Cynewulf found empty bones to gnaw on, and crusts of bread that had fallen from their meal.
+The _Griffons Noirs_ had a few wagons at the back of their train for supplies and pavilions. Cynewulf ran to try to catch a wagon, but even it was too fast for his tired legs, and it didn't slow for him.
+
+He followed the trail of the host and found their camp three hours later, as dark was settling in. The men and horses were fed, and setting up for sleep. There was no meal left. Cynewulf found empty bones to gnaw on, and crusts of bread that had fallen from their meal.
 
 He curled up in the mud near the perimeter, his axe gripped in his hand, watching the black-clad figures move like ghosts through the firelight. He was a scavenger in a pack again, but this pack was like no other he had seen.
 
-One of the men kicked him awake. He had been asleep scarcely an hour, and the Frankish soldier told him something in Frankish. He studied the confused look on Cynewulf's face, and switched tone. "Guard duty. All night." His accent was thick and barely understandable. The soldier pointed to a small group of professionals waiting to sit by the fire with him. They didn't look friendly.
+One of the men kicked him awake. He had been asleep scarcely an hour, and the Frankish soldier told him something in Frankish. He studied the confused look on Cynewulf's face, and switched tone. "Guard duty. All night." His accent was thick and barely understandable.
+
+The soldier pointed to a small group of professionals waiting to sit by the fire with him. They didn't look friendly.
 
 Wanting to make an impression, he stood as fast as he could, and gathered his axe and shield. He quickened his step to meet the guards. They laughed in the firelight at him... he didn't understand their language.
 
@@ -3512,11 +3489,15 @@ Cynewulf jumped to his feet, eager to thank his new lord. _Fer-Main_ cut him off
 
 _"Cūr mihi nōn dīxistī tē Latīnē loquī?"_ he said, his voice low. _"Nōn possum ubīque esse, cum sacerdōtibus et prīncipibus pācta faciens. Saepe nōs fraudāre cōnantur. Opus mihi est aliquō quī verba eōrum interpretārī et iūra nostra dēfendere possit. Intellegis?"_
 
-(Why didn't you tell me you speak Latin? I can't be everywhere, making agreements with priests and princes. They often try to cheat us. I need someone who can interpret their words and defend our rights. Understand?)
+_(Why didn't you tell me you speak Latin? I can't be everywhere, making agreements with priests and princes. They often try to cheat us. I need someone who can interpret their words and defend our rights. Understand?)_
 
-Cynewulf's mind flared. His Latin was useful, truly useful to the _Griffons Noirs_. "_Intellegō. Gratias ago_," he replied (I understand. Thank you).
+Cynewulf's mind flared. His Latin was useful, truly useful to the _Griffons Noirs_. "_Intellegō. Gratias ago_," he replied.
 
-_Fer-Main_ switched to Old English. His accent was precise, his cadence unnervingly perfect, as if he had spent hours practicing the vowels in the dark of his tent. "Good, but _do not thank me_. You are here to keep us alive and paid. I'm here to keep _all of you alive_. Save your gratitude for the man who takes a spear for you. And... your mail is dirty. Black oil, sand. Over there." He pointed toward the armorer's tent, which was already being folded for the day's march. "I _do not repeat myself_ Saxon. I do not tolerate rust. I do not tolerate incompetence. Rusty mail means an early grave."
+_(I understand. Thank you.)_
+
+_Fer-Main_ switched to Old English. His accent was precise, his cadence unnervingly perfect, as if he had spent hours practicing the vowels in the dark of his tent. "Good, but _do not thank me_. You are here to keep us alive and paid. I'm here to keep _all of you alive_. Save your gratitude for the man who takes a spear for you. And... your mail is dirty. Black oil, sand. Over there."
+
+He pointed toward the armorer's tent, which was already being folded for the day's march. "I _do not repeat myself_ Saxon. I do not tolerate rust. I do not tolerate incompetence. Rusty mail means an early grave."
 
 _Fer-Main_ turned to leave. "I know six languages. I'll give you wine from my tent if you can teach me a seventh." He did not smile. His seriousness cut like a razor. "Or teach me something I don't already know."
 
@@ -3526,15 +3507,13 @@ _Fer-Main_ went still. "Explain."
 
 Cynewulf didn't flinch. "You fight for coin, but you are always at the mercy of the men who write the contracts. You are always the outsider. A scriptorium remembers names, records debts, carries letters farther than horses, and speaks to every bishop and ealdorman before your company ever arrives."
 
-He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. Bronze is not kind. It requires heat and precision. The seal dies of the deeds and scrolls are made of bronze, which is easy to make for someone who knows how. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can write a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
+He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can forge a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
 
 The captain’s eyes narrowed, a flicker of genuine, predatory interest crossing his face. He didn't ask if it was moral; he only saw the utility.
 
 "Our own scriptorium." _Fer-Main_ repeated, the word tasting like iron on his tongue. "Very well, Priest. We shall see if you are as useful as you are bold. What do you need?"
 
-Cynewulf didn't hesitate. "Vellum. Oak galls and iron filings for ink. A scraping knife. Access to the forge with a hot fire. Casting sand. Lead for the bullae. Once the dies are made, I'll need the smith to make tongs to hold them. The dies must meet perfectly when struck or there will be suspicion."
-
-_Fer-Main_ left without saying a word.
+Cynewulf gave his list. _Fer-Main_ left without saying a word.
 
 Cynewulf approached the armorer about his mail. He removed his mail coat and put it in a sand barrel for the day's march, the rhythm of the wagon forcing the sand into every link. Once the days march was done, it would be prepared for oil, and torching to bring out the black.
 
@@ -3574,21 +3553,25 @@ Huginn: "Exactly! Even programmers know Latin makes things sound important!"
 
 ---
 
-For a few years, Cynewulf trained with the _Griffons Noirs_ and their arms master. He earned every bruise and cut, every hurt feeling and every backhand. His frustration often boiled over, his ember-hate flaring like a guttering candle, but the master was an absolute professional. He didn't lecture or preach; he let his fists do the teaching, hammering the pride out of Cynewulf until only the soldier remained. It was a brutal, wordless education.
+For a few months, Cynewulf trained with the _Griffons Noirs_ and their arms master as they slowly traveled to Canterbury. He earned every bruise and cut, every hurt feeling and every backhand. His frustration often boiled over, his ember-hate flaring like a guttering candle, but the master was an absolute professional.
+
+He didn't lecture or preach; he let his fists do the teaching, hammering the pride out of Cynewulf until only a semblance of a soldier remained. It was a brutal, wordless education.
 
 To act as the face of the company, he was gifted black fur-trimmed clothing, access to soap, and the use of a strong pony. He spent hours every week in _Fer-Main’s_ pavilion, reporting on negotiations. _Fer-Main_ was a demanding lord, but fair. They would spend moments over wine discussing the campaign or the distant, sun-drenched life back in Frankia.
 
-Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. The bulla was lead, and the dies of the bulla tong's alignment needed to be perfect. If he could get the Arch-Bishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable. Then, using sand and molten bronze, a perfect forged bulla tong die can be made. The new bulla tongs could then be used to punch lead disks to parchment, to create official-looking documents.
+Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. If he could get the Arch-Bishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable.
 
 The disk had to be perfect though. Lead tends to spread at the edges of imprints, making it inferior for a negative for a die cast. Cynewulf worked with the smith, with access to rarer metals, to craft an alloy. Several trials and failures. Finally, his last try: lead, a bit of tin, a bit of antimony.
 
-To test, he used a silver penny. He placed the coin between two scraps of his new alloy and struck it with the hammer. When he pulled the metal apart, the King’s profile stared back at him—every strand of hair, every letter of the legend, perfectly mirrored in the grey, hardened lead. It was a perfect strike. The antimony had done its work; the edges were as sharp as a razor, with no sign of the "weeping" spread that ruined lesser work. He had his alloy.
+To test, he used a silver penny. He placed the coin between two scraps of his new alloy and struck it with the hammer. When he pulled the metal apart, the King’s profile stared back at him—every strand of hair, every letter of the legend, perfectly mirrored in the grey, hardened lead. It was a perfect strike.
 
 Cynewulf next prepared a request for help, from the remote parish of St. Odile-of-the-Silt. It was a small parish in the Fens, a land of grey water and shifting silt. The small parish had one formerly retired priest, a shack of a church with a driftwood crucifix, and a flock of a paltry twenty souls. It was dedicated to the ministry to the blind, and half the parishioners suffered from the affliction.
 
 It was also a complete fabrication.
 
-He spent three days perfecting the script, ensuring the Latin was archaic and the tone appropriately desperate. He didn't just write a petition; he built a world. He knew that if he made the parish too prosperous, the clerk would be suspicious; if he made it too large, the clerk would demand a census. But twenty souls? A driftwood cross? And St. Odile, the patron saint of the blind. It was the perfect, pathetic portrait of a forgotten corner of Christendom. It was a lie so small and so sad that no one would ever bother to check if it were true.
+He spent three days perfecting the script, ensuring the Latin was archaic and the tone appropriately desperate. He didn't just write a petition; he built a world.
+
+He knew that if he made the parish too prosperous, the clerk would be suspicious; if he made it too large, the clerk would demand a census. But twenty souls? A driftwood cross? And St. Odile, the patron saint of the blind. It was the perfect, pathetic portrait of a forgotten corner of Christendom. It was a lie so small and so sad that no one would ever bother to check if it were true.
 
 ```
 To the Most Reverend Office of the Archbishop,
@@ -3620,27 +3603,25 @@ He took his pen, dipped to ink, and wrote in the margins: 'Allowed'. He took the
 
 "I beg you," said Cynewulf. "Sister Edith is particularly old, and her fingers are weathered. If she doesn't feel the face of the archbishop, she'll think we've failed her family. Please, strike with conviction. For Edith. For her family."
 
-The clerk raised his hammer high, and brought it down with the force of Thor himself. CLANG! His desk shook. The other clerks stopped and peered, but otherwise were not impressed. The mark was deep and thorough. "Go," the clerk muttered, already reaching for the next stack of papers. "And tell Father Godwin the Archbishop hears his flock. Tell Edith the Archbishop smiles just for her."
+The clerk raised his hammer high, and brought it down with the force of Thor himself. CLANG! His desk shook. The other clerks stopped and peered, but otherwise were not impressed. The mark was deep and crisp. "Go," the clerk muttered, already reaching for the next stack of papers. "And tell Father Godwin the Archbishop hears his flock. Tell Edith the Archbishop smiles just for her."
 
 Cynewulf bowed, his heart a steady, cold rhythm in his chest. He didn't just have a document. He had the soul of the seal. But the hardest part was yet to come. The perfect cast.
 
-Cynewulf knew what most people don't. Casting is an art. A frustrating art. Casting isn't just about pouring metal; it’s about the transfer of impressions, the right texture of sand, temperature, moisture, and the "breath" of the mold. If he rushed this, the mold wouldn't set, the bronze might crack, or the detail would be lost. He had to treat the sand like a living thing, packing it with a precision that bordered on the obsessive.
+Cynewulf knew what most people did not. Casting is an art. A frustrating art. Casting isn't just about pouring metal; it’s about the transfer of impressions, the right texture of sand, temperature, moisture, and the "breath" of the mold. Rushing only invites waste. Few people were good at this, and fewer yet enjoyed it. 
 
-He arrived back at the camp as the light was failing, the air thick with the smell of woodsmoke and wet horse. He took the company smith aside, a man of few words and heavy hands. He didn't show him the seal—not yet. He showed him a scrap of bronze, a broken hilt he’d scavenged, and a small, carefully wrapped bundle of clay.
+He arrived back at the camp as the light was failing, the air thick with the smell of woodsmoke and wet horse. He took the company smith aside, a man of few words and heavy hands. He showed him a scrap of bronze, a broken hilt he’d scavenged, and a small, carefully wrapped bundle of clay.
 
-"I need two strike-dies," Cynewulf said, his voice low, stripped of the pious affectation he’d worn in Canterbury. "Small, precise, and hard enough to bite into lead. I have the impression here." He tapped his chest, where the impression lay hidden. "But the sand-bed has to be perfect. If there’s a single bubble of air, the whole thing is useless."
+"I need two strike-dies," Cynewulf said, his voice low, stripped of the pious affectation he’d worn in Canterbury. "Begin a melt of the bronze scrap."
 
-The smith looked at him, then at the clay, and finally at the intensity in Cynewulf’s eyes. He didn't ask why a mercenary needed seal-dies. He only saw the look of a man who knew his craft.
+Cynewulf built the flasks and cast the sand. The smith melted the bronze. And together, they poured.
 
-Cynewulf made the mold by the firelight, a practice he had done many times for the _tintinnabulum_ strikers, the hammers inside the small handbells of the acolytes for use during the Liturgy. Cynewulf had the proper casting sand, and built the flasks. All that was needed was the _careful impression_ of the lead into sand. The smith would melt the bronze. Together they would manage the pour.
-
-The smith forged the tongs and mounted the dies, creating a tool that felt heavy and cold in Cynewulf’s palm—a machine for manufacturing truth. The next morning, as he tested the press on a fresh blank of a typical lead blank, the resulting seal was so perfect, so sharp, that it almost made _Fer-Main_ smile.
+The next morning, as he tested the press on a typical lead blank, the resulting seal was so perfect, so sharp, that it almost made _Fer-Main_ smile.
 
 _Fer-Main_ didn't speak much, but he knew the weight of a tool when he held it. He turned the bronze tongs over in his calloused hands, feeling the balance, the precision of the guide-pin, the bite of the dies. He looked at the seal Cynewulf had struck—the crisp, tactile authority of the Archbishop—and then he looked at the man who had made it.
 
 The mercenary captain didn't offer praise; he offered a horse. A destrier, still wild-eyed and trembling from the breaking-pen, stood waiting by the tent. Beside it lay a set of black leathers, oiled and supple, the mark of a man who belonged to the inner circle of the company.
 
-Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen didn't accept him, but they didn't need to. He had accepted himself, and that was more important than all the silver in _Fer-Main's_ purse.
+Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen did not accept him, but they no longer needed to. He had made himself necessary, and necessity was worth more than all the silver in _Fer-Main’s_ purse.
 
 _Blessed are the aware, for the Road reveals its shortcuts to them. Blessed are the cunning, for they shall forge the keys to locked gates. Woe to those who have neither, for they shall lose their silver to the bandits and the taxman._
 
@@ -8570,6 +8551,54 @@ That is what the Cynn really are: craft joined to merry mythmaking.
 
 ### The Tenth Century
 
+#### Leicester Map Legend
+
+| **Location**                  | **Description**                              |
+| ----------------------------- | -------------------------------------------- |
+| Elswyth's Hut                 | Charcoal burner's cottage                    |
+| Under-Geat                    | Church-protected hamlet                      |
+| Roman Necropolis              | Ancient Roman cemetery                       |
+| Shadow Gate                   | Church gate and Under-Geat entrance          |
+| Old Frith                     | Church market and gathering place            |
+| Church of Augustine & Columba | Minster, sanctuary, and 50-foot bell tower   |
+| Priest Homes                  | Clergy residences                            |
+| Church Workshops              | Church carpenters and craftsmen              |
+| Bell Foundry                  | Casting church bells                         |
+| Yardworks                     | Salvaged Roman building materials            |
+| Carter's Row                  | Cart yards and ox-pens                       |
+| Church of St. Martin          | Parish church                                |
+| Jewry Wall                    | Surviving Roman wall                         |
+| Roman Bathhouse               | Ancient ruin and materials quarry            |
+| Roman Forum                   | Ancient Roman civic center                   |
+| Forumside                     | Inns, lodging, and civic workers             |
+| Saturday Market               | Leicester's main market square               |
+| Middleflat                    | Public commons and games                     |
+| High Street                   | Main commercial thoroughfare                 |
+| Maker's Wall                  | Artisan workshops and forges                 |
+| Commonstone                   | Open Roman quarry, clay, and pottery trades  |
+| Fosse End                     | Warehouses and freight yards                 |
+| Willow Pier                   | Commercial river landing                     |
+| Willow Reach                  | Riverside homes and boat landings            |
+| Aleway                        | Granaries, taverns, and brewers              |
+| Feather-Pens                  | Poultry yards                                |
+| Yester-Pens                   | Livestock holding pens                       |
+| Finishing Yards               | Livestock sales and processing               |
+| South Pastures                | Livestock mustering pastures                 |
+| Low Blocks                    | Laborers' neighborhood                       |
+| The Wells                     | Public surface cisterns, capstans, and homes |
+| King's Yard                   | Royal administration and courts              |
+| King's Fold                   | Royal livestock pasture                      |
+| Approach Garrison             | East Gate military camp                      |
+| Mustering Wall                | Fyrd assembly ground                         |
+| Highside                      | Wealthy homes and gardens                    |
+| The Old Lords                 | Roman architectural estates and gardens      |
+| West Fields                   | Orchards, rented garden plots, and apiary    |
+| South Gate                    | Road to Northampton                          |
+| West Gate                     | Fosse Way to Coventry                        |
+| North Gate                    | Road to Nottingham                           |
+| East Gate                     | Fosse Way to Lincoln                         |
+
+---
 #### The Church, The Shadow Gate and Under-Geat
 
 Historical records attest to the existence of a Church of St. Augustine and St. Columba in the early 10th century. The record is vague as to its placement, saying it was near the Roman Forum. During the Norman period, that church disappears from the record, and the Church of St. Nicholas was erected next to the Jewry wall. It stands today. One implication that seems likely is that the Church of St. Nicholas was built on the same site. Whether it used the existing church as a basis, or was built anew from the old church's foundations was not of interest.
