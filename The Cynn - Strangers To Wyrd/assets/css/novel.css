@@ -58,6 +58,14 @@ body {
   border-bottom: 1px solid var(--border-color);
 }
 
+.book-rights {
+  margin-top: 0.65rem;
+  color: var(--muted-text-color);
+  font-family: system-ui, sans-serif;
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
 .book-title {
   font-size: 1.35rem;
   font-weight: 700;

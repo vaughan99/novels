@@ -26,6 +26,10 @@
   >
   $endif$
 
+  $if(rights)$
+  <meta name="copyright" content="$rights$">
+  $endif$
+
   $if(date-meta)$
   <meta name="dcterms.date" content="$date-meta$">
   $endif$
@@ -77,6 +81,10 @@
           <span class="author">$author$</span>$sep$<span class="author-separator">, </span>
           $endfor$
         </div>
+        $endif$
+
+        $if(rights)$
+        <div class="book-rights">$rights$</div>
         $endif$
       </div>
 
