@@ -8155,7 +8155,7 @@ The others answered softly.
 
 They filled the grave.
 
-When the last soil had been pressed into place, Osric set four stones along its length. He placed the largest at Ealhild’s head.
+When the last soil had been pressed into place, Osric set five stones along its length. He placed the largest at Ealhild’s head.
 
 He remained there after the others returned to the wagon.
 
@@ -8277,7 +8277,7 @@ Tor examined the rune but did not ask what it meant.
 
 Osric slid Briar-Bite into its sheath and fixed it at his belt.
 
-Behind him, the evening light touched the four stones of the grave.
+Behind him, the evening light touched the five stones of the grave.
 
 On the hill above the cottage, horses moved among the ash trees.
 
