@@ -318,26 +318,30 @@ Madoc's interest was drawn to the map. Milly held one side, and he held the othe
 
 The _Dannedd y Ddraig_ were a riot of noise, singing bawdy songs of the Welsh hills that made the local wayfarers scramble into the ditches to give them a wide berth. They were loud, boisterous, and utterly indifferent to the judgment of the world.
 
+```
 Women: "I see and hear the Bishop cry!"
-Men: "Way, oh way, beyond the sea."
+Men:   "Way, oh way, beyond the sea."
 Women: "Who now stole the Bishop's pie?"
-Men: "Don't look my way, it wasn't me."
+Men:   "Don't look my way, it wasn't me."
 Women: "I see and hear the abbot's goose."
-Men: "Way, oh way, beyond the sea."
+Men:   "Way, oh way, beyond the sea."
 Women: "The yard's a mess and the bird is loose!"
-Men: "Don't look my way, it wasn't me."
+Men:   "Don't look my way, it wasn't me."
 Women: "I see and hear Sant Padrig moan."
-Men: "Way, oh way, beyond the sea."
+Men:   "Way, oh way, beyond the sea."
 Women: "Some one played upon his bone."
-Men: "Don't look my way, it wasn't me."
+Men:   "Don't look my way, it wasn't me."
+```
 
 One of the men, a younger lad named "Baldy Gwyn", was caught off-guard and laughed hysterically, breaking the refrain. The company stopped as one, every finger pointing at Baldy.
 
 Milli stared at him mock-sternly... it was time for his punishment. Milli motioned for the group to start the final punishing refrain:
 
+```
 Group: "I see and hear the culprit fair, Right here, oh here, beside me."
 Milli: "Pitching tents when we get there!"
 Group: "And we'll watch him closely!"
+```
 
 Baldy was often the first to lose. He didn't mind, as he was the youngest of the company, and he knew he had a lot to learn.
 
