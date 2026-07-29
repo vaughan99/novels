@@ -1203,7 +1203,7 @@ Women: "Some one played upon his bone."
 Men:   "Don't look my way, it wasn't me."
 ```
 
-One of the men, a younger lad named "Baldy Gwyn", was caught off-guard and laughed hysterically, breaking the refrain. The company stopped as one, every finger pointing at Baldy.
+One of the men, a younger lad named _Baldy Gwyn_, was caught off-guard and laughed hysterically, breaking the refrain. The company stopped as one, every finger pointing at Baldy.
 
 Milli stared at him mock-sternly... it was time for his punishment. Milli motioned for the group to start the final punishing refrain:
 
