@@ -101,7 +101,7 @@ The gnome had taught her everything he thought she needed to survive as a child 
 
 Fussleton blinked. "How do I...?"
 
-He laughed—a delighted, tinkling laugh.
+He laughed. A delighted, tinkling laugh.
 
 "Meadow-bud..."
 
@@ -121,11 +121,11 @@ He stopped. "...You really can't hear it?"
 
 And he left her there, a girl of eleven winters, yet much, much older in lunar years.
 
-The _Ulfhednar_ were long gone by then, and a steady, quiet life had returned to Under-Geat. Elswyth stood before the charred skeleton of the coaler’s hut, the roof long since consumed by the wolves' fire. She was alone, but she was no longer the girl who had fled into the trees. She was a creature of the forest now, and the gnome’s promise hung in the air between them.
+The _Ulfhednar_ were long gone by then, and a steady, quiet life had returned to Under-Geat. Elswyth found the charred skeleton of the coaler’s hut, the roof long since consumed by the wolves' fire. She was alone, but she was no longer the girl who had fled into the trees.
 
 The gnome had warned her that the villagers believed she was dead. If she simply returned out of the mist, he said, they would likely think her a spirit. They might chase her with iron and fire, or do even worse. He had tried to convince her to live deep in the forest, but Elswyth would not be deterred. She was going to be her father's apprentice, and one day she would make coal even better than he did.
 
-To live there, Elswyth had to invert her very existence. She never repaired the hut; to the casual eye, it remained a dead, blackened ruin, a grim monument to the raid of 933. But behind the collapsed, soot-stained rafters, she used her father’s felling axe to clear a narrow crawlspace near the hearth-stone. She lined it with dry moss and pine boughs, creating a dark, hidden nest beneath the debris. She looped branches in the shadow of the wreck to ensure rain and snow stayed off her shoulders as she slept.
+To live in Under-Geat and at the charcoal clamps, Elswyth had to invert her very existence. She never repaired the hut; to the casual eye, it remained a dead, blackened ruin, a grim monument to the raid of 933. But behind the collapsed, soot-stained rafters, she used her father’s felling axe to clear a narrow crawlspace near the hearth-stone. She lined it with dry moss and pine boughs, creating a dark, hidden nest beneath the debris. She looped branches in the shadow of the wreck to ensure rain and snow stayed off her shoulders as she slept.
 
 When the sun rose, she crawled into this soot-choked hollow and slept, her fingers wrapped tight around the handle of the felling axe. She became a creature of the day's shadows. If villagers wandered near the graveyard, they saw only a silent, haunted wreck.
 
@@ -133,7 +133,9 @@ But when the moon climbed high, Elswyth woke.
 
 The felling of large trees was still difficult for Elswyth. Her frame was muscular for a girl of eleven winters, but the iron oak resisted the bite of the felling axe. She began by dragging the fallen limbs where she found them.
 
-She revived her father’s trade entirely in the dark. Tending a coalpit at night was a delicate, dangerous madness—a single shift in the wind could turn a slow smolder into a roaring blaze, exposing her to anyone watching from the hill. Yet she had the gnome’s rhythmic training. She worked without torches, her eyes adjusted to the pale, silver wash of the moon. She could read the heat of the pit by the faint, shimmering heat-waves rising against the stars, and she knew the wood was cooking by the sweet, heavy scent of the baking sap.
+She revived her father’s trade entirely by herself. She could manage only two clamps, which meant less charcoal. More required more eyes than she possessed. Tending a clamp day and night was a delicate, dangerous madness. A single shift in the wind could drive breath beneath the earthen covering, turning a slow smolder into a hungry fire and exposing her to anyone watching from the hill. Yet she had the gnome’s rhythmic training.
+
+She read the clamp’s heat in the faint shimmer rising against the stars and knew the wood was cooking by the sweet, heavy scent of sap and smoke. Where she suspected a hot place, she flicked a few drops of water onto the packed earth and watched how quickly they vanished into steam.
 
 She remembered her father's rule, leaving the crumbling, half-burnt edges of the coal for the forge-elves. But she also incorporated Fussleton's strange wisdom: that the harsh glare of a torch spread the magic of the moonlight too thin, and that the finest coal was made only from wood felled and cooked under the moon's cold eye. It was light _singing coal_ that clinked like iron when struck, burning with an intense, smokeless heat. A little polish, and they'd _all_ be Saint Alexander's stones.
 

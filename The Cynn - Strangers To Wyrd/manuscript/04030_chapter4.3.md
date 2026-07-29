@@ -101,9 +101,9 @@ By the fifth hearing she knew the entire lorica by heart. She knew where to repe
 
 But life moved on, for everyone, including Elswyth.
 
-Each winter, after the first deep snow, no one could find the charcoal pits hidden beneath the white blanket of the forest. Her craft carried her through the bitter months. She kept enough charcoal to warm her own hearth and sold the rest, spending her hard-earned pennies on tithes to the Church and the things the woods could never provide: wool for mending, salt for preserving, needles, thread, and the occasional iron tool.
+Each winter, after deep snow buried the old hearths, Elswyth turned from burning to preparation. She felled timber, split it into billets, and raised drying stacks beneath rough covers of bark and brush. The wood she burned when spring returned had already stood through one turning of the seasons.
 
-Her charcoal burned hot and clean. It gave off almost no smoke, leaving no telltale plume above the trees to betray that the _Coaler-Wight_ was home.
+Each morning she would return to the cottage to sleep. Her charcoal burned hot and clean. It gave off almost no smoke, leaving no telltale plume above the trees to betray that the _Coaler-Wight_ was home.
 
 ---
 
@@ -187,15 +187,15 @@ One older Dane poured ale into Morning-Eye's mouth before drinking from the same
 
 The villagers would watch as this continued. They saw the faces withstand everything. Once winter set in, no Viking bothered with the stone giants any more.
 
-By February of 943, Olaf's men retreated behind ramparts and walls. The Saxons had returned to dismantle the Olaf's hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
+By February of 943, Olaf's men retreated behind ramparts and walls. The Saxons had returned to dismantle Olaf's hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
 
-March 24rd, 943 was the night of the last full moon of the gnome's promise. It was also a week before Easter. Elswyth was then of twenty winters. 
+March 24th, 943 was the night of the last full moon of the gnome's promise. It was also a week before Easter. Elswyth was then of twenty winters. 
 
 The gnome did not come that night as she expected. She assumed he forgot. Or maybe the Vikings' and Saxons' noises had scared him away. Or perhaps he had peeked in on her after all, and saw that she was thriving better than he expected. She raked the coals faster with each passing thought.
 
-She was coal-wise and her purse had silver. Her coal had buyers. There were mushrooms in her bag and martens and squirrels in her traps. He must have known his training was well-taken, and he must have moved on. She dwelled on the matter a bit longer, before deciding to abandon the forest work and head home.
+She was coal-wise and her purse had silver. Her coal had buyers. There were mushrooms in her bag and martens and squirrels in her traps. He must have known his training was well-taken, and he must have moved on.
 
-She started loading her coal into the sacks. 
+She watched her smoking clamp with weary eyes.
 
 From behind her came a voice.
 
@@ -486,13 +486,21 @@ That's when she noticed. He had stopped. He wasn't looking to pounce. He wasn't 
 
 Elswyth knew this wasn't a solution. It was time.
 
-She stepped onto the coals.
+She darted around the clamp and grabbed another rake. She hacked at the clamp. Earth fell away in chunks, exposing the charcoal to the night air. Orange light spread through the black charcoal. Sparks snapped upward, and small flames licked across the newly opened face.
 
-"You want me? You'll have to fight me here." She pulled out her small mushroom knife. It was the last bit of steel that she had.
+"What... What are you doing Meadow-bud?"
+
+She didn't answer. She started raking hot charcoal onto the ground. Where the air met the charcoal, flames were rising. When he started to approach, she swung the rake, flinging hot charcoal at him. He could do nothing but dodge.
+
+"Wait! Stop!"
+
+She worked the rake furiously, building a moat of black and orange charcoal around her.
+
+She stood defiantly. "You want me? You'll have to fight me here." She pulled out her small mushroom knife. It was the last bit of steel that she had.
 
 "But my nose hurts! How am I supposed to properly enjoy this?"
 
-"What's the matter, _Fussy-Bud_? Too fragile to fight a _woad snail_?"
+"What's the matter, _Fussy-Bud_? Too fragile to fight a _coal-slinging woad snail_?"
 
 "Taunting?" He laughed.
 
@@ -504,15 +512,45 @@ He gingerly touched his nose.
 
 He sighed.
 
-"But I can't have you set yourself on fire. Can't rescue the dish that way," he casually mentioned to himself.
-
 His smile faded into a grimace.
 
-"I suppose we're at an impasse. But I expect your toes are regretting your decision."
+"I suppose we're at an impasse. But the fire will die soon."
 
-Her toes indeed were getting warm, as her turn shoes were starting to smoke.
+He stared at her impatiently. He tapped his foot to a beat he could only hear.
 
-But behind the red-capped murder-gnome came a small, childish giggle.
+"I hear your heartbeat, Meadow-bud. Amazing how calm you are."
+
+He waited another long moment.
+
+“Won’t you just give me a taste? You’re really going to make me wait here?”
+
+“Come take one.”
+
+His gaze moved from the coals to her arms.
+
+“You’ll grab me.”
+
+“Probably.”
+
+“And put me in the fire.”
+
+“Certainly.”
+
+Fussleton frowned.
+
+“I shouldn't have had you haul all that wood. Next time, I'll hire loggers for my experiment.”
+
+"I'm stronger than you. Admit it."
+
+"Before I met you, you wouldn't say more than a few words at a time. Now you can't stop talking?"
+
+"Fussy-Bud! Come here, Fussy-Bud!"
+
+She used the rake to fling another piece of charcoal at him.
+
+"I said stop that!"
+
+Behind the red-capped murder-gnome came a small, childish giggle.
 
 Then another.
 
@@ -554,7 +592,7 @@ You'll still laugh and you will sing
 But dancing will be another thing.
 ```
 
-Elswyth stepped back off the coals. She held her mushroom knife as bravely as she could.
+Elswyth stayed inside her moat of coals. She held her mushroom knife as bravely as she could.
 
 Fussleton stopped for a moment and pleaded.
 
@@ -646,9 +684,11 @@ Just peace.
 
 The neighbors up the hill crossed themselves in their beds, and drew their bed furs over their eyes. They weren't sure what they had heard from across the Soar, but it must have been another adventure of the _Coaler-Wight_.
 
-Elswyth reached down and found the Alexander Stone. She stood for a moment, her face reflecting slightly on the glassy surface.
+Elswyth leapt across the moat of coals. Elswyth reached down and found the Alexander Stone. She stood for a moment, her face reflecting slightly on the glassy surface.
 
-Elswyth frantically ran back to her hut. She rushed in, finding her box on the floor. The box lay bare; the pelt was gone. It neatly sat in the center of the ruined hut.
+What she had done had ruined the burn, and now there was a risk of an uncontrolled fire. She ran for the buckets and shovel. She buried the exposed charcoal beneath fresh earth, then poured water over anything that still glowed orange. She searched the hearth for every piece she had flung and doused those as well.
+
+Elswyth frantically ran back to her hut. She rushed inside and found the box sitting neatly in the center of the ruined hut. Its lid stood open. The silver pelt was gone.
 
 She saw the morning light, and her mind snapped to the present. She knew she had moments before the village rhythm began.
 
@@ -665,7 +705,7 @@ Per sanguinem Agni, et per radicem arboris,
 Seal this ground. I am your humble servant.
 ```
 
-("Christ on the Cross, be to me a shield, stand before me. Christ on the Cross, be to me a fire, guard me in the night. From the Spotted King in the wood, From the spirit children who trap souls, By the blood of the Lamb, and by the root of the tree, Seal this ground. I am your humble servant.")
+_("Christ on the Cross, be to me a shield, stand before me. Christ on the Cross, be to me a fire, guard me in the night. From the Spotted King in the wood, From the spirit children who trap souls, By the blood of the Lamb, and by the root of the tree, Seal this ground. I am your humble servant.")_
 
 She crossed herself, but her fingers traced the sign not just in the air, but toward the four corners of the sleeping hole, as if pinning the walls to the ground. She prayed for a barrier. She prayed for the Church’s stone to be as hard as the forest’s wood, and for the "God of the Bells" to be louder than the giggles in the dark.
 

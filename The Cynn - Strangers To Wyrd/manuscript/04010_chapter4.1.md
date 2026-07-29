@@ -87,7 +87,9 @@ Despite her impatience, the wisdom seemed solid to her, and so that was the fami
 
 But she hated the nickname. "_Meadow-bud_, I'm nothing of the sort," she thought, as she would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She was already stronger than he realized. "My father will see, I'm not merely the coal-maid. I will follow him into the forest and together we will fell the trees."
 
-Elswyth and Eadgyth worked the pits in cycles. Godwine felled timber and hauled it to the drying stacks. Once seasoned, the wood was stacked into a waiting charcoal clamp. Some pits burned fiercely beneath their earthen coverings, others merely smoldered, and others cooled after days of careful watching. When a pit had finally gone cold, the family filled coarse hemp sacks with the finished charcoal.
+The family worked the pits in cycles. Godwine felled timber and hauled it to the drying stacks. Once seasoned, the wood was stacked into a waiting charcoal clamp. Some pits burned fiercely beneath their earthen coverings, others merely smoldered, and others cooled after days of careful watching. When a pit had finally gone cold, the family filled coarse hemp sacks with the finished charcoal.
+
+During those fragile days, sleep was a luxury. An unwatched clamp could become an ordinary fire and spell doom for the forest. The nearby Soar provided water against such disaster. The family kept a small sleeping shelter beside the clamps, a home away from Under-Geat, to ensure the clamp-watcher always had another to call upon.
 
 Leicester had several carters who knew the roads around the town. But none had traveled as far and wide as Long-Mile. His given name was long forgotten, even by himself, as even as a child, he roamed far from home to his mother's dismay.
 
