@@ -1,58 +1,4 @@
-# The Cynn: Strangers To Wyrd
-
-<!-- TOC START -->
-
-## Table of Contents
-
-- [Warning](#warning)
-- [Prologue: Same Story, Two Tails](#prologue-same-story-two-tails)
-- [Leicester AD 933-943](#leicester-ad-933-943)
-- [Chapter One: A Promise of Piles](#chapter-one-a-promise-of-piles)
-- [Chapter Two: The Tale of the Hearth-Warm Fyrdman](#chapter-two-the-tale-of-the-hearth-warm-fyrdman)
-  - [Part One: Gerðr's Tears](#part-one-gerðrs-tears)
-  - [Part Two: The Bowl](#part-two-the-bowl)
-  - [Part Three: The Feared](#part-three-the-feared)
-- [Chapter Three: The Past Is Risen](#chapter-three-the-past-is-risen)
-- [Chapter Four: The Tale of the Coal-Wise Apprentice](#chapter-four-the-tale-of-the-coal-wise-apprentice)
-  - [Part One: The Cutting of the Wood](#part-one-the-cutting-of-the-wood)
-  - [Part Two: The Long Burn](#part-two-the-long-burn)
-  - [Part Three: The Harvest of the Coal](#part-three-the-harvest-of-the-coal)
-- [Chapter Five: Let Us Prey](#chapter-five-let-us-prey)
-- [Chapter Six: The Tale of the Bell's Deacon](#chapter-six-the-tale-of-the-bells-deacon)
-  - [Part Zero: The Liturgy of Huginn](#part-zero-the-liturgy-of-huginn)
-  - [Part One: The Liturgy of the Bell](#part-one-the-liturgy-of-the-bell)
-  - [Part Two: The Liturgy of the Road](#part-two-the-liturgy-of-the-road)
-  - [Part Three: The Liturgy of the Sword](#part-three-the-liturgy-of-the-sword)
-  - [Part Four: The Liturgy of the Wound](#part-four-the-liturgy-of-the-wound)
-  - [Part Five: The Liturgy of the Shield](#part-five-the-liturgy-of-the-shield)
-- [Chapter Seven: The Night of Blood](#chapter-seven-the-night-of-blood)
-- [Chapter Eight: Barrow's Edge, The Hedge-Stalker](#chapter-eight-barrows-edge-the-hedge-stalker)
-- [Chapter Nine: Monanleoht, The Battle-Dancer](#chapter-nine-monanleoht-the-battle-dancer)
-- [Chapter Ten: Wodbora, The Madness-Bringer, The Prophet of the Wodhere](#chapter-ten-wodbora-the-madness-bringer-the-prophet-of-the-wodhere)
-- [Chapter Eleven: The Blades](#chapter-eleven-the-blades)
-  - [Part One: The Debate](#part-one-the-debate)
-  - [Part Two: The Cynn](#part-two-the-cynn)
-- [Chapter Twelve: Getting A Handle On Things](#chapter-twelve-getting-a-handle-on-things)
-- [Chapter Thirteen: Stories for the Road](#chapter-thirteen-stories-for-the-road)
-- [Chapter Fourteen: The Return](#chapter-fourteen-the-return)
-- [Chapter Fifteen: Heroes, or People?](#chapter-fifteen-heroes-or-people)
-- [Epilogue](#epilogue)
-- [Afterword](#afterword)
-  - [Why Write This Book?](#why-write-this-book)
-  - [Who Are The Cynn, Really?](#who-are-the-cynn-really)
-  - [The Tenth Century](#the-tenth-century)
-- [Swords and Scabbards: What Are These Blades?](#swords-and-scabbards-what-are-these-blades)
-  - [Wodbora the Madness-Bringer, the Prophet of the Wodhere, the Guardian of Chaos](#wodbora-the-madness-bringer-the-prophet-of-the-wodhere-the-guardian-of-chaos)
-  - [Barrow's Edge, the Hedge-Stalker](#barrows-edge-the-hedge-stalker)
-  - [Monanleoht, the Battle-Dancer](#monanleoht-the-battle-dancer)
-- [AFTERLIFE](#afterlife)
-
-<!-- TOC END -->
-
-
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Warning
+# Warning
 
 The following novel contains extreme tonal whiplash. Please stop reading if you encounter any of the following symptoms:
 
@@ -78,9 +24,7 @@ However, if any of these symptoms seem even the _slightest_ bit delightful... we
 
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Prologue: Same Story, Two Tails
+# Prologue: Same Story, Two Tails
 
 High above the world, where the winds carried the words of kings and beggars alike, flew two ravens. One was called Huginn. His mind delighted in possibilities, forever wondering what might yet be. The other was Muninn. He remembered every face, every word, and every deed he had ever witnessed since the beginning of time. Long had they wandered the lands of men, brothers-of-the-wing, gathering ancient stories to carry back to their master.
 
@@ -121,16 +65,12 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 "It was Saturday, March 30th," Muninn interrupted. "And it was the morning of Easter Eve."
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Leicester AD 933-943
+# Leicester AD 933-943
 
 ![Leicester Map](assets/images/maps/Story-Map.png "Map of Leicester, AD 933-943")
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter One: A Promise of Piles
+# Chapter One: A Promise of Piles
 
 The Saxon armies had gathered from icy roads far away, to deliver _DEATH_ to the Danes who occupied Leicester. 
 
@@ -599,11 +539,9 @@ Among the army of Olaf were Northumbrian levies, farmers like Osric from neighbo
 Osric's thoughts drifted from the broken axle. He looked into the puddle beneath him, and he saw what he had become. It was a long road from where he started.
 
 
-[↑ Back to Table of Contents](#table-of-contents)
+# Chapter Two: The Tale of the Hearth-Warm Fyrdman
 
-## Chapter Two: The Tale of the Hearth-Warm Fyrdman
-
-### Part One: Gerðr's Tears
+## Part One: Gerðr's Tears
 
 Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare. He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
 
@@ -781,7 +719,7 @@ She woke each of the children, and Osric. And they all ate the medicine in the g
 The sickness hit the moment they each went to bed. The poison stole the air from their lungs, making them like fish trying to draw breath on dry land. The goblins overpowered their blood in the pitched battle. It's best not to speak of what happened next. What is best to say is that Ealhild and the children did not survive the night.
 
 
-### Part Two: The Bowl
+## Part Two: The Bowl
 
 The _nisse_ waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
 
@@ -960,7 +898,7 @@ He peered. He saw straw poke out from the new daub.
 He turned back to his cove and he stared at the ground. His expression went blank. He sighed. He giggled. He realized with terrifying clarity that for his sanity: that was the last straw.
 
 
-### Part Three: The Feared
+## Part Three: The Feared
 
 For the next few days, Osric was resigned to living with a monster. It is easier if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
 
@@ -1226,9 +1164,7 @@ Muninn: "I said it a thousand years ago."
 
 Huginn: "And yet here you are."
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Three: The Past Is Risen
+# Chapter Three: The Past Is Risen
 
 Elswyth was from Under-Geat, a daughter of the charcoal and the forest. She seldom mingled with the village-folk now, for she had spent half her life balanced on the sharp edge between truth and lie. Which was which depended on who you asked.
 
@@ -1358,11 +1294,9 @@ All the while, she tried to put Wulfhere’s face out of her mind.
 
 But it would not leave her.
 
-[↑ Back to Table of Contents](#table-of-contents)
+# Chapter Four: The Tale of the Coal-Wise Apprentice
 
-## Chapter Four: The Tale of the Coal-Wise Apprentice
-
-### Part One: The Cutting of the Wood
+## Part One: The Cutting of the Wood
 
 In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gently sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester. To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
 
@@ -1568,7 +1502,7 @@ Muninn: "...but..."
 Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing a felling axe. Our insiders tell us his plan calls for good rhythm and flea's-leg timing. Back to you in the studio."
 
 
-### Part Two: The Long Burn
+## Part Two: The Long Burn
 
 The training began exactly as he promised, though it was nothing like the songs he had sung over the stew. It was a brutal, rhythmic education in the art of disappearing and collecting.
 
@@ -2026,7 +1960,7 @@ Huginn: "Steve says thank you."
 Muninn: "Tell Steve... nevermind."
 
 
-### Part Three: The Harvest of the Coal
+## Part Three: The Harvest of the Coal
 
 Years passed in _Under-Geat_.
 
@@ -2720,9 +2654,7 @@ Huginn: "You have to admit he made a wonderful menu."
 Muninn: "Yes. I think _you'd_ call it 'Tuesday night's supper.'"
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Five: Let Us Prey
+# Chapter Five: Let Us Prey
 
 By the time Elswyth returned, the train’s oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat disappeared behind her.
 
@@ -3098,5 +3030,259 @@ Huginn: "I said stop teasing me!"
 
 
 
-[↑ Back to Table of Contents](#table-of-contents)
+# Chapter Six: The Tale of the Bell's Deacon
+
+## Part Zero: The Liturgy of Huginn
+
+Muninn: "Wait. Stop. Huginn, what in the Allfather’s name are you doing?"
+
+Huginn: "I am telling the story of the deacon, brother. It is a vital thread."
+
+Muninn: "We were just in 943! The wagons were moving! The mud was sucking! The tension was actually happening! And now you are dragging us all the way back to 913? Thirty years? Do you have any idea how much memory that takes to store?"
+
+Huginn: "A soul is not forged in a single winter, Muninn. Cynewulf’s path is a winding one. It requires... patience."
+
+Muninn: "Patience? This isn't a path, it's a pilgrimage! The charcoal girl got a few pages of soot and a creepy redcap. The fyrdman got a tragic winter and a very angry house-spirit. But this deacon? You have given him five entire liturgies! He gets a road, a sword, a wound, a shield... does he get a pension plan too?"
+
+Huginn: "He gets what he earned. Besides, the readers will enjoy the scenery. There are Welshmen with chemical weapons."
+
+Muninn: "Fine. But let the children stretch their wings first. If you are going to take them on a thirty-year detour through the mud of Northumbria, at least warn them to fetch a cup of mead and get comfortable. This is going to take a while."
+
+
+## Part One: The Liturgy of the Bell
+
+_A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no one tells the bell-maker when the bell will toll for him._
+
+_These are the lessons of the Bell_.
+
+This story began earlier, in 913 AD. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba. The ring of the Shrove-Bells called throughout Leicester. That day was the most important day for confessions on the calendar.
+
+Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
+
+"Father, my name is Cynewulf... son of Godric. There is a heat in me," he whispered. "I looked at Eadmund — my best friend — and I wished him into the fire. We were picking through the iron bits meant for my father's small nail-forge, and he found a garnet. I'm told such things are rare. Garnets are swallowed by smelt-fire. I was jealous of the prized bauble he had found, and I wanted it for myself. And then the forge-spark jumped. I watched him burn, and for a heartbeat, I did not move." His friend was not terribly injured that day, but accusations were made, and they were no longer friends.
+
+"Cynewulf, that is an ember-hate. You must watch it carefully, and see that it dies quickly," the priest's voice was full of warning and confidence.
+
+He released his grip on Cynewulf's shoulder and consulted the penitential, a book of soul-tariffs. He had a solution in mind, but he needed to consult the book to ensure it was not over-harsh.
+
+The book snapped closed, the sound echoing through the church. "Cynewulf, you shall serve the bell-pits of the church from now through Lent. You will know the bite of embers on your skin and the glow-heat of the castings. Do this, and your sin shall be forgiven. Go forth, report this to your father, and steel yourself to the bell-master."
+
+The confession that day brought him to the church. The work did not seem like work.
+
+He worked the Lent season in the bell-pits, pressing clay for the mold, shoveling charcoal, setting the burn, standing back as the bronze was finally poured. The heat of the process felt cleansing.
+
+He also saw the work of the priesthood itself, the deference they received and the catharsis they delivered. It felt like a calling.
+
+His penance served, he told his father that he was destined for the bell-pits and then the priesthood. The bell-master had evaluated him, and there was space for a new apprentice. There was also space for a new acolyte-to-come, and so his path was clear. His time spent in the pits would pay for his Latin lessons and the tutelage he required.
+
+Godric was proud; that was a noble beginning for his son, an apprenticeship of trade and a life of humble privilege. He smiled, thinking that every time the church bells rang, his son would have had a hand in their voice. The house had been quiet since Cynewulf's mother’s passing, and Godric seemed to find a new, reflected light in his son’s sudden, burning ambition.
+
+The years that followed settled into a rhythm as steady as the bells themselves. When the Lent season had ended, the bell-master told Cynewulf to gather his few belongings and report to the boys' dormitory within the church grounds. His pallet was laid among the other acolytes, his meals were taken in the refectory, and his days were measured by bells rather than by the hearth.
+
+Godric carried his son's bundle through the church gate himself. It was a short walk from the cottage, yet it felt strangely longer than any road he had ever traveled. They embraced awkwardly, each pretending the distance was nothing. From that day forward, Cynewulf still worked beside his father whenever timber met bronze, but each evening Godric returned to an emptier house while his son remained within the church walls.
+
+Without ceremony, the Church had become Cynewulf's household. The priests became his tutors, the bell-master his taskmaster, the older acolytes his brothers. The bells woke him, summoned him to prayer, called him to meals, and finally sent him to sleep. Their voices marked not only the hours of the town, but the years of his youth.
+
+At first the work was simply work. Cynewulf rose before dawn with the other boys, hauled charcoal, mixed clay, swept ash, and watched the founders coax liquid bronze from stubborn metal. The bell-master was a demanding man, but a fair one. Every mistake had a lesson. Every burn had a purpose. Cynewulf found satisfaction in that certainty. Bronze did not flatter. Bells did not lie. A mold was either true or it was not.
+
+When the castings were finished, he watched another kind of labor begin.
+
+His father would arrive with chisels, augers, adzes, and oak timbers. Godric was not a founder, but a carpenter, and the bell was only half complete until it had a frame worthy of its voice. Together they fitted beams, carved joints, and hoisted bronze high into newly built towers. Cynewulf learned that a bell could be perfectly cast and still ring poorly if mounted by careless hands. His father's craft gave the bell its freedom to speak.
+
+It became their shared labor. Father and son worked side by side, one learning the weight of timber while the other learned the patience required to shape it. Godric rarely praised him aloud, but his trust grew quietly. Before long he handed Cynewulf measurements instead of instructions. They solved problems together, debating joints and braces late into the evening over scraps of charcoal and rough planks spread across the workshop floor.
+
+The priests noticed, and so did visiting clerics.
+
+As the years passed, word of Godric's craftsmanship spread quietly from one church to the next. A priest whose bell no longer rang true would mention the Leicester carpenter to another priest. A bishop pleased with one repair would recommend him for another. Before long, requests began arriving from neighboring shires whenever an old frame failed or a newly cast bell proved too great for its timbers. What had once been a local trade slowly became a calling that followed the roads of the Church.
+
+At first his absences were measured in days. Then in weeks. Godric traveled with whatever company the Church could provide—priests carrying letters, fellow craftsmen, merchants bound along the same Roman roads, or pilgrims making for distant shrines. He rarely walked alone, and when he returned he carried little wealth beyond a few unfamiliar coins and the dust upon his boots. What he brought home instead were stories.
+
+Whenever his journeys brought him back for a Sunday or one of the greater feast days, father and son would linger over their meal long after the other tables had emptied. Godric would recount leaning church towers, stubborn abbots, and the curious people he had met along the way. Sometimes he laid a small token upon the table—a carved trinket, an unusually fine whetstone, a strip of dyed cloth, or some other curiosity gathered from a distant market—but the stories were always the greater gift.
+
+Cynewulf treasured every one. He had never seen York. He had never crossed the Humber. He had never stood beneath the great churches whose names echoed through every monastery. Through his father's eyes, however, he began to know the roads between them. Each tale carried him a little farther from Leicester before gently setting him back at the church gate, where the journey always ended for him.
+
+Godric kept the harsher truths of the Road to himself. He spoke of towering churches and bustling markets.
+
+Seldom of swollen rivers that swallowed wagons, of nights spent awake listening for footsteps beyond the firelight, or of highwaymen lingering just beyond bowshot until the guards rested their hands upon axe hafts.
+
+He never mentioned the fever that swept through a traveling party in the span of three days, nor the mold that spoiled provisions before the next monastery came into view.
+
+Those were burdens for grown men, he believed, not stories to place upon the shoulders of a boy who still looked toward the horizon with wonder.
+
+So Cynewulf inherited his father's love of the Road, but not his caution. The dangers were quietly edited from every tale, leaving behind only fellowship, discovery, and distant church towers waiting beyond the next rise.
+
+Each journey ended the same way. Godric unpacked his tools. He rested a day or two.
+
+Then another messenger arrived. Another bishop needed a bell mounted. Another monastery had heard of the Leicester carpenter.
+
+Another journey on the Road. Cynewulf helped load the wagon each time. He was proud, but he was also left behind.
+
+The Church had become a crossroads. Travelers, merchants, pilgrims, reeves, priests, and wandering scholars all passed beneath its roof. As Cynewulf's Latin improved, he was often asked to assist them. He copied letters, translated names, and listened as visitors recounted distant lands while waiting for an audience with the clergy.
+
+The confessional became another window upon the world. People confessed more than sins. Each confession painted another Road he had never walked.
+
+His tutors praised his memory. Latin came easily to him. Scripture followed. He copied manuscripts with a careful hand and learned the order of the Mass. Villagers who had known him as a charcoal-blackened caster's apprentice now bowed their heads as he read from books they themselves could not understand.
+
+The change fascinated him. The words had not changed. Only the speaker had.
+
+He noticed how silence fell when Latin filled the nave. Farmers who would argue endlessly with one another grew quiet before a language none of them spoke. Widows who scarcely noticed him in the marketplace suddenly sought his blessing after services.
+
+It puzzled him at first. Then it simply became another fact of the world. Knowledge carried weight. Some knowledge carried more.
+
+Years passed.
+
+The bell-master entrusted him with greater responsibility. He learned to judge the quality of bronze by sound alone. He inspected molds before casting. He supervised younger boys entering the pits just as he once had. Whenever a bell rang true after installation, he felt a quiet satisfaction knowing that dozens of unseen hands had contributed to that single clear note.
+
+Yet it was never those unseen hands that people remembered.
+
+The villagers praised the priest. The bishop thanked the donor. The lord received credit for funding the work. The founder signed the casting. The carpenter's name was occasionally remembered. The apprentices were forgotten.
+
+Cynewulf did not complain. He simply noticed.
+
+Godric always seemed content with that arrangement. "Let the bell remember us," he once said while packing his tools for another journey. "People forget craftsmen. Good work doesn't."
+
+Cynewulf nodded, though he was not certain he agreed.
+
+As Godric's reputation grew, his absences lengthened. Leicester became less a permanent home than a place to return between commissions. Father and son still worked well together whenever those paths crossed, but increasingly they resembled fellow craftsmen sharing a workshop rather than a family sharing a household.
+
+Cynewulf never begrudged his father's success. How could he?
+
+He had watched every step that earned it. He had spent long evenings solving the same problems beside him, cutting, measuring, debating.
+
+When another bishop praised Godric's ingenuity, Cynewulf felt pride before anything else. Then, just as quickly, the warmth soured. A tiny ember of resentment glowed somewhere beneath his ribs before he smothered it in shame. The praise belonged to Godric. He knew that. Why, then, did the ember refuse to die?
+
+And the Road seemed always to pass through Leicester without stopping for him.
+
+He wondered, more often than he admitted even to himself, what lay beyond the next hill.
+
+He wondered whether God intended every calling to remain rooted in one place. He wondered whether service might someday ask him to walk those same roads his father now traveled. The questions felt harmless enough. After all, every road eventually led to another church. And every church, surely, had use for another priest.
+
+Years passed, and Cynewulf's apprenticeship came to its proper end. Before the altar he knelt, received the laying on of hands, and rose a deacon of the Church. The work changed little. He still swept the nave, prepared the altar, tended the bells. Yet something had changed all the same. He was no longer merely the master's hands. He had become one of the bell-masters himself.
+
+The first serious quarrel came not over prayer, but over bronze.
+
+A younger workman reached for a mold that had sat out on a rainy night. Molten bronze explodes wet molds. Cynewulf caught his wrist and shoved him back so hard the man stumbled into another apprentice. Harsh words followed. One accusation became another until both men stood red-faced beside the crucible, shouting over the roar of the furnace.
+
+Godric was no longer there to parent him. Godric had sold the family cottage to buy passage through Frankia and beyond, to take his knowledge all the way to Rome.
+
+The old priest stepped between them.
+
+"Enough."
+
+His voice was quiet.
+
+The foundry obeyed.
+
+For a long moment he looked only at Cynewulf.
+
+"I have watched men tend hearths my whole life," he said. "A good fire warms a house. A bad one devours it."
+
+Cynewulf lowered his eyes.
+
+"The flame in you burns hot, my son. There is great warmth in it. But I fear there is also a little coal that never cools."
+
+The words lingered long after the bronze had hardened.
+
+Cynewulf remembered the warning.
+
+He did not yet understand it.
+
+Finally, a few weeks before Shrove Tuesday arrived that year, he took his vows and was ordained a priest.
+
+When the bells rang out once more for the Shrove Tuesday confessions, Cynewulf found himself come full circle. There were older and more senior priests available to hear the penitents, but the time had come for him to assume his share of that mantle.
+
+He sat in the same seat from which a priest had once heard him confess his own “ember-hate” as a boy. Now he was prepared to hear the confessions of the parishioners who came before him. He kept the small, dark sins of his own heart tucked away in the back of his mind, convincing himself that he was the perfect guide. He was a man who knew the weight of sin and therefore knew exactly how to help others find absolution.
+
+The village folk gave their confessions, one by one. It was a process that took several hours.
+
+There lingered a silent tall presence in the back that drew nearer towards the end. He was the final penitent, and it was his turn to kneel. He was elderly, a man in a simple grey robe with a walking staff and a slow steady gait. His staff-echo was heard by the stone angels on the wall, but most of the villagers had left.
+
+He came to stand before Cynewulf, gazing down at the priest for a moment as though taking his measure. The old man drew his cowl back to his shoulders and lowered himself onto the cushion. Long grey hair fell across one side of his weathered face.
+
+Cynewulf's eyes were drawn to the loop of ash wood branches on his chest. The man had made his own cross with gnarled branches, perhaps from the same gnarled tree that was the provenance of his staff. The branches were tied with a fresh string made of undyed wool-yarn. The man smelled of sheep's lanolin and the fresh night air.
+
+Cynewulf laid his hand on the man's shoulder. "Let us begin. Tell me your name." 
+
+The old man replied in a thick Dane accent.
+
+"I... have no name of remembrance. My name died with my old life," the shepherd whispered.
+
+Cynewulf tried not to look at the man's face, but instead focused on the floor and the words. "God knows your name, dear shepherd. I need not hear it. Tell me the sins of an old shepherd, so that I may guide you."
+
+The shepherd leaned back slightly, and touched up his volume, to be better heard:
+
+"I've been a shepherd all my life. I have seen the grass grow green and go to stubble more times than stars in the sky. In the past, I knew my flock. I knew when the ewe would have twins. I knew when the ram would break the gate. 
+
+"I trained dogs to protect my sheep. I sent the dogs into new pastures to claim them for my flock. For a time, the dogs did well, and my sheep prospered.
+
+"Down in the valley, there is a new Master. He has built stone walls to keep his sheep in. He has trained his sheep to protect themselves. My sheep see my neighbor's walls, and they are high. They leave to seek comfort inside them.
+
+"Now the dogs have forgotten the field they are in. They prey on all the sheep."
+
+The old shepherd leaned his forehead into his staff.
+
+"My sin is not the spilt blood of sheep. My sin is that I'm abandoning my dogs, *Father*. My sheep I am leaving to the farmer-in-the-meadow, should he want them. May *God* have pity on my soul."
+
+The heavy, weeping weight of the shepherd's confession vanished in a heartbeat. His head drew back from leaning on his staff. The shepherd continued, his voice steadying as if telling an ancient tale.
+
+"There is a final curse I must mention. I saw it in the night. It was a flight of both light and dark in the sky, of black wings and spectral clouds. It sounded as a wolf howl and a rattle of bones. It was a _Hate_... a _Wodhere_... from the Old Times."
+
+Cynewulf's neck hairs tightened. He needed to know more; this man's soul depended on it. "Describe this _Hate_, please." His politeness was a ruse, because the revelation hit him hard, like a heavy Bible dropped flat against his palm. Cynewulf steeled his ears for the coming tale.
+
+But the old man declined. "I've said too much. It was not meant for the living," he said, his breath sighing.
+
+Cynewulf thought hard. What could he possibly do for this man? In the moment of the priest's confusion, the old man leaned in close. With one final, smiling breath, he spoke in perfect Latin: "_Memento mei bene_."
+
+Cynewulf was still fumbling for his penitential, trying to look up something — anything — that could give him guidance when the phrase hit like a fresh-struck bell. _Remember me well?_ Cynewulf thought. He snapped his eyes back up, but the grey shepherd had not only gotten up; he was halfway out the door already with his staff. Cynewulf couldn't remember hearing the wood-clack or the shuffle of the shepherd's retreat.
+
+That last confession struck him as odd. Trained dogs? Who was this shepherd? How is it he came to know Latin, when he could barely speak English? "He probably overheard one of the priests speaking in Latin," he thought, easing his mind. "The old man was probably obsessing over this bit of Latin as he tended his flock. That's how he perfected the pronunciation. It's nothing." Cynewulf had tried to put the confession out of mind, but it stayed with him the rest of his days.
+
+_Bells may ring. Whether you hear them depends on where you stand, and whether you choose to listen. A bell may toll directly before you, loud enough to shatter the air, but if you decide not to hear? You might as well be deaf._
+
+_So sayeth the Bell._
+
+On March 14th, 933 AD the black day of Leicester's village-folk had arrived. It was the day of the _Ulfhednar_ strike in Leicester, the day Elswyth was chased into the forests. The Saxon guards of Leicester were complacent shepherds that day, and the _Ulfhednar_ saw a lamb for the taking.
+
+The wolf-men broke into the church in a storm of activity. Cynewulf had been in his small priest-home; there were several, as the Church had grown since Leicester had reverted back to the Saxons. He had been cataloging donations earlier that morning, which were strewn on his small dinner table. He was also teaching Latin that afternoon to three students. 
+
+As the Church was being sacked, the sounds were a roar in the background. Cynewulf quickly barred the door, and searched the room quickly for his plan.
+
+He told the students to hide in a closet, and he grabbed a byrnie that had been donated by a retired thegn off the table. He took a spare censer's chain and wrapped it around his fist. He was not going to let the night fall on him and his flock without a fight.
+
+The sound of Cynewulf's breathless prayers competed with the uproar, until there was a sound at the door.
+
+Just as Cynewulf fastened the last buckle of the byrnie, the Viking pounded the door. There were shoulder-heaves and boot-kicks, until finally the door gave way.
+
+In the doorway stood a young Viking, a freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made his way into the cottage, shield at the ready.
+
+Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even him off-guard. He slammed his body towards the young _Ulfhedinn_. The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
+
+Cynewulf stood and watched as the floor of his priest-home pooled with blood. He peered through the doorway, and saw that the _Ulfhedinn_ boy had been carrying a small chest of loot, set cleanly on the ground. He looked back at what he had done.
+
+Cynewulf looked from the dead wolf-man to the axe, the shield, and the chest of silver. On the table, the sack of silver plates caught his eye.
+
+A soldier’s kit. A traveler’s purse. A bag of loot. And beyond the broken doorway, a town too frightened to notice one priest disappearing.
+
+For years the Road had passed through Leicester without stopping for him. Now it stood open.
+
+He told the children to take their opportunity: _run_. Once they left, he took _everything else_.
+
+He left Leicester, keeping to himself as he scurried under the weight of the silver. He knew that pawning the plates in the city would be scorn-folly; his new life had to begin elsewhere. In time, the town would forget his name. Perhaps, in their minds, he was merely a lamb sacrificed to the wolves that day.
+
+The bells called out to warn the town of the raid. They announced the arrival of the end, and they ignored Cynewulf as he ran.
+
+_The bells, large and small, announce the turning points in a life: Birth, Baptism, Communion, Marriage, Death. But there is no bell sound for the abandonment of a vocation or a life. There is no warning when the choice is irreversible. Bells do not toll for the unwise._
+
+_So sayeth the Bell._
+
+---
+
+Huginn: "Wow, look at him go! Armor, weapons, church-silver, and a lifetime of regret! The whole package."
+
+Muninn: "The memory will surely haunt him. He didn't realize how good he had it, or how far he has yet to go."
+
+Huginn, his eyes full of mischief: "Do you think he prayed on this before he made his decision? Two prayers: one to Saint Christopher, for good travels. The other to Saint Filcher for relocating stolen silver goblets? Sounds like a balanced spiritual portfolio."
+
+Muninn: "No I don't think he prayed, or gave one thought to it. Very impetuous. Reminds me of a raven I know."
+
 

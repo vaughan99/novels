@@ -1,58 +1,4 @@
-# The Cynn: Strangers To Wyrd
-
-<!-- TOC START -->
-
-## Table of Contents
-
-- [Warning](#warning)
-- [Prologue: Same Story, Two Tails](#prologue-same-story-two-tails)
-- [Leicester AD 933-943](#leicester-ad-933-943)
-- [Chapter One: A Promise of Piles](#chapter-one-a-promise-of-piles)
-- [Chapter Two: The Tale of the Hearth-Warm Fyrdman](#chapter-two-the-tale-of-the-hearth-warm-fyrdman)
-  - [Part One: Gerðr's Tears](#part-one-gerðrs-tears)
-  - [Part Two: The Bowl](#part-two-the-bowl)
-  - [Part Three: The Feared](#part-three-the-feared)
-- [Chapter Three: The Past Is Risen](#chapter-three-the-past-is-risen)
-- [Chapter Four: The Tale of the Coal-Wise Apprentice](#chapter-four-the-tale-of-the-coal-wise-apprentice)
-  - [Part One: The Cutting of the Wood](#part-one-the-cutting-of-the-wood)
-  - [Part Two: The Long Burn](#part-two-the-long-burn)
-  - [Part Three: The Harvest of the Coal](#part-three-the-harvest-of-the-coal)
-- [Chapter Five: Let Us Prey](#chapter-five-let-us-prey)
-- [Chapter Six: The Tale of the Bell's Deacon](#chapter-six-the-tale-of-the-bells-deacon)
-  - [Part Zero: The Liturgy of Huginn](#part-zero-the-liturgy-of-huginn)
-  - [Part One: The Liturgy of the Bell](#part-one-the-liturgy-of-the-bell)
-  - [Part Two: The Liturgy of the Road](#part-two-the-liturgy-of-the-road)
-  - [Part Three: The Liturgy of the Sword](#part-three-the-liturgy-of-the-sword)
-  - [Part Four: The Liturgy of the Wound](#part-four-the-liturgy-of-the-wound)
-  - [Part Five: The Liturgy of the Shield](#part-five-the-liturgy-of-the-shield)
-- [Chapter Seven: The Night of Blood](#chapter-seven-the-night-of-blood)
-- [Chapter Eight: Barrow's Edge, The Hedge-Stalker](#chapter-eight-barrows-edge-the-hedge-stalker)
-- [Chapter Nine: Monanleoht, The Battle-Dancer](#chapter-nine-monanleoht-the-battle-dancer)
-- [Chapter Ten: Wodbora, The Madness-Bringer, The Prophet of the Wodhere](#chapter-ten-wodbora-the-madness-bringer-the-prophet-of-the-wodhere)
-- [Chapter Eleven: The Blades](#chapter-eleven-the-blades)
-  - [Part One: The Debate](#part-one-the-debate)
-  - [Part Two: The Cynn](#part-two-the-cynn)
-- [Chapter Twelve: Getting A Handle On Things](#chapter-twelve-getting-a-handle-on-things)
-- [Chapter Thirteen: Stories for the Road](#chapter-thirteen-stories-for-the-road)
-- [Chapter Fourteen: The Return](#chapter-fourteen-the-return)
-- [Chapter Fifteen: Heroes, or People?](#chapter-fifteen-heroes-or-people)
-- [Epilogue](#epilogue)
-- [Afterword](#afterword)
-  - [Why Write This Book?](#why-write-this-book)
-  - [Who Are The Cynn, Really?](#who-are-the-cynn-really)
-  - [The Tenth Century](#the-tenth-century)
-- [Swords and Scabbards: What Are These Blades?](#swords-and-scabbards-what-are-these-blades)
-  - [Wodbora the Madness-Bringer, the Prophet of the Wodhere, the Guardian of Chaos](#wodbora-the-madness-bringer-the-prophet-of-the-wodhere-the-guardian-of-chaos)
-  - [Barrow's Edge, the Hedge-Stalker](#barrows-edge-the-hedge-stalker)
-  - [Monanleoht, the Battle-Dancer](#monanleoht-the-battle-dancer)
-- [AFTERLIFE](#afterlife)
-
-<!-- TOC END -->
-
-
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Warning
+# Warning
 
 The following novel contains extreme tonal whiplash. Please stop reading if you encounter any of the following symptoms:
 
@@ -78,9 +24,7 @@ However, if any of these symptoms seem even the _slightest_ bit delightful... we
 
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Prologue: Same Story, Two Tails
+# Prologue: Same Story, Two Tails
 
 High above the world, where the winds carried the words of kings and beggars alike, flew two ravens. One was called Huginn. His mind delighted in possibilities, forever wondering what might yet be. The other was Muninn. He remembered every face, every word, and every deed he had ever witnessed since the beginning of time. Long had they wandered the lands of men, brothers-of-the-wing, gathering ancient stories to carry back to their master.
 
@@ -121,16 +65,12 @@ Huginn continued, the twinkle in his eye betraying the smile his face couldn't g
 "It was Saturday, March 30th," Muninn interrupted. "And it was the morning of Easter Eve."
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Leicester AD 933-943
+# Leicester AD 933-943
 
 ![Leicester Map](assets/images/maps/Story-Map.png "Map of Leicester, AD 933-943")
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter One: A Promise of Piles
+# Chapter One: A Promise of Piles
 
 The Saxon armies had gathered from icy roads far away, to deliver _DEATH_ to the Danes who occupied Leicester. 
 
@@ -599,11 +539,9 @@ Among the army of Olaf were Northumbrian levies, farmers like Osric from neighbo
 Osric's thoughts drifted from the broken axle. He looked into the puddle beneath him, and he saw what he had become. It was a long road from where he started.
 
 
-[↑ Back to Table of Contents](#table-of-contents)
+# Chapter Two: The Tale of the Hearth-Warm Fyrdman
 
-## Chapter Two: The Tale of the Hearth-Warm Fyrdman
-
-### Part One: Gerðr's Tears
+## Part One: Gerðr's Tears
 
 Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare. He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
 
@@ -781,7 +719,7 @@ She woke each of the children, and Osric. And they all ate the medicine in the g
 The sickness hit the moment they each went to bed. The poison stole the air from their lungs, making them like fish trying to draw breath on dry land. The goblins overpowered their blood in the pitched battle. It's best not to speak of what happened next. What is best to say is that Ealhild and the children did not survive the night.
 
 
-### Part Two: The Bowl
+## Part Two: The Bowl
 
 The _nisse_ waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
 
@@ -960,7 +898,7 @@ He peered. He saw straw poke out from the new daub.
 He turned back to his cove and he stared at the ground. His expression went blank. He sighed. He giggled. He realized with terrifying clarity that for his sanity: that was the last straw.
 
 
-### Part Three: The Feared
+## Part Three: The Feared
 
 For the next few days, Osric was resigned to living with a monster. It is easier if every day you feel like you're about to die. The cold was a physical weight, a shroud that pressed the breath from his lungs. His blood felt sluggish, like oil in winter, and the sickness still clawed at his heart. He knew he would not survive another night in the shadows of the cove. With a grunt that tore at his raw throat, he began the slow, agonizing drag toward the hearth.
 
@@ -1226,9 +1164,7 @@ Muninn: "I said it a thousand years ago."
 
 Huginn: "And yet here you are."
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Three: The Past Is Risen
+# Chapter Three: The Past Is Risen
 
 Elswyth was from Under-Geat, a daughter of the charcoal and the forest. She seldom mingled with the village-folk now, for she had spent half her life balanced on the sharp edge between truth and lie. Which was which depended on who you asked.
 
@@ -1358,11 +1294,9 @@ All the while, she tried to put Wulfhere’s face out of her mind.
 
 But it would not leave her.
 
-[↑ Back to Table of Contents](#table-of-contents)
+# Chapter Four: The Tale of the Coal-Wise Apprentice
 
-## Chapter Four: The Tale of the Coal-Wise Apprentice
-
-### Part One: The Cutting of the Wood
+## Part One: The Cutting of the Wood
 
 In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gently sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester. To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
 
@@ -1568,7 +1502,7 @@ Muninn: "...but..."
 Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing a felling axe. Our insiders tell us his plan calls for good rhythm and flea's-leg timing. Back to you in the studio."
 
 
-### Part Two: The Long Burn
+## Part Two: The Long Burn
 
 The training began exactly as he promised, though it was nothing like the songs he had sung over the stew. It was a brutal, rhythmic education in the art of disappearing and collecting.
 
@@ -2026,7 +1960,7 @@ Huginn: "Steve says thank you."
 Muninn: "Tell Steve... nevermind."
 
 
-### Part Three: The Harvest of the Coal
+## Part Three: The Harvest of the Coal
 
 Years passed in _Under-Geat_.
 
@@ -2720,9 +2654,7 @@ Huginn: "You have to admit he made a wonderful menu."
 Muninn: "Yes. I think _you'd_ call it 'Tuesday night's supper.'"
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Five: Let Us Prey
+# Chapter Five: Let Us Prey
 
 By the time Elswyth returned, the train’s oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat disappeared behind her.
 
@@ -3098,11 +3030,9 @@ Huginn: "I said stop teasing me!"
 
 
 
-[↑ Back to Table of Contents](#table-of-contents)
+# Chapter Six: The Tale of the Bell's Deacon
 
-## Chapter Six: The Tale of the Bell's Deacon
-
-### Part Zero: The Liturgy of Huginn
+## Part Zero: The Liturgy of Huginn
 
 Muninn: "Wait. Stop. Huginn, what in the Allfather’s name are you doing?"
 
@@ -3119,7 +3049,7 @@ Huginn: "He gets what he earned. Besides, the readers will enjoy the scenery. Th
 Muninn: "Fine. But let the children stretch their wings first. If you are going to take them on a thirty-year detour through the mud of Northumbria, at least warn them to fetch a cup of mead and get comfortable. This is going to take a while."
 
 
-### Part One: The Liturgy of the Bell
+## Part One: The Liturgy of the Bell
 
 _A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no one tells the bell-maker when the bell will toll for him._
 
@@ -3356,7 +3286,7 @@ Huginn, his eyes full of mischief: "Do you think he prayed on this before he mad
 Muninn: "No I don't think he prayed, or gave one thought to it. Very impetuous. Reminds me of a raven I know."
 
 
-### Part Two: The Liturgy of the Road
+## Part Two: The Liturgy of the Road
 
 _The Road does not care for confessions, nor does it grant absolution. But it is a priest. A very stern one. When it gives sermons, it asks questions of its flock: How much weight do you carry? Who should you trouble with questions, and who should just receive a nod? What is your bearing to others? What will you eat? Did you bring water? And, who looks like... a mark?_
 
@@ -3705,7 +3635,7 @@ He sighed.
 Muninn: "Now where can I stamp this thing so we can _please_ get back to the story?"
 
 
-### Part Three: The Liturgy of the Sword
+## Part Three: The Liturgy of the Sword
 
 _There are times when the lessons of the Road are not enough for survival. There are times when you cannot bargain. You cannot run, or hide. You are faced with seconds of frightening decision: whether to draw your sword and risk the ditch. The Road may teach you how to survive the journey, but the Sword teaches you how to survive when you arrive._
 
@@ -3970,7 +3900,7 @@ _The Sword takes men. Sometimes one at a time. Sometimes it cleaves an entire co
 _So sayeth the Sword._
 
 
-### Part Four: The Liturgy of the Wound
+## Part Four: The Liturgy of the Wound
 
 _What is a wound? It is not merely the absence of skin or the parting of flesh. It is a memory that refuses to heal. It is the body’s way of keeping the past present, a pin in the map of where the world broke you. Some wounds do not care for the passage of time; they only know the lingering ache of what was lost._
 
@@ -4328,7 +4258,7 @@ _The wound may close eventually. But that doesn't mean it is necessarily healed.
 _So sayeth the Wound._
 
 
-### Part Five: The Liturgy of the Shield
+## Part Five: The Liturgy of the Shield
 
 _A shield is trusted with the blows you cannot bear yourself. It protects you from harm, if only you will trust it. To trust it, you must know it will protect you. A community has the same purpose. If you trust those around you and share each other's burdens, the whole suffers the blow easier than the individual._
 
@@ -4632,9 +4562,7 @@ Huginn: "Yes, but their weapons make for inedible corpses."
 Muninn: "I've watched you for a thousand years. Fine dining and freshness have never occupied the same thought where _you're_ concerned."
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Seven: The Night of Blood
+# Chapter Seven: The Night of Blood
 
 The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled yet again on the North Gate road. The iron-bound wheels strained against the sucking mud, forcing pins to shear and snapping seasoned ash axles like dry twigs.
 
@@ -4834,9 +4762,7 @@ Across the top rested a black leather scabbard embossed with two ragged ravens, 
 The giant Rognvaldr slowly emerged from Middleflat. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Eight: Barrow's Edge, The Hedge-Stalker
+# Chapter Eight: Barrow's Edge, The Hedge-Stalker
 
 The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the glow of slowly burning charcoal, hot enough to warm the space. The glow bathed the room in a heavy, flickering orange light, casting long, monstrous shadows behind the columns.
 
@@ -5217,9 +5143,7 @@ He picked up the spangenhelm.
 "Well, it's either this or a wolf's head. I rather prefer how I'd look in this."
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Nine: Monanleoht, The Battle-Dancer
+# Chapter Nine: Monanleoht, The Battle-Dancer
 
 Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured that the blade was hers.
 
@@ -5704,9 +5628,7 @@ Beneath the clothing, she also found a woodsman's felling axe. Its broad bit car
 Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three tiny brass bells and small iron fittings whose purpose she could only guess.
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Ten: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
+# Chapter Ten: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
 Cynewulf stood on the porch of the church. His legs were tired from running, his soul weary from searching. The air lay still save the breath of Rognvaldr, the giant of the Ulfhednar, emerging from Middleflat. His back was to the ruin of the Forum, as he faced Cynewulf on the steps. The air was still, and the empty Forum stood as a silent witness to what was to come.
 
@@ -6127,11 +6049,9 @@ His smile faded.
 "If that is indeed who you are... Take them quietly with the Church's blessing."
 
 
-[↑ Back to Table of Contents](#table-of-contents)
+# Chapter Eleven: The Blades
 
-## Chapter Eleven: The Blades
-
-### Part One: The Debate
+## Part One: The Debate
 
 Odin met Freyr high in the summer air, looking down upon the patchwork fields of the Danelaw. It was a month after Elswyth and her family had moved to Leicester.
 
@@ -6402,7 +6322,7 @@ Huginn: "Let me guess. Because you have to put up with me?"
 Muninn: "No. Because I have to put up with me, reacting to you."
 
 
-### Part Two: The Cynn
+## Part Two: The Cynn
 
 Deep in the heart of Leicester, behind the Jewry wall, lay the ruin of the ancient bathhouses. During the day, the Church had been collecting statues, archways, stone, and brick from this ruin for several years. The sprawling bathhouse was free of human souls after sunset, or so most people thought as they passed by the crumbling arches in the dusk. The townsfolk would cross themselves and quicken their pace, believing the red-brick vaults held more than just stagnant rainwater and the memory of the dead.
 
@@ -6765,9 +6685,7 @@ Huginn: "Viking laundry."
 Muninn: "Yep. You said it. You... went there."
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Twelve: Getting A Handle On Things
+# Chapter Twelve: Getting A Handle On Things
 
 Osric fumbled in the dark, but managed to find a narrow set of stairs tucked into the corner of the forge. The room above had light streaming in through holes in the ceiling, and it was just a matter of time before he found an opening in a wall big enough to fit through. That's when he saw her.
 
@@ -7208,9 +7126,7 @@ Someday, others would tell his.
 He wanted to be worthy of it.
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Thirteen: Stories for the Road
+# Chapter Thirteen: Stories for the Road
 
 The group decided to lay the remains of the two Saxon brothers and Ketill’s oath-brother in a trench dug along the western wall of the graveyard. The Saxons had little of value. Their eldest brother had shared none of his wealth with them.
 
@@ -7737,9 +7653,7 @@ Osric looked down at the sketched route before covering it with the next fold.
 “Then we discover whether that Iberian horse truly is the fastest animal ever to eat Northumbrian oats.”
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Fourteen: The Return
+# Chapter Fourteen: The Return
 
 The western road lasted less than a day.
 
@@ -8293,9 +8207,7 @@ None of them looked toward the hill.
 
 None saw the hearthguard watching.
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Fifteen: Heroes, or People?
+# Chapter Fifteen: Heroes, or People?
 
 High above the fading smoke of Leicester, where the rain clouds had given way to the smiling sun, Odin and Freyr observed humanity once more.
 
@@ -8599,9 +8511,7 @@ He spent the long day pondering that question.
 
 He had no answer.
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Epilogue
+# Epilogue
 
 Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The children's beaks aren't ready for tougher meat, Huginn! The way YOU tell it, every little person they meet will be a psycho murder-gnome!"
 
@@ -8754,11 +8664,9 @@ Muninn: “I’m glad you and I aren’t writing a prequel... or a sequel.”
 Huginn: "So you're saying the Author isn't consulting you on the sequel?"
 
 
-[↑ Back to Table of Contents](#table-of-contents)
+# Afterword
 
-## Afterword
-
-### Why Write This Book?
+## Why Write This Book?
 
 I have been fascinated by magical weapons for most of my life.
 
@@ -8780,7 +8688,7 @@ If a blade genuinely housed a spirit, what would its owner believe about it? If 
 
 Many years later, I learned how to forge knives. I made a few knives well enough to be pleased with the accomplishment, but certainly not well enough to think myself worthy of being called a smith. Once that happened, the old questions returned. Only now they felt more tangible. A real blade has weight. It has balance. It reflects light in specific ways. It acquires scratches, stains, and history. Most importantly, it exists in the world. I found myself imagining what kinds of myths might grow around such objects. Not modern myths, but myths that would feel plausible to the people who actually carried blades.
 
-Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions. To a storyteller, that environment is irresistible. To an off-and-on Dungeon Master, it felt like discovering a campaign setting that history had already written.
+Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions. To a storyteller, that environment is irresistible. To an oddff-and-on Dungeon Master, it felt like discovering a campaign setting that history had already written.
 
 The three blades at the heart of this story emerged from these ideas. The blades existed in my mind before I knew what story I wanted to tell. I started asking questions from the blades' perspective: "What kind of owner would want to own me? Who would commission my forging?" These three were not the first blades I imagined.
 
@@ -8803,7 +8711,8 @@ Looking at the crossroads of the Danelaw at the time, I envisioned Odin having a
 This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 unholy vortex-summoner of doom called _Wodbora_. Everything else followed from that.
 
 ---
-### Who Are The Cynn, Really?
+
+## Who Are The Cynn, Really?
 
 These are the forge elves who carry on the tradition of magical making. They're not literally descendants of Weyland, Völundr, Vulcan, or any other divine smith. In reality, of course, they are just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun, usually while giggling like children when things actually work out okay. Huginn makes up stories about the things we make and dream up, then tells them to imaginary children.
 
@@ -8813,9 +8722,9 @@ That is what the Cynn really are: craft joined to merry mythmaking.
 
 ---
 
-### The Tenth Century
+## The Tenth Century
 
-#### Leicester Map Legend
+### Leicester Map Legend
 
 | **Location**                  | **Description**                              |
 | ----------------------------- | -------------------------------------------- |
@@ -8863,7 +8772,8 @@ That is what the Cynn really are: craft joined to merry mythmaking.
 | East Gate                     | Fosse Way to Lincoln                         |
 
 ---
-#### The Church, The Shadow Gate and Under-Geat
+
+### The Church, The Shadow Gate and Under-Geat
 
 Historical records attest to the existence of a Church of St. Augustine and St. Columba in the early 10th century. The record is vague as to its placement, saying it was near the Roman Forum. During the Norman period, that church disappears from the record, and the Church of St. Nicholas was erected next to the Jewry wall. It stands today. One implication that seems likely is that the Church of St. Nicholas was built on the same site. Whether it used the existing church as a basis, or was built anew from the old church's foundations was not of interest.
 
@@ -8878,7 +8788,8 @@ The Roman walls undoubtedly continued to provide an imposing barrier, but they w
 Under-Geat arose from a simple observation. A church standing beside what amounted to a Roman stone quarry—and, in many respects, a quarry of relics—would likely accumulate considerable wealth and influence. The needs of such a minster would naturally foster its own supporting economy. Under-Geat and the Old Frith are my attempt to imagine that ecosystem.
 
 ---
-#### Leicester and the Peace of 943
+
+### Leicester and the Peace of 943
 
 The events of _The Cynn_ take place against the backdrop of a real historical conflict. Following the death of King Æthelstan in 939, political authority in England entered a period of uncertainty. Olaf Guthfrithson, ruler of Dublin and York, moved quickly to exploit the situation. His campaign into Mercia culminated in Leicester, one of the Five Boroughs of the Danelaw and one of the most strategically important settlements in central England.
 
@@ -8900,7 +8811,7 @@ History ultimately rendered the agreement short-lived. Olaf died within the year
 
 ---
 
-#### Living Between Worlds
+### Living Between Worlds
 
 Modern discussions of religion often assume that belief functions like membership. A person belongs to one faith, adopts its teachings, and rejects competing alternatives. Such assumptions can be useful when describing formal institutions, but they can be misleading when applied to the lived experience of tenth-century England. Conversion was rarely a single event. It was a process unfolding across generations. New beliefs arrived gradually, older customs persisted, and many people continued to navigate a world shaped by both. The result was not necessarily confusion. For many, it was simply ordinary life.
 
@@ -8920,7 +8831,7 @@ The purpose of this story is not to suggest that paganism and Christianity were 
 
 ---
 
-#### Wyrd (And Why It's So Weird)
+### Wyrd (And Why It's So Weird)
 
 Modern readers often encounter _wyrd_ translated simply as **fate**. While convenient, that translation is misleading. Fate usually suggests a future that has already been written, where every event is predetermined and every choice merely creates the illusion of freedom. That is not how I came to understand _wyrd_ while researching this novel.
 
@@ -8953,7 +8864,7 @@ The idea of fate behaving more like gravity within a given time horizon (mortali
 
 ---
 
-#### Agency of Magical Artifacts
+### Agency of Magical Artifacts
 
 Several historical runic inscriptions blur the distinction between object and speaker. Rather than presenting a spell as something spoken by the owner, the inscription may be framed as the voice of the object itself. To a modern reader this can seem poetic, but to an early medieval audience the distinction carried real significance. The Old English word _hǣlu_ is often translated as "health" or "wholeness," but in this context it refers to something broader: the integrity by which a thing possesses identity, purpose, destiny, and participation in the world. A thing with sufficient _hǣlu_ is not merely acted upon by wyrd; it participates in wyrd.
 
@@ -8965,7 +8876,7 @@ In practical terms, the distinction functions as a metaphysical safeguard. The w
 
 ---
 
-#### The Many Faces of the _Wodhere_
+### The Many Faces of the _Wodhere_
 
 The Wild Hunt is one of the most widespread and adaptable supernatural traditions in northern Europe. Across centuries and regions, the details change dramatically. The leader may be a god, a king, a saint, a devil, or a ghost. The riders may be warriors, hunters, spirits, the restless dead, or condemned souls. Yet certain themes persist. A spectral procession crosses the night sky. The living are warned not to interfere. The boundary between the world of the living and the world of the dead briefly becomes permeable.
 
@@ -8985,8 +8896,6 @@ For modern readers, the Wild Hunt is often encountered as a piece of folklore de
 
 
 ---
-
-[↑ Back to Table of Contents](#table-of-contents)
 
 ## Swords and Scabbards: What Are These Blades?
 
@@ -9149,9 +9058,7 @@ This blade is about style, and the scabbard should represent that. The scabbard 
 | Scabbard Reverse (Inward)  | Spell    | Wē gameniaþ on blōde | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ``` | way GAH-men-ee-ath on BLOH-deh    | We play/rejoice in blood       |
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## AFTERLIFE
+# AFTERLIFE: A Gratuitous View of Life After Life
 
 It had been a brutal trek.
 

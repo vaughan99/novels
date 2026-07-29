@@ -1,260 +1,4 @@
-## Chapter Six: The Tale of the Bell's Deacon
-
-### Part Zero: The Liturgy of Huginn
-
-Muninn: "Wait. Stop. Huginn, what in the Allfather’s name are you doing?"
-
-Huginn: "I am telling the story of the deacon, brother. It is a vital thread."
-
-Muninn: "We were just in 943! The wagons were moving! The mud was sucking! The tension was actually happening! And now you are dragging us all the way back to 913? Thirty years? Do you have any idea how much memory that takes to store?"
-
-Huginn: "A soul is not forged in a single winter, Muninn. Cynewulf’s path is a winding one. It requires... patience."
-
-Muninn: "Patience? This isn't a path, it's a pilgrimage! The charcoal girl got a few pages of soot and a creepy redcap. The fyrdman got a tragic winter and a very angry house-spirit. But this deacon? You have given him five entire liturgies! He gets a road, a sword, a wound, a shield... does he get a pension plan too?"
-
-Huginn: "He gets what he earned. Besides, the readers will enjoy the scenery. There are Welshmen with chemical weapons."
-
-Muninn: "Fine. But let the children stretch their wings first. If you are going to take them on a thirty-year detour through the mud of Northumbria, at least warn them to fetch a cup of mead and get comfortable. This is going to take a while."
-
-
-### Part One: The Liturgy of the Bell
-
-_A bell rings in the distance, and people orient themselves to it. They use it to judge time, and to mark history. They use it to call the faithful to confession, to declare peace, and to announce marriage. When a man makes bells, he is giving voice to time. But no one tells the bell-maker when the bell will toll for him._
-
-_These are the lessons of the Bell_.
-
-This story began earlier, in 913 AD. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba. The ring of the Shrove-Bells called throughout Leicester. That day was the most important day for confessions on the calendar.
-
-Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
-
-"Father, my name is Cynewulf... son of Godric. There is a heat in me," he whispered. "I looked at Eadmund — my best friend — and I wished him into the fire. We were picking through the iron bits meant for my father's small nail-forge, and he found a garnet. I'm told such things are rare. Garnets are swallowed by smelt-fire. I was jealous of the prized bauble he had found, and I wanted it for myself. And then the forge-spark jumped. I watched him burn, and for a heartbeat, I did not move." His friend was not terribly injured that day, but accusations were made, and they were no longer friends.
-
-"Cynewulf, that is an ember-hate. You must watch it carefully, and see that it dies quickly," the priest's voice was full of warning and confidence.
-
-He released his grip on Cynewulf's shoulder and consulted the penitential, a book of soul-tariffs. He had a solution in mind, but he needed to consult the book to ensure it was not over-harsh.
-
-The book snapped closed, the sound echoing through the church. "Cynewulf, you shall serve the bell-pits of the church from now through Lent. You will know the bite of embers on your skin and the glow-heat of the castings. Do this, and your sin shall be forgiven. Go forth, report this to your father, and steel yourself to the bell-master."
-
-The confession that day brought him to the church. The work did not seem like work.
-
-He worked the Lent season in the bell-pits, pressing clay for the mold, shoveling charcoal, setting the burn, standing back as the bronze was finally poured. The heat of the process felt cleansing.
-
-He also saw the work of the priesthood itself, the deference they received and the catharsis they delivered. It felt like a calling.
-
-His penance served, he told his father that he was destined for the bell-pits and then the priesthood. The bell-master had evaluated him, and there was space for a new apprentice. There was also space for a new acolyte-to-come, and so his path was clear. His time spent in the pits would pay for his Latin lessons and the tutelage he required.
-
-Godric was proud; that was a noble beginning for his son, an apprenticeship of trade and a life of humble privilege. He smiled, thinking that every time the church bells rang, his son would have had a hand in their voice. The house had been quiet since Cynewulf's mother’s passing, and Godric seemed to find a new, reflected light in his son’s sudden, burning ambition.
-
-The years that followed settled into a rhythm as steady as the bells themselves. When the Lent season had ended, the bell-master told Cynewulf to gather his few belongings and report to the boys' dormitory within the church grounds. His pallet was laid among the other acolytes, his meals were taken in the refectory, and his days were measured by bells rather than by the hearth.
-
-Godric carried his son's bundle through the church gate himself. It was a short walk from the cottage, yet it felt strangely longer than any road he had ever traveled. They embraced awkwardly, each pretending the distance was nothing. From that day forward, Cynewulf still worked beside his father whenever timber met bronze, but each evening Godric returned to an emptier house while his son remained within the church walls.
-
-Without ceremony, the Church had become Cynewulf's household. The priests became his tutors, the bell-master his taskmaster, the older acolytes his brothers. The bells woke him, summoned him to prayer, called him to meals, and finally sent him to sleep. Their voices marked not only the hours of the town, but the years of his youth.
-
-At first the work was simply work. Cynewulf rose before dawn with the other boys, hauled charcoal, mixed clay, swept ash, and watched the founders coax liquid bronze from stubborn metal. The bell-master was a demanding man, but a fair one. Every mistake had a lesson. Every burn had a purpose. Cynewulf found satisfaction in that certainty. Bronze did not flatter. Bells did not lie. A mold was either true or it was not.
-
-When the castings were finished, he watched another kind of labor begin.
-
-His father would arrive with chisels, augers, adzes, and oak timbers. Godric was not a founder, but a carpenter, and the bell was only half complete until it had a frame worthy of its voice. Together they fitted beams, carved joints, and hoisted bronze high into newly built towers. Cynewulf learned that a bell could be perfectly cast and still ring poorly if mounted by careless hands. His father's craft gave the bell its freedom to speak.
-
-It became their shared labor. Father and son worked side by side, one learning the weight of timber while the other learned the patience required to shape it. Godric rarely praised him aloud, but his trust grew quietly. Before long he handed Cynewulf measurements instead of instructions. They solved problems together, debating joints and braces late into the evening over scraps of charcoal and rough planks spread across the workshop floor.
-
-The priests noticed, and so did visiting clerics.
-
-As the years passed, word of Godric's craftsmanship spread quietly from one church to the next. A priest whose bell no longer rang true would mention the Leicester carpenter to another priest. A bishop pleased with one repair would recommend him for another. Before long, requests began arriving from neighboring shires whenever an old frame failed or a newly cast bell proved too great for its timbers. What had once been a local trade slowly became a calling that followed the roads of the Church.
-
-At first his absences were measured in days. Then in weeks. Godric traveled with whatever company the Church could provide—priests carrying letters, fellow craftsmen, merchants bound along the same Roman roads, or pilgrims making for distant shrines. He rarely walked alone, and when he returned he carried little wealth beyond a few unfamiliar coins and the dust upon his boots. What he brought home instead were stories.
-
-Whenever his journeys brought him back for a Sunday or one of the greater feast days, father and son would linger over their meal long after the other tables had emptied. Godric would recount leaning church towers, stubborn abbots, and the curious people he had met along the way. Sometimes he laid a small token upon the table—a carved trinket, an unusually fine whetstone, a strip of dyed cloth, or some other curiosity gathered from a distant market—but the stories were always the greater gift.
-
-Cynewulf treasured every one. He had never seen York. He had never crossed the Humber. He had never stood beneath the great churches whose names echoed through every monastery. Through his father's eyes, however, he began to know the roads between them. Each tale carried him a little farther from Leicester before gently setting him back at the church gate, where the journey always ended for him.
-
-Godric kept the harsher truths of the Road to himself. He spoke of towering churches and bustling markets.
-
-Seldom of swollen rivers that swallowed wagons, of nights spent awake listening for footsteps beyond the firelight, or of highwaymen lingering just beyond bowshot until the guards rested their hands upon axe hafts.
-
-He never mentioned the fever that swept through a traveling party in the span of three days, nor the mold that spoiled provisions before the next monastery came into view.
-
-Those were burdens for grown men, he believed, not stories to place upon the shoulders of a boy who still looked toward the horizon with wonder.
-
-So Cynewulf inherited his father's love of the Road, but not his caution. The dangers were quietly edited from every tale, leaving behind only fellowship, discovery, and distant church towers waiting beyond the next rise.
-
-Each journey ended the same way. Godric unpacked his tools. He rested a day or two.
-
-Then another messenger arrived. Another bishop needed a bell mounted. Another monastery had heard of the Leicester carpenter.
-
-Another journey on the Road. Cynewulf helped load the wagon each time. He was proud, but he was also left behind.
-
-The Church had become a crossroads. Travelers, merchants, pilgrims, reeves, priests, and wandering scholars all passed beneath its roof. As Cynewulf's Latin improved, he was often asked to assist them. He copied letters, translated names, and listened as visitors recounted distant lands while waiting for an audience with the clergy.
-
-The confessional became another window upon the world. People confessed more than sins. Each confession painted another Road he had never walked.
-
-His tutors praised his memory. Latin came easily to him. Scripture followed. He copied manuscripts with a careful hand and learned the order of the Mass. Villagers who had known him as a charcoal-blackened caster's apprentice now bowed their heads as he read from books they themselves could not understand.
-
-The change fascinated him. The words had not changed. Only the speaker had.
-
-He noticed how silence fell when Latin filled the nave. Farmers who would argue endlessly with one another grew quiet before a language none of them spoke. Widows who scarcely noticed him in the marketplace suddenly sought his blessing after services.
-
-It puzzled him at first. Then it simply became another fact of the world. Knowledge carried weight. Some knowledge carried more.
-
-Years passed.
-
-The bell-master entrusted him with greater responsibility. He learned to judge the quality of bronze by sound alone. He inspected molds before casting. He supervised younger boys entering the pits just as he once had. Whenever a bell rang true after installation, he felt a quiet satisfaction knowing that dozens of unseen hands had contributed to that single clear note.
-
-Yet it was never those unseen hands that people remembered.
-
-The villagers praised the priest. The bishop thanked the donor. The lord received credit for funding the work. The founder signed the casting. The carpenter's name was occasionally remembered. The apprentices were forgotten.
-
-Cynewulf did not complain. He simply noticed.
-
-Godric always seemed content with that arrangement. "Let the bell remember us," he once said while packing his tools for another journey. "People forget craftsmen. Good work doesn't."
-
-Cynewulf nodded, though he was not certain he agreed.
-
-As Godric's reputation grew, his absences lengthened. Leicester became less a permanent home than a place to return between commissions. Father and son still worked well together whenever those paths crossed, but increasingly they resembled fellow craftsmen sharing a workshop rather than a family sharing a household.
-
-Cynewulf never begrudged his father's success. How could he?
-
-He had watched every step that earned it. He had spent long evenings solving the same problems beside him, cutting, measuring, debating.
-
-When another bishop praised Godric's ingenuity, Cynewulf felt pride before anything else. Then, just as quickly, the warmth soured. A tiny ember of resentment glowed somewhere beneath his ribs before he smothered it in shame. The praise belonged to Godric. He knew that. Why, then, did the ember refuse to die?
-
-And the Road seemed always to pass through Leicester without stopping for him.
-
-He wondered, more often than he admitted even to himself, what lay beyond the next hill.
-
-He wondered whether God intended every calling to remain rooted in one place. He wondered whether service might someday ask him to walk those same roads his father now traveled. The questions felt harmless enough. After all, every road eventually led to another church. And every church, surely, had use for another priest.
-
-Years passed, and Cynewulf's apprenticeship came to its proper end. Before the altar he knelt, received the laying on of hands, and rose a deacon of the Church. The work changed little. He still swept the nave, prepared the altar, tended the bells. Yet something had changed all the same. He was no longer merely the master's hands. He had become one of the bell-masters himself.
-
-The first serious quarrel came not over prayer, but over bronze.
-
-A younger workman reached for a mold that had sat out on a rainy night. Molten bronze explodes wet molds. Cynewulf caught his wrist and shoved him back so hard the man stumbled into another apprentice. Harsh words followed. One accusation became another until both men stood red-faced beside the crucible, shouting over the roar of the furnace.
-
-Godric was no longer there to parent him. Godric had sold the family cottage to buy passage through Frankia and beyond, to take his knowledge all the way to Rome.
-
-The old priest stepped between them.
-
-"Enough."
-
-His voice was quiet.
-
-The foundry obeyed.
-
-For a long moment he looked only at Cynewulf.
-
-"I have watched men tend hearths my whole life," he said. "A good fire warms a house. A bad one devours it."
-
-Cynewulf lowered his eyes.
-
-"The flame in you burns hot, my son. There is great warmth in it. But I fear there is also a little coal that never cools."
-
-The words lingered long after the bronze had hardened.
-
-Cynewulf remembered the warning.
-
-He did not yet understand it.
-
-Finally, a few weeks before Shrove Tuesday arrived that year, he took his vows and was ordained a priest.
-
-When the bells rang out once more for the Shrove Tuesday confessions, Cynewulf found himself come full circle. There were older and more senior priests available to hear the penitents, but the time had come for him to assume his share of that mantle.
-
-He sat in the same seat from which a priest had once heard him confess his own “ember-hate” as a boy. Now he was prepared to hear the confessions of the parishioners who came before him. He kept the small, dark sins of his own heart tucked away in the back of his mind, convincing himself that he was the perfect guide. He was a man who knew the weight of sin and therefore knew exactly how to help others find absolution.
-
-The village folk gave their confessions, one by one. It was a process that took several hours.
-
-There lingered a silent tall presence in the back that drew nearer towards the end. He was the final penitent, and it was his turn to kneel. He was elderly, a man in a simple grey robe with a walking staff and a slow steady gait. His staff-echo was heard by the stone angels on the wall, but most of the villagers had left.
-
-He came to stand before Cynewulf, gazing down at the priest for a moment as though taking his measure. The old man drew his cowl back to his shoulders and lowered himself onto the cushion. Long grey hair fell across one side of his weathered face.
-
-Cynewulf's eyes were drawn to the loop of ash wood branches on his chest. The man had made his own cross with gnarled branches, perhaps from the same gnarled tree that was the provenance of his staff. The branches were tied with a fresh string made of undyed wool-yarn. The man smelled of sheep's lanolin and the fresh night air.
-
-Cynewulf laid his hand on the man's shoulder. "Let us begin. Tell me your name." 
-
-The old man replied in a thick Dane accent.
-
-"I... have no name of remembrance. My name died with my old life," the shepherd whispered.
-
-Cynewulf tried not to look at the man's face, but instead focused on the floor and the words. "God knows your name, dear shepherd. I need not hear it. Tell me the sins of an old shepherd, so that I may guide you."
-
-The shepherd leaned back slightly, and touched up his volume, to be better heard:
-
-"I've been a shepherd all my life. I have seen the grass grow green and go to stubble more times than stars in the sky. In the past, I knew my flock. I knew when the ewe would have twins. I knew when the ram would break the gate. 
-
-"I trained dogs to protect my sheep. I sent the dogs into new pastures to claim them for my flock. For a time, the dogs did well, and my sheep prospered.
-
-"Down in the valley, there is a new Master. He has built stone walls to keep his sheep in. He has trained his sheep to protect themselves. My sheep see my neighbor's walls, and they are high. They leave to seek comfort inside them.
-
-"Now the dogs have forgotten the field they are in. They prey on all the sheep."
-
-The old shepherd leaned his forehead into his staff.
-
-"My sin is not the spilt blood of sheep. My sin is that I'm abandoning my dogs, *Father*. My sheep I am leaving to the farmer-in-the-meadow, should he want them. May *God* have pity on my soul."
-
-The heavy, weeping weight of the shepherd's confession vanished in a heartbeat. His head drew back from leaning on his staff. The shepherd continued, his voice steadying as if telling an ancient tale.
-
-"There is a final curse I must mention. I saw it in the night. It was a flight of both light and dark in the sky, of black wings and spectral clouds. It sounded as a wolf howl and a rattle of bones. It was a _Hate_... a _Wodhere_... from the Old Times."
-
-Cynewulf's neck hairs tightened. He needed to know more; this man's soul depended on it. "Describe this _Hate_, please." His politeness was a ruse, because the revelation hit him hard, like a heavy Bible dropped flat against his palm. Cynewulf steeled his ears for the coming tale.
-
-But the old man declined. "I've said too much. It was not meant for the living," he said, his breath sighing.
-
-Cynewulf thought hard. What could he possibly do for this man? In the moment of the priest's confusion, the old man leaned in close. With one final, smiling breath, he spoke in perfect Latin: "_Memento mei bene_."
-
-Cynewulf was still fumbling for his penitential, trying to look up something — anything — that could give him guidance when the phrase hit like a fresh-struck bell. _Remember me well?_ Cynewulf thought. He snapped his eyes back up, but the grey shepherd had not only gotten up; he was halfway out the door already with his staff. Cynewulf couldn't remember hearing the wood-clack or the shuffle of the shepherd's retreat.
-
-That last confession struck him as odd. Trained dogs? Who was this shepherd? How is it he came to know Latin, when he could barely speak English? "He probably overheard one of the priests speaking in Latin," he thought, easing his mind. "The old man was probably obsessing over this bit of Latin as he tended his flock. That's how he perfected the pronunciation. It's nothing." Cynewulf had tried to put the confession out of mind, but it stayed with him the rest of his days.
-
-_Bells may ring. Whether you hear them depends on where you stand, and whether you choose to listen. A bell may toll directly before you, loud enough to shatter the air, but if you decide not to hear? You might as well be deaf._
-
-_So sayeth the Bell._
-
-On March 14th, 933 AD the black day of Leicester's village-folk had arrived. It was the day of the _Ulfhednar_ strike in Leicester, the day Elswyth was chased into the forests. The Saxon guards of Leicester were complacent shepherds that day, and the _Ulfhednar_ saw a lamb for the taking.
-
-The wolf-men broke into the church in a storm of activity. Cynewulf had been in his small priest-home; there were several, as the Church had grown since Leicester had reverted back to the Saxons. He had been cataloging donations earlier that morning, which were strewn on his small dinner table. He was also teaching Latin that afternoon to three students. 
-
-As the Church was being sacked, the sounds were a roar in the background. Cynewulf quickly barred the door, and searched the room quickly for his plan.
-
-He told the students to hide in a closet, and he grabbed a byrnie that had been donated by a retired thegn off the table. He took a spare censer's chain and wrapped it around his fist. He was not going to let the night fall on him and his flock without a fight.
-
-The sound of Cynewulf's breathless prayers competed with the uproar, until there was a sound at the door.
-
-Just as Cynewulf fastened the last buckle of the byrnie, the Viking pounded the door. There were shoulder-heaves and boot-kicks, until finally the door gave way.
-
-In the doorway stood a young Viking, a freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made his way into the cottage, shield at the ready.
-
-Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even him off-guard. He slammed his body towards the young _Ulfhedinn_. The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
-
-Cynewulf stood and watched as the floor of his priest-home pooled with blood. He peered through the doorway, and saw that the _Ulfhedinn_ boy had been carrying a small chest of loot, set cleanly on the ground. He looked back at what he had done.
-
-Cynewulf looked from the dead wolf-man to the axe, the shield, and the chest of silver. On the table, the sack of silver plates caught his eye.
-
-A soldier’s kit. A traveler’s purse. A bag of loot. And beyond the broken doorway, a town too frightened to notice one priest disappearing.
-
-For years the Road had passed through Leicester without stopping for him. Now it stood open.
-
-He told the children to take their opportunity: _run_. Once they left, he took _everything else_.
-
-He left Leicester, keeping to himself as he scurried under the weight of the silver. He knew that pawning the plates in the city would be scorn-folly; his new life had to begin elsewhere. In time, the town would forget his name. Perhaps, in their minds, he was merely a lamb sacrificed to the wolves that day.
-
-The bells called out to warn the town of the raid. They announced the arrival of the end, and they ignored Cynewulf as he ran.
-
-_The bells, large and small, announce the turning points in a life: Birth, Baptism, Communion, Marriage, Death. But there is no bell sound for the abandonment of a vocation or a life. There is no warning when the choice is irreversible. Bells do not toll for the unwise._
-
-_So sayeth the Bell._
-
----
-
-Huginn: "Wow, look at him go! Armor, weapons, church-silver, and a lifetime of regret! The whole package."
-
-Muninn: "The memory will surely haunt him. He didn't realize how good he had it, or how far he has yet to go."
-
-Huginn, his eyes full of mischief: "Do you think he prayed on this before he made his decision? Two prayers: one to Saint Christopher, for good travels. The other to Saint Filcher for relocating stolen silver goblets? Sounds like a balanced spiritual portfolio."
-
-Muninn: "No I don't think he prayed, or gave one thought to it. Very impetuous. Reminds me of a raven I know."
-
-
-### Part Two: The Liturgy of the Road
+## Part Two: The Liturgy of the Road
 
 _The Road does not care for confessions, nor does it grant absolution. But it is a priest. A very stern one. When it gives sermons, it asks questions of its flock: How much weight do you carry? Who should you trouble with questions, and who should just receive a nod? What is your bearing to others? What will you eat? Did you bring water? And, who looks like... a mark?_
 
@@ -603,7 +347,7 @@ He sighed.
 Muninn: "Now where can I stamp this thing so we can _please_ get back to the story?"
 
 
-### Part Three: The Liturgy of the Sword
+## Part Three: The Liturgy of the Sword
 
 _There are times when the lessons of the Road are not enough for survival. There are times when you cannot bargain. You cannot run, or hide. You are faced with seconds of frightening decision: whether to draw your sword and risk the ditch. The Road may teach you how to survive the journey, but the Sword teaches you how to survive when you arrive._
 
@@ -868,7 +612,7 @@ _The Sword takes men. Sometimes one at a time. Sometimes it cleaves an entire co
 _So sayeth the Sword._
 
 
-### Part Four: The Liturgy of the Wound
+## Part Four: The Liturgy of the Wound
 
 _What is a wound? It is not merely the absence of skin or the parting of flesh. It is a memory that refuses to heal. It is the body’s way of keeping the past present, a pin in the map of where the world broke you. Some wounds do not care for the passage of time; they only know the lingering ache of what was lost._
 
@@ -1226,7 +970,7 @@ _The wound may close eventually. But that doesn't mean it is necessarily healed.
 _So sayeth the Wound._
 
 
-### Part Five: The Liturgy of the Shield
+## Part Five: The Liturgy of the Shield
 
 _A shield is trusted with the blows you cannot bear yourself. It protects you from harm, if only you will trust it. To trust it, you must know it will protect you. A community has the same purpose. If you trust those around you and share each other's burdens, the whole suffers the blow easier than the individual._
 
@@ -1530,9 +1274,7 @@ Huginn: "Yes, but their weapons make for inedible corpses."
 Muninn: "I've watched you for a thousand years. Fine dining and freshness have never occupied the same thought where _you're_ concerned."
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Seven: The Night of Blood
+# Chapter Seven: The Night of Blood
 
 The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled yet again on the North Gate road. The iron-bound wheels strained against the sucking mud, forcing pins to shear and snapping seasoned ash axles like dry twigs.
 
@@ -1732,9 +1474,7 @@ Across the top rested a black leather scabbard embossed with two ragged ravens, 
 The giant Rognvaldr slowly emerged from Middleflat. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Eight: Barrow's Edge, The Hedge-Stalker
+# Chapter Eight: Barrow's Edge, The Hedge-Stalker
 
 The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the glow of slowly burning charcoal, hot enough to warm the space. The glow bathed the room in a heavy, flickering orange light, casting long, monstrous shadows behind the columns.
 
@@ -2115,9 +1855,7 @@ He picked up the spangenhelm.
 "Well, it's either this or a wolf's head. I rather prefer how I'd look in this."
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Nine: Monanleoht, The Battle-Dancer
+# Chapter Nine: Monanleoht, The Battle-Dancer
 
 Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured that the blade was hers.
 
@@ -2602,9 +2340,7 @@ Beneath the clothing, she also found a woodsman's felling axe. Its broad bit car
 Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three tiny brass bells and small iron fittings whose purpose she could only guess.
 
 
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Ten: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
+# Chapter Ten: Wodbora, The Madness-Bringer, The Prophet of the Wodhere
 
 Cynewulf stood on the porch of the church. His legs were tired from running, his soul weary from searching. The air lay still save the breath of Rognvaldr, the giant of the Ulfhednar, emerging from Middleflat. His back was to the ruin of the Forum, as he faced Cynewulf on the steps. The air was still, and the empty Forum stood as a silent witness to what was to come.
 
@@ -3025,11 +2761,9 @@ His smile faded.
 "If that is indeed who you are... Take them quietly with the Church's blessing."
 
 
-[↑ Back to Table of Contents](#table-of-contents)
+# Chapter Eleven: The Blades
 
-## Chapter Eleven: The Blades
-
-### Part One: The Debate
+## Part One: The Debate
 
 Odin met Freyr high in the summer air, looking down upon the patchwork fields of the Danelaw. It was a month after Elswyth and her family had moved to Leicester.
 
@@ -3299,369 +3033,4 @@ Huginn: "Let me guess. Because you have to put up with me?"
 
 Muninn: "No. Because I have to put up with me, reacting to you."
 
-
-### Part Two: The Cynn
-
-Deep in the heart of Leicester, behind the Jewry wall, lay the ruin of the ancient bathhouses. During the day, the Church had been collecting statues, archways, stone, and brick from this ruin for several years. The sprawling bathhouse was free of human souls after sunset, or so most people thought as they passed by the crumbling arches in the dusk. The townsfolk would cross themselves and quicken their pace, believing the red-brick vaults held more than just stagnant rainwater and the memory of the dead.
-
-They were right.
-
-The ruins were not empty. The bathhouse saw the slow deliberate work of the stone-claimers during the day, but the winds of the night avoided the spirits that plied their trade in the dark.
-
-Deep within the roots of the stone, where the ancient hearths have been cold for centuries, a different kind of heat was waking. It did not smell of wood-ash, or the rancid fat of the _Ulfhednar_ camps, or the desperate sweat of toilers of the wood-axle in the Northumbrian fyrd. It smelled of deep-iron, hot grease, and the sharp, copper tang of blood left out to spoil.
-
-There is no wind beneath the earth, yet the soot on the low ceilings shifts and dances. If a man were to press his ear to the damp masonry, he would not hear the parchment-peace being discussed by the lords, nor the weary sighs of Cynewulf’s rearguard. He would hear a sound high and sharp, like a needle scraping through a burial shroud. He would hear the tiny sound of a child’s giggle echo from the black furnace-mouths, followed by a low, hollow whistle.
-
-They did not labor with the clumsy strength of mortal blacksmiths. These were the _Weylands Cynn_. These were elves of the scattered bloodline of the Great Smith himself. Centuries before, Weyland had walked the earth at the height of his craft, leaving his genius stamped into the marrow of his descendants. Men still remembered a few of his works. Greatest among them, if later storytellers were to be believed, was _Excalibur_, the sword of King Arthur. But mortals had long forgotten the master. Their thoughts now rested on prayers, stone angels, and the plain steel of human hands. The Cynn alone still remembered the ancient foundry marks.
-
-The Cynn had taken the three old hypocausts that provided heat for the bathhouse long ago, and from them built a singular large forge in the center. The walls between them were broken down and the ceiling supported to provide room for a forging hall. On one end was a chute originating from the ground above, and ending in a pile of charcoal.
-
-There were workbenches lining the wall for the specialty crafts of scabbard-making and tooling. Everything was set.
-
-The day of the debate came before the horrible winters of Osric's farm, the raids of Leicester that killed Elswyth's parents, and Cynewulf's ordination as priest. Time had marched forward. Soon would come the convergence... the meeting of Osric, Elswyth, Cynewulf, and Wulfhere. The parchment-peace was near. Odin and Freyr's debate was still fresh in their minds, and they knew they had little time to spare.
-
-Freyr was there, for the Cynn belonged to him. Odin was there as well, with his ravens perched atop a workbench not far away.
-
-They stood on opposite sides of the heavy iron anvil, the bargaining table of the Cynn. Odin leaned into the dark, his single eye fixed on the scarred face of the anvil, while Freyr loomed opposite him, his broad frame radiating an uncanny golden warmth and an easy grin. Between them, the anvil waited—a silent, scarred witness to the fact that before a single blade could be struck, the gods themselves had to agree on the length and width of a blade's contract.
-
-The forge grew quiet, save for the rhythmic drip of condensation from the Roman arches above. They were waiting for the first visitor.
-
-It was the night of March 24th, 943... a week before Easter.
-
-The nisse arrived at the top of the charcoal chute, her shadow casting its length down the soot-stained brick. Two forge-elves took her elbows and helped her into the chute. They placed the barrel in her lap, and she slid down gently onto the pile of charcoal, cloaked in the glamour of Ealhild's form. 
-
-The nisse had adopted the lie, using her magic to fool travelers on the road. It was holding the barrel filled with the contents of Osric's broken home. From her belt danced the oil-string, a silent reminder of her unveiled identity, and the beginning of the winter nightmare. The nisse dropped the barrel onto the dirt floor with a heavy, metallic clatter. The copper cookware, the iron plowshare, and the steel-boss of Osric's shield clanked within the wood-staves.
-
-She stepped through the charcoal and stood on the dirt floor of the forge.
-
-"I have brought the pieces of a broken life," she whispered. Her voice sounded thin and distant, stripped of the warmth Ealhild once possessed. "The steel of the spear and shield, the copper of the hearth, the toys of the children. I have brought them all. I am nisse, a spirit of Freyr’s kin, vowed to protect the hearth and home for Ealhild's family. I... failed. The master Osric still lives, but he is a broken man. Can anything be done?"
-
-Freyr’s grin did not falter, though his eyes grew impossibly bright, reflecting the light of the forge-fire. He leaned over the anvil, his massive, broad frame casting a shadow that seemed to bloom with the scent of spring flowers. "Failed?!" he boomed, his voice vibrating in the very marrow of the Roman arches. "Ha Ha Ha! You have not failed! Not yet anyway. You are here, trying to mend the broken fence. You've brought the tools and materials required. My elves shall see them sorted."
-
-He gestured with a sweeping, golden hand, and the shadows of the forge seemed to stir, the Cynn emerging from the masonry like smoke to begin the work of separating the charred iron from the river-stones. They descended on the barrel and called out the items as their invisible fingers thumbed through the collection. Their voices came and went as an impossible childish giggle. "A wooden horse!" "A mighty plowshare!" "A stone of the barrow!" The inventory had been collected.
-
-Odin remained motionless, his single eye fixed on the oil-string that danced at the nisse's hip. He did not care for the harvest or the sentiment of the hearth. He reached out, his long, pale fingers tracing the edge of the anvil, and the air around his hand grew unnaturally cold.
-
-"You speak of mending," Odin rasped, his gaze shifting from the string to the nisse’s hollow eyes. "How is Osric to be mended?"
-
-The nisse responded without looking up, "I am prepared to offer myself. I will live with the barrow stone in the blade."
-
-Odin's eye grew large. "What good is a blade with a broken spirit in its spine! You give the man a death sentence."
-
-The nisse transformed into the presence of her former living self, Ingrid. It was an illusion, a ghost of a memory.
-
-"I was Ingrid, daughter of Ormr. I honored my father's gods... _you_... until marriage compelled me to follow Freyr. I hoped one day to have many sons to fight for you in Valhalla."
-
-Ingrid paused a moment. She looked up to Odin, and straightened. "I summon my husband, Ingvar the Steady, son of Torsten, who died in Halfdan's host at York. He is the lord of the family barrow. I summon his servants of the shieldwall."
-
-She reached to the floor where the barrow stone lay, and set it firmly on the anvil. She tapped the ancestry rune with her finger. From the barrow stone, four ghostly spirits emerged, dressed in Dane armor, shields, spears, and axes. Ingvar the Steady stood at the fore, his face a mask of grim, eternal vigilance, flanked by his three oath-sworn companions who had fallen beside him in the final, desperate push for York. Ingvar was the brother of Ealhild's grandfather, and the tomb had been built in his honor, a silent monument to a war that had never truly ended.
-
-"Ingvar, my husband," Ingrid began. "My vigil over Ealhild's home was a ruin of my making. I am bound to the fate of Osric, her husband. But my pledge is not enough. You are here to speak for our family." She stepped back, and the spirits of the shieldwall seemed to swell in stature, their spectral armor catching the orange glow of the coals.
-
-"You and I are bound in kinship and love, " he said to her. "You sacrificed yourself for me after my death, to join me in the barrow. You gave up the sun for the shadow."
-
-Ingrid looked at him with loving eyes. "And I ask you now, will you follow me into Osric's blade? Will you be the master of the blade while I tend the hearth in Alfheimr?"
-
-Ingvar's back straightened. He did not hesitate. "My choice was to protect our family. This is the same choice. Of course. I will act to save Osric. He is Ealhild's husband, and we are bound to him like any other kin."
-
-Freyr studied the five spirits with a keen knowing smile. "Yes! Ingvar, son of Torsten, well met! On that battlefield, you rejected both the valkyries, and the walk in the sunny valley to Alfheimr! You chose the vow of the barrow, to watch over your family and its descendants. A noble choice! And I accept you into Alfheimr once again! You were never to be denied."
-
-Odin's eye crackled with an energy of momentary hate. "You *dared* defy me. Yes, I remember you as well, and the valkyries were somber that day." The forge fell into a suffocating silence, the spirits of the shieldwall standing motionless as the _All-Father’s_ gaze bore into them. The ravens shifted on the workbench, peering to see what would happen next. Then, slowly, Odin’s posture relaxed, his shoulders dropping, and the cold, piercing light in his eye softened into a dangerous, calculating twinkle.
-
-"There is hope for a new pact," Odin rasped, his voice now smooth as polished stone. "One that sees you, your wife, and your friends finally resting in Alfheimr. Your yard shall be measured by the length of the steel. Your friends will be the fence at the hedge. You will protect the remains of Ealhild's family... but the risk is very great for you, Ingvar. The blade is a fragile thing... if it breaks, you all will be cast out from Alfheimr. You will become hedge spirits, and the _Wild Hunt_ will give chase. And you *will* run." Odin leaned closer, his single eye burning with a cold, terrifying intensity. "Ingrid, Osric must pay a price as well. You will bring him to Alfheimr should he say the words, and you will keep him there while Ingvar guards the fence. Osric will be held within a breath of death. He wagers your eternity. You shall wager his life. Agreed?"
-
-Ingvar looked at Ingrid. He saw the golden light of Freyr’s promise and the grim reality of Odin’s demand. "Agreed," Ingvar said, his voice echoing with the finality of a closing tomb. "I am the yard to the edge. The shieldwall is the fence. Let the forging begin."
-
-Freyr’s grin deepened, his golden radiance pulsing in time with the forge-fire. "Then let the iron drink! Cynn! To the hammers! Give this Osric a blade worthy of his forefathers. They preferred the steady weight of a mighty broadseax, not a kingly sword. Ingrid, your string shall bind your hand to the bellows. Breathe deep, and give your breath to the fire. Your new hearth begins with a single flame. The _All-Father_ has spoken, and I have answered. The harvest of the barrow is at hand!"
-
-Shadowy hammers held by invisible hands gravitated toward the forge. Coal from a hidden well erupted at Ingrid's feet, and she scooped the black stones furiously into the empty hearth. The furnace burst into flame instantly. The heat felt moderate at first, but it turned a blinding yellow-white with the first breath of the bellows.
-
-Freyr and Odin each took a step back. They watched in the bright forge-light the furious work of a hundred invisible giggling hands. The metal items from the barrel, now laid out before the forge, were lifted one by one into an invisible crucible. As Ingrid worked the bellows, the fire glowed yellow and white. Her breath drew forth like a fog, and the fire's smoke mixed in a white haze. The barrel stood upright, and started filling with oil. The other items from the barrel, the combs, the toys, slipped one by one into the oil.
-
-A final offering of somber joy.
-
-Freyr's smile grew ever broader, as he witnessed the new billet of steel and wrought iron emerge from the crucible. It flew to the anvil, and a hundred dizzying hammers worked to the sound of a giggling song of clinks and clangs. The sparks of the hammers reflected in Odin's eye as he sternly watched the progress while gripping his spear. The form quickly turned from a rectangular billet, to a large farmer's broadseax. It was heavy and long, meant for a woodsman's chop and a reaping of fall lambs. It had runes too, which betrayed its more divine inspiration.
-
-Finally, Freyr raised both hands and the Cynn stopped, hammers in the air. He summoned the spirits to his hands and pressed them to the blade. He nodded, and the Cynn struck with all their hammers. Quickly the blade was thrust back into the fire, where it was studied with invisible eyes. "Not yet" said one. "Wait!" said another. "Now, quickly" said a third. The blade flew towards the oil and hovered over the opening... waiting... and then it plunged. A burst of green flame flew from the oil, then a sharp sizzle. The blade was drawn, and the elves laughed with pure childish glee. Invisible hands carried the blade off into the shadows to receive its handle and scabbard.
-
----
-
-Muninn: "This is so much better than ordinary fairy tales."
-
-Huginn: "Yes! No singing about gold, no braided beards, and absolutely no helpful advice for any of our heroes."
-
-Muninn: "No carriages, no pumpkins, no witch's cauldrons..."
-
-Huginn: "Just schoolchildren with a bad attitude."
-
-Muninn: "Bad attitude?"
-
-Huginn: "You didn't see them abduct the redcap."
-
-Muninn: "Now _that's_ a memory I would cherish."
-
-Huginn: "Speaking of which... the bellows need new hands... and look who's making a delivery."
-
----
-
-The spirit fyrd had barely vanished before the prisoner arrived.
-
-Odin and Freyr stepped forward once more, eyeing each other patiently, waiting for the next blade. The barrel tipped and spilled its old quench-oil into a gutter. More oil filled the space, same as before.
-
-The redcap did not kneel, nor did he come by choice. From inside the forge, the sounds of a struggle came from the charcoal chute's top. The shadow of the gnome, the nets, even his teeth yawned across the sooted brick of the chute. He stood before the chute... and was given an unceremonious shove.
-
-The gnome tumbled head-over-heels down the chute. Behind him, one of the forge-elves had donned Fussleton's red cap and clenched Fussleton's lit pipe between his teeth. He drew a breath, jumped, and exhaled. He slid down the chute, a hat with a trail of smoke sliding down behind the gnome.
-
-The gnome landed in a heap on the charcoal with a sickening crunch. The forge-elf found his feet at the end of the chute, jumped yet again, and the hat and pipe did four flips in the air. They landed on Fussleton's back, driving the air out of his lungs. The other forge-elves screamed with glee.
-
-"High marks!"
-
-"Bravo!"
-
-The invisible forge-elf jumped off of Fussleton, landed, and gave a deep  bow.
-
-Other forge-elves grabbed the nets as handles and yanked Fussleton to the floor, standing him to face Freyr and Odin.
-
-He spat the mushrooms onto the dirt, his eyes burning like hot copper beneath his filth-crusted hair. "Muck-dwellers! Wall-lice! Lowly smiths of the dirt!" the redcap, without cap, shrieked, his voice a rhythmic, snapping chant of old battle-verses. "You strike the anvil with a coward's hand, while I paint the highway with the blood of man!"
-
-From somewhere inside the blank Roman tile, a sudden burst of child-giggles erupted, loud and sharp.
-
-"He's rhyming!" cried one invisible voice. "He thinks he's a skald!" giggled a second. "Look at his tiny teeth," chimed a third from the hearth-roots. "So sharp. So full of old bone-grime. He smells of the ditch-ways."
-
-The redcap howled, as the mushroom-ropes dragged themselves to the anvil to face Odin and Freyr.
-
-"I am the Spotted King! I've slit more throats than you've cast iron pots, you wall-bound worms!"
-
-"So murderously small," the wall whistled back, the sound shifting down toward the furnace-mouth. "Funny, he doesn't look so murder-ish without his cap and knife!" "The little killer wants to play." "He wants a sharp toy for his jail cell!"
-
-Other items arrived as well.
-
-A marten skin of white and silver danced down the chute. The forge-elf was careful during his dance never to let it touch the black of the charcoal. It was placed on the leatherworker's bench softly.
-
-The strange forked elk handle from Fussleton’s silver-and-iron murder knife slid down the chute in invisible hands. It was placed on another workbench, waiting for a new blade.
-
-The voices stopped, as if waiting for the entire assembly to be ready. Then they cried out in a cascade.
-
-"Give him the welkin-iron!" a hundred voices chirped in overlapping sequence.
-
-Freyr stepped forward and cut the chorus short, with his palm held high. "SILENCE!! Friends, please..." He turned his gaze toward the redcap, his expression one of weary, paternal disappointment, yet still with an unshakeable smile. "Fussleton, now were you not warned about the dangers of the mushrooms in the meadow. You were taught the rhymes. But you ignored them completely! And now, look at you! Barely a sane bone in that body of yours. What *do* you have to say for yourself, hmmm?"
-
-Fussleton’s copper eyes widened, his jaw working silently as he struggled against the mushroom-cords. The redcap, who had spent centuries terrorizing travelers and painting highways with blood, suddenly looked like a scolded child caught with his hand in the honeypot.
-
-The redcap stared at Freyr, his eyes unblinking, saying nothing. He knew that his only response would be murderous, and that Freyr could do worse than what he was planning.
-
-"No? Very well!" Freyr said, his voice hardening. "You chose the path of the blood-painted meadow. You wanted to be a king of murder? Very well. Your old memory shall be the memory of the steel. You, as you are, shall be the teacher of the battle-dance. Perhaps, after a long while, you shall earn your freedom. But if you should let the blade break, you will be as a hedge-spirit, subject to the _Wild Hunt_ once more."
-
-Odin stepped forward to stare into the eyes of the redcap, studying his madness like a fine painting, tracing his chin with a long dirty fingernail. "Your wod is fresh, keen, and cunning. It is madness that must serve a new hand well. But, the wielder of this blade must bind with this madness in harmony." Odin traced his finger along the redcap's jaw, and whispered, "You will infuse your fly agaric into your wielder's hand. You will keep them safe by showing them the dangers in song, and in their senses." He stepped back, and looked at Freyr. "The wielder must know there is a price for this magic. They will be struck mad after the blade is put back, for a time. We will see the choice they make... to survive battle only to be driven to madness."
-
-Odin looked at Freyr. "Agreed?"
-
-"LET THE SONG BEGIN!" cried Freyr, his arms wide as if calling a grand chorus. "For the dance, a narrow fighting blade. Make it light and poised like the moonlit marten upon the bough!" He and Odin stepped back once more to let the forging commence.
-
-The forge-elves dragged Fussleton once more, this time to the bellows. The cords wove his hands to the bellow-handles, and a coal pit erupted from the floor at his feet.
-
-Pieces of coal danced on his body like ants crawling up a log, throwing themselves into the fire.
-
-The ropes lifted him up, and threw his weight against the heavy wood-handle of the bellows. The fire roared. Above the flames, the scream of giggles drew to an operatic chorus.
-
-The foreman of the forge-elves, Besidius, leaned close and whispered into Freyr's ear.
-
-Besidius: "Master-of-the-Fray, do you want that extra-pointy, like the marten's teeth?"
-
-Freyr: "Of course, Besidius!"
-
-Besidius: "Done, your Fray-ship!"
-
-Freyr burst into laughter at the dreadful faux honorific.
-
-A billet of curious white steel emerged from the gloom and landed in the forge. The elves called it _welkin-iron_—sky-vault iron, the nickel-rich heart of a celestial stone that had fallen from the heavens in the deep past. It was a nickel-rich metal whose silvery luster seemed poised to catch moonlight itself.
-
-The redcap was carried and bound by his mushroomed ropes to the bellows. More coal erupted from the floor, and crawled up the redcap's legs like black dancing ants, throwing themselves into the fire.
-
-The coal turned a violent yellow glow in the forge, causing the redcap's eyes to glow demonically with hate. The mushrooms released more poison and the cord pulled tighter. The business was close at hand now, and the redcap fought ever harder to break the seal. "No! Noo!" He gritted his teeth as his bound torso shoved against the bellows. He screamed out rhythmic curses as the invisible hammers began their frantic, chaotic dance on the anvil once more. He spat into the fire.
-
-Then he broke into song, trying to steal the voice of the forge-elves. But they countered with their own. They matched his timing perfectly, to within... a flea's leg.
-
-```
-Spotted King: Sing your songs, you stone-bound rats!
-Cynn:         We’ve split the skulls of better brats!
-Spotted King: Your little fire cannot tame—
-Cynn:         The beast that wears the bloody name!
-```
-
-They cut him off mid-breath. _The temerity!_ The redcap slammed his weight into the handle, willingly this time, to accelerate the jaunt. He thought: _The speed is the thing! I will outwit these idiots yet!_ He forced his lungs to move faster, spitting his verses like rapid hammer-blows to outpace the choir.
-
-```
-Spotted King: You wall-lice crawl inside the dead!
-Cynn:         But we know where your boots did tread!
-Spotted King: You cannot say I am soul-blight!
-Cynn:         We care not for your moral plight!
-Spotted King: I am the better of us two!
-Cynn:         It is too late, you cannot sue!
-Spotted King: The wooded realm I gave to her!
-Cynn:         To serve your appetite de jour!
-```
-
-The bricks hummed back in perfect, mocking ten-part harmony. The pace of the duel accelerated, the alternating voices snapping back and forth like string-plucks on a driving mandolin, matching the frantic, chaotic clink-clink-clink of the invisible hammers on the anvil. A hundred more rounds it went. A thousand more. Nobody kept count. The redcap was now driving his bruised body full into the bellows, desperate to outpace the Cynn.
-
-At that moment, Besidius called out: "The mirrors! The blade awaits the moonlight!"
-
-Forge-elves above and below the chute raised polished mirrors. A ray of pure moonlight struck the forge.
-
-```
-Spotted King: I have you now, the moon released!
-Cynn:         It will not help the angry beast!
-Spotted King: I know its name, to me it's sent!
-Cynn:         The light is pure, you discontent!
-Spotted King: The secret of the moon-lit coal!
-Cynn:         Is in the black stones that we stole!
-Spotted King: The coal's not mine! It must have sold!
-Cynn:         Belonged to the ten-year-old!
-Spotted King: You pinched the coal right from her pits?
-Cynn:         We knew that we would match your wits!
-Spotted King: You do not care 'bout what you stole?
-Cynn:         We pre-arranged the master-toll!
-Spotted King: You planned the trap to foil my role?
-Cynn:         We stole the fuel to trap your soul!
-Spotted King: I looked at her so killing-ly!
-Cynn:         Her family gave it willingly!
-Spotted King: So what now is your plan for me?
-Cynn:         To train the hand convincingly!
-Spotted King: My wicked style is mine alone!
-Cynn:         For standard training you'll be prone!
-Spotted King: I will not teach, I will not speak!
-Cynn:         You'll train the arm or find no creek!
-Spotted King: I crave no more the scarlet feast!
-Cynn:         The thirst in you has never ceased! 
-Spotted King: No mortal hand shall master mine!
-Cynn:         You bow beneath the hand's design!
-Spotted King: The noose is tight!
-Cynn:         It ends tonight!
-Spotted King: I'm drawn to steel!
-Cynn:         Before us kneel!
-Spotted King: My anger break!
-Cynn:         Your will we take!
-Spotted King: This steely cage...
-Cynn:         Holds all your RAGE!
-```
-
-Their voices suddenly dropped his rhythm entirely to strike a heavy, unified chord. Freyr's hands commanded the smoke, grabbing the redcap and pressing the murder-gnome ever closer to the blade. The redcap’s copper eyes widened, his breath fracturing as the invisible hammers delivered a final, devastating blow to the metal.
-
-"NOOOOOOOOOOO!" — CLANG.
-
-And into the quench it went, moving quickly this time, so as to catch the moonlight and the fury before they escaped the steel. It dropped. A tornado of green flame erupted from the vat, cut short with a sharp, violent hiss. The blade lifted and levitated. It was carried to the shadows to receive its handle and scabbard. The marten skin was folded into the scabbard, forever being the coat for the blade.
-
----
-
-Huginn: "DUN... DUN... DUUUUUUUUUUUUUUUHHHN!"
-
-Huginn squawked, his voice cracking on the final note. He froze mid-dance, his left wing still extended toward the stars and his tail feathers flared, completely locked in place as his brother turned a cold eye toward him.
-
-Muninn: "What in the All-Father's name are you doing, brother?"
-
-Huginn: "I was dancing to the beat, and now I am playing the air-organ!"
-
-Huginn smiled, released his dance posture, and smoothed down his ruffled wing-feathers with a look of immense dignity.
-
-Huginn: "For dramatic effect. It felt like the scene needed a...  heavy chord... right there."
-
-Muninn: "That wasn't an _air organ_, or any other organ, except maybe a body part I haven't liberated yet."
-
-Huginn: "It was a metaphoooorical organ. Besides, look at the redcap below. Wait, where did he go?"
-
-Muninn: "He's screaming inside the steel now. And leave the music to the Cynn. They broke a murderer's spirit with Elswyth's prized coal, which is far more respectable than your dancing and squawking."
-
-Huginn: "Fine. But you have to admit, it DID really lift the mood."
-
-Muninn: "I doubt it. What really needs lifting are the feathers in your tail. They're molting. Tuck those feathers in, brother."
-
----
-
-Freyr and Odin stepped forward one last time, meeting at the anvil.
-
-Odin: "For this third blade, have you considered my proposal?"
-
-Freyr: "Yes, another space in Alfheimr. This one in the likeness of a church, of _Christ_."
-
-Odin: "When the blade is drawn and the words are spoken, the _witan-sleep_ will take Cynewulf there. The ravens will also be summoned."
-
-Freyr's eyes widened and his smile blazed once more. "Ahh, the place for a witan. For a man who must *confess*. Very well, old man. I offer the church itself. I shall create a space in Alfheimr that is a church, with a vaulted stone ceiling and a thousand lit candles. And your _witan-sleep_ will stop time. The wielder must be given time to search his soul. I will not allow this to be a sudden death. If he is to be judged, he must be given the silence to hear his own heart."
-
-Odin grumbled, but resigned. "Fine. He will have the time it takes for the _Wodhere_ to run him to ground—the span of a hundred heartbeats before the Hunt chases the breath from his lungs. That is all the time I am willing to give."
-
-Freyr’s smile softened, though his eyes remained fixed on the altar. "A chase, then. A trial of speed and spirit. Let it be done!"
-
-The Cynn forge-elves made a circle around the two gods, listening intently.
-
-Besidius called forth to his Cynn. "Gather round! To summon the _Wild Hunt_ we need a part of Odin. To summon the ravens, we need a part of them."
-
-"Something small."
-
-"Something that commands."
-
-"Something that gathers."
-
-"Something that sends."
-
-"Something the ravens bring."
-
-"Something the ravens keep."
-
-"Something that returns."
-
-"Something living."
-
-"Odin's essence gathers and sends. He commands and is given respect."
-
-"His blood?"
-
-"His blood."
-
-"A drop."
-
-"One drop only."
-
-"The ravens are sent and brought."
-
-"They fly."
-
-"By the wing."
-
-"By the feather."
-
-"They bring the feather."
-
-"They keep the feather."
-
-"Except One."
-
-"Each."
-
-Odin looked at his ravens, and nodded. He lowered the blade of _Gungnir_ and used the spear's head to cut his hand. One drop of blood landed in a waiting goblet.
-
-The ravens landed on the anvil. One feather was taken from each.
-
-Odin looked at Freyr one last time. "You will see these blades to their owners?"
-
-Freyr: "As sure as the night falls."
-
-Odin looked at Huginn and Muninn. "Come on feathers. Time to move on."
-
-
----
-
-Huginn: "I was wondering what to wear to my first inquisition."
-
-Muninn: "Wear? You're a bird, Huginn! You're wearing the same thing you've been wearing since the dawn of time. Maybe try a nice twig behind the ear?"
-
-Huginn: "Wait! Now it's time for my favorite part."
-
-Muninn: "Please don't tell me."
-
-Huginn: "Viking laundry."
-
-Muninn: "Yep. You said it. You... went there."
-
-
-[↑ Back to Table of Contents](#table-of-contents)
 

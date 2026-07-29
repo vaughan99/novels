@@ -1,0 +1,282 @@
+:root {
+  --sidebar-width: 20rem;
+  --content-width: 48rem;
+  --layout-gap: 3rem;
+
+  --page-background: #f8f7f3;
+  --content-background: #fff;
+  --sidebar-background: #efeee9;
+
+  --text-color: #25231f;
+  --muted-text-color: #68645c;
+  --border-color: #d5d1c8;
+  --link-color: #483d2e;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--page-background);
+  color: var(--text-color);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.book-layout {
+  display: grid;
+  grid-template-columns:
+    var(--sidebar-width)
+    minmax(0, var(--content-width));
+  justify-content: center;
+  gap: var(--layout-gap);
+  min-height: 100vh;
+  padding: 0 2rem;
+}
+
+.book-sidebar {
+  min-width: 0;
+  height: 100vh;
+  position: sticky;
+  top: 0;
+  overflow-y: auto;
+  padding: 2rem 1.5rem;
+  background: var(--sidebar-background);
+  border-right: 1px solid var(--border-color);
+}
+
+.book-identity {
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.book-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.book-subtitle {
+  margin-top: 0.3rem;
+  color: var(--muted-text-color);
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.book-author {
+  margin-top: 0.8rem;
+  color: var(--muted-text-color);
+  font-size: 0.95rem;
+}
+
+.book-toc {
+  font-family: system-ui, sans-serif;
+  font-size: 0.88rem;
+  line-height: 1.4;
+}
+
+.toc-title {
+  margin: 0 0 1rem;
+  font-family: inherit;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.book-toc ul {
+  margin: 0;
+  padding-left: 1.15rem;
+  list-style: none;
+}
+
+.book-toc > ul {
+  padding-left: 0;
+}
+
+.book-toc li {
+  margin: 0.4rem 0;
+}
+
+.book-toc li li {
+  margin: 0.25rem 0;
+  font-size: 0.92em;
+}
+
+.book-toc a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.book-toc a:hover,
+.book-toc a:focus-visible {
+  text-decoration: underline;
+}
+
+.book-content {
+  min-width: 0;
+  width: 100%;
+  padding: 4rem 3rem 8rem;
+  background: var(--content-background);
+  box-shadow: 0 0 2rem rgb(0 0 0 / 5%);
+}
+
+.book-content > :first-child {
+  margin-top: 0;
+}
+
+.title-block {
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+.title-block .title {
+  margin-bottom: 0.4rem;
+  font-size: 2.5rem;
+  line-height: 1.15;
+}
+
+.title-block .subtitle {
+  margin-top: 0;
+  color: var(--muted-text-color);
+  font-size: 1.25rem;
+  font-style: italic;
+}
+
+.title-block .author,
+.title-block .date {
+  color: var(--muted-text-color);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+h1 {
+  margin-top: 5rem;
+  font-size: 2.1rem;
+}
+
+h2 {
+  margin-top: 3.5rem;
+  font-size: 1.65rem;
+}
+
+h3 {
+  margin-top: 2.5rem;
+  font-size: 1.3rem;
+}
+
+p {
+  margin: 1rem 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 2rem auto;
+}
+
+blockquote {
+  margin: 2rem 0;
+  padding-left: 1.25rem;
+  border-left: 0.25rem solid var(--border-color);
+  color: var(--muted-text-color);
+}
+
+pre {
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 1rem;
+  background: #f1f0ec;
+  border: 1px solid var(--border-color);
+  border-radius: 0.25rem;
+}
+
+code {
+  overflow-wrap: break-word;
+}
+
+hr {
+  width: 35%;
+  margin: 3rem auto;
+  border: 0;
+  border-top: 1px solid var(--border-color);
+}
+
+/* Keep linked headings from hiding beneath browser chrome. */
+[id] {
+  scroll-margin-top: 1.5rem;
+}
+
+/* Tablet and mobile layout */
+@media (max-width: 900px) {
+  .book-layout {
+    display: block;
+    padding: 0;
+  }
+
+  .book-sidebar {
+    position: static;
+    width: auto;
+    height: auto;
+    max-height: none;
+    overflow: visible;
+    padding: 1.5rem;
+    border-right: 0;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .book-toc {
+    max-height: 45vh;
+    overflow-y: auto;
+  }
+
+  .book-content {
+    padding: 2.5rem 1.5rem 5rem;
+    box-shadow: none;
+  }
+}
+
+@media (max-width: 520px) {
+  body {
+    font-size: 1rem;
+  }
+
+  .book-content {
+    padding-inline: 1rem;
+  }
+
+  .title-block .title {
+    font-size: 2rem;
+  }
+}
+
+@media print {
+  .book-sidebar {
+    display: none;
+  }
+
+  .book-layout {
+    display: block;
+    padding: 0;
+  }
+
+  .book-content {
+    max-width: none;
+    padding: 0;
+    box-shadow: none;
+  }
+}
