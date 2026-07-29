@@ -20,7 +20,6 @@
 - [Chapter Five: Let Us Prey](#chapter-five-let-us-prey)
 - [Chapter Six: The Tale of the Bell's Deacon](#chapter-six-the-tale-of-the-bells-deacon)
   - [Part Zero: The Liturgy of Huginn](#part-zero-the-liturgy-of-huginn)
-- [Chapter Six: The Tale of the Bell's Deacon](#chapter-six-the-tale-of-the-bells-deacon-1)
   - [Part One: The Liturgy of the Bell](#part-one-the-liturgy-of-the-bell)
   - [Part Two: The Liturgy of the Road](#part-two-the-liturgy-of-the-road)
   - [Part Three: The Liturgy of the Sword](#part-three-the-liturgy-of-the-sword)
@@ -3119,10 +3118,6 @@ Huginn: "He gets what he earned. Besides, the readers will enjoy the scenery. Th
 
 Muninn: "Fine. But let the children stretch their wings first. If you are going to take them on a thirty-year detour through the mud of Northumbria, at least warn them to fetch a cup of mead and get comfortable. This is going to take a while."
 
-
-[↑ Back to Table of Contents](#table-of-contents)
-
-## Chapter Six: The Tale of the Bell's Deacon
 
 ### Part One: The Liturgy of the Bell
 
