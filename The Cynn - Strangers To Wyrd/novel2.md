@@ -1358,7 +1358,7 @@ Cynewulf frowned. He had expected an ambush.
 
 Instead, there was only silence.
 
-An hour later came a merchant's wagon, its driver humming to himself while a pair of hired spearmen trudged beside the wheels. Again, Madoc let them pass. Not a bowstring stirred. Not a sling was lifted.
+An hour later came a merchant's wagon, its driver humming to himself while a pair of hired spearmen trudged beside the wheels. Again, Madoc let them pass. Not a sling was lifted.
 
 The waiting stretched on.
 
@@ -1372,7 +1372,7 @@ Only after they were gone did Madoc quietly raise two fingers.
 
 Every _Dragon_ seemed to wake at once.
 
-Hands drifted to slings and wooden toggles. Clay pots changed owners. Baldy crept toward the roadside with a small leather pouch dangling from one hand. Another Dragon slipped deeper into the brush until Cynewulf lost sight of him entirely.
+Hands drifted to slings and wooden toggles. Clay pots changed owners. Baldy crept toward the roadside with a single Dragon's Breath pot in his hand, and a seax on his belt.
 
 No one spoke.
 
@@ -1435,7 +1435,9 @@ He was watching the eyes of their leader, looking for just the right moment.
 
 Baldy was looking at Madoc. The youngest _Dragon_ waited behind a roadside oak, every muscle taut, waiting for the signal.
 
-Madoc saw their leader looking for a target, anything to take his mind off of the stench. He was desperate for a fight. Madoc clenched his fist, screaming "Now!" Baldy ran down the length of the road, mindful of his step as he crossed just behind the rows of caltrops.
+Madoc saw their leader looking for a target, anything to take his mind off of the stench. He was desperate for a fight. Madoc clenched his fist, screaming "Now!" Baldy jumped out and threw his pot. It landed at the feet of the Danes.
+
+Baldy turned and ran down the length of the road, mindful of his step as he crossed just behind the rows of caltrops.
 
 The Viking leader screamed for pursuit.
 
@@ -1445,9 +1447,9 @@ The next volley came in the same heartbeat.
 
 Nineteen heavy darts hissed from the brush, slamming into the charging line.
 
-Cynewulf's eyes never left Baldy. Madoc had thrown the youngest _Dragon_ before wolves, armed with little more than speed and trust. Baldy hadn't even kept his shield and spear, for fear of them slowing him down.
+Cynewulf's eyes never left Baldy. Madoc had thrown the youngest _Dragon_ before wolves, armed with a seax, a single pot, speed and trust. Baldy hadn't even kept his shield and spear, for fear of them slowing him down.
 
-Four Vikings screamed, as the _earth-dragon_ bit into their unprotected feet. Of the ten that charged, five received darts.
+Four Vikings screamed as the _earth-dragon_ bit into their unprotected feet. Of the ten that charged, five received darts.
 
 Confusion reigned. Madoc called for another volley of darts.
 
@@ -1473,7 +1475,7 @@ Cynewulf recovered from the blow he had given, and walked up to Madoc. Baldy fol
 
 "Well, that was a right success!" Madoc exclaimed. "Not a single loss."
 
-Cynewulf begged to differ. "You sent a boy into a fight with just a knife. No spear? NO SHIELD? Are you mad?"
+Cynewulf begged to differ. "You sent a boy into a fight with just a knife and a single pot. No spear? NO SHIELD? Are you mad?"
 
 Madoc's smiled didn't disappear. It widened. "He most certainly had a shield, friend. I told him to run to his shield. To you."
 
@@ -1489,7 +1491,7 @@ Cynewulf was beside himself.
 
 Madoc pointed to Cynewulf's shield. "Nice axe. I didn't know your shield had such fine taste in axes!"
 
-Cynewulf looked down at his _Griffon_ shield. Planted in the boards was a bearded axe. The boards were split, and the rim was sheared. The shield was broken. He pulled the axe free.
+Cynewulf looked down at his _Griffon_ shield. Planted in the boards was a bearded axe. The boards were split, and the rim was sheared. He pulled the axe free.
 
 As he weighed the axe in his hand, an odd thought stopped him. Since the day at the Wall, he had never once wondered what weapon he preferred. Yet in all those years of anger, battle, and wandering, he had never picked up another axe. Not once.
 
