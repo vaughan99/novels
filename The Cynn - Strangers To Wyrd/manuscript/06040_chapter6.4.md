@@ -6,11 +6,11 @@ _These are the lessons of the Wound._
 
 The remnants of the band drifted. They were six shadows moving through the Northumbrian mist, their horses gaunt and stumbling. They did not speak of the Wall. They did not speak of _Fer-Main_. To speak of them would be to touch the raw, weeping edge of the injury, and none of them had the strength to endure the pain of it.
 
-Cynewulf felt the world through a veil of agony. Every movement was a fresh cut. The rhythm of the horse’s gait, the bite of the wind, the smell of the damp earth—it all felt like salt rubbed into an open sore. He remembered the five minutes at the Wall with the clarity of glacier water. He saw the _Griffons_—the perfect, disciplined machine he had worshipped—dismantled in the time it took to draw a long breath.
+Cynewulf felt the world through a veil of agony. Every movement was a fresh cut. The rhythm of the horse’s gait, the bite of the wind, the smell of the damp earth—it all felt like salt rubbed into an open sore. He remembered the five minutes at the Wall with the clarity of glacier water. The perfect, disciplined machine he had worshipped was dismantled in the time it took to draw a long breath.
 
 They stopped when one of the riders slumped. He was one of the scouts, and had been nursing a spear wound to the flank. He had died in the saddle.
 
-Two others were injured badly and could ride no further. They had to stop.
+Two others were injured badly and could ride no further.
 
 They stopped in the lee of a collapsed stone sheepfold, a place where the wind didn't howl, but merely sighed. The scout who had died in the saddle was lifted down, his body stiffening in the cold, and laid against the mossy stones. He looked smaller in death, stripped of the bravado that had defined him.
 
@@ -38,7 +38,7 @@ The two survivors who were still whole exchanged a look—a silent, hollow commu
 
 Suits of mail, shields, spears, even a sword were loaded on to two of the horses. The one horse that was severely injured was stripped of its saddle, its halter, and bags. They were loaded as well.
 
-Cynewulf was no longer a priest. He knew that he had no communion, no oil, no way to administer the rites. He had the power only for hearing 'lay confession'... a desperate attempt for a soul to cleanse itself by speaking their secrets to another Christian. He wasn't sure if even that counted for him anymore. He offered, "Do you have a confession?"
+Cynewulf was no longer a priest. He knew that he had no communion, no oil, no way to administer the rites. He had the power only for hearing _lay confession_... a desperate attempt for a soul to cleanse itself by speaking their secrets to another Christian. He wasn't sure if even that counted for him anymore. He offered, "Do you have a confession?"
 
 The dying soldier looked Cynewulf in the eye, his blood smearing every cough. "I... always meant... he didn't..." his words failed him in death. Cynewulf waited a prolonged moment, and knew that it was too late.
 
@@ -148,13 +148,15 @@ With the entire host moving north, he reasoned that the road's patrols would be 
 
 He headed south. He found them in the dark corners of the Midlands—men who had been chewed up by the same war and spat out by the same kings. They were a collection of broken things, warbands of ghosts who fought for silver because they had forgotten every other reason to fight.
 
-For years he drifted between bands, never staying longer than his trust in people. He trusted no man and called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. When jarls broke promises, he remembered. The old priest had called it "ember hate". He was a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
+For years he drifted between bands, never staying longer than his trust in people. He trusted no man and called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. He was now a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
 
-He was hollow man in a suit of mail, selling his blade to anyone who didn't ask about his past. He was a creature of the road, a ghost who had forgotten the shape of his own name.
+Many names were given to him, and none were flattering.
 
 The first freeze of November 942 arrived with a cruelty that felt personal. It turned the mud of the Midlands into jagged, frozen teeth, and it turned Cynewulf’s blood into ice. He had been walking for days, his silver long gone, his stomach a hollow ache, and his hands—those once-steady hands of a deacon and horseman—were shivering icicles holding himself together.
 
-He stumbled upon the monastery of Saint-Martin's-on-Trent a day's walk out of Repton just as the sun began to bleed out behind the grey horizon. It was a small, struggling house, a collection of stone cells and a sagging timber chapel on a small hill overlooking a grove by the river Trent. The roof had been patched with mismatched timbers. One corner of the cloister leaned noticeably. The bell hung silent, a long crack splitting its bronze from shoulder to lip. No wall had escaped repair; no repair matched the stone around it.
+He stumbled upon the monastery of Saint-Martin's-on-Trent a day's walk out of Repton just as the sun began to bleed out behind the grey horizon. It was a small, struggling house, a collection of stone cells and a sagging timber chapel on a small hill overlooking a grove by the river Trent.
+
+The roof had been patched with mismatched timbers. One corner of the cloister leaned noticeably. The bell hung silent, a long crack splitting its bronze from shoulder to lip. No wall had escaped repair; no repair matched the stone around it.
 
 Cynewulf didn't knock. He collapsed against the heavy oak gate, his breath coming in stutters, his body aching from the shivering.
 
@@ -272,7 +274,9 @@ One of them, a man with a scarred jaw and a cloak that had seen better decades, 
 
 "You look like a man who knows how to use that," the stranger grinned and pointed, his vowels rolling like stones in a river. He was gesturing to the langseax.
 
-Most of them were _Cymry_ skirmishers. They were warriors of the Powys hills who fought with a ferocity that made the Saxon house-carls look like statues.  They fought light on their feet, avoiding blows with just small shields and fast dodges. They didn't line up in warfare, they preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle, ranged skirmishers that taunt you from afar, and whom you can never quite catch. Against such men, a shield wall felt less like a fortress and more like a prison..
+Most of them were _Cymry_ skirmishers. They were warriors of the Powys hills who fought with a ferocity that made the Saxon house-carls look like statues.  They fought light on their feet, avoiding blows with just small shields and fast dodges.
+
+They didn't line up in warfare, they preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle, ranged skirmishers that taunt you from afar, and whom you can never quite catch. Against such men, a shield wall felt less like a fortress and more like a prison..
 
 "We’re heading for Leicester. The Vikings are holed up, and there’s coin to be made in the breach. You look like a warrior. Will we see you there, or are you preparing our victory feast here for our return?" He laughed so hard, it was easy to understand he was joking.
 
