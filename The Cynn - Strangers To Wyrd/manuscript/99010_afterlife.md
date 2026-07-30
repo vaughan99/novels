@@ -463,13 +463,13 @@ DO NOT ATTEMPT TO RESTART FATE YOURSELF, UNLESS YOU WERE FATED TO DO SO.
 
 Odin noticed a party arriving from the Norse road and quickly covered his face, turning away. He motioned for the ravens to pick up the pace.
 
-**"ALLFATHER!"**
+**"ALL-FATHER!"**
 
 "...Ugh," Odin sighed.
 
 The arriving party had recognized him. It was one hundred Vikings. Their first excursion beyond Valhalla.
 
-"Allfather! It _is_ you!"
+"All-Father! It _is_ you!"
 
 "Tell us a prophecy!"
 
@@ -505,7 +505,7 @@ Odin closed his eye.
 
 The Vikings lowered their heads.
 
-"Sorry, Allfather."
+"Sorry, All-Father."
 
 They turned as one and began the long, dejected march back toward Valhalla.
 

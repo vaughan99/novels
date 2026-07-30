@@ -2,7 +2,7 @@
 
 ## Part Zero: The Liturgy of Huginn
 
-Muninn: "Wait. Stop. Huginn, what in the Allfather’s name are you doing?"
+Muninn: "Wait. Stop. Huginn, what in the All-Father’s name are you doing?"
 
 Huginn: "I am telling the story of the deacon, brother. It is a vital thread."
 
