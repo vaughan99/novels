@@ -58,6 +58,7 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./build
+          retention-days: 7
 
   deploy:
     runs-on: ubuntu-latest
