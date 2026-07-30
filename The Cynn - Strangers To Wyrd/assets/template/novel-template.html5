@@ -30,6 +30,14 @@
   <meta name="copyright" content="$rights$">
   $endif$
 
+  $if(build-timestamp)$
+  <meta name="build-time" content="$build-timestamp$">
+  $endif$
+
+  $if(build-commit)$
+  <meta name="build-commit" content="$build-commit$">
+  $endif$
+
   $if(date-meta)$
   <meta name="dcterms.date" content="$date-meta$">
   $endif$
@@ -85,6 +93,18 @@
 
         $if(rights)$
         <div class="book-rights">$rights$</div>
+        $endif$
+
+        $if(build-timestamp)$
+        <div class="book-build">
+          <div class="book-build-label">Build</div>
+          <time class="book-build-time">$build-timestamp$</time>
+          $if(build-commit)$
+          <div class="book-build-commit">
+            Revision $build-commit$
+          </div>
+          $endif$
+        </div>
         $endif$
       </div>
 

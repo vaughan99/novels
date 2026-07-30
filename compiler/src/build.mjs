@@ -26,8 +26,8 @@ async function build() {
 
     const mdFile = await renderMarkdown(manuscript, buildDir);
 
-    await renderHtml(buildDir, mdFile);
-    await renderEpub(buildDir, mdFile);
+    renderHtml(buildDir, mdFile);
+    renderEpub(buildDir, mdFile);
 
     console.log("Done.");
 }
