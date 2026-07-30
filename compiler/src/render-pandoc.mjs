@@ -6,8 +6,8 @@ const buildTimestamp =
   process.env.BUILD_TIMESTAMP ?? new Date().toISOString();
 
 const buildCommit =
-  process.env.BUILD_COMMIT ?? "local";
-
+  process.env.GITHUB_SHA?.slice(0, 7) ?? "local";
+  
 export function renderHtml(buildDir, mdFile) {
     console.log('Rendering HTML');
 
