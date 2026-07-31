@@ -2,7 +2,9 @@
 
 ## Part One: Gerðr's Tears
 
-Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare. He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
+Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare.
+
+He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
 
 He was not an especially pious man. He had seen the shuffle of war—Norseman against Christian, Christian against Norseman—and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and every harvest. Still, when the rains came late or the barley stood thin, Osric would sometimes offer a prayer for steady weather and a bountiful yield. Sometimes he offered the same prayer to Freyr, the Norse god of the harvest. It seemed no great offense to ask twice.
 
@@ -42,7 +44,11 @@ He lost his brother and several friends in that battle, and he constructed a new
 
 Her grandfather bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
-Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord, Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked. She pretended to be Gerðr with her mother, tempting Freyr to lay down his sword and frolic with her. She also knew some of her mother's stories were invented on the spot, but another tale of Gullinbursti the Golden-Bristled Boar soaring over hedgerows, or butting a troll into a ditch for stealing barley, never failed to make her laugh. 
+Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord, Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked.
+
+She and her mother played at Gerðr and Freyr, hiding behind trees and barring one another from an imaginary garden until Freyr surrendered his wooden sword. Then Gerðr opened the gate, and they chased each other laughing through the orchard.
+
+She also knew some of her mother's stories were invented on the spot, but another tale of Gullinbursti the Golden-Bristled Boar soaring over hedgerows, or butting a troll into a ditch for stealing barley, never failed to make her laugh. 
 
 ---
 
@@ -125,11 +131,13 @@ And so she set to work. She started with the obvious things. "Maybe the feet of 
 
 She reminded the children. "Do not visit the eorth-hord for any reason. I have wards in place for a visitor. You must not warn them." And the children obeyed.
 
-Inside, Ealhild had already begun the work of boiling the elderberry syrup for the use during winter. The work of syrup-making required long hours of boiling, for elderberries were the goblins of the hedge. Their purple juice, boiled properly, made strong flavorful medicine. But if the boiling ran askew, the goblins would play their foul magic into the blood. While Ealhild was busy with the grain-chests and the theft, the fire had grown dim, letting the elderberry pot go still. Nobody remembered to stoke the fire.
+Inside, Ealhild had already begun the work of boiling the elderberry syrup for the use during winter. The work of syrup-making required long hours of boiling, for elderberries were the goblins of the hedge. Their purple juice, boiled properly, made strong flavorful medicine. But if the boiling ran askew, the goblins would play their foul magic into the blood.
+
+Then the hearth itself failed her. A stone gave way beneath the coals, drawing the fire into the ash hollow below. The elderberry pot remained hot enough to steam and slowly thicken, but no longer hot enough to boil the poison from the fruit. As the water dwindled, the goblins were not slain. They hid, waiting.
 
 ---
 
-Huginn: "The goblins are waking, Muninn! They feel the lukewarm water. They’re stretching their purple limbs in the pot!"
+Huginn: "The goblins are waking, Muninn! They feel the warm water. They’re stretching their purple limbs in the pot!"
 
 Muninn: "She called for a medicine, but the brew is a doom. The 'goblins' have long memory Huginn, and they don't forget or forgive a cold hearth. They’ll play their 'foul magic' into the blood yet."
 
@@ -137,11 +145,21 @@ Huginn: "Even ravens skip over the goblin-sick. It's such a hateful malice."
 
 ---
 
-Ealhild retreated inside, confident that her measures would at least track the theft. The fire under the elderberries had grown dim, so the syrup must be complete, she thought. She ladled the syrup into their clay-bottles. They seemed warm still, and so surely the fire had warded the goblin-magic.
+Ealhild retreated inside, confident that her measures would at least track the theft.
 
-The next day, Ealhild reviewed the night's work. The coal lines and leveling sticks seemed to show that the grain had not been touched. But, she noted also the oil had traveled to another part of the bin. The outline of a small finger on the side of the bin betrayed its origin. "Oh my sweet spirit. Only you are smart enough to counter the coal lines and leveling sticks, because you know how to erase, how to replace. But you can't fool the oil." She ran to check on the horse and livestock, and found extra grain in the horse's feed. She also saw that the horse's mane had been neatly braided, and that her horseshoes were freshly picked and clean.
+Ealhild studied the syrup. She thought about everything her mother had taught her, and she had repeated over and over again: the thickness of the syrup, the time over the hearth, the amount of fuel spent. By all measures, it should have been safe.
 
-Smiling, Ealhild finally knew her thief, and she was relieved. It was a _tomte_—what most folk in the Danelaw called a _nisse_—a barrow-spirit that had come with her family's capstone twelve years before. A nisse was a spirit who came forth from the barrows, and guarded the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and this _nisse_ was sensing a terrible winter was coming. A _nisse_ would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The _nisse_ had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
+She ladled the syrup into their clay-bottles, and corked them.
+
+The next day, Ealhild reviewed the night's work. The coal lines and leveling sticks seemed to show that the grain had not been touched. But, she noted also the oil had traveled to another part of the bin. The outline of a small finger on the side of the bin betrayed its origin.
+
+"Oh my sweet spirit. Only you are smart enough to counter the coal lines and leveling sticks, because you know how to erase, how to replace. But you can't fool the oil." She ran to check on the horse and livestock, and found extra grain in the horse's feed. She also saw that the horse's mane had been neatly braided, and that her horseshoes were freshly picked and clean.
+
+Smiling, Ealhild finally knew her thief, and she was relieved. It was a _tomte_, or what most folk in the Danelaw called a _nisse_.
+
+A _nisse_ was a spirit who came forth from the barrows, and guarded the land and the hearth. To them, the land, the livestock, the farm, were their property and theirs to defend against outsiders. The family was under their protection. They were nervous things generally, and this _nisse_ was sensing a terrible winter was coming.
+
+A _nisse_ would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The _nisse_ had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
 
 She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin. "We need extra tonight... and I know just what to make," she thought to herself, as she steeled herself inside.
 
@@ -149,13 +167,17 @@ She prepared a full meal fit for the first *true* winter night: mutton on the bo
 
 The children were sent to bed, stomachs filled and laughter spent. The wind was truly howling now, like the Wild Hunt was at their doorstep. But they had seen winter before, and these wolves lost most of their bite under the children's blankets.
 
-Ealhild now set about soothing the _nisse_. Osric begged for her to come to bed, but she was adamant. "The spirit visiting the larder needs his first-winter meal too. Rye bread, and an eye of porkbelly. Please fetch me the family bowl. We must teach this spirit to work with us and trust us. It's unfamiliar to these lands, as I once was, and must understand that we can provide for all on our land." Osric dutifully obeyed, but his wife's offering seemed... different... from what *his* mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth preventing the mischief that would otherwise follow."
+Ealhild now set about soothing the _nisse_. Osric begged for her to come to bed, but she was adamant. "The spirit visiting the larder needs his first-winter meal too. Rye bread, and an eye of porkbelly. Please fetch me the family bowl. We must teach this spirit to work with us and trust us. It's unfamiliar to these lands, as I once was, and must understand that we can provide for all on our land."
+
+Osric dutifully obeyed, but his wife's offering seemed... different... from what *his* mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth preventing the mischief that would otherwise follow."
 
 Ealhild took the offering and set it on the transition stone. She retreated in quiet, and they both went to bed. Ealhild drifted fast asleep.
 
-Osric stayed up, worried about what he had just seen. He had never had reason to question Ealhild's choices before, which made this confusion all the more agonizing. He thought: "This '_nisse_', it must be like one of our _larder-elves_, _room-gods_. These are Anglian lands, and the spirits of the soil hold the gate here. This foreign creature must bend to the custom of the valley, surely? But what if she's right? If her offering is true, then the spirit should be appeased. But... what if the spirit is a _larder-elf_? This offering would just encourage it. It wouldn't suffer the honey-sleep, it would want more of what it was just given!" With that realization, he grabbed and lit a candle, and found the syrup freshly made on the table.
+Osric stayed up, worried about what he had just seen. He had never had reason to question Ealhild's choices before, which made this confusion all the more agonizing. He thought: "This '_nisse_', it must be like one of our _larder-elves_, _room-gods_. These are Anglian lands, and the spirits of the soil hold the gate here. This foreign creature must bend to the custom of the valley, surely? But what if she's right? If her offering is true, then the spirit should be appeased. But... what if the spirit is a _larder-elf_? This offering would just encourage it. It wouldn't suffer the honey-sleep, it would want more of what it was just given!" 
 
-Osric retrieved the bowl from the transition and brought it inside. He was relieved that the bowl was still full. He didn't want to take a chance scaring away the spirit, so he worked quickly and quietly. He uncorked the bottle, and it yielded a subtle pop. "That's strange, it smells of roasted nuts. Perhaps Ealhild added a few from a local tree. No matter." He poured a drizzle on the glistening pork fat, and recorked the bottle, completely content that he had fixed the offering. He replaced it, as before, on the threshold, and went to bed. "If she's right, the _nisse_ will ignore the syrup and accept the offering. If it's a _larder-elf_, it will suffer the honey-sleep, and we won't see him again for at least 2 moons," he whispered to himself as he fell asleep.
+With that realization, he grabbed and lit a candle, and found the syrup freshly made on the table.
+
+Osric retrieved the bowl from the threshold and brought it inside. He was relieved that the bowl was still full. He didn't want to take a chance scaring away the spirit, so he worked quickly and quietly. He uncorked the bottle, and it yielded a subtle pop. "That's strange, it smells of roasted nuts. Perhaps Ealhild added a few from a local tree. No matter." He poured a drizzle on the glistening pork fat, and recorked the bottle, completely content that he had fixed the offering. He replaced it, as before, on the threshold, and went to bed. "If she's right, the _nisse_ will ignore the syrup and accept the offering. If it's a _larder-elf_, it will suffer the honey-sleep, and we won't see him again for at least 2 moons," he whispered to himself as he fell asleep.
 
 Deep into the night, there was a sound. It wasn't the sound of a spirit at the door. It wasn't the sound of the winter roar, which had since died to a slow whistle. It was the *other* sound of winter.
 
@@ -165,7 +187,7 @@ A single cough broke through the high-pitched whine from outside. It was a short
 
 Ealhild was awake instantly, her protective instinct overriding her own deep exhaustion. She slipped out from beneath the warm wool and furs, covered her feet with slippers, and quietly made her way to the hearth.
 
-The fire had dropped to a low, smoldering orange. It was hot enough to stoke back to warm the griddle. Ealhild grabbed a few more small branches from the pile, and nudged the fire hotter.
+The fire had dropped to a low, smoldering orange. She noticed the embers had dropped lower, but the ash covered the failure of the stone. She merely added more wood. It was not long before it was hot enough to warm the griddle.
 
 Luckily, she had left over oats there next to the hearth. She didn't need to visit the eorth-hord, and she set to work making her famous honey-oatcakes with syrup. Every moment mattered, and she didn't spot Osric's tampering in the candlelight.
 
