@@ -164,27 +164,56 @@ Cynewulf made for the Church front door. He was hoping there might be a few arme
 
 Osric made for the right side of the bathhouse, and Elswyth split to the left. Each decided that the ruins might provide cover.
 
-Osric heard... A child's giggle. High and playful, it called from a sparse hedge to his left. "Quickly! Here!" He followed the voice before he knew he had. The hedge was covering a hole four feet in diameter. A pair of hands shoved him from behind, and he fell into the hole. Osric slid face-first down a chute, landing in a pile of charcoal. He looked up to find a large forge built into the bathhouse central hypocaust. The furnace, in that moment, roared to life with fresh coal loaded into its throat. The blaze cast a heavy, flickering orange light. The new light illuminated the outline of an anvil.
+Osric heard... A child's giggle. High and playful, it called from a sparse hedge to his left. "Quickly! Here!" He followed the voice before he knew he had.
 
-In front of the anvil stood a medium wooden chest, its lid graced by an iron emblem of an oak tree sprouting from a broken anvil with hammers crossed.
+The hedge concealed a hole four feet across. Beside it lay a movable facing of salvaged brick.
 
-Leaning against the chest rested a broad round shield. Its boss was crowned by a rounded dome, with stout ribs radiating toward the rim. The thick wooden boards had been richly waxed, while the iron rim was hollowed and wrought into the likeness of the willows of the hedge. On the boards was the painting of a small oak tree sprouting from a broken anvil, with hammers crossed at the anvil's feet.
+A pair of hands shoved him from behind, and he fell into the hole. Osric slid face-first down a smooth chute, landing in a pile of charcoal. He looked up to see nothing, only darkness.
 
-On the anvil lay a weathered black scabbard holding a heavy farmer's long-handled broadseax, its handle blackened and inlaid with a seam of glassy jet. It was _Barrow's Edge, the Hedge-Stalker_.
+The forge, in that moment, roared to life with fresh charcoal loaded into its throat. The blaze cast a heavy, flickering orange light.
+
+He climbed off the giant mound of charcoal and his feet found a dirt floor.
+
+The light filled a large cavern built below the bathhouse, a grand forge dominating its center. The outline of an anvil stood immediately before it.
+
+In front of the anvil lay a medium wooden chest, its lid graced by an iron emblem of an oak tree sprouting from a broken anvil with hammers crossed.
+
+Leaning against the chest rested a broad round shield. Its boss rose in a rounded dome, with stout ribs radiating toward the rim. The thick wooden boards had been richly waxed, while the iron edging had been wrought into the likeness of interwoven willow branches. Painted across the face was the same emblem that marked the chest.
+
+On the anvil lay a weathered black scabbard holding a heavy, long-handled farmer’s broadseax. He knew the shape before he knew the weapon. It was his father’s warseax remade larger, heavier, half as practical, and twice as intimidating. Its grip was blackened oak, inlaid with a seam of glassy jet. It was Barrow’s Edge, the Hedge-Stalker.
 
 Elswyth knew she was no warrior. She didn't even bother with her small mushroom handseax, and the felling axe had been left on the wagon. She sprinted toward the former entrance to the bathhouse, now just an arched ruin.
 
-As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path took her to the Roman cistern and bath-house. A giggling child voice called to her, "Down! Here!". She stopped in bewilderment, if but for a brief second. The voice was coming from a rain gutter, wide enough for a person, that disappeared into the ruin below. She peered inside, looking for a place to hide.
+As she ran, she could also hear heavy footfalls behind her, chasing. Her mind thought fast. Her path took her to the side of the bathhouse. A giggling child voice called to her, "Up! Here!". She stopped in bewilderment, if but for a brief second. The voice was coming from a makeshift stepway, a path of broken stone made by brick-claimers that had been slowly dismantling the wall. She reached an arch that overlooked the darkness of the bathhouse interior. She peered inside, looking for a place to hide.
 
-Suddenly a pair of hands pushed her in the back. Her hands found the slime of the algae, and she slid helplessly down a smooth, stone chute until she landed with a heavy splash in the ancient moonlit pool, the cold of the water a poorly-held secret that screamed at her body. It was a vast, underground chamber filled with rainwater up to her hips. It was the _frigidarium_, the cold refreshing pool of the otherwise hot Roman bathhouse. Beyond the pool, steps rose to meet the broken tile and benches of the pool's gathering area.
+Suddenly a pair of hands pushed her in the back.
+
+She fell.
+
+A moment later, she landed in a Roman plunge pool. It was filled with the rainwater of countless years from where the roof had funneled rainwater into a crevice.
 
 She waded through the near-freezing water, each splash stealing air from her lungs. 
+The cold of the water was a cruelty that screamed at her body. She had no time to notice.
+
+It was almost too dark to see. Moonlight from the archway barely caught the ouline of an arch and a bench. She climbed out of the plunge pool, and suddenly a ray of moonlight caught the bench. On the bench was a chest. It had the same emblem.
+
+On top of the chest lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle of Fussleton's knife beckoned her to draw the blade.
+
+She stared at the handle. How many times he must have drawn that handle to deal death to his victims.
+
+It was somehow married to her prize silver marten fur.
+
+The same offering.
+
+Within the sheath slept _Monanleoht, the Battle-Dancer_.
+
+She took the blade just as she heard calling from the archway above. The wolf-men found the hole through which she was pushed. They had heard the splash, and the wading through the pool. They heard her breath. They prepared themselves to jump, one at a time. They prepared to collect her.
+
+She stumbled through the archway. She found the _frigidarium_, the room just beyond the entrance-way that was the Jewry Wall. She could hear the wolves chasing Osric, so she dared not run out into the open. She backed in the the open hall, facing the archway to the plunge pool.
 
 The ceiling was collapsed in parts, and the night sky was visible. The floor of the bathhouse was cracked marble tile, built on moist clay.
 
-Before her was a bench of white marble. A ray of moonlight pierced a crack in the ceiling, illuminated an offering. On the bench was a long narrow coffer of wood, its top had an iron symbol: an oak tree sprouting from an anvil, hammers crossed.  On top of the coffer lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle beckoned her to draw the blade. Within slept _Monanleoht, the Battle-Dancer_.
-
-She heard the footsteps of Vikings around the rainwater chute above, and they could see her track ended there. They were determined to follow her into the dark.
+She waited to run. But she kept looking at the blade in her hand.
 
 Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Rognvaldr caught Cynewulf's silhouette crossing the Middleflat. His grin widened. He quickened his pace.
 

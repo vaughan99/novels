@@ -76,7 +76,7 @@ Edmund looked back toward his army. Most of the spears before him belonged over 
 
 "Too many men have died. We have no more time, Oda. Planting will soon be upon us, and with that the _fyrds_ go home."
 
-Oda's gaze turned upon a wall of willows to the west of the road. Beyond the willows was Under-Geat.
+Oda's gaze turned upon a wall of basket-willows to the west of the road. Beyond the them was Under-Geat.
 
 "Then swear to me: the villagers will be unharmed. And you must not raise a hand against anyone who does not raise one first."
 
@@ -102,7 +102,7 @@ Edmund scanned from Under-Geat to the East Wall.
 
 His commanders rode up on their horses.
 
-"Tell your baggage masters I want all supply wagons outside of Under-Geat. Clear the willows and brush to make room. _And make a show of it_. Then gather the ladders and all horses. Pick your finest riders. When I give the signal, tell them to ride hard for the East Gate and scale that wall. They'll have moments to open that gate."
+"Tell your baggage masters I want all supply wagons outside of Under-Geat. Clear the basket-willows and brush to make room. _And make a show of it_. Then gather the ladders and all horses. Pick your finest riders. When I give the signal, tell them to ride hard for the East Gate and scale that wall. They'll have moments to open that gate."
 
 He looked each captain in the eye.
 
@@ -122,7 +122,7 @@ He smiled.
 
 He then summoned one captain to step forward. The captain was Galindo, a Spaniard who served as reeve of a remote Tyne River fyrd. He had spent most of his life counting wagons, settling disputes, and calling men to the fyrd—not leading assaults upon stone walls.
 
-"Galindo, when we commit to the East Gate, stay behind hidden in the willows. When Olaf answers the East Gate, see what he leaves behind. If the Shadow Gate be lightly held by pagan souls, take it. The villagers will be cleared, so use what force you must. Keep that gate open and signal me when you have it."
+"Galindo, when we commit to the East Gate, stay behind hidden in the basket-willows. When Olaf answers the East Gate, see what he leaves behind. If the Shadow Gate be lightly held by pagan souls, take it. The villagers will be cleared, so use what force you must. Keep that gate open and signal me when you have it."
 
 He grabbed the captain by his tunic.
 

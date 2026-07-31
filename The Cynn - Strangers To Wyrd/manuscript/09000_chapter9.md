@@ -1,6 +1,6 @@
 # Chapter Nine: Monanleoht, The Battle-Dancer
 
-Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt re-assured that the blade was hers.
+Elswyth recognized the silver fur of the prized marten peeking at her from inside the scabbard's throat. She felt reassured that the blade was hers.
 
 And yet, she also recognized the handle. The one the _giggling children_ stole. The one from the redcap's blade.
 
@@ -18,9 +18,11 @@ There was a whisper in her ear. It was the soft, familiar voice of Fussleton, _b
 
 Elswyth resisted. It _must_ be a trick. If she spoke the words and it was a trick, she might die.
 
-The first of the wolf-men slid down the chute and landed in the pool. He saw her and immediately called to the others.
+The first of the wolf-men jumped and landed in the pool. He saw her and immediately called to the others.
 
-_BUT, if she didn't fight the Ulfhednar, she'd die anyway._
+_She could run, but then Osric's wolf-men would find her._
+
+_And if she stayed and didn't fight the Ulfhednar, she'd die anyway._
 
 Elswyth closed her eyes.
 
@@ -88,13 +90,13 @@ The redcap resumed his commanding, authoritative tone.
 
 "Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
-Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had slid down the aqueduct, but it served as a choke-point, and slowing them enough to allow them to approach only one at a time.
+Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had jumped into the plung e pool, but the archway served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
 A strange warmth flooded her limbs. Not the warmth of a hearth or summer sun, but something sly and invasive, creeping through her blood like roots beneath soil.
 
 The world lost its proper proportions.
 
-The Viking remained a man, yet his spearhead swelled until it seemed as large as a plowshare. The iron point dominated her sight while the rest of him shrank around it, becoming little more than hands carrying a threat. Then the point diminished and his shield grew broad as a gate. Then that too faded. Her eyes could no longer agree with one another on what mattered.
+The first Viking remained a man, yet his spearhead swelled until it seemed as large as a plowshare. The iron point dominated her sight while the rest of him shrank around it, becoming little more than hands carrying a threat. Then the point diminished and his shield grew broad as a gate. Then that too faded. Her eyes could no longer agree with one another on what mattered.
 
 Stranger still, the world seemed unwilling to move until she had finished looking at it. Every heartbeat stretched long enough to inspect. Long enough to choose. Long enough to wonder.
 
@@ -366,7 +368,7 @@ Draw the hog onto the break,
 Broken tile his gait forsake,
 ```
 
-Elswyth was shaking, and Wulfhere grew ever more confident. She retreated slowly, and Wulfhere followed, never taking his eyes off hers. "Where are you going? There's nowhere to run," he mocked.
+Elswyth was shaking, and Wulfhere grew ever more confident. She retreated slowly murmuring the words, and Wulfhere followed, never taking his eyes off hers. "Where are you going? There's nowhere to run," he mocked.
 
 ```
 Great Dane axe of mountain oak,
@@ -392,7 +394,7 @@ Take the coalgirl's blade and see,
 Blood to earth, and none for thee.
 ```
 
-Wulfhere dropped his axe and gripped Elswyth's shirt with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her linen as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
+Wulfhere dropped his axe and gripped Elswyth's apron with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her apron as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
 
 "Well, Meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
 

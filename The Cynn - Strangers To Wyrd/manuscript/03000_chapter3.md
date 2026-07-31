@@ -36,7 +36,7 @@ Two men followed with an open, iron-bound chest faced in pieces of Roman tile. W
 
 Last came the senior priests of Leicester’s two churches, robed for Easter Mass. Young attendants followed close behind, gathering the lower folds of their vestments above the mud.
 
-Before the altar, woven mats of willow reed had been spread over the churned ground. The attendants guided the priests onto them, lowered the gathered cloth, and stepped aside.
+Before the altar, woven mats of basket-willow reeds had been spread over the churned ground. The attendants guided the priests onto them, lowered the gathered cloth, and stepped aside.
 
 Elswyth made her way to the edge of the South Pastures for a better view. From the higher ground, she searched the gathering for Long-Mile and Shadow-Wife. They were the only two she cared enough about to embrace before leaving. She could find neither. With so many dead still unburied, she supposed they had more pressing work elsewhere.
 

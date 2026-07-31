@@ -1,16 +1,16 @@
 # Chapter Eight: Barrow's Edge, The Hedge-Stalker
 
-The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps. The forge was not dead; it held the glow of slowly burning charcoal, hot enough to warm the space. The glow bathed the room in a heavy, flickering orange light, casting long, monstrous shadows behind the columns.
+The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps.
 
-His fingers, cracked and raw from digging axles from mud, clutched nothing. The char-stick and training shield were long gone. Outside, three veteran _Ulfhednar_ gathered around the chute opening, their whispers echoing into the forge chamber. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.
+The forge had roared to life when he entered. Fresh charcoal burned fiercely in its throat, flooding the cavern with a heavy, flickering orange light. The anvil, workbenches, supporting piers, and vaulted brickwork stood in stark relief, while monstrous shadows writhed across the walls and ceiling.
+
+His fingers, cracked and raw from digging axles from mud, clutched nothing. The char-stick and training shield were long gone.
+
+Outside, three veteran _Ulfhednar_ gathered around the chute opening, their whispers echoing into the forge chamber. They didn't shout or howl. They moved with the cold, silent efficiency of wolves who had already cornered the deer.
 
 Each landed on the charcoal pile. Each stood to face Osric.
 
-Their hand-axes glinted with a dull, murderous light. Osric’s heart hammered against his hollowed ribs. He was starving, shivering from the lingering rot of the goblin-sickness, and the exhaustion of wrestling axles from the mud. He wanted to lie down in the dirt. He wanted the cold night to finally take him so he could join Ealhild and the children in the soft snow.
-
-Then, the forge erupted in a yellow angry heat. The new light illuminated the outline of an anvil, atop it a simple hearth broadseax in a stout iron-bound scabbard with no adornment. As plain as it appeared, this was no mere kitchen-blade... this kind was familiar, two-handed, thick, useful. His father used one instead of the axe, for felling wood-limbs and performing the fall butchery.
-
-The broadseax called to him... not literally, but he *knew* it, as if it hung from his father's belt when he was just a child. His hand closed around the hilt of _Barrow's Edge_.
+The anvil lay before him, and the fearsome _Barrow's Edge_ blade beckoned.
 
 It felt *known*. *Welcomed*.
 
@@ -84,11 +84,11 @@ Her older brother, Beorn, was whittling a new button from a piece of soft wood. 
 
 Mathild, the next oldest, was cleaning pots. She looked in turn and smiled, without saying a word.
 
-Finally there was the eldest... Ingvarr, named after one of Ealhild's ancestors, sat in the corner sharpening a broad warseax. He was on his knees, the weight of the blade forcing Ingvarr to hold the blade with both hands. He methodically slid the edge on the large whetstone on the ground.
+Finally there was the eldest... Ingvarr, named after one of Ealhild's ancestors, sat in the corner sharpening a broad warseax. He was on his knees, the weight of the blade forcing Ingvarr to hold the blade with both hands. He methodically slid the edge on the large whetstone.
 
 Whhhiiiitt... Whhhiiiitt.
 
-He looked up from the blade and gave a small smile, then turned his attention back to the broadseax. He spit on the whetstone.
+He looked up from the blade and gave a small smile, then turned his attention back to the broadseax. He traced his fingernail along the edge. He spit on the whetstone.
 
 Whhhiiiitt... Whhhiiiitt.
 
@@ -134,11 +134,11 @@ Ingvarr arose from the corner, laying the whetstone on the sill.
 
 He ushered the children out the door while staring at Osric.
 
-A smile crept across is face. "I cut the weeds at the hedgerow. The children will tend the fence."
+A smile crept across is face. "I cut the weeds at the hedgerow. The children will stack the wood, pluck the twigs, and keep everything tidy."
 
 He turned to Ealhild. "Isn't that right _mother_?"
 
-Ealhild kissed him on the forehead. "Yes, of course. Go on. Let's not keep your father waiting."
+Ealhild kissed him on the forehead, moving a strand of his long brown hair over his ear. "Yes, of course. Go on. Let's not keep your father waiting."
 
 It was then Osric noticed... the warseax wasn't his father's.
 
@@ -214,7 +214,7 @@ She blew out the candle.
 
 Darkness.
 
-His world crashed onto the brick of the forge.
+His world crashed onto the dirt of the forge floor.
 
 His heart lurched, as though struck awake by a smith's hammer. Spring ice-melt coursed through his veins.
 
@@ -334,7 +334,7 @@ Huginn: "Now children... do _NOT_ try this at home."
 
 Muninn: "The _Shadow Fyrd_ are professionals."
 
-Huginn: "That's right. Seasoned housecleaning professionals."
+Huginn: "That's right. Seasoned yardwork professionals."
 
 Muninn: "But, _DO_ help your parents with chores."
 
@@ -342,7 +342,7 @@ Huginn: "Yes, still help them with _real_ yardwork. Not anything involving _bloo
 
 Muninn: "... or _viscera_ ..."
 
-Huginn: "... or _fire-building_ ..."
+Huginn: "... or _carnage_ ..."
 
 Muninn: "... or _stripping dead bodies_ ... "
 

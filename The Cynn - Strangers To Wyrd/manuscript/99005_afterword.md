@@ -244,7 +244,7 @@ I imagine that Weyland's Cynn would have two shared maker's marks.
 
 The first is a badge, an emblem. I chose a young oak sapling growing from a broken anvil, with crossed hammers beneath. This signifies life growing from vocation.
 
-![The Cynn's Badge](Cynn-Badge.png "The Cynn's Badge")
+![The Cynn's Badge](assets/images/Cynn-Badge.png "The Cynn's Badge")
 
 The second is a maker's mark. Closer than shown, but basically it should be a simple two runes below, at a diagonal. These represent Weyland's Cynn initials, with the Cynn being diminuitive (what is called a vassal mark), showing that the Cynn are reliant on the success of the name of Weyland.
 
