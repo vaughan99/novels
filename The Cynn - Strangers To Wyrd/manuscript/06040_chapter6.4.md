@@ -56,7 +56,7 @@ Muninn: "I rather remember them tasting like regret with a hint of foolish pride
 
 Huginn: "Foolish pride? What does that taste like? "
 
-Muninn: "Wine everyday for three years, oil-blackened mail, black leathers, a torn silk banner, and a memoir written in six languages."
+Muninn: "Wine every day  for three years, oil-blackened mail, black leathers, a torn silk banner, and a memoir written in six languages."
 
 Huginn: "Hmmm. I think I prefer chicken."
 
@@ -124,7 +124,7 @@ Cynewulf stood, his body aching, his soul hollowed out. He turned and walked out
 
 He found the baggage train in the dark on foot. He asked the drivers for news of the _Griffons_ wagons. He finally found a driver with news; two men arrived with an extra horse, saying that they were the last of the _Griffons_ and that they were heading back to Frankia. They bid the drivers move quickly, and they left. They took everything. All he had was his armor, a shield, and his langseax. He had no coin, no supplies, and now, no army or lord to hire him.
 
-He stared at the space where he was told the wagons had been waiting. It was just a few ruts, oxen hoofprints in the mud, and the smell of manure. Cynewulf's knew that there was no way to catch them. They were probably on their way to Hamwic to ferry back to Frankia, never to be seen again on these shores. He stood there staring at manure for what seemed like an eternity.
+He stared at the space where he was told the wagons had been waiting. It was just a few ruts, oxen hoofprints in the mud, and the smell of manure. Cynewulf knew that there was no way to catch them. They were probably on their way to Hamwic to ferry back to Frankia, never to be seen again on these shores. He stood there staring at manure for what seemed like an eternity.
 
 _Not all experience wounds the same way. Some feel honor-bound to speak out, and prevent others from receiving the same wound. Some cut and run, to prevent themselves from being wounded again. There is no honor among the wounded on the Road._
 

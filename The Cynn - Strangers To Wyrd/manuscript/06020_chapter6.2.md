@@ -178,7 +178,7 @@ The captain’s eyes narrowed, a flicker of genuine, predatory interest crossing
 
 Cynewulf gave his list. _Fer-Main_ left without saying a word.
 
-Cynewulf approached the armorer about his mail. He removed his mail coat and put it in a sand barrel for the day's march, the rhythm of the wagon forcing the sand into every link. Once the days march was done, it would be prepared for oil, and torching to bring out the black.
+Cynewulf approached the armorer about his mail. He removed his mail coat and put it in a sand barrel for the day's march, the rhythm of the wagon forcing the sand into every link. Once the day's march was done, it would be prepared for oil, and torching to bring out the black.
 
 Cynewulf, his joints aching, helped pack up the camp. When they left, Cynewulf found a space on the wagon next to the barrel with his mail. He ensured that it turned every so often to keep the wear on his mail even. He heard the hiss of the sand against the links, with every bump, every rut and every turn. His mail, like his spirit, was being scoured by the grit of the Road.
 

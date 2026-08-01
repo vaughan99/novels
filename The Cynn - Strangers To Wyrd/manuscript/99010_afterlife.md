@@ -867,7 +867,7 @@ Huginn handed the drumsticks, seven of them, to Plan B's other arms.
 
 Buh-Dum-Pshhhhhh!
 
-Hugin: "Perfect!"
+Huginn: "Perfect!"
 
 Muninn: "Uh, Plan B, what was your mission before you retired?"
 

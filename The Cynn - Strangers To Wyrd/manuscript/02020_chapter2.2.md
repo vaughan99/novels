@@ -14,7 +14,7 @@ It stopped, holding the roof's beams high in the air. Its arms were steady, its 
 
 The _nisse_ paused. It expected to hear screams. It expected to hear the pleas of desperate people, begging the _nisse_ for mercy. There was nothing. Only the sounds of broken timbers creaking in the wind.
 
-Next, the _nisse_ trudged through the snow, it's eyes set on the eorth-hord. With a stony hand, it reached down and grabbed one side of the roof. With a violent crunch, it ripped the roof clean off, and threw it. It threw grain chests, and supplies of all kinds out into the snow.
+Next, the _nisse_ trudged through the snow, its eyes set on the eorth-hord. With a stony hand, it reached down and grabbed one side of the roof. With a violent crunch, it ripped the roof clean off, and threw it. It threw grain chests, and supplies of all kinds out into the snow.
 
 Its anger sated, the barrow-wight's form shifted. Slowly, the miasma released from its pores into the ether as its fury subsided. The creature’s great, stone-like bulk had shriveled back into its small, withered frame. The miasmic fury that had filled its veins during the night was gone, leaving only a cold, hollow weight.
 
@@ -54,7 +54,7 @@ The sun was coming up. The blizzard was done, but the animals still needed to be
 
 The sun was fully up when the _nisse_ closed the byre door, collapsed, and crawled into a mound of straw, and fell fast asleep. 
 
-Osric woke up in a blind chill. His vision was blurry and his body ached from the stiff cold floor. In the night, he had rolled onto the ground somehow. The sour, bile-heavy scent of his own sickness clung to him. He rubbed his face and found snow crusted on his lashes and his beard. There was a sting of ice deep in his ear. He felt his arm had a thick cake of snow. He rubbed eyes and his sight cleared just enough to see a blanket of white on the remains of his roof, three feet away.
+Osric woke up in a blind chill. His vision was blurry and his body ached from the stiff cold floor. In the night, he had rolled onto the ground somehow. The sour, bile-heavy scent of his own sickness clung to him. He rubbed his face and found snow crusted on his lashes and his beard. There was a sting of ice deep in his ear. He felt his arm had a thick cake of snow. He rubbed his eyes and his sight cleared just enough to see a blanket of white on the remains of his roof, three feet away.
 
 When he tried to move, he instantly knew how weak he was. He looked down to see a dark, purple stain on his skin—the mark of a curse he did not know.
 
@@ -110,7 +110,7 @@ _It was warm! Impossibly warm._
 
 He put it to his lips, and his throat flourished like an opening blossom. The warmth entered his chest, and he could practically feel his blood turning from ice, if but for a moment. He sat back into his tiny cove of thatch, amazed that warmth could feel so good. And yet, everything around him was a ruin.
 
-His eyes returned to the crabapple. It was small, almost pathetic, as if it was begging him not to eat it. "Sorry, little one, " he whispered. He took a bite. The crisp, sour-sweet flesh hit his palate, a sharp jolt of life that cut through the numbness of his tongue. It was the taste of the south garden, the taste of Ealhild’s hands, the taste of a summer that had ended a lifetime ago.
+His eyes returned to the crabapple. It was small, almost pathetic, as if it was begging him not to eat it. "Sorry, little one," he whispered. He took a bite. The crisp, sour-sweet flesh hit his palate, a sharp jolt of life that cut through the numbness of his tongue. It was the taste of the south garden, the taste of Ealhild’s hands, the taste of a summer that had ended a lifetime ago.
 
 He pulled himself from his thatch cave. He was too weak to stand, or even to crawl. His arms were heavy. His legs unresponsive. But he could move, and that was enough for the moment.
 

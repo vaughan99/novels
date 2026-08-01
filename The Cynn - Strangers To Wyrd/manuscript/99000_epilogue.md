@@ -2,15 +2,15 @@
 
 Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The children's beaks aren't ready for tougher meat, Huginn! The way YOU tell it, every little person they meet will be a psycho murder-gnome!"
 
-Muninn reaches down with his beak and snatches the loose tailfeather from Huginn's tail. 
+Muninn reached down with his beak and snatches the loose tailfeather from Huginn's tail. 
 
 Huginn squawked and hopped sideways while peeking at his tail.
 
 Muninn: "That's ONE! One sin against the children's ears!"
 
-Muninn aggressively scratch the bench with the feather's quill.
+Muninn aggressively scratched the bench with the feather's quill.
 
-Huginn: "It has important moral lessons, brother! Look at the nisse. She and her hubby got to play out the clock on the Wild Hunt and live in Alfheimr forever. The murder-gnome? He self-reflected for eternity in a steel mirror, and learned a new culinary pastime. And the priest, the chaos sword forced him to become a better person EVERY TIME HE TOUCHED IT! Don't lecture me about morality!
+Huginn: "It has important moral lessons, brother! Look at the nisse. She and her hubby got to play out the clock on the Wild Hunt and live in Alfheimr forever. The murder-gnome? He self-reflected for eternity in a steel mirror, and learned a new culinary pastime. And the priest, the chaos sword forced him to become a better person EVERY TIME HE TOUCHED IT! Don't lecture me about morality!"
 
 Muninn continued, unabated.
 
@@ -28,11 +28,11 @@ Huginn twirled and landed in a pose, spreading one wing to the sky, and the othe
 
 Muninn pushed the edge of the quill hard into the wood, nearly breaking it.
 
-Muninn: And... AND... FIVE!!! a ghost-carnival off-the-rails raven train of primordial madness literally chewed the skin off a Viking giant, then CAME BACK FOR SECONDS! And what will you expect will happen when these children see a flock of birds on the horizon?!"
+Muninn: "And... AND... FIVE!!! a ghost-carnival off-the-rails raven train of primordial madness literally chewed the skin off a Viking giant, then CAME BACK FOR SECONDS! And what will you expect will happen when these children see a flock of birds on the horizon?!"
 
 Muninn manically surveyed the children.
 
-"SUDDENLY ITS ARMAGEDDON!!!"
+"SUDDENLY IT'S ARMAGEDDON!!!"
 
 Several of the children stared at Muninn for a brief second. They seemed genuinely surprised.
 
@@ -42,11 +42,11 @@ Huginn: "But it had a happy ending! They all... survived!"
 
 Muninn dropped the pen.
 
-Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf three-ring circus casually juggled: a bunch of undead warriors pretending to be children "harvesting eggs from a _male_ chicken", an abducted shroom-addled foul-poet teaching dancing classes and gourmet cooking techniques, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas, Huginn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Huginn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
+Muninn: "CAAAAAAAAH! They survived a slaughter-pen because a giggling forge-elf three-ring circus casually juggled: a bunch of undead warriors pretending to be children who unalived AND undressed some wolf-men, an abducted shroom-addled foul-poet teaching dancing classes and gourmet cooking techniques, and a soul-scouring aerosol of weapons-grade nuclear spite! You are entirely banned from choosing the sagas, Huginn. Your brain is full of ditch-meat. Five thousand, one hundred and twenty-three, Huginn. Five thousand, one hundred and twenty-three! That is the exact tally of your offenses against the timeline. Every modern turn of phrase, every misplaced scrap of iron, every lazy shortcut you took to make the story *interesting*... it is an anachronism. It is a lie. When I tell the story, I remain true to the dead. I remain true to the memory."
 
 Huginn: "Well, I'm sorry I took five thousand, one hundred and twenty-three bites from YOUR corpse-meal! The children like gravy on their meat, Muninn. You like your meals stone-cold, and dry."
 
-Muninn: "At least my meals feed the mind. Yours leaves worms crawling in your head."
+Muninn: "At least my meals feed the mind. Yours leave worms crawling in your head."
 
 Huginn: "Fine, fine. Next time we can tell the one about the nice farmer who grew turnips."
 
@@ -90,11 +90,16 @@ Odin looked at the boy, truly seeing him — a rare spark of the old world survi
 
 “But you are right. They stopped not because they had reached the end of the tale, but because they had reached the beginning of the epic. Find the ravens again, and perhaps they will tell you the rest.”
 
-The old man stood up, his joints making no sound. Behind his feet was an old tweed guitar case with runes covering it sitting under the bench. He picked it up in one hand, after transferring his cane to the other. He turned to leave as the ravens took flight above him with a heavy, rhythmic flap of wings.
+The old man stood up, his joints making no sound. An old tweed guitar case, covered in runes, sat beneath the bench behind his feet. He picked it up in one hand after transferring his cane to the other. He turned to leave as the ravens took flight above him with a heavy, rhythmic flap of wings.
 
 "Do not waste your brief light merely weeping over cold ashes, lad. Listen to the old tales for inspiration. Then see that the next one bears something of your making."
 
 The trio continued down the road. The sun had dipped near the horizon of the mortal world, and the children’s park was finally empty. Their day’s work was done.
+
+---
+
+
+## After Words... Comes AFTERLIFE
 
 "Well, we've got a gig at the fairground at 9," said Muninn.
 
@@ -149,3 +154,7 @@ Steve nodded, flicking up and down enthusiastically.
 Muninn: “I’m glad you and I aren’t writing a prequel... or a sequel.”
 
 Huginn: "So you're saying the Author isn't consulting you on the sequel?"
+
+Muninn: "Just keep flying. I'm hoping the Reader is following us to the Afterlife."
+
+Huginn: "I don't know. That Afterword is a maze."

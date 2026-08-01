@@ -98,7 +98,7 @@ And the capstone.
 
 It rode strapped to the horse's blanket, heavier than anything else she carried.
 
-She arrived at the cottage in five days, a reasonably fast trek. Osric's fyrdmen said their goodbyes while Ealhild eagerly took the barrow-stone for placement. She spotted the perfect place... the step down from the door down into the earth, the very threshold of the home. Osric had barely seen off his friends, when he turned to find Ealhild making offerings of the field she had brought with her. A bundle of barley. A sprig of three herbs. And, the boar's blood, held in a boiled-leather vial, coagulated and ready for mixing for paint. All were lovingly prepared under her mother's watch before she left.
+She arrived at the cottage in five days, a reasonably fast trek. Osric's fyrdmen said their goodbyes while Ealhild eagerly took the barrow-stone for placement. She spotted the perfect place... the step down from the door down into the earth, the very threshold of the home. Osric had barely seen off his friends when he turned to find Ealhild making offerings of the field she had brought with her. A bundle of barley. A sprig of three herbs. And, the boar's blood, held in a boiled-leather vial, coagulated and ready for mixing for paint. All were lovingly prepared under her mother's watch before she left.
 
 She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone: 
 

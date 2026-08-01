@@ -76,7 +76,7 @@ Edmund looked back toward his army. Most of the spears before him belonged over 
 
 "Too many men have died. We have no more time, Oda. Planting will soon be upon us, and with that the _fyrds_ go home."
 
-Oda's gaze turned upon a wall of basket-willows to the west of the road. Beyond the them was Under-Geat.
+Oda's gaze turned upon a wall of basket-willows to the west of the road. Beyond them was Under-Geat.
 
 "Then swear to me: the villagers will be unharmed. And you must not raise a hand against anyone who does not raise one first."
 

@@ -66,7 +66,7 @@ He had his destrier. His mail was old but well oiled and quite functional. He ow
 
 The Northumbrian border was a wall of grey mist and jagged, skeletal trees. As they crossed the threshold, the air grew colder, smelling of wet peat and the metallic tang of coming rain. There were eyes peering from the hedges, frightened by the trampling hooves. None dared to stand in the way.
 
-Cynewulf rode in the second rank, his eyes scanning from the tree's line to the lead horse. If there was just a hitch or turn, he'd have to instantly respond.
+Cynewulf rode in the second rank, his eyes scanning from the tree line to the lead horse. If there was just a hitch or turn, he'd have to instantly respond.
 
 "They’re watching us," Cynewulf murmured, his voice low enough that only the man beside him could hear.
 
@@ -78,7 +78,7 @@ Suddenly the lead horse _did_ hitch. The company ground to a sudden halt, the ho
 
 _Fer-Main_ turned to the company, "Trap ahead. Strike the banner! Double-wide formation at the trot." He pointed to Cynewulf and three others: "You, form at the rear. You're the bow hunters. Don't fail us. If they have bows, on my mark, sweep behind the fence. That's where they'll hide. And for Christ's sake, keep your shield high. _No mistakes!_"
 
-The company trotted in formation, as if they didn't suspect anything. Cynewulf formed at the rear with the other three, as they looked at each other in wild expectation. At any moment, they would be asked to ride hard, slipping behind a fence, jumping ditches, dodging trees, and riding for the kill.
+The company trotted in formation, as if they suspected nothing. Cynewulf formed at the rear with the other three, as they looked at each other in wild expectation. At any moment, they would be asked to ride hard, slipping behind a fence, jumping ditches, dodging trees, and riding for the kill.
 
 He was taught that with archers, every moment matters. A second of hesitation meant a shaft in the horse’s neck or your own.
 
@@ -210,7 +210,7 @@ The guard’s smile vanished, replaced by a shriek of agony that tore through th
 
 "Kill them!" the Gael screamed, clutching at the spear shaft.
 
-From behind the gate, Cynewulf heard them. A hundred souls of screaming Alt Clut hate rushed forth from the ruins to meet the hoofbeats. _Fer-Main_'s gambit had pinned his cavalry against the wall. It was every cavalry's nightmare.
+From behind the gate, Cynewulf heard them. A hundred souls of screaming Alt Clut hate rushed forth from the ruins to meet the hoofbeats. _Fer-Main_'s gambit had pinned his cavalry against the wall. It was every cavalryman's nightmare.
 
 The nine other guards at the gate formed a rank of shields, and advanced on Cynewulf and his three riders. A line of guards, five in total, formed on the wall with bows. Cynewulf raised his shield just as two arrows poked through where his face would've been. Cynewulf turned on his horse on heel, and attempted to ride beyond a bow's reach.
 
@@ -242,7 +242,7 @@ He didn't know if they were escaping or just running toward a different kind of 
 
 Cynewulf kicked his horse into a gallop once more, his shield pressed tight against his side to protect the jagged, screaming pain of his broken rib. He was no longer a way-finder. He was no longer a deacon. He was just a man fleeing the wreckage of the best company he would ever know, leaving the _Griffons Noirs_ to be buried in the shadow of the Wall.
 
-The five riders that were left slammed into the gate-line again, head-on against their spears. They carried their momentum, but two riders took spear wounds, and one horse died with a spear to the throat. Four men and their horses survived the charge, including Cynewulf.
+The five riders who were left slammed into the gate-line again, head-on against their spears. They carried their momentum, but two riders took spear wounds, and one horse died with a spear to the throat. Four men and their horses survived the charge, including Cynewulf.
 
 He thundered toward the sergeant. Cynewulf saw him still pinned to the timber barrier by the spear he had thrown earlier. The Gael’s eyes widened as he saw the _Griffon_ bearing down on him.
 
