@@ -184,7 +184,7 @@ Cynewulf nodded, his heart hammering against his ribs—not with fear, but with 
 
 As they approached, the ten guards behind the barricade stood up. They didn't look like a ragtag band of brigands; they looked like men who had been expecting company. They held their spears with a practiced, heavy grip, and their eyes didn't flicker toward the tree-line. They watched only the four riders.
 
-"Hail!" Cynewulf started, holding up his hand while looking square into the eyes of the guard in charge. "What's the meaning of this? Dere street is open to travelers, is it not?"
+"Hail!" Cynewulf started, holding up his hand while looking square into the eyes of the guard in charge. "What's the meaning of this? Dere Street is open to travelers, is it not?"
 
 The guard was a man of the Alt Clut, his face painted with woad-streaks that made his eyes look like burning coals. He didn't look like a bandit; he looked like a barbarian of a kingdom that had been pushed to the edge of the world. He leaned against the timber barricade, his hand resting on the hilt of a long, leaf-shaped sword. It was a weapon of the old world.
 

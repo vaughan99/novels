@@ -2,7 +2,7 @@
 
 Muninn: "I agreed to this story, based on the way it was written. It has morals. It has intrigue. It sticks to the memory. But you? YOU RUINED IT! The children's beaks aren't ready for tougher meat, Huginn! The way YOU tell it, every little person they meet will be a psycho murder-gnome!"
 
-Muninn reached down with his beak and snatches the loose tailfeather from Huginn's tail. 
+Muninn reached down with his beak and snatched the loose tailfeather from Huginn's tail. 
 
 Huginn squawked and hopped sideways while peeking at his tail.
 

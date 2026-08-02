@@ -16,11 +16,21 @@ They stopped in the lee of a collapsed stone sheepfold, a place where the wind d
 
 The two other wounded men were barely conscious. Their faces were the color of wet parchment, their breathing shallow and ragged. Cynewulf knelt beside them, his own ribs screaming with every breath, but he felt no urge to offer comfort. Comfort was for the living, and they were all just waiting for the dark.
 
-The other two survivors started the slow methodical process of stripping gear from their fallen comrade. Cynewulf realized that this wasn't even greed anymore; it was a therapy designed to keep the hands moving when you're dead inside.
+The other two survivors began the slow, methodical work of stripping the gear from their fallen comrade. Cynewulf realized that it was not even greed anymore. It was a kind of therapy... something to keep the hands moving when a man was dead inside.
 
-One of the riders handed Cynewulf the man's Frankish langseax, a continental long war knife turned military sidearm. It was well cared-for, and well-appointed. "You lost your axe in the fight. You'll need this."
+One of the riders searched the dead man’s horse and found a bundle tied behind the saddle. Cynewulf took it and unrolled the weathered cloth.
 
-"We should leave them," Cynewulf said, taking the langseax and running his belt through the scabbard loops. His voice sounded foreign to his own ears—flat, hollow, and devoid of the care he once had.
+Inside were the small possessions the man had carried for himself. A bone whistle. Two bronze pendants. A spare shirt and woolen wrappings.
+
+Beneath them lay a langseax in a worn scabbard, its fittings dulled by age.
+
+Cynewulf lifted it from the bundle.
+
+“I lost my axe in the fight. I’ll need this.”
+
+The others did not react.
+
+“We should leave them,” Cynewulf said, running his belt through the scabbard loops. His voice sounded foreign to his own ears... flat, hollow, and devoid of the care he once had.
 
 "They’re brothers, Cynewulf."
 
