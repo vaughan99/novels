@@ -460,8 +460,20 @@ Osric's clothes were a beggar's hoard. He wore three tunics at once: a stiff, gr
 
 Osric once held an honored position in the fyrd, a tall, proud warrior-farmer with the strongest back, who anchored the shield wall. But now, he dug latrines and wagons out of mud. When the news came, it didn't matter at the time. His attention was held by the carriage wheel that had detached, its axle flat in the muck. He didn't have time for parchment-deals, not when the baggage-master had a whip in the hand.
 
+Among the army of Olaf were Northumbrian levies, farmers like Osric from neighboring towns but paying homage to York instead of the Saxons. He had hoped not to meet them in battle, as his wife's kinsmen were from the _Piceringas_ near York, and he had traded with others on Olaf's side.
+
 In the battle, his survival was not decided by skill. As well trained as he was, his tools of war were limited to a burnt-tip wooden pole... barely a wood-rake that had fallen into the campfire, and a broken training shield of thinnest wood. But now, his work was not a soldier's work, but that of a thrall.
 
-Among the army of Olaf were Northumbrian levies, farmers like Osric from neighboring towns but paying homage to York instead of the Saxons. He had hoped not to meet them in battle, as his wife's kinsmen were from the _Piceringas_ near York, and he had traded with others on Olaf's side. 
+A hated thrall.
+
+He planted his hand in the mud to brace himself. He looked up from the ground to judge the damage the axle had suffered. A boot stepped on his hand. 
+
+He grimaced as the boot twisted, intentionally. The skin on his knuckles began to tear as he closed his eyes and endured the pain.
+
+"See that the axle is fixed, or perhaps you won't live to see your witan," a voice whispered in his ear.
+
+The boot lifted. Footsteps splashed away through the mud. He was not sure which of the men had made the threat, but it didn't matter.
+
+Most had already judged him.
 
 Osric's thoughts drifted from the broken axle. He looked into the puddle beneath him, and he saw what he had become. It was a long road from where he started.
