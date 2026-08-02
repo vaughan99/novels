@@ -110,7 +110,7 @@ Madoc whispered to Cynewulf, "Yes, her charm and wit are even _more_ excellent."
 
 "Good, because I meant it that time!"
 
-_Shields protect individuals, but shield walls protect communities. Those behind the wall may not agree. They may not even like each other sometimes. But they all agree that they are better off protected together than vulnerable apart.
+_Shields protect individuals, but shield walls protect communities. Those behind the wall may not agree. They may not even like each other sometimes. But they all agree that they are better off protected together than vulnerable apart._
 
 _So sayeth the Shield._
 
