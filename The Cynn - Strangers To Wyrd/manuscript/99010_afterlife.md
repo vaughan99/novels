@@ -815,7 +815,7 @@ The producer's headset crackled to life. Whoever was on the other end was clearl
 
 The Skeleton Crew was a band made entirely of skeletons, as the name rather plainly implied. The rehearsal room had already been set for a run-through. Guitars rested on stands. A bass leaned against an amplifier. The drum stool sat empty.
 
-Huginn: "Hi, guys! Thanks for filling in on such short notice. Do you play rock? Blues? Polka?"
+Huginn waved. "Hi, guys! Thanks for filling in on such short notice. Do you play rock? Blues? Polka?"
 
 The skeletons looked at one another.
 
