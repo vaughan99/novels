@@ -4,9 +4,13 @@
 
 I have been fascinated by magical weapons for most of my life.
 
-Like many children who grew up playing fantasy roleplaying games, I spent countless hours imagining named swords, cursed axes, enchanted rings, and ancient treasures. Yet over time, I found myself becoming less interested in what these objects could do and more interested in what they meant. Many fantasy weapons are little more than special effects attached to steel. They glow, burst into flame, or grant supernatural powers. Useful, perhaps, but rarely mysterious. The older I became, the more I found myself asking a different question: what would a truly mythic weapon feel like? Or even, what would a +1 dagger feel like, really? Many game systems so thoroughly imbue magic into everything that the magic system loses its meaning a bit.
+Like many children who grew up playing fantasy roleplaying games, I spent countless hours imagining named swords, cursed axes, enchanted rings, and ancient treasures. Yet over time, I found myself becoming less interested in what these objects could do and more interested in what they meant. Many fantasy weapons are little more than special effects attached to steel. They glow, burst into flame, or grant supernatural powers. Useful, perhaps, but rarely mysterious.
 
-A magic weapon would not simply change a battle. It should change the person carrying it. More importantly, it should change how that person is perceived by the world around them. A named blade carries stories. It carries expectations. It carries reputation. The owner may begin to see themselves differently, but so does everyone else. Friends may become fearful perhaps, or followers. Strangers may become wary. Enemies may become obsessed. A weapon associated with a saint, a king, a god, or a curse does not merely alter what happens when the fighting begins. It alters conversations before the fighting starts. It changes status, obligations, opportunities, and relationships. It becomes part of a person's identity.
+The older I became, the more I found myself asking a different question: what would a truly mythic weapon feel like? Or even, what would a +1 dagger feel like, really? Many game systems so thoroughly imbue magic into everything that the magic system loses its meaning a bit.
+
+A magic weapon would not simply change a battle. It should change the person carrying it. More importantly, it should change how that person is perceived by the world around them. A named blade carries stories. It carries expectations. It carries reputation.
+
+The owner may begin to see themselves differently, but so does everyone else. Friends may become fearful perhaps, or followers. Strangers may become wary. Enemies may become obsessed. A weapon associated with a saint, a king, a god, or a curse does not merely alter what happens when the fighting begins. It alters conversations before the fighting starts. It changes status, obligations, opportunities, and relationships. It becomes part of a person's identity.
 
 That, to me, feels much closer to the way magical objects appear in mythology and folklore. Their power is not merely physical. Their power is social, spiritual, and psychological. They reshape the world around their owners long before they ever reshape a battlefield.
 
@@ -14,7 +18,7 @@ The obvious one was _Excalibur_. Reading about King Arthur's entry in a fantasy 
 
 Another story that forced me to think about this was Michael Moorcock's _Stormbringer_. The sword fascinated me not because it was powerful, but because it came with such a terrible cost. It was sentient. It altered the life of its owner, reshaped his choices, and eventually became impossible to separate from his identity.
 
-It was one of the first magical weapons I encountered that felt less like equipment and more like a character in its own right—something its owner had to reckon with rather than simply wield. Looking back, I suspect that realization stayed with me.
+It was one of the first magical weapons I encountered that felt less like equipment and more like a character in its own right... something its owner had to reckon with rather than simply wield. Looking back, I suspect that realization stayed with me.
 
 The most interesting magical objects were never the ones that guaranteed victory. They were the ones that made me question whether using them was a good idea in the first place.
 
@@ -24,9 +28,11 @@ Many years later, I learned how to forge knives. I made a few knives well enough
 
 Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions. To a storyteller, that environment is irresistible. To an oddff-and-on Dungeon Master, it felt like discovering a campaign setting that history had already written.
 
-The three blades at the heart of this story emerged from these ideas. The blades existed in my mind before I knew what story I wanted to tell. I started asking questions from the blades' perspective: "What kind of owner would want to own me? Who would commission my forging?" These three were not the first blades I imagined.
+The three blades at the heart of this story emerged from these ideas. The blades existed in my mind before I knew what story I wanted to tell.
 
-I started with commissioning my first blade, "Fyrleoht." I researched enough Old English to know what to call it. I gave it an oath too, which turned out to be only 80% correct Old English. "Geboren of fyr, Geawacen be willan." The intent was: "Born of fire, Awakened by the will". I envisioned it was a simple blade. It merely reflected firelight from the campfire better than most. Perhaps it isn't even a "magical" blade, just better polished. By virtue of the oath that was inscribed, the wielder felt like the blade had a little agency. And maybe that's what a +1 weapon is... not just a statistic that adds a point to a die roll, but something that gives the wielder a bit of extra confidence.
+I started with commissioning my first blade, "Fyrleoht." I researched enough Old English to know what to call it. I gave it an oath too, which turned out to be only 80% correct Old English. "Geboren of fyr, Geawacen be willan." The intent was: "Born of fire, Awakened by the will".
+
+I envisioned it was a simple blade. It merely reflected firelight from the campfire better than most. Perhaps it isn't even a "magical" blade, just better polished. By virtue of the oath that was inscribed, the wielder felt like the blade had a little agency. And maybe that's what a +1 weapon is... not just a statistic that adds a point to a die roll, but something that gives the wielder a bit of extra confidence.
 
 Imagine a guard standing watch. He pulls out "Fyrleoht" to sharpen it by the campfire, and the dancing fire in the blade's surface effectively says: "I see you. You're not alone here. Stand watch with me." Not literally of course. That would be a blade of fiery ventriloquism +1, which could be interesting, but that's not the point. It's the confidence that gets him through the night.
 
@@ -38,11 +44,15 @@ Monanleoht: "What if prowess in battle cost you your sanity, and using it meant 
 
 Barrow's Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a broken farmer, also in the middle of a Brothers Grimm-styled folk horror story, going into battle.
 
-As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Odin and Freyr. Odin has the will and knowledge; Freyr has the means, since his domain is literally the elves. So that's the "who".
+As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Odin and Freyr. Odin has the will and knowledge; Freyr has the means, since his domain is literally the elves.
 
-Looking at the crossroads of the Danelaw at the time, I envisioned Odin having an existential crisis. He is losing followers. Both families of Scandinavian gods are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner. I could only imagine how frightening it would be for Odin to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all. At some point, Odin would want answers. How do you test fate? How do you test how humans perceive fate? Ultimately, with Freyr's help, what we find is that Odin isn't testing mortals as much as he's testing himself.
+Looking at the crossroads of the Danelaw at the time, I envisioned Odin having an existential crisis. He is losing followers. Both families of Scandinavian gods are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner.
 
-This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 unholy vortex-summoner of doom called _Wodbora_. Everything else followed from that.
+I could only imagine how frightening it would be for Odin to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all.
+
+At some point, Odin would want answers. How do you test fate? How do you test how humans perceive fate? Ultimately, with Freyr's help, what we find is that Odin isn't testing mortals as much as he's testing himself.
+
+This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 vortex-summoner of doom called _Wodbora_. Everything else followed from that.
 
 ---
 
@@ -127,19 +137,23 @@ Under-Geat arose from a simple observation. A church standing beside what amount
 
 The events of _The Cynn_ take place against the backdrop of a real historical conflict. Following the death of King Æthelstan in 939, political authority in England entered a period of uncertainty. Olaf Guthfrithson, ruler of Dublin and York, moved quickly to exploit the situation. His campaign into Mercia culminated in Leicester, one of the Five Boroughs of the Danelaw and one of the most strategically important settlements in central England.
 
-Unfortunately, the surviving historical sources provide only fragments of the story. Medieval chroniclers were often more interested in recording victories, royal successions, and divine providence than explaining logistics, supply, or the day-to-day realities of campaigning. We can reconstruct the broad outline of events—Olaf advanced into Mercia, resistance hardened, and Leicester became the focal point of the campaign—but little more. Even the precise chronology remains debated. For the purposes of the novel, I chose to place Olaf's capture of Leicester in the autumn of 942 and the Saxon siege in the spring of 943.
+Unfortunately, the surviving historical sources provide only fragments of the story. Medieval chroniclers were often more interested in recording victories, royal successions, and divine providence than explaining logistics, supply, or the day-to-day realities of campaigning. We can reconstruct the broad outline of events: Olaf advanced into Mercia, resistance hardened, and Leicester became the focal point of the campaign. There was little more. Even the precise chronology remains debated. For the purposes of the novel, I chose to place Olaf's capture of Leicester in the autumn of 942 and the Saxon siege in the spring of 943.
 
 There is almost no surviving description of the siege itself. No troop numbers. No battle lines. No account of assaults or defenses. The novel therefore invents the siege, but only because the peace that followed is unusually well documented.
 
-That freedom allowed me to build the siege around the fictional landscape of Under-Geat, the Shadow Gate, and the Church's protectorate. If the Church maintained a protected precinct outside the city's principal line of defense, both sides would face difficult political and spiritual choices. I imagined Bishop Wulfstan urging King Olaf to keep his warriors clear of the Church's lands, lest Archbishop Oda declare the Church's _frith_ violated. Likewise, I imagined Oda honoring that peace for as long as possible, consenting to an assault through the Church's protectorate only when every other option had failed. None of this is recorded history. It is, however, the sort of dilemma that seems entirely at home in tenth-century England, where kings, bishops, and abbots exercised overlapping authority and where ecclesiastical land enjoyed genuine legal and spiritual protection.
+That freedom allowed me to build the siege around the fictional landscape of Under-Geat, the Shadow Gate, and the Church's protectorate. If the Church maintained a protected precinct outside the city's principal line of defense, both sides would face difficult political and spiritual choices. 
+
+I imagined Bishop Wulfstan urging King Olaf to keep his warriors clear of the Church's lands, lest Archbishop Oda declare the Church's _frith_ violated. Likewise, I imagined Oda honoring that peace for as long as possible, consenting to an assault through the Church's protectorate only when every other option had failed. None of this is recorded history. It is, however, the sort of dilemma that seems entirely at home in tenth-century England, where kings, bishops, and abbots exercised overlapping authority and where ecclesiastical land enjoyed genuine legal and spiritual protection.
 
 The historical sources record that Olaf and Bishop Wulfstan departed Leicester soon after the agreement, but say almost nothing about the negotiations themselves. I found it plausible that a temporary truce preceded the formal peace, giving both sides an opportunity to negotiate while Olaf quietly prepared his withdrawal. Whether events unfolded this way can never be known, but it provided a believable framework for the story.
 
 For modern readers, it is tempting to think of medieval warfare primarily in military terms. Contemporary rulers certainly cared about fortifications and battlefield strategy, but they were equally constrained by factors that rarely appear in battle narratives. Armies depended upon fields, livestock, wagons, and labor. Most fighting men were not professional soldiers; they were farmers temporarily called away from their homes. Every week spent campaigning was a week not spent repairing winter damage, preparing fields, or planting crops. The agricultural calendar could be every bit as powerful as a king.
 
-This context is essential to understanding the negotiated peace. Both sides had reasons to continue the struggle, yet both also faced mounting pressure to return men to the land. The years preceding the settlement appear to have been marked by unusually severe winters. Evidence suggests that volcanic activity in Iceland between 940 and 942 contributed to colder weather and poor harvests across parts of northern Europe. Hunger and uncertainty made the arrival of spring labor increasingly urgent. Delaying the planting season threatened not merely armies, but entire communities. While kings pursued political ambitions, reeves, bishops, and local leaders faced a simpler question: how long could ordinary people afford to remain at war?
+This context is essential to understanding the negotiated peace. Both sides had reasons to continue the struggle, yet both also faced mounting pressure to return men to the land.
 
-The resulting settlement was remarkable. Rather than decisively resolving the political dispute, it effectively postponed it. Olaf retained the Five Boroughs under conditions tied to the survival of both rulers. To modern readers the arrangement may appear strangely temporary. To contemporaries, it was likely a practical acknowledgment that neither side possessed either the resources or the will to force a decisive conclusion. The peace did not end the conflict. It merely delayed its next chapter.
+The years preceding the settlement appear to have been marked by unusually severe winters. Evidence suggests that volcanic activity in Iceland between 940 and 942 contributed to colder weather and poor harvests across parts of northern Europe. Hunger and uncertainty made the arrival of spring labor increasingly urgent. Delaying the planting season threatened not merely armies, but entire communities. While kings pursued political ambitions, reeves, bishops, and local leaders faced a simpler question: how long could ordinary people afford to remain at war?
+
+The resulting settlement was remarkable. Rather than decisively resolving the political dispute, it effectively postponed it. Olaf retained the Five Boroughs under conditions tied to the survival of both rulers. To modern readers the arrangement may appear strangely temporary. To contemporaries, it was likely a practical acknowledgment that neither side possessed either the resources or the will to force a permanent conclusion. The peace did not end the conflict. It merely delayed its next chapter.
 
 History ultimately rendered the agreement short-lived. Olaf died within the year, and King Edmund recovered the Five Boroughs. They remained part of the English kingdom until the Norman Conquest reshaped England once again.
 
@@ -200,40 +214,44 @@ The idea of fate behaving more like gravity within a given time horizon (mortali
 
 ### Agency of Magical Artifacts
 
-Several historical runic inscriptions blur the distinction between object and speaker. Rather than presenting a spell as something spoken by the owner, the inscription may be framed as the voice of the object itself. To a modern reader this can seem poetic, but to an early medieval audience the distinction carried real significance. The Old English word _hǣlu_ is often translated as "health" or "wholeness," but in this context it refers to something broader: the integrity by which a thing possesses identity, purpose, destiny, and participation in the world. A thing with sufficient _hǣlu_ is not merely acted upon by wyrd; it participates in wyrd.
+Several historical runic inscriptions blur the distinction between object and speaker. Rather than presenting a spell as something spoken by the owner, the inscription may be framed as the voice of the object itself.
+
+To a modern reader this can seem poetic, but to an early medieval audience the distinction carried real significance. The Old English word _hǣlu_ is often translated as "health" or "wholeness," but in this context it refers to something broader: the integrity by which a thing possesses identity, purpose, destiny, and participation in the world. A thing with sufficient _hǣlu_ is not merely acted upon by wyrd; it participates in wyrd.
 
 This idea appears in several historical artifacts, including the Franks Casket, where objects are presented as speaking in their own voices. In the cosmology of the Cynn, powerful artifacts likewise possess their own _hǣlu_. Such objects are more than tools. They have names, purposes, obligations, and destinies of their own. A blade may therefore make a promise, utter a warning, or invoke a power in its own right. The inscription is not merely decorative text attached to an object; it is the object speaking.
 
 This is why Wodbora's spell is introduced with _Wodbora cwiþ_ ("Wodbora says"). To a tenth-century audience, a mortal commanding the Wodhere would be an act of extraordinary arrogance. Who is a person to order the Mad-Host to ride? Such presumption would itself invite disaster. Wodbora avoids this problem by speaking with its own voice. The blade is not ordering the Wodhere as a servant. Rather, it acts as prophet and herald, declaring the opening of a path through which the Mad-Host may pass. The wielder directs where the Host's fury should fall, but the invocation itself belongs to Wodbora.
 
-In practical terms, the distinction functions as a metaphysical safeguard. The wielder does not claim authority over the Wodhere, and therefore does not incur the consequences of pretending to possess it. Those consequences instead belong to the named artifact whose _hǣlu_ grants it standing to speak. Wodbora is not merely a weapon. It is an actor within the story's cosmology, possessing its own place within wyrd, its own obligations, and its own voice.
+In practical terms, the distinction functions as a metaphysical safeguard. The wielder does not claim authority over the Wodhere, and therefore does not incur the consequences of pretending to possess it. Those consequences instead belong to the named artifact whose _hǣlu_ grants it standing to speak.
+
+Wodbora is not merely a weapon. It is an actor within the story's cosmology, possessing its own place within wyrd, its own obligations, and its own voice.
 
 ---
 
 ### The Many Faces of the _Wodhere_
 
-The Wild Hunt is one of the most widespread and adaptable supernatural traditions in northern Europe. Across centuries and regions, the details change dramatically. The leader may be a god, a king, a saint, a devil, or a ghost. The riders may be warriors, hunters, spirits, the restless dead, or condemned souls. Yet certain themes persist. A spectral procession crosses the night sky. The living are warned not to interfere. The boundary between the world of the living and the world of the dead briefly becomes permeable.
+The Wild Hunt is one of the most widespread and adaptable supernatural traditions in northern Europe. Across centuries and regions, the details change dramatically. The leader may be a god, a king, a saint, a devil, or a ghost. The riders may be warriors, hunters, spirits, the restless dead, or condemned souls.
+
+Yet certain themes persist. A spectral procession crosses the night sky. The living are warned not to interfere. The boundary between the world of the living and the world of the dead briefly becomes permeable.
 
 The version presented in _The Cynn_ draws inspiration from several historical layers of this tradition. During the early medieval period, stories associated with Odin appear to have been linked to ideas of death, wandering spirits, battle fury, and the movement of souls. Later Christian writers inherited many of these traditions but interpreted them through a different theological lens. Rather than disappearing, older stories were often reinterpreted. Familiar figures acquired new meanings, new names, and new roles within an increasingly Christian worldview.
 
-This process of reinterpretation is visible throughout medieval folklore. Traditions associated with older gods could become associated with legendary kings, local spirits, demons, saints, or cautionary tales. The question was rarely whether a phenomenon existed. The question was how it should be understood. A frightening procession in the night sky might remain frightening regardless of whether its leader was called Odin, Herla, or Hellequin. The story survived because it continued to serve a cultural purpose.
+This process of reinterpretation is visible throughout medieval folklore. Traditions associated with older gods could become associated with legendary kings, local spirits, demons, saints, or cautionary tales. The question was rarely whether a phenomenon existed. The question was how it should be understood. A frightening procession in the night sky might remain frightening regardless of whether its leader was called Odin, Woden (the Saxon persona of Odin), Herla, or Hellequin. The story survived because it continued to serve a cultural purpose.
 
 The novel imagines the _Wodhere_ during one of these transitional periods. Christianity has become dominant, yet older explanations have not entirely vanished. As a result, different characters understand the Hunt in different ways. Some view it as a remnant of pagan belief. Others interpret it through Christian theology. Still others accept elements of both explanations simultaneously. This ambiguity is intentional. It reflects the reality that religious transitions often produce overlapping interpretations rather than immediate replacements.
 
 One of the recurring themes of the book is that institutions change more quickly than stories. Kings may convert. Laws may change. Churches may be built. Yet folklore often persists because it addresses questions that formal theology does not always answer. What happens to the dead who wander? Why do certain places feel haunted? Why do storms, darkness, and winter inspire such powerful feelings of dread? The Wild Hunt provided one framework through which communities explored these uncertainties.
 
-Within the cosmology of _The Cynn_, the Wodhere serves an additional narrative purpose. The Hunt embodies continuity amidst change. Its function evolves as the world around it evolves. This reflects a broader theme running throughout the novel: traditions rarely disappear completely. More often, they are repurposed, reinterpreted, and absorbed into new frameworks. The names change. The explanations change. Yet traces of the older forms remain visible beneath the surface.
+For modern readers, the Wild Hunt is often encountered as a piece of folklore detached from its historical context. Medieval audiences would have experienced such stories differently. They were not merely entertaining tales. They were part of a living landscape populated by memories, warnings, inherited beliefs, and unanswered questions.
 
-This process mirrors the experiences of many characters in the story. Osric, Ealhild, Elswyth, and Cynewulf all inhabit worlds shaped by overlapping traditions. Their lives cannot be cleanly divided into pagan and Christian categories. The Wodhere occupies a similar position. It exists at the boundary between different ways of understanding the world. Each generation inherits the story and adapts it to its own needs.
-
-For modern readers, the Wild Hunt is often encountered as a piece of folklore detached from its historical context. Medieval audiences would have experienced such stories differently. They were not merely entertaining tales. They were part of a living landscape populated by memories, warnings, inherited beliefs, and unanswered questions. The Wodhere in this novel is therefore not intended as a reconstruction of any single historical tradition. It is an exploration of how traditions survive by changing, and how stories continue to ride long after the worlds that created them have begun to fade.
+The Wodhere in this novel is therefore not intended as a reconstruction of any single historical tradition. It is an exploration of how traditions survive by changing, and how stories continue to ride long after the worlds that created them have begun to fade.
 
 
 ---
 
 ## Swords and Scabbards: What Are These Blades?
 
-I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my D&D childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its _hǣlu_. I just like it because it focuses my storytelling a bit better, and it seems cool. :)
+I like the idea of blades having names, and titles, and magic stuff they're supposed to do. I guess that's from my role-playing childhood. To that end, when I think up these blade ideas, I try to specify 3-4 qualities of the blade present in either blade construction and/or scabbard as runic inscriptions. The Saxons would say that this helps it find its _hǣlu_. I just like it because it focuses my storytelling a bit better, and it gives me an opportunity to learn Old English.
 
 * Name: this is the name, obviously
 * Title: this is like "The Goblin-Slayer"
@@ -265,11 +283,23 @@ When the _Wodhere_ does arrive, Wodbora speaks its own spell through your mouth,
 
 #### Blade Construction
 
-The blade construction is a Little Bealings-style langseax. It should be single-edged, with a 9-layer no-mai. The spine should be wrought iron, with alternating layers of 1084 and 15N20. Once etched, this will yield 2 rivers of 15N20 running through a dark grey field, with grainy spine. Done right, you could interpret the wrought iron as the sky, or as the ground. The carbon transfer among the ribbons of 1084 and 15N20 should blur, giving the 15N20 less of a defined line. Depending on which way you look, it's a real Rorshach test. When Tobin showed me his first etch of the prototype Wodbora blade, I couldn't decide which way was up! The silvery 15N20 could be the mist on the ground, and light grey shapes are flowing through it. Or the silvery 15N20 are the clouds, and the darker shapes represent the Wodhere in full ride sweeping the earth.
+The blade construction is a Little Bealings-style langseax. 
+
+First, I love the shape. It's a bit of a relic by 943 AD, but that's fine. They still existed.
+
+Why not a sword? Swords in 943 AD were expensive, the status cymbol of thegns and nobility. Cynewulf is neither of those.
+
+Then why a langseax? Because it's the form factor of the blade he interited from the Griffons, and he knew how to fight with it. What he inherited was a relic even in 934. His memory of the Griffons is also a relic he keeps with him, until the blade finally snaps in The Night of Blood battle.
+
+I had this blade commissioned to Tobin Nieto of Stonehaven Forge because, quite frankly, I lacked the skill and the kind of forge needed to work wrought iron. It is a 9-layer no-mai blade: with wrought iron on each side, and alternating layers of 15N20 and 1084. Once etched, it yielded two rivers of 15N20 running through a dark grey field, with grainy spine and a 1084 edge.
+
+Depending on which way you look, it's a real Rorshach test. When Tobin showed me his first etch of the prototype Wodbora blade, I couldn't decide which way was up! The silvery 15N20 could be the mist on the ground, and light grey shapes are flowing through it. Or the silvery 15N20 are the clouds, and the darker shapes represent the Wodhere in full ride sweeping the earth.
+
+I wanted a blade that didn't look like a gleaming +5 Holy Avenger. I wanted a blade that looked like a gritty langseax that could summon an unholy vortex while fighting wolf-men in 10th century mud. And Tobin delivered exactly that!
 
 #### Handle Construction
 
-The handle should be two-handed but light enough to wield with one hand. The guard and pommel should be simple wrought iron disks. The handle should be wrapped in wire with leather Turk's head knots on either end. The visual effect should be one of a wire cage binding the Wodhere in the blade, so it doesn't spill out of the handle. This is a slight anachronism... steel wire typically wasn't used for binding handles, but silver and copper alloys certainly were for higher end blades. We're using steel to stand-in for silver, I suppose.
+The handle is wood bound by wrought iron guard and pommel. The handle is wrapped with charcoal-darkened stainless steel wire. Finally, the guard and pommel are trimmed in Tobin's signature Turk's Head knot leather. The result is a handle whose primary function is to keep the Wild Hunt trapped in the blade until the right time.
 
 #### Scabbard Construction
 
@@ -302,37 +332,28 @@ This side is body-facing and contains the "secret" spell that Wodbora will cast 
 
 The blade is a 16" heavy chopping broad seax with a two-handed handle, similar in size/weight to the Northolt Manor Seax. It is the queen of camp knives, and protector of the hearth.
 
+Like _Wodbora_, this blade in 943 would be a relic. But, this time the blade comes into Osric's hand through ancestry. He comes from three-hundred-year legacy of Northumbrian strong farmers who love the intimidating warseax in the shieldwall and on the road.
+
 Realistically, blades like these (Northolt Manor Seax) existed, but were a rarity.  Most farmers would have an axe for field work and a separate smaller seax for utility and as a sidearm. Those were the cheaper options.
 
-These warseaxes were intimidating and fit for battle, probably wielded by the largest of ceorls who could also afford them. They were probably predominately wrought iron, with a sliver of steel for the edge. Such a construction allowed the blade to have more mass than an arming sword, leaving its blade thick and less tapered for a cheaper price. It was definitely a weapon made for chopping, but still had a point similar to a Roman gladius.
-
-The extended handle served a dual purpose: it provided the leverage to hook and pull an opponent’s shield-rim, and it allowed for a transition to a two-handed grip once the owner's was compromised. While not a crushing weapon like an axe, the heavy, forward-weighted blade could hack through the wood and leather of a weakened shield, turning a defensive tool into a devastating offensive one.
-
-In a shield wall, the role of the broad warseax was probably a jack-of-all-trades. Like the Roman _gladius_, the seax’s point allowed for a brutal, punching thrust into the gaps between shields—a motion that required far less space than an axe-swing. It was a hybrid of cleaver and dagger, capable of hacking through a rim or finding the soft space beneath a mail shirt with equal ease. The longer handle could be used to hook and hold shields down, allowing a fellow spear wielder to find the chest of the shield owner. But, as a shield-hooking weapon, it was not as good as a bearded axe. With a step backward, the owner of a shield hooked by a handle could plausibly disarm the warseax owner, using the rim of their shield to leverage the pommel of the blade out of its owner's grip.
-
-These blades were eventually replaced by langseaxes, which were narrower and longer. The blade style was popular with Osric's forebears, and so he continued the tradition long after many of the wealthiest ceorls and captains had switched to the langseax.
+These warseaxes were intimidating and fit for battle, probably wielded by the largest of ceorls who could also afford them. I imagine they were predominately wrought iron, with a sliver of steel for the edge. Such a construction allowed the blade to have more mass than an arming sword, leaving its blade thick and less tapered for a cheaper price. It was definitely a weapon made for chopping, but still had a nasty point for thrusting under a shield in the wall.
 
 #### Blade Construction
 
-This blade wants wrought iron for the spine. That's a bit tricky, because that implies two things: super high heat (yellow-to-white), and a forge weld. Wrought wants to be worked super hot, but some steels like 1084 experience rapid grain growth at higher temps. 15N20 is a good steel at higher temperatures. The nickel acts as a grain stabilizer. But, even 15N20 will need temperature cycling to manage grain growth.
+When making this blade, my mind immediately went to a wrought iron spine cleft-welded to a 1084 edge. That's a bit tricky, because that implies two things: super high heat (yellow-to-white), and a forge weld. Wrought wants to be worked super hot, but some steels like 1084 experience rapid grain growth at higher temps. 15N20 is a good steel at higher temperatures. The nickel acts as a grain stabilizer. But, even 15N20 will need temperature cycling to manage grain growth.
 
-If you don't want to mess with wrought iron, my suggestion is to go with 5160. Specifically, a big chunky leaf spring. It's thick. It's a tough steel that can stand up to beating pretty hard, and when darkened, it can come out to the same shade as wrought iron. It won't have the pits and rough look of wrought iron, however. If the look is desired, that can be faked with rounds of arbitrary etching (dabbing etchant in cycles over and over until it looks random). 
+Being a solo worker with a weaker forge, I opted out of the wrought iron cleft-weld.
 
-If you go with a forge-weld, most smiths at that point abandon 5160. The chromium oxide that forms is a weld-killer. You can flux for it, but it's notoriously finicky.
+So my mind went to a leaf spring, ostensibly 5160. It won't have the pits and rough look of wrought iron, however.
 
-If you want to brave the wrought iron, then you have choices. You could do a traditional a 2-bar cleft-weld construction or a modern 3-layer san-mai. Choosing 1084 would probably be ideal thematically, but there is a ton of decarburizing to be expected.
-
-If you use 1084, you definitely want a cleft weld, for two reasons. The carbon will literally leak from the 1084 into the wrought iron. A cleft weld would insure that the carbon is only stolen from the side away from the edge. Also, since 1084 has problems at higher temperatures, assuming you have a forge with some areas hotter than others (like in a coal or charcoal forge), you can put the spine in the hottest part of the fire.
-
-If you must do a san-mai construction (for instance, because you feel like your forge will heat everything uniformly), you might consider other steels. Look at 15N20; the nickel in 15N20 slows down carbon migration and handles high heat better than 1084. You'll end up with a bright line on the edge, but hey, that makes it look more magical, doesn't it?
-
-Regardless, the blade should be exceptionally thick and wide. The wrought iron represents the stone and smoke of the hearth. Inscriptions will be on both sides, so it would be highly recommended to use a fiber laser and brazing techniques rather than damascening.
+Regardless, the blade is exceptionally thick and wide.
 
 #### Handle Construction
 
-Since this is a farmer's blade, the handle should be simple. It should be two-handed, like the Northolt Manor seax. There should be weight to the pommel to attempt to give the blade a bit more balance, but balance for this blade is not essential. The handle should probably be wood... bogwood would be incredible. This construction envisions the placement of Gurdr's Tears (jet gravel) as an inlay in the handle.
+Since this is a farmer's blade, the handle should be relatively simple. It should be two-handed, like the Northolt Manor seax. The is significant weight in the guard and pommel to attempt to give the blade a bit more balance, but balance for this blade is not essential.
 
-I would highly consider picking a stabilized bone or wood handle, and performing a iron acetate soak on it. That makes a relatively black handle. By adding a jet gravel inlay, you produce a shiny-black-on-matte-black contrast, which should look subtle and cool. We're going for barrow-vibe here, so every shadow counts.
+The handle is iron acetate darkened wood. This construction envisions the placement of Gurdr's Tears (jet gravel) as an inlay in the handle. I'm aiming for the black-on-black contrast.
+
 
 #### Scabbard Construction
 
@@ -362,13 +383,13 @@ This is the meteorite steel blade of the Spotted King redcap's prison. He is the
 
 #### Blade Construction
 
-It should be constructed of monosteel silvery 15N20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. Your eyes should appear different when you look into the blade like a mirror, as if the gnome is staring back at you.
+I constructed it from monosteel silvery 15N20, the blade polished to an *almost* satin mirror finish, reflecting light like a moonbeam. Your eyes should appear different when you look into the blade like a mirror, as if the gnome is staring back at you.
 
 You could do as the forge elves, find yourself some meteorite iron, pound, refine and fold for a very long time to turn the iron into a billet of steel. You might even produce something that's half as good as ole' 15N20. Instead of doing all that, just buy the 15N20! 
 
-The blade is a light, relatively thin narrow seax with 12-14" blade . The break should be roughly half way down the blade, making the tip extremely fast and maneuverable.
+The blade is a light, relatively thin narrow seax with 12-14" blade . The break is roughly half way down the blade, making the tip extremely fast and maneuverable.
 
-There should be no fullers or inscriptions on the blade. The blade has no adornment or inscriptions... how can you scratch the skin of the redcap himself? He would most put out. He may even start to question your vintage.
+The blade has no adornment, fullers or inscriptions... how can you scratch the skin of the redcap himself? He would most put out. He may even start to question my vintage.
 
 #### Handle Construction
 

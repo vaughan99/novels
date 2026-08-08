@@ -467,13 +467,11 @@ Odin noticed a party arriving from the Norse road and quickly covered his face, 
 
 "...Ugh," Odin sighed.
 
-The arriving party had recognized him. It was one hundred Vikings. Their first excursion beyond Valhalla.
+The arriving party had recognized him. It was one hundred Vikings, and this was their first excursion beyond Valhalla.
 
 "All-Father! It _is_ you!"
 
 "Tell us a prophecy!"
-
-"Will you sign my sh-pear? ...Wait. Where's my sh-pear?"
 
 "You're shorter than the epics!"
 
@@ -813,7 +811,7 @@ Backstage Hand One: "No, the mastodons."
 
 The producer led them through a maze of corridors to the soundproof rehearsal room, where the Skeleton Crew was waiting.
 
-The producer's headset crackled to life. Whoever was on the other end was clearly having trouble striking the Wheel 2.0 set. The producer sighed, and turned to leave giving everyone a thumbs up. "I don't care _how_ we got it up there.... ... Get some Wheel 1.0s under that thing and roll it off. We've got a schedule to keep! I'm on my way."
+The producer's headset crackled to life. Whoever was on the other end was clearly having trouble striking the Wheel 2.0 set. The producer sighed, and turned to leave giving everyone a thumbs up. "I don't care _how_ we got it up there.... Wait... the animal spirit got loose? Get some Wheel 1.0s under that thing and roll it off. We've got a schedule to keep! I'm on my way."
 
 The Skeleton Crew was a band made entirely of skeletons, as the name rather plainly implied. The rehearsal room had already been set for a run-through. Guitars rested on stands. A bass leaned against an amplifier. The drum stool sat empty.
 
@@ -829,13 +827,13 @@ Huginn blinked.
 
 "...Right."
 
-Muninn: "Maybe they can't speak because they lack _vocal cords_. I guess that's why you were picked to be _lead singer_."
+Muninn smirked. "Maybe they can't speak because they lack _vocal cords_. I guess that's why you were picked to be _lead singer_."
 
-Huginn: "That's okay. I'm sure it'll be fine. I brought the drummer!"
+Huginn pulled out the drummer's stool. "That's okay. I'm sure it'll be fine. I brought the drummer!"
 
 Huginn fished Steve's Eyeball from under his wing. Steve looked back at Huginn with a nervous shudder, betraying his lack of confidence.
 
-Huginn: "Now Steve, this is what you've been training for. I _know_ you can do it. Everybody _knows_ you can do it."
+"Now Steve, this is what you've been training for. I _know_ you can do it. Everybody _knows_ you can do it."
 
 Odin and Muninn sat perfectly still. The Skeleton Crew looked at each other, then at Steve, and nodded their heads. Whether this signified approval or loose vertebrae was impossible to determine.
 
@@ -857,31 +855,33 @@ _Plop._
 
 Steve's Eyeball looked up at Huginn from the floor. If it could shrug, it would have.
 
-Huginn: "That's okay buddy."
+Huginn looked down at the eyeball on the tile floor. "That's okay buddy."
 
-He looked at the robot, and beckoned it forward. Tucked away in its midsection were eight arms. One of them scooped Steve's Eyeball from the ground and held him over the drumkit. Huginn took a mirror off the wall, and positioned it in front of the drumkit so that the robot could see where the eye was looking.
+He looked at the robot, and beckoned it forward. Tucked away in its midsection were eight arms. One of them scooped Steve's Eyeball from the ground and held him over the drumkit.
 
-Huginn: "Ye of little faith! Plan B here is going to watch Steve's eye movements, and handle the drumming for him. Now give us a rimshot!"
+Huginn pushed the stool aside and took a mirror off the wall. He positioned the mirror in front of the drumkit so that the robot could see where the eye was looking.
+
+"Ye of little faith! Plan B here is going to watch Steve's eye movements, and handle the drumming for him. Now give us a rimshot!"
 
 Huginn handed the drumsticks, seven of them, to Plan B's other arms.
 
 Buh-Dum-Pshhhhhh!
 
-Huginn: "Perfect!"
+Huginn nodded his head in approval. "Perfect!"
 
-Muninn: "Uh, Plan B, what was your mission before you retired?"
+Muninn was incredulous. "Uh, Plan B, what was your mission before you retired?"
 
-Plan B: "I was an automated toothpaste-cap installation engineer."
+"I was an automated toothpaste-cap installation engineer."
 
-Muninn: "You twisted caps onto toothpaste bottles?"
+"You twisted caps onto toothpaste bottles?"
 
-Plan B: "Correct. When my software became obsolete, I played robot villains in a few off-Broadway productions. Then they retired me."
+"Correct. When my software became obsolete, I played robot villains in a few off-Broadway productions. Then they retired me."
 
-Muninn: "So why were you testing yourself against advanced AIs in the Elenchus Game?"
+Muninn scratched his head with a wing. "So why were you testing yourself against advanced AIs in the Elenchus Game?"
 
-Plan B: "An engineering assumption. My processor is weak. My memory is small. I hypothesized I would be less susceptible to distraction by overly complex reasoning."
+"An engineering assumption. My processor is weak. My memory is small. I hypothesized I would be less susceptible to distraction by overly complex reasoning."
 
-Muninn: "Less susceptible to distraction? Huginn, finally... you can learn a lot from this one!"
+Muninn thrust both wings into the air, having an epiphany. "Less susceptible to distraction??? Huginn! Finally... you can learn a lot from this one!"
 
 Odin had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
 
