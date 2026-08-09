@@ -137,7 +137,9 @@ She revived her father’s trade entirely by herself. She could manage only two 
 
 She read the clamp’s heat in the faint shimmer rising against the stars and knew the wood was cooking by the sweet, heavy scent of sap and smoke. Where she suspected a hot place, she flicked a few drops of water onto the packed earth and watched how quickly they vanished into steam.
 
-She remembered her father's rule, leaving the crumbling, half-burnt edges of the coal for the forge-elves. But she also incorporated Fussleton's strange wisdom: that the harsh glare of a torch spread the magic of the moonlight too thin, and that the finest coal was made only from wood felled and cooked under the moon's cold eye. It was light _singing coal_ that clinked like iron when struck, burning with an intense, smokeless heat. A little polish, and they'd _all_ be Saint Alexander's stones.
+She timed her opening by the count of her heartbeats. How many for the first hole. How many for the second. How long to wait. How long to fan. And then... she raked it out furiously into the waiting dirt, to be covered as quickly as possible.
+
+She remembered her father's rule, never chastising forge-elves for the theft of the best pieces. But she also incorporated Fussleton's strange wisdom: that the harsh glare of a torch spread the magic of the moonlight too thin, and that the best wood for burning was the hardest wood collected by moonlight. Her father only cooked the charcoal by the light of the moon, but he made no mention of how to collect it.
 
 The villagers soon noticed the strange, silent activity. They saw no smoke by day, yet some mornings they caught its scent upon the wind. They didn't know it was from the old coaler's knoll. They whispered of the "_Coaler-Wight_" that lived by the Roman necropolis, a restless spirit cursed by the Viking slaughter. They swore that if the _Coaler-Wight's_ breath reached you before you made it to the Shadow Gate, it would drag you into one of its burning pits beneath the earth.
 
@@ -297,21 +299,29 @@ She quietly carried her sacks and loaded them into the back of the empty cart. S
 
 Long-Mile drove to the North Gate. The guards there knew Long-Mile could call at any hour, and could always count on him for an errand or even just a quick joke. Any time of day, Long-Mile was granted entry.
 
-Just before sun up, he delivered her and her coal to Morning-Eye, leaving her for his next load. She waited underneath the nose. And every morning of the Old Frith market, Shadow-Wife would arrive to ring the day-bell, and open the Shadow Gate, giving Elswyth a wink and a smile.
+Just before sun up, he delivered her and her singing coal to Morning-Eye, leaving her for his next load. She waited underneath the nose. And every morning of the Old Frith market, Shadow-Wife would arrive to ring the day-bell, and open the Shadow Gate, giving Elswyth a wink and a smile.
 
 People had always known... _Shadow-Wife never smiled... at anyone_.
 
 Shadow-Wife opened the gate. The other villagers gave Elswyth a smirk, as they knew she had beaten them to the nose. But they didn't recognize her. They would never expect Elswyth had survived, and would be found on the other side of the gate come morning.
 
- The bell pit's foreman, a discerning young man with a pocket of silver, approached Elswyth. Remembering to be mute, she hid her face in the shadow of the cowl, and pointed to her lips.
+The bell pit's foreman, a discerning young man with a pocket of silver, approached Elswyth. Remembering to be mute, she hid her face in the shadow of the cowl, and pointed to her lips.
 
-The young man's eyes drifted to the sacks, and he picked up a piece of coal. He rolled it in his soot-stained hands for a moment, and set it down on the others. It landed with a soft _clink_. Remembering the price of her father's coal, she waved her hands over all the sacks, and held up the price. Five fingers.
+The young man's eyes drifted to the sacks, and he picked up a piece of charcoal, stained white by the ash. He rolled it in his soot-stained hands for a moment. His hand closed into a fist around it. He tried to snap it... and it resisted.
 
-"That's good coal, and a fair price. Where did you come from?"
+_Interesting._
+
+He set it down on the others. It landed with a soft _clink_. He had heard stories from his former bell-master Cynewulf of the singing charcoal, but had never seen it.
+
+_Very interesting._
+
+Remembering the price of her father's coal, she waved her hands over all the sacks, and held up the price. Five fingers.
+
+"That's the finest charcoal, and a fair price. Where did you come from?"
 
 Elswyth pointed up the river north, where another hamlet sat in the distance.
 
-"You carried your father's coal all the way from there? Finest charcoal I've seen in months. I wish I had a daughter like you." He laughed. "Very well, five pennies." She stretched out her hand, and the pennies landed in her palm clinking like the coal. She closed her fingers around the pennies and ran. The young man stared after her in amazement, then his eyes went back to the sacks. He carried them inside the gate, two at a time, to a waiting cart.
+"You carried your father's charcoal all the way from there? I wish I had a daughter like you." He laughed. "Very well, five pennies." She stretched out her hand, and the pennies landed in her palm clinking like the coal. She closed her fingers around the pennies and ran. The young man stared after her in amazement, then his eyes went back to the sacks. He carried them inside the gate, two at a time, to a waiting cart.
 
 She ran, and kept running, to find Long-Mile on the north road.
 
@@ -321,7 +331,7 @@ She ran up to the old carter. The oxen stared at her, barely impressed.
 
 Long-Mile barely caught the penny, almost dropping it under his seat. He narrowed his eyes at her. "You had me thinking the wolves were back!"
 
-"Nah, just me. Your favorite... customer!" She gave a twirl.
+"Nah, just me. Your _favorite_... customer!" She gave a twirl.
 
 ---
 
@@ -381,11 +391,11 @@ The next day, at the Shadow Gate, after she sold her coal, she found a peddler's
 
 Every morning, after delivering her coal, she would rely on the hurried nature of her neighbors. They drew their cloaks over their faces to avoid the charcoal breath of the _Coaler-Wight_. Nobody noticed the hooded girl coming back down the hill on one of the side trails. She would duck back into her hut, and into her hidden nest by the hearth. Exhausted from her night's work and morning's haul, she would fall fast asleep.
 
-Like clockwork, the gnome would return each full moon to the knoll to test her knowledge. She would recall each rhyme, on a flea's leg, to his rhythm. He would smile. He would share a small conversation as he smoked his pipe, occasionally picking up a rake and checking coals. "Ash is respectable... oak a bit heavy... but beech..." He closed his eyes for a moment. "...Beech has manners... on the nose."  Sometimes he would bring little bags of salt, or rare herbs for her meals. Each time, he left exactly thirteen minutes after he had arrived.
+Like clockwork, the gnome would return each full moon to the knoll to test her knowledge. She would recall each rhyme, on a flea's leg, to his rhythm. He would smile. He would share a small conversation as he smoked his pipe, occasionally picking up a rake and checking coals. "Ash is respectable... oak a bit heavy... but beech..." He closed his eyes for a moment. "...Beech has manners... on the nose."  Sometimes he would bring little bags of salt, or rare herbs for her meals. Each time, he left exactly an hour later.
 
 During the long, sun-drenched hours when she was forced to hide in her crawlspace, Elswyth did not merely sleep. She listened. She learned the heartbeat of the village: the heavy, rhythmic tread of the guards, the held breath of guards as they passed by her hut, the frantic tolling of the church bells, the far off screams of villagers playing 'mob-ball' on important feast days. She mapped the village in her mind.
 
-To keep her mind sharp, she practiced the gnome’s rhymes. She used her mushroom knife to carve rhythmic tallies into the soft pine roots she gathered for her sewing. A long notch for a heavy beat, a tiny prick for a flea’s-leg skip. She turned the rhymes into physical patterns, feeling the cadence of the gnome’s madness under her fingertips. She left these notched roots in the hollows of trees—offerings to the 'forge-elves' her father had always spoken of. She didn't know if they were real, but she knew that the edges of her coal-pits were always clean by morning, and the forest seemed to hold its breath whenever she walked through it.
+To keep her mind sharp, she practiced the gnome’s rhymes. She used her mushroom knife to carve rhythmic tallies into the soft pine roots she gathered for her sewing. A long notch for a heavy beat, a tiny prick for a flea’s-leg skip. She turned the rhymes into physical patterns, feeling the cadence of the gnome’s madness under her fingertips. She left these notched roots in the hollows of trees—offerings to the 'forge-elves' her father had always spoken of. She didn't know if they were real, but she knew that the finest pieces of her singing coal had disappeared in the night, and the forest seemed to hold its breath whenever she walked through it.
 
 ---
 

@@ -28,11 +28,12 @@ The _Old Frith_ was also shared with the neighboring _Church of St. Martin_. Eac
 
 The villagers were commonfolk whose livelihoods centered on the church. They would bring their wares to the _Shadow Gate_ and wait for the creak of the old oak doors. Once open, they would file into the _Old Frith_, setting up stalls, telling gossip, and making exchanges. During the day, the gate would open and the clergy would mingle, telling stories, offering prayers and teaching lorica. Vendors from inside Leicester would arrive to the _Old Frith_. All business was conducted under the watchful eyes of two large stone face masks facing into the _Old Frith_.
 
-![Welcome to Under-Geat](assets/images/Under-Geat/Welcome-to-Under-Geat.png "Welcome to Under-Geat")
-
 _Blackjoy_ was the one whose jaw was clenched and whose eyes were narrow. He was neither sad nor angry; he was more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest". The villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
 
 _Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning, and its closing each evening. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather.
+
+
+![Welcome to Under-Geat](assets/images/Under-Geat/Welcome-to-Under-Geat.png "Welcome to Under-Geat")
 
 ---
 
@@ -54,9 +55,11 @@ Blackjoy: "Try spending eternity having people look at your face, then start swe
 
 ---
 
-Beyond the _Old Frith_, the _Mission Quarter_ spread across the hillside. Graves lined the western wall. Nearby stood the _Yardworks_, where timber, stone, brick, and sand reclaimed from the ancient bathhouse and Roman walls found new purpose. There stood a bell-foundry, _Carter's Row_ with its carting warehouses and ox-pens, and the great carpentry workshops, while the church itself overlooked a quiet cluster of priest-homes.
+Beyond the _Old Frith_, the _Mission Quarter_ spread across the hillside. Graves lined the western wall. Nearby stood the _Yardworks_, where timber, stone, brick, statues, and sand reclaimed from the ancient bathhouse and Roman walls found new purpose. There stood a bell-foundry, _Carter's Row_ with its carting warehouses and ox-pens, and the great carpentry workshops, while the church itself overlooked a quiet cluster of priest-homes.
 
-Elswyth's family were coal-burners originally from the Saxon heartland, the town of _Witanceaster_ to the southwest. They prepared charcoal for the forges and the Church. As more local families entered the trade, each load of charcoal brought fewer pennies than the last. Their access to the wood-lots was getting more difficult as well. All they needed for their trade were their axes, a few coal-rakes, a shovel and a tinder box, so they packed up their few belongings and moved on.
+Elswyth's family were coal-burners originally from the Saxon heartland, the town of _Witanceaster_ to the southwest. They prepared charcoal for the forges and the Church. As more local families entered the trade, each load of charcoal brought fewer pennies than the last. Their access to the wood-lots was getting more difficult as well. 
+
+All they needed for their trade were their axes, coal-rakes, shovels and a tinder box, so they packed up their few belongings and moved on.
 
 Whispers carried on the wind from Leicester promised deep woods and the steady demand of war-forges and bell-founders. Leicester was part of the Five Boroughs of the Danelaw, and saw its fair share of banditry and war. Fortunately for them the wars and the Church were steady customers. Weapon-forges and casting-pits for bells and crosses were always hungry for more coal.
 
@@ -66,11 +69,43 @@ They staked a claim to a small unused knoll on the opposite bank of the Soar, wh
 
 Elswyth was of ten winters, and she had been learning the family trade. Her father, Godwine, would brave the Charnwood forest to find the best hardwood with his felling axe, and Elswyth and her mother Eadgyth would manage the charcoal clamps on the knoll with their rakes and smaller hand axes. It was hot, smelly, thankless work.
 
-Godwine was a man who read the forest like a prayer book. He ignored the soft, useless pine and the brittle willow, his eyes always scanning for the silver-grey bark of the beech or the deep, furrowed skin of an ancient oak. He knew the weight of the wood by the way it swung in his hand, and he knew which logs would turn to _singing coal_, ringing with a sharp _clink_, and which would crumble to grey dust before the pit was even half-cooked. Few of the villagers foraged in the Charnwood; they said it was home to spirits... and spirit-makers. Godwine was used to the rhythm of forests. He looked past the shadows to find his wooden quarry.
+Godwine was a man who read the forest like a prayer book. He ignored the soft, useless pine and the brittle willow, his eyes always scanning for the silver-grey bark of the beech or the deep, furrowed skin of an ancient oak. He knew the weight of the wood by the way it swung in his hand, and he knew which logs would turn to a form of charcoal few others had ever seen.
+
+*Singing charcoal* was no ordinary charcoal. Its surface was greyish-white instead of black, and the finished sticks were hard enough that when struck together they rang with a clear note... almost like a bell.
+
+Godwine claimed the moon put the song into it.
+
+The making began like any other burn. The wood was seasoned, stacked, covered with earth, and starved of air until the fire had eaten everything from it that was not coal. But when another coaler would have sealed the clamp and allowed it to cool, Godwine waited for a clear night.
+
+Then he dared do what charcoalers teach their children they must _never_ do.
+
+He opened it.
+
+Air rushed into the mound. The buried charcoal brightened from red to orange, and the clamp became a thing every coaler had been taught to fear. Godwine fed it more air still, fanning the openings until the heat became almost unbearable.
+
+There was a moment, he said, when the coal had swallowed enough moonlight.
+
+"Time it to your heartbeat, Meadow-bud. You'll know when you have it just... right."
+
+Wait too little, and it remained ordinary charcoal.
+
+Wait too long, and there would be nothing left but ash.
+
+At that moment, Godwine raked the glowing sticks from the clamp and buried them beneath a waiting mixture of pale ash, sand, and damp earth. By morning they had cooled beneath their white coating.
+
+He would choose two pieces and strike them together.
+
+*Ting.*
+
+If they sang, the burn had been good.
 
 Godwine and his family were observant Christians, but knew their profession kept them at the edges of parish life. Smoke and soot clung to them like a second skin. Until heavy rain or the Easter washing, they would sooner stand in the church porch than bring the smell of the charcoal pits before the altar.
 
-They would offer prayers to saints by the glow of the coal-fire. They owned no Bible, and were not literate enough to read one anyway, so their faith remained a private, oral tradition. Their favorite prayer was to Saint Alexander of Comana. He was a fellow coaler and 'accidental bishop' of the Eastern tradition, a story whispered down from travelers and rarely heard in the local parish. Godwine's grandfather once heard of him from a traveling monk who visited Witanceaster and worked as a cross-caster. The monk honored Saint Alexander on August 11th, and Godwine's grandfather kept up the tradition. They each kept coal tokens they called _Alexander's stones_, whose good luck brought protection from burns. It was a perfect lump of charcoal, polished to a glassy sheen.
+They would offer prayers to saints by the glow of the coal-fire. They owned no Bible, and were not literate enough to read one anyway, so their faith remained a private, oral tradition.
+
+Their favorite prayer was to Saint Alexander of Comana. He was a fellow coaler and 'accidental bishop' of the Eastern tradition, a story whispered down from travelers and rarely heard in the local parish. Godwine's grandfather once heard of him from a traveling monk who visited Witanceaster and worked as a cross-caster. The monk honored Saint Alexander on August 11th, and Godwine's grandfather kept up the tradition.
+
+They each kept coal tokens they called _Alexander's stones_, the perfect specimens of singing coal that fit in the hand. They polished the stone past the ashy skin, into the black beneath, until the oil of their hands and the years of rubbing made a piece of charcoal look like glass. To wear one was to guard yourself from the heat of the fire, and spirits one should not name.
 
 Before every large burn, they would gather hands, and pray:
 
@@ -83,15 +118,15 @@ Keep the wind quiet, keep the earth tight,
 And wash our souls clean of the soot we wear
 ```
 
-The family had their pagan superstitions too. When harvesting time for the coal would come, her father would point out some loss at the edges of the pit. He didn't seem worried though, because he called it an offering. "The elves are finicky things, Meadow-bud. Best leave them to pinching the coal." Elswyth cut her father off, "Yes, 'else we might wake to a burning roof.' I remember father!" 
+The family had their pagan superstitions too. When harvesting time for the coal would come, Elswyth would notice some of the finer pieces missing. Her father didn't seem worried though, because he called it an offering.
+
+"The elves are finicky things, Meadow-bud. They know good coal when they hear it. Best leave them to pinching the coal..."
+
+Elswyth cut her father off. "*...and take it as a sign of a job well done, else we might wake to a burning roof.* Yes, I remember, Father!"
 
 Despite her impatience, the wisdom seemed solid to her, and so that was the family rule. Harvest only coal from the center. Edges for the elves. And one day she would run her own charcoal pits, and teach that rule to her children.
 
 But she hated the nickname. "_Meadow-bud_, I'm nothing of the sort," she thought, as she would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She was already stronger than he realized. "My father will see, I'm not merely the coal-maid. I will follow him into the forest and together we will fell the trees."
-
-The family worked the pits in cycles. Godwine felled timber and hauled it to the drying stacks. Once seasoned, the wood was stacked into a waiting charcoal clamp. Some pits burned fiercely beneath their earthen coverings, others merely smoldered, and others cooled after days of careful watching. When a pit had finally gone cold, the family filled coarse hemp sacks with the finished charcoal.
-
-During those fragile days, sleep was a luxury. An unwatched clamp could become an ordinary fire and spell doom for the forest. The nearby Soar provided water against such disaster. The family kept a small sleeping shelter beside the clamps, a home away from Under-Geat, to ensure the clamp-watcher always had another to call upon.
 
 Leicester had several carters who knew the roads around the town. But none had traveled as far and wide as Long-Mile. His given name was long forgotten, even by himself, as even as a child, he roamed far from home to his mother's dismay.
 
@@ -101,7 +136,9 @@ Long-Mile was friends with Godwine, and always seemed to know the exact moment t
 
 It was there she learned the rhythm of the trade, watching her father sell their charcoal to a young, strapping deacon named Cynewulf. Like them, he was always black with soot and sweat. He wasn't a coaler like them; he worked the bell-pits, and he treated their coal with a reverence that surprised her. He was kind, but distant, and he always insisted that their charcoal was the best in the _Danelaw_. Elswyth liked him for that; he saw the craft in their soot-stained hands.
 
-If her father taught her the fire, her mother tried to teach her the earth. Eadgyth was a woman of quiet, sharp-eyed patience who moved through the forest as if she were part of the undergrowth. On coal-cooling days, she spent hours showing Elswyth how to read the forest’s pulse: which mosses signaled a hidden spring, which berries would settle a fever, and how to harvest the wild leeks and tubers without stripping the soil bare. "A coaler who only knows the pit is a coaler who starves when the wood runs thin," her mother would whisper, pressing a handful of dried herbs into Elswyth’s palm. She taught her that the forest was not just a source of timber, but a larder for those who knew how to ask. It was a different kind of strength—not the brute force of the axe, but the quiet precision of knowing exactly what the land could provide, and exactly what it would take back.
+If her father taught her the fire, her mother tried to teach her the earth. Eadgyth was a woman of quiet, sharp-eyed patience who moved through the forest as if she were part of the undergrowth. On coal-cooling days, she spent hours showing Elswyth how to read the forest’s pulse: which mosses signaled a hidden spring, which berries would settle a fever, and how to harvest the wild leeks and tubers without stripping the soil bare.
+
+"A coaler who only knows the pit is a coaler who starves when the wood runs thin," her mother would whisper, pressing a handful of dried herbs into Elswyth’s palm. She taught her that the forest was not just a source of timber, but a larder for those who knew how to ask. It was a different kind of strength—not the brute force of the axe, but the quiet precision of knowing exactly what the land could provide, and exactly what it would take back.
 
 Elswyth was not fond of the meadow-work. She lacked the patient eye for the forest-larder. She would trample mushrooms without a thought. She would dismiss medicinal herbs as mere weeds. Still, Eadgyth never scolded her. Times would not always be as kind as they were now. Someday the forest would be the only thing standing between her daughter and the grave across the yard.
 

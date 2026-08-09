@@ -62,11 +62,17 @@ He knew he _should_ know. Ealhild had played this game a hundred times before. B
 
 Osric looked around the room.
 
+In the background, there was a subtle sound.
+
+_Whhhiiiitt... Whhhiiiitt._
+
 He saw Eaxl playing with her wooden toy, a model of Gullinbursti the Boar. She smiled up at him and aimed the little boar in his direction.
 
 "Stand back, troll! I am the King of the Butter! My golden bristles make the butter yellow, and I won't let you sour our cream!"
 
 She laughed, trotting the toy across the floor before sending it flying through the air.
+
+_Whhhiiiitt... Whhhiiiitt._
 
 She then frowned.
 
@@ -82,7 +88,19 @@ Ealhild smiled at Osric. "When you were training with the fyrd, my love. I shave
 
 Her older brother, Beorn, was whittling a new button from a piece of soft wood. He looked up and smiled without saying a word.
 
-Mathild, the next oldest, was cleaning pots. She looked in turn and smiled, without saying a word.
+_Whhhiiiitt... Whhhiiiitt._
+
+Mathild, the next oldest, was cleaning pots. She stared at her father and smiled.
+
+"You'll never guess what I was able to barter for."
+
+At ten winters, she was already as dreaded in the market as any grizzled trader.
+
+"Mutton. Your favorite! I traded two eggs and a pinch of your raspberry seeds, mother."
+
+Ealhild looked at her elder daughter and smiled. "So that's where the other seeds went! Loki will see you as an equal, Mathild!"
+
+_Whhhiiiitt... Whhhiiiitt._
 
 Finally there was the eldest... Ingvarr, named after one of Ealhild's ancestors, sat in the corner sharpening a broad warseax. He was on his knees, the weight of the blade forcing Ingvarr to hold the blade with both hands. He methodically slid the edge on the large whetstone.
 

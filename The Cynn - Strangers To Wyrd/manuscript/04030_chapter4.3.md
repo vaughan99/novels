@@ -276,8 +276,6 @@ He looked down at the ground between them, no longer speaking to her at all.
 
 "Oh I can't stand it. I gave her hints. She clearly trusted me too much. What kinds of lessons should I learn for next time?"
 
-Elswyth struggled for words, as she stepped towards her father's axe.
-
 "You're... a..."
 
 "Monster?" he looked back up at her. "Why yes, a very... famished... monster. With refined taste. And better manners."
@@ -306,7 +304,11 @@ He set the skull down next to the fire.
 
 "I hear your heart, Meadow-bud. Come! Let us dance. One last time."
 
-He took up the coal rake and swept it into a graceful bow.
+Elswyth heard her heart pounding in her ears. _Heart beats? My father... timing was best done to heartbeats. For the singing coal... to know when to wait, and when to..._
+
+Elswyth stepped towards her father's axe.
+
+Fussleton took up a coal rake and swept it into a graceful bow.
 
 "My lady. Excellent posture."
 
@@ -486,15 +488,15 @@ That's when she noticed. He had stopped. He wasn't looking to pounce. He wasn't 
 
 Elswyth knew this wasn't a solution. It was time.
 
-She darted around the clamp and grabbed another rake. She hacked at the clamp. Earth fell away in chunks, exposing the charcoal to the night air. Orange light spread through the black charcoal. Sparks snapped upward, and small flames licked across the newly opened face.
+She darted around the clamp and grabbed another rake. She hacked at the clamp. Earth fell away in chunks, exposing the charcoal to the night air. With each new hole, the flame roared to life.
 
 "What... What are you doing Meadow-bud?"
 
-She didn't answer. She started raking hot charcoal onto the ground. Where the air met the charcoal, flames were rising. When he started to approach, she swung the rake, flinging hot charcoal at him. He could do nothing but dodge.
+She didn't answer. She started furiously raking hot charcoal onto the ground, just as if she were making singing coal. She ignored the massive heat. When he started to approach, she swung the rake, flinging hot charcoal at him. He could do nothing but dodge.
 
 "Wait! Stop!"
 
-She worked the rake furiously, building a moat of black and orange charcoal around her.
+She worked the rake, but it wasn't to bury the charcoal. She built a moat of black and orange charcoal around her.
 
 She stood defiantly. "You want me? You'll have to fight me here." She pulled out her small mushroom knife. It was the last bit of steel that she had.
 
