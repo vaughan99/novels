@@ -59,8 +59,8 @@ please do NOT ask about lorica against naked evil.
 ON THE MAIN STAGE (All times Standard Heaven Time):
 
 9 AM SHT  - SHIP OF THESEUS REBUILD-A-BOAT WORKSHOP  
-			      Don't throw it away! Make it new.
-			      Then call it your own!
+            Don't throw it away! Make it new.
+            Then call it your own!
 
 12 PM SHT - THE HOKEY-POKEY DANCE-OFF
             Put your whole soul in.
@@ -74,8 +74,8 @@ ON THE MAIN STAGE (All times Standard Heaven Time):
             GOOD LUCK!
 
 6 PM SHT  - WHEEL 2.0 WITH LUGHH THE CAVEMAN
-	          Inventor of the very first WHEEL!
-	          Make sure to yell "REVEAL THE WHEEL!"
+            Inventor of the very first WHEEL!
+            Make sure to yell "REVEAL THE WHEEL!"
 
 9 PM SHT  - ONE NIGHT ONLY! WOADIE AND THE ROADIES!
             Featuring their backup band, The Skeleton Crew!
