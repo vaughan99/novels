@@ -24,53 +24,69 @@ All Month in The Commons!
 Today's Featured Attractions:
 
 GULLINBURSTI'S "PIG FLIGHT ADVENTURE"
-_Be the first in your family (or anybody's) to fly with the pigs!_
+- Be the first in your family
+  (or anybody's) to fly with the pigs!
 
 THE ELENCHUS GAME, STARRING SOCRATES!
-_Match wits with history's greatest inquisitor!_
+- Match wits with history's greatest inquisitor!
 
 ARCHIMEDES' SCREWY WATER SLIDES
-_Tell your friends and family: I GOT SCREWED!_
+- Tell your friends and family: I GOT SCREWED!
 
-THIRD ANNUAL CATAPULT GAMES, FEATURING MASTER OF CEREMONIES: ISAAC NEWTON! _Guess right, fire the catapult. Guess wrong, the catapult fires YOU!_
+THIRD ANNUAL CATAPULT GAMES
+FEATURING MASTER OF CEREMONIES:
+ISAAC NEWTON!
+- Guess right, fire the catapult.
+- Guess wrong, the catapult fires YOU!
 
 FORGING EXPO WITH THE CYNN (repeats every 30 minutes)
-_101 Uses for Mithril_
-_Soul-Trap Blade Making, A Practical Guide_
-_Forge-side Rhyming Tips_
-_So You Accidentally Awakened Your Sword..._
+- 101 Uses for Mithril
+- Soul-Trap Blade Making, A Practical Guide
+- Forge-side Rhyming Tips
+- So You Accidentally Awakened Your Sword...
 
 DIOGENES' BARREL RACES
-_No clothes. No shoes. No prizes. Just barrels*._
-_At the insistence of Diogenes: barrels optional._
+- No clothes.
+- No shoes.
+- No prizes.
+- Just barrels*.
 
+* At the insistence of Diogenes: barrels optional.
+* At the insistence of a certain Italian priest from the 10th century,
+please do NOT ask about lorica against naked evil.
 
 
 ON THE MAIN STAGE (All times Standard Heaven Time):
 
 9 AM SHT  - SHIP OF THESEUS REBUILD-A-BOAT WORKSHOP  
-			_Don't throw it away. Make it new._
-			_Then call it your own!_
+			      Don't throw it away! Make it new.
+			      Then call it your own!
 
-12 PM SHT - MOZART'S PIANO DUEL CHALLENGE  
-            Featuring JERRY LEE LEWIS!
-            "GREAT BALLS OF FIRE, BABY. IT'S ON!!!"
+12 PM SHT - THE HOKEY-POKEY DANCE-OFF
+            Put your whole soul in.
+            Take your whole soul out.
+            In the afterlife, that's what it's all about.
 
-3 PM SHT  - SHAKESPEARE... ON ICE!  
-           _All the world's a rink._ 
+3 PM SHT  - MIDAS' TWISTER TOURNAMENT
+            Left hand gold.
+            Right foot gold.
+            Everything gold...
+            GOOD LUCK!
 
 6 PM SHT  - WHEEL 2.0 WITH LUGHH THE CAVEMAN
-	       _Inventor of the very first WHEEL!_
-	       _Make sure to yell "REVEAL THE WHEEL!"_
+	          Inventor of the very first WHEEL!
+	          Make sure to yell "REVEAL THE WHEEL!"
 
 9 PM SHT  - ONE NIGHT ONLY! WOADIE AND THE ROADIES!
+            Featuring their backup band, The Skeleton Crew!
+            And... Steve!
 
 
 
 DON'T FORGET, IF YOU'RE FEELING PECKISH:
 
 EPICURUS' ALL-YOU-CAN'T-EAT BUFFET
-_Revel responsibly._
+------- Revel responsibly. -------
 
 ```
 ---
@@ -133,7 +149,8 @@ Now Serving:
   
 Please take a queue number before seeking existential fulfillment.
 
-If you wish to exchange components for one-dollar bills to participate in the Elenchus Game, please see the Change Attendant.
+If you wish to exchange components for one-dollar bills to participate
+in the Elenchus Game, please see the Change Attendant.
 
 ```
 ---
@@ -425,16 +442,27 @@ The trio made their way through the crowd followed by the robot. They passed ano
 ```
 **NOTICE TO ALL VISITORS**
 
-Due to a chronic **wyrd shortage**, **Ragnarök has been canceled until further notice.**
+Due to a chronic **wyrd shortage**,
+**Ragnarök has been canceled until further notice.**
 
-All the eternities of the Nine Realms remain open. However, combat training in Valhalla is now **strictly optional**.
+All the eternities of the Nine Realms remain open.
+However, combat training in Valhalla is now **strictly optional**.
 
 Feast hall deliveries, please follow the signs to the loading bay.
 
-Also, our premiere theme park "Ragnarök: The Experience" is temporarily closed for renovations. The World Serpent keeps awakening and destroying the stadium. Please avoid the attraction until further notice, unless you possess current World Serpent combat certification.
+Also, our premiere theme park "Ragnarök: The Experience"
+is temporarily closed for renovations. The World Serpent
+keeps awakening and destroying the stadium.
+Please avoid the attraction until further notice,
+unless you possess current World Serpent combat certification.
 
 
-**NOTICE TO ALL ÆSIR, VANIR, ELVES, DWARVES, AND OTHER VISITORS FROM THE NINE REALMS**
+**NOTICE TO ALL
+ - ÆSIR
+ - VANIR
+ - ELVES
+ - DWARVES
+ - OTHER VISITORS FROM THE NINE REALMS**
 
 **ABSOLUTELY NO PILLAGING IS PERMITTED** within the Commons.
 
@@ -454,10 +482,12 @@ Missing: Three Norns
 Description: Elderly women. Frequently weaving.  
 Last Seen: Approximately 943 AD  
   
-If found, please notify the Afterlife Commons Office of Missing Entities. 
+If found, please notify the Afterlife Commons
+Office of Missing Entities. Or call 404-404-4044.
 
 IMPORTANT!!!
-DO NOT ATTEMPT TO RESTART FATE YOURSELF, UNLESS YOU WERE FATED TO DO SO.
+DO NOT ATTEMPT TO RESTART FATE YOURSELF...
+UNLESS YOU WERE FATED TO DO SO.
 ```
 ---
 
