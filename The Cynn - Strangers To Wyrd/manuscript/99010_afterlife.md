@@ -803,15 +803,9 @@ The roar of the crowd faded as Odin, the ravens, and the robot following several
 
 Backstage Producer: "Okay, I have Odin and the ravens. We're walking back to rehearsal. Get everyone ready for equipment check and walk-through."
 
-Backstage Hand One: "Looks like the lawyers are going to have to add another disclaimer."
-
-Backstage Hand Two: "The antimatter?"
-
-Backstage Hand One: "No, the mastodons."
-
 The producer led them through a maze of corridors to the soundproof rehearsal room, where the Skeleton Crew was waiting.
 
-The producer's headset crackled to life. Whoever was on the other end was clearly having trouble striking the Wheel 2.0 set. The producer sighed, and turned to leave giving everyone a thumbs up. "I don't care _how_ we got it up there.... Wait... the animal spirit got loose? Get some Wheel 1.0s under that thing and roll it off. We've got a schedule to keep! I'm on my way."
+The producer's headset crackled to life. Whoever was on the other end was clearly having trouble striking the Wheel 2.0 set. The producer sighed, and turned to leave giving everyone a thumbs up. "I don't care _how_ we got it up there.... Wait... the animal spirit got loose? Get some Wheel 1.0s under that thing and roll it off. We've got a schedule to keep! I'm on my way... No, I don't know our policy on capturing spirit rabbits..."
 
 The Skeleton Crew was a band made entirely of skeletons, as the name rather plainly implied. The rehearsal room had already been set for a run-through. Guitars rested on stands. A bass leaned against an amplifier. The drum stool sat empty.
 
