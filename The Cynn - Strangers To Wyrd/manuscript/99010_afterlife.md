@@ -457,16 +457,18 @@ Please avoid the attraction until further notice,
 unless you possess current World Serpent combat certification.
 
 
-**NOTICE TO ALL
- - ÆSIR
- - VANIR
- - ELVES
- - DWARVES
- - OTHER VISITORS FROM THE NINE REALMS**
+NOTICE TO ALL:
+ - Æsir
+ - Vanir
+ - Elves
+ - Dwarves
+ - other visitors from the Nine Realms
 
-**ABSOLUTELY NO PILLAGING IS PERMITTED** within the Commons.
+ABSOLUTELY NO PILLAGING IS PERMITTED within the Commons.
 
 You know who you are.
+
+Thank you.
 
 ```
 ---
