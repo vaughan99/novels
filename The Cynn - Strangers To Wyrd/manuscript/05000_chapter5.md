@@ -1,6 +1,6 @@
 # Chapter Five: Let Us Prey
 
-By the time Elswyth returned, the train’s oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat disappeared behind her.
+By the time Elswyth returned from spying on Wulfhere, the train’s oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat disappeared behind her.
 
 As the Easter crowds dispersed, the wagons jolted into motion and settled into the steady pace of the oxen.
 
