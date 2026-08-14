@@ -330,7 +330,7 @@ Wulfhere motioned for them to gather forward, and held his hand to his wolf's ea
 
 "NO!"
 
-"They don't care about us! They never asked the wolf if the fighting was done! They promised piles and delivered ash. Olaf can rot in Helheim!"
+"They don't care about us! They never asked the wolf if the fighting was done! They promised piles and delivered ash. And now Olaf turns coward, running to the cross instead of dying by the sword? Olaf can rot in Helheim!"
 
 Rognvaldr stepped forward, his arms reaching wide. "Come brothers! We feel your anger. We feel how you were betrayed. Look each other in the eye! Let your eyes show your brothers that you will not be denied!"
 

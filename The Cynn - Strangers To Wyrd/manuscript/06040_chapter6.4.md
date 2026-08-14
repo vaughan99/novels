@@ -6,7 +6,7 @@ _These are the lessons of the Wound._
 
 The remnants of the band drifted. They were six shadows moving through the Northumbrian mist, their horses gaunt and stumbling. They did not speak of the Wall. They did not speak of _Fer-Main_. To speak of them would be to touch the raw, weeping edge of the injury, and none of them had the strength to endure the pain of it.
 
-Cynewulf felt the world through a veil of agony. Every movement was a fresh cut. The rhythm of the horse’s gait, the bite of the wind, the smell of the damp earth—it all felt like salt rubbed into an open sore. He remembered the five minutes at the Wall with the clarity of glacier water. The perfect, disciplined machine he had worshipped was dismantled in the time it took to draw a long breath.
+Cynewulf felt the world through a veil of agony. Every movement was a fresh cut. The rhythm of the horse’s gait, the bite of the wind, the smell of the damp earth... it all felt like salt rubbed into an open sore. He remembered the five minutes at the Wall with the clarity of glacier water. The perfect, disciplined machine he had worshipped was dismantled in the time it took to draw a long breath.
 
 They stopped when one of the riders slumped. He was one of the scouts, and had been nursing a spear wound to the flank. He had died in the saddle.
 
@@ -16,7 +16,7 @@ They stopped in the lee of a collapsed stone sheepfold, a place where the wind d
 
 The two other wounded men were barely conscious. Their faces were the color of wet parchment, their breathing shallow and ragged. Cynewulf knelt beside them, his own ribs screaming with every breath, but he felt no urge to offer comfort. Comfort was for the living, and they were all just waiting for the dark.
 
-The other two survivors began the slow, methodical work of stripping the gear from their fallen comrade. Cynewulf realized that it was not even greed anymore. It was a kind of therapy... something to keep the hands moving when a man was dead inside.
+The other two uninjured survivors began the slow, methodical work of stripping the gear from their fallen comrade. Cynewulf realized that it was not even greed anymore. It was a kind of therapy... something to keep the hands moving when a man was dead inside.
 
 One of the riders searched the dead man’s horse and found a bundle tied behind the saddle. Cynewulf took it and unrolled the weathered cloth.
 
@@ -44,7 +44,7 @@ He didn't wait for an argument. He stood, the langseax heavy and unfamiliar at h
 
 "Here... take... mine," the remaining conscious wounded said. "And go..." he coughed more blood. 
 
-The two survivors who were still whole exchanged a look—a silent, hollow communion of men who had seen the end of the world and were now tasked with carrying the news. They didn't argue. They didn't pray. They simply stood and finished the stripping.
+The two survivors who were still whole exchanged a look... a silent, hollow communion of men who had seen the end of the world and were now tasked with carrying the news. They didn't argue. They didn't pray. They simply stood and finished the stripping.
 
 Suits of mail, shields, spears, even a sword were loaded on to two of the horses. The one horse that was severely injured was stripped of its saddle, its halter, and bags. They were loaded as well.
 
@@ -52,7 +52,7 @@ Cynewulf was no longer a priest. He knew that he had no communion, no oil, no wa
 
 The dying soldier looked Cynewulf in the eye, his blood smearing every cough. "I... always meant... he didn't..." his words failed him in death. Cynewulf waited a prolonged moment, and knew that it was too late.
 
-As they rode away, the silence of the Northumbrian hills swallowed the sheepfold. Cynewulf didn't hear the final, ragged breaths of the men he had left behind, but he felt them—a phantom weight on his conscience that he simply refused to acknowledge.
+As they rode away, the silence of the Northumbrian hills swallowed the sheepfold. Cynewulf didn't hear the final, ragged breaths of the men he had left behind, but he felt them... a phantom weight on his conscience that he simply refused to acknowledge.
 
 _Some wounds are easy to treat. Clean water, a wrap, a poultice of herbs, and time. The ones in the mind cannot be so easily be treated. They have a way of lingering long beyond their welcome. They often drive men mad._
 
@@ -86,15 +86,15 @@ The King's guard parted, and one took the reins of Cynewulf’s horse. The heral
 
 The herald announced, "My liege, a rider from the _Griffons_ has returned with news!"
 
-Aethelstan sat at a table of polished oak, his fingers resting on a map of the North. He was wearing a field crown, small and dignified. His robes were silk and perfectly trimmed, sitting squarely on his muscular physique. Behind him, his suit of mail hung upon a heavy oak cross, the sleeves draped like the arms of a martyr, the hauberk catching the candlelight. His sword and shield were in the hands of two squires who worked with rhythmic, silent precision. The tent smelled of faint incense and rosemary oil—a sharp, clean scent that felt like an insult to the filth clinging to Cynewulf’s boots.
+Æthelstan sat at a table of polished oak, his fingers resting on a map of the North. He was wearing a field crown, small and dignified. His robes were silk and perfectly trimmed, sitting squarely on his muscular physique. Behind him, his suit of mail hung upon a heavy oak cross, the sleeves draped like the arms of a martyr, the hauberk catching the candlelight. His sword and shield were in the hands of two squires who worked with rhythmic, silent precision. The tent smelled of faint incense and rosemary oil—a sharp, clean scent that felt like an insult to the filth clinging to Cynewulf’s boots.
 
 He did not look up when Cynewulf entered. He was a man of refined movement and cold, piercing eyes, his presence made the air stand on edge. The Bishop stood at his right hand, a shadow in silk.
 
-"The _Griffons_," Aethelstan said, his voice low and steady, still focused on the map. "They were to defeat the rabble at Hadrian, and hold the crossing at Tweed. Why have you returned?"
+"The _Griffons_," Æthelstan said, his voice low and steady, still focused on the map. "They were to defeat the rabble at Hadrian, and hold the crossing at Tweed. Why have you returned?"
 
 Cynewulf could barely contain himself. He dropped to his knees, crossed himself, and laid the truth bare. "There was a horde at Hadrian, sire. Hiding in the ruins behind the gate."
 
-"A horde? To a shepherd, five men might look like a horde," Aethelstan chided. "Be specific. Our scouts one month ago counted ten at the gate, with loose barricades and an easy bearing. Is this the horde of which you speak?"
+"A horde? To a shepherd, five men might look like a horde," Æthelstan chided. "Be specific. Our scouts one month ago counted ten at the gate, with loose barricades and an easy bearing. Is this the horde of which you speak?"
 
 He finally looked up. His eyes were like flint, devoid of pity. "Where is the banner, rider? And why does the vanguard smell of the grave?"
 
@@ -104,15 +104,15 @@ He finally looked up. His eyes were like flint, devoid of pity. "Where is the ba
 
 "'Twas necessary, your grace," Cynewulf said, his voice trembling with the weight of the warning. "You must know what waits for you at the gate. The ten are a ruse, sire. One hundred Alt Clut barbarians and archers will man those walls. Who knows how many more beyond that. Constantine's allies are prepared. They are not waiting for a skirmish; they are waiting for a stand."
 
-Aethelstan went still. The rhythmic hands of the squires went still as well. He looked at Cynewulf—really looked at him—searching for the lie. He knew the _Griffons_. He had paid for their crossing from Frankia and their reputation. He knew that if they were gone, the cost was not just gold, but the entire momentum of his campaign.
+Æthelstan went still. The rhythmic hands of the squires went still as well. He looked at Cynewulf. He was searching for the lie. He knew the _Griffons_. He had paid for their crossing from Frankia and their reputation. He knew that if they were gone, the cost was not just gold, but the entire momentum of his campaign.
 
-"A stand," Aethelstan repeated, the word tasting like ash in his mouth. He walked to the oak cross where his mail hung, his fingers brushing the cold steel of the hauberk. "_Fer-Main_ was a veteran of the southern marches. He did not lose forty lances to a 'ruse' unless the ground was already poisoned."
+"A stand," Æthelstan repeated, the word tasting like ash in his mouth. He walked to the oak cross where his mail hung, his fingers brushing the cold steel of the hauberk. "_Fer-Main_ was a veteran of the southern marches. He did not lose forty lances to a 'ruse' unless the ground was already poisoned."
 
 He turned, his movements fluid and predatory. "If you are lying, rider, I will have you hung from the highest tree on Dere Street before the sun sets. If you are telling the truth, you have brought me the death of my vanguard."
 
 The Bishop stepped forward, his face tight. "My liege, we cannot base our movements on the word of a man who has clearly been broken by the retreat. The scouts—"
 
-"The scouts' tales are a month old, Bishop!" Aethelstan snapped, his eyes never leaving Cynewulf. "The North is a shifting tide. If the Alt Clut have moved, if they have fortified the ruins..."
+"The scouts' tales are a month old, Bishop!" Æthelstan snapped, his eyes never leaving Cynewulf. "The North is a shifting tide. If the Alt Clut have moved, if they have fortified the ruins..."
 
 He turned back to Cynewulf, his expression unreadable. "You say you were the diversion. You say you saw the horde. Tell me, did you see their commander? Did you see the banner they flew?"
 
@@ -120,19 +120,21 @@ Cynewulf shook his head. "No sire. My mind was on my orders, to stall the gate, 
 
 He turned sharply, his eyes narrowing. "If you saw nothing of their commander, how do you know it was the Alt Clut? How do you know it was not a local militia, or a band of brigands playing at war?"
 
-Cynewulf: "Shield walls. Discipline. They held a line around the horses, which slowed breakouts. Archers on the walls were positioned to fire at the rear and sword-flank. Shields were useless. Horses were easy prey."
+"Shield walls. Discipline. They held a line around the horses, which slowed breakouts. Archers on the walls were positioned to fire at the rear and sword-flank. Shields were useless. Horses were easy prey."
 
-Aethelstan: "You saw all this in one moment in the yard?"
+"You saw all this in one moment in the yard?"
 
-Cynewulf: "It was clear. They came with shields and billhooks. They knew to expect cavalry."
+"It was clear. They came with shields and billhooks. They knew to expect cavalry."
 
-Aethelstan slammed his fist into the table, his rings leaving small indentations on the hard oak. He did not look up. "I believe you," the King said, his voice a low, dangerous rumble.
+Æthelstan slammed his fist into the table, his rings leaving small indentations on the hard oak. He did not look up. "I believe you," the King said, his voice a low, dangerous rumble.
 
-He finally raised his head, his eyes cold and dismissive. "Go. Join the baggage train. Speak of this to no one—not to the men, not to the camp followers, not to your God. If a single whisper of this 'horde' reaches the ranks, I will have your head. I expect you to be _absent_ at the next muster. We move in two dawns, and you are no longer part of this host."
+He finally raised his head, his eyes cold and dismissive. "Go. Join the baggage train. Speak of this to no one... not to the men, not to the camp followers, not to your God. If a single whisper of this 'horde' reaches the ranks, I will have your head. I expect you to be _absent_ at the next muster. We move in two dawns, and you are no longer part of this host."
 
 Cynewulf stood, his body aching, his soul hollowed out. He turned and walked out of the pavilion, leaving the King to his maps and his secrets. His shield and langseax were returned by the King's guard. "But where is my horse? I left it here..." Cynewulf was confused. He had handed the horse off to the guard. "Your friends took it with them. They were off to the carts. They seemed eager."
 
-He found the baggage train in the dark on foot. He asked the drivers for news of the _Griffons_ wagons. He finally found a driver with news; two men arrived with an extra horse, saying that they were the last of the _Griffons_ and that they were heading back to Frankia. They bid the drivers move quickly, and they left. They took everything. All he had was his armor, a shield, and his langseax. He had no coin, no supplies, and now, no army or lord to hire him.
+He found the baggage train in the dark on foot. He asked the drivers for news of the _Griffons_ wagons. He finally found a driver with news; two men arrived with an extra horse, saying that they were the last of the _Griffons_ and that they were heading back to Frankia. They bid the drivers move quickly, and they left. They took everything.
+
+All Cynewulf had was his armor, a shield, and his langseax. He had no coin, no supplies, and now, no army or lord to hire him.
 
 He stared at the space where he was told the wagons had been waiting. It was just a few ruts, oxen hoofprints in the mud, and the smell of manure. Cynewulf knew that there was no way to catch them. They were probably on their way to Hamwic to ferry back to Frankia, never to be seen again on these shores. He stood there staring at manure for what seemed like an eternity.
 
@@ -156,13 +158,13 @@ When the army marched again, he couldn't go with it. The King's guard knew his f
 
 With the entire host moving north, he reasoned that the road's patrols would be thin. This was a good time to be a highwayman. He felt as a man with nothing left to lose. And he meant to find others like him. Others who didn't ask questions about his dark armor and leathers, or the black griffon paint on his shield.
 
-He headed south. He found them in the dark corners of the Midlands—men who had been chewed up by the same war and spat out by the same kings. They were a collection of broken things, warbands of ghosts who fought for silver because they had forgotten every other reason to fight.
+He headed south. He found them in the dark corners of the Midlands... men who had been chewed up by the same war and spat out by the same kings. They were a collection of broken things, warbands of ghosts who fought for silver because they had forgotten every other reason to fight.
 
-For years he drifted between bands, never staying longer than his trust in people. He trusted no man and called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. He was now a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
+For years he drifted between bands, never staying longer than his trust in people. He called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. He was now a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
 
-Many names were given to him, and none were flattering.
+Many names were given to him, and none were flattering. With time, he had run out of bands to join. He found himself alone once more, but this time it was not because of his naivety... it was because the many faces of humanity each had a cruelty all their own. He kept no company because of what he might do.
 
-The first freeze of November 942 arrived with a cruelty that felt personal. It turned the mud of the Midlands into jagged, frozen teeth, and it turned Cynewulf’s blood into ice. He had been walking for days, his silver long gone, his stomach a hollow ache, and his hands—those once-steady hands of a deacon and horseman—were shivering icicles holding himself together.
+The first freeze of November 942 arrived with a cruelty that felt personal. It turned the mud of the Midlands into jagged, frozen teeth, and it turned Cynewulf’s blood into ice. He had been walking for days. His silver was long gone. His stomach was a hollow ache. His once-steady hands of a deacon and horseman now pulled a tattered cloak against his staggering frame.
 
 He stumbled upon the monastery of Saint-Martin's-on-Trent a day's walk out of Repton just as the sun began to bleed out behind the grey horizon. It was a small, struggling house, a collection of stone cells and a sagging timber chapel on a small hill overlooking a grove by the river Trent.
 
@@ -186,13 +188,13 @@ The abbot looked at the frost on the man’s eyelashes, then at the desperate, p
 
 "The cellar is dry," the Abbot said, stepping aside. "And the forge needs a hand. If you can work the iron, you can stay."
 
-"Lit forge? Where?" was all Cynewulf could muster. He saw the soot-wrinkled hands of the abbot, and 
+"Lit forge? Where?" was all Cynewulf could muster.
 
 Before the abbot could even answer, he saw the orange flicker in the distance and dragged himself to it. It was a room on the far wall of the abbey with a small chimney and embers.
 
 Cynewulf didn't thank him. He didn't look at the chapel. He simply dragged his cold-shriveled body through the gate, his boots leaving dark, muddy prints on the pristine snow.
 
-It was all Cynewulf could do to stop himself from jumping into the coals. He kneeled before the altar of heat, resting his hands and cheek on the hot stone.
+It was all Cynewulf could do to stop himself from jumping into the coals. He knelt before the altar of heat, resting his hands and cheek on the hot stone.
 
 The abbot left him in peace. A moment later, a sister brought a crust of bread and warm water. He found the first thing he could and threw it at her. The fist-sized bloomery iron missed, hitting the wall over her shoulder with a heavy crack. Slag and iron splinters rained into her hair and onto her shoulders. He screamed at her to leave. In the distance he could hear the crying of the nun, and the voice of the abbot.
 
@@ -274,11 +276,11 @@ _So sayeth the Wound._
 
 The thaw came in early March, turning the marsh into a treacherous, sucking mire. With the melting ice came the travelers.
 
-They arrived at dusk—a score of men and women, hard-eyed and mud-caked, their horses steaming in the damp air. They were a mercenary band, the kind that smelled of stale sweat and old violence. They weren't hard riders like the _Griffons Noirs_, nor as styled. They shared painted wool cloaks, a drawing of a red Welsh dragon on green ochre.
+They arrived at dusk... a score of men and women, hard-eyed and mud-caked, their horses steaming in the damp air. They were a mercenary band, the kind that smelled of stale sweat and old violence. They weren't hard riders like the _Griffons Noirs_, nor as styled. They shared painted wool cloaks, a drawing of a red Welsh dragon on green ochre.
 
-They didn't ask for the Abbot’s blessing; they demanded the yard for their horses and the hearth for their bellies, but they did so with a right smile and easy candor.
+They didn't ask for the Abbot’s blessing; they demanded the yard for their horses and the hearth for the warmth. But they provided a sack of grain for the church, an offering for everyone's bellies. And they did so with a right smile and easy candor.
 
-Cynewulf stood by the gate, his hand resting on the hilt of his langseax. He watched them dismount, his eyes scanning their gear, their posture, the way they held their blades. They were broken things, just like him.
+Cynewulf stood by the gate, his hand resting on the hilt of his langseax. He watched them dismount, his eyes scanning their gear, their posture, the way they held their blades.
 
 One of them, a man with a scarred jaw and a cloak that had seen better decades, caught Cynewulf’s gaze. He looked at the black griffon paint on Cynewulf’s shield, then at the steady, cold way the man held his ground.
 
@@ -288,7 +290,11 @@ Most of them were _Cymry_ skirmishers. They were warriors of the Powys hills wh
 
 They didn't line up in warfare, they preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle, ranged skirmishers that taunt you from afar, and whom you can never quite catch. Against such men, a shield wall felt less like a fortress and more like a prison..
 
-"We’re heading for Leicester. The Vikings are holed up, and there’s coin to be made in the breach. You look like a warrior. Will we see you there, or are you preparing our victory feast here for our return?" He laughed so hard, it was easy to understand he was joking.
+"We’re heading for Leicester. The Vikings are holed up, and there’s coin to be made in the breach."
+
+He studied Cynewulf from head to toe. "You dress like a warrior. Will we see you there, or are you preparing our victory feast here for our return?"
+
+He laughed so hard, it was easy to understand he was joking.
 
 Cynewulf looked at the Abbot, who was watching from the chapel door, his face a mask of silent prayer. He looked at the forge, where he had spent the winter hammering the ghosts out of his marrow. Cynewulf replied, "We can travel together. Do you have a charter, or were you just hoping for the best?"
 
@@ -298,7 +304,7 @@ Cynewulf was unsure of this Welshman. Cynewulf knew what it meant to be unprepar
 
 "If you take me in, I have experience in negotiation. I'm well-versed in Latin." Cynewulf felt the road open to him once more. He was eager to see where it led.
 
-"Good! We'll have you _negotiating_ with Latin curses to our enemies in no time!" The skirmisher's eyes widened. "Ha! You're acting like you even had a choice in the matter! My name is Madoc Bychan—Madoc the Younger. My parents had an older Madoc, but they kept him because he was the crazier one! I’m just the one who decided the world was too quiet, and all that crazy shouldn't be trapped in one family tree! Well, and they kicked me out. Welcome to the _Dannedd y Ddraig_! The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it's the only one backed by coin! I'd learn to speak to forest critters if it paid coin!"
+"Good! We'll have you _negotiating_ with Latin curses to our enemies in no time!" The skirmisher's eyes widened. "Ha! You're acting like you even had a choice in the matter! My name is Madoc Bychan... Madoc the Younger. My parents had an older Madoc, but they kept him because he was the crazier one! I’m just the one who decided the world was too quiet, and all that crazy shouldn't be trapped in one family tree! Well, and they kicked me out. Welcome to the _Dannedd y Ddraig_! The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it's the only one backed by coin! I'd learn to speak to forest critters if it paid coin!"
 
 The others greeted him with rough nods and claps on the shoulder, a warmth that felt like a brother in arms. They were quick to accept, but he imagined they were quick to turn if he crossed them.
 
@@ -346,7 +352,6 @@ Men:   "Don't look my way, it wasn't me."
 One of the men, a younger lad named _Baldy Gwyn_, was caught off-guard and laughed hysterically, breaking the refrain. The company stopped as one, every finger pointing at Baldy.
 
 Milli stared at him mock-sternly... it was time for his punishment. Milli motioned for the group to start the final punishing refrain:
-
 ```
 Group: "I see and hear the culprit fair, Right here, oh here, beside me."
 Milli: "Pitching tents when we get there!"

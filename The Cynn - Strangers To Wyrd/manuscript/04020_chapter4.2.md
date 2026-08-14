@@ -13,7 +13,7 @@ Everything drinks the moon in.
 
 He danced to his own tune around the fire, repeating the lines thirteen times. His feet both twirled and skipped with unnatural charm, his head bobbing until his cap nearly flew off his head.
 
-That is when he would pull out his bodhran and tipper, the kind of small frame drum with a two-sided drumstick. He worked himself into a drumming frenzy, prancing and singing his rhymes to ancient melodies. He taught her to dance, to feel the drumbeat as if it were her own heart. Dances lasted into the morning hours to the light of the moon.
+That is when he would pull out his small frame drum with a double-ended beater. He worked himself into a drumming frenzy, prancing and singing his rhymes to ancient melodies. He taught her to dance, to feel the drumbeat as if it were her own heart. Dances lasted into the morning hours to the light of the moon.
 
 ```
 Can you keep the beat with me?
@@ -119,6 +119,10 @@ She didn't dance. She stared at him.
 
 He stopped. "...You really can't hear it?"
 
+"I... my father... taught me to listen to it. To time the opening... of the clamp."
+
+"Well, then your father got something right!"
+
 And he left her there, a girl of eleven winters, yet much, much older in lunar years.
 
 The _Ulfhednar_ were long gone by then, and a steady, quiet life had returned to Under-Geat. Elswyth found the charred skeleton of the coaler’s hut, the roof long since consumed by the wolves' fire. She was alone, but she was no longer the girl who had fled into the trees.
@@ -133,7 +137,7 @@ But when the moon climbed high, Elswyth woke.
 
 The felling of large trees was still difficult for Elswyth. Her frame was muscular for a girl of eleven winters, but the iron oak resisted the bite of the felling axe. She began by dragging the fallen limbs where she found them.
 
-She revived her father’s trade entirely by herself. She could manage only two clamps, which meant less charcoal. More required more eyes than she possessed. Tending a clamp day and night was a delicate, dangerous madness. A single shift in the wind could drive breath beneath the earthen covering, turning a slow smolder into a hungry fire and exposing her to anyone watching from the hill. Yet she had the gnome’s rhythmic training.
+She revived her father’s trade entirely by herself. A clamp demanded watching through both day and night, and more than two required more eyes than she possessed. A single shift in the wind could drive breath beneath the earthen covering, turning a slow smolder into a hungry fire and exposing her to anyone watching from the hill. Yet she had the gnome’s rhythmic training.
 
 She read the clamp’s heat in the faint shimmer rising against the stars and knew the wood was cooking by the sweet, heavy scent of sap and smoke. Where she suspected a hot place, she flicked a few drops of water onto the packed earth and watched how quickly they vanished into steam.
 
@@ -153,7 +157,7 @@ She had no sacks to store the coal, so she had to steal. She didn't want to alar
 
 She crept along the wall looking for an opening in the stone. She found the one Godwine opened when he took the final stone for their hearth. She put a foot through, then her leg. Once through, she slid along the wall towards the Shadow Gate and stood next to the gate posts.
 
-Morning-Eye looked past her, oblivious to her presence. Blackjoy stared off into the distance. During the day, she dreaded his gaze. By moonlight, though, he looked almost comical. Only then did she understand what Fussleton had been trying to teach her. Moonlight did not merely illuminate the world—it changed how the world was seen.
+Morning-Eye looked past her, oblivious to her presence. Blackjoy stared off into the distance. During the day, she dreaded his gaze. By moonlight, though, he looked almost comical. Only then did she understand what Fussleton had been trying to teach her. Moonlight did not merely illuminate the world... it changed how the world was seen.
 
 "Who goes there?" An old woman's voice, softened by time, arose from behind Blackjoy. She was balanced on a step-ladder, bucket in one hand, and a dabbing cloth in the other. She was cleaning the dirt off Blackjoy's cheek where farmers had sworn the day before.
 
@@ -199,7 +203,7 @@ Elswyth blinked, stunned.
 
 Shadow-Wife chuckled softly.
 
-"Dear, my eyes may not be what they once were..." She rubbed Morning-Eye's eyes with her damp cloth, brightening his outlook on life. "...but I can smell you've taken up your father's vocation. You're going to need Long-Mile's help if you hope to sell the coal, and you're going to need somewhere to store it if you want to beat everyone to Morning-Eye's nose. Though, you haven't thought about how you're going to sell it yet. I can tell."
+"Dear, my eyes may not be what they once were..." She rubbed Morning-Eye's eyes with her damp cloth, brightening his outlook on life. "...but I can smell you've taken up your father's vocation. You're going to need Long-Mile's help if you hope to sell the coal, and you're going to need somewhere to store it if you want to beat everyone to Morning-Eye's nose. Though, you haven't thought about how you're going to sell it yet..."
 
 Shadow-Wife looked into Morning-Eye's nose, to make sure no child had played a joke on Morning-Eye.
 
@@ -249,7 +253,7 @@ He threw off his wool blanket and opened his eyes wide, drinking in as much ligh
 
 "Well, you old bag of carrots, you going to come down and give me a hug?"
 
-Long-Mile threw off his wool blanket, and his hands and feet remembered the rungs of his ladder before his eyes cared to look.
+Long-Mile's hands and feet remembered the rungs of his ladder before his eyes cared to look.
 
 Elswyth hugged his leg. It was all she could manage. His face had a few wrinkles around his familiar eyes.
 
@@ -277,11 +281,37 @@ He held the stern expression for another heartbeat.
 
 Long-Mile chuckled softly, shaking his head. "You are eager, aren't you. Too eager to let an old carter sleep?"
 
-"Thanks Long-Mile! You're the very best!" She flashed the broadest grin. "Oh, and... I'm still dead. Very, very dead."
+"Thanks Long-Mile! You're the very best!" She flashed the broadest grin. "Nobody knows I've returned, except Shadow-Wife that is..."
 
-Long-Mile laughed aloud. "Of course you are! You know I can't keep a straight face listening to them whisper about how you _breathe_ on folk before dragging them by their heels into the fire!"
+"Well why not? Afraid of the competition? I've helped some coalers upriver deliver to Leicester."
+
+"Long-Mile, if everybody knew I was back... and where I've been... there would be questions. Finger-pointing. Maybe worse."
+
+"Well... hmmmm... then you're still dead."
+
+"Yes! Very, very dead."
+
+Long-Mile laughed aloud. "Of course you are!"
+
+"There's something else you should know. I'm not just dead. I'm... a ghost."
+
+Long-Mile cocked his head and his expression dropped. His hand found the medallion of St. Christopher that hung over his neck. "You shouldn't joke about such things."
+
+"Well... the villagers... in Under-Geat... they've made up their own minds. I'm... the Coaler-Wight". Elswyth stared at the dirt... almost ashamed.
+
+Long-Mile stared at her. His expression turned, as if that was the most hilarious thing he had ever heard. "YOU! Elswyth, that story has grown legs faster than you know!"
+
+He bent nearly double, laughing until his lungs threatened to seize.
+
+Elswyth looked up, and began to smile.
+
+Long-Mile roared. "You know... hahahaha... now I won't keep a straight face! Listening to them whisper about how you _breathe_ on folk? Hahahaha... before dragging them by their heels into the fire? Hahahaha... I bet 'ole Bread and Butter here think it's hilarious too."
+
+Bread and Butter, his oxen, looked at each other for a long moment. Elswyth thought she caught one of them wink. Then they went back to chewing cud.
 
 "So you'll tell nobody else?"
+
+Long-Mile wiped the tears of joy from his eyes.
 
 "And who would believe me anyway? I keep everyone's secrets, child."
 
@@ -332,6 +362,8 @@ She ran up to the old carter. The oxen stared at her, barely impressed.
 Long-Mile barely caught the penny, almost dropping it under his seat. He narrowed his eyes at her. "You had me thinking the wolves were back!"
 
 "Nah, just me. Your _favorite_... customer!" She gave a twirl.
+
+He gave a nod, and pocketed the penny. She waved goodbye, and headed back to Under-Geat.
 
 ---
 

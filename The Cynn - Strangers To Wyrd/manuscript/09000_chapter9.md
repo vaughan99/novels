@@ -90,7 +90,7 @@ The redcap resumed his commanding, authoritative tone.
 
 "Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
-Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had jumped into the plung e pool, but the archway served as a choke-point, and slowing them enough to allow them to approach only one at a time.
+Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had jumped into the plunge pool, but the archway served as a choke-point, and slowing them enough to allow them to approach only one at a time.
 
 A strange warmth flooded her limbs. Not the warmth of a hearth or summer sun, but something sly and invasive, creeping through her blood like roots beneath soil.
 

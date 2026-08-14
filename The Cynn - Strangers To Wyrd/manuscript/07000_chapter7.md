@@ -28,7 +28,7 @@ Galindo turned his horse’s head, tapped his southern stirrups, and led the mai
 
 "Well, isn't that a proper horse's ass," Murdock snorted. It wasn't clear if he meant Galindo, or the clean backside of Galindo's horse. "Can't possibly dirty his boots in this mess, can he?... Alright, back to work!"
 
-Osric dropped a heavy, splintered piece of ash into the slush, his hands shaking from numbing cold and hunger. He wiped the cold sweat from his brow and looked at Murdock. "The spares are spent, master," Osric reported, his voice flat with exhaustion. "We are out of axles. The last seasoned axle snapped when the left cart took the ditch. "
+Osric dropped a heavy, splintered piece of ash into the slush, his hands shaking from numbing cold and hunger. He wiped the cold sweat from his brow and looked at Murdock. "The spares are spent, master," Osric reported, his voice flat with exhaustion. "We are out of axles. The last seasoned axle snapped when the left cart took the ditch."
 
 Murdock side-stared Elswyth, knowing that his full glare was a snare only for stronger animals. "You know the darkwood well enough for axle-timber I take it?" he asked, his voice treading lightly. She nodded. "I can find it in the moonlight."
 
@@ -52,7 +52,7 @@ Murdock briefly looked up. "In case one of the oxen suddenly decides he's the _K
 
 The men grappled the heavy baggage boxes, stacking them beneath the wagon beds to block the gaps. Osric and Cynewulf worked side by side, their movements heavy and full of unspoken dread. They both knew the truth of the night. A cart-fort was a fine thing against common highwaymen, but _Ulfhednar_ are hunters of better craft.
 
-Elswyth slipped over the tailgate of one of the carts and huddled beneath a heavy wool blanket against the wagon wall near the corner gap. She kept to herself, though the others were only a few paces away.
+Elswyth slipped over the tailgate of one of the carts and huddled beneath a heavy wool blanket near the corner gap. She kept to herself, though the others were only a few paces away.
 
 Night descended like a heavy iron lid. Murdock set the watches, three at a time. There was no dry wood for a fire. They ate their rations wet and cold beneath the pale glow of a single lantern hanging from the roadward wagon. The world went dead, horribly quiet. A thick fog settled in.
 

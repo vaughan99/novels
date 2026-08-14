@@ -4,7 +4,7 @@ _There are times when the lessons of the Road are not enough for survival. There
 
 _These are the lessons of the Sword._
 
-The call came in the spring of 934. The Saxon King Athelstan was marching north, and the King’s shadow was stretching all the way to the Scottish highlands. Every road was choked with levies, every scriptorium was drowning in requisitions for grain, iron, and men. It was the perfect storm. The stolen seal was fine for providing more coin, more grain, and better morale. But a forged seal doesn't fight wars. Soldiers do.
+The call came in the spring of 934. The Saxon King Æthelstan was marching north, and the King’s shadow was stretching all the way to the Scottish highlands. Every road was choked with levies, every scriptorium was drowning in requisitions for grain, iron, and men. It was the perfect storm. The stolen seal was fine for providing more coin, more grain, and better morale. But a forged seal doesn't fight wars. Soldiers do.
 
 A rider from the King arrived.
 
@@ -42,21 +42,21 @@ The rider’s jaw settled into iron resolve. But the parchment was already seale
 
 The rider didn't flinch. He leaned forward in his saddle, the leather of his gauntlet creaking as he gripped the reins. "The King doesn't hang his vanguard, _Fer-Main_. He just lets them starve when the supply lines get cut. You want the silver? You clear the road. You want the salvage? You take it from the Norse, not the Church. That’s the contract. Take it or leave it, but the army moves at dawn."
 
-_Fer-Main_ stared at him, the silence stretching until it felt like the air itself was hardening. He wasn't looking for a fight—he was looking for the limit of the King's desperation. And the contents of the charter were that limit.
+_Fer-Main_ stared at him, the silence stretching until it felt like the air itself was hardening. He wasn't looking for a fight... he was looking for the limit of the King's desperation. And the contents of the charter were that limit.
 
-"Fine," _Fer-Main_ said, his voice dropping to a low, dangerous register. "We’ll clear the road. Bandits in Durham beware... we'll hang their _fully-clothed_ corpses from the trees, for all to see—Pagan _and_ Christian. We’ll leave them as a testament to the King’s justice. If the Bishop of Durham has a problem with the view, he can take it up with Winchester... and if he wants to stop it, he can send a fast rider with a bag of silver."
+"Fine," _Fer-Main_ said, his voice dropping to a low, dangerous register. "We’ll clear the road. Bandits in Durham beware... we'll hang their _fully-clothed_ corpses from the trees, for all to see... Pagan _and_ Christian. We’ll leave them as a testament to the King’s justice. If the Bishop of Durham has a problem with the view, he can take it up with Witanceaster... and if he wants to stop it, he can send a fast rider with a bag of silver."
 
-He snatched the charter from Cynewulf’s hands and tucked it into his belt. He looked up at the rider, his eyes cold. "Tell the King his vanguard is moving. And tell him to keep his chaplain in the back, unless he wants to see what the King’s justice looks like up close."
+He snatched the charter from Cynewulf’s hands and tucked it into his belt. He looked up at the rider, his eyes cold. "Tell the King his vanguard is moving. And tell him to keep his chaplain in the rear, unless he wants to see what the King’s justice looks like up close."
 
 The rider gave a single, stiff nod, his face pale. He didn't argue. He wheeled his horse and spurred it back toward the royal column, eager to put distance between himself and the _Griffons Noirs_.
 
-"Saddle up!" _Fer-Main_ roared, turning to the camp. "We ride north! Leave the heavy wagons with the King’s train," _Fer-Main_ ordered. "We’re taking the pack-ponies and the spare mounts. If we can't carry it on a horse, we don't need it. We’re the vanguard, not infantry. We eat what we find, and we sleep where we stop."
+"We ride north!" _Fer-Main_ roared, turning to the camp. "Leave the heavy wagons with the King’s train," _Fer-Main_ ordered. "We’re taking the pack-ponies and the spare mounts. If we can't carry it on a horse, we don't need it. We’re the vanguard, not infantry. We eat what we find, and we sleep where we stop."
 
-The unit's standard bearer snatched the King's ribbon from Cynewulf's hands without a word, his movements practiced and swift. Within moments, the gold-threaded silk was snapping in the wind above the company—a mark of royal sanction that turned a band of cutthroats into the King’s eyes, ears, and sword.
+The unit's standard bearer snatched the King's ribbon from Cynewulf's hands without a word, his movements practiced and swift. Within moments, the gold-threaded silk was snapping in the wind above the company... a mark of royal sanction that turned a band of cutthroats into the King’s eyes, ears, and sword.
 
 The camp transformed. The heavy, lumbering wagons that had been their home for months were abandoned to the King’s baggage train. They would catch up eventually. In their place, the men packed light: spare iron, salted rations, hard ale, and extra horseshoes lashed to the saddles of the pack-ponies. They'd mix hard ale with local water for drinking.
 
-Cynewulf watched the transformation with a grim sense of finality. He had spent his life accumulating things—books, seals, the comforts of a settled existence. Now, he was stripping himself down to the bare essentials for battle and the ride.
+Cynewulf watched the transformation with a grim sense of finality. He had spent his life accumulating things... books, seals, the comforts of a settled existence. Now, he was stripping himself down to the bare essentials for battle and the ride.
 
 The company rode faster than Cynewulf had ever seen. 
 
@@ -154,7 +154,7 @@ Cynewulf had a broken rib, simple and survivable. The pain was a reminder of his
 
 The plunder was split with cold efficiency. The killers took first pick from their dead. Everything else went to the quartermaster, who paid each rider his share and immediately offered the company stores for trade. The system prevented quarrels, kept the ledger balanced, and ensured that some portion of every penny returned to the Griffons.
 
-Cynewulf watched the process, surprised by the lack of argument. He had expected the usual chaos of the road—the haggling over rusted seaxes, the desperate trades of shirts for belts, the inevitable fights over who deserved the better share.
+Cynewulf watched the process, surprised by the lack of argument. He had expected the usual chaos of the road... the haggling over rusted seaxes, the desperate trades of shirts for belts, the inevitable fights over who deserved the better share.
 
 Instead, this was cleaner, more efficient. It was a system. And, he noted with a grim realization, it meant the company took its cut before the men ever touched a coin.
 
@@ -166,7 +166,7 @@ _Fer-Main_ pulled his horse to a halt, his eyes scanning the "mouth" of the gat
 
 "They want us to walk through the front door," _Fer-Main_ muttered, his voice a low rasp. "They’ve spent all winter stacking rocks and sharpening sticks in that gap. It’s a slaughter-pen."
 
-He turned to his scouts. "Spread out. I want the Wall probed for three miles in either direction. Look for the 'soft' spots—where the stone has slumped, where the ditch is dry, or where the brush is thick enough to hide a horse. If the Wall is a lock, we aren't going to pick it. We’re going to find where the wood has rotted."
+He turned to his scouts. "Spread out. I want the Wall probed for three miles in either direction. Look for the 'soft' spots: where the stone has slumped, where the ditch is dry, or where the brush is thick enough to hide a horse. If the Wall is a lock, we aren't going to pick it. We’re going to find where the wood has rotted."
 
 Cynewulf watched as the company broke apart, moving with the fluid, silent efficiency of a hunting pack. They didn't ride in a column; they moved in pairs, ghosting through the heather and the scrub, their eyes scanning the ruins for a weakness.
 
@@ -212,7 +212,7 @@ The guard’s smile vanished, replaced by a shriek of agony that tore through th
 
 From behind the gate, Cynewulf heard them. A hundred souls of screaming Alt Clut hate rushed forth from the ruins to meet the hoofbeats. _Fer-Main_'s gambit had pinned his cavalry against the wall. It was every cavalryman's nightmare.
 
-The nine other guards at the gate formed a rank of shields, and advanced on Cynewulf and his three riders. A line of guards, five in total, formed on the wall with bows. Cynewulf raised his shield just as two arrows poked through where his face would've been. Cynewulf turned on his horse on heel, and attempted to ride beyond a bow's reach.
+The nine other guards at the gate formed a rank of shields, and advanced on Cynewulf and his three riders. A line of guards, five in total, formed on the wall with bows. Cynewulf raised his shield just as two arrows poked through where his face would've been. Cynewulf turned his horse on heel, and attempted to ride beyond a bow's reach.
 
 One of the riders suffered two arrows to the back, and slumped. The remaining riders took to hoof as well, meeting Cynewulf further from the gate. They each looked at each other in disbelief.
 
@@ -256,8 +256,8 @@ They met two more riders on Dere Street, survivors who retreated back through th
 
 "Where do we go?" one of the riders whispered, his voice hollow.
 
-Cynewulf was still in shock. One of the wounded scouts replied, "Anywhere but here." That was more than just a recollection; it was a call-to-action.
+Cynewulf was still in shock. One of the wounded scouts replied, "Anywhere but here." There was only one direction that _anywhere_ could mean... south back to the safety of the main host.
 
-_The Sword takes men. Sometimes one at a time. Sometimes it cleaves an entire company with one slice. Men at war are grist for the mill. And the Sword is the wheel that delivers final verdict._
+_The Sword takes men. Sometimes one at a time. Sometimes it cleaves an entire company with one slice. The lives of men at war often hang by a thread. And the Sword can cut that thread without a second thought._
 
 _So sayeth the Sword._

@@ -10,7 +10,7 @@ In the beginning, her family did the dirty work of managing charcoal pits with w
 
 For two months that spring, the Saxon horde had made Under-Geat their home. And for two months, Elswyth watched the forest awaken, filling her snares before filling her basket. She avoided the villagers when selling to the visitors, always drawing up her cowl before offering anything for sale. Mushrooms were often traded for broth. A small rabbit could bring a loaf of bread. But a marten's pelt could buy four suppers, and its meat would be the fifth.
 
-That morning, she took the news of the peace with dread. She had no ear for war, but she also had no love for the Danes, especially those dressed as wolves. While the Danes ruled, she preferred the call of the forest birds to the sounds of the Vikings' boasts. Now with the Danelaw officially in the hands of the Danes, she wasn't sure that Leicester was her home.
+That morning, she took the news of the peace with dread. She had no ear for war, but she also had no love for the Danes, especially those dressed as wolves. While the Danes ruled, she preferred the call of the forest birds to the sounds of the Vikings' boasts. The Saxons had taken Leicester only to give it back. She wasn't sure that Leicester was her home anymore.
 
 Osric's Tyne River fyrd was one of the companies encamped just outside Under-Geat. Their wagon master was a Scot named Murdock, a fire-bearded man whose first instinct was always to count: wagons, oxen, barrels, sacks, and finally people. He had seen Elswyth faithfully deliver her bounty for several weeks. And with the mud, his count of spare axles was down to a single hand. He needed a forester to prepare for the worst. Broken axles did not grow on wagons, and hungry men did not march on promises.
 
@@ -37,6 +37,8 @@ Two men followed with an open, iron-bound chest faced in pieces of Roman tile. W
 Last came the senior priests of Leicester’s two churches, robed for Easter Mass. Young attendants followed close behind, gathering the lower folds of their vestments above the mud.
 
 Before the altar, woven mats of basket-willow reeds had been spread over the churned ground. The attendants guided the priests onto them, lowered the gathered cloth, and stepped aside.
+
+A murmur passed through the gathered crowd. King Edmund, Archbishop Oda, and Archbishop Wulfstan were noticeably absent. At dawn, Edmund had ridden north with his household warriors to receive Olaf's oath at a place arranged the night before by Wulfstan. There, on the banks of the River Soar, Oda baptized Olaf while Edmund stood as his sponsor.
 
 Elswyth made her way to the edge of the South Pastures for a better view. From the higher ground, she searched the gathering for Long-Mile and Shadow-Wife. They were the only two she cared enough about to embrace before leaving. She could find neither. With so many dead still unburied, she supposed they had more pressing work elsewhere.
 

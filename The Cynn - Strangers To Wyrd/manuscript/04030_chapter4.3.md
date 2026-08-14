@@ -438,7 +438,7 @@ Elswyth narrowed her eyes and met his.
 
 "Four."
 
-Elswyth dug her eyes in the soot and dirt. Her feet were set.
+Elswyth dug her heels into the soot and dirt. Her feet were set.
 
 "Three."
 

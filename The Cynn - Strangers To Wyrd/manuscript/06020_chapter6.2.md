@@ -128,7 +128,7 @@ They oinked at him, gesturing at his mail and the mud caked into the links. They
 
 His ember-hate grew, hot and familiar, but he smothered it. He didn't need their respect; he needed a place to exist. He needed to prove he was more than the mud-caked scavenger they saw.
 
-His mind raced, searching for the bridge between the gutter and the gate. He tried Latin—the language of the altar, the law, and the men who actually held the power.
+His mind raced, searching for the bridge between the gutter and the gate. He tried Latin... the language of the altar, the law, and the men who actually held the power.
 
 _"Quid vis ut faciam?"_ he asked, his voice steady, the vowels crisp and authoritative against the rough camp-noise. _"Quomodo tibi prodesse possum?"_
 
@@ -136,7 +136,7 @@ The laughter died. The guards exchanged a confused look, their hands drifting aw
 
 He watched the shift in their eyes. He wasn't a pig anymore. He was a curiosity. And in the economy of the Road, curiosity was the first step toward utility.
 
-"Did they understand?" he thought. "Or did I just confuse them?" It wasn't clear. But their tone changed to one of demands. "Water." said one, demanding fresh water for his watch. "There." another pointed. He wanted Cynewulf to watch the shadows in a certain direction.
+_Did they understand? Or did I just confuse them?_ It wasn't clear. But their tone changed to one of demands. "Water!" said one, demanding fresh water for his watch. "There!" another pointed. He wanted Cynewulf to watch the shadows in a certain direction.
 
 Another watch finally came to relieve them just before daybreak. Cynewulf went back to his sleeping patch, tired from sleep deprivation.
 
@@ -239,7 +239,7 @@ He knew that if he made the parish too prosperous, the clerk would be suspicious
 ```
 To the Most Reverend Office of the Archbishop,
 
-We, the humble flock of St. Odile-of-the-Silt, write to you from the edge of the world. Our parish is a sanctuary for those whom the Lord has seen fit to shroud in darkness—the blind who have nowhere else to turn in these harsh marshes.
+We, the humble flock of St. Odile-of-the-Silt, write to you from the edge of the world. Our parish is a sanctuary for those whom the Lord has seen fit to shroud in darkness... the blind who have nowhere else to turn in these harsh marshes.
 
 The spring floods have breached our churchyard, and the graves of our ancestors are being washed into the silt. We lack the funds to build a stone revetment. We humbly petition the Archbishop for a formal decree of 'Relocation of Sanctity,' allowing us to move the remains to higher ground without violating the sanctity of the dead.
 
@@ -252,7 +252,7 @@ Father Godwin,
 St. Odile-of-the-Silt
 ```
 
-Cynewulf didn't seek out the head of the scriptorium. He sought out the man with the most ink-stained fingers and the deepest bags under his eyes—a clerk who looked as though he hadn't seen the sun in a week.
+Cynewulf didn't seek out the head of the scriptorium. He sought out the man with the most ink-stained fingers and the deepest bags under his eyes. A clerk who looked as though he hadn't seen the sun in a week.
 
 He approached with the practiced humility of a man who had walked a hundred miles in the service of the faith. He spoke of the Fens, of the grey, shifting silt, and of the twenty souls at _St. Odile-of-the-Silt_ who lived in a world of perpetual shadow. He didn't ask for a favor; he asked for a mercy.
 
@@ -280,9 +280,11 @@ Cynewulf built the flasks and cast the sand. The smith melted the bronze. And to
 
 The next morning, as he tested the press on a typical lead blank, the resulting seal was so perfect, so sharp, that it almost made _Fer-Main_ smile.
 
-_Fer-Main_ didn't speak much, but he knew the weight of a tool when he held it. He turned the bronze tongs over in his calloused hands, feeling the balance, the precision of the guide-pin, the bite of the dies. He looked at the seal Cynewulf had struck—the crisp, tactile authority of the Archbishop—and then he looked at the man who had made it.
+_Fer-Main_ didn't speak much, but he knew the weight of a tool when he held it. He turned the bronze tongs over in his calloused hands, feeling the balance, the precision of the guide-pin, the bite of the dies. He looked at the seal Cynewulf had struck with its crisp, tactile authority of the Archbishop. He looked at the man who had made it.
 
-The mercenary captain didn't offer praise; he offered a horse. A destrier, still wild-eyed and trembling from the breaking-pen, stood waiting by the tent. Beside it lay a set of black leathers, oiled and supple, the mark of a man who belonged to the inner circle of the company.
+The mercenary captain didn't offer praise; he offered a horse. A destrier, still wild-eyed and trembling from the breaking-pen, stood waiting by the tent. 
+
+Beside it lay a set of black leathers, the mark of a man who belonged to the inner circle of the company. They included high riding boots, a pair of strapped leather cuisses, two weapon belts, and a war saddle. All new, jet black, and freshly oiled.
 
 Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen did not accept him, but they no longer needed to. He had made himself necessary, and necessity was worth more than all the silver in _Fer-Main’s_ purse.
 

@@ -1,6 +1,6 @@
 # Chapter One: A Promise of Piles
 
-The Saxon armies had gathered from icy roads far away, to deliver _DEATH_ to the Danes who occupied Leicester. 
+The Saxon armies had gathered from distant icy roads to deliver DEATH to the Danes who occupied Leicester.
 
 ---
 
@@ -20,27 +20,27 @@ Muninn: "You keep reading... _the story_."
 
 ---
 
-Inside the city walls, King Olaf Guthfrithson studied his enemy.
+Inside the city walls, King Olaf Sihtricson studied his enemy.
 
-He was no common sea-raider.
+Olaf had succeeded his kinsman Olaf Guthfrithson in York after the latter's death in 941.
 
-King of Dublin and claimant to York, he heard of King Æthelstan's death in 939 and learned that Æthelstan's brother Edmund, a youth of eighteen winters, had been proclaimed King of the Saxons. The boy had even assumed Æthelstan's title of King of the English. Olaf wagered that parchment and trinkets could proclaim a king. Only men standing knee-deep in mud could prove one.
+When the Saxon King Æthelstan died in 939, Æthelstan's brother Edmund, a youth of eighteen winters, was also proclaimed a new king. The boy had even assumed Æthelstan's title of King of the English.
 
-There could be no better time to reclaim the Five Boroughs of the Danelaw.
+For generations the Five Boroughs of the Danelaw had passed back and forth between Saxon and Danish kings, won at terrible cost and lost almost as quickly. Every generation believed it had settled the question. Every generation discovered otherwise. These new kings were just another generation.
 
-For generations those boroughs had passed back and forth between Saxon and Danish kings, won at terrible cost and lost almost as quickly. Every generation believed it had settled the question. Every generation discovered otherwise.
+Olaf was no relic of the old sea-kings, however. He had lived among Christians, heard their priests, and ruled among Christian subjects. Yet the old ways lingered in his halls. Many of his warriors still swore by the Norse gods and still sought the kind of death worthy of remembrance.
 
-He was no relic of the old sea-kings. Olaf had been baptized into Christ, heard Mass, and ruled among Christian subjects. Yet the old ways lingered in his halls. Many of his warriors still swore by the Norse gods and still sought the kind of death worthy of remembrance.
+In 942, the armies of Edmund had re-taken the Danelaw. In response, Olaf descended from York upon Mercia. At Tamworth, his men broke the Saxons and carried away plunder. He could not hold Tamworth, and found that the road east was open. As autumn waned into winter, Edmund's forces dispersed. Olaf found himself on the doorstep of Leicester, which yielded. There the old Roman walls offered him a place to hold through winter and the following spring... or so he thought.
 
-Olaf descended upon the Danelaw. He took York easily. By the autumn of 942, Leicester had fallen into Danish hands, and he held it through the winter.
-
-King Edmund had called upon his lords to deliver a force to retake Leicester. His lords answered.
+King Edmund did not stay idle. Through the winter chill, he sent riders in all directions. He called upon his lords to deliver a bigger force to answer Olaf. His lords answered.
 
 The armies fighting for Edmund came from East Anglia, Mercia, Wessex, and even Northumbria. Mercenaries came from every corner where the news of silver could spread.
 
-At their head stood King Edmund I, now a man of twenty-two winters, and King for four. Beside him rode Archbishop Oda of Canterbury, a Dane by birth and an Englishman by conviction, whose prayers carried nearly as much weight as the king's commands.
+At their head stood Edmund, no longer a boy, but now a man of twenty-two winters. Beside him rode Archbishop Oda of Canterbury, a Dane by birth and an Englishman by conviction, whose prayers carried nearly as much weight as the king's commands.
 
-For weeks the armies had tested Leicester's walls. They were stout and well defended—except in one place.
+For weeks the armies had tested Leicester's walls. They were stout and well defended.
+
+Except in one place.
 
 The southwestern wall was crumbling. Between the South Gate and the West Gate stood the Shadow Gate, where age and neglect had reduced the Roman masonry to little more than a timber-reinforced scar. Every soldier knew it was the city's weakest point.
 
@@ -52,7 +52,7 @@ Because of the _frith_.
 
 Oda said nothing.
 
-"The Shadow Gate is scarcely a wall anymore," Edmund continued. "A few hundred men could force it before noon."
+"The Shadow Gate is scarcely a wall anymore," Edmund continued. "A few hundred men could force it without trying. Give them rations in the morning, let them lean against it for an hour while they talk, and it would be down before the sun was high."
 
 "They could."
 
@@ -64,7 +64,7 @@ Oda looked toward the church belltower rising above Leicester's rooftops.
 
 Oda sighed, and his hand found his golden cross. "My lord King, my answer has not changed. The Church's _frith_ is a covenant. We do not merely cast it aside for convenience. To ask this of me on Easter Eve borders on blasphemy."
 
-The King leveled an icy stare at Oda. "I would hardly call the deaths of a few hundred men, taken while reclaiming a city for Christ, a matter of _convenience_. Olaf may call himself Christian, but too many of the men behind those walls still kneel to the old gods."
+The King leveled an icy stare at Oda. "I would hardly call the deaths of a few hundred men, taken while reclaiming a city for Christ, a matter of _convenience_. Olaf may rule Christians, but too many of the men behind those walls still kneel to the old gods."
 
 Edmund motioned to the walls.
 
@@ -102,7 +102,7 @@ Edmund scanned from Under-Geat to the East Wall.
 
 His commanders rode up on their horses.
 
-"Tell your baggage masters I want all supply wagons outside of Under-Geat. Clear the basket-willows and brush to make room. _And make a show of it_. Then gather the ladders and all horses. Pick your finest riders. When I give the signal, tell them to ride hard for the East Gate and scale that wall. They'll have moments to open that gate."
+"Tell your baggage masters I want all supply wagons outside of Under-Geat. Clear the basket-willows and brush to make room. _And make a show of it_. Then quietly, behind the willows, gather the ladders and most of the horses. Pick your finest riders. When I give the signal, tell them to ride hard for the East Gate and scale that wall. They'll have moments to open that gate."
 
 He looked each captain in the eye.
 
@@ -112,27 +112,31 @@ Edmund scanned his men once again.
 
 "The rest will stand in Under-Geat. I want their spears held high so that any Dane that can count will see our number. And they'll see me at the fore and know this is my decision."
 
-He looked back at Oda.
+He looked back at Oda with a broad smile.
 
-"I swear to you and before God I will try not to harm a Christian soul within the _frith_ by our hand."
+"I swear to you and before God I will try not to harm a _Christian_ soul within the _frith_ by our hand."
 
-He smiled.
+He looked toward the eastern wall.
 
 "When we know the East Gate is open, the swiftest army will be the one to keep it."
 
-He then summoned one captain to step forward. The captain was Galindo, a Spaniard who served as reeve of a remote Tyne River fyrd. He had spent most of his life counting wagons, settling disputes, and calling men to the fyrd—not leading assaults upon stone walls.
+He then studied his captains, looking for the one with the fastest horse.
 
-"Galindo, when we commit to the East Gate, stay behind hidden in the basket-willows. When Olaf answers the East Gate, see what he leaves behind. If the Shadow Gate be lightly held by pagan souls, take it. The villagers will be cleared, so use what force you must. Keep that gate open and signal me when you have it."
+He called the one to step forward. The captain was Galindo, a Spaniard who served as reeve of a remote Tyne River fyrd answering to the lord of Hexham. He had spent most of his life counting wagons, settling disputes, and calling men to the fyrd... not leading assaults upon stone walls.
 
-He grabbed the captain by his tunic.
+"Galindo of Hexham, when we commit to the East Gate, stay hidden in the basket-willows with your fyrd. When Olaf answers the East Gate, see what he leaves behind. If the Shadow Gate be lightly held... _by pagan souls_... take it. The villagers will be cleared, so use what force you must. Keep that gate open and signal me when you have it. We're counting on the speed of that horse."
+
+His mailed glove pointed at Galindo's horse, an Andalusian capable of far more speed than most riders dared ask of it.
+
+He stepped close to ensure that Galindo heard every word he said.
 
 "If we hold the Shadow Gate and occupy the East Gate, their flank will be exposed. With God's will, we'll have both by nightfall. Speed is everything."
 
-"God's will," was all he could muster.
+Galindo stared back, his heart beating fast. The entire battle might be decided on the wave of his hand.
 
-Edmund nodded.
+"God's will!" was all he could muster.
 
-He turned to gather his forces.
+Edmund nodded and turned to gather his forces.
 
 Behind the Forum walls, Olaf's captains stood in a ring around a map carved into the courtyard mud.
 
@@ -198,17 +202,31 @@ Olaf put his hand on Wulfstan's shoulder and smiled.
 
 "No. I want him to count spears. Let him be the first to choose steel over peace."
 
-Night fell that day on the Saxons inside Leicester. Many men were lost on both sides. And many more would surely die if a peace could not be had. For the Saxons, the action had been a day of success, but a night of frustration.
+The battle went as well as Edmund had dared to hope. Upon the rush to the East Gate, Olaf's men over-committed. The riders to the East Gate set their ladders to the wall. Several were lost, but the East Gate was won and held open. The two armies collided at the opened East Gate at terrible cost.
+
+What was left at the Shadow Gate was a mere thirty souls. Galindo gave a prayer in Spanish, turned his horse toward the East Gate, and dropped his hand. The fyrd rushed forth. They pounded the gate, they climbed the ramshackle wall, and while some died, the resulting battle was short.
+
+Galindo looked over his shoulder at his best men of the fyrd, looking for a sign. Once given, he drove his spurs and the horse leapt into action.
+
+King Edmund didn't even have to hear a word. He saw Galindo round the southeast corner, and he knew. He split his forces, sending his reserves rushing back to the Shadow Gate under Galindo's command. The Shadow Gate lay open, awaiting them.
+
+Night fell that day on the Saxons inside Leicester. Many men were lost on both sides. And many more would surely die if a peace could not be had. For the Saxons, the action had been a day of great success, but a night of utter frustration.
 
 The Danes lost both the East Gate and the Shadow Gate. Soon after the South and West gates fell as well. But Olaf had prepared a contingency. All roads to the North Gate were barred. The Forum stood like a castle before the Saxons. And each crossroad and home stood like a shield-wall. Each step would be paid for in blood.
 
-Oda waited that night in the nave of the Church of Augustine and Columba. Wulfstan waited at the entry of the Forum, a mere eighty paces away. And yet, they stood worlds apart. Each had sued for peace.
+That night, however, Olaf and Wulfstan were not among them.
 
-Wulfstan walked alone from the Forum's archway onto the steps of the Church. The Saxons eyed him cautiously, but still revered his cross as he held it plainly as his shield. Many crossed themselves as he passed.
+Olaf fled with Wulfstan through the North Gate. His hearthguard stole boats from the Willow Reach fishermen, and at the water's edge Olaf sent Wulfstan back with one command... sue for peace.
 
-Oda received him with a scribe by his side. A table and three chairs had been brought. On the table lay lit candles and the implements of statecraft.
+Wulfstan rode his horse back through the North Gate just as Saxon sentries spotted him. He rode to the Forum, a mere eighty paces from Oda, and dismounted. He turned toward the Church and held his breath.
 
-Oda motioned his hand to the chair.
+Then he stepped into the street and into the Saxons' hands.
+
+Wulfstan walked alone toward the Church. The Saxons eyed him cautiously, but still revered his cross as he held it plainly as his shield. Many crossed themselves as he passed.
+
+Oda waited that night in the nave of the Church of Augustine and Columba. A Saxon guard pounded on the door of the Church, announcing the arrival of Wulfstan and a desire for peace. A scribe answered. A table and three chairs were brought forth. On the table lay lit candles and the implements of statecraft.
+
+Wulfstan was allowed to enter. Oda motioned his hand to the chair.
 
 "Peace of the Resurrection be with you."
 
@@ -292,7 +310,7 @@ Wulfstan finally spoke.
 
 Oda paused to let his next words hit like a hammer. He swallowed hard.
 
-"Leicester will be the undoing of Mercia."
+"Leicester will be the undoing of both our kingdoms."
 
 The scribe stopped writing.
 
@@ -340,7 +358,7 @@ The words hung in the air.
 
 Oda looked beyond Leicester, as though he could already see the empty fields.
 
-"...then children who have never heard the name Olaf Guthfrithson will die for this city."
+"...then children who have never heard the name Olaf Sihtricson will die for this city."
 
 Neither man spoke.
 
@@ -376,19 +394,19 @@ Silence.
 
 "What then?"
 
-"Let Olaf hold what he now holds."
+"Let Olaf hold the Danelaw north of Watling Street."
 
 Wulfstan's brow furrowed.
 
-"Until?"
+"Why would Edmund allow this?"
 
 Oda took a long breath.
 
-"Until God renders His judgment."
+"Olaf shall bow before Edmund... as a _Christian_ king."
 
-"And how shall He do that?"
+"He must..."
 
-"When Olaf dies."
+"Give up the old ways. Yes."
 
 The room fell utterly still.
 
@@ -396,13 +414,13 @@ The scribe looked up from his parchment.
 
 Oda continued.
 
-"If Edmund cannot reclaim the Danelaw while Olaf lives, then let him press the claim when Olaf stands before Christ."
+"Edmund has taken Leicester by force. Let him take the rest of the Danelaw through overlordship instead. Edmund shall sponsor Olaf at his baptism. And they shall be bound in friendship instead of blood."
 
 Wulfstan stared at him.
 
-"You ask me to make my king's death the boundary of the peace."
+"And if he were to refuse?"
 
-"I ask you to let Olaf's kingdom be remembered for the souls he spared on Easter, not the lands he left his sons."
+"He won't refuse. Let Olaf's last act before the font be the sparing of Christian souls on Easter. And let his first act as a Christian king be keeping that peace."
 
 Wulfstan considered the words.
 
@@ -444,11 +462,11 @@ Huginn: "Stop teasing me!"
 
 The previous night's funeral pyres were fed by the fallen logs of a shattered rampart, and the smoke drifted slowly through the battered streets of Leicester.
 
-Before dawn, King Olaf Guthfrithson and Wulfstan departed the North Gate beneath a banner of peace.
+When the crier mounted the Forum wall that Easter morning and held aloft the wax-sealed treaty, silence spread through both armies. Leicester lay north of Watling Street. By the terms of the treaty, the city they had just taken was given back to the Danes.
 
-When the crier mounted the Forum wall that Easter morning and held aloft the wax-sealed treaty, silence spread through both armies. The Danes gathered their dead, their baggage, and what remained of their host for the short road back toward the restored Boroughs of the Danelaw.
+Many of the Danes gathered their baggage and marched north to reclaim holdings there. Others stayed to call Leicester home.
 
-The _fyrds_ faced a much longer journey. They returned to fields already waiting for the plow, and to the knowledge that after months of hardship they had won nearly every battle fought with sword and spear.
+The _fyrds_ faced a much longer journey. They returned to fields already waiting for the plow, and to the knowledge that after months of hardship they had won nearly every battle fought that spring with sword and spear.
 
 The only loss, in their minds, was the one fought with ink.
 

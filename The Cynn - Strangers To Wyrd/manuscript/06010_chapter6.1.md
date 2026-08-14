@@ -202,7 +202,7 @@ The sound of Cynewulf's breathless prayers competed with the uproar, until there
 
 Just as Cynewulf fastened the last buckle of the byrnie, the Viking pounded the door. There were shoulder-heaves and boot-kicks, until finally the door gave way.
 
-In the doorway stood a young Viking, a freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. "Priest-blood for the wolf!" he screamed. He made his way into the cottage, shield at the ready.
+In the doorway stood a young Viking, a freshly cropped wolf atop his head. He howled, and leveled his axe at Cynewulf's chest. But yet he stumbled. "Priest-blood... for the wolf!" The boy looked even more scared than he was.
 
 Cynewulf was incensed. How dare these... creatures... invade our sanctum? The rage caught even him off-guard. He slammed his body towards the young _Ulfhedinn_. The Viking had no time to raise his shield, and the full force of the blow brought them to ground-fall. Cynewulf swung his chain-fist at the boy's jaw, and there was a sickening crack. He swung again, and the deed was final.
 
