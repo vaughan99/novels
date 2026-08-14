@@ -150,7 +150,7 @@ It was not the scattered, weary tread of merchants. This sound was heavy and for
 
 It was a company he did not expect.
 
-Osric stepped out past the threshold into the yard. He saw a fyrd company, roughly twelve men he knew, with oxen and carts. They were led by his lord's reeve, Galindo. He was a Spaniard, a presence of silken coat riding high on a southern saddle on a noble Andalusian horse. The saddle had toggles of bone and silver, and his tally sticks and ledger were clutched in a wrap of fine fur. The men were whispering and staring at the state of his cottage. They looked at him with wariness and disbelief.
+Osric stepped out past the threshold into the yard. He saw a fyrd company, roughly twelve men he knew, with oxen and carts. They were led by his lord's retainer, Galindo. He was a presence of silken coat riding high on a southern saddle on a noble Iberian horse named _Lucero_. The saddle had toggles of bone and silver, and his tally sticks and ledger were clutched in a wrap of fine fur. The men were whispering and staring at the state of his cottage. They looked at him with wariness and disbelief.
 
 Galindo stopped his horse near the stone path. He looked with dismay at the state of the cottage, but his business was urgent. His boots were still clean from the hall, and he intended to keep them that way. He called from his horse.
 
@@ -160,7 +160,7 @@ Galindo stopped his horse near the stone path. He looked with dismay at the stat
 
 The joke landed on deaf ears. No one laughed. The other men stood, their eyes fixed on the missing roof and shambles outside his doorway.
 
-Osric's voice was flat. His eyes stared through Galindo's. "I can't, my lord reeve. You have known me for three winters. Know that my family befell a sickness curse on winter's first night. My wife and children are gone. My spear and shield are broken, but repairable. I have my war blade. But I have no one to take care of the livestock."
+Osric's voice was flat. His eyes stared through Galindo's. "I can't, my lord. You have known me for three winters. Know that my family befell a sickness curse on winter's first night. My wife and children are gone. My spear and shield are broken, but repairable. I have my war blade. But I have no one to take care of the livestock."
 
 Galindo narrowed his eyes to consider the words. His gaze swept from Osric to the missing roof. He stammered to find the words, blinking several times. His lips finally settled. "And... your roof, Osric? **¡Valame Dios!** What happened here?" His native Castilian tongue gained control for a moment, reacting to the sight.
 

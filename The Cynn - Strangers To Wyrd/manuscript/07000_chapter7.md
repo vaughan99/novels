@@ -2,9 +2,9 @@
 
 The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled yet again on the North Gate road. The iron-bound wheels strained against the sucking mud, forcing pins to shear and snapping seasoned ash axles like dry twigs.
 
-Reeve Galindo, astride his horse, looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
+Galindo, astride his horse Lucero, looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
 
-"My lord Reeve, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted blade. "The _Ulfhednar_ did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "_That - is - why - you - were - hired!_ These men will not die... we've hired you!"
+"My lord, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted blade. "The _Ulfhednar_ did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "_That - is - why - you - were - hired!_ These men will not die... we've hired you!"
 
 Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for the help, but ye have to know those wolf-types are a hard lot. I'd trust the Devil to grow a halo before I trust them to keep peace."
 

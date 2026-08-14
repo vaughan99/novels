@@ -38,7 +38,7 @@ The foreigner laughed. "Then today is full of surprises."
 
 He extended a hand.
 
-"Galindo. Reeve to the fyrd from the Tyne Valley."
+"Galindo. Household man to the Lord of Hexham. Captain to the fyrd from the Tyne River."
 
 Cynewulf shook it cautiously.
 
@@ -138,7 +138,7 @@ They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and
 
 Galindo looked up from the baggage train as Cynewulf approached with the recruits in tow.
 
-"Well," the reeve said. "Either I've made a terrible mistake, or you've solved my problem."
+"Well either I've made a terrible mistake, or you've solved my problem."
 
 The one-eyed archer raised a hand. "Could be both."
 
@@ -222,7 +222,7 @@ Cynewulf took the old veteran aside. "Didn't catch your name."
 
 "Quartermaster? For thirteen? I was a spear at thirteen pennies. And don't we already have a quartermaster?" He scoffed.
 
-"This company answers to me, not the reeve, and not Murdock. We'll run loot like my old company, the Griffons. Killers get first pick. The rest comes through you. You set the worth. If a man wants something, he buys it from you. Men don't sell to each other. Cheated men start knife fights. You keep the company purse, and you take a cut of every sale. The purse pays every man's share on the spot. Then you sell the loot in town to fill it again. I'll count the coin at day's end."
+"This company answers to me, not the Lord of Hexham, and not Murdock. We'll run loot like my old company, the Griffons. Killers get first pick. The rest comes through you. You set the worth. If a man wants something, he buys it from you. Men don't sell to each other. Cheated men start knife fights. You keep the company purse, and you take a cut of every sale. The purse pays every man's share on the spot. Then you sell the loot in town to fill it again. I'll count the coin at day's end."
 
 Tor didn't think long. "Well then I'm _your_ Quartermaster at thirteen."
 

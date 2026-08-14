@@ -122,11 +122,11 @@ He looked toward the eastern wall.
 
 He then studied his captains, looking for the one with the fastest horse.
 
-He called the one to step forward. The captain was Galindo, a Spaniard who served as reeve of a remote Tyne River fyrd answering to the lord of Hexham. He had spent most of his life counting wagons, settling disputes, and calling men to the fyrd... not leading assaults upon stone walls.
+He called the one to step forward. The captain was Galindo, a Spaniard and administrative retainer in command of the remote Tyne River fyrd answering to the lord of Hexham. He had spent most of his life counting wagons, settling disputes, and calling men to the fyrd... not leading assaults upon stone walls.
 
 "Galindo of Hexham, when we commit to the East Gate, stay hidden in the basket-willows with your fyrd. When Olaf answers the East Gate, see what he leaves behind. If the Shadow Gate be lightly held... _by pagan souls_... take it. The villagers will be cleared, so use what force you must. Keep that gate open and signal me when you have it. We're counting on the speed of that horse."
 
-His mailed glove pointed at Galindo's horse, an Andalusian capable of far more speed than most riders dared ask of it.
+His mailed glove pointed at Galindo's horse, an Iberian horse capable of far more speed than most riders dared ask of it.
 
 He stepped close to ensure that Galindo heard every word he said.
 

@@ -749,7 +749,7 @@ Under-Geat looked like a herd of cattle had been through.
 
 The Shadow Gate lay broken on its hinges. The walls were blood-stained.
 
-She made for the forest, to check her traps. Traps that laid idle too long. She checked on her clamps. Charcoal lay waiting.
+She made for the forest, to check her traps. Traps that lay idle too long. She checked on her clamps. Charcoal lay waiting.
 
 Fussleton was still gone.
 
@@ -757,7 +757,7 @@ She gathered everything. Her traps. The last of her charcoal. She wasn't sure wh
 
 By Easter morning, the war-cries had given way to church bells and rumors of peace. The Saxons were leaving. The Danes would hold Leicester again.
 
-She sold the last of her charcoal. She had already sold the last of her meat and pelts to Murdock that morning.
+She sold the last of her charcoal. She sold the last of her meat, pelts, and mushrooms to Murdock.
 
 When Murdock offered her a place with the departing fyrd, Elswyth needed very little time to decide.
 
