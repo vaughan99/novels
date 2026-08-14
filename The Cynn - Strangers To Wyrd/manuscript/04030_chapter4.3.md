@@ -189,7 +189,7 @@ The villagers would watch as this continued. They saw the faces withstand everyt
 
 By February of 943, Olaf's men retreated behind ramparts and walls. The Saxons had returned to dismantle Olaf's hold on Leicester. Saxon soldiers and mercenaries were active on the outskirts of town. Like the Vikings before them, the Saxon soldiers and mercenaries took food from the villagers. And like the Vikings, they too heeded the warnings of the _Coaler-Wight_ and kept well clear of Elswyth's hut. 
 
-March 24th, 943 was the night of the last full moon of the gnome's promise. It was also a week before Easter. Elswyth was then of twenty winters. 
+March 24th, 943 was the night of the last full moon of the gnome's promise. It was also Good Friday... two days before Easter. Elswyth was then of twenty winters. 
 
 The gnome did not come that night as she expected. She assumed he forgot. Or maybe the Vikings' and Saxons' noises had scared him away. Or perhaps he had peeked in on her after all, and saw that she was thriving better than he expected. She raked the coals faster with each passing thought.
 
@@ -716,6 +716,60 @@ She paused, her breath hitching in the silence of the hut. She remembered the pr
 She reached into her pocket, pulled out the Alexander Stone, and placed it firmly in the entry to her sleeping hole. It caught the first, pale sliver of dawn light, a small, smooth eye watching the dark.
 
 "Amen," she whispered, as gently as she could.
+
+Morning came, and the usual war-time rhythm of Under-Geat was interrupted by new sounds. All around her hut came frightened voices, hurried footsteps, the scrape of belongings being dragged from homes, and the clatter of spear and shield.
+
+She heard the heavy approach of booted feet, and the voice of a frightened villager.
+
+"You _must_ avoid this cottage. Only the _dead_ live here. It's haunted. Find others to wake. Do not curse us by waking the dead!"
+
+The booted feet hesitated, then turned. She heard pounding on a different door nearby.
+
+She peered through the doorway to see lines of soldiers facing the Shadow Gate, spears in rows, and banners held high.
+
+She jumped back into her hole, breathless.
+
+She stayed there.
+
+For the rest of Easter Eve, the battle came to Elswyth mostly as sound. Feet, and more feet. Shields, and more shields. Shouting across the wall. Accusations of breaking the _frith_. Then suddenly, running. What seemed like a trample of thousands of feet running east.
+
+Elswyth peered again, and caught a glimpse of a single horse, and a single line of men behind the willows. She dared not leave yet.
+
+Then, the line rushed forth. There was clashing of steel, the sound of a few men dying. But then it was over.
+
+Suddenly, there was a rush of feet and shields again. They turned and entered the Shadow Gate, yelling and organizing. Off in the distance, there were more clashes of steel, more sounds of death. But it was beyond the Old Frith. Higher into Leicester.
+
+Then there was calm.
+
+For many hours, there were individual screams in the distance. Occasional meeting of steel. Men walking back to their wagons to retrieve a new shield or a few more throwing spears.
+
+Elswyth stayed hidden through it all. Darkness fell, and with it silence. Elswyth emerged to a broken world.
+
+Under-Geat looked like a herd of cattle had been through.
+
+The Shadow Gate lay broken on its hinges. The walls were blood-stained.
+
+She made for the forest, to check her traps. Traps that laid idle too long. She checked on her clamps. Charcoal lay waiting.
+
+Fussleton was still gone.
+
+She gathered everything. Her traps. The last of her charcoal. She wasn't sure what the next day held. But her days as the Coaler-Wight seemed to _want_ to end. She moved everything to her hut.
+
+By Easter morning, the war-cries had given way to church bells and rumors of peace. The Saxons were leaving. The Danes would hold Leicester again.
+
+She sold the last of her charcoal. She had already sold the last of her meat and pelts to Murdock that morning.
+
+When Murdock offered her a place with the departing fyrd, Elswyth needed very little time to decide.
+
+After the last two days, leaving Under-Geat seemed like the safest thing she could possibly do.
+
+Fussleton's promise... of others coming... gnawed at her.
+
+When she spied Wulfhere at Easter Mass, the decision seemed even more final.
+
+She wondered if he might be a permanent fixture of Leicester now.
+
+_I have to leave_.
 
 ---
 
