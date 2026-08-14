@@ -405,7 +405,9 @@ Now it's time for you to...
 
 Elswyth’s knuckles turned white. Her grip clamped down like an iron vise, shattering his rhythm and forcing the blade to a grinding, vibrating halt a mere hair's breadth from her collarbone.
 
-She didn't panic. Because she knew his tell — knew he was a slave to the song and could not strike without a rhyme — she had caught the cadence right before it was too late. She squeezed the handle until the steel stopped shaking, locking the monster back down into the depths of the nickel and steel.
+She didn't panic. She knew his tell. He was a slave to the song and could not strike without a rhyme. She had caught the cadence right before it was too late.
+
+She squeezed the handle until the steel stopped shaking, locking the monster back down into the depths of the nickel and steel.
 
 Inside her skull, the Redcap let out a high, cackling, unhinged laugh.
 

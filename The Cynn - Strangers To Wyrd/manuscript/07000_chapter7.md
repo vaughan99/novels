@@ -195,7 +195,7 @@ A moment later, she landed in a Roman plunge pool. It was filled with the rainwa
 She waded through the near-freezing water, each splash stealing air from her lungs. 
 The cold of the water was a cruelty that screamed at her body. She had no time to notice.
 
-It was almost too dark to see. Moonlight from the archway barely caught the ouline of an arch and a bench. She climbed out of the plunge pool, and suddenly a ray of moonlight caught the bench. On the bench was a chest. It had the same emblem.
+It was almost too dark to see. Moonlight from the archway barely caught the outline of an arch and a bench. She climbed out of the plunge pool, and suddenly a ray of moonlight caught the bench. On the bench was a chest. It had the same emblem.
 
 On top of the chest lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle of Fussleton's knife beckoned her to draw the blade.
 
@@ -209,7 +209,7 @@ Within the sheath slept _Monanleoht, the Battle-Dancer_.
 
 She took the blade just as she heard calling from the archway above. The wolf-men found the hole through which she was pushed. They had heard the splash, and the wading through the pool. They heard her breath. They prepared themselves to jump, one at a time. They prepared to collect her.
 
-She stumbled through the archway. She found the _frigidarium_, the room just beyond the entrance-way that was the Jewry Wall. She could hear the wolves chasing Osric, so she dared not run out into the open. She backed in the the open hall, facing the archway to the plunge pool.
+She stumbled through the archway. She found the _frigidarium_, the room just beyond the entrance-way that was the Jewry Wall. She could hear the wolves chasing Osric, so she dared not run out into the open. She backed into the open hall, facing the archway to the plunge pool.
 
 The ceiling was collapsed in parts, and the night sky was visible. The floor of the bathhouse was cracked marble tile, built on moist clay.
 

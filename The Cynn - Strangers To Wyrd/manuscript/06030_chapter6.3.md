@@ -24,7 +24,7 @@ _Fer-Main_ didn't reach for the parchment. Instead, he cast a sideways glance t
 
 _Fer-Main_ called out to Cynewulf. "Look at the ink. Tell me if the King's silver weighs as much as his words."
 
-Cynewulf stepped forward, his black leathers creaking. He took the parchment from the rider’s hand and an embroidered golden ribbon banner. It's the kind of standard a company might attach to theirs to prove their legal kingly authority to any who dare question.
+Cynewulf stepped forward, his black leathers creaking. He took the parchment from the rider’s hand and an embroidered golden ribbon banner. It was the kind of standard a company might attach to theirs to prove their legal kingly authority to any who dare question.
 
 His fingers unrolled the stiff sheepskin. He knew the Winchester hand; he knew the exact formulaic Latin of Æthelstan's chancery. He scanned the lines, his eyes lingering on the green wax seal.
 

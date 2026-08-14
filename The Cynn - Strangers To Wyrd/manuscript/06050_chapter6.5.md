@@ -26,7 +26,7 @@ Baldy shook his head and resumed hammering pegs. He knew exactly what expression
 
 He had no desire to answer it.
 
-Once the camp was established, Madoc and Milli gathered everyone to distribute the weapons. Madoc beckoned Cynewulf over to explain. Cynewulf had been curious to know how these Welsh skirmishers fight.
+Once the camp was established, Madoc and Milli gathered everyone to distribute the weapons. Madoc beckoned Cynewulf over to explain. Cynewulf had been curious to know how these Welsh skirmishers fought.
 
 Madoc smiled, a sharp, predatory expression, and eagerly began to display the tools of his trade. "We’re not soldiers, Saxon. We’re hunters," Madoc said. "And we have a tool for every quarry. In my youth I spent a winter in an old Roman fort. We found the writings of one of their smiths. I can't tell Latin from chicken scratch, but the old bastard drew pictures."
 
@@ -34,7 +34,7 @@ On his back was the _tarian_, a small round shield the size of a man's hand and 
 
 He gestured to the spear in his hands. "And on the 8th day, God decided to give every soldier in all of Christendom a pointy stick. We just decided we should use it better than anyone else!"
 
-He patted his hip, where a short quiver of weighted darts, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_, the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw. The iron makes them a little lighter, but re-usable."
+He patted his hip, where a short quiver of weighted darts hung, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_, the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw. The iron makes them a little lighter, but re-usable."
 
 Then, he reached into a small, wooden box-pouch at his belt and pulled out a wooden toggle attached to a thick wool cord. Trailing behind the toggle was a string of iron star caltrops, each one forged so that no matter how they landed, a single, needle-sharp point always faced the sky.
 

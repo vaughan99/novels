@@ -100,7 +100,7 @@ He finally looked up. His eyes were like flint, devoid of pity. "Where is the ba
 
 "I barely saw the engagement, your grace. _Fer-Main_ split his forces. I was the diversion, sent to distract the ten at the gate. The rest found a gap to exploit, and committed. That's when the horde descended. The few in our number charged the gate to help the other _Griffons_ but it was too late. The number was beyond count, perhaps one hundred. _Fer-Main_ was pinned to the wall. There was nothing I could do."
 
-"Except... save you skin."
+"Except... save your skin."
 
 "'Twas necessary, your grace," Cynewulf said, his voice trembling with the weight of the warning. "You must know what waits for you at the gate. The ten are a ruse, sire. One hundred Alt Clut barbarians and archers will man those walls. Who knows how many more beyond that. Constantine's allies are prepared. They are not waiting for a skirmish; they are waiting for a stand."
 
@@ -156,11 +156,11 @@ And Cynewulf's conscience begged to differ, when he told himself there was nothi
 
 When the army marched again, he couldn't go with it. The King's guard knew his face, and the King's order had a sense of finality. He had to find a new home.
 
-With the entire host moving north, he reasoned that the road's patrols would be thin. This was a good time to be a highwayman. He felt as a man with nothing left to lose. And he meant to find others like him. Others who didn't ask questions about his dark armor and leathers, or the black griffon paint on his shield.
+With the entire host moving north, he reasoned that the road's patrols would be thin. This was a good time to be a highwayman. He felt like a man with nothing left to lose. And he meant to find others like him. Others who didn't ask questions about his dark armor and leathers, or the black griffon paint on his shield.
 
 He headed south. He found them in the dark corners of the Midlands... men who had been chewed up by the same war and spat out by the same kings. They were a collection of broken things, warbands of ghosts who fought for silver because they had forgotten every other reason to fight.
 
-For years he drifted between bands, never staying longer than his trust in people. He called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. He was now a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
+For years he drifted between bands, never staying longer than his trust in people lasted. He called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. He was now a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
 
 Many names were given to him, and none were flattering. With time, he had run out of bands to join. He found himself alone once more, but this time it was not because of his naivety... it was because the many faces of humanity each had a cruelty all their own. He kept no company because of what he might do.
 
@@ -288,7 +288,7 @@ One of them, a man with a scarred jaw and a cloak that had seen better decades, 
 
 Most of them were _Cymry_ skirmishers. They were warriors of the Powys hills who fought with a ferocity that made the Saxon house-carls look like statues.  They fought light on their feet, avoiding blows with just small shields and fast dodges.
 
-They didn't line up in warfare, they preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle, ranged skirmishers that taunt you from afar, and whom you can never quite catch. Against such men, a shield wall felt less like a fortress and more like a prison..
+They didn't line up for battle. They preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle distance, ranged skirmishers who taunted from afar and could never quite be caught. Against such men, a shield wall felt less like a fortress and more like a prison.
 
 "We’re heading for Leicester. The Vikings are holed up, and there’s coin to be made in the breach."
 
