@@ -2,7 +2,7 @@
 
 The freezing slush of the East Midlands was a slow-killing beast. For the fifth time since the crier had shouted the parchment-peace from the walls, the Saxon baggage train groaned to a halt. They were stalled yet again on the North Gate road. The iron-bound wheels strained against the sucking mud, forcing pins to shear and snapping seasoned ash axles like dry twigs.
 
-Galindo, astride his horse Lucero, looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
+Galindo, astride Lucero, looked back at the listing carts with an expression of sharp, bloodless impatience. "The host does not wait on broken wood," Galindo said, his thick Spanish accent cutting through the damp fog. "The treaty is signed. The road to the Boroughs belongs to the Danes by morning. We press on."
 
 "My lord, you leave us like lambs in a ditch!" Cynewulf called out, his hand resting on the pommel of his rusted blade. "The _Ulfhednar_ did not look like men who respect this peace, at least not for long. If we stall here after dark, we are dead men." Galindo glared back at him, and spoke slowly and carefully, to draw extra meaning from every word, "_That - is - why - you - were - hired!_ These men will not die... we've hired you!"
 
@@ -34,7 +34,7 @@ Murdock side-stared Elswyth, knowing that his full glare was a snare only for st
 
 Murdock raised an eyebrow. "Aye, but ye think you're going to carry that back here by yerself through the mud? Ye think any of these men are going to follow ye into the Charnwood at night? Bravery doesn't grow on these trees, lass."
 
-Osric smiled, if only for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light." The sun hung low in the sky. One hour. Just one hour without crawling through the filth—that was all Osric wanted.
+Osric smiled, if only for a moment. There was a glint of hope in his eyes. "Well, now we wait for first light." The sun hung low in the sky. One hour. Just one hour without crawling through the filth. That was all Osric wanted.
 
 "First light? By the blood of the saints, man, if we bide our time here in the open, we’ll be carrion before the sun sees the tree-line!" The Scottish wagon master did not waste time weeping or wanting.
 
@@ -132,7 +132,7 @@ The fight had swallowed the wagons.
 
 He dropped the bow.
 
-Tor took one sweeping look across the collapsing line—the dead fyrdmen, Cynewulf wrestling in the mud, wolves pouring through the breach, Elswyth already fleeing toward the ruins.
+Tor took one sweeping look across the collapsing line: the dead fyrdmen, Cynewulf wrestling in the mud, wolves pouring through the breach, Elswyth already fleeing toward the ruins.
 
 His voice cut through the chaos.
 
@@ -217,7 +217,7 @@ She waited to run. But she kept looking at the blade in her hand.
 
 Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Rognvaldr caught Cynewulf's silhouette crossing the Middleflat. His grin widened. He quickened his pace.
 
-Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast — the church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
+Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast. The church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
 
 There, lying across the cold stone, Cynewulf found a large flat-topped chest of wood and iron, the lid carrying the iron badge of the Cynn: a young oak sprouting from a broken anvil with two crossed hammers at the foot. 
 

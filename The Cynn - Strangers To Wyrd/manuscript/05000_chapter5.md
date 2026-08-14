@@ -18,7 +18,7 @@ Cynewulf, also of Leicester, was strong and salt-bearded, yet weary. A priest at
 
 The moment their campaign ended, their charter bid them return home. They traded farewells, their road taking them north and then west to Powys. Cynewulf watched them disappear down the road until they were little more than colored specks against the spring hills. Only then did he turn south back toward Leicester. The road felt quieter without them.
 
-Cynewulf had the bearing of a soldier. His byrnie—once a proud shirt of black interlocking iron mail—was threadbare and sagging, missing clusters of rings that had rusted away and been crudely patched. Underneath the iron, he wore a quilted weapon-shirt of heavy linen. The quilting threads had snapped in dozens of places, allowing the dirty flax stuffing to leak out of the tears like tufts of sheep's wool. It was stiff with the salt of old sweat, and the shoulders were stained a deep, bloody orange where the rusting mail had bled into the fabric. His cloak was a new fur-lined trophy, as were his boots. At his hip hung an aging langseax whose edge rippled with shallow waves—the mark of a blade that had survived many battles and nearly as many blacksmiths. His shield had been split to splinters in the road engagements, and was gone. What little wealth he possessed came from the battlefield: fragments of silver, steel, and bronze scavenged from the fallen and not yet traded to the smiths for coin.
+Cynewulf had the bearing of a soldier. His byrnie... once a proud shirt of black interlocking iron mail... was threadbare and sagging, missing clusters of rings that had rusted away and been crudely patched. Underneath the iron, he wore a quilted weapon-shirt of heavy linen. The quilting threads had snapped in dozens of places, allowing the dirty flax stuffing to leak out of the tears like tufts of sheep's wool. It was stiff with the salt of old sweat, and the shoulders were stained a deep, bloody orange where the rusting mail had bled into the fabric. His cloak was a new fur-lined trophy, as were his boots. At his hip hung an aging langseax whose edge rippled with shallow waves, the mark of a blade that had survived many battles and nearly as many blacksmiths. His shield had been split to splinters in the road engagements, and was gone. What little wealth he possessed came from the battlefield: fragments of silver, steel, and bronze scavenged from the fallen and not yet traded to the smiths for coin.
 
 Cynewulf's vows were taken at the Church in Leicester, and that is where Elswyth once knew him. In those days, before he traded his vestments for a chain shirt, he was an acolyte who worked in the bell foundry. Her family's coal fed the fires then. He glanced at the church several times at night through the rain, trying to remember the lines of the bell-fry, the happier times. But now, with the siege ended, the church was the beginning of the next road.
 
@@ -252,7 +252,7 @@ The archer stopped dead in his tracks.
 
 "Best be settling in. Report to the wagon master," Galindo replied.
 
-Wulfhere finally gave the wave to signal the _Ulfhednar_ advance out of town. They weren't staying in Leicester. The spring thaw had opened the river-roads, and there were estates to the north and east that hadn't seen a blade in months. There were _karvis_ to be seized in the fishing villages of the estuaries—small, fast boats and poorly guarded—which would lead to a summer of raiding the coast.
+Wulfhere finally gave the wave to signal the _Ulfhednar_ advance out of town. They weren't staying in Leicester. The spring thaw had opened the river-roads, and there were estates to the north and east that hadn't seen a blade in months. There were _karvis_ to be seized in the fishing villages of the estuaries. These were small, fast boats and poorly guarded which would lead to a summer of raiding the coast.
 
 Wulfhere led his company of fifteen through the North Gate. The fyrd caught his eye.
 
@@ -336,7 +336,7 @@ Rognvaldr stepped forward, his arms reaching wide. "Come brothers! We feel your 
 
 Wulfhere continued. "These Saxons... they keep making the same mistakes. They think wolves feast on air and priest-speech. A wolf cannot eat a peace-meal. I have seen their broken bands, their burnt sticks, and the forest girls they have guarding their baggage. They are deer for the slaughter, friends. We are circling back tonight. Let the others crawl to the Boroughs and reclaim just what the Saxons allow them."
 
-Rognvaldr started a drum chain. Each wolf began to slap his thighs in unison, a guttural grunt marking every fourth beat. The rhythm was a heartbeat—the heartbeat of a pack that had forgotten how to be men.
+Rognvaldr started a drum chain. Each wolf began to slap his thighs in unison, a guttural grunt marking every fourth beat. The rhythm was a heartbeat... the heartbeat of a pack that had forgotten how to be men.
 
 "_We_ will collect the hoard-pile we were promised yet. Then we'll move to the coast estates, and cut that belly from groin to neck. And if we fail?"
 

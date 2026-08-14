@@ -2,7 +2,7 @@
 
 The training began exactly as he promised, though it was nothing like the songs he had sung over the stew. It was a brutal, rhythmic education in the art of disappearing and collecting.
 
-His first lesson was shelter. Under his watchful, twitching gaze, they gathered fallen timber and woven branches to construct a small hut. It was a cramped, humble thing—barely enough to contain her—but when the spring rains began to lash the forest, it would keep her dry. It was the first thing she had built for herself, and for the first time, the forest felt less like a labyrinth and more like a home.
+His first lesson was shelter. Under his watchful, twitching gaze, they gathered fallen timber and woven branches to construct a small hut. It was a cramped, humble thing... barely enough to contain her... but when the spring rains began to lash the forest, it would keep her dry. It was the first thing she had built for herself, and for the first time, the forest felt less like a labyrinth and more like a home.
 
 He taught her to navigate by moonlight. "Moon's light is precious, Meadow-bud," he would say with a sharpened jagged grin. As they sat around the campfire after a night's stroll in the dark, he burst into a quick rhythmic chant:
 
@@ -95,7 +95,7 @@ On the first anniversary of the night of the wolves, Fussleton led her back to t
 
 The gnome had taught her everything he thought she needed to survive as a child on the edge of the Charnwood. He taught her the secrets of the forest larder. He taught her the power of the moon, and its effect on wood and beasts. He taught her where the absolute best wood lived, and how to harvest it wisely. He taught her music, dancing, and even how to smoke a pipe. She was ready to live on her own.
 
-"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-four moons—twelve moons for your training, and one hundred and twelve for the beats your brave little heart outran the wolf. I will check on you, Meadow-bud. I will make sure you are safe."
+"Every full moon, I will visit you, and we will review the rhymes," Fussleton said, his voice smooth as polished stone. "I will do this until you have known me for one hundred and twenty-four moons. One full moon for each heartbeat your brave little heart outran the wolf. I will check on you, Meadow-bud. I will make sure you are safe."
 
 "My heartbeat? How do you..." Elswyth stammered.
 
@@ -427,7 +427,7 @@ Like clockwork, the gnome would return each full moon to the knoll to test her k
 
 During the long, sun-drenched hours when she was forced to hide in her crawlspace, Elswyth did not merely sleep. She listened. She learned the heartbeat of the village: the heavy, rhythmic tread of the guards, the held breath of guards as they passed by her hut, the frantic tolling of the church bells, the far off screams of villagers playing 'mob-ball' on important feast days. She mapped the village in her mind.
 
-To keep her mind sharp, she practiced the gnome’s rhymes. She used her mushroom knife to carve rhythmic tallies into the soft pine roots she gathered for her sewing. A long notch for a heavy beat, a tiny prick for a flea’s-leg skip. She turned the rhymes into physical patterns, feeling the cadence of the gnome’s madness under her fingertips. She left these notched roots in the hollows of trees—offerings to the 'forge-elves' her father had always spoken of. She didn't know if they were real, but she knew that the finest pieces of her singing coal had disappeared in the night, and the forest seemed to hold its breath whenever she walked through it.
+To keep her mind sharp, she practiced the gnome’s rhymes. She used her mushroom knife to carve rhythmic tallies into the soft pine roots she gathered for her sewing. A long notch for a heavy beat, a tiny prick for a flea’s-leg skip. She turned the rhymes into physical patterns, feeling the cadence of the gnome’s madness under her fingertips. She left these notched roots in the hollows of trees... offerings to the 'forge-elves' her father had always spoken of. She didn't know if they were real, but she knew that the finest pieces of her singing coal had disappeared in the night, and the forest seemed to hold its breath whenever she walked through it.
 
 ---
 

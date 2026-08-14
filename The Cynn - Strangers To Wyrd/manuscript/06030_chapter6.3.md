@@ -16,7 +16,7 @@ _Fer-Main_ stepped out of his tent, his hand resting casually on the pommel of 
 
 _Fer-Main_ didn't budge. He spat into the dirt near the rider’s stirrup. "The King’s banner is fine silk, but my men don't bleed for fabric. I've been expecting you. But where is the charter? It's late."
 	
-The rider’s jaw tightened, but he reached into his leather dispatch case and pulled out a rolled parchment, heavy with a green wax seal—the King's own mark.
+The rider’s jaw tightened, but he reached into his leather dispatch case and pulled out a rolled parchment, heavy with a green wax seal... the King's own mark.
 
 "Signed by the Chancellor at Winchester," the rider said. "Three shillings a day per lance, salvage rights to any Norse-held holdfast north of the Tees, and a hundred pounds of silver upon the King's unhampered crossing of the Tweed."
 
@@ -180,7 +180,7 @@ He turned to his men. "We don't ride this like a charge. We ride it like a climb
 
 _Fer-Main_ split his force into two groups. Cynewulf and the three archer-hunters from before would ride up to the gate, and occupy their attention. "Ask for the cost of entry. Try to negotiate terms. Stall. Be violent if you have to, just keep them occupied. Stay out of javelin's reach. The rest of us will ride their flank. When you hear us, engage."
 
-Cynewulf nodded, his heart hammering against his ribs—not with fear, but with the cold, mechanical focus of the _Sword_. He led his small group toward the "mouth" of the Wall.
+Cynewulf nodded, his heart hammering against his ribs... not with fear, but with the cold, mechanical focus of the _Sword_. He led his small group toward the gateway of the Wall.
 
 As they approached, the ten guards behind the barricade stood up. They didn't look like a ragtag band of brigands; they looked like men who had been expecting company. They held their spears with a practiced, heavy grip, and their eyes didn't flicker toward the tree-line. They watched only the four riders.
 

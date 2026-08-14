@@ -28,7 +28,7 @@ All _nisse_ have a responsibility. Protection. They protect the family, the hear
 
 Osric was still clinging to life, but the goblins were beyond the _nisse_'s magic. It knew that if Osric were to survive the goblins, he would be too weak to handle all that lay before him the following morning. The _nisse_ thought back to the eorth-hord's remains and the livestock. It hurried back to the doorway with newfound resolve, plodding the steps without its usual stealth. It passed the threshold, out into the biting cold. Winter had arrived with a vengeance, and the animals would never survive the open stalls for long. They needed to be moved to the byre, and the byre needed to be ready.
 
-The _nisse_ looked at the lower end of the house where the byre stood—a walled alcove of wattle and daub, sharing the cottage's long, thatched roof. It offered shelter from the biting wind and snow, far better than the exposed stalls. Luckily, it was far enough from the ruined doorway that the structure remained sound. The _nisse_ also noticed that Osric had already moved the essentials—the troughs, the pails, the hay—in preparation for the move. There was a transfer grain chest here too, with enough grain for a few days. He had even banked the exterior walls with extra sod to keep the frost from creeping into the byre floor. It was the work of a man who knew the winter was at the door, and the final step was to move the livestock in. "Tomorrow," the _nisse_ thought, its resolve hardening like its stone. "Food. Now."
+The _nisse_ looked at the lower end of the house where the byre stood. It was a walled alcove of wattle and daub, sharing the cottage's long, thatched roof. It offered shelter from the biting wind and snow, far better than the exposed stalls. Luckily, it was far enough from the ruined doorway that the structure remained sound. The _nisse_ also noticed that Osric had already moved the essentials: the troughs, the pails, the hay. There was a transfer grain chest here too, with enough grain for a few days. He had even banked the exterior walls with extra sod to keep the frost from creeping into the byre floor. It was the work of a man who knew the winter was at the door, and the final step was to move the livestock in. "Tomorrow," the _nisse_ thought, its resolve hardening like its stone. "Food. Now."
 
 The cold was turning to a blizzard; the muddy miasma clung to the _nisse_ like hardened frost-stone. It was harder to move now as the _nisse_ wasn't a creature for the elements, it was meant to live under the home. But the _nisse_ pushed forward. Time was now critical.
 
@@ -56,7 +56,7 @@ The sun was fully up when the _nisse_ closed the byre door, collapsed, and crawl
 
 Osric woke up in a blind chill. His vision was blurry and his body ached from the stiff cold floor. In the night, he had rolled onto the ground somehow. The sour, bile-heavy scent of his own sickness clung to him. He rubbed his face and found snow crusted on his lashes and his beard. There was a sting of ice deep in his ear. He felt his arm had a thick cake of snow. He rubbed his eyes and his sight cleared just enough to see a blanket of white on the remains of his roof, three feet away.
 
-When he tried to move, he instantly knew how weak he was. He looked down to see a dark, purple stain on his skin—the mark of a curse he did not know.
+When he tried to move, he instantly knew how weak he was. He looked down to see a dark, purple stain on his skin... the mark of a curse he did not know.
 
 His lungs heaved. Only then did the pain truly register. His back ached, though he could not remember why. The world tilted around him, his senses fraying at the edges as darkness gathered at the corners of his vision.
 
@@ -114,7 +114,7 @@ His eyes returned to the crabapple. It was small, almost pathetic, as if it was 
 
 He pulled himself from his thatch cave. He was too weak to stand, or even to crawl. His arms were heavy. His legs unresponsive. But he could move, and that was enough for the moment.
 
-With new-found clarity and light pouring in through the roof, he peered around the room. The house was a tomb of splintered wood and frost, but the air felt different near the partition wall. He caught a sound—a soft, rhythmic shuffling from the other side, where the house met the byre a few feet away.
+With new-found clarity and light pouring in through the roof, he peered around the room. The house was a tomb of splintered wood and frost, but the air felt different near the partition wall. He caught a sound... a soft, rhythmic shuffling from the other side, where the house met the byre a few feet away.
 
 Then, unmistakable sniffing at a seam in the wall, and jarringly alive: _an oink._
 
@@ -150,13 +150,13 @@ The moment his head turned: _scrrrtch_
 
 Another piece of daub entered the first hole.
 
-He lunged to the wall, hitting his head. He didn't feel the pain—only the frantic, clawing need to see. He pressed his eye to the first hole, then the second, then found a third. He shifted his head, squinting, trying to catch a glimpse of the byre’s interior.
+He lunged to the wall, hitting his head. He didn't feel the pain, only the frantic, clawing need to see. He pressed his eye to the first hole, then the second, then found a third. He shifted his head, squinting, trying to catch a glimpse of the byre’s interior.
 
 But none would give him sight.
 
 "Show yourself," he rasped, his voice a jagged, terrified sound. "I'm not... afraid of you."
 
-There was no answer. Only the silence of a house that was no longer a house, and the realization that whatever was on the other side wasn't just hiding—it was watching him through the very holes he had tried to use to spy on it.
+There was no answer. Only the silence of a house that was no longer a house, and the realization that whatever was on the other side wasn't just hiding. It was watching him through the very holes he had tried to use to spy on it.
 
 He let out a long, resigned breath in the cold air. "Back to mad," he said casually. He then announced to the entity across the wall: "Trolls... drive men... mad." There was no response. "You destroy... my home, then... repair my wall?"
 

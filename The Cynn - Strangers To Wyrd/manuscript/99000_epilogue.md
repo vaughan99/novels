@@ -62,7 +62,7 @@ The ravens were squawking, and the children just stared. The birds had moved the
 
 "How do you like their story?"
 
-The voice startled the children. It came from an adjacent bench where a very old man sat, dressed in a faded charcoal suit with a weathered cane leaned against his knee. Around his neck hung a small cross — a looped branch bound tightly with twine. He wore a simple, plain eye-patch.
+The voice startled the children. It came from an adjacent bench where a very old man sat, dressed in a faded charcoal suit with a weathered cane leaned against his knee. Around his neck hung a small cross. It was a looped branch bound tightly with twine. He wore a simple, plain eye-patch.
 
 "Talking? They were just flapping around, making noises," one child said.
 
@@ -84,7 +84,7 @@ The children retreated in a scattered pack, save for one. He had claimed a falle
 
 "And you? What did you think?" Odin asked the boy. The boy stepped closer, his voice quiet and intensely serious. "The black birds stopped before the end. They told me about the forge and the fire, but they didn't say what happened after. What happened to the charcoal girl? And the man who was hungry? And the priest who stopped being a priest?"
 
-Odin looked at the boy, truly seeing him — a rare spark of the old world surviving in a jacket and sneakers. The ravens had deftly moved to a branch above them. They were silent, and they were yielding the floor.
+Odin looked at the boy, truly seeing him. He was a rare spark of the old world surviving in a jacket and sneakers. The ravens had deftly moved to a branch above them. They were silent, and they were yielding the floor.
 
 “The birds are gossips, lad. They delight in the noise of the struggle and in the telling of it,” Odin said.
 

@@ -138,7 +138,7 @@ It was there she learned the rhythm of the trade, watching her father sell their
 
 If her father taught her the fire, her mother tried to teach her the earth. Eadgyth was a woman of quiet, sharp-eyed patience who moved through the forest as if she were part of the undergrowth. On coal-cooling days, she spent hours showing Elswyth how to read the forest’s pulse: which mosses signaled a hidden spring, which berries would settle a fever, and how to harvest the wild leeks and tubers without stripping the soil bare.
 
-"A coaler who only knows the pit is a coaler who starves when the wood runs thin," her mother would whisper, pressing a handful of dried herbs into Elswyth’s palm. She taught her that the forest was not just a source of timber, but a larder for those who knew how to ask. It was a different kind of strength—not the brute force of the axe, but the quiet precision of knowing exactly what the land could provide, and exactly what it would take back.
+"A coaler who only knows the pit is a coaler who starves when the wood runs thin," her mother would whisper, pressing a handful of dried herbs into Elswyth’s palm. She taught her that the forest was not just a source of timber, but a larder for those who knew how to ask. It was a different kind of strength... not the brute force of the axe, but the quiet precision of knowing exactly what the land could provide, and exactly what it would take back.
 
 Elswyth was not fond of the meadow-work. She lacked the patient eye for the forest-larder. She would trample mushrooms without a thought. She would dismiss medicinal herbs as mere weeds. Still, Eadgyth never scolded her. Times would not always be as kind as they were now. Someday the forest would be the only thing standing between her daughter and the grave across the yard.
 
@@ -148,7 +148,7 @@ The wolf-men came as a wolfpack in full deer-chase.
 
 Elswyth had woken early, as she wanted to be the first of the children fishing by the river's edge when the sun came up. Behind her, the screams rose like a chorus of suffering.
 
-The wolves swept everything from Under-Geat to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the basket-willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained—a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed. The Viking's wolf head snapped to her, his eyes locking on hers.
+The wolves swept everything from Under-Geat to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the basket-willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained: a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed. The Viking's wolf head snapped to her, his eyes locking on hers.
 
 She didn't freeze. She jumped into the ice-cold river without a thought. He gave chase instantly, jumping headlong into the Soar.
 
@@ -220,7 +220,7 @@ He leaned back in his carved out log-chair and breathed pipe-smoke into the smal
 
 His pipe was almost out, and he looked down at it with a small curled eyebrow. He tapped it on the table, to loosen the clump of herb that had settled at the bottom.
 
-"Look there, you've barely touched your supper," Fussleton pointed, his tone shifting to one of mild, sophisticated disappointment. "Creamed morel and chanterelle soup, finished with a hint of wild garlic and sweet cicely. And the squirrel—roasted over oak-heart embers until the meat pulls clean from the bone, then dusted with a pinch of wood sorrel for brightness. You’ll hardly find a better forest-meal. It’s a shame to let such delicate flavors go to waste."
+"Look there, you've barely touched your supper," Fussleton pointed, his tone shifting to one of mild, sophisticated disappointment. "Creamed morel and chanterelle soup, finished with a hint of wild garlic and sweet cicely. And the squirrel, roasted over oak-heart embers until the meat pulls clean from the bone, then dusted with a pinch of wood sorrel for brightness. You’ll hardly find a better forest-meal. It’s a shame to let such delicate flavors go to waste."
 
 He reached for a small, polished horn hanging from his belt and produced a tiny, carved bone spoon. With the precision of a jeweler, he dusted a pinch of grey, coarse salt over the soup. He pushed the soup closer to her, and the plate of squirrel. "Now eat! Your training, Meadow-bud, starts tomorrow."
 

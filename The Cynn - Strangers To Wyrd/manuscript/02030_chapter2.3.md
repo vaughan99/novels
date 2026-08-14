@@ -8,7 +8,7 @@ When he woke next, he was amazed. He saw the orange glow reflect off his blued s
 
 "Let me guess... you're a... dragon now? Did you... breathe on the rocks?" he mocked, his voice a dry rasp. Deep down, he knew the truth: this was a salvation.
 
-His vision cleared, focusing on the floor. A bowl of thin, steaming porridge sat there, a wooden spoon resting in the center, topped with a small, golden knob of butter. Beyond it, the two pails of food were secured with a scarves, the fabric pinned firmly beneath the weight of the containers—a crude but temporary ward against the rats.
+His vision cleared, focusing on the floor. A bowl of thin, steaming porridge sat there, a wooden spoon resting in the center, topped with a small, golden knob of butter. Beyond it, the two pails of food were secured under scarves, the fabric pinned firmly beneath the weight of the containers. It was a crude and temporary ward against the rats.
 
 Osric stared at the meal, his stomach twisting with a mix of hunger and dread. "Clever creature," he whispered. "Now I know... your game. I’m to be... fattened up first... aren't I?"
 
@@ -22,13 +22,13 @@ He started counting his food. He counted the firewood. Then he looked at the hea
 
 "My children thought it was funny... Ealhild and I... thought it was the girls... playing a trick on us. They played... along. Was that... you?"
 
-He waited. He listened for a scratch, a shift, a breath—anything. But there was no response.
+He waited. He listened for a scratch, a shift, a breath... anything. But there was no response.
 
 Osric let out a wet, rattling laugh that turned into a cough. "Well, of course... it was you. You should... be proud... of your work. It was a damn fine knot. You should... tell me about it."
 
 He stared at the walls, waiting for the silence to break. When it didn't, he just nodded, as if the monster had given him a perfectly reasonable answer. "I agree... It was a bit tight, wasn't it? Well... next time... more practice."
 
-And so it went for another week. He had carved out a new life with a new thatch cove by the hearth, and the creature—his silent, invisible partner—would occasionally drag in fresh firewood while he slept. Osric took to making his own porridge, after loudly critiquing the texture and complaining that the creature’s attempts were nowhere near as good as Ealhild’s.
+And so it went for another week. He had carved out a new life with a new thatch cove by the hearth, and the creature... his silent, invisible partner... would occasionally drag in fresh firewood while he slept. Osric took to making his own porridge, after loudly critiquing the texture and complaining that the creature’s attempts were nowhere near as good as Ealhild’s.
 
 He poked at the wall, he taunted the shadows, he told jokes that died in the cold air. But no matter how much he pried, no matter how much he laughed, the creature never betrayed its form. It remained a void in the room, a presence that did the work but refused to take the bow.
 
@@ -40,7 +40,7 @@ They were still. There was still so little he could do, but he found he needed t
 
 Behind the barrow stone, in the dark crack where the cold did not reach, the _nisse_ was listening.
 
-It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the _nisse_ could not—_must not_—show its true nature to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen in its true form was to break the bond. It was a pact the _nisse_ was resolved, now more than ever, to renew.
+It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting it. But the _nisse_ could not... _must not_....show its true nature to its family. That was the ancient pact of the barrow-magic, written into the very clay and timber of the hearth. To be seen in its true form was to break the bond. It was a pact the _nisse_ was resolved, now more than ever, to renew.
 
 That winter was the coldest in a lifetime. Osric's strength returned slowly. Water was plentiful so long as the fire could melt snow, but he had to ration his grain with agonizing care. That meant keeping the hearth-fire high to make sure he was warm. He had felled enough timber and stacked enough wood for what he thought would be a harsh winter. This winter, however, was relentless.
 
@@ -108,11 +108,11 @@ Slowly, gently, he freed them from their dark tomb.
 
 He laid them out on the cold clay floor, but the next obstacle was already waiting. His wife honored the Vanir traditions. They did not build funeral pyres, the sunny valley road to Alfheimr began with a passageway in the earth. The ground outside was iron-hard, frozen solid by a winter that refused to end. No spade would bite. Not yet.
 
-But to delay their peace longer invited the _Wodhere_—the spectral riders of the Wild Hunt who swept through the freezing night winds, eager to claim any wandering, unguided souls left stranded in the cold.
+But to delay their peace longer invited the _Wodhere_, the spectral riders of the Wild Hunt, who swept through the freezing night winds, eager to claim any wandering, unguided souls left stranded in the cold.
 
 He looked out the broken doorway at the massive, clean drifts. A desperate, pragmatic thought took hold. He could not dig into the iron clay, and he had no stone barrow with a rolling door like the great chieftains of her kin. But he had the snow.
 
-He would build them a _snæ-haugr_—a temporary barrow of ice.
+He would build them a _snæ-haugr_... a temporary barrow of ice.
 
 Osric dragged himself out into the biting air. Using a flat piece of timber, he began to hollow out the heart of a massive, packed snowdrift beside the house. He carved it out like a chamber, smoothing the frozen walls until he had a clean, white vault.
 
@@ -146,7 +146,7 @@ The seax. The farm. The debts. The duty. All became his inheritance on that day.
 
 Winter finally gave way to the beginning of the thaw. Out on the road, the silence was broken by the sound of horses and men.
 
-It was not the scattered, weary tread of merchants. This sound was heavy and formal—the synchronized squelch of hooves in the snow and mud, the rhythmic clink of fine harness, and the low, sparse murmurs of disciplined men.
+It was not the scattered, weary tread of merchants. This sound was heavy and formal, the synchronized squelch of hooves in the snow and mud, the rhythmic clink of fine harness, and the low, sparse murmurs of disciplined men.
 
 It was a company he did not expect.
 

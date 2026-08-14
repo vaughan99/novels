@@ -129,7 +129,7 @@ Within little more than a century of the novel's events, the Normans transformed
 
 The Roman walls undoubtedly continued to provide an imposing barrier, but they were also an invaluable source of dressed stone for generations of builders. In _The Cynn_, the Church has inherited much of the former Roman civic quarter and quietly repurposes its ruins. Stone becomes churches, grave markers, and foundations; damaged stretches of wall are bridged with timber rather than rebuilt in costly masonry. This vision is speculative, but it attempts to reconcile the Roman city's gradual decay with the extensive rebuilding undertaken after the Norman Conquest. The fictional Shadow Gate thus serves not only as the entrance to the Church's _frith_, but also as a symbol of a city suspended between the fading world of Rome and the fortified medieval town that would follow.
 
-Under-Geat arose from a simple observation. A church standing beside what amounted to a Roman stone quarry—and, in many respects, a quarry of relics—would likely accumulate considerable wealth and influence. The needs of such a minster would naturally foster its own supporting economy. Under-Geat and the Old Frith are my attempt to imagine that ecosystem.
+Under-Geat arose from a simple observation. A church standing beside what amounted to a Roman stone quarry and a quarry of relics, would likely accumulate considerable wealth and influence. The needs of such a minster would naturally foster its own supporting economy. Under-Geat and the Old Frith are my attempt to imagine that ecosystem.
 
 ---
 

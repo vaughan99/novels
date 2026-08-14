@@ -113,9 +113,7 @@ To start on its final descend,
 
 The world lurched.
 
-The Viking stepped forward, but he no longer seemed whole. Elswyth's eyes fastened upon the spear. The iron head swelled until it dominated her sight, broad as a plowshare, while the warrior behind it diminished into a collection of smaller things—hands, feet, shield, beard—all circling around the true danger.
-
-Everything else became weather.
+The Viking stepped forward, but he no longer seemed whole. Elswyth's eyes fastened upon the spear. The iron head swelled until it dominated her sight, broad as a plowshare, while the warrior behind it diminished into a collection of smaller things: hands, feet, shield, and beard. They were all merely decorating the true danger.
 
 The spearpoint drifted toward her.
 
@@ -402,7 +400,7 @@ Then, without a heartbeat of warning, the silver steel twitched violently in her
 
 ```
 The dance is done, the moon is high,
-Now it's time for you to —
+Now it's time for you to...
 ```
 
 Elswyth’s knuckles turned white. Her grip clamped down like an iron vise, shattering his rhythm and forcing the blade to a grinding, vibrating halt a mere hair's breadth from her collarbone.
@@ -412,7 +410,7 @@ She didn't panic. Because she knew his tell — knew he was a slave to the song 
 Inside her skull, the Redcap let out a high, cackling, unhinged laugh.
 
 ```
-Die!
+...Die!
 
 Curse those little fiddle-cynn,
 I had you twice but now I sin!

@@ -54,7 +54,7 @@ The dying soldier looked Cynewulf in the eye, his blood smearing every cough. "I
 
 As they rode away, the silence of the Northumbrian hills swallowed the sheepfold. Cynewulf didn't hear the final, ragged breaths of the men he had left behind, but he felt them... a phantom weight on his conscience that he simply refused to acknowledge.
 
-_Some wounds are easy to treat. Clean water, a wrap, a poultice of herbs, and time. The ones in the mind cannot be so easily be treated. They have a way of lingering long beyond their welcome. They often drive men mad._
+_Some wounds are easy to treat. Clean water, a wrap, a poultice of herbs, and time. The ones in the mind cannot be so easily treated. They have a way of lingering long beyond their welcome. They often drive men mad._
 
 _So sayeth the Wound._
 
@@ -74,9 +74,9 @@ Huginn: "Hmmm. I think I prefer chicken."
 
 Cynewulf and the two survivors found the King's camp in a field off Dere Street. They had ridden hard for a day, encountering little resistance, but the silence of the road had been worse than any ambush. When they finally crested the rise, the King's camp lay spread out below them like a sprawling, restless beast.
 
-The King's guard drew spears and shields, alarmed at the sudden, ragged arrival of the three riders. They looked like specters—gaunt, blood-spattered, and hollow-eyed.
+The King's guard drew spears and shields, alarmed at the sudden, ragged arrival of the three riders. They looked like specters... gaunt, blood-spattered, and hollow-eyed.
 
-"Woe dark rider! How dare you approach in such haste?" one of the guards challenged, his voice tight with the tension of a camp already on edge.
+"Whoa, dark rider! How dare you approach in such haste?" one of the guards challenged, his voice tight with the tension of a camp already on edge.
 
 "We have news of Hadrian," Cynewulf stammered, his voice a dry, rattling rasp. His broken rib stole his breath, the pain blooming white-hot in his chest with every word. "A force. We must speak to the King."
 
@@ -86,7 +86,7 @@ The King's guard parted, and one took the reins of Cynewulf’s horse. The heral
 
 The herald announced, "My liege, a rider from the _Griffons_ has returned with news!"
 
-Æthelstan sat at a table of polished oak, his fingers resting on a map of the North. He was wearing a field crown, small and dignified. His robes were silk and perfectly trimmed, sitting squarely on his muscular physique. Behind him, his suit of mail hung upon a heavy oak cross, the sleeves draped like the arms of a martyr, the hauberk catching the candlelight. His sword and shield were in the hands of two squires who worked with rhythmic, silent precision. The tent smelled of faint incense and rosemary oil—a sharp, clean scent that felt like an insult to the filth clinging to Cynewulf’s boots.
+Æthelstan sat at a table of polished oak, his fingers resting on a map of the North. He was wearing a field crown, small and dignified. His robes were silk and perfectly trimmed, sitting squarely on his muscular physique. Behind him, his suit of mail hung upon a heavy oak cross, the sleeves draped like the arms of a martyr, the hauberk catching the candlelight. His sword and shield were in the hands of two squires who worked with rhythmic, silent precision. The tent smelled of faint incense and rosemary oil... a sharp, clean scent that felt like an insult to the filth clinging to Cynewulf’s boots.
 
 He did not look up when Cynewulf entered. He was a man of refined movement and cold, piercing eyes, his presence made the air stand on edge. The Bishop stood at his right hand, a shadow in silk.
 
@@ -110,7 +110,7 @@ He finally looked up. His eyes were like flint, devoid of pity. "Where is the ba
 
 He turned, his movements fluid and predatory. "If you are lying, rider, I will have you hung from the highest tree on Dere Street before the sun sets. If you are telling the truth, you have brought me the death of my vanguard."
 
-The Bishop stepped forward, his face tight. "My liege, we cannot base our movements on the word of a man who has clearly been broken by the retreat. The scouts—"
+The Bishop stepped forward, his face tight. "My liege, we cannot base our movements on the word of a man who has clearly been broken by the retreat. The scouts..."
 
 "The scouts' tales are a month old, Bishop!" Æthelstan snapped, his eyes never leaving Cynewulf. "The North is a shifting tide. If the Alt Clut have moved, if they have fortified the ruins..."
 
@@ -232,7 +232,7 @@ Cynewulf introduced himself that morning. The telling took most of the day and p
 
 Cynewulf spoke often that winter. He spoke of kings who broke promises, captains who wasted lives, and jarls who demanded loyalty they never returned. He spoke of betrayals, defeats, and old wounds. The abbot listened patiently through all of it. After every story, the old man offered another job.
 
-Cynewulf retorted one day. "Why? Every time I show you my pain, you offer me more to do. I'm not you're thrall."
+Cynewulf retorted one day. "Why? Every time I show you my pain, you offer me more to do. I'm not your thrall."
 
 "No," said the abbot. "If I wanted a thrall, I'd have chosen a less argumentative one."
 
@@ -330,7 +330,7 @@ The next morning, Cynewulf met them in the yard. Two Welsh had just walked the p
 
 "Aye they're for children alright..." Madoc said, a smile creeping into the corners of his mouth. "I just don't think they'll appreciate the gift, as much effort as we put into it at least."
 
-Madoc's interest was drawn to the map. Milly held one side, and he held the other. They were finalizing the approach. "Ermine Street, Fosse Way, then peel off the road to Charnwood for our base. Use the Soar for water and forest for everything else. If this map is worth anything, which it probably isn't." Madoc and Milly laughed, as Milly rolled the map into a bone case.
+Madoc's interest was drawn to the map. Milli held one side, and he held the other. They were finalizing the approach. "Ermine Street, Fosse Way, then peel off the road to Charnwood for our base. Use the Soar for water and forest for everything else. If this map is worth anything, which it probably isn't." Madoc and Milli laughed, as she rolled the map into a bone case.
 
 The _Dannedd y Ddraig_ were a riot of noise, singing bawdy songs of the Welsh hills that made the local wayfarers scramble into the ditches to give them a wide berth. They were loud, boisterous, and utterly indifferent to the judgment of the world.
 

@@ -506,7 +506,7 @@ She stood defiantly. "You want me? You'll have to fight me here." She pulled out
 
 "Taunting?" He laughed.
 
-"Ha ha—owww... still hurts."
+"Ha ha... owww... still hurts."
 
 He gingerly touched his nose.
 
@@ -566,7 +566,7 @@ The powrie-spirit spun on his heel and let out a scream of slicked hate and curi
 
 Nets flew from the darkness, tangling the redcap where he stood. Thick loops of rope, woven through with deathcap mushrooms, wrapped around his limbs. He struggled and bit, thrashed and twisted, but the cords held fast.
 
-His knife—silver blade bound to an iron hilt, just as his family-name poem foretold—fell from his hand into the dirt.
+His knife was a silver and iron blade with a strange forked handle fell from his hand into the dirt.
 
 He fought and screamed against the bindings:
 
@@ -711,7 +711,7 @@ _("Christ on the Cross, be to me a shield, stand before me. Christ on the Cross,
 
 She crossed herself, but her fingers traced the sign not just in the air, but toward the four corners of the sleeping hole, as if pinning the walls to the ground. She prayed for a barrier. She prayed for the Church’s stone to be as hard as the forest’s wood, and for the "God of the Bells" to be louder than the giggles in the dark.
 
-She paused, her breath hitching in the silence of the hut. She remembered the priests’ teachings: some prayers ended in _Amen_, and some did not. She didn't want to offend God—not now, not in her moment of greatest need. She needed the seal to be perfect.
+She paused, her breath hitching in the silence of the hut. She remembered the priests’ teachings: some prayers ended in _Amen_, and some did not. She didn't want to offend God... not now, not in her moment of greatest need. She needed the seal to be perfect.
 
 She reached into her pocket, pulled out the Alexander Stone, and placed it firmly in the entry to her sleeping hole. It caught the first, pale sliver of dawn light, a small, smooth eye watching the dark.
 

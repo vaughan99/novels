@@ -32,13 +32,13 @@ Madoc smiled, a sharp, predatory expression, and eagerly began to display the to
 
 On his back was the _tarian_, a small round shield the size of a man's hand and forearm. Theirs had an iron-covered wooden pyramid protruding as the central boss, making it an effective punching weapon and easy for field-repair. It was not an average tarian.
 
-He gestured to the spear in his hands— "And on the 8th day, God decided to give every soldier in all of Christendom a pointy stick. We just decided we should use it better than anyone else!"
+He gestured to the spear in his hands. "And on the 8th day, God decided to give every soldier in all of Christendom a pointy stick. We just decided we should use it better than anyone else!"
 
 He patted his hip, where a short quiver of weighted darts, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_, the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw. The iron makes them a little lighter, but re-usable."
 
 Then, he reached into a small, wooden box-pouch at his belt and pulled out a wooden toggle attached to a thick wool cord. Trailing behind the toggle was a string of iron star caltrops, each one forged so that no matter how they landed, a single, needle-sharp point always faced the sky.
 
-"And these?" Madoc grinned, his eyes glinting. "These are the _Dannedd y Ddraig_—the Dragon’s Teeth. Our secret, and our namesake. The Romans called them _tribuli_. The toggles and cordage make them easy to throw and pick back up. Not even a shield wall can protect you from the earth-dragon nipping at your feet! A line of these in the mud turns a mighty Viking into a quibbling cub. Great for laying a trap, or hurling to a man's legs for the trip."
+"And these?" Madoc grinned, his eyes glinting. "These are the _Dannedd y Ddraig_, the Dragon’s Teeth. Our secret, and our namesake. The Romans called them _tribuli_. The toggles and cordage make them easy to throw and pick back up. Not even a shield wall can protect you from the earth-dragon nipping at your feet! A line of these in the mud turns a mighty Viking into a quibbling cub. Great for laying a trap, or hurling to a man's legs for the trip."
 
 Cynewulf watched as Madoc coiled the line back into the box with practiced ease. It was a simple, brutal piece of engineering.
 
@@ -60,7 +60,7 @@ Madoc sensed Cynewulf's unease. Madoc feigned humility, pressing his palms toget
 
 He erupted into a jagged, barking laugh, slapping Cynewulf on the shoulder hard enough to rattle his teeth.
 
-Finally, he slapped the seax at his belt. "And for the finish? Who doesn't love a good seax?" Without warning, Madoc’s hand blurred. Before Cynewulf could even blink, a hidden iron shank—a simple, needle-sharp spike—was pressed against his ribs. Madoc held it there for a heartbeat, his grin wide and mocking, before sliding it back into a locking wrist sheath in his bracer.
+Finally, he slapped the seax at his belt. "And for the finish? Who doesn't love a good seax?" Without warning, Madoc’s hand blurred. Before Cynewulf could even blink, a hidden iron shank pressed against his ribs. It was a simple, needle-sharp spike that Madoc had gotten past his guard. Madoc held it there for a heartbeat, his grin wide and mocking, before sliding it back into a locking wrist sheath in his bracer.
 
 "See?!" Madoc laughed, his eyes dancing. "You never know what to expect from us. A man who relies on his sword is a man who’s already half-dead, Saxon. A man who relies on his _guile_? He’s the one who gets to go home and drink the ale."
 
@@ -283,7 +283,7 @@ In all of that, only one _Dragon_ caught a glancing blow from a thrown axe.
 
 And it wasn't Baldy.
 
-_A shield often bears the mark of a community, declaring that if one stands, many stand behind it. But when a foreign shield bears the blow instead, it tells the community something far more important—that they are worth protecting._
+_A shield often bears the mark of a community, declaring that if one stands, many stand behind it. But when a foreign shield bears the blow instead, it tells the community something far more important: that they are worth protecting._
 
 _So sayeth the Shield._
 

@@ -86,7 +86,7 @@ Only now did he understand that **those had been the journey**.
 
 That changed in November of 933 AD, near the salt-marshes of the Humber. For days, he had nervously been asking his own question of the Road: _How will I survive winter?_
 
-He saw them riding through the grey mist—forty men on heavy, destrier-bred horses, clad in mail blackened with oil to hide the glint of steel. They were not Saxons, nor Danes. They were Franks, mercenaries who had traded the vineyards of the Seine for the mud of the Danelaw.
+He saw them riding through the grey mist: forty men on heavy, destrier-bred horses, clad in mail blackened with oil to hide the glint of steel. They were not Saxons, nor Danes. They were Franks, mercenaries who had traded the vineyards of the Seine for the mud of the Danelaw.
 
 They carried no banners save one tattered standard: a black griffon, wings spread, its rust-red talons gripping a sword. They were the _Griffons Noirs_, led by a man named only _Fer-Main_.
 
@@ -226,7 +226,7 @@ Cynewulf hatched a plan that would make any bell-caster proud. All he needed to 
 
 The disk had to be perfect though. Lead tends to spread at the edges of imprints, making it inferior for a negative for a die cast. Cynewulf worked with the smith, with access to rarer metals, to craft an alloy. Several trials and failures. Finally, his last try: lead, a bit of tin, a bit of antimony.
 
-To test, he used a silver penny. He placed the coin between two scraps of his new alloy and struck it with the hammer. When he pulled the metal apart, the King’s profile stared back at him—every strand of hair, every letter of the legend, perfectly mirrored in the grey, hardened lead. It was a perfect strike.
+To test, he used a silver penny. He placed the coin between two scraps of his new alloy and struck it with the hammer. When he pulled the metal apart, the King’s profile stared back at him: every strand of hair, every letter of the legend, perfectly mirrored in the grey, hardened lead. It was a perfect strike.
 
 Cynewulf next prepared a request for help, from the remote parish of St. Odile-of-the-Silt. It was a small parish in the Fens, a land of grey water and shifting silt. The small parish had one formerly retired priest, a shack of a church with a driftwood crucifix, and a flock of a paltry twenty souls. It was dedicated to the ministry to the blind, and half the parishioners suffered from the affliction.
 

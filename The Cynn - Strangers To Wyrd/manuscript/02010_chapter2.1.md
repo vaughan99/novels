@@ -6,7 +6,7 @@ Osric was a man of the earth, an Anglian, his hands calloused by wood and iron l
 
 He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
 
-He was not an especially pious man. He had seen the shuffle of war—Norseman against Christian, Christian against Norseman—and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and every harvest. Still, when the rains came late or the barley stood thin, Osric would sometimes offer a prayer for steady weather and a bountiful yield. Sometimes he offered the same prayer to Freyr, the Norse god of the harvest. It seemed no great offense to ask twice.
+He was not an especially pious man. He had seen the shuffle of war... Norseman against Christian, Christian against Norseman... and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and every harvest. Still, when the rains came late or the barley stood thin, Osric would sometimes offer a prayer for steady weather and a bountiful yield. Sometimes he offered the same prayer to Freyr, the Norse god of the harvest. It seemed no great offense to ask twice.
 
 He attended the little parish church at Easter, at Michaelmas, and on the Feast of Saint Martin, when the livestock were culled for winter. Beyond that, he placed more trust in sound thatch, healthy cattle, a sharp spear, and the men who would stand beside him in the shield-wall. He kept a few old harvest customs besides. He left the last corner of the field uncut, in honor of the land, and wove the first sheaf of every harvest into the cottage door as a quiet sign of gratitude for the year's bounty. Whether the thanks belonged to Christ, to Freyr, or simply to the land itself had never seemed worth arguing over, so long as the barley ripened and his children had bread through the winter.
 
@@ -76,7 +76,7 @@ Huginn: "No, he's... Super-BOOOOAAARRR!"
 
 ---
 
-Ealhild's family were superstitious. The family barrow was young by Northmen standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it—stories, bones, stones, and memories—until it seemed older than it truly was.
+Ealhild's family were superstitious. The family barrow was young by Northmen standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it... stories, bones, stones, and memories... until it seemed older than it truly was.
 
 Her mother taught her that one day, she would marry, and would travel far away. To carry the family traditions to a new valley was a great honor, and a great responsibility.
 
@@ -111,7 +111,7 @@ Twelve years had passed since their marriage. They were years of love, kinship, 
 
 The harvests of 940 and 941 were difficult. Osric's fellow farmers complained of the shuttering of the windows of Heaven, how the light didn't fall as it once had. Ealhild whispered that _Sköll_, the wolf-enemy of the sun _Sól_, was closing on its prey. The evidence was the shadow of the wolf's jaws on the land. Through it all, Osric's fields had better yields than his neighbors, though it was hard to understand why.
 
-When the harvest of 942 began to fail, the countryside was counting. Men counted sacks. Women counted animals. Everyone was wondering whether the coming winter was counting as well—the number of graves that would have to wait for spring's thaw.
+When the harvest of 942 began to fail, the countryside was counting. Men counted sacks. Women counted animals. Everyone was wondering whether the coming winter was counting as well: the number of graves that would have to wait for spring's thaw.
 
 Much of Osric's barley yield was destined for the lord's malt-house. After the grain-tax, this year's yield was meager. He had enough left over for his family, and silver from the malt-house paid for his market purchases, with nothing extra. He bought the staples to see them through the dark: heavy crocks of wild honey, small barrels of smoked North Sea herring, and precious gray crystals of salt hauled from the eastern salt-pans. He often bartered his leftover grain to the locals for lamb. His neighbor bought much of his cream, in exchange for his famed cheese and pork. They stocked turnips, parsnips, and dried beans of the garden, with the help of the children's hard work. Heavy oak casks held the preserved proteins, wrapped in the purchased salt. Ealhild dried herbs from the garden and crabapples from the field meticulously for preservation. She also gathered gooseberries and elderberries from the hedges, which combined with honey turned into syrup preserves.
 
