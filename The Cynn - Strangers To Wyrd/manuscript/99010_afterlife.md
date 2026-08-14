@@ -93,7 +93,7 @@ EPICURUS' ALL-YOU-CAN'T-EAT BUFFET
 
 Their destination was the main stage where they were to meet the Skeleton Crew for their gig. The road was simple and winding, passing small vendors of memorabilia and snack carts. 
 
-They passed a small wooden booth on the side of the road, sitting an the entrance to a large courtyard. 
+They passed a small wooden booth on the side of the road, sitting at the entrance to a large courtyard. 
 
 A sign above the booth read:
 

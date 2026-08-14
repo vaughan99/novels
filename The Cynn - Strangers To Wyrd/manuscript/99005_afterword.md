@@ -307,7 +307,7 @@ The scabbard should be lambskin-lined tough leather as was common for langseaxes
 
 ##### Scabbard Obverse (Outer) Side: The Inquisitors
 
-This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade on the first line, and the ward of the blade on the second line. Two ravens, one on each side of the inscription, should be facing inward, so as to witness the ward. The ward is there not just for the public, but for the wielder too... for they must suffer the inquisition. The ravens should be in the jelling style, with scrollwork containing and framing the name/title and prayer. Since Odin is not invoked directly, the prayer is also to God, on the off-chance that Odin isn't listening to the ravens.
+This side is outward-facing and represents the "public" protection side for the wielder and his/her companions and a warning to enemies. This contains the name/title of the blade on the first line, and the ward of the blade on the second line. Two ravens, one on each side of the inscription, should be facing inward, so as to witness the ward. The ward is there not just for the public, but for the wielder too... for they must suffer the inquisition. The ravens should be in the Jelling style, with scrollwork containing and framing the name/title and prayer. Since Odin is not invoked directly, the prayer is also to God, on the off-chance that Odin isn't listening to the ravens.
 
 ##### Scabbard Reverse (Inner) Side: The Invocation
 
@@ -387,7 +387,7 @@ I constructed it from monosteel silvery 15N20, the blade polished to an *almost*
 
 You could do as the forge elves, find yourself some meteorite iron, pound, refine and fold for a very long time to turn the iron into a billet of steel. You might even produce something that's half as good as ole' 15N20. Instead of doing all that, just buy the 15N20! 
 
-The blade is a light, relatively thin narrow seax with 12-14" blade . The break is roughly half way down the blade, making the tip extremely fast and maneuverable.
+The blade is a light, relatively thin narrow seax with a 14" blade. The break is roughly half way down the blade, making the tip extremely fast and maneuverable.
 
 The blade has no adornment, fullers or inscriptions... how can you scratch the skin of the redcap himself? He would most put out. He may even start to question my vintage.
 

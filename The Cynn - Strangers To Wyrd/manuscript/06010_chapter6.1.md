@@ -8,7 +8,11 @@ _These are the lessons of the Bell_.
 
 This story began earlier, in 913 AD. It was Shrove Tuesday, the week before Lent, a day for confessions in the Church of Augustine and Columba. The ring of the Shrove-Bells called throughout Leicester. That day was the most important day for confessions on the calendar.
 
-Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. These were the old-days of the confessional, where the priest was seated in the open, hand-on-shoulder, stole draped over the confessed, penitential in other hand. The confessed did so in the open, witnessed by all. Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
+Cynewulf was not born to the sword. He was born to carpenters, and had a fairly boring life. As a boy of ten winters, he kneeled in the nave, at his first confession, surrounded by villagers. 
+
+These were the old days of the confessional, when the priest sat openly among the congregation, one hand on the penitent's shoulder, his stole draped over the penitent and a penitential in his other hand. The confession was made openly, witnessed by all.
+
+Cynewulf's father stood behind him, his eyes bent somberly at his child confessing before the seated priest.
 
 "Father, my name is Cynewulf... son of Godric. There is a heat in me," he whispered. "I looked at my best friend Ordgar and... I wished him into the fire. We were picking through the iron bits meant for my father's small nail-forge, and he found a garnet. I'm told such things are rare. Garnets are swallowed by smelt-fire. I was jealous of the prized bauble he had found, and I wanted it for myself. And then the forge-spark jumped. I watched him burn, and for a heartbeat, I did not move." His friend was not terribly injured that day, but accusations were made, and they were no longer friends.
 

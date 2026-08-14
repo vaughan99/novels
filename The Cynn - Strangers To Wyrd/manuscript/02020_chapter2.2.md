@@ -38,7 +38,11 @@ The work was slow in the ruin.  More than once the _nisse_ found itself digging 
 
 The oil-string. Such a small thing. Such a foolish thing. It remembered the knot. It remembered the scent. It remembered brushing its finger against the oil going into the grain chest to reward the horse for her loveliness. This was something it had seen before, another winter long ago. Another theft for another horse. Another set of dirty hands laying a string around a grain chest lid. "Clever Ealhild... she remembered her mother's lesson." Now the certainty felt like poison of its own. The _nisse_ turned the cord over in its hands while the snow gathered upon its shoulders. This was where it began.
 
-At last it tucked the oil-string away and returned to its work. Every recovered vegetable, every scoop of grain, every salvaged scrap was carried back to the broken threshold and left inside the home for Osric in those two pails. "Two pails. One man. Three wraps of dried pork. One dried fish. Turnips. Crabapples. Grain enough for porridge. Enough food for a careful man," it whispered. "If he's smart." The winter would take enough from this household without help from the _nisse_. Exhausted, it sat briefly on the barrow-stone.
+At last it tucked the oil-string away and returned to its work. Every recovered vegetable, every scoop of grain, every salvaged scrap was carried back to the broken threshold and left inside the home for Osric in those two pails. 
+
+_Two pails. One man. Three wraps of dried pork. One dried fish. Turnips. Crabapples. Grain enough for porridge. Enough food for a careful man... If he's smart._
+
+The winter would take enough from this household without help from the _nisse_. Exhausted, it sat briefly on the barrow-stone.
 
 Then the _nisse_ thought of the animals, and their grain chests.
 
@@ -46,7 +50,25 @@ Enough rest.
 
 Tracks disappeared almost as quickly as they were made. The storm howled around it, but the little spirit continued its work, trudging back and forth through the snow, trying desperately to remember where it had thrown the rest. Fumbling, frozen hands dug through snow time and again. Time and again, it found a stump. Or a stone.  Then, a board. A chest. Broken, but still... half full. The _nisse_ dug out the broken chest and dragged it to the byre. Larger hands would have been clumsy. Every grain was precious.
 
-The night was spent frantically in the white. Surveying. Remembering. Searching. Failing. Finding! Dragging. Enough grain was found, and dragged to the byre for the animals. And the work still wasn't done. "Rats. Larder-goblins! Must protect the grain." It tested the strongest of the chests, and moved grain between to protect what was left. Confident, it closed the chests.
+The night was spent frantically in the white.
+
+_Surveying._
+
+_Remembering._
+
+_Searching._
+
+_Failing..._
+
+_Finding!_
+
+_Dragging._
+
+Enough grain was found, and dragged to the byre for the animals. And the work still wasn't done. 
+
+_Rats. Larder-goblins! Must protect the grain!_
+
+It tested the strongest of the chests, and moved grain between to protect what was left. Confident, it closed the chests.
 
 And still, the work wasn't done.
 

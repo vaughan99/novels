@@ -322,7 +322,7 @@ Cynewulf caught the needle, surprised by the weight of the cloak. It smelled of 
 
 "Fair enough," Cynewulf rasped.
 
-The next morning, Cynewulf met them in the yard. Two Welsh had just walked the perimeter of the abbey, and had a number of broken shards of glass. One had the face of Saint Martin, the other the outline of an angel wing. They were collected from one of the walls whose pane had become damaged.
+The next morning, Cynewulf met them in the yard. Two Welshmen had just walked the perimeter of the abbey, and had a number of broken shards of glass. One had the face of Saint Martin, the other the outline of an angel wing. They were collected from one of the walls whose pane had become damaged.
 
 "Don't mind them Saxon. They're just collecting gifts," Madoc said casually.
 
