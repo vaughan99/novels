@@ -288,13 +288,15 @@ Wulfstan rested both hands upon the table, but gave no response.
 
 Oda leaned in.
 
-"I count desperation. The men in your Forum know there is nowhere left to retreat. Every father will defend the next doorway as though his own children slept behind it."
+"I count desperation. Soon we will own the North Gate. The men in your Forum know there is nowhere left to retreat. Every father will defend the next doorway as though his own children slept behind it."
 
-"They will."
+"They will die with honor."
+
+“They will die. And what if they die before you have the chance to convert them? Or should they die for a hall of heroes that exists only in their minds?”
 
 Oda sat back and gave a weary smile.
 
-"And we have spent weeks burying brothers beneath these walls. Every street we take will convince us the next one must justify the last."
+"And we? We've spent weeks burying brothers outside these walls, and will bury yet more inside. Every street we take will convince us the next one must justify the last."
 
 The smile vanished.
 
