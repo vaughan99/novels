@@ -2,13 +2,27 @@
 
 The _nisse_ waited until there was no hint of activity. It slipped out from its home, the crack between the door and the threshold stone. It went to claim what was owed. From its dark crack, it had watched her boots move back and forth across the transition all day, tracking the winter math of its domain.
 
-The _nisse_ centered its gaze, downward over the bowl. "Oh my, this is the family bowl. Osric's family bowl," it thought. The _nisse_ picked up the bowl and narrowed its gaze further. "Rye bread and belly meat. Ooh, salted swine. That is *most* acceptable. But what is... this??" It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. "Ech... sweetness?" It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
+The _nisse_ centered its gaze, downward over the bowl.
+
+_Oh my, this is the family bowl. Osric's family bowl._
+
+The _nisse_ picked up the bowl and narrowed its gaze further. 
+
+_Rye bread and belly meat. Ooh, salted swine. That is *most* acceptable. But what is... this??_
+
+It poked a grey finger into the syrup. The goblin-air had mostly released by then. But, there was a scent of it on the finger. 
+
+_Ech... sweetness?_
+
+It brought its finger to the snout and deeply inhaled. The last of the goblin-air tried to invade its lungs, a cloying sickness beneath the honey. The _nisse_ realized instantly it was a sweetened doom.
 
 The small _nisse_'s fury burst forth on to its skin. The madness oozed from its pores like a grey miasma. Just as it leaked out, it breathed, and flushed back in through every pore and orifice. It swelled into every corner of the creature. It grew, its heart pumping miasmic hate out of, and back into its being.
 
-It was brought here. Given this land to tend. For twelve years, the _nisse_ had watched from a tiny space between the home and the threshold stone. It learned, listened, and protected. No wolves had approached the door. It picked all the blighted plants before their sickness could spread. It earned its keep. It earned respect.
+_I was brought here! Given this land to tend. For twelve years, I watched and listened from the threshold stone. I learned and protected. No wolves have approached the door. I've picked all the blighted plants before their sickness could spread. I've earned MY keep. I earned respect._
 
-The _nisse_'s fury turned inward. The swelling touched every sinew, every muscle. It hardened and softened with every beat, becoming stone, then mud, over and over as it grew larger. The _nisse_ grew to the size of a giant in the doorframe. It reached in one motion, tearing the door completely off with barely a flick of its wrist. The door flew through the air. With both hands, it grabbed beams of the doorway timbers that reached all the way into the ceiling. It lifted the entire thatch roof off the walls with a primal yet *silent*... scream. 
+The _nisse_'s fury turned inward. The swelling touched every sinew, every muscle. It hardened and softened with every beat, becoming stone, then mud, over and over as it grew larger. The _nisse_ grew to the size of a giant in the doorframe.
+
+It reached in one motion, tearing the door completely off with barely a flick of its wrist. The door flew through the air. With both hands, it grabbed beams of the doorway timbers that reached all the way into the ceiling. It lifted the entire thatch roof off the walls with a primal yet *silent*... scream. 
 
 It stopped, holding the roof's beams high in the air. Its arms were steady, its legs unshakeable. Then came the release; the _nisse_ simply let go. The timbers crashed back to earth. Crossbeams shattered, and the thatch roof caved under the weight of the snow. The cold and snow rushed in, slapping the goblin-sick purple faces of Ealhild and the children. Their expressions were frozen in final agony.
 
@@ -22,21 +36,33 @@ It entered the doorway, piles of thatch and snow in mounds before it. It crawled
 
 All had the tell-tale sign of the purple-skinned goblin sickness. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The _nisse_ searched further and found Osric next to the bed, not with the others under the heap.
 
- It looked at Ealhild’s purple lips. It looked at the quiet shapes of the children beneath the thatch. It knew the tragedy.
+It looked at Ealhild’s purple lips. It looked at the quiet shapes of the children beneath the thatch. It knew the tragedy.
 
 All _nisse_ have a responsibility. Protection. They protect the family, the hearth, the home, the land, the livestock. Every blade of grass. Every laugh from the children. Every loving embrace of a husband and wife. And now, it was all... gone. The barrow-wight was a failure.
 
-Osric was still clinging to life, but the goblins were beyond the _nisse_'s magic. It knew that if Osric were to survive the goblins, he would be too weak to handle all that lay before him the following morning. The _nisse_ thought back to the eorth-hord's remains and the livestock. It hurried back to the doorway with newfound resolve, plodding the steps without its usual stealth. It passed the threshold, out into the biting cold. Winter had arrived with a vengeance, and the animals would never survive the open stalls for long. They needed to be moved to the byre, and the byre needed to be ready.
+Osric was still clinging to life, but the goblins were beyond the _nisse_'s magic. It knew that if Osric were to survive the goblins, he would be too weak to handle all that lay before him the following morning.
 
-The _nisse_ looked at the lower end of the house where the byre stood. It was a walled alcove of wattle and daub, sharing the cottage's long, thatched roof. It offered shelter from the biting wind and snow, far better than the exposed stalls. Luckily, it was far enough from the ruined doorway that the structure remained sound. The _nisse_ also noticed that Osric had already moved the essentials: the troughs, the pails, the hay. There was a transfer grain chest here too, with enough grain for a few days. He had even banked the exterior walls with extra sod to keep the frost from creeping into the byre floor. It was the work of a man who knew the winter was at the door, and the final step was to move the livestock in. "Tomorrow," the _nisse_ thought, its resolve hardening like its stone. "Food. Now."
+The _nisse_ thought back to the eorth-hord's remains and the livestock. It hurried back to the doorway with newfound resolve, plodding the steps without its usual stealth. It passed the threshold, out into the biting cold.
+
+Winter had arrived with a vengeance, and the animals would never survive the open stalls for long. They needed to be moved to the byre, and the byre needed to be ready.
+
+The _nisse_ looked at the lower end of the house where the byre stood. It was a walled alcove of wattle and daub, sharing the cottage's long, thatched roof. It offered shelter from the biting wind and snow, far better than the exposed stalls. Luckily, it was far enough from the ruined doorway that the structure remained sound.
+
+The _nisse_ also noticed that Osric had already moved the essentials: the troughs, the pails, the hay. There was a transfer grain chest here too, with enough grain for a few days. He had even banked the exterior walls with extra sod to keep the frost from creeping into the byre floor. It was the work of a man who knew the winter was at the door, and the final step was to move the livestock in. 
+
+_Tomorrow, the animals. Food. Now!_
 
 The cold was turning to a blizzard; the muddy miasma clung to the _nisse_ like hardened frost-stone. It was harder to move now as the _nisse_ wasn't a creature for the elements, it was meant to live under the home. But the _nisse_ pushed forward. Time was now critical.
 
-The _nisse_ grabbed two old pails and stumbled back toward the ruined eorth-hord. The blizzard was swallowing the world. Snow lashed its face and filled the air with a shifting white haze. Somewhere beneath the drifts lay the grain chests it had scattered in its fury. The larger chests could wait. The smaller things could not. Every gust pushed another layer of snow into the shattered storehouse. Crabapples rolled between broken boards. Carrots and parsnips vanished beneath drifts. Oats and peas spilled from torn sacks and disappeared into the white. The _nisse_ dropped to its knees and began gathering what it could. One handful at a time.
+The _nisse_ grabbed two old pails and stumbled back toward the ruined eorth-hord. The blizzard was swallowing the world. Snow lashed its face and filled the air with a shifting white haze. Somewhere beneath the drifts lay the grain chests it had scattered in its fury. The larger chests could wait. The smaller things could not.
+
+Every gust pushed another layer of snow into the shattered storehouse. Crabapples rolled between broken boards. Carrots and parsnips vanished beneath drifts. Oats and peas spilled from torn sacks and disappeared into the white. The _nisse_ dropped to its knees and began gathering what it could. One handful at a time.
 
 The work was slow in the ruin.  More than once the _nisse_ found itself digging through a mound of snow only to uncover something it had broken itself. Then its hand brushed against a cord darkened with oil. The _nisse_ froze. It pulled the string free from the wreckage and stared at it.
 
-The oil-string. Such a small thing. Such a foolish thing. It remembered the knot. It remembered the scent. It remembered brushing its finger against the oil going into the grain chest to reward the horse for her loveliness. This was something it had seen before, another winter long ago. Another theft for another horse. Another set of dirty hands laying a string around a grain chest lid. "Clever Ealhild... she remembered her mother's lesson." Now the certainty felt like poison of its own. The _nisse_ turned the cord over in its hands while the snow gathered upon its shoulders. This was where it began.
+The oil-string. Such a small thing. Such a foolish thing. It remembered the knot. It remembered the scent. It remembered brushing its finger against the oil going into the grain chest to reward the horse for her loveliness.
+
+This was something it had seen before, another winter long ago. Another theft for another horse. Another set of dirty hands laying a string around a grain chest lid. "Clever Ealhild... she remembered her mother's lesson." Now the certainty felt like poison of its own. The _nisse_ turned the cord over in its hands while the snow gathered upon its shoulders. This was where it began.
 
 At last it tucked the oil-string away and returned to its work. Every recovered vegetable, every scoop of grain, every salvaged scrap was carried back to the broken threshold and left inside the home for Osric in those two pails. 
 
@@ -46,9 +72,11 @@ The winter would take enough from this household without help from the _nisse_. 
 
 Then the _nisse_ thought of the animals, and their grain chests.
 
-Enough rest.
+_Enough rest._
 
-Tracks disappeared almost as quickly as they were made. The storm howled around it, but the little spirit continued its work, trudging back and forth through the snow, trying desperately to remember where it had thrown the rest. Fumbling, frozen hands dug through snow time and again. Time and again, it found a stump. Or a stone.  Then, a board. A chest. Broken, but still... half full. The _nisse_ dug out the broken chest and dragged it to the byre. Larger hands would have been clumsy. Every grain was precious.
+Tracks disappeared almost as quickly as they were made. The storm howled around it, but the little spirit continued its work, trudging back and forth through the snow, trying desperately to remember where it had thrown the rest.
+
+Fumbling, frozen hands dug through snow time and again. Time and again, it found a stump. Or a stone.  Then, a board. A chest. Broken, but still... half full. The _nisse_ dug out the broken chest and dragged it to the byre. Larger hands would have been clumsy. Every grain was precious.
 
 The night was spent frantically in the white.
 
@@ -152,13 +180,19 @@ He looked back at the wall. Suddenly, a tiny bit of daub pushed into the hole. T
 
 The daub didn't just fall; it was _pushed_? A deliberate, rhythmic pressure from the other side, as if something wanted to seal the wall.
 
-"Maybe one... of the children... survived? Is that... possible? Maybe... I miscounted?" The thoughts raced through his head, while his lungs still refused breath.
+_Maybe one... of the children... survived? Is that... possible? Maybe... I miscounted?_
+
+The thoughts raced through his head, while his lungs still refused breath.
 
 "Ealhild? Little Ones?" he almost managed a normal tone. His breath was ragged though, as the adrenaline was driving his lungs harder than he could stand. But still there was no response. He lay there, on the floor, staring at the wall.
 
 Another piece of daub pushed in, this time a foot higher.
 
-"_Unholda_?" He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home. He cursed his mind. He had already forgotten the lorica. He couldn't remember the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sown or harvested.
+_Unholda?_
+
+He dared only mouth the word. This was the local word for the _Diabolus_, the dark creature of the pit. To say its name would be to invite it into the home.
+
+He cursed his mind. He had already forgotten the lorica. He couldn't remember the protective prayer taught by the parish priest when facing true evil. He had no ear for the Church's tongue, especially when crops had to be sown or harvested.
 
 He searched for a stick, and found one in the thatch. He clumsily pushed the new daub back out of the first hole, then the second. He peered outward. He saw nothing beyond what he saw before: the murky shadows and faint outline of stalls. The sounds of the livestock were noticeably quieter.
 

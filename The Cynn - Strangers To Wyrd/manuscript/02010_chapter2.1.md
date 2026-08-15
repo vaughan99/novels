@@ -161,7 +161,11 @@ A _nisse_ was a spirit who came forth from the barrows, and guarded the land and
 
 A _nisse_ would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The _nisse_ had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
 
-She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin. "We need extra tonight... and I know just what to make," she thought to herself, as she steeled herself inside.
+She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin. 
+
+_We need extra tonight... and I know just what to make!_
+
+She steeled herself inside.
 
 She prepared a full meal fit for the first *true* winter night: mutton on the bone, pickled herring relish with sharp radishes, fresh bread, skyr cheese with honey, roasted sheep marrow directly from the fire, and salted ale-soaked prunes. Their feast lasted well into the evening. They joked about the braids on the horse... Osric thought the girls were playing maid to the horse, but Ealhild quietly knew the truth.
 
@@ -173,11 +177,19 @@ Osric dutifully obeyed, but his wife's offering seemed... different... from what
 
 Ealhild took the offering and set it on the transition stone. She retreated in quiet, and they both went to bed. Ealhild drifted fast asleep.
 
-Osric stayed up, worried about what he had just seen. He had never had reason to question Ealhild's choices before, which made this confusion all the more agonizing. He thought: "This '_nisse_', it must be like one of our _larder-elves_, _room-gods_. These are Anglian lands, and the spirits of the soil hold the gate here. This foreign creature must bend to the custom of the valley, surely? But what if she's right? If her offering is true, then the spirit should be appeased. But... what if the spirit is a _larder-elf_? This offering would just encourage it. It wouldn't suffer the honey-sleep, it would want more of what it was just given!" 
+Osric stayed up, worried about what he had just seen. He had never had reason to question Ealhild's choices before, which made this confusion all the more agonizing.
+
+_This 'nisse', it must be like one of our larder-elves. These are Anglian lands, and the spirits of the soil hold the gate here. This foreign creature must bend to the custom of the valley, surely? But what if she's right? If her offering is true, then the spirit should be appeased. But... what if the spirit is a larder-elf? This offering would just encourage it. It wouldn't suffer the honey-sleep, it would want more of what it was just given!_
 
 With that realization, he grabbed and lit a candle, and found the syrup freshly made on the table.
 
-Osric retrieved the bowl from the threshold and brought it inside. He was relieved that the bowl was still full. He didn't want to take a chance scaring away the spirit, so he worked quickly and quietly. He uncorked the bottle, and it yielded a subtle pop. "That's strange, it smells of roasted nuts. Perhaps Ealhild added a few from a local tree. No matter." He poured a drizzle on the glistening pork fat, and recorked the bottle, completely content that he had fixed the offering. He replaced it, as before, on the threshold, and went to bed. "If she's right, the _nisse_ will ignore the syrup and accept the offering. If it's a _larder-elf_, it will suffer the honey-sleep, and we won't see him again for at least 2 moons," he whispered to himself as he fell asleep.
+Osric retrieved the bowl from the threshold and brought it inside. He was relieved that the bowl was still full. He didn't want to take a chance scaring away the spirit, so he worked quickly and quietly. He uncorked the bottle, and it yielded a subtle pop.
+
+_That's strange, it smells of roasted nuts. Perhaps Ealhild added a few from a local tree. No matter._
+
+He poured a drizzle on the glistening pork fat, and recorked the bottle, completely content that he had fixed the offering. He replaced it, as before, on the threshold, and went to bed.
+
+_If she's right, the nisse will ignore the syrup and accept the offering. If it's a larder-elf, it will suffer the honey-sleep, and we won't see him again for at least two moons._
 
 Deep into the night, there was a sound. It wasn't the sound of a spirit at the door. It wasn't the sound of the winter roar, which had since died to a slow whistle. It was the *other* sound of winter.
 

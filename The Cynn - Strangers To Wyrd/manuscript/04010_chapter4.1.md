@@ -124,9 +124,15 @@ The family had their pagan superstitions too. When harvesting time for the coal 
 
 Elswyth cut her father off. "*...and take it as a sign of a job well done, else we might wake to a burning roof.* Yes, I remember, Father!"
 
-Despite her impatience, the wisdom seemed solid to her, and so that was the family rule. Harvest only coal from the center. Edges for the elves. And one day she would run her own charcoal pits, and teach that rule to her children.
+Despite her impatience, the wisdom seemed solid to her, and so that was the family rule. Let the elves have the best pieces, and don't complain. And one day she would run her own charcoal pits, and teach that rule to her children.
 
-But she hated the nickname. "_Meadow-bud_, I'm nothing of the sort," she thought, as she would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She was already stronger than he realized. "My father will see, I'm not merely the coal-maid. I will follow him into the forest and together we will fell the trees."
+But she hated the nickname.
+
+_Meadow-bud_, I'm nothing of the sort!_
+
+She would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She was already stronger than he realized.
+
+_My father will see, I'm not merely the coal-maid. I will follow him into the forest and together we will fell the trees._
 
 Leicester had several carters who knew the roads around the town. But none had traveled as far and wide as Long-Mile. His given name was long forgotten, even by himself, as even as a child, he roamed far from home to his mother's dismay.
 
@@ -134,13 +140,17 @@ Long-Mile was as long as his name suggested. He perched on a wagon whose driver'
 
 Long-Mile was friends with Godwine, and always seemed to know the exact moment to arrive after the last of the coal was bagged. Elswyth and Eadgyth would ride on the sacks of coal up to Under-Geat at the earliest part of the morning, ready to be the first under Morning-Eye's nose.
 
-It was there she learned the rhythm of the trade, watching her father sell their charcoal to a young, strapping deacon named Cynewulf. Like them, he was always black with soot and sweat. He wasn't a coaler like them; he worked the bell-pits, and he treated their coal with a reverence that surprised her. He was kind, but distant, and he always insisted that their charcoal was the best in the _Danelaw_. Elswyth liked him for that; he saw the craft in their soot-stained hands.
+It was there she learned the rhythm of the trade, watching her father sell their charcoal to a young, strapping deacon named Cynewulf. Like them, he was always black with soot and sweat. He wasn't a coaler like them; he worked the bell-pits, and he treated their coal with a reverence that surprised her.
+
+He was kind, but distant, and he always insisted that their charcoal was the best in the _Danelaw_. Elswyth liked him for that; he saw the craft in their soot-stained hands.
 
 If her father taught her the fire, her mother tried to teach her the earth. Eadgyth was a woman of quiet, sharp-eyed patience who moved through the forest as if she were part of the undergrowth. On coal-cooling days, she spent hours showing Elswyth how to read the forest’s pulse: which mosses signaled a hidden spring, which berries would settle a fever, and how to harvest the wild leeks and tubers without stripping the soil bare.
 
 "A coaler who only knows the pit is a coaler who starves when the wood runs thin," her mother would whisper, pressing a handful of dried herbs into Elswyth’s palm. She taught her that the forest was not just a source of timber, but a larder for those who knew how to ask. It was a different kind of strength... not the brute force of the axe, but the quiet precision of knowing exactly what the land could provide, and exactly what it would take back.
 
-Elswyth was not fond of the meadow-work. She lacked the patient eye for the forest-larder. She would trample mushrooms without a thought. She would dismiss medicinal herbs as mere weeds. Still, Eadgyth never scolded her. Times would not always be as kind as they were now. Someday the forest would be the only thing standing between her daughter and the grave across the yard.
+Elswyth was not fond of the meadow-work. She lacked the patient eye for the forest-larder. She would trample mushrooms without a thought. She would dismiss medicinal herbs as mere weeds.
+
+Still, Eadgyth never scolded her. Times would not always be as kind as they were now. Someday the forest would be the only thing standing between her daughter and the grave across the yard.
 
 On March 14th, 933, the day started like any other. Perched behind a stone edifice of the necropolis, the wolf-men peered into _Under-Geat_. With one raised fist, the slaughter began.
 
@@ -148,7 +158,11 @@ The wolf-men came as a wolfpack in full deer-chase.
 
 Elswyth had woken early, as she wanted to be the first of the children fishing by the river's edge when the sun came up. Behind her, the screams rose like a chorus of suffering.
 
-The wolves swept everything from Under-Geat to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the basket-willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist. One remained: a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. Before her father found the floor, Elswyth screamed. The Viking's wolf head snapped to her, his eyes locking on hers.
+The wolves swept everything from Under-Geat to the Church itself. There was nothing Elswyth could do. One moment she was following a slippery chub hiding in the basket-willow roots, the next moment three wolf-men were holding her parents by the coal-hut. Two of the Vikings dragged Eadgyth away, her screams cut short by a fist.
+
+One remained: a broad-shouldered Viking, young and chiseled, with Elswyth's father clutched by the shirt. Godwine begged, but the Dane pulled his killing blade, and drove it into Godwine's gut. 
+
+Before her father found the floor, Elswyth screamed. The Viking's wolf head snapped to her, his eyes locking on hers.
 
 She didn't freeze. She jumped into the ice-cold river without a thought. He gave chase instantly, jumping headlong into the Soar.
 
@@ -162,7 +176,9 @@ She was foot-sure through the undergrowth, turning the familiar wood into a maze
 
 When the chase ended, an eerie quiet settled on the _Charnwood_. Nothing dared move. The air was still, like it was afraid of being chased by wolves... or something else entirely.
 
-The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it. She tried not to think of her mother being taken. Her shiver was from fear, and she was desperately trying to beat it back. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
+The night came, and there was a full moon. She could hear the wolf-men howling in the distance, gathering their prizes and the screams of their new-found slaves piercing the silence of the wood. She sat there in the chill of the dry spring night, but she didn't feel it.
+
+She tried not to think of her mother being taken. Her shiver was from fear, and she was desperately trying to beat it back. Her courage lasted long enough to find a log-hollow, before it collapsed completely. Her only company were mice here, but at least the frame of the log was soft, if she could only sleep for a bit.
 
 In the morning, she was awakened by a soft breath, and the smell of pipe-smoke from an herb she didn't know. "Hello," a small man-voice whispered. At the mouth of the hollow there was a woodland spirit, a wood-gnome by the tell of her parents' stories.
 
@@ -200,7 +216,9 @@ He jolted back to the present. "Where are my manners? We must get you home dear.
 
 "The wolves took my home," she said. "My parents... are gone." The words fell from her lips with a whisper, delivered with an eerie stoic calm. The crying was spent in the night. There was no time for tears in the harsh light of day.
 
-"Oh... dear dear dear... murder most foul..." _Fussleton_ took off his cap to reveal his white hairy tufts and his scalp stained with the dark crimson ink from his hat. His hands trembled as he held it to his heart. "We mustn't dwell on the matter. The wolves will be back, and they'll be hungry for you, dear. Best you come deeper into the _Charnwood_... under my protection of course." _Elswyth_ didn't have much choice, and she knew the truth of the words. The broad-shouldered Viking had pursued, that is true, but surely he would return. Once his hoard was measured and his belly was full, he would most certainly come back to the table for seconds.
+"Oh... dear dear dear... murder most foul..." _Fussleton_ took off his cap to reveal his white hairy tufts and his scalp stained with the dark crimson ink from his hat. His hands trembled as he held it to his heart. "We mustn't dwell on the matter. The wolves will be back, and they'll be hungry for you, dear. Best you come deeper into the _Charnwood_... under my protection of course." 
+
+Elswyth didn't have much choice, and she knew the truth of the words. The broad-shouldered Viking had pursued, that is true, but surely he would return. Once his hoard was measured and his belly was full, he would most certainly come back to the table for seconds.
 
 Fussleton took her deeper into the wood, and set about training her how to live there. Elswyth listened this time. Her mother was right; a night spent without a meal is a lesson best not repeated.
 

@@ -190,7 +190,11 @@ Cynewulf thought hard. What could he possibly do for this man? In the moment of 
 
 Cynewulf was still fumbling for his penitential, trying to look up something... anything... that could give him guidance when the phrase hit like a fresh-struck bell. _Remember me well?_ Cynewulf thought. He snapped his eyes back up, but the grey shepherd had not only gotten up; he was halfway out the door already with his staff. Cynewulf couldn't remember hearing the wood-clack or the shuffle of the shepherd's retreat.
 
-That last confession struck him as odd. Trained dogs? Who was this shepherd? How is it he came to know Latin, when he could barely speak English? "He probably overheard one of the priests speaking in Latin," he thought, easing his mind. "The old man was probably obsessing over this bit of Latin as he tended his flock. That's how he perfected the pronunciation. It's nothing." Cynewulf had tried to put the confession out of mind, but it stayed with him the rest of his days.
+That last confession struck him as odd.
+
+_Trained dogs? Who was this shepherd? How is it he came to know Latin, when he could barely speak English? He probably overheard one of the priests speaking in Latin. The old man was probably obsessing over this bit of Latin as he tended his flock. That's how he perfected the pronunciation. It's nothing._
+
+Cynewulf had tried to put the confession out of mind, but it stayed with him the rest of his days.
 
 _Bells may ring. Whether you hear them depends on where you stand, and whether you choose to listen. A bell may toll directly before you, loud enough to shatter the air, but if you decide not to hear? You might as well be deaf._
 

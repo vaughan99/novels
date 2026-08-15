@@ -102,7 +102,7 @@ He finally looked up. His eyes were like flint, devoid of pity. "Where is the ba
 
 "Except... save your skin."
 
-"'Twas necessary, your grace," Cynewulf said, his voice trembling with the weight of the warning. "You must know what waits for you at the gate. The ten are a ruse, sire. One hundred Alt Clut barbarians and archers will man those walls. Who knows how many more beyond that. Constantine's allies are prepared. They are not waiting for a skirmish; they are waiting for a stand."
+"'Twas necessary, your grace," Cynewulf said, his voice trembling with the weight of the warning. "You must know what waits for you at the gate. The ten are a ruse, sire. One hundred Cumbrians and archers will man those walls. Who knows how many more beyond that. Constantine's allies are prepared. They are not waiting for a skirmish; they are waiting for a stand."
 
 Æthelstan went still. The rhythmic hands of the squires went still as well. He looked at Cynewulf. He was searching for the lie. He knew the _Griffons_. He had paid for their crossing from Frankia and their reputation. He knew that if they were gone, the cost was not just gold, but the entire momentum of his campaign.
 
@@ -112,15 +112,15 @@ He turned, his movements fluid and predatory. "If you are lying, rider, I will h
 
 The Bishop stepped forward, his face tight. "My liege, we cannot base our movements on the word of a man who has clearly been broken by the retreat. The scouts..."
 
-"The scouts' tales are a month old, Bishop!" Æthelstan snapped, his eyes never leaving Cynewulf. "The North is a shifting tide. If the Alt Clut have moved, if they have fortified the ruins..."
+"The scouts' tales are a month old, Bishop!" Æthelstan snapped, his eyes never leaving Cynewulf. "The North is a shifting tide. If the Cumbrians have moved, if they have fortified the ruins..."
 
 He turned back to Cynewulf, his expression unreadable. "You say you were the diversion. You say you saw the horde. Tell me, did you see their commander? Did you see the banner they flew?"
 
 Cynewulf shook his head. "No sire. My mind was on my orders, to stall the gate, attack if necessary. I caught a brief glimpse of the yard."
 
-He turned sharply, his eyes narrowing. "If you saw nothing of their commander, how do you know it was the Alt Clut? How do you know it was not a local militia, or a band of brigands playing at war?"
+He turned sharply, his eyes narrowing. "If you saw nothing of their commander, how do you know it was Cumbraland that sent them? Perhaps a band of brigands playing at war?"
 
-"Shield walls. Discipline. They held a line around the horses, which slowed breakouts. Archers on the walls were positioned to fire at the rear and sword-flank. Shields were useless. Horses were easy prey."
+"Accents that leaned Welsh, Cumbric. Shield walls. Discipline. They held a line around the horses, which slowed breakouts. Archers on the walls were positioned to fire at the rear and sword-flank. Shields were useless. Horses were easy prey."
 
 "You saw all this in one moment in the yard?"
 

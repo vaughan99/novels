@@ -186,9 +186,9 @@ As they approached, the ten guards behind the barricade stood up. They didn't lo
 
 "Hail!" Cynewulf started, holding up his hand while looking square into the eyes of the guard in charge. "What's the meaning of this? Dere Street is open to travelers, is it not?"
 
-The guard was a man of the Alt Clut, his face painted with woad-streaks that made his eyes look like burning coals. He didn't look like a bandit; he looked like a barbarian of a kingdom that had been pushed to the edge of the world. He leaned against the timber barricade, his hand resting on the hilt of a long, leaf-shaped sword. It was a weapon of the old world.
+The guard was a man of Cumbraland. Kinsmen to the Welsh, they were allies to the Alban Scots. While they at one time may have looked and fought like woad-streaked barbarians, their gear looked as though it might have had a home in Anglo-Saxon armories.
 
-"Dere Street is open to those who pay the price of the road," the Gael replied, his accent thick and guttural. "And it is closed to the King’s dogs. We know who you are, _Griffon_. We know the smell of your silver."
+"Dere Street is open to those who pay the price of the road," the Cumbrian replied, his accent thick and guttural. It was clear that Cumbric was his main language. "And it is closed to the King’s dogs. We know who you are, _marchauc_. We know the smell of Edmund's silver."
 
 Cynewulf’s pulse quickened. _They know us. Should I raise the alarm? My orders were to stall._... _Trust Fer-Main. If it's a trap, he'll smell it._
 
@@ -196,7 +196,7 @@ Cynewulf’s pulse quickened. _They know us. Should I raise the alarm? My order
 
 Cynewulf caught a sound from behind the gate. It was a call from a foreign tongue, from the far distance. He could also hear the sound of hoof beats, too distant to be _the sign_... not yet.
 
-"Friendship? Now who would want to be your friend, Griffon?" The guard smiled, and it was obvious that he heard the sound of hoof-beats too. But, oddly, he didn't seem concerned. At all.
+"Friendship? Now who would want to be your friend, _marchauc_?" The guard smiled, and it was obvious that he heard the sound of hoof-beats too. But, oddly, he didn't seem concerned. At all.
 
 Cynewulf’s ember-hate consumed him. The cold, calculated logic of the _Griffons_ trap evaporated in a flash of white-hot clarity.
 
@@ -204,13 +204,13 @@ _The gate was a lure. Behind the gate is the trap._
 
 He didn't wait for a signal. He didn't wait for _Fer-Main_. His final command loomed in his head, and accounted for this. _Be violent if you have to, just keep them occupied._ He didn't even think about the consequences.
 
-He turned his spear on end and threw it with every ounce of his strength. The iron tip caught the Gael in the thigh, pinning him to the timber barricade with a sickening crunch of wood and bone.
+He turned his spear on end and threw it with every ounce of his strength. The iron tip caught the Cumbrian sargeant in the thigh, pinning him to the timber barricade with a sickening crunch of wood and bone.
 
 The guard’s smile vanished, replaced by a shriek of agony that tore through the silence of the Wall.
 
-"Kill them!" the Gael screamed, clutching at the spear shaft.
+"Kill them!" He screamed, clutching at the spear shaft.
 
-From behind the gate, Cynewulf heard them. A hundred souls of screaming Alt Clut hate rushed forth from the ruins to meet the hoofbeats. _Fer-Main_'s gambit had pinned his cavalry against the wall. It was every cavalryman's nightmare.
+From behind the gate, Cynewulf heard them. A hundred souls of screaming Cumbrian hate rushed forth from the ruins to meet the hoofbeats. _Fer-Main_'s gambit had pinned his cavalry against the wall. It was every cavalryman's nightmare.
 
 The nine other guards at the gate formed a rank of shields, and advanced on Cynewulf and his three riders. A line of guards, five in total, formed on the wall with bows. Cynewulf raised his shield just as two arrows poked through where his face would've been. Cynewulf turned his horse on heel, and attempted to ride beyond a bow's reach.
 
@@ -238,17 +238,17 @@ He swung his axe, clearing a path through the dazed guards in the yard, his hors
 
 "Don't look!" Cynewulf roared over the din of the slaughter. "Ride! If you look, you die!"
 
-He didn't know if they were escaping or just running toward a different kind of grave. The archers above were shifting their aim, the wood of their bows creaking as they drew for the next volley. The yard was a funnel, and the Alt Clut were closing the mouth of it.
+He didn't know if they were escaping or just running toward a different kind of grave. The archers above were shifting their aim, the wood of their bows creaking as they drew for the next volley. The yard was a funnel, and the Cumbrians were closing the mouth of it.
 
 Cynewulf kicked his horse into a gallop once more, his shield pressed tight against his side to protect the jagged, screaming pain of his broken rib. He was no longer a way-finder. He was no longer a deacon. He was just a man fleeing the wreckage of the best company he would ever know, leaving the _Griffons Noirs_ to be buried in the shadow of the Wall.
 
 The five riders who were left slammed into the gate-line again, head-on against their spears. They carried their momentum, but two riders took spear wounds, and one horse died with a spear to the throat. Four men and their horses survived the charge, including Cynewulf.
 
-He thundered toward the sergeant. Cynewulf saw him still pinned to the timber barrier by the spear he had thrown earlier. The Gael’s eyes widened as he saw the _Griffon_ bearing down on him.
+He thundered toward the sergeant. Cynewulf saw him still pinned to the timber barrier by the spear he had thrown earlier. The Cumbrian’s eyes widened as he saw the _Griffon_ bearing down on him.
 
 Cynewulf summoned every ounce of his ember-hate, every drop of the rage he had carried since the church-home. He didn't swing his axe; he threw it. The iron head caught the sergeant full force in the chest, the impact silencing the man’s taunts forever.
 
-Cynewulf didn't look back. He spurred his mount into a frantic, uneven gallop, fleeing back up the paved stones of Dere Street. That was the last he saw of the Alt Clut.
+Cynewulf didn't look back. He spurred his mount into a frantic, uneven gallop, fleeing back up the paved stones of Dere Street. That was the last he saw of the Cumbrians.
 
 The pave-way, once a symbol of the King’s ambition, now felt like a long, grey finger pointing toward their failure. They rode until the screams of the Wall faded into the wind, until the only sound was the ragged breathing of their horses and the wet, rhythmic thud of hooves on stone.
 
