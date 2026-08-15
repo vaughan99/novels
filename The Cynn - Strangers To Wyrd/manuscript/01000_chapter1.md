@@ -150,11 +150,29 @@ The spear moved from one mark to the next.
 
 He looked up.
 
-"Each time we answered with steel."
+“Each time we answered with steel. Reinforcements continue to arrive by the North Gate road, which we still hold. But there is a problem.”
 
-A wolf-man of the Danes stepped forward, a burly captain named Wulfhere the Broad. He was a member of the _Ulfhednar_. Their reputation for wild savagery needed no introduction.
+He planted his spear just north of where the Charnwood met the North Gate road.
 
-"The Shadow Gate remains lightly protected. That will be his next objective. Assign more men there."
+“Men are taking ale and grain from our reinforcements out of York. Wagons have been stripped. Escorts have vanished. And the survivors tell stories...”
+
+Olaf paused.
+
+“Tales that do not belong in the world of men.”
+
+A wolf-man of the Danes stepped forward, a burly captain named Wulfhere the Broad. He was a member of the Ulfhednar. Their reputation for wild savagery needed no introduction.
+
+“These stories are spun by milk-drinking cowards who invented stories to explain the missing barrels of ale.”
+
+The group laughed.
+
+“Perhaps they were ale-drinking cowards!” one of the other captains offered.
+
+Even Olaf allowed himself a smile.
+
+Wulfhere became serious once more.
+
+“The Shadow Gate remains lightly protected. That will be his next objective. Assign more men there.”
 
 Wulfstan, the Archbishop of York and close ally of Olaf, stepped forward in his soft furs and gold-encrusted cross. 
 
@@ -162,7 +180,7 @@ Wulfstan, the Archbishop of York and close ally of Olaf, stepped forward in his 
 
 Wulfhere spat towards the bishop's fur-lined boots.
 
-"You think like a wolf cub who thinks his mother will protect him from the bear."
+“You’re a cub who thinks his mother will face the bear.”
 
 Wulfstan ignored the challenge. He turned to Olaf.
 
@@ -180,13 +198,15 @@ A smile crept over Wulfhere's face.
 
 Some of the captains laughed, others were deadly serious.
 
-"You don't know these men," Wulfstan objected.
+"You don't know these men. Oda and Edmund will..."
+
+Wulfhere interrupted with a snarl.
 
 "But I know the ground, Bishop. I've been through that wall. Have you?"
 
-"Enough, Wulfhere." Olaf's voice was steady and commanding.
+Olaf raised a hand. His voice was low and commanding.
 
-"You've made your objection known. See to your wolves."
+"Enough, Wulfhere. You've made your objection known. See to your wolves."
 
 Wulfhere scowled at Wulfstan as he turned quickly to leave. He left his bootprint on the Shadow Gate.
 
