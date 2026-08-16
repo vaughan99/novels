@@ -160,9 +160,9 @@ Olaf paused.
 
 “Tales that do not belong in the world of men.”
 
-A wolf-man of the Danes stepped forward, a burly captain named Wulfhere the Broad. He was a member of the Ulfhednar. Their reputation for wild savagery needed no introduction.
+A wolf-man of the Danes stepped forward, a burly captain named Wulfhere the Broad. He was a member of the Ulfhednar, men whose wolf headdresses told those around them that they were a pack of wild animals. Their reputation for savagery needed no introduction.
 
-“These stories are spun by milk-drinking cowards who invented stories to explain the missing barrels of ale.”
+“These stories are spun by milk-drinking cowards who are trying to explain missing barrels of ale.”
 
 The group laughed.
 
@@ -170,9 +170,17 @@ The group laughed.
 
 Even Olaf allowed himself a smile.
 
-Wulfhere became serious once more.
+Wulfhere let the laughter die. "My wolves could dispatch these thieves. Say the word."
 
-“The Shadow Gate remains lightly protected. That will be his next objective. Assign more men there.”
+Olaf thought for a moment.
+
+"No. A rider was sent to York to warn them. I need your wolves here in the Forum with me."
+
+Wulfhere narrowed his eyes but said nothing. This was not the first time Olaf had denied him glory and plunder.
+
+Wulfhere turned to the map.
+
+“The Shadow Gate remains lightly protected. That will be Edmund's next objective. Assign more men there.”
 
 Wulfstan, the Archbishop of York and close ally of Olaf, stepped forward in his soft furs and gold-encrusted cross. 
 
@@ -222,31 +230,51 @@ Olaf put his hand on Wulfstan's shoulder and smiled.
 
 "No. I want him to count spears. Let him be the first to choose steel over peace."
 
-The battle went as well as Edmund had dared to hope. Upon the rush to the East Gate, Olaf's men over-committed. The riders to the East Gate set their ladders to the wall. Several were lost, but the East Gate was won and held open. The two armies collided at the opened East Gate at terrible cost.
+The battle went as well as Edmund had dared to hope. The riders to the East Gate set their ladders to the wall moments after Edmund ordered his men to charge the East Gate from Under-Geat. Several riders were lost, but the East Gate was won and held open.
 
-What was left at the Shadow Gate was a mere thirty souls. Galindo gave a prayer in Spanish, turned his horse toward the East Gate, and dropped his hand. The fyrd rushed forth. They pounded the gate, they climbed the ramshackle wall, and while some died, the resulting battle was short.
+Olaf's men saw army run, and cheered.
+
+They heard the drums from the East Gate. And they knew the Shadow Gate was a ruse. All available Danes rushed to the East Gate.
+
+The two armies collided at the opened East Gate at terrible cost.
+
+What was left at the Shadow Gate was a mere thirty souls that looked pagan to a Spaniard.
+
+Upon the rush to the East Gate, it was clear: Olaf's men over-committed.
+
+Galindo gave a prayer in Spanish, turned his horse toward the East Gate, and dropped his hand.
+
+The fyrd rushed forth. They pounded the gate, they climbed the ramshackle wall, and while some died, the resulting battle was short.
 
 Galindo looked over his shoulder at his best men of the fyrd, looking for a sign. Once given, he drove his spurs and the horse leapt into action.
 
 King Edmund didn't even have to hear a word. He saw Galindo round the southeast corner, and he knew. He split his forces, sending his reserves rushing back to the Shadow Gate under Galindo's command. The Shadow Gate lay open, awaiting them.
 
-Night fell that day on the Saxons inside Leicester. Many men were lost on both sides. And many more would surely die if a peace could not be had. For the Saxons, the action had been a day of great success, but a night of utter frustration.
+Night fell that day on the Saxons _inside_ Leicester. Many men were lost on both sides. And many more would surely die if a peace could not be had. For the Saxons, the action had been a day of great success, but a night of utter frustration.
 
-The Danes lost both the East Gate and the Shadow Gate. Soon after the South and West gates fell as well. But Olaf had prepared a contingency. All roads to the North Gate were barred. The Forum stood like a castle before the Saxons. And each crossroad and home stood like a shield-wall. Each step would be paid for in blood.
+The Danes lost both the Shadow Gate and the East Gate. Soon after the South and West gates fell as well.
 
-That night, however, Olaf and Wulfstan were not among them.
+But Olaf had prepared a contingency. All roads to the North Gate were barred. The Forum stood like a castle before the Saxons. And each crossroad and home stood like a shield-wall. Each step would be paid for in blood.
 
-Olaf fled with Wulfstan through the North Gate. His hearthguard stole boats from the Willow Reach fishermen, and at the water's edge Olaf sent Wulfstan back with one command... sue for peace.
+That night, however, Olaf and Wulfstan were not in the Forum at all.
 
-Wulfstan rode his horse back through the North Gate just as Saxon sentries spotted him. He rode to the Forum, a mere eighty paces from Oda, and dismounted. He turned toward the Church and held his breath.
+Olaf fled with Wulfstan through the North Gate. His hearthguard stole boats from the Willow Reach fishermen, and at the water's edge Olaf sent Wulfstan back with one command... to sue for peace.
+
+Wulfstan rode his horse back through the North Gate just as Saxon sentries spotted him. He rode to the Forum entrance, a mere eighty paces from the Church of St. Augustine and St. Columba. He dismounted his horse and turned toward the Church.
+
+He held his breath.
 
 Then he stepped into the street and into the Saxons' hands.
 
 Wulfstan walked alone toward the Church. The Saxons eyed him cautiously, but still revered his cross as he held it plainly as his shield. Many crossed themselves as he passed.
 
-Oda waited that night in the nave of the Church of Augustine and Columba. A Saxon guard pounded on the door of the Church, announcing the arrival of Wulfstan and a desire for peace. A scribe answered. A table and three chairs were brought forth. On the table lay lit candles and the implements of statecraft.
+Oda waited that night in the nave of the Church.
 
-Wulfstan was allowed to enter. Oda motioned his hand to the chair.
+A Saxon guard pounded on the door of the Church, announcing the arrival of Wulfstan and a desire for peace.
+
+A scribe answered and Wulfstan was allowed to enter. A table and three chairs were brought forth. On the table lay lit candles and the implements of statecraft.
+
+Oda motioned his hand to the chair.
 
 "Peace of the Resurrection be with you."
 
@@ -324,7 +352,7 @@ The smile vanished.
 
 The candles hissed softly.
 
-Wulfstan finally spoke.
+Wulfstan rubbed his ring.
 
 "You think the fighting will last longer."
 
