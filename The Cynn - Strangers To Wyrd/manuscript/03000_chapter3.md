@@ -44,7 +44,9 @@ Elswyth made her way to the edge of the South Pastures for a better view. From t
 
 Then she noticed a broad-shouldered wolf-man approaching the gathering with a larger man by his side, dressed in the same manner. Other members of their company collected along the fringes, watching the spectacle. One of the wolf-men gave a long howl. Several laughed, and others spat upon the ground. But someone had plainly ordered them not to interfere, and the peace held.
 
-She thought she might recognize this broad-shouldered wolf. Carefully, she crept around the edge of the crowd closer.
+She thought she recognized Wulfhere among them, the broad-shouldered wolf she had seen before. She knew his shape, but not his name. Carefully, she crept closer around the edge of the crowd.
+
+Next to Wulfhere stood Rognvaldr Kill-Woven, a giant of a wolf who stood two full heads over Wulfhere. No single mail coat could cover his frame. His armor was a mosaic assembled from the fallen, every mismatched patch another entry in the warband’s tally of death.
 
 Wulfhere and Rognvaldr watched the procession in confusion.
 

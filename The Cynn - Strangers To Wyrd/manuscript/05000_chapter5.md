@@ -310,7 +310,7 @@ That got a laugh from everyone except Cynewulf.
 
 After traveling a distance, the _Ulfhednar_ stopped to rest in a clearing. Wulfhere was there, urging his men to gather around. His eyes seemed fixed to Leicester, wide and full of intent.
 
-Among them stood Rognvaldr Kill-Woven, a head or two taller than the others. No single mail coat could cover his frame. His armor was a mosaic assembled from the fallen, every mismatched patch another entry in the warband’s tally of death.
+Rognvaldr was there as well. He studied the faces of the other wolves with a knowing smile. He cracked his knuckles and neck as he waited for Wulfhere to begin.
 
 The others were lean and hungry, mostly young but scarred by the unending training of the wolf cult. Their eyes burned for the treasure-pile that had once been promised or the final embrace of valkyries. Both would have to wait as long as peace reigned. 
 
