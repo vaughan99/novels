@@ -63,3 +63,29 @@ export function renderEpub(buildDir, mdFile) {
         process.exit(result.status ?? 1);
     }
 }
+
+export function renderDocX(buildDir, mdFile) {
+    console.log('Rendering DocX');
+
+     const result = spawnSync(
+        "pandoc",
+        [
+            "novel.md",
+            "-o",
+            "novel.docx"
+        ],
+        {
+            stdio: "inherit",
+            shell: false,
+            cwd: buildDir
+        },
+    );
+
+    if (result.error) {
+        throw result.error;
+    }
+
+    if (result.status !== 0) {
+        process.exit(result.status ?? 1);
+    }
+}

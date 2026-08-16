@@ -47,8 +47,8 @@ async function generateNovelIndex() {
           const label = escapeHtml(directory);
           const htmlHref = `./${encodeURIComponent(directory)}/novel.html`;
           const epubHref = `./${encodeURIComponent(directory)}/novel.epub`;
-
-          return `<li><a href="${htmlHref}">${label} (Web page)</a></li>\n<li><a href="${epubHref}">${label} (EPUB)</a></li>`;
+          const docxHref = `./${encodeURIComponent(directory)}/novel.docx`;
+          return `<li><a href="${htmlHref}">${label} (Web page)</a></li>\n<li><a href="${epubHref}">${label} (EPUB)</a></li>\n<li><a href="${docxHref}">${label} (DOCX)</a></li>`;
         })
         .join('\n')
     : '      <li>No directories found.</li>';

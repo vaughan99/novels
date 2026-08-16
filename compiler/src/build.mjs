@@ -4,7 +4,7 @@ import path from "node:path";
 import { copyAssets, copyPandocConfig } from "./copy.mjs";
 import { readManuscript } from "./read-manuscript.mjs";
 import { renderMarkdown } from "./render-markdown.mjs";
-import { renderHtml, renderEpub } from "./render-pandoc.mjs";
+import { renderHtml, renderEpub, renderDocX } from "./render-pandoc.mjs";
 
 async function build() {
 
@@ -28,6 +28,7 @@ async function build() {
 
     renderHtml(buildDir, mdFile);
     renderEpub(buildDir, mdFile);
+    renderDocX(buildDir, mdFile);
 
     console.log("Done.");
 }
