@@ -336,9 +336,9 @@ Blood to tile, and none for thee!
 Oh Meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast!
 "
 
-Wulfhere, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
+Grinjaw, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
 
-"You... girl from darkwood... I know you. The wolf has caught your scent again," Wulfhere taunted. He smiled confidently. Nobody had bested him in a tactical fight, not even Rognvaldr.
+"You... girl from darkwood... I know you. The wolf has caught your scent again," Grinjaw taunted. He smiled confidently. Nobody had bested him in a tactical fight, not even Killwoven.
 
 "I'm... not afraid... of you," Elswyth stammered.
 
@@ -366,7 +366,7 @@ Draw the hog onto the break,
 Broken tile his gait forsake,
 ```
 
-Elswyth was shaking, and Wulfhere grew ever more confident. She retreated slowly murmuring the words, and Wulfhere followed, never taking his eyes off hers. "Where are you going? There's nowhere to run," he mocked.
+Elswyth was shaking, and Grinjaw grew ever more confident. She retreated slowly murmuring the words, and Grinjaw followed, never taking his eyes off hers. "Where are you going? There's nowhere to run," he mocked.
 
 ```
 Great Dane axe of mountain oak,
@@ -383,7 +383,7 @@ The dane axe crashed from a strong overhead chop. It was meant for her head, of 
 
 Without waiting for more rhyme, Elswyth's vision moved to the giant chest. She heard the beating of his heart and could even see it, pushing and pulling on his chest. It sounded like the footfalls of an army in motion.
 
-Elswyth drove full into the thrust with both hands, and Monanleoht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elswyth, in a breath of heated rage, whispered in Wulfhere's ear:
+Elswyth drove full into the thrust with both hands, and Monanleoht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elswyth, in a breath of heated rage, whispered in Grinjaw's ear:
 
 ```
 Took me once for easy prey,
@@ -392,7 +392,7 @@ Take the coalgirl's blade and see,
 Blood to earth, and none for thee.
 ```
 
-Wulfhere dropped his axe and gripped Elswyth's apron with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her apron as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
+Grinjaw dropped his axe and gripped Elswyth's apron with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her apron as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
 
 "Well, Meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
 

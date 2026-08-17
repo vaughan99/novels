@@ -56,9 +56,9 @@ Elswyth slipped over the tailgate of one of the carts and huddled beneath a heav
 
 Night descended like a heavy iron lid. Murdock set the watches, three at a time. There was no dry wood for a fire. They ate their rations wet and cold beneath the pale glow of a single lantern hanging from the roadward wagon. The world went dead, horribly quiet. A thick fog settled in.
 
-Out in the dark, fifteen pairs of copper-bright eyes quietly approached the train from further down the road. Wulfhere the Broad raised his hand. Beside him, the seven-foot giant, Rognvaldr, grinned, his armor of stolen mail-scraps clinking softly like a heavy shroud.
+Out in the dark, fifteen pairs of copper-bright eyes quietly approached the train from further down the road. Grinjaw the Broad raised his hand. Beside him, the seven-foot giant, Killwoven, grinned, his armor of stolen mail-scraps clinking softly like a heavy shroud.
 
-"The Spaniard has left the bones for us," Rognvaldr whispered. His eyes were wilding, as if the frenzy of Odin was his alone. He threatened to rush in, but Wulfhere raised his hand in a fist, then slowly opened his palm flat down. "The bones have meat on them," Wulfhere countered softly. "But the wolf does not leap the fence while the sheep are watching. Break the beasts first. Gather stones."
+"The Spaniard has left the bones for us," Killwoven whispered. His eyes were wilding, as if the frenzy of Odin was his alone. He threatened to rush in, but Grinjaw raised his hand in a fist, then slowly opened his palm flat down. "The bones have meat on them," Grinjaw countered softly. "But the wolf does not leap the fence while the sheep are watching. Break the beasts first. Gather stones."
 
 The _Ulfhednar_ did not charge with steel. Instead, half their number foraged in the dark, looking for the soft white of stone peering up from their muddy beds. They returned and distributed the stones, held by folding their cloak as a makeshift bag. With precise, rhythmic cruelty, they began pelting the tethered oxen inside the cart-fort. The heavy stones rained down out of the fog, striking the beasts on their flanks and horns. The oxen, already maddened by hunger and the smell of wolf-grease on the wind, began to panic. They thrashed against their leather yokes, bellowing their angst.
 
@@ -72,13 +72,13 @@ The wolf-men crashed into the forming shieldwall. Two fyrdmen flew backwards, th
 
 Cynewulf stood at the rear, having no shield, his rusty langseax gripped tight in his hand. He braced his other hand against the fyrdman in front of him. "Hold, men!" he screamed. He knew the next moments were crucial.
 
-The one-eyed archer scrambled to the top of one of the carts near the corner. He loosed an arrow that pierced Wulfhere's shield. Murdock arose from another wagon flanking the charge, the _thwack_ of his crossbow echoing off the carts and walls. A bolt found a wolf-man in the ribs, and he fell.
+The one-eyed archer scrambled to the top of one of the carts near the corner. He loosed an arrow that pierced Grinjaw's shield. Murdock arose from another wagon flanking the charge, the _thwack_ of his crossbow echoing off the carts and walls. A bolt found a wolf-man in the ribs, and he fell.
 
 Osric stood in the wall, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole spear, but it didn't last long. A broad-axe bit into the pole. The ash shaft sheared in two with a single, mocking crack. Osric dropped the useless shaft and leaned his full weight into his shield, bracing its back with his free hand.
 
-For a few heartbeats neither side gave ground. Another arrow flew by Wulfhere's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Rognvaldr, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
+For a few heartbeats neither side gave ground. Another arrow flew by Grinjaw's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Killwoven, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
 
-Wulfhere seized his moment. A smile crept across his face. "Pull!"
+Grinjaw seized his moment. A smile crept across his face. "Pull!"
 
 The _Ulfhednar_ gave two quick steps backward. As they withdrew, the hooked beards of their axes caught shield-rims, wrenching them down. The Saxons, leaning with all their weight into the pressure, stumbled after them.
 
@@ -144,11 +144,11 @@ Elswyth jumped off the wagon and ran.
 
 Osric, heeding Tor's words, dropped the wreck of his training shield to fit through the corner gap. Ahead of him, the wet slap of fleeing feet told him the fyrd-thralls had already reached Murdock's gap.
 
-Elswyth caught Wulfhere's eye, as her shadowed profile jumped into the dark.
+Elswyth caught Grinjaw's eye, as her shadowed profile jumped into the dark.
 
 "That girl is worth more silver than the others. You two, with me!" He and two wolf-men broke from the pack and gave chase.
 
-Rognvaldr saw Cynewulf roll under the wagon. A predatory smile grew over his face as he stepped back through the breach. He followed.
+Killwoven saw Cynewulf roll under the wagon. A predatory smile grew over his face as he stepped back through the breach. He followed.
 
 Three more Vikings noticed Osric fleeing through the gap at the rear. They squeezed through after him.
 
@@ -215,7 +215,7 @@ The ceiling was collapsed in parts, and the night sky was visible. The floor of 
 
 She waited to run. But she kept looking at the blade in her hand.
 
-Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Rognvaldr caught Cynewulf's silhouette crossing the Middleflat. His grin widened. He quickened his pace.
+Cynewulf's feet remembered the path to the Church. It rose before him, beckoning as a sanctuary from the blood-soaked chaos behind him. His eyes narrowed on the bell tower, a beacon in the moonlight. Behind him, Killwoven caught Cynewulf's silhouette crossing the Middleflat. His grin widened. He quickened his pace.
 
 Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast. The church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
 
@@ -225,4 +225,4 @@ Leaning on the chest was a compact round shield, perhaps a hand's-width wider th
 
 Across the top rested a black leather scabbard embossed with two ragged ravens, ancient runes, and the endless knot of two wolves forever chasing one another. The blade's handle was long, easily enough for two hands, but still practical for one. Its handle was wound in darkened steel wire, the coils sealed beneath a charcoal-black resin until metal and ash had become one. At either end, stout Turk's head knots gripped the wrap like the bindings of an old mariner's rope. Within slept _Wodbora, the Madness-Bringer, the Prophet of the Wodhere_.
 
-The giant Rognvaldr slowly emerged from Middleflat. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.
+The giant Killwoven slowly emerged from Middleflat. His massive head rose, his eyes following the church steps up to Cynewulf. Then his face came into the moonlight, revealing the broad grin of a predator who had cornered its prey.

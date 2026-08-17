@@ -52,8 +52,7 @@ DIOGENES' BARREL RACES
 - Just barrels*.
 
 * At the insistence of Diogenes: barrels optional.
-* At the insistence of a certain Italian priest from the 10th century,
-please do NOT ask about lorica against naked evil.
+* At the insistence of a certain Italian priest from the 10th century, please do NOT ask about lorica against naked evil.
 
 
 ON THE MAIN STAGE (All times Standard Heaven Time):
@@ -149,8 +148,7 @@ Now Serving:
   
 Please take a queue number before seeking existential fulfillment.
 
-If you wish to exchange components for one-dollar bills to participate
-in the Elenchus Game, please see the Change Attendant.
+If you wish to exchange components for one-dollar bills to participate in the Elenchus Game, please see the Change Attendant.
 
 ```
 ---
@@ -525,7 +523,7 @@ Odin jabbed a finger toward the notice board, lingering especially on the sectio
 
 Odin's voice boomed, amplified by the power of ancient awesomeness.
 
-**"PROPHECIES ARE CURRENTLY UNAVAILABLE! AND I WILL NOT SIGN ANYTHING. I AM RETIRED.  GO BACK TO FEASTING FOR ETERNITY. I HAVE NOTHING MORE TO SAY."**
+**"PROPHECIES ARE CURRENTLY UNAVAILABLE! AND I WILL NOT SIGN ANYTHING. I AM RETIRED. GO BACK TO FEASTING FOR ETERNITY. I HAVE NOTHING MORE TO SAY."**
 
 One of the Vikings raised a hand. "...But won't you at least sign the sign?"
 
@@ -573,7 +571,7 @@ Huginn thought for a moment.
 
 "And can you at least tell Plan B to keep up?"
 
-Huginn smiled.
+Huginn turned his head slightly.
 
 "It'll arrive when it's needed."
 
@@ -643,11 +641,11 @@ The crowd screamed: "YEAH!"
 
 Lughh and the design team exited Wheel 2.0 and lined up on stage.
 
-Lughh: "Idea: Me. Pretty: DaVinci. Numbers: Einstein. Big Fire: Oppenheimer. Spirit: Nugh."
+Lughh: "Idea: Me. Design: DaVinci. Numbers: Einstein. Big Fire: Oppenheimer. Spirit: Nugh."
 
 The barker brought the microphone to Leonardo da Vinci. "So, what's it like to work with the original designer of the wheel?"
 
-Leonardo leaned into the microphone. "It was an honor to work with this genius. Truly ahead of his time. It's a shame that technology held him back for so long. I must say, his cave drawings were the stuff of legend. Drive schematics. Containment fields. Spear-sharpening accessories. Cup holders. All rendered in perfectly measured charcoal and ochre. He really brought this project together. We could all tell he had been thinking about this for a long, long time."
+Leonardo leaned into the microphone. "It was an honor to work with this genius. Truly ahead of his time. It's a shame that technology held him back for so long. I must say, his cave drawings were the stuff of legend. Drive schematics. Containment fields. Spear-sharpening accessories. Cup holders. All rendered in perfectly measured charcoal and fifty-three shades of ochre. He really brought this project together. We could all tell he had been thinking about this for a long, long time."
 
 The barker went back to Lughh. "Drive schematics? Let's talk about this. So is it an EV, or does it run on gas?"
 
@@ -663,9 +661,11 @@ Barker: "Do you mean to tell me this vehicle is nuclear? As in antimatter annhil
 
 Lughh: "Big Fire! Go fast!"
 
-Lughh pointed to Oppenheimer, and the barker carried the microphone to him.
+Lughh gave a double thumbs-up, and the audience laughed. The gesture shifted into a double index-finger point toward Oppenheimer as the barker carried the microphone to him.
 
 Oppenheimer: "When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... _rather unique_... propulsion system. We decided that a small antimatter reactor provided the energy necessary to make the spirit drive work. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever to be engaged during navigation. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. Our contribution was largely one of implementation. Lughh had already settled the theoretical questions."
+
+Lughh held out both hands and brought them together to make his meaning clear.
 
 Lughh: "Dirt. Anti-dirt. Together. Boom. Big Fire."
 
@@ -673,7 +673,7 @@ Barker: "So we've kind of danced around the topic here. This propulsion system. 
 
 Lughh: "No. It not roll. Wheel 1.0 _roll_."
 
-Lughh pointed to Nugh.
+Lughh spun three times, then pointed to Nugh with a huge smile.
 
 Nugh: "Me shaman. Animal Spirit Drive." He waved his hand around the wheel.
 
@@ -911,7 +911,7 @@ Muninn thrust both wings into the air, having an epiphany. "Less susceptible to 
 
 Odin had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
 
-He slipped off his jacket and rolled his sleeves above his elbows. His skin was not nearly as wrinkled as his face. Every rippling inch of muscle was covered in runic tattoos, as sharp and precise as the day they were inked.
+He slipped off his jacket and rolled his sleeves above his elbows. His skin was not nearly as wrinkled as his face. Every rippling inch of muscle was covered in runic tattoos, as sharp and precise as the day they were etched with lightning and awesomeness.
 
 He fished a guitar pick from his pocket, carved from the thumb-bone of a nameless king who had been sent to Helheim.
 

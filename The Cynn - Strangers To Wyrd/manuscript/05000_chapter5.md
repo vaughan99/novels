@@ -1,12 +1,12 @@
 # Chapter Five: Let Us Prey
 
-By the time Elswyth returned from spying on Wulfhere, the train’s oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat disappeared behind her.
+By the time Elswyth returned from spying on Grinjaw, the train’s oxen were growing impatient. Rather than wave farewell to a hamlet that had never quite been home, she slipped beneath the canvas of one of the baggage wagons. It would not be long before Under-Geat disappeared behind her.
 
 As the Easter crowds dispersed, the wagons jolted into motion and settled into the steady pace of the oxen.
 
 Rain fell as the train wound through Leicester’s cluttered streets. The town was still reeling from the siege, and the company stopped three times to clear barrel barricades and other debris from High Street.
 
-Elswyth peered from beneath the canvas at the wreckage, relieved that she would likely never see Wulfhere’s face again.
+Elswyth peered from beneath the canvas at the wreckage, relieved that she would likely never see Grinjaw’s face again.
 
 The peace was emptying the city as surely as the siege had filled it. Wagons, drovers, and laborers still streamed through the North Gate, and no one seemed in any hurry to bar it.
 
@@ -26,7 +26,7 @@ With his warband gone, Cynewulf wandered south toward the North Gate to see wher
 
 A man on an unusually fine horse rode up to him.
 
-"Hail, soldier," a man said. "Lose your way, or has the way lost you?"
+"Hail, soldier," the rider said. "Lose your way, or has the way lost you?"
 
 Cynewulf frowned. "What?"
 
@@ -38,7 +38,7 @@ The foreigner laughed. "Then today is full of surprises."
 
 He extended a hand.
 
-"Galindo. Household man to the Lord of Hexham. Captain to the fyrd from the Tyne River."
+"Galindo. I lead this fyrd. Well, _leading_ is misleading. We're not going anywhere."
 
 Cynewulf shook it cautiously.
 
@@ -46,7 +46,7 @@ Cynewulf shook it cautiously.
 
 Galindo glanced back toward the baggage train. Osric was still crouched over the broken wheel.
 
-"Are you looking for work, Cynewulf? Because I am looking for men."
+"Are you looking for work, Cynewulf? Because I am looking for _more_ men."
 
 "For what?"
 
@@ -134,7 +134,7 @@ The last two caught his attention before he reached them. They dressed like Nort
 
 They offered little else, though they seemed to understand him well enough. At the mention of silver, they exchanged a glance, rose, and shouldered their shields.
 
-They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time, he had judged men by who might keep one from harm.
+They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time he had judged men by who might keep one from harm.
 
 Galindo looked up from the baggage train as Cynewulf approached with the recruits in tow.
 
@@ -154,7 +154,7 @@ Galindo eyed the old veteran's leg. "Can you march without limping?"
 
 "I hope that wasn't a threat." Galindo paused, then nodded toward the wagons.
 
-"Tyne Valley. Escort duty. Food from the train. Twelve pennies a week."
+"Hexham. Escort duty. Food from the train. Twelve pennies a week."
 
 The veteran spat into the dust. "Fifteen."
 
@@ -222,7 +222,7 @@ Cynewulf took the old veteran aside. "Didn't catch your name."
 
 "Quartermaster? For thirteen? I was a spear at thirteen pennies. And don't we already have a quartermaster?" He scoffed.
 
-"This company answers to me, not the Lord of Hexham, and not Murdock. We'll run loot like my old company, the Griffons. Killers get first pick. The rest comes through you. You set the worth. If a man wants something, he buys it from you. Men don't sell to each other. Cheated men start knife fights. You keep the company purse, and you take a cut of every sale. The purse pays every man's share on the spot. Then you sell the loot in town to fill it again. I'll count the coin at day's end."
+"This company answers to me, not Hexham, and not Murdock. We'll run loot like my old company, the Griffons. Killers get first pick. The rest comes through you. You set the worth. If a man wants something, he buys it from you. Men don't sell to each other. Cheated men start knife fights. You keep the company purse, and you take a cut of every sale. The purse pays every man's share on the spot. Then you sell the loot in town to fill it again. I'll count the coin at day's end."
 
 Tor didn't think long. "Well then I'm _your_ Quartermaster at thirteen."
 
@@ -252,27 +252,27 @@ The archer stopped dead in his tracks.
 
 "Best be settling in. Report to the wagon master," Galindo replied.
 
-Wulfhere finally gave the wave to signal the _Ulfhednar_ advance out of town. They weren't staying in Leicester. The spring thaw had opened the river-roads, and there were estates to the north and east that hadn't seen a blade in months. There were _karvis_ to be seized in the fishing villages of the estuaries. These were small, fast boats and poorly guarded which would lead to a summer of raiding the coast.
+Grinjaw finally gave the wave to signal the _Ulfhednar_ advance out of town. They weren't staying in Leicester. The spring thaw had opened the river-roads, and there were estates to the north and east that hadn't seen a blade in months. There were _karvis_ to be seized in the fishing villages of the estuaries. These were small, fast boats, often poorly guarded, that could carry them into a summer of raiding along the coast.
 
-Wulfhere led his company of fifteen through the North Gate. The fyrd caught his eye.
+Grinjaw led his company of fifteen through the North Gate. The fyrd caught his eye.
 
-Wulfhere, ever an eye of the hunter, spotted the wagons and their guardians. His keen eye pushed past the broken ox-carts and saw the true nature of the Saxon rearguard.
+Grinjaw, ever an eye of the hunter, spotted the wagons and their guardians. His keen eye pushed past the broken ox-carts and saw the true nature of the Saxon rearguard.
 
 He saw the fyrdmen nervously shifting their weight. He saw the pursing of Galindo's lips. He saw the strain on Murdock's face.
 
 He knew that his baggage train was not going to have an escort much longer.
 
-From behind the canvas, Elswyth peered out to see Wulfhere. She caught her breath. He must not see her. 
+From behind the canvas, Elswyth peered out to see Grinjaw. She caught her breath. He must not see her. 
 
 She sensed his eyes scanning the wagons. She wondered what he had seen.
 
 The other Vikings laughed and joked at the state of the fyrd as they passed. They simply continued their merry advance upon the Boroughs.
 
-But Wulfhere did not laugh. He studied the passing company until, at last, he found what he was looking for.
+But Grinjaw did not laugh. He studied the passing company until, at last, he found what he was looking for.
 
 His eyes settled on Cynewulf. The Welsh cloak was gone, replaced by the ragged cloak of a beggar.
 
-Wulfhere smiled.
+Grinjaw smiled.
 
 “Move along, wolf-men. Our quarrels are buried,” Cynewulf said.
 
@@ -282,7 +282,7 @@ One of the wolf-men jumped to Cynewulf standing toe-to-toe, with a wide grin. He
 
 The wolf-man’s grin faltered slightly against that hollow stare, his howl dying down into a low snarl. He spat on the ground between them, then turned back to his pack with a mocking bark of laughter. "Sheep! Look at the sheep!" the wolf-man jeered, their laughter echoing off the damp stone walls as they turned away. "Where is your shepherd, sheep? Maybe we own the leash, eh?"
 
-Wulfhere looked on in approval, watching the challenge with a smile. He liked to know the character of men well before their throat met his blade. With one last glance, he turned with his men and headed north.
+Grinjaw looked on in approval, watching the challenge with a smile. He liked to know the character of men well before their throat met his blade. With one last glance, he turned with his men and headed north.
 
 Cynewulf watched in silence as their heavy boots found the road. He slowly released his breath in a long shuddering exhale. He stared down at the deep impressions left in the mud by the wolf-man who had stood nine inches from him. He slowly, deliberately pushed back an iron spike from the palm of his hand into a sleeve-sheath. The cold metal slid and locked away, leaving his palm as empty as his eyes.
 
@@ -308,19 +308,19 @@ One-Eye stared after the departing wolf-men. "Well," he muttered, "good thing yo
 
 That got a laugh from everyone except Cynewulf.
 
-After traveling a distance, the _Ulfhednar_ stopped to rest in a clearing. Wulfhere was there, urging his men to gather around. His eyes seemed fixed to Leicester, wide and full of intent.
+After traveling a distance, the _Ulfhednar_ stopped to rest in a clearing. Grinjaw was there, urging his men to gather around. His eyes seemed fixed to Leicester, wide and full of intent.
 
-Rognvaldr was there as well. He studied the faces of the other wolves with a knowing smile. He cracked his knuckles and neck as he waited for Wulfhere to begin.
+Killwoven was there as well. He studied the faces of the other wolves with a knowing smile. He cracked his knuckles and neck as he waited for Grinjaw to begin.
 
 The others were lean and hungry, mostly young but scarred by the unending training of the wolf cult. Their eyes burned for the treasure-pile that had once been promised or the final embrace of valkyries. Both would have to wait as long as peace reigned. 
 
-Wulfhere began. "I see the anger in your eyes. I see his words turned to rot in your minds. We have followed Olaf. We have listened to the fat jarls of York. We have seen what their guidance has brought."
+Grinjaw began. "I see the anger in your eyes. I see his words turned to rot in your minds. We have followed Olaf. We have listened to the fat jarls of York. We have seen what their guidance has brought."
 
 He started pacing before them, staring at each man as he spoke.
 
 "Did you see the fyrd as we left town, brothers? They were the oath-breakers. With Tyr as our witness, they broke the oath with _their_ church by taking the southern wall."
 
-Wulfhere motioned for them to gather forward, and held his hand to his wolf's ear.
+Grinjaw motioned for them to gather forward, and held his hand to his wolf's ear.
 
 "Did they listen to me when Oda ignored their own peace and stormed the southern wall?"
 
@@ -332,25 +332,25 @@ Wulfhere motioned for them to gather forward, and held his hand to his wolf's ea
 
 "They don't care about us! They never asked the wolf if the fighting was done! They promised piles and delivered ash. And now Olaf turns coward, running to the cross instead of dying by the sword? Olaf can rot in Helheim!"
 
-Rognvaldr stepped forward, his arms reaching wide. "Come brothers! We feel your anger. We feel how you were betrayed. Look each other in the eye! Let your eyes show your brothers that you will not be denied!"
+Killwoven stepped forward, his arms reaching wide. "Come brothers! We feel your anger. We feel how you were betrayed. Look each other in the eye! Let your eyes show your brothers that you will not be denied!"
 
-Wulfhere continued. "These Saxons... they keep making the same mistakes. They think wolves feast on air and priest-speech. A wolf cannot eat a peace-meal. I have seen their broken bands, their burnt sticks, and the forest girls they have guarding their baggage. They are deer for the slaughter, friends. We are circling back tonight. Let the others crawl to the Boroughs and reclaim just what the Saxons allow them."
+Grinjaw continued. "These Saxons... they keep making the same mistakes. They think wolves feast on air and priest-speech. A wolf cannot eat a peace-meal. I have seen their broken bands, their burnt sticks, and the forest girls they have guarding their baggage. They are deer for the slaughter, friends. We are circling back tonight. Let the others crawl to the Boroughs and reclaim just what the Saxons allow them."
 
-Rognvaldr started a drum chain. Each wolf began to slap his thighs in unison, a guttural grunt marking every fourth beat. The rhythm was a heartbeat... the heartbeat of a pack that had forgotten how to be men.
+Killwoven started a drum chain. Each wolf began to slap his thighs in unison, a guttural grunt marking every fourth beat. The rhythm was a heartbeat... the heartbeat of a pack that had forgotten how to be men.
 
 "_We_ will collect the hoard-pile we were promised yet. Then we'll move to the coast estates, and cut that belly from groin to neck. And if we fail?"
 
-Wulfhere paused, looking into the eyes of each of his wolf-men, one at a time. Their eyes were wide now, their hands slapping rhythmically against their thighs faster and faster. Some were growling, some barking, and others stood with thick, white saliva dripping from their hungry maws.
+Grinjaw paused, looking into the eyes of each of his wolf-men, one at a time. Their eyes were wide now, their hands slapping rhythmically against their thighs faster and faster. Some were growling, some barking, and others stood with thick, white saliva dripping from their hungry maws.
 
-Rognvaldr moved down the line like a butcher personally checking each slab of meat on the hook. He wasn't a man of words, but he was a master of the frenzy. He grabbed the youngest of the _Ulfhednar_ by the shoulders and screamed, inches from the boy's face. The youth screamed back, a raw, visceral sound, and lunged forward.
+Killwoven moved down the line like a butcher personally checking each slab of meat on the hook. He wasn't a man of words, but he was a master of the frenzy. He grabbed the youngest of the _Ulfhednar_ by the shoulders and screamed, inches from the boy's face. The youth screamed back, a raw, visceral sound, and lunged forward.
 
-He sank his teeth into Rognvaldr’s arm.
+He sank his teeth into Killwoven’s arm.
 
 Blood dripped from the arm, wetted by the young wolf's saliva.
 
-Rognvaldr only roared in approval, shoving the boy back into the pack.
+Killwoven only roared in approval, shoving the boy back into the pack.
 
-Wulfhere seized the moment, his voice cutting through the chaos:
+Grinjaw seized the moment, his voice cutting through the chaos:
 
 "AND IF WE FAIL... I have glorious news!"
 

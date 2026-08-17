@@ -30,10 +30,10 @@ Muninn: "Are you sure you have this?"
 
 Huginn interrupted. "Cah! I'm the heart, the poetry, the soul... who better to tell the tale than me?"
 
-Muninn rolled his obsidian eyes. "I'm here to see that the oath of the story is held. Proceed."
+Muninn rolled his obsidian eyes. "Good thing I'm here to see that the oath of the story is held. Proceed."
 
-Huginn continued, the twinkle in his eye betraying the smile his face couldn't give. The children stared as he spread his wings and spoke of faraway lands and ancient deeds; of foul creatures, ghosts, and goblins; of myths and legends, and the truths hidden behind them.
+Huginn continued, the twinkle in his eye betraying the smile his face couldn't give. The children stared as he spread his wings and spoke of faraway lands and ancient deeds; of foul creatures, ghosts, and goblins; of myths and legends, and the truths hidden behind them... At least, that's what he promised them.
 
 "It all started at the end of the Siege of Leicester, 943 _Anno Domini_, in eastern England. I believe it was... the rains of spring."
 
-"It was Saturday, March 25th," Muninn interrupted. "And it was the morning of the day before Easter. In the Julian Calendar. Which you children have probably never heard of."
+"It was Friday, March 24th," Muninn interrupted. "And it was Good Friday. In the Julian Calendar... of which you children have probably never heard."

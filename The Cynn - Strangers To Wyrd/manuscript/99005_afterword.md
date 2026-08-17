@@ -24,9 +24,15 @@ The most interesting magical objects were never the ones that guaranteed victory
 
 If a blade genuinely housed a spirit, what would its owner believe about it? If a sword were associated with divine judgment, would its wielder feel honored or terrified? If a weapon carried a curse, how long would it take before the owner began wondering whether every misfortune was somehow connected to it? The most interesting magic, at least to me, has never been about power. It has been about consequences. A magical weapon should not merely solve problems. It should create new ones.
 
-Many years later, I learned how to forge knives. I made a few knives well enough to be pleased with the accomplishment, but certainly not well enough to think myself worthy of being called a smith. Once that happened, the old questions returned. Only now they felt more tangible. A real blade has weight. It has balance. It reflects light in specific ways. It acquires scratches, stains, and history. Most importantly, it exists in the world. I found myself imagining what kinds of myths might grow around such objects. Not modern myths, but myths that would feel plausible to the people who actually carried blades.
+Many years later, I learned how to forge knives. I made a few knives well enough to be pleased with the accomplishment, but certainly not well enough to think myself worthy of being called a smith.
 
-Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions. To a storyteller, that environment is irresistible. To an oddff-and-on Dungeon Master, it felt like discovering a campaign setting that history had already written.
+Once that happened, the old questions returned. Only now they felt more tangible. A real blade has weight. It has balance. It reflects light in specific ways. It acquires scratches, stains, and history. Most importantly, it exists in the world.
+
+I found myself imagining what kinds of myths might grow around such objects. Not modern myths, but myths that would feel plausible to the people who actually carried blades.
+
+Those questions eventually led me to the Danelaw. The more I studied the period, the more fascinating it became. This was not a world neatly divided between paganism and Christianity, old and new, Dane and Englishman. It was a world of overlap. Traditions blended. Beliefs coexisted. People inherited ideas from multiple cultures and somehow managed to build lives from the resulting contradictions.
+
+To a storyteller, that environment is irresistible. To an off-and-on Dungeon Master, it felt like discovering a campaign setting that history had already written.
 
 The three blades at the heart of this story emerged from these ideas. The blades existed in my mind before I knew what story I wanted to tell.
 
@@ -36,33 +42,27 @@ I envisioned it was a simple blade. It merely reflected firelight from the campf
 
 Imagine a guard standing watch. He pulls out "Fyrleoht" to sharpen it by the campfire, and the dancing fire in the blade's surface effectively says: "I see you. You're not alone here. Stand watch with me." Not literally of course. That would be a blade of fiery ventriloquism +1, which could be interesting, but that's not the point. It's the confidence that gets him through the night.
 
-My ideas of Wodbora started as: "What if a sword demanded that you save your soul in order to unlock its ultimate feature, one that unleashes pure chaos? Oh, and you can't tell anybody about it. Oh, and as part of your confession, you have to bid a penance for your sin that might get rejected?" That was the "what" of the blade: the effect. But that's incomplete. What really mattered was the "who" and the "why." Before I could answer those questions, I wanted a stable of three blades. That seemed like the beginning of a more complete mythology.
+My idea for Wodbora started with the Danelaw, specifically Odin's ever-shrinking count of followers. Christianity was starting to take root among the Danes. Then I wondered, how would Odin as a character in a story feel about what's happening? How would that manifest? If Odin were real, who would he talk to? Is talking to Christ an option?
 
-I asked similar questions of the other two blades.
+It dawned on me that, to Odin, it would feel like reality itself is unraveling. Wyrd is dying. And Odin, with the weight of the universe on his shoulders, would be desperate to understand it.
 
-Monanleoht: "What if prowess in battle cost you your sanity, and using it meant making a deal with a faerie madman? Would you knowingly go insane?" That's not an easy question for a person living on the edge of a Brothers Grimm-styled folk horror story.
+The three blades were thus conceived.
 
-Barrow's Edge: "What if a mythic weapon restored your dead family as an illusion for a time but gave you extreme competence in battle? Would you continue to use it, knowing that it's not real? Do you honor your dead family by abandoning it?" That's a tough question for a broken farmer, also in the middle of a Brothers Grimm-styled folk horror story, going into battle.
+This book exists because I never stopped wondering about magic crafting and gaming. To be honest, as a player, I always find myself playing an artificier of some sort.
 
-As the story grew, I realized that some mythic weapons really demand mythic commissioners. Enter Odin and Freyr. Odin has the will and knowledge; Freyr has the means, since his domain is literally the elves.
-
-Looking at the crossroads of the Danelaw at the time, I envisioned Odin having an existential crisis. He is losing followers. Both families of Scandinavian gods are losing ground to Christianity. Lines are blurring, and people are increasingly adopting syncretic points of view, with the eventual demise of paganism just around the corner.
-
-I could only imagine how frightening it would be for Odin to think that he had plucked out his eye, hung himself on a tree, spent eons gathering the very best warriors, and built Valhalla for the inevitable Ragnarök... only for Ragnarök not to be inevitable after all.
-
-At some point, Odin would want answers. How do you test fate? How do you test how humans perceive fate? Ultimately, with Freyr's help, what we find is that Odin isn't testing mortals as much as he's testing himself.
-
-This book exists because I never stopped wondering about magical weapons. Not how powerful they are. Not how many enemies they can defeat. But what it would feel like to carry one... from the mostly mundane +1 dagger to the mythic +5 vortex-summoner of doom called _Wodbora_. Everything else followed from that.
+We often play the characters we would want to be. For me, it's the makers of mythological awesomeness, from the mostly mundane +1 dagger to the mythic +5 vortex-summoner of doom called _Wodbora_.
 
 ---
 
 ## Who Are The Cynn, Really?
 
-These are the forge elves who carry on the tradition of magical making. They're not literally descendants of Weyland, Völundr, Vulcan, or any other divine smith. In reality, of course, they are just us mediocre humans after all. We're the ones creating the stories, making blades that look like the descriptions, and having fun, usually while giggling like children when things actually work out okay. Huginn makes up stories about the things we make and dream up, then tells them to imaginary children.
+They are the crafters and mythmakers, pure and simple, and they live in each of us. They're not literally descendants of Weyland, Völundr, Vulcan, or any other divine smith of course. In reality, they are just us mediocre humans after all.
 
-The Cynn, at their heart, belong to maker culture. They respect the craftsmanship of a thing: the steel, the welds, the carving, the leather, the polish, the hours of handwork. But where maker culture often ends with the finished object, the Cynn keep asking questions. What stories grow around it? What consequences follow from it? What does the thing ask of the person who carries it?
+We're the ones creating the stories, making mythological-sounding objects, and having fun. We giggle like children when things actually work out okay.
 
-That is what the Cynn really are: craft joined to merry mythmaking.
+The Cynn forge-elves, at their heart, belong to maker culture. They respect the craftsmanship of a thing: the steel, the welds, the carving, the leather, the polish, the hours of handwork. But where maker culture often ends with the finished object, the Cynn keep asking questions. What stories grow around it? What consequences follow from it? What does the thing ask of the person who carries it?
+
+I portray them as both invisible and intensely giddy. Strip away the titles, the expertise, and the seriousness of craft, and what's left is the childish wonder of an elf who thinks forging and mythmaking are fun.
 
 ---
 
@@ -119,15 +119,29 @@ That is what the Cynn really are: craft joined to merry mythmaking.
 
 ### The Church, The Shadow Gate and Under-Geat
 
-Historical records attest to the existence of a Church of St. Augustine and St. Columba in the early 10th century. The record is vague as to its placement, saying it was near the Roman Forum. During the Norman period, that church disappears from the record, and the Church of St. Nicholas was erected next to the Jewry wall. It stands today. One implication that seems likely is that the Church of St. Nicholas was built on the same site. Whether it used the existing church as a basis, or was built anew from the old church's foundations was not of interest.
+Historical records attest to the existence of a Church of St. Augustine and St. Columba in the early 10th century. The record is vague as to its placement, saying it was near the Roman Forum. 
+
+During the Norman period, that church disappears from the record, and the Church of St. Nicholas was erected next to the Jewry wall. It stands today.
+
+One implication that seems likely is that the Church of St. Nicholas was built on the same site. Whether it used the existing church as a basis, or was built anew from the old church's foundations was not of interest.
 
 For the purposes of the novel, I place the church exactly where the Church of St. Nicholas is today.
 
-Another one of the larger narrative liberties taken in _The Cynn_ concerns Leicester's southwestern corner. In the novel, this area is occupied by the Church protectorate of **Under-Geat**, entered through the fictional **Shadow Gate**. The Roman wall here is portrayed as badly deteriorated, with long stretches of masonry replaced by timber palisades and simple repairs. While neither Under-Geat nor the Shadow Gate are historical places, they were created to explain a landscape that would soon change dramatically.
+Another one of the larger narrative liberties taken in _The Cynn_ concerns Leicester's southwestern corner. In the novel, this area is occupied by the Church protectorate of **Under-Geat**, entered through the fictional **Shadow Gate**.
 
-Within little more than a century of the novel's events, the Normans transformed this quarter of Leicester. The area became the site of Leicester Castle and, later, the fortified precinct known as the Newarke. These substantial works suggest that the southwest corner of the city was important enough to renovate, and indeed was in need of renovation. Rather than imagining those fortifications appearing on pristine Roman defenses, I found it more compelling to imagine that they were built in response to centuries of decline. By 943, nearly five hundred years had passed since the Roman administration had left Britain. It seemed unlikely that every section of Leicester's walls would have remained equally well maintained. With the river nearby, the method of failure seemed obvious... a muddy embankment and a sliding foundation.
+The Roman wall here is portrayed as badly deteriorated, with long stretches of masonry replaced by timber palisades and simple repairs. While neither Under-Geat nor the Shadow Gate are historical places, they were created to explain a landscape that would soon change dramatically.
 
-The Roman walls undoubtedly continued to provide an imposing barrier, but they were also an invaluable source of dressed stone for generations of builders. In _The Cynn_, the Church has inherited much of the former Roman civic quarter and quietly repurposes its ruins. Stone becomes churches, grave markers, and foundations; damaged stretches of wall are bridged with timber rather than rebuilt in costly masonry. This vision is speculative, but it attempts to reconcile the Roman city's gradual decay with the extensive rebuilding undertaken after the Norman Conquest. The fictional Shadow Gate thus serves not only as the entrance to the Church's _frith_, but also as a symbol of a city suspended between the fading world of Rome and the fortified medieval town that would follow.
+Within little more than a century of the novel's events, the Normans transformed this quarter of Leicester. The area became the site of Leicester Castle and, later, the fortified precinct known as the Newarke.
+
+These substantial works suggest that the southwest corner of the city was important enough to renovate, and indeed was in need of renovation. Rather than imagining those fortifications appearing on pristine Roman defenses, I found it more compelling to imagine that they were built in response to centuries of decline.
+
+By 943, nearly five hundred years had passed since the Roman administration had left Britain. It seemed unlikely that every section of Leicester's walls would have remained equally well maintained. With the river nearby, the method of failure seemed obvious... a muddy embankment and a sliding foundation.
+
+The Roman walls undoubtedly continued to provide an imposing barrier, but they were also an invaluable source of dressed stone for generations of builders. In _The Cynn_, the Church has inherited much of the former Roman civic quarter and quietly repurposes its ruins.
+
+Stone becomes churches, grave markers, and foundations; damaged stretches of wall are bridged with timber rather than rebuilt in costly masonry. This vision is speculative, but it attempts to reconcile the Roman city's gradual decay with the extensive rebuilding undertaken after the Norman Conquest.
+
+The fictional Shadow Gate thus serves not only as the entrance to the Church's _frith_, but also as a symbol of a city suspended between the fading world of Rome and the fortified medieval town that would follow.
 
 Under-Geat arose from a simple observation. A church standing beside what amounted to a Roman stone quarry and a quarry of relics, would likely accumulate considerable wealth and influence. The needs of such a minster would naturally foster its own supporting economy. Under-Geat and the Old Frith are my attempt to imagine that ecosystem.
 
@@ -135,41 +149,55 @@ Under-Geat arose from a simple observation. A church standing beside what amount
 
 ### Leicester and the Peace of 943
 
-The events of _The Cynn_ take place against the backdrop of a real historical conflict. Following the death of King Æthelstan in 939, political authority in England entered a period of uncertainty. Olaf Guthfrithson, ruler of Dublin and York, moved quickly to exploit the situation. His campaign into Mercia culminated in Leicester, one of the Five Boroughs of the Danelaw and one of the most strategically important settlements in central England.
+The events of _The Cynn_ take place against the backdrop of a real historical conflict, although the dates and names are presently disputed.
 
-Unfortunately, the surviving historical sources provide only fragments of the story. Medieval chroniclers were often more interested in recording victories, royal successions, and divine providence than explaining logistics, supply, or the day-to-day realities of campaigning. We can reconstruct the broad outline of events: Olaf advanced into Mercia, resistance hardened, and Leicester became the focal point of the campaign. There was little more. Even the precise chronology remains debated. For the purposes of the novel, I chose to place Olaf's capture of Leicester in the autumn of 942 and the Saxon siege in the spring of 943.
+Following the death of King Æthelstan in 939, political authority in England entered a period of uncertainty. Olaf Guthfrithson, ruler of Dublin and York, moved quickly to exploit the situation. His campaign into Mercia was short-lived, but it is believed by many that his kinsman Olaf Sihtricson continued the campaign.
+
+One of the best known engagements is the raiding of Tamworth, and the pursuit to Leicester. The best guesses seem to indicate that the raid of Tamworth was in 942, and the siege of Leicester was in 943. If those dates are accurate, what seems likely is that they are separated by a winter. Leicester would have been a good place to winter for Olaf's men, and Edmund's men would have needed to rest and re-group.
 
 There is almost no surviving description of the siege itself. No troop numbers. No battle lines. No account of assaults or defenses. The novel therefore invents the siege, but only because the peace that followed is unusually well documented.
 
 That freedom allowed me to build the siege around the fictional landscape of Under-Geat, the Shadow Gate, and the Church's protectorate. If the Church maintained a protected precinct outside the city's principal line of defense, both sides would face difficult political and spiritual choices. 
 
-I imagined Bishop Wulfstan urging King Olaf to keep his warriors clear of the Church's lands, lest Archbishop Oda declare the Church's _frith_ violated. Likewise, I imagined Oda honoring that peace for as long as possible, consenting to an assault through the Church's protectorate only when every other option had failed. None of this is recorded history. It is, however, the sort of dilemma that seems entirely at home in tenth-century England, where kings, bishops, and abbots exercised overlapping authority and where ecclesiastical land enjoyed genuine legal and spiritual protection.
+I imagined Bishop Wulfstan urging King Olaf to keep his warriors clear of the Church's lands, lest Archbishop Oda declare the Church's _frith_ violated. Likewise, I imagined Oda honoring that peace for as long as possible, consenting to an assault through the Church's protectorate only when every other option had failed.
 
-The historical sources record that Olaf and Bishop Wulfstan departed Leicester soon after the agreement, but say almost nothing about the negotiations themselves. I found it plausible that a temporary truce preceded the formal peace, giving both sides an opportunity to negotiate while Olaf quietly prepared his withdrawal. Whether events unfolded this way can never be known, but it provided a believable framework for the story.
+None of this is recorded history. It is, however, the sort of dilemma that seems entirely at home in tenth-century England, where kings, bishops, and abbots exercised overlapping authority and where ecclesiastical land enjoyed genuine legal and spiritual protection.
+
+The historical sources record that Olaf and Bishop Wulfstan departed Leicester before the agreement was read, but say almost nothing about the negotiations themselves. I found it plausible Olaf would have left himself a way out of the city (via the North Gate road), would secure his escape, then give Wulfstan instructions to sue for peace. Wulfstan would carry the rendezvous-point for delivering the terms back to the negotiating table.
+
+Whether events unfolded this way can never be known, but it provided a believable framework for the story.
 
 For modern readers, it is tempting to think of medieval warfare primarily in military terms. Contemporary rulers certainly cared about fortifications and battlefield strategy, but they were equally constrained by factors that rarely appear in battle narratives. Armies depended upon fields, livestock, wagons, and labor. Most fighting men were not professional soldiers; they were farmers temporarily called away from their homes. Every week spent campaigning was a week not spent repairing winter damage, preparing fields, or planting crops. The agricultural calendar could be every bit as powerful as a king.
 
 This context is essential to understanding the negotiated peace. Both sides had reasons to continue the struggle, yet both also faced mounting pressure to return men to the land.
 
-The years preceding the settlement appear to have been marked by unusually severe winters. Evidence suggests that volcanic activity in Iceland between 940 and 942 contributed to colder weather and poor harvests across parts of northern Europe. Hunger and uncertainty made the arrival of spring labor increasingly urgent. Delaying the planting season threatened not merely armies, but entire communities. While kings pursued political ambitions, reeves, bishops, and local leaders faced a simpler question: how long could ordinary people afford to remain at war?
+The years preceding the settlement appear to have been marked by unusually severe winters. Evidence suggests that volcanic activity in Iceland between 940 and 942 contributed to colder weather and poor harvests across parts of northern Europe.
 
-The resulting settlement was remarkable. Rather than decisively resolving the political dispute, it effectively postponed it. Olaf retained the Five Boroughs under conditions tied to the survival of both rulers. To modern readers the arrangement may appear strangely temporary. To contemporaries, it was likely a practical acknowledgment that neither side possessed either the resources or the will to force a permanent conclusion. The peace did not end the conflict. It merely delayed its next chapter.
+Hunger and uncertainty made the arrival of spring labor increasingly urgent. Delaying the planting season threatened not merely armies, but entire communities. While kings pursued political ambitions, reeves, bishops, and local leaders faced a simpler question: how long could ordinary people afford to remain at war?
 
-History ultimately rendered the agreement short-lived. Olaf died within the year, and King Edmund recovered the Five Boroughs. They remained part of the English kingdom until the Norman Conquest reshaped England once again.
+The resulting settlement was remarkable. Olaf retained the Five Boroughs as a Christian King under Edmund, who was to be his godfather. To the common Saxon soldier, it absolutely felt like a betrayal.
+
+History ultimately rendered the agreement short-lived. Edmund banished Olaf the following year and retained the Danelaw until the Battle of Hastings.
 
 ---
 
 ### Living Between Worlds
 
-Modern discussions of religion often assume that belief functions like membership. A person belongs to one faith, adopts its teachings, and rejects competing alternatives. Such assumptions can be useful when describing formal institutions, but they can be misleading when applied to the lived experience of tenth-century England. Conversion was rarely a single event. It was a process unfolding across generations. New beliefs arrived gradually, older customs persisted, and many people continued to navigate a world shaped by both. The result was not necessarily confusion. For many, it was simply ordinary life.
+Modern discussions of religion often assume that belief functions like membership. A person belongs to one faith, adopts its teachings, and rejects competing alternatives. Such assumptions can be useful when describing formal institutions, but they can be misleading when applied to the lived experience of tenth-century England.
 
-Historians often use the term _syncretism_ to describe the coexistence or blending of religious traditions. While useful as a scholarly term, it can imply a deliberate attempt to reconcile competing doctrines. Most people living in the Danelaw were not attempting to construct a coherent theology. They were farmers, craftsmen, charcoal burners, widows, priests, and laborers. Their concerns were practical. Crops needed tending. Children needed raising. Illness required treatment. Winter demanded preparation. Religious practice frequently followed the same practical logic. Ideas survived because they remained useful.
+Conversion was rarely a single event. It was a process unfolding across generations. New beliefs arrived gradually, older customs persisted, and many people continued to navigate a world shaped by both. The result was not necessarily confusion. For many, it was simply ordinary life.
+
+Historians often use the term _syncretism_ to describe the coexistence or blending of religious traditions. While useful as a scholarly term, it can imply a deliberate attempt to reconcile competing doctrines.
+
+Most people living in the Danelaw were not attempting to construct a coherent theology. They were farmers, craftsmen, charcoal burners, widows, priests, and laborers. Their concerns were practical. Crops needed tending. Children needed raising. Illness required treatment. Winter demanded preparation. Religious practice frequently followed the same practical logic. Ideas survived because they remained useful.
 
 Osric and Ealhild together represent one of the most common forms of syncretism in the period: the household. Neither spends much time debating theology. Their concerns are immediate and practical. Osric worries about weather, harvests, livestock, and the condition of the field. Ealhild worries about the hearth, the health of the family, household remedies, the butter trade supported by the four cows of her dowry, and the proper ordering of the home. Both inhabit a Christian society. Both inherit older traditions. Neither experiences these influences as neatly separated categories. They are simply part of the world they have inherited.
 
 Osric's perspective is rooted in the land itself. He attends church because church attendance is part of village life. He participates in Christian festivals because they structure the community around him. Yet he also lives within an agricultural world shaped by older assumptions concerning fertility, weather, and seasonal cycles. To a modern observer, praying for rain while casually invoking both Christ and Freyr may appear contradictory. To a farmer, it may simply reflect the reality that survival depends upon relationships extending beyond the boundaries of any single institution. The field does not care which language a prayer is spoken in. The rain either falls or it does not.
 
-Ealhild's perspective is rooted in the household. As keeper of the hearth, she occupies a role that modern readers often underestimate. The medieval home was not merely a residence but a center of labor, memory, healing, hospitality, and continuity between generations. Ealhild carries Scandinavian household traditions associated with fertility, protection, healing, and the domestic sphere. Her insistence on placing the barrow-stone at the threshold reflects this worldview. Boundaries matter. Thresholds matter. The transition between outside and inside matters. Such practices are not necessarily experienced as alternatives to Christianity. They are part of the inherited knowledge by which a household is properly maintained.
+Ealhild's perspective is rooted in the household. As keeper of the hearth, she occupies a role that modern readers often underestimate. The medieval home was not merely a residence but a center of labor, memory, healing, hospitality, and continuity between generations.
+
+Ealhild carries Scandinavian household traditions associated with fertility, protection, healing, and the domestic sphere. Her insistence on placing the barrow-stone at the threshold reflects this worldview. Boundaries matter. Thresholds matter. The transition between outside and inside matters. Such practices are not necessarily experienced as alternatives to Christianity. They are part of the inherited knowledge by which a household is properly maintained.
 
 The arrival of the nisse illustrates how religious change often occurred in practice. Ealhild does not set out to create a theological synthesis between old and new traditions. She performs an act of household stewardship that she believes to be proper. Yet that act produces consequences that ripple outward through the story. This is often how syncretism develops historically. It rarely begins with abstract philosophical arguments. It begins with ordinary decisions made by ordinary people attempting to preserve a family, protect a home, or maintain continuity with those who came before them.
 
@@ -287,11 +315,11 @@ The blade construction is a Little Bealings-style langseax.
 
 First, I love the shape. It's a bit of a relic by 943 AD, but that's fine. They still existed.
 
-Why not a sword? Swords in 943 AD were expensive, the status cymbol of thegns and nobility. Cynewulf is neither of those.
+Why not a sword? Swords in 943 AD were expensive, the status symbol of thegns and nobility. Cynewulf is neither of those.
 
 Then why a langseax? Because it's the form factor of the blade he interited from the Griffons, and he knew how to fight with it. What he inherited was a relic even in 934. His memory of the Griffons is also a relic he keeps with him, until the blade finally snaps in The Night of Blood battle.
 
-I had this blade commissioned to Tobin Nieto of Stonehaven Forge because, quite frankly, I lacked the skill and the kind of forge needed to work wrought iron. It is a 9-layer no-mai blade: with wrought iron on each side, and alternating layers of 15N20 and 1084. Once etched, it yielded two rivers of 15N20 running through a dark grey field, with grainy spine and a 1084 edge.
+I had this blade commissioned with Tobin Nieto of Stonehaven Forge because, quite frankly, I lacked the skill and the kind of forge needed to work wrought iron. It is a 9-layer no-mai blade: with wrought iron on each side, and alternating layers of 15N20 and 1084. Once etched, it yielded two rivers of 15N20 running through a dark grey field, with grainy spine and a 1084 edge.
 
 Depending on which way you look, it's a real Rorshach test. When Tobin showed me his first etch of the prototype Wodbora blade, I couldn't decide which way was up! The silvery 15N20 could be the mist on the ground, and light grey shapes are flowing through it. Or the silvery 15N20 are the clouds, and the darker shapes represent the Wodhere in full ride sweeping the earth.
 
@@ -303,7 +331,7 @@ The handle is wood bound by wrought iron guard and pommel. The handle is wrapped
 
 #### Scabbard Construction
 
-The scabbard should be lambskin-lined tough leather as was common for langseaxes in that era.
+The scabbard is lambskin-lined wood core and leather. This was a common treatment for swords.
 
 ##### Scabbard Obverse (Outer) Side: The Inquisitors
 
@@ -350,7 +378,7 @@ Regardless, the blade is exceptionally thick and wide.
 
 #### Handle Construction
 
-Since this is a farmer's blade, the handle should be relatively simple. It should be two-handed, like the Northolt Manor seax. The is significant weight in the guard and pommel to attempt to give the blade a bit more balance, but balance for this blade is not essential.
+Since this is a farmer's blade, the handle should be relatively simple. It should be two-handed, like the Northolt Manor seax. There is significant weight in the guard and pommel to attempt to give the blade a bit more balance, but balance for this blade is not essential.
 
 The handle is iron acetate darkened wood. This construction envisions the placement of Gurdr's Tears (jet gravel) as an inlay in the handle. I'm aiming for the black-on-black contrast.
 
@@ -389,11 +417,11 @@ You could do as the forge elves, find yourself some meteorite iron, pound, refin
 
 The blade is a light, relatively thin narrow seax with a 14" blade. The break is roughly half way down the blade, making the tip extremely fast and maneuverable.
 
-The blade has no adornment, fullers or inscriptions... how can you scratch the skin of the redcap himself? He would most put out. He may even start to question my vintage.
+The blade has no adornment, fullers or inscriptions... how can one scratch the skin of the redcap himself? He would most put out. He may even start to question my vintage.
 
 #### Handle Construction
 
-The handle should be one-handed and be well-balanced, for maximum tip control. It should also be very secure in the hand. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping oxblood leather lace, ideally braid-wrapped with just enough 15N20 guard and pommel to counter-balance the thinner blade. Another good choice is odd-looking yet weirdly perfect section of bone or antler. It just so happens I have one of those.
+The handle should be one-handed and be well-balanced, for maximum tip control. It should also be very secure in the hand. You know, to beat on the flea's leg. I'm thinking wooden core with overlapping oxblood leather lace, ideally braid-wrapped with just enough 15N20 guard to counter-balance the thinner blade. Another good choice is odd-looking yet weirdly perfect section of bone or antler. It just so happens I have one of those.
 
 The name should be inscribed in black on the blade's 15N20 round guard, and the title on the blade's 15N20 round pommel. If there's room, the runes should traverse the guard and pommel on the side-edge as if they are in mid-dance, each rune slightly askew angle-wise of what would be it's normal scripture-line. If there's no room on the edges, move the runes to the top and bottom flats of the guard and pommel but keep the runes out of alignment with the center line.
 

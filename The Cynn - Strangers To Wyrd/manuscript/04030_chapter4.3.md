@@ -725,6 +725,8 @@ She heard the heavy approach of booted feet, and the voice of a frightened villa
 
 The booted feet hesitated, then turned. She heard pounding on a different door nearby.
 
+But one pair of boots stayed. The shadow of Osric appeared in her doorway.
+
 She peered through the doorway to see lines of soldiers facing the Shadow Gate, spears in rows, and banners held high.
 
 She jumped back into her hole, breathless.
@@ -732,6 +734,8 @@ She jumped back into her hole, breathless.
 She stayed there.
 
 For the rest of Easter Eve, the battle came to Elswyth mostly as sound. Feet, and more feet. Shields, and more shields. Shouting across the wall. Accusations of breaking the _frith_. Then suddenly, running. What seemed like a trample of thousands of feet running east.
+
+Osric disappeared.
 
 Elswyth peered again, and caught a glimpse of a single horse, and a single line of men behind the willows. She dared not leave yet.
 
@@ -765,7 +769,7 @@ After the last two days, leaving Under-Geat seemed like the safest thing she cou
 
 Fussleton's promise... of others coming... gnawed at her.
 
-When she spied Wulfhere at Easter Mass, the decision seemed even more final.
+When she spied Grinjaw at Easter Mass, the decision seemed even more final.
 
 She wondered if he might be a permanent fixture of Leicester now.
 

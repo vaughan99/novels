@@ -1,5 +1,3 @@
-# Chapter Two: The Tale of the Hearth-Warm Fyrdman
-
 ## Part One: Gerðr's Tears
 
 Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare.
@@ -10,7 +8,7 @@ He was not an especially pious man. He had seen the shuffle of war... Norseman a
 
 He attended the little parish church at Easter, at Michaelmas, and on the Feast of Saint Martin, when the livestock were culled for winter. Beyond that, he placed more trust in sound thatch, healthy cattle, a sharp spear, and the men who would stand beside him in the shield-wall. He kept a few old harvest customs besides. He left the last corner of the field uncut, in honor of the land, and wove the first sheaf of every harvest into the cottage door as a quiet sign of gratitude for the year's bounty. Whether the thanks belonged to Christ, to Freyr, or simply to the land itself had never seemed worth arguing over, so long as the barley ripened and his children had bread through the winter.
 
-His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near _Hagustealdsham_. His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
+His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near Hexham. His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
 
 "My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrdmen. "The land knew my forefathers almost three hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
 
