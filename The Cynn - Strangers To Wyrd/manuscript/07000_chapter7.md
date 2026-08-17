@@ -56,7 +56,7 @@ Elswyth slipped over the tailgate of one of the carts and huddled beneath a heav
 
 Night descended like a heavy iron lid. Murdock set the watches, three at a time. There was no dry wood for a fire. They ate their rations wet and cold beneath the pale glow of a single lantern hanging from the roadward wagon. The world went dead, horribly quiet. A thick fog settled in.
 
-Out in the dark, fifteen pairs of copper-bright eyes quietly approached the train from further down the road. Grinjaw the Broad raised his hand. Beside him, the seven-foot giant, Killwoven, grinned, his armor of stolen mail-scraps clinking softly like a heavy shroud.
+Out in the dark, fifteen pairs of copper-bright eyes quietly approached the train from further down the road. Grinjaw raised his hand. Beside him, the seven-foot giant, Killwoven, grinned, his armor of stolen mail-scraps clinking softly like a heavy shroud.
 
 "The Spaniard has left the bones for us," Killwoven whispered. His eyes were wilding, as if the frenzy of Odin was his alone. He threatened to rush in, but Grinjaw raised his hand in a fist, then slowly opened his palm flat down. "The bones have meat on them," Grinjaw countered softly. "But the wolf does not leap the fence while the sheep are watching. Break the beasts first. Gather stones."
 
