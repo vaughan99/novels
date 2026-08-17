@@ -84,11 +84,17 @@ When she went, she would take a barrow's capstone with her... to bring the spiri
 
 "But why was she sad?" Ealhild was truly concerned.
 
-"She wasn't sad, Ealhild. She loved her mother, and she loved Freyr. Some tears are too big for one name. You will take the capstone with you when you are married. You will be as Gerðr, and you will find your Freyr."
+"She wasn't only sad, Ealhild. She loved her mother. And she knew that Freyr loved her with all his heart. Some tears are too big for one name. You will take the capstone with you when you are married. You will be as Gerðr, and your Freyr will find you one day."
 
-That day came, as Ealhild's father was eager to expand northward. While much of the land in that direction was tough and bitter, the lands of the Tyne river had wealth and made for good grazing land. He had come to know of Osric, whose father was interested in the stronger Danish plows. The dowry was simple... an extra plowshare, and a cow from the dairy herd, with promise of more once the pens were established.
+That day came, as Ealhild's father was eager to expand northward. While much of the land in that direction was tough and bitter, the lands of the Tyne river had wealth and made for good grazing land. He had come to know of Osric, whose father was interested in the stronger Danish plows.
 
-She would never forget the day Osric arrived, freshly bathed on his draught horse, attended by five of his fellow fyrdmen. She saw Freyr in him. The easy smile. The broad shoulders. The quiet confidence of a man who knew his work and did it well.
+When Osric came with his father to buy a plowshare, he could not take his eyes off Ealhild. She smiled at him nervously, but it was obvious that he was dumbstruck.
+
+Ealhild's father noticed. And the two fathers shared a knowing glance.
+
+The dowry was simple... an extra plowshare, and a cow from the dairy herd, with promise of more once the pens were established.
+
+She would never forget the day Osric arrived once more, freshly bathed on his draught horse, attended by five of his fellow fyrdmen. She saw Freyr in him. The easy smile. The broad shoulders. The quiet confidence of a man who knew his work and did it well.
 
 She had packed all her belongings, her mother's gift of a fresh leather-covered satchel hanging firmly from her shoulder. Inside were the beginnings of her medicine charms.
 
