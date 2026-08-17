@@ -138,11 +138,15 @@ In the last of the wreckage, near the hearth, he found his boar-spear and shield
 
 The spearhead he burned free from the pole in the hearth. The steel was still useful, but he would have to find a new pole. The shield's iron strapping could be reset with a forge, and the boss was still stout. A few hours at the smith's, and his shield could be restored.
 
-There on the wall, he found his father's war broad-seax hanging from a nail. He had used it for training, and he carried it with him on the road any time he left. Made for one hand or two, it was thick with intimidation. Not many in the fyrd chose a weapon like this; it was a luxury beyond the simple farmer's axe. He gave it a few test swings to remember the heft and balance. Then he sharpened it by the hearth, warm light sliding along the blade and returning to his eyes.
+There on the wall, he found his father's war broad-seax hanging from a nail. He had used it for training, and he carried it with him on the road any time he left. Made for one hand or two, it was thick with intimidation.
 
-He could still picture the day his father left for the fyrd, carrying it to his last battle. He could picture the day it came home again, carried to Osric by a somber fyrdman. His mother had died the winter before, and he met the man _alone_ at the threshold.
+Not many in the fyrd chose a weapon like this; it was a luxury beyond the simple farmer's axe. He gave it a few test swings to remember the heft and balance. Then he sharpened it by the hearth, warm light sliding along the blade and returning to his eyes.
 
-The seax. The farm. The debts. The duty. All became his inheritance on that day. 
+He could still picture the day his father left for the fyrd the day after returning from buying the plowshare and meeting Ealhild. His father carried it to his last battle.
+
+He could picture the day it came home again, carried to Osric by a somber fyrdman. His mother had died the winter before, and he met the man _alone_ at the threshold.
+
+The seax. The farm. The debts. The duty. All became his inheritance on that day. Before Ealhild came.
 
 Winter finally gave way to the beginning of the thaw. Out on the road, the silence was broken by the sound of horses and men.
 

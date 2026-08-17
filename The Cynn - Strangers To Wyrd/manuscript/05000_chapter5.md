@@ -84,6 +84,8 @@ He passed The Aleway.
 
 An ale-house would have been the obvious place to start, if there were still ale in Leicester.
 
+_Ha! I know where the ale went._
+
 He kept walking.
 
 He realized the ones he needed were like him. He was already in search of food, heading toward the churchyard. The ones he wanted would be doing exactly the same.
@@ -106,7 +108,7 @@ He stepped towards the Old Frith. He didn't expect to see piles of rubble.
 
 The old bathhouse behind the Jewry Wall was being excavated. Before him lay untidy heaps of marble, brick, timber, roof tile, and broken stone.
 
-"Someone's been busy," he said to himself as he strode by.
+_Hmmm, someone's been busy..._
 
 Cynewulf scoured the Old Frith with his eyes, like a wolf searching for another who had lost its pack. A man in a hurry to reach his wife was already on the road. A man eager to sow his fields was packing his cart. The men lingering over their broth interested him most.
 
