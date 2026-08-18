@@ -71,6 +71,9 @@ export function renderDocX(buildDir, mdFile) {
         "pandoc",
         [
             "novel.md",
+            // Override the date with commit info
+            "--defaults=./pandoc/docx-defaults.yaml",
+            `--metadata=date:${buildTimestamp} · commit ${buildCommit}`,
             "-o",
             "novel.docx"
         ],
