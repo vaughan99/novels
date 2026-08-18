@@ -304,6 +304,8 @@ The Wodhere in this novel is therefore not intended as a reconstruction of any s
 
 ### Wodbora the Madness-Bringer, the Prophet of the Wodhere, the Guardian of Chaos
 
+Made by Tobin Nieto of Stonehaven Forge. Forged in Fire winner in season 2, episode 8 called "The Cutlass". 
+
 ##### Inscriptions
 
 | Location                             | Function    | Old English                               | Futhorc Runes                                       | Pronunciation                                             | Meaning                                       |
