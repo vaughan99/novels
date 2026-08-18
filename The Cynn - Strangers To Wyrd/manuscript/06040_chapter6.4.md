@@ -4,7 +4,7 @@ _What is a wound? It is not merely the absence of skin or the parting of flesh. 
 
 _These are the lessons of the Wound._
 
-The remnants of the band drifted. They were six shadows moving through the Northumbrian mist, their horses gaunt and stumbling. They did not speak of the Wall. They did not speak of _Fer-Main_. To speak of them would be to touch the raw, weeping edge of the injury, and none of them had the strength to endure the pain of it.
+The remnants of the band were six shadows moving through the Northumbrian mist, their horses gaunt and stumbling. They did not speak of the Wall. They did not speak of _Fer-Main_. To speak of them would be to touch the raw, weeping edge of the injury, and none of them had the strength to endure the pain of it.
 
 Cynewulf felt the world through a veil of agony. Every movement was a fresh cut. The rhythm of the horse’s gait, the bite of the wind, the smell of the damp earth... it all felt like salt rubbed into an open sore. He remembered the five minutes at the Wall with the clarity of glacier water. The perfect, disciplined machine he had worshipped was dismantled in the time it took to draw a long breath.
 
@@ -34,17 +34,21 @@ The others did not react.
 
 "They’re brothers, Cynewulf."
 
-"They were _Griffons_," Cynewulf corrected, his gaze drifting to the horizon. "And the _Griffons_ died at the Wall. These are just men who haven't stopped bleeding yet."
+"They were _Griffons_," Cynewulf corrected, his gaze drifting to the horizon. "These are just men who haven't stopped bleeding yet."
 
 "He's...right..." The words came dribbling out of the mouth of one of the wounded, accompanied by blood. "I won't last long. The saddle is done with me. Leave."
 
-Cynewulf turned cold and practical. "Our authority died on the wall with the banner. We stay, we die at the hands of whatever scout band they send, or whatever farmers claim the field. We have to make it back to the King's host and warn them. Then we can worry about what comes next. Strip what we can, we can sell everything after the King's news. We'll find our baggage in the train. We'll need it. We are the _Griffons_ now."
+Cynewulf turned cold and practical. "We stay, we die at the hands of whatever scout band they send. We have to make it back to the King's host and warn them. Then we can worry about what comes next. Strip what we can, we can sell everything after we give the King his news. We'll find our baggage in the train. We'll need it."
+
+He cinched the belt tight.
+
+"We are the _Griffons_ now."
 
 He didn't wait for an argument. He stood, the langseax heavy and unfamiliar at his hip, and walked toward the other wounded, who had fallen unconscious. He systematically started to remove his armor.
 
 "Here... take... mine," the remaining conscious wounded said. "And go..." he coughed more blood. 
 
-The two survivors who were still whole exchanged a look... a silent, hollow communion of men who had seen the end of the world and were now tasked with carrying the news. They didn't argue. They didn't pray. They simply stood and finished the stripping.
+The two survivors who were still whole exchanged a look. One bit his lip, the other shook his head. They simply stood and finished the stripping.
 
 Suits of mail, shields, spears, even a sword were loaded on to two of the horses. The one horse that was severely injured was stripped of its saddle, its halter, and bags. They were loaded as well.
 
@@ -66,7 +70,7 @@ Muninn: "I rather remember them tasting like regret with a hint of foolish pride
 
 Huginn: "Foolish pride? What does that taste like? "
 
-Muninn: "Wine every day  for three years, oil-blackened mail, black leathers, a torn silk banner, and a memoir written in six languages."
+Muninn: "Wine every day for three years, oil-blackened mail, black leathers, a torn silk banner, and a memoir written in six languages."
 
 Huginn: "Hmmm. I think I prefer chicken."
 
@@ -82,7 +86,7 @@ The King's guard drew spears and shields, alarmed at the sudden, ragged arrival 
 
 The herald of the King came running, screaming to the guard. "Hold! Hold! These are Griffons. The vanguard has returned!"
 
-The King's guard parted, and one took the reins of Cynewulf’s horse. The herald led him toward the center of the camp, his pace hurried and expectant. At the entrance to the royal pavilion, a guard stepped forward, his eyes lingering on the gore-stained mail. He confiscated Cynewulf's shield and the Frankish langseax. Only then was he allowed to enter.
+The King's guard parted, and one of the other riders took the reins of Cynewulf’s horse. The herald led him toward the center of the camp, his pace hurried and expectant. At the entrance to the royal pavilion, a guard stepped forward, and confiscated his weapons. Only then was he allowed to enter.
 
 The herald announced, "My liege, a rider from the _Griffons_ has returned with news!"
 
@@ -98,7 +102,7 @@ Cynewulf could barely contain himself. He dropped to his knees, crossed himself,
 
 He finally looked up. His eyes were like flint, devoid of pity. "Where is the banner, rider? And why does the vanguard smell of the grave?"
 
-"I barely saw the engagement, your grace. _Fer-Main_ split his forces. I was the diversion, sent to distract the ten at the gate. The rest found a gap to exploit, and committed. That's when the horde descended. The few in our number charged the gate to help the other _Griffons_ but it was too late. The number was beyond count, perhaps one hundred. _Fer-Main_ was pinned to the wall. There was nothing I could do."
+"I barely saw the engagement, your grace. _Fer-Main_ split his forces. I was the diversion, sent to distract the ten at the gate. The rest found a gap to exploit, and committed. That's when the horde descended. The few in our number charged the gate to help the other _Griffons_ but it was too late. The number was beyond count, one hundred, perhaps more. _Fer-Main_ was pinned to the wall. There was nothing I could do."
 
 "Except... save your skin."
 
@@ -128,11 +132,13 @@ He turned sharply, his eyes narrowing. "If you saw nothing of their commander, h
 
 Æthelstan slammed his fist into the table, his rings leaving small indentations on the hard oak. He did not look up. "I believe you," the King said, his voice a low, dangerous rumble.
 
-He finally raised his head, his eyes cold and dismissive. "Go. Join the baggage train. Speak of this to no one... not to the men, not to the camp followers, not to your God. If a single whisper of this 'horde' reaches the ranks, I will have your head. I expect you to be _absent_ at the next muster. We move in two dawns, and you are no longer part of this host."
+He finally raised his head, his eyes cold and dismissive. "Go. Join the baggage train. Speak of this to no one... not to the men, not to the camp followers, not to your God. If a single whisper of this 'horde' reaches the ranks, I will have your head. I expect you to be _absent_ at the next muster."
 
-Cynewulf stood, his body aching, his soul hollowed out. He turned and walked out of the pavilion, leaving the King to his maps and his secrets. His shield and langseax were returned by the King's guard. "But where is my horse? I left it here..." Cynewulf was confused. He had handed the horse off to the guard. "Your friends took it with them. They were off to the carts. They seemed eager."
+Cynewulf stood, his body aching, his soul hollowed out. He turned and walked out of the pavilion, leaving the King to his maps and his secrets. His shield and langseax were returned by the King's guard. "But where are the other two?"
 
-He found the baggage train in the dark on foot. He asked the drivers for news of the _Griffons_ wagons. He finally found a driver with news; two men arrived with an extra horse, saying that they were the last of the _Griffons_ and that they were heading back to Frankia. They bid the drivers move quickly, and they left. They took everything.
+"Your friends left to join the carts. They seemed eager."
+
+He found the baggage train and eventually someone who knew the fate of the wagons. Two men arrived with an extra horse, saying that they were the last of the _Griffons_ and that they were heading back to Frankia. They bid the drivers move quickly, and they left. They took everything.
 
 All Cynewulf had was his armor, a shield, and his langseax. He had no coin, no supplies, and now, no army or lord to hire him.
 
@@ -152,11 +158,9 @@ The Griffon survivors betrayed him.
 
 _Fer-Main_ threw his entire company away on a foolish charge.
 
-And Cynewulf's conscience begged to differ, when he told himself there was nothing he could have done to stop it.
+_There was nothing I could have done to stop it._
 
-When the army marched again, he couldn't go with it. The King's guard knew his face, and the King's order had a sense of finality. He had to find a new home.
-
-With the entire host moving north, he reasoned that the road's patrols would be thin. This was a good time to be a highwayman. He felt like a man with nothing left to lose. And he meant to find others like him. Others who didn't ask questions about his dark armor and leathers, or the black griffon paint on his shield.
+With the entire host moving north, he reasoned that the road's patrols would be thin. This was a good time for a man who knew how to separate silver from other men. And he meant to find others like him. Others who didn't ask questions about his dark armor and leathers, or the black griffon paint on his shield. His black shield.
 
 He headed south. He found them in the dark corners of the Midlands... men who had been chewed up by the same war and spat out by the same kings. They were a collection of broken things, warbands of ghosts who fought for silver because they had forgotten every other reason to fight.
 
@@ -276,7 +280,7 @@ _So sayeth the Wound._
 
 The thaw came in early March, turning the marsh into a treacherous, sucking mire. With the melting ice came the travelers.
 
-They arrived at dusk... a score of men and women, hard-eyed and mud-caked, their horses steaming in the damp air. They were a mercenary band, the kind that smelled of stale sweat and old violence. They weren't hard riders like the _Griffons Noirs_, nor as styled. They shared painted wool cloaks, a drawing of a red Welsh dragon on green ochre.
+They arrived at dusk... a score of men and women, hard-eyed and mud-caked, their horses steaming in the damp air. They were a mercenary band, the kind that brought violence and levity with equal measure. They weren't hard riders like the _Griffons Noirs_, nor as styled. They shared painted wool cloaks, a drawing of a red Welsh dragon on green ochre.
 
 They didn't ask for the Abbot’s blessing; they demanded the yard for their horses and the hearth for the warmth. But they provided a sack of grain for the church, an offering for everyone's bellies. And they did so with a right smile and easy candor.
 
@@ -286,9 +290,9 @@ One of them, a man with a scarred jaw and a cloak that had seen better decades, 
 
 "You look like a man who knows how to use that," the stranger grinned and pointed, his vowels rolling like stones in a river. He was gesturing to the langseax.
 
-Most of them were _Cymry_ skirmishers. They were warriors of the Powys hills who fought with a ferocity that made the Saxon house-carls look like statues.  They fought light on their feet, avoiding blows with just small shields and fast dodges.
+Most of them were _Cymry_ skirmishers. They were warriors of the Powys hills who fought with a ferocity that made the Saxon house-carls look like statues.
 
-They didn't line up for battle. They preferred to dance at the edges of shield walls to their own rhythm. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle distance, ranged skirmishers who taunted from afar and could never quite be caught. Against such men, a shield wall felt less like a fortress and more like a prison.
+They preferred to dance at the edges of shield walls rather than inside them. Instead of heavy armor, the _Cymry_ were walking arsenals. They were masters of the middle distance, ranged skirmishers who taunted from afar and could never quite be caught. Against such men, a shield wall felt less like a fortress and more like a prison.
 
 "We’re heading for Leicester. The Vikings are holed up, and there’s coin to be made in the breach."
 
@@ -304,7 +308,11 @@ Cynewulf was unsure of this Welshman. Cynewulf knew what it meant to be unprepar
 
 "If you take me in, I have experience in negotiation. I'm well-versed in Latin." Cynewulf felt the road open to him once more. He was eager to see where it led.
 
-"Good! We'll have you _negotiating_ with Latin curses to our enemies in no time!" The skirmisher's eyes widened. "Ha! You're acting like you even had a choice in the matter! My name is Madoc Bychan... Madoc the Younger. My parents had an older Madoc, but they kept him because he was the crazier one! I’m just the one who decided the world was too quiet, and all that crazy shouldn't be trapped in one family tree! Well, and they kicked me out. Welcome to the _Dannedd y Ddraig_! The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it's the only one backed by coin! I'd learn to speak to forest critters if it paid coin!"
+"Good! We'll have you _negotiating_ with Latin curses to our enemies in no time!" The skirmisher's eyes widened. "Ha! You're acting like you even had a choice in the matter! My name is Madoc Bychan... Madoc the Younger. My parents had an older Madoc, but they kept him because he was the crazier one! I’m just the one who decided the world was too quiet, and all that crazy shouldn't be trapped in one family tree!"
+
+He kicked a stone with his foot.
+
+"Well, and they kicked me out. Welcome to the _Dannedd y Ddraig_! The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it's the only one backed by coin! I'd learn to speak to forest critters if it paid coin!"
 
 The others greeted him with rough nods and claps on the shoulder, a warmth that felt like a brother in arms. They were quick to accept, but he imagined they were quick to turn if he crossed them.
 
@@ -369,3 +377,21 @@ Cynewulf had no ear for the song's rhythm, but it brought a smile, and made the 
 _The wound may close eventually. But that doesn't mean it is necessarily healed. Letting it stay healed is another matter. Picking at a scab invites an infection and a re-opening of the wound. But sometimes the itch is too hard to ignore._
 
 _So sayeth the Wound._
+
+---
+
+Huginn: "That's it. Time to learn another language. Make a challenge song. Let's see if I can keep up."
+
+Muninn: "I see and hear the raven starve."
+
+Huginn: "I already know English, Muninn."
+
+Muninn: "Way, oh way, beyond the sea."
+
+Huginn: "Wait... you're taking my job!"
+
+Muninn: "Mutton meat he did carve."
+
+Huginn: "You jerk!"
+
+Muninn: "Don't look my way, it wasn't me."

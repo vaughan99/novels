@@ -4,51 +4,61 @@ _The Road does not care for confessions, nor does it grant absolution. But it is
 
 _These are the lessons of the Road._
 
-For the first three days out of Leicester, Cynewulf carried a world of silver, or so it seemed. The boy's shield was hung over his back, and the axe he stole was stuffed into his belt. The sack of stolen church plate and goblets made his left hand numb with pain, while the small chest of coin rubbed his right hip raw. He wore the thegn's donated byrnie over his priestly woolens, the mail weighing down his every step. 
+For the first three days out of Leicester, Cynewulf carried a world of silver, or so it seemed. The boy's shield hung over his back, the axe rode awkwardly in his belt, and the sack of stolen church plate made his left hand numb while the chest of coin rubbed his right hip raw. He wore the thegn's donated byrnie over his priestly woolens, the mail dragging at every step.
 
-He troubled anyone who might have a bit of food, or a drink of water. He managed to pay a shepherd moving sheep on the road for a bit of dried lamb. He found water in a pond off the road, wet from the spring rain. That didn't last long, though. He slept on the dirt, off the road. He never understood just how exhausting travel can be. He knew working the bell pits had made him strong, but nothing prepared him for this.
+He troubled anyone who might have food or water. A shepherd moving sheep along the road sold him a little dried lamb. Spring rain had filled a pond nearby, though the water did little for his thirst once it was gone. At night he slept in the dirt beside the Road.
 
-On that first day, he was a man reborn. Three days later, he knew the ache of distance, the tyranny of weight, and the slow cruelty of time. He knew the true nature of hunger and the cracked feeling of thirst. His feet even taught him that shoes made for a church were not made for the Road.
+The bell-pits had made him strong, but they had not prepared him for distance. On that first day he had been a man reborn. Three days later, he knew the tyranny of weight, the slow cruelty of time, and the cracked misery of thirst. His feet taught him that shoes made for a church were not made for the Road.
 
 He had many stories in his mind.
 
-_He had lived none of them._
+He had lived none of them.
 
-On the fourth day, near the edge of the Rutland woods, the Road asked him with another question: _What do you do when others want what you have?_
+On the fourth day, near the edge of the Rutland woods, the Road asked him another question:
 
-Three men stepped from the hazel scrub. They did not look like the fierce _Ulfhednar_ who had burned his church; they looked like hungry wet dogs. They wore boiled leather patches and carried rusted boar-spears. Their leader was a squint-eyed Saxon with a broken nose and a laugh like dry gravel.
+What do you do when others want what you have?
 
-Cynewulf, still carrying the easy confidence of a young priest who commanded a parish, did not run. He did not even raise his shield. Instead, he stood tall, adjusted the heavy sack on his shoulder, and smiled.
+Three men stepped from the hazel scrub. They did not look like the fierce Ulfhednar who had burned his church; they looked like hungry wet dogs. They wore patches of boiled leather and carried rusted boar-spears. Their leader was a squint-eyed Saxon with a broken nose and a laugh like dry gravel.
 
-"God’s peace upon you, brothers," Cynewulf said, his voice carrying the resonant, practiced pitch of the pulpit. "The shires are in ruin, and the Danes ride south. I am a man of... versatile talents. I have steel, I have mail, and I have the favor of the Almighty. I seek a company of stout men to walk with."
+Cynewulf, still carrying the easy confidence of a young priest accustomed to commanding a parish, did not run. He did not even raise his shield. Instead, he stood tall, adjusted the heavy sack on his shoulder, and smiled.
 
-The three bandits stared at him. Then, the squint-eyed leader looked at the heavy, bulging sack. He looked at the faint, pale ring around his crown where his tonsure was starting to grow out.
+"God's peace upon you, brothers," Cynewulf said, his voice carrying the resonant, practiced pitch of the pulpit. "The shires are in ruin, and the Danes ride south. I am a man of... versatile talents. I have steel, I have mail, and I have the favor of the Almighty. I seek a company of stout men to walk with."
 
-The leader burst into a wet, hacking laugh. The others joined in, howling at the sky.
+The three bandits stared at him.
+
+The squint-eyed leader looked at the bulging sack, then at the pale ring around Cynewulf's crown where his tonsure was beginning to grow out.
+
+He burst into a wet, hacking laugh. The others joined him.
 
 "A priest?" the leader spat, wiping his nose on his sleeve. "A holy clerk in a dead man's shirt. Tell me, Father, did the bishop beg you to take the silver out to get cleaned, or was it the Almighty himself?"
 
-"I am no longer a priest," Cynewulf said, his blood running suddenly cold. He dropped the chest to set his hand on the axe in his belt. He gripped the axe tight, but his knuckles were white and trembling. "I've left that life behind. I'm..."
+"I am no longer a priest," Cynewulf said, his blood suddenly cold. He dropped the chest and set his hand on the axe in his belt. His grip tightened, though his knuckles trembled. "I've left that life behind. I'm..."
 
-The leader cut him off. "You're a thief, and a liar. Around here, we're honest bandits. Aren't we lads?"
+The leader cut him off. "You're a thief and a liar. Around here, we're honest bandits. Aren't we, lads?"
 
-"Of course," they agreed. "Most definitely."
+"Of course," one said.
 
-The leader continued. "No, sorry. We have no room for thieves..."
+"Most definitely," said another.
 
-"And liars..." the next one repeated.
+"No, sorry," the leader continued. "We have no room for thieves..."
 
-"And manicured hands," the final one said.
+"And liars..."
 
-The leader finished, "No, we're all filled up." He stepped forward, his spear-point leveling at Cynewulf’s throat. "Leave the sack. Leave the chest. Run back to your altar, little clerk, before we see if your blood runs as red as sacramental wine."
+"And manicured hands," the third added.
 
-Cynewulf’s mind raced. The "ember-hate" of his youth flared, but so did the cold, hard instinct of survival. He looked at the three spears.
+The leader stepped forward, leveling his spear at Cynewulf's throat. "We're all filled up. Leave the sack. Leave the chest. Run back to your altar, little clerk, before we see if your blood runs as red as sacramental wine."
 
-With a grunt, he swung the heavy sack of silver directly into the leader's face. The metal clattered hard against bone, sending the man sprawling into the mud. Before the other two could react, Cynewulf turned and bolted into the thicket.
+Cynewulf's mind raced. The ember-hate of his youth flared, but so did the cold instinct of survival. He looked at the three spears.
 
-He ran until his lungs burned like the bell-pit. He kept his byrnie, his axe, and his shield, clutching them to his chest like holy relics. Behind him, the bandits did not pursue; their laughter echoed through the trees, rich and mocking, as they counted their easy wealth.
+With a grunt, he swung the heavy sack of silver into the leader's face.
 
-Cynewulf collapsed into a ditch of rotting leaves, weeping not for his sins, but for the boy who still believed stories were enough.
+Metal clattered against bone. The man sprawled into the mud.
+
+Before the other two could react, Cynewulf turned and bolted into the thicket.
+
+He ran until his lungs burned like the bell-pit, keeping his byrnie, axe, and shield clutched to him like holy relics. The bandits did not pursue. Their laughter followed him through the trees as they counted their easy wealth.
+
+Cynewulf collapsed into a ditch of rotting leaves, weeping not for his sins, but for the boy who had believed stories were enough.
 
 _On the Road, there are only those who eat and those who are eaten. You may look like a mark. You may even be a mark. Whether you act like one is entirely up to you._
 
@@ -56,131 +66,209 @@ _So sayeth the Road._
 
 ---
 
-Huginn: "Does he realize that, on the road, that's just the equivalent of losing your luggage?"
+Huginn: "Alright Muninn, give me all your sandwiches."
 
-Muninn: "And your wallet! And your debit card. And your passport. He lost the chest of silver, Huginn! That's huge."
+Muninn: "You're not a highwayman... or a highway raven either."
 
-Huginn: "I count my wallet as part of my luggage. It's like a teeny little suitcase."
+Huginn: "But you promised me sandwiches."
 
-Muninn: "You don't own a wallet. You don't carry coins. As a matter of fact, you've never paid for lunch once in your life."
+Muninn: "I suggested a lunchbox. It's not the same thing."
 
-"And why should I?" Huginn retorted, puffing out his chest. "I just follow the smell of dead people. It’s a much more reliable business model than whatever he’s doing."
+Huginn: "Wait a minute. Around here, we're honest bandits. And I think you just stole the lunch you promised me."
 
 ---
 
 The year that followed was a slow, grinding rot.
 
-Cynewulf learned to live like a beast. The bell-strong deacon of Leicester withered away, replaced by a lean, hollow-cheeked creature with dirt ground into the pores of his face and lice nesting in his matted hair.
+Cynewulf learned to live like a beast. The bell-strong deacon of Leicester withered away, replaced by a lean, hollow-cheeked creature with dirt worked into the pores of his face and lice nesting in his matted hair. He slept in the hollows of fallen oaks and survived on wild onions, stolen eggs, and whatever else the Road failed to hide from him.
 
-The Road taught him lessons that no priest could ever preach. He lived like a scavenger at first, sleeping in the hollows of fallen oaks and surviving on raw wild onions and the stolen eggs of ground-nesting birds.
+By summer he had fallen in with five desperate outlaws. When they ambushed a merchant near Nottingham, his new "brothers" vanished the moment the guards drew steel, leaving Cynewulf to drag a wounded leg through the brambles alone.
 
-By summer, he had fallen in with a desperate band of five outlaws, but when they ambushed a merchant near Nottingham, his "brothers" vanished the moment the guards drew steel, leaving him to drag a wounded leg through the brambles alone. He never trusted a partner again.
+He never trusted a partner again.
 
-When fall arrived, the cold became a more persistent enemy than the Danes. He stole a sheep to prepare for winter, knowing that a sheep's skin might keep him from losing his toes. He took up with three other small bands, staying only long enough to share a meal and a theft, slipping away in the dead of night before they could cut his throat for his armor.
+When autumn came, he stole a sheep for its skin and joined other small bands only long enough to share a meal and a theft, slipping away before anyone decided his armor was worth more than his company. He still knew little of war. Standing silently with an axe was often intimidation enough to earn a little coin, but he remained a small sinner in a wide world, scavenging scraps left behind by the great lords of violence.
 
-He still didn't know war or even combat; he knew that standing silently with an axe in your hand was intimidation enough to earn a little coin. But he was still a small sinner in a wide world. A scavenger eating the scraps left by the great lords of war.
+Every time Cynewulf packed his belongings before fleeing another camp, he remembered helping his father prepare for journeys.
 
-Every time he packed his belongings in the night to flee another band, he thought of helping his father prepare for yet another journey. As a boy, he had watched only the tools: the adze wrapped in cloth, the chisels oiled against rust, the measuring cords carefully coiled. He had paid no mind while Godric bartered for space on a wagon, counted dried provisions and waterskins, spoke quietly with guards, or waited another day for a larger company to gather. Those had seemed the dull chores that delayed the adventure.
+As a boy, he had watched only the tools: the adze wrapped in cloth, chisels oiled against rust, measuring cords carefully coiled. He had scarcely noticed Godric bartering for wagon space, counting dried provisions and waterskins, speaking quietly with guards, or waiting another day for a larger company to gather.
 
-Only now did he understand that **those had been the journey**.
+Those had seemed the dull chores that delayed the adventure.
 
-That changed in November of 933 AD, near the salt-marshes of the Humber. For days, he had nervously been asking his own question of the Road: _How will I survive winter?_
+Only now did Cynewulf understand that those had been the journey.
+
+That changed in November of 933 AD, near the salt-marshes of the Humber. For days, he had nervously been asking his own question of the Road:
+
+How will I survive winter?
 
 He saw them riding through the grey mist: forty men on heavy, destrier-bred horses, clad in mail blackened with oil to hide the glint of steel. They were not Saxons, nor Danes. They were Franks, mercenaries who had traded the vineyards of the Seine for the mud of the Danelaw.
 
-They carried no banners save one tattered standard: a black griffon, wings spread, its rust-red talons gripping a sword. They were the _Griffons Noirs_, led by a man named only _Fer-Main_.
+They carried no banners save one tattered standard: a black griffon, wings spread, its rust-red talons gripping a sword.
 
-Cynewulf did not offer them God’s peace. He did not ask to join them.
+They were the Griffons Noirs, led by a man known only as Fer-Main.
 
-Instead, when three of the _Griffons Noirs_ scouts cornered him in a ruined salt-pan, Cynewulf did not run. On their horses, they would cut him down instantly.
+Cynewulf did not offer them God's peace.
 
-He held his shield high, axe at the ready, and stood his ground. One of the scouts probed his shield with a spear, to test the reaction. Cynewulf retreated a step. He stared at the scout with hungry, desperate eyes. The scouts looked at each other and smiled.
+He did not ask to join them.
 
-_Fer-Main_ himself rode up, watching the action from atop his black stallion. He did not laugh. He only looked at Cynewulf’s hollow eyes, the matted hair, and the cold, dead way he held his axe. He held up his hand, and the scouts backed away.
+Instead, when three Griffons Noirs scouts cornered him in a ruined salt-pan, Cynewulf held his shield high and his axe ready. On horseback, they could cut him down the instant he ran.
 
-"You have the look of a man who has nothing left to lose, except your kit" _Fer-Main_ said, his voice flat and heavily accented, but very precise. "And nothing he won't do to keep it. Tell me, are there more of you? Be honest. Whatever you imagine, we are more."
+One of the scouts probed his shield with a spear. Cynewulf retreated a step but kept his footing, staring back with hungry, desperate eyes.
 
-Cynewulf trained his stare on _Fer-Main_. "I'm alone."
+The scouts looked at each other and smiled.
 
-_Fer-Main_ shifted in his saddle, and betrayed a half-smile. "Good. A Saxon on the road with dirty mail and hunger in his eyes. Some call me a merciful father, some call me butcher. Shall I take you into my house, or strip you bare for the ravens? I see you stood your ground. With a word, my men would not hesitate to kill you. And yet, there you stand."
+Fer-Main rode up on a black stallion and watched. He did not laugh. He studied Cynewulf's hollow eyes, matted hair, and the cold way he held his axe, then lifted one hand.
 
-Cynewulf spat a mouthful of salty mud. "I have an axe. And I am hungry."
+The scouts backed away.
 
-_Fer-Main_ nodded once. "We're riding north. Can you seat a horse?"
+"You have the look of a man who has nothing left to lose except his kit," Fer-Main said in precise, heavily accented English. "And nothing he won't do to keep it. Are there more of you? Be honest. Whatever you imagine, we are more."
 
-Cynewulf looked at the stallion, then at the _Griffons Noirs_ men. "I can learn."
+Cynewulf trained his stare on him.
 
-"Good," _Fer-Main_ said, turning his horse. "Follow us. When was the last time your mail saw oil, or a sand barrel? See the armorer when we next camp. You'll have to sleep in the open and earn your keep. If you survive."
+"I'm alone."
 
-The _Griffons Noirs_ had a few wagons at the back of their train for supplies and pavilions. Cynewulf ran to try to catch a wagon, but even it was too fast for his tired legs, and it didn't slow for him.
+Fer-Main shifted in his saddle, betraying half a smile. "Good. A Saxon on the Road with dirty mail and hunger in his eyes. Some call me a merciful father. Some call me butcher. Shall I take you into my house, or strip you bare for the ravens? My men would kill you with a word from me. And yet there you stand."
 
-He followed the trail of the host and found their camp three hours later, as dark was settling in. The men and horses were fed, and setting up for sleep. There was no meal left. Cynewulf found empty bones to gnaw on, and crusts of bread that had fallen from their meal.
+Cynewulf spat salty mud from his mouth.
 
-He curled up in the mud near the perimeter, his axe gripped in his hand, watching the black-clad figures move like ghosts through the firelight. He was a scavenger in a pack again, but this pack was like no other he had seen.
+"I have an axe. And I am hungry."
 
-One of the men kicked him awake. He had been asleep scarcely an hour, and the Frankish soldier told him something in Frankish. He studied the confused look on Cynewulf's face, and switched tone. "Guard duty. All night." His accent was thick and barely understandable.
+Fer-Main nodded once. "We're riding north. Can you seat a horse?"
 
-The soldier pointed to a small group of professionals waiting to sit by the fire with him. They didn't look friendly.
+Cynewulf looked at the stallion, then at the mounted men.
 
-Wanting to make an impression, he stood as fast as he could, and gathered his axe and shield. He quickened his step to meet the guards. They laughed in the firelight at him... he didn't understand their language.
+"I can learn."
 
-They oinked at him, gesturing at his mail and the mud caked into the links. They spat the word _“Porc!”_ at him, their voices dripping with derision. They mocked the way he carried himself, the way he looked like a man who had spent too long in the ditches.
+"Good. Follow us. See the armorer when we camp. Your mail is filthy. You'll sleep in the open and earn your keep, if you survive."
 
-His ember-hate grew, hot and familiar, but he smothered it. He didn't need their respect; he needed a place to exist. He needed to prove he was more than the mud-caked scavenger they saw.
+The Griffons Noirs had supply wagons trailing their column. Cynewulf ran after one, but even the wagon outpaced his exhausted legs. Three hours later he found their camp as darkness settled.
 
-His mind raced, searching for the bridge between the gutter and the gate. He tried Latin... the language of the altar, the law, and the men who actually held the power.
+The men had already eaten.
 
-_"Quid vis ut faciam?"_ he asked, his voice steady, the vowels crisp and authoritative against the rough camp-noise. _"Quomodo tibi prodesse possum?"_
+Cynewulf gnawed what meat remained on discarded bones and found a few crusts of bread. Then he curled in the mud near the camp's edge, axe in hand, watching the black-clad figures move through the firelight.
 
-The laughter died. The guards exchanged a confused look, their hands drifting away from his mail. They had expected a grunt or a snarl from a stray dog; they hadn't expected the measured, rhythmic cadence of a man who had once stood in the nave of a church.
+He was a scavenger in a pack again.
 
-He watched the shift in their eyes. He wasn't a pig anymore. He was a curiosity. And in the economy of the Road, curiosity was the first step toward utility.
+But this pack was unlike any he had known.
 
-_Did they understand? Or did I just confuse them?_ It wasn't clear. But their tone changed to one of demands. "Water!" said one, demanding fresh water for his watch. "There!" another pointed. He wanted Cynewulf to watch the shadows in a certain direction.
+A soldier kicked him awake scarcely an hour later and barked something in Frankish. The confusion on Cynewulf's face made him try again in thick English.
 
-Another watch finally came to relieve them just before daybreak. Cynewulf went back to his sleeping patch, tired from sleep deprivation.
+"Guard duty. All night."
 
-As the morning wore on, he woke to the sound of a meal being prepared. The light was already cresting the horizon, and the camp cooks were busy distributing loaves and boiled eggs to the host. Cynewulf watched the men line up, his stomach twisting with a hunger that had been his only constant companion for a year. He approached the end of the line, bracing for a shove or a blow.
+Several professionals waited beside a fire.
 
-Nobody stopped him. Nobody shoved him.
+Cynewulf gathered his axe and shield and hurried toward them, eager to show that he could be useful.
 
-He received a curled eyebrow from the quartermaster, then a wooden plate holding a bread crust and two eggs. He was handed a mug of warmed, watered-ale. He didn't savor it; he inhaled it all, the heat of the ale and the salt of the eggs grounding him in the reality of his new life. He was a scavenger no longer. He was a mercenary.
+They laughed.
 
-Sitting in the dirt, he heard the approach of mailed stirrups and scabbards brushing on cloaks. _Fer-Main_ was paying him a visit. Behind him, was the sergeant of the watch the night before.
+They oinked at him, gesturing toward his mail and the mud caked between its links.
 
-Cynewulf jumped to his feet, eager to thank his new lord. _Fer-Main_ cut him off instantly.
+"Porc!"
 
-_"Cūr mihi nōn dīxistī tē Latīnē loquī?"_ he said, his voice low. _"Nōn possum ubīque esse, cum sacerdōtibus et prīncipibus pācta faciens. Saepe nōs fraudāre cōnantur. Opus mihi est aliquō quī verba eōrum interpretārī et iūra nostra dēfendere possit. Intellegis?"_
+His ember-hate stirred, hot and familiar, but Cynewulf smothered it. He did not need their respect. He needed a place to exist, and respect could come later.
 
-_(Why didn't you tell me you speak Latin? I can't be everywhere, making agreements with priests and princes. They often try to cheat us. I need someone who can interpret their words and defend our rights. Understand?)_
+His mind searched for a bridge between the gutter and the gate.
 
-Cynewulf's mind flared. His Latin was useful, truly useful to the _Griffons Noirs_. "_Intellegō. Gratias ago_," he replied.
+He tried Latin.
 
-_(I understand. Thank you.)_
+"Quid vis ut faciam? Quomodo tibi prodesse possum?"
 
-_Fer-Main_ switched to Old English. His accent was precise, his cadence unnervingly perfect, as if he had spent hours practicing the vowels in the dark of his tent. "Good, but _do not thank me_. You are here to keep us alive and paid. I'm here to keep _all of you alive_. Save your gratitude for the man who takes a spear for you. And... your mail is dirty. Black oil, sand. Over there."
+The laughter died.
 
-He pointed toward the armorer's tent, which was already being folded for the day's march. "I _do not repeat myself_ Saxon. I do not tolerate rust. I do not tolerate incompetence. Rusty mail means an early grave."
+The soldiers looked at one another. They had expected grunts from a stray dog, not the careful cadence of a man who had once stood in a church nave.
 
-_Fer-Main_ turned to leave. "I know six languages. I'll give you wine from my tent if you can teach me a seventh." He did not smile. His seriousness cut like a razor. "Or teach me something I don't already know."
+Cynewulf watched their expressions change. He was not a pig anymore.
 
-Without hesitating, Cynewulf responded: "The secrets of the scriptorium?"
+He was a curiosity.
 
-_Fer-Main_ went still. "Explain."
+And in the economy of the Road, curiosity was the first step toward utility.
 
-Cynewulf didn't flinch. "You fight for coin, but you are always at the mercy of the men who write the contracts. You are always the outsider. A scriptorium remembers names, records debts, carries letters farther than horses, and speaks to every bishop and ealdorman before your company ever arrives."
+Did they understand? Or did I merely confuse them?
 
-He continued, "Before I was a priest, I made casting molds, and poured bells. I know the temper of metal. I cannot forge a deed to a kingdom; the king's clerks would have our heads on spikes within a season. But I can forge a safe-conduct from a bishop that will get your forty horses past a toll-bridge for free. I can forge a requisition order that will make a monastery open its granaries to feed your men, believing they are serving the King's business. We do not use it to steal empires. We use it to buy time, save silver, and slip through the gates before they even know we were there."
+He couldn't tell. But their tone changed from mockery to demands.
 
-The captain’s eyes narrowed, a flicker of genuine, predatory interest crossing his face. He didn't ask if it was moral; he only saw the utility.
+"Water!" one said, pointing toward a skin.
 
-"Our own scriptorium." _Fer-Main_ repeated, the word tasting like iron on his tongue. "Very well, Priest. We shall see if you are as useful as you are bold. What do you need?"
+"There!" another ordered, showing Cynewulf where to watch the darkness.
 
-Cynewulf gave his list. _Fer-Main_ left without saying a word.
+Another watch relieved them shortly before dawn.
 
-Cynewulf approached the armorer about his mail. He removed his mail coat and put it in a sand barrel for the day's march, the rhythm of the wagon forcing the sand into every link. Once the day's march was done, it would be prepared for oil, and torching to bring out the black.
+Cynewulf returned to his patch of earth and slept until the smell of food woke him. The cooks were distributing bread and boiled eggs, and he joined the end of the line expecting someone to shove him away.
 
-Cynewulf, his joints aching, helped pack up the camp. When they left, Cynewulf found a space on the wagon next to the barrel with his mail. He ensured that it turned every so often to keep the wear on his mail even. He heard the hiss of the sand against the links, with every bump, every rut and every turn. His mail, like his spirit, was being scoured by the grit of the Road.
+Nobody did.
+
+The quartermaster gave him a raised eyebrow, then a wooden plate with bread and two eggs, followed by a mug of warmed, watered ale. Cynewulf swallowed it almost without chewing, the salt and warmth grounding him in the reality of his new life.
+
+For the moment, at least, the pack had decided to feed him.
+
+That was enough.
+
+Later that morning, mailed stirrups and scabbards announced Fer-Main's approach. The sergeant of the night's watch came with him.
+
+Cynewulf rose, ready to thank his new lord.
+
+Fer-Main cut him off.
+
+"Cūr mihi nōn dīxistī tē Latīnē loquī? Nōn possum ubīque esse, cum sacerdōtibus et prīncipibus pācta faciens. Saepe nōs fraudāre cōnantur. Opus mihi est aliquō quī verba eōrum interpretārī et iūra nostra dēfendere possit. Intellegis?"
+
+(Why didn't you tell me you speak Latin? I can't be everywhere, making agreements with priests and princes. They often try to cheat us. I need someone who can interpret their words and defend our rights. Understand?)
+
+Cynewulf's mind flared.
+
+His Latin was useful.
+
+Truly useful.
+
+"Intellegō. Gratias ago."
+
+(I understand. Thank you.)
+
+Fer-Main switched to English. "Good, but do not thank me. You are here to keep us alive and paid. I'm here to keep all of you alive. Save your gratitude for the man who takes a spear for you."
+
+He looked at Cynewulf's byrnie.
+
+"And your mail is filthy. Black oil, sand. Over there."
+
+He pointed toward the armorer's tent.
+
+"I do not repeat myself, Saxon. I do not tolerate rust. I do not tolerate incompetence. Rusty mail means an early grave."
+
+Fer-Main turned away, then paused.
+
+"I know six languages. I'll give you wine from my tent if you can teach me a seventh. Or teach me something I don't already know."
+
+His seriousness cut like a razor.
+
+Without hesitating, Cynewulf said:
+
+"The secrets of the scriptorium."
+
+Fer-Main went still.
+
+"Explain."
+
+"You fight for coin, but you are always at the mercy of the men who write the contracts. You are always the outsider. A scriptorium remembers names, records debts, carries letters farther than horses, and speaks to bishops and ealdormen before your company ever arrives."
+
+Cynewulf continued.
+
+"I was a bell-caster before I was a priest. I know molds and metal, and I know the documents priests trust. I cannot forge a deed to a kingdom without getting us all hanged, but a safe-conduct from a bishop can move forty horses past a toll bridge. A requisition can open a monastery granary. We don't steal empires with them. We buy time, save silver, and get through gates before anyone knows we shouldn't."
+
+The captain's eyes narrowed with genuine, predatory interest.
+
+He did not ask whether it was moral.
+
+He saw the utility.
+
+"Our own scriptorium," Fer-Main said. "Very well, Priest. We shall see whether you are as useful as you are bold. What do you need?"
+
+Cynewulf gave him a list.
+
+Fer-Main left without another word.
+
+Cynewulf reported to the armorer. His mail went into a sand barrel lashed to a wagon, where the day's jolting march would grind dirt and rust from every link before the coat was oiled and blackened.
+
+He found a place on the wagon beside it and listened to the sand hiss with every rut and turn of the Road.
+
+His mail, like his spirit, was being scoured by grit.
 
 _To lead a pack, you must give others a reason to follow. To remain in a pack, give them a reason to keep you. The Road's ditches wait for those who gave no one a reason to keep them._
 
@@ -192,23 +280,23 @@ Huginn: "See? Latin! I knew it! It's the magical language!"
 
 Muninn: "There is nothing magical about Latin."
 
-Huginn: "_Lingua Latīna tam magica est ut etiam unicorni eam statim discant!_"
+Huginn: "Lingua Latīna tam magica est ut etiam unicorni eam statim discant!"
 
 Muninn: "There are no unicorns. And even if there were, they wouldn't learn Latin from birth."
 
-Huginn: "_Quidquid Latine dictum sit altum videtur._"
+Huginn: "Quidquid Latine dictum sit altum videtur."
 
 Muninn: "No, not everything said in Latin sounds profound."
 
-Huginn: "_Ave, parvī hominēs!_"
+Huginn: "Ave, parvī hominēs!"
 
 Muninn: "Just because you greet them as little humans in Latin doesn't make them understand..."
 
-Huginn: "_Ego sum corvus pulcherrimus._"
+Huginn: "Ego sum corvus pulcherrimus."
 
-Muninn stared. "Wrong. _I_ am the most handsome raven. Ditch-meat with feathers is not handsome."
+Muninn stared. "Wrong. I am the most handsome raven. Ditch-meat with feathers is not handsome."
 
-Huginn: "_Lorem ipsum dolor sit amet..._"
+Huginn: "Lorem ipsum dolor sit amet..."
 
 Muninn: "That's not proper Latin. It's mangled Cicero. Programmers use it as placeholder text."
 
@@ -216,77 +304,158 @@ Huginn: "Exactly! Even programmers know Latin makes things sound important!"
 
 ---
 
-For a few months, Cynewulf trained with the _Griffons Noirs_ and their arms master as they slowly traveled to Canterbury. He earned every bruise and cut, every hurt feeling and every backhand. His frustration often boiled over, his ember-hate flaring like a guttering candle, but the master was an absolute professional.
 
-He didn't lecture or preach; he let his fists do the teaching, hammering the pride out of Cynewulf until only a semblance of a soldier remained. It was a brutal, wordless education.
+For the next few months, Cynewulf trained with the Griffons Noirs as they slowly traveled toward Canterbury.
 
-To act as the face of the company, he was gifted black fur-trimmed clothing, access to soap, and the use of a strong pony. He spent hours every week in _Fer-Main’s_ pavilion, reporting on negotiations. _Fer-Main_ was a demanding lord, but fair. They would spend moments over wine discussing the campaign or the distant, sun-drenched life back in Frankia.
+He earned every bruise, cut, wounded pride, and backhand. His ember-hate often flared under the attention of the arms master, but the man was an absolute professional. He did not lecture or preach; his fists did the teaching, hammering Cynewulf's pride down until something resembling a soldier began to emerge.
 
-Cynewulf hatched a plan that would make any bell-caster proud. All he needed to forge a bulla die was a particularly deep two-sided impression. If he could get the Archbishop of Canterbury, or one of his functionaries, to press the bulla dies very hard into a thick disk of lead that held crisp at the edges, the resulting impression would be deep and moldable.
+Because Cynewulf increasingly acted as the company's face, he was given black, fur-trimmed clothing, access to soap, and use of a strong pony. He spent hours in Fer-Main's pavilion reporting on negotiations, sometimes remaining afterward over wine while the captain discussed the campaign or the distant, sun-drenched life of Frankia.
 
-The disk had to be perfect though. Lead tends to spread at the edges of imprints, making it inferior for a negative for a die cast. Cynewulf worked with the smith, with access to rarer metals, to craft an alloy. Several trials and failures. Finally, his last try: lead, a bit of tin, a bit of antimony.
+Meanwhile, Cynewulf worked on something else.
 
-To test, he used a silver penny. He placed the coin between two scraps of his new alloy and struck it with the hammer. When he pulled the metal apart, the King’s profile stared back at him: every strand of hair, every letter of the legend, perfectly mirrored in the grey, hardened lead. It was a perfect strike.
+He had promised a scriptorium.
 
-Cynewulf next prepared a request for help, from the remote parish of St. Odile-of-the-Silt. It was a small parish in the Fens, a land of grey water and shifting silt. The small parish had one formerly retired priest, a shack of a church with a driftwood crucifix, and a flock of a paltry twenty souls. It was dedicated to the ministry to the blind, and half the parishioners suffered from the affliction.
+A bell-caster understood impressions.
 
-It was also a complete fabrication.
+To counterfeit an ecclesiastical seal, Cynewulf first needed a deep, clean copy of the original dies. Ordinary lead spread too readily under a heavy strike, so he worked with the company smith through several alloys until a little tin and antimony stiffened the metal enough to hold a sharp edge.
 
-He spent three days perfecting the script, ensuring the Latin was archaic and the tone appropriately desperate. He didn't just write a petition; he built a world.
+To test it, Cynewulf placed a silver penny between two scraps of the new alloy and struck them together.
 
-He knew that if he made the parish too prosperous, the clerk would be suspicious; if he made it too large, the clerk would demand a census. But twenty souls? A driftwood cross? And St. Odile, the patron saint of the blind. It was the perfect, pathetic portrait of a forgotten corner of Christendom. It was a lie so small and so sad that no one would ever bother to check if it were true.
+When he separated the pieces, the king's profile stared back at him in perfect reverse: every strand of hair, every letter of the legend caught in grey metal.
 
-```
+Now he needed someone to strike an archbishop's seal into it.
+
+For that, Cynewulf invented a parish.
+
+St. Odile-of-the-Silt.
+
+It lay, according to Cynewulf, somewhere in the Fens, where grey water swallowed roads and spring floods worried at the graves. It had a shack of a church, a driftwood crucifix, an elderly priest named Godwin, and a flock of twenty souls, many of them blind.
+
+It was entirely fictional.
+
+Cynewulf spent three days perfecting its history and petition. He did not merely write a lie; he built a small, miserable world that no important churchman would ever have reason to visit.
+
+Twenty souls were too few for anyone to demand a proper accounting. The parish was too poor to inspire greed. Its patron, St. Odile, ministered to the blind.
+
+Most importantly, Cynewulf gave the blind a reason to need an unusually deep seal.
+
+He wrote:
+
 To the Most Reverend Office of the Archbishop,
 
-We, the humble flock of St. Odile-of-the-Silt, write to you from the edge of the world. Our parish is a sanctuary for those whom the Lord has seen fit to shroud in darkness... the blind who have nowhere else to turn in these harsh marshes.
+We, the humble flock of St. Odile-of-the-Silt, write from the edge of the world. The spring floods have breached our churchyard, and the graves of our ancestors are being washed into the silt. We lack the funds to build a stone revetment and humbly petition the Archbishop for a formal decree of Relocation of Sanctity, allowing us to move the remains to higher ground.
 
-The spring floods have breached our churchyard, and the graves of our ancestors are being washed into the silt. We lack the funds to build a stone revetment. We humbly petition the Archbishop for a formal decree of 'Relocation of Sanctity,' allowing us to move the remains to higher ground without violating the sanctity of the dead.
+Our flock lives in a world of touch and prayer. We ask that you press the seal into the disk provided with this petition so that our blind brothers and sisters may feel the face and name of the Archbishop and know that their petition was heard.
 
-Our flock lives in a world of touch and prayer. We humbly ask that you press the seal into the disk provided with this petition, so that our blind brothers and sisters may feel the face and the name of the Archbishop, and know in their hearts that their petition was heard, and that their ancestors shall rest in peace.
+We have also sent our humble sum of twenty-three pieces of silver, our tithes for the season.
 
-We have also sent our humble sum of twenty-three pieces of silver, our tithes for the season. Please ensure that the messenger delivers the purse.
-
-Signed,  
-Father Godwin,  
+Signed,
+Father Godwin,
 St. Odile-of-the-Silt
-```
 
-Cynewulf didn't seek out the head of the scriptorium. He sought out the man with the most ink-stained fingers and the deepest bags under his eyes. A clerk who looked as though he hadn't seen the sun in a week.
+Cynewulf did not seek out the head of Canterbury's scriptorium.
 
-He approached with the practiced humility of a man who had walked a hundred miles in the service of the faith. He spoke of the Fens, of the grey, shifting silt, and of the twenty souls at _St. Odile-of-the-Silt_ who lived in a world of perpetual shadow. He didn't ask for a favor; he asked for a mercy.
+He looked for the man with the most ink on his fingers and the deepest bags beneath his eyes.
 
-"I am but a traveler, passing through on my way back to the marshes," Cynewulf said, his voice low and urgent. "The priest, Father Godwin, is an old man. He fears the floods will take the churchyard before the month is out. If you could grant this petition, I would carry the Archbishop’s blessing back to them myself. It would be a kindness that would outlive us both."
+He found a clerk who appeared not to have seen sunlight in a week.
 
-He placed the petition on the desk, and beside it, the small, carefully prepared disk of thick lead alloy, and a purse of twenty-three pieces of silver.
+Cynewulf approached with the practiced humility of a man who had walked a hundred miles in service of the faith. He spoke of the Fens, the shifting silt, the flooded graves, and twenty souls who lived in perpetual shadow.
 
-The clerk looked at the petition, then at the disk, then at the purse, and finally at the weary, pious man standing before him. He was tired, he was behind on his work, and the request was so small, so sad, and so utterly harmless. He didn't want to be the man who denied the blind their comfort.
+He did not ask for a favor.
 
-He took his pen, dipped to ink, and wrote in the margins: 'Allowed'. He took the seal tongs and positioned the disk on the bottom of the page, along with a string as a tamper-mark. Usually, he would tap a hammer to the tongs on the disk, to make a faint impression.
+He asked for mercy.
 
-"I beg you," said Cynewulf. "Sister Edith is particularly old, and her fingers are weathered. If she doesn't feel the face of the archbishop, she'll think we've failed her family. Please, strike with conviction. For Edith. For her family."
+"I am only a traveler, passing through on my way back to the marshes," Cynewulf said quietly. "Father Godwin is an old man. He fears the floods will take the churchyard before the month is out. If you grant this petition, I will carry the Archbishop's blessing home myself. It would be a kindness that outlives us both."
 
-The clerk raised his hammer high, and brought it down with the force of Thor himself. CLANG! His desk shook. The other clerks stopped and peered, but otherwise were not impressed. The mark was deep and crisp. "Go," the clerk muttered, already reaching for the next stack of papers. "And tell Father Godwin the Archbishop hears his flock. Tell Edith the Archbishop smiles just for her."
+He placed the petition on the desk.
 
-Cynewulf bowed, his heart a steady, cold rhythm in his chest. He didn't just have a document. He had the soul of the seal. But the hardest part was yet to come. The perfect cast.
+Beside it went the carefully prepared alloy disk and a purse containing twenty-three pieces of silver.
 
-Cynewulf knew what most people did not. Casting is an art. A frustrating art. Casting isn't just about pouring metal; it’s about the transfer of impressions, the right texture of sand, temperature, moisture, and the "breath" of the mold. Rushing only invites waste. Few people were good at this, and fewer yet enjoyed it. 
+The clerk read the petition, glanced at the disk, then the purse, and finally at the weary, pious traveler before him.
 
-He arrived back at the camp as the light was failing, the air thick with the smell of woodsmoke and wet horse. He took the company smith aside, a man of few words and heavy hands. He showed him a scrap of bronze, a broken hilt he’d scavenged, and a small, carefully wrapped bundle of clay.
+The request was tiny.
 
-"I need two strike-dies," Cynewulf said, his voice low, stripped of the pious affectation he’d worn in Canterbury. "Begin a melt of the bronze scrap."
+Pathetic.
 
-Cynewulf built the flasks and cast the sand. The smith melted the bronze. And together, they poured.
+Harmless.
 
-The next morning, as he tested the press on a typical lead blank, the resulting seal was so perfect, so sharp, that it almost made _Fer-Main_ smile.
+He did not want to be the man who denied the blind their comfort.
 
-_Fer-Main_ didn't speak much, but he knew the weight of a tool when he held it. He turned the bronze tongs over in his calloused hands, feeling the balance, the precision of the guide-pin, the bite of the dies. He looked at the seal Cynewulf had struck with its crisp, tactile authority of the Archbishop. He looked at the man who had made it.
+He dipped his pen and wrote in the margin:
 
-The mercenary captain didn't offer praise; he offered a horse. A destrier, still wild-eyed and trembling from the breaking-pen, stood waiting by the tent. 
+Allowed.
 
-Beside it lay a set of black leathers, the mark of a man who belonged to the inner circle of the company. They included high riding boots, a pair of strapped leather cuisses, two weapon belts, and a war saddle. All new, jet black, and freshly oiled.
+Then he fitted the seal tongs around Cynewulf's prepared disk. Ordinarily, a light hammer stroke would have sufficed.
 
-Cynewulf took the reins. He was no longer the hollowed-out priest or the desperate highwayman. He had forged his own way into the ranks, and the Road had finally stopped demanding his silver and started paying him in steel and horseflesh. The other Frank cavalrymen did not accept him, but they no longer needed to. He had made himself necessary, and necessity was worth more than all the silver in _Fer-Main’s_ purse.
+Cynewulf raised a worried hand.
+
+"I beg you. Sister Edith is particularly old, and her fingers are weathered. If she cannot feel the Archbishop's face, she will think we failed her family. Please, strike with conviction. For Edith. For her family."
+
+The clerk sighed, raised the hammer high, and brought it down with the force of Thor himself.
+
+CLANG!
+
+The desk shook.
+
+Several clerks looked up and then promptly returned to their work.
+
+The mark was deep and crisp.
+
+"Go," the clerk muttered, already reaching for another stack of papers. "Tell Father Godwin the Archbishop hears his flock. Tell Edith the Archbishop smiles just for her."
+
+Cynewulf bowed.
+
+His heart beat a steady, cold rhythm.
+
+He did not merely possess a document.
+
+He had the soul of the seal.
+
+Now he had to copy it.
+
+Back at camp, Cynewulf took the company smith aside and unwrapped the precious impression. He had spent much of his youth building molds for bells; transferring one shape into another was familiar work, even if this mold was smaller and its consequences considerably greater.
+
+"I need two strike-dies," Cynewulf said. "Begin a melt of that bronze scrap."
+
+Cynewulf prepared the molds.
+
+The smith melted the bronze.
+
+Together, they poured.
+
+The following morning, Cynewulf placed an ordinary lead blank between the finished dies and struck it.
+
+When the tongs opened, the Archbishop's seal stared back at him.
+
+Sharp.
+
+Deep.
+
+Authoritative.
+
+Even Fer-Main nearly smiled.
+
+The captain turned the bronze tongs in his calloused hands, studying the guide-pin, the dies, and the crisp impression they had made. Then he looked at Cynewulf.
+
+He offered no praise.
+
+He offered a horse.
+
+A destrier, still wild-eyed from the breaking pen, waited beside the pavilion.
+
+On the ground beside it lay black leathers marking a man who belonged within the company rather than behind it: riding boots, strapped cuisses, weapon belts, and a war saddle, all freshly made and oiled.
+
+Cynewulf took the reins.
+
+He was no longer the hollowed-out priest or the desperate highwayman who slept in ditches. He had forged his way into the Griffons Noirs. The Road had finally stopped demanding his silver and begun paying him in steel and horseflesh.
+
+The Frankish cavalrymen did not all accept him.
+
+They no longer needed to.
+
+Cynewulf had made himself necessary.
+
+And necessity was worth more than all the silver in Fer-Main's purse.
 
 _Blessed are the aware, for the Road reveals its shortcuts to them. Blessed are the cunning, for they shall forge the keys to locked gates. Woe to those who have neither, for they shall lose their silver to the bandits and the taxman._
 
@@ -306,11 +475,7 @@ Huginn: "...We, the humble flock of the Church of Perpetually Hungry Ravens..."
 
 Muninn: "No."
 
-Huginn: "...write from the edge of the world."
-
-Muninn: "edge of the branch..."
-
-Huginn: "...where a tragic shortage of bodies has afflicted our parish."
+Huginn: "...write from the edge of the world, where a tragic shortage of bodies has afflicted our parish."
 
 Muninn: "Shall I fetch your lunchbox?"
 
@@ -322,23 +487,15 @@ Huginn: "...one grumpy translator..."
 
 Muninn: "Accurate."
 
-Huginn: "... and an eyeball we affectionately call Brother Steve ..."
+Huginn: "...and an eyeball we affectionately call Brother Steve..."
 
 Muninn: "I've never called him that."
 
-Huginn: "... He has lost his hands and feet... "
+Huginn: "...He has lost his hands and feet and is desperately wanting to become a drummer again..."
 
-Muninn: "He never had them to begin with."
+Muninn: "He never had them to begin with. Did you even ask him?"
 
-Huginn: "... and is desperately wanting to become a drummer again ..."
-
-Muninn: "Did you ever ask him, though?"
-
-Huginn: "... We ask that you help us ..."
-
-Muninn: "Knowing bureaucracy, you'll need to file this in triplicate..."
-
-Huginn: "... in guiding Steve... back to his ... vocation. Amen."
+Huginn: "...We ask that you help us in guiding Steve back to his... vocation. Amen."
 
 Muninn stared at Huginn for a very long time.
 
@@ -346,4 +503,4 @@ Then he looked down at the imaginary parchment in his claws.
 
 He sighed.
 
-Muninn: "Now where can I stamp this thing so we can _please_ get back to the story?"
+Muninn: "Knowing bureaucracy, you'll need to file it in triplicate. Now where can I stamp this thing so we can please get back to the story?"

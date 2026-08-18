@@ -4,7 +4,7 @@ _A shield is trusted with the blows you cannot bear yourself. It protects you fr
 
 _These are the lessons of the Shield._
 
-The _Dragon's Teeth_ became quiet as they approached the Charnwood. Approaching from the north, they saw the cliffs and hills with a dense tree-line beyond. "Ahh... home." Madoc drew a deep breath. Snow still clung to the branches, but beneath it the thaw had turned the frozen earth back into honest mud. The broken hills and exposed rock reminded him of Powys, even if the trees and the smell were nothing like it. His skills were perfected on terrain just like this.
+The _Dragon's Teeth_ became quiet as they approached the Charnwood. Approaching from the north, they saw the cliffs and hills with a dense tree-line beyond. The broken hills and exposed rock reminded Madoc of Powys, even if the trees and the smell were nothing like it. His skills were perfected on terrain just like this.
 
 In the far distance, the church bell tower of Leicester crowned the long slope that rose from the Soar. Cynewulf needed only the bell tower to know he was home.
 
@@ -28,31 +28,33 @@ He had no desire to answer it.
 
 Once the camp was established, Madoc and Milli gathered everyone to distribute the weapons. Madoc beckoned Cynewulf over to explain. Cynewulf had been curious to know how these Welsh skirmishers fought.
 
-Madoc smiled, a sharp, predatory expression, and eagerly began to display the tools of his trade. "We’re not soldiers, Saxon. We’re hunters," Madoc said. "And we have a tool for every quarry. In my youth I spent a winter in an old Roman fort. We found the writings of one of their smiths. I can't tell Latin from chicken scratch, but the old bastard drew pictures."
-
-On his back was the _tarian_, a small round shield the size of a man's hand and forearm. Theirs had an iron-covered wooden pyramid protruding as the central boss, making it an effective punching weapon and easy for field-repair. It was not an average tarian.
+On his back was the _tarian_, a small round shield the size of a man's hand and forearm.
 
 He gestured to the spear in his hands. "And on the 8th day, God decided to give every soldier in all of Christendom a pointy stick. We just decided we should use it better than anyone else!"
 
-He patted his hip, where a short quiver of weighted darts hung, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_, the spines of the dragon's back. The Romans called their version the _plumbata_. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw. The iron makes them a little lighter, but re-usable."
+His hands then found the tools that made this warband different.
+
+"We’re not soldiers, Saxon. We’re hunters," Madoc said. "And we have a tool for every quarry. In my youth I spent a winter in an old Roman fort. We found the writings of one of their smiths. I can't tell Latin from chicken scratch, but the old bastard drew pictures."
+
+He patted his hip, where a short quiver of weighted darts hung, each the length of a forearm. "These are for the approach. These are the _Cefn y Ddraig_, the spines of the dragon's back. We make ours out of swage-forged iron, not lead. From far away, we rain these down on the heads of a shield wall, up close we use a straight throw."
 
 Then, he reached into a small, wooden box-pouch at his belt and pulled out a wooden toggle attached to a thick wool cord. Trailing behind the toggle was a string of iron star caltrops, each one forged so that no matter how they landed, a single, needle-sharp point always faced the sky.
 
-"And these?" Madoc grinned, his eyes glinting. "These are the _Dannedd y Ddraig_, the Dragon’s Teeth. Our secret, and our namesake. The Romans called them _tribuli_. The toggles and cordage make them easy to throw and pick back up. Not even a shield wall can protect you from the earth-dragon nipping at your feet! A line of these in the mud turns a mighty Viking into a quibbling cub. Great for laying a trap, or hurling to a man's legs for the trip."
+"And these?" Madoc grinned, his eyes glinting. "These are the _Dannedd y Ddraig_, the Dragon’s Teeth. Our secret, and our namesake. The toggles and cordage make them easy to throw and pick back up. Not even a shield wall can protect you from the earth-dragon nipping at your feet! A line of these in the mud turns a mighty Viking into a quibbling cub. Great for laying a trap, or hurling to a man's legs for the trip."
 
-Cynewulf watched as Madoc coiled the line back into the box with practiced ease. It was a simple, brutal piece of engineering.
+Cynewulf watched as Madoc coiled the line back into the box with practiced ease.
 
-Madoc reached into a small wooden cup on his belt covered with a leather strap. He held up a small clay pinchpot no larger than a plum. It had a cross traced in wax over the opening. "And this," Madoc said, his voice dropping to a conspiratorial whisper, "is the true _Anadl y Ddraig_. When you succumb to it, you'll think our Red Dragon had just invited you into its entrails! We throw them with slings at shield walls."
+Madoc reached into a small wooden cup on his belt covered with a leather strap. He held up a small clay pinchpot no larger than a goose egg. It had a cross traced in wax over the opening. "And this," Madoc said, his voice dropping to a conspiratorial whisper, "is the true _Anadl y Ddraig_. When you succumb to it, you'll think our Red Dragon had just invited you into its entrails! We throw them with slings at shield walls."
 
 Cynewulf frowned, eyeing the strange clay sphere. "It’s just a tiny clay pot?"
 
-"Fermented sheep's stomach and our lovely botanicals, whichever are in season. We have spurge-milk, nettle-burn, hellebore, wild leeks, and foul iris. We mix that with tallow and crushed Church's saintly glass," Madoc corrected, his grin widening. "When we have the mixture just right, we pack it into these clay-pot beauties. Bury them for a week under sheep dung, and let the rot do the work. Then we seal them with a wax kiss, and bury them again for a month. Once they're done, we clean them up and they're ready for gifting to the shield-wall. It doesn't kill, but it smells, stings, and clings to everything. Once it's on the skin, the glass and _medicine_ go to work. If the bishop's not looking, we call out curses in Welsh to make them think they've been bewitched! And a _fyrdman_ who flees because he thinks he's cursed is just as good as a dead one. He should be thanking us for saving his life! Ha ha ha!"
+"Fermented sheep's stomach and our lovely botanicals, whichever are in season. We have spurge-milk, nettle-burn, hellebore, wild leeks, and foul iris. We mix that with tallow and crushed Church's saintly glass," Madoc corrected, his grin widening. "They ferment _beautifully_ with age and get kissed by wax. Once they're done, we clean them up and they're ready for gifting to the shield-wall. It doesn't kill, but it smells, stings, and clings to everything. If the bishop's not looking, we call out curses in Welsh to make them think they've been bewitched! And a _fyrdman_ who flees because he thinks he's cursed is just as good as a dead one. He should be thanking us for saving his life! Ha ha ha!"
 
 Cynewulf stared at the tiny pot. He thought of the stained glass he had once cleaned in the nave, the light filtering through the saints and martyrs. Now, that same light was being used to turn men into cursed frightened animals.
 
 "You told me the glass was for children. You fight like devils," Cynewulf said, his voice tight. "The bishop would have your head for this!"
 
-"Oh, come now. Two shield walls fighting over a patch of dirt is no less childish than my nephews charging each other with wooden horses! These are holy weapons, and we are holy warriors! We add the cross in wax, the saints inside, and wash them in holy water to make them clean. Far holier than the Roman version!"
+"Oh, come now. Two shield walls fighting over a patch of dirt is no less childish than my nephews charging each other with wooden horses! These are holy weapons, and we are holy warriors! We add the cross in wax, the saints inside, and wash them in holy water to make them clean."
 
 Cynewulf opened his mouth to object, then stopped. He wasn't sure saving a man's life through fear was certainly better than taking it. Once a man commits to the wall, he proves his honor, and if he be Christian, his piety. To force men to flee is to force them to be an animal.
 
@@ -60,7 +62,11 @@ Madoc sensed Cynewulf's unease. Madoc feigned humility, pressing his palms toget
 
 He erupted into a jagged, barking laugh, slapping Cynewulf on the shoulder hard enough to rattle his teeth.
 
-Finally, he slapped the seax at his belt. "And for the finish? Who doesn't love a good seax?" Without warning, Madoc’s hand blurred. Before Cynewulf could even blink, a hidden iron shank pressed against his ribs. It was a simple, needle-sharp spike that Madoc had gotten past his guard. Madoc held it there for a heartbeat, his grin wide and mocking, before sliding it back into a locking wrist sheath in his bracer.
+Finally, he slapped the seax at his belt. "And for the finish? Who doesn't love a good seax?"
+
+Without warning, Madoc’s hand blurred. Before Cynewulf could even blink, a hidden iron shank pressed against his ribs. It was a simple, needle-sharp spike that Madoc had gotten past his guard. 
+
+Madoc held it there for a heartbeat, his grin wide and mocking, before sliding it back into a locking wrist sheath in his bracer.
 
 "See?!" Madoc laughed, his eyes dancing. "You never know what to expect from us. A man who relies on his sword is a man who’s already half-dead, Saxon. A man who relies on his _guile_? He’s the one who gets to go home and drink the ale."
 
@@ -68,23 +74,25 @@ Cynewulf looked at the spot where the shank had been, his heart hammering a fran
 
 "What says your charter? May I see it?" Cynewulf wanted to make sure it was legitimate, and that he wouldn't be hung in association with blasphemers.
 
-Madoc groaned dramatically. "Christ preserve me, another churchman. I don't carry the charter. Milli does."
+Madoc groaned dramatically. "Christ preserve me, another churchman. If you're wondering if the Church trusts me to wage Christian war, you won't find it in the scroll. But you might find it in this."
 
-"Why?"
-
-"Because I lose things, Saxon. If you're wondering if the Church trusts me to wage Christian war, you won't find it in the scroll. But you might find it in this." Madoc passed with his hand a small vial. The vial was glass, and etched was a perfect emblem of the cross. Cynewulf recognized it instantly. It was a vial of holy water, the same he used countless times at his church.
+Madoc passed with his hand a small vial. The vial was glass, and etched was a perfect emblem of the cross. Cynewulf recognized it instantly. It was a vial of holy water, the same he used countless times at his church.
 
 "You have the blessing... of the Church?" Cynewulf stammered.
 
-"Aye, in a manner of speaking. The Ealdorman said it was for the blessing of Christian arms. You thought I was joking? Holy water graces the skin of these pots! See?" Madoc's smile curled at the edges as he rotated the perfectly clean pot in his fingers.
+"Aye, in a manner of speaking. The Ealdorman said it was for the blessing of Christian arms..."
+
+Madoc judged Cynewulf's expression.
+
+"Wait... you thought I was joking? Holy water graces the skin of these pots! See?" Madoc's smile curled at the edges as he rotated the perfectly clean pot in his fingers.
 
 "The bishop blessed the clay pots?" The pressure behind Cynewulf's eyes was becoming unbearable.
 
-"No, the bishop didn't need to. That's what the holy water is for." Madoc delighted in the confusion.
+"Through the Ealdorman's gift... I suppose. I didn't stop to ask."
 
 There was silence for many minutes after Cynewulf returned the vial.
 
-"So how am I to fight in your band?" Cynewulf wasn't sure how he would fit in.
+"So how am I to fight in your band?"
 
 "Just don't stand in front of us. You don't want to catch the Dragon's Breath with your arse. Not even Milli's bad cooking could explain that away! And definitely don't get it in your hair. If you want personal experience, ask Baldy."
 
@@ -283,20 +291,18 @@ In all of that, only one _Dragon_ caught a glancing blow from a thrown axe.
 
 And it wasn't Baldy.
 
+When Easter arrived, the siege was over, and so was their charter. They agreed to share Easter Mass together before saying their goodbyes on the North Gate road.
+
 _A shield often bears the mark of a community, declaring that if one stands, many stand behind it. But when a foreign shield bears the blow instead, it tells the community something far more important: that they are worth protecting._
 
 _So sayeth the Shield._
 
 ---
 
-Huginn: "I notice you didn't interrupt me once since the _Dragon's Teeth_ showed up."
+Huginn: "I want Dragon's Breath."
 
-Muninn: "I like Dragons. Beasts like that have long, interesting memories."
+Muninn: "Have you smelled your breath lately?"
 
-Huginn: "Admit it. You like the weaponry. The gadgets."
+Huginn: "I mean the chemical weapon."
 
-Muninn: "Mild joy. I may have even smiled once. The Roman drawings were a delight."
-
-Huginn: "Yes, but their weapons make for inedible corpses."
-
-Muninn: "I've watched you for a thousand years. Fine dining and freshness have never occupied the same thought where _you're_ concerned."
+Muninn: "You repeat yourself."
