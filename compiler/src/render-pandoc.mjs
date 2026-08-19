@@ -53,7 +53,7 @@ export function renderEpub(buildDir, mdFile) {
         [
             "novel.md",
             "--defaults=./pandoc/epub-defaults.yaml",
-            `--metadata=build-timestamp:${buildTimestamp}`,
+            `--metadata=build-timestamp:"${buildTimestamp}"`,
             `--metadata=build-commit:${buildCommit}`,
             "--output=novel.epub",
         ],
