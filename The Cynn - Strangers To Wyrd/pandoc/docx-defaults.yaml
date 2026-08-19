@@ -3,8 +3,8 @@ to: docx
 standalone: true
 toc: true
 toc-depth: 2
-reference-doc: ./pandoc/reference.docx
-metadata-file: pandoc/metadata.yaml
+# reference-doc: ./pandoc/reference.docx
+metadata-file: ./pandoc/metadata.yaml
 resource-path:
   - .
 embed-resources: true

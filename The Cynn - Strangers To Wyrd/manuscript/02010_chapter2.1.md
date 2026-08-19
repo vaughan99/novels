@@ -4,11 +4,19 @@ Osric was a man of the earth, an Anglian, his hands calloused by wood and iron l
 
 He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
 
-He was not an especially pious man. He had seen the shuffle of war... Norseman against Christian, Christian against Norseman... and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and every harvest. Still, when the rains came late or the barley stood thin, Osric would sometimes offer a prayer for steady weather and a bountiful yield. Sometimes he offered the same prayer to Freyr, the Norse god of the harvest. It seemed no great offense to ask twice.
+He was not an especially pious man. He had seen the shuffle of war... Norseman against Christian, Christian against Norseman... and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and every harvest.
 
-He attended the little parish church at Easter, at Michaelmas, and on the Feast of Saint Martin, when the livestock were culled for winter. Beyond that, he placed more trust in sound thatch, healthy cattle, a sharp spear, and the men who would stand beside him in the shield-wall. He kept a few old harvest customs besides. He left the last corner of the field uncut, in honor of the land, and wove the first sheaf of every harvest into the cottage door as a quiet sign of gratitude for the year's bounty. Whether the thanks belonged to Christ, to Freyr, or simply to the land itself had never seemed worth arguing over, so long as the barley ripened and his children had bread through the winter.
+Still, when the rains came late or the barley stood thin, Osric would sometimes offer a prayer for steady weather and a bountiful yield. Sometimes he offered the same prayer to Freyr, the Norse god of the harvest. It seemed no great offense to ask twice.
 
-His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near Hexham. His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
+He attended Mass among the ruins of St Andrew, what remained of one of Northumbria’s great monasteries after the Vikings sacked it. He attended at Easter, at Michaelmas, and on the Feast of Saint Martin, when the livestock were culled for winter.
+
+Beyond that, he placed more trust in sound thatch, healthy cattle, a sharp spear, and the men who would stand beside him in the shield-wall.
+
+He kept a few old harvest customs besides. He left the last corner of the field uncut, in honor of the land, and wove the first sheaf of every harvest into the cottage door as a quiet sign of gratitude for the year's bounty. Whether the thanks belonged to Christ, to Freyr, or simply to the land itself had never seemed worth arguing over, so long as the barley ripened and his children had bread through the winter.
+
+His cottage stood where the south-facing terrace gravels just west of the junction where the North Tyne and South Tyne merge, near Hexham.
+
+His forebears were present the day the village's first cornerstone was laid. The name of the village itself bore the weight of many landless sons who tried to find the secrets of the land. Some succeeded, but many did not.
 
 "My father's family built the walls from the stones of the nearby Roman ruins, and the hearth with stones from the river," Osric would tell his fellow fyrdmen. "The land knew my forefathers almost three hundred years. My father said the land remembers those who tend it. My family was there in the beginning of the Great Heathen Snake... some Northmen had a keen eye for land, true, but many didn't want the land. They wanted the screams and silver. We survived those years through the sweat of our brow... we showed them what good Northumbrian muscle could do. Our villages worked the rocky fields, and bread poured forth to feed the snake. And for that, we were allowed to live."
 
