@@ -302,9 +302,18 @@ The Wodhere in this novel is therefore not intended as a reconstruction of any s
 
 ## The Blades
 
+None of these are the sort of ornate Viking swords that tend to dominate modern images of the period. In 943, a good sword was an expensive weapon and an important status object, more commonly associated with wealthier warriors, thegns, and nobles than with ordinary people.
+
+None of our characters are those people.
+
+These are humbler-looking weapons, some with mythic powers. A weapon does not have to look legendary to become legendary.
+
+Especially Briar-Bite.
+
+
 ### Wodbora the Madness-Bringer, the Prophet of the Wodhere, the Guardian of Chaos
 
-Made by Tobin Nieto of Stonehaven Forge. Forged in Fire winner in season 2, episode 8 called "The Cutlass". 
+Made by Tobin Nieto of Stonehaven Forge (Forged in Fire winner in season 2, episode 8 called "The Cutlass"). I asked for a primordial langseax of chaos. He delivered a no-mai blade of wrought iron outer layer, and a sandwich of interleaved 1084 and 15N20. Looks like the Wodhere spilling out into reality to me!
 
 ##### Inscriptions
 
@@ -345,8 +354,24 @@ Made by Tobin Nieto of Stonehaven Forge. Forged in Fire winner in season 2, epis
 
 ---
 
+### Tauawt
+
+The name means "Tongue" in Old Welsh.
+
+Madoc was unhappy with the blacksmith's selection when buying his blade, so he paid for time at the forge to craft his own. It's an original.
+
+Tauawt matters because Madoc is trying to manufacture myth around an ordinary object. He names it, boasts about it, gives it personality, invents lore around it, and treats it as though legend were something that could be imposed by force of will.
+
+---
+
 ### Briar-Bite
 
 No spell. No spirit. No prophecy.
-Just a blade that belonged to Osric and Beorn borrowed to make toys. Sometimes Beorn even remembered to give it back.
 
+Just Osric’s everyday hand knife. Nobody even remembers who made it.
+
+Beorn, a 7-year-old child, insisted that his favorite toy-whittling knife should have a name and identity.
+
+Whether it is the name itself, or the way the knife reminds Osric that Barrow’s Edge is only glamour, makes Briar-Bite worthy of its own story.
+
+For the reader to decide is whether perhaps that is enough to make it magical.

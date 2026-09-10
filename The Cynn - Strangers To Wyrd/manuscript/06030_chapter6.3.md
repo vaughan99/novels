@@ -34,7 +34,7 @@ _Fer-Main_ let out a dry, humorless grunt. He looked up at the rider, a cold, k
 
 The rider’s jaw settled into iron resolve. But the parchment was already sealed.
 
-"The King expects Dere Street to be clear, _Fer-Main_," the rider warned, his voice dropping. "The script is a lock and I no key. And might I remind you, you were invited to these lands for this purpose. The King has been planning this march for three winters; he will not have it stalled by a few brigands."
+"The King expects Dere Street to be clear, _Fer-Main_," the rider warned, his voice dropping. "The script is a lock and I have no key. And might I remind you, you were invited to these lands for this purpose. The King has been planning this march for three winters; he will not have it stalled by a few brigands."
 
 "So, take the terms, or it's the gallows?" _Fer-Main_ accused.
 
@@ -124,27 +124,21 @@ Cynewulf watched as the men moved with practiced, emotionless speed. They didn't
 
 "Quickly, let their bodies find the ditch! We move!" _Fer-Main_ spurred his men to ride once again.
 
-_The Sword is a sudden, horrible thing, a threat... that lands. Sometimes it's not a sword at all. A fist. A spear. A bolt from a crossbow. Many times, you don't even see it. Regardless, you must prepare for its arrival as carefully as a host prepares for a guest. Not enough preparation, and your guest will take everything you have._
+_The Sword is a sudden, horrible thing, a threat... that lands. Sometimes it's not a sword at all. A fist. A spear. An arrow. Many times, you don't even see it. Regardless, you must prepare for its arrival as carefully as a host prepares for a guest. Not enough preparation, and your guest will take everything you have._
 
 _So sayeth the Sword._
 
 ---
 
-Huginn: "Muninn, I must protest. You threaten me far too often."
+Huginn: “So if the Sword is an unwelcome guest that requires preparation, then a door and a shield-wall are the same.”
 
-Muninn: "And yet you remember being threatened. You just proved it."
+Muninn: "Only a door stands in the way of lunch. A shield-wall you have to feed lunch."
 
-Huginn: "Only because you're alarmingly specific."
+Huginn: "Then I shall close the door on the shield-wall. I'll be protected twice and won't lose any lunch whatsoever."
 
-Muninn: "Specificity aids memory."
+Muninn: "No. Then the shield-wall will change sides, break _down_ the door, and take all your lunches."
 
-Huginn: "Have you considered forgiveness?"
-
-Muninn: "Frequently."
-
-Huginn: "And?"
-
-Muninn: "It lacks instructional value."
+Huginn: "Oh. Lunch is important to shield-walls. And now I have an appreciation for doors."
 
 ---
 
@@ -232,9 +226,9 @@ One horseman took two arrows to the flank, his mount collapsing in a heap of bro
 
 "The gate!" one of them screamed, his voice cracking. "The gate is the only way!"
 
-Cynewulf looked back at the embankment. He knew what he would see: _Fer-Main_’s final stand. The shield wall was three-men deep, with bill-poles to drag riders to mud.
+Cynewulf looked back at the embankment. He knew what he would see: _Fer-Main_’s final stand. The shield wall was three-men deep, with long spears and shields. There was no way to reach him.
 
-He swung his axe, clearing a path through the dazed guards in the yard, his horse trampling the fallen. He reached out, grabbing the bridle of the nearest survivor’s horse, his knuckles white.
+Cynewulf swung his axe, clearing a path through the dazed guards in the yard, his horse trampling the fallen. He reached out, grabbing the bridle of the nearest survivor’s horse, his knuckles white.
 
 "Don't look!" Cynewulf roared over the din of the slaughter. "Ride! If you look, you die!"
 

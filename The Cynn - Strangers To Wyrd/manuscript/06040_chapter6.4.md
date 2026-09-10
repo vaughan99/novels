@@ -68,7 +68,7 @@ Huginn: "I remember the feast that day, brother. Griffons taste like chicken."
 
 Muninn: "I rather remember them tasting like regret with a hint of foolish pride."
 
-Huginn: "Foolish pride? What does that taste like? "
+Huginn: "Foolish pride? What does that taste like?"
 
 Muninn: "Wine every day for three years, oil-blackened mail, black leathers, a torn silk banner, and a memoir written in six languages."
 
@@ -106,11 +106,17 @@ He finally looked up. His eyes were like flint, devoid of pity. "Where is the ba
 
 "Except... save your skin."
 
-"'Twas necessary, your grace," Cynewulf said, his voice trembling with the weight of the warning. "You must know what waits for you at the gate. The ten are a ruse, sire. One hundred Cumbrians and archers will man those walls. Who knows how many more beyond that. Constantine's allies are prepared. They are not waiting for a skirmish; they are waiting for a stand."
+"'Twas necessary, your grace," Cynewulf said, his voice trembling with the weight of the warning. "You must know what waits for you at the gate. The ten are a ruse, sire. One hundred Cumbrians and archers will man those walls. Who knows how many more beyond that. Constantine's allies are prepared."
 
-Æthelstan went still. The rhythmic hands of the squires went still as well. He looked at Cynewulf. He was searching for the lie. He knew the _Griffons_. He had paid for their crossing from Frankia and their reputation. He knew that if they were gone, the cost was not just gold, but the entire momentum of his campaign.
+Aethelstan held up his hand to silence Cynewulf.
 
-"A stand," Æthelstan repeated, the word tasting like ash in his mouth. He walked to the oak cross where his mail hung, his fingers brushing the cold steel of the hauberk. "_Fer-Main_ was a veteran of the southern marches. He did not lose forty lances to a 'ruse' unless the ground was already poisoned."
+"SQUIRES OUT!"
+
+The squires had started whispering, but quickly laid their polishing cloths on the ground and rushed out of the tent. The bishop ordered the tent flaps sealed and informed the guard to hold the squires and allow no visitors.
+
+Æthelstan went still.  He was searching for the lie. He knew the _Griffons_. He had paid for their crossing from Frankia and their reputation. He knew that if they were gone, the cost was not just gold, but the entire momentum of his campaign.
+
+"Prepared," Æthelstan repeated, the word tasting like ash in his mouth. He walked to the oak cross where his mail hung, his fingers brushing the cold steel of the hauberk. "_Fer-Main_ was a veteran of the southern marches. He did not lose forty lances to a 'ruse' unless the ground was already poisoned."
 
 He turned, his movements fluid and predatory. "If you are lying, rider, I will have you hung from the highest tree on Dere Street before the sun sets. If you are telling the truth, you have brought me the death of my vanguard."
 
@@ -122,19 +128,21 @@ He turned back to Cynewulf, his expression unreadable. "You say you were the div
 
 Cynewulf shook his head. "No sire. My mind was on my orders, to stall the gate, attack if necessary. I caught a brief glimpse of the yard."
 
-He turned sharply, his eyes narrowing. "If you saw nothing of their commander, how do you know it was Cumbraland that sent them? Perhaps a band of brigands playing at war?"
+Æthelstan pushed the table aside and leaned down in front of Cynewulf, studying his face. "If you saw nothing of their commander, how do you know it was Cumbraland that sent them? Perhaps a band of brigands playing at war?"
 
-"Accents that leaned Welsh, Cumbric. Shield walls. Discipline. They held a line around the horses, which slowed breakouts. Archers on the walls were positioned to fire at the rear and sword-flank. Shields were useless. Horses were easy prey."
+"Accents that leaned Welsh, Cumbric. Shield walls. Long spears. Discipline. They held a line around the horses, which slowed breakouts. Archers on the walls were positioned to fire at the rear and sword-flank."
 
 "You saw all this in one moment in the yard?"
 
-"It was clear. They came with shields and billhooks. They knew to expect cavalry."
+"It was clear. They knew to expect horsemen."
 
 Æthelstan slammed his fist into the table, his rings leaving small indentations on the hard oak. He did not look up. "I believe you," the King said, his voice a low, dangerous rumble.
 
-He finally raised his head, his eyes cold and dismissive. "Go. Join the baggage train. Speak of this to no one... not to the men, not to the camp followers, not to your God. If a single whisper of this 'horde' reaches the ranks, I will have your head. I expect you to be _absent_ at the next muster."
+He finally raised his head, his eyes cold and dismissive. "Go. Join the baggage train. Speak of this to no one... not to the men, not to the camp followers, not to God. If a single whisper of this 'horde' reaches the ranks, I will have your head. I expect you to be _absent_ at the next muster."
 
-Cynewulf stood, his body aching, his soul hollowed out. He turned and walked out of the pavilion, leaving the King to his maps and his secrets. His shield and langseax were returned by the King's guard. "But where are the other two?"
+Æthelstan looked up at the bishop. "Secure the silence of those squires." The bishop nodded.
+
+Cynewulf stood, his body aching, his soul hollowed out. He turned and walked out of the pavilion, leaving the King to his maps and his secrets. His shield and langseax were returned by the King's guard. "But where are the other two Griffons?"
 
 "Your friends left to join the carts. They seemed eager."
 
@@ -166,7 +174,9 @@ He headed south. He found them in the dark corners of the Midlands... men who ha
 
 For years he drifted between bands, never staying longer than his trust in people lasted. He called nobody friend. Every slight became a grudge. Every disappointment became proof that the world was rotten. When captains lied, he plotted. When captains failed, he saw _Fer-Main_. When comrades cheated him, he took matters into his own hands. He was now a blacksmith of his own hate, forever heating old wrongs and hammering them into shapes that fit the present.
 
-Many names were given to him, and none were flattering. With time, he had run out of bands to join. He found himself alone once more, but this time it was not because of his naivety... it was because the many faces of humanity each had a cruelty all their own. He kept no company because of what he might do.
+Many names were given to him, and none were flattering.
+
+With time, he had run out of bands to join. He found himself alone once more, but this time it was not because of his naivety... it was because the many faces of humanity each had a cruelty all their own. He kept no company because of what he might do.
 
 The first freeze of November 942 arrived with a cruelty that felt personal. It turned the mud of the Midlands into jagged, frozen teeth, and it turned Cynewulf’s blood into ice. He had been walking for days. His silver was long gone. His stomach was a hollow ache. His once-steady hands of a deacon and horseman now pulled a tattered cloak against his staggering frame.
 

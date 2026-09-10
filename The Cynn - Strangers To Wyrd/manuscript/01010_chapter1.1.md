@@ -248,11 +248,13 @@ He looked up.
 
 He planted his spear just north of where the Charnwood met the North Gate road.
 
-“Men are taking ale and grain from our reinforcements out of York. Wagons have been stripped. Escorts have vanished. And the survivors tell stories...”
+“Men are taking ale and grain from our reinforcements out of York. Wagons have been stripped. Escorts have vanished.”
 
-Olaf paused.
+One of the captains spoke. “Three winters past, our patrol came upon the remains of a day’s banditry on the mill road south of York, the one that leads to the king’s malt-house. They had taken the grain bound for vats, the ale bound out, and the reeve’s silver besides. Did these men carry black shields? Did they leave survivors nailed beneath the wagons?”
 
-“Tales that do not belong in the world of men.”
+Olaf shook his head.
+
+“Worse. Survivors tell tales that do not belong in the world of men.”
 
 A wolf-man of the Danes stepped forward, a burly captain named Wulfhere, though everyone called him _Grinjaw_. He was one of the Ulfhednar, men whose wolf headdresses announced them as a pack before they ever drew steel.
 
@@ -268,7 +270,7 @@ The group laughed.
 
 Even Olaf allowed himself a smile.
 
-Grinjaw let the laughter die. "My wolves could dispatch these thieves. Say the word."
+Grinjaw let the laughter die. "My wolves could dispatch these thieves, black shields or no. Say the word."
 
 Olaf thought for a moment.
 

@@ -134,11 +134,11 @@ Madoc watched them pass without so much as a twitch of his hand.
 
 Two farmers, each leading a mule burdened with sacks. They rounded the bend, vanished between the trees, and the forest swallowed them whole once more.
 
-Cynewulf frowned. He had expected an ambush.
-
-Instead, there was only silence.
+Cynewulf nodded to himself. _Smart. Not big enough to make a difference._
 
 An hour later came a merchant's wagon, its driver humming to himself while a pair of hired spearmen trudged beside the wheels. Again, Madoc let them pass. Not a sling was lifted.
+
+_Merchants, not soldiers. Probably worthwhile, but too risky with this charter._
 
 The waiting stretched on.
 
