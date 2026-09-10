@@ -12,33 +12,29 @@ The rider did not look like a man who had traveled the Road; he looked like a ma
 
 _Fer-Main_ stepped out of his tent, his hand resting casually on the pommel of his sword. He didn't bow. He didn't need to. He was the law of the camp, and the King’s rider knew it.
 
-"The King requires a path through the Northumbrian marshes and into the highlands to the North as was agreed," the rider announced, his voice flat and devoid of warmth. "He needs a way-finder. A herald with a sword. Your _Griffons Noirs_ will carry the way and force the road to yield."
+"The King requires a path through the Northumbrian marshes and into the highlands to the North as was agreed," the rider announced, his voice flat and devoid of warmth. "He needs a way-finder. A herald with a sword. You will carry the way and force the road to yield."
 
 _Fer-Main_ didn't budge. "The King’s banner is fine silk, but my men don't bleed for fabric. Where is the charter? It's late."
 
 The rider’s jaw tightened, but he reached into his leather dispatch case and pulled out a rolled parchment, heavy with a green wax seal... the King's own mark.
 
-"Signed by the Chancellor at Winchester," the rider said. "Three shillings a day per lance, salvage rights to any Norse-held holdfast north of the Tees, and a hundred pounds of silver upon the King's unhampered crossing of the Tweed."
+"Signed by the Chancellor at Witanceaster," the rider said. "Three shillings a day per lance, salvage rights to any Norse-held holdfast north of the Tees, and a hundred pounds of silver upon the King's unhampered crossing of the Tweed."
 
 _Fer-Main_ didn't reach for the parchment. Instead, he called out to Cynewulf. "Look at the ink. Tell me if the King's silver weighs as much as his words."
 
 Cynewulf stepped forward. He took the parchment from the rider’s hand and an embroidered golden ribbon banner. It was the kind of standard a company might attach to theirs to prove their legal kingly authority to any who dare question.
 
-His fingers unrolled the stiff sheepskin as he walked to _Fer Main_. He knew the Winchester hand; he knew the exact formulaic Latin of Æthelstan's chancery. He scanned the lines, his eyes lingering on the green wax seal.
+His fingers unrolled the stiff sheepskin as he walked to _Fer-Main_. He knew the exact formulaic Latin of Æthelstan's chancery. He scanned the lines, his eyes lingering on the green wax seal.
 
 "The script is genuine," Cynewulf said, his voice steady and clear. "The terms are as he says. The ribbon looks authentic, I see the King's arms in the embroidery. However, the salvage rights exclude any lands belonging to the Bishopric of Durham."
 
 _Fer-Main_ let out a dry, humorless grunt. He looked up at the rider, a cold, knowing smirk playing on his lips.
 
-"Then let's hope the highwaymen have cleared Durham by our arrival," _Fer-Main_ said. "Because I won't touch them without salvage rights."
+"Then let's hope the highwaymen have cleared Durham by our arrival," _Fer-Main_ said.
 
 The rider’s jaw settled into iron resolve. But the parchment was already sealed.
 
-"The King expects Dere Street to be clear, _Fer-Main_," the rider warned, his voice dropping. "The script is a lock and I have no key. And might I remind you, you were invited to these lands for this purpose. The King has been planning this march for three winters; he will not have it stalled by a few brigands."
-
-"So, take the terms, or it's the gallows?" _Fer-Main_ accused.
-
-The rider didn't flinch. He leaned forward in his saddle, the leather of his gauntlet creaking as he gripped the reins. "The King doesn't hang his vanguard, _Fer-Main_. He just lets them starve when the supply lines get cut. You want the silver? You clear the road. You want the salvage? You take it from the Norse, not the Church. That’s the contract. The army moves at dawn."
+"The King expects Dere Street to be clear, _Fer-Main_," the rider warned, his voice dropping. "You were invited to these lands for this purpose. The King has been planning this march for three winters; he will not have it stalled by a few brigands. You want the silver? You clear the road. You want the salvage? You take it from the Norse, not the Church. That’s the contract. The army moves at dawn."
 
 _Fer-Main_ stared at him, the silence stretching until it felt like the air itself was hardening. He was looking for the limit of the King's desperation. And the contents of the charter were that limit.
 
@@ -54,17 +50,15 @@ He snatched the charter from Cynewulf’s hands and tucked it into his belt. He 
 
 The rider gave a single, stiff nod, his face pale. He didn't argue. He wheeled his horse and spurred it back toward the royal column, eager to put distance between himself and the _Griffons Noirs_.
 
-"We ride north!" _Fer-Main_ roared, turning to the camp. "Leave the heavy wagons with the King’s train," _Fer-Main_ ordered. "We’re taking the pack-ponies and the spare mounts. If we can't carry it on a horse, we don't need it. We’re the vanguard, not infantry. We eat what we find, and we sleep where we stop."
+"We ride north!" _Fer-Main_ roared, turning to the camp. "Leave the heavy wagons with the King’s train," _Fer-Main_ ordered. "If we can't carry it on a horse, we don't need it."
 
 The unit's standard bearer snatched the King's ribbon from Cynewulf's hands without a word, his movements practiced and swift. Within moments, the gold-threaded silk was snapping in the wind above the company... a mark of royal sanction that turned a band of cutthroats into the King’s eyes, ears, and sword.
 
 The camp transformed. The heavy, lumbering wagons that had been their home for months were abandoned to the King’s baggage train. They would catch up eventually. In their place, the men packed light: spare iron, salted rations, and extra horseshoes lashed to the saddles of the pack-ponies.
 
-Cynewulf watched the transformation with a grim sense of finality. He had spent his life accumulating things... books, seals, the comforts of a settled existence. Now, he was stripping himself down to the bare essentials for battle and the ride.
-
 The company rode faster than Cynewulf had ever seen. 
 
-Cynewulf had been a full cavalryman for only months and had not seen a real engagement. The _Griffons Noirs_ had two contracts in his time, but each involved intimidation or limited skirmishes, left to the veterans. This was different. The men were expected to ride fast, think fast, and have no mercy.
+Cynewulf had been a full cavalryman for only months and had not seen a real engagement. The _Griffons Noirs_ had three contracts in his time, but each involved intimidation or limited skirmishes, left to the veterans. This was different. The men were expected to ride fast, think fast, and have no mercy.
 
 The Northumbrian border was a wall of grey mist and jagged, skeletal trees. As they crossed the threshold, the air grew colder, smelling of wet peat and the metallic tang of coming rain. There were eyes peering from the hedges, frightened by the trampling hooves. None dared to stand in the way.
 
@@ -72,7 +66,7 @@ Cynewulf rode in the second rank, his eyes scanning from the tree line to the le
 
 "They’re watching us," Cynewulf murmured.
 
-"Let them watch," _Fer-Main_ replied, his voice like grinding gravel. "If they want to hide, let them. But if they decide to step out of those hedges, they’d better be prepared to die for the privilege."
+"Let them watch," _Fer-Main_ replied, his voice like grinding gravel. "If they decide to step out of those hedges, they’d better be prepared to die for the privilege."
 
 Suddenly the lead horse _did_ hitch. The company ground to a sudden halt, the horses flaring their nostrils and catching their breath. They'd suffered a hard-ride for over two hours. The lead horseman held up his hand, and motioned for _Fer-Main_.
 
@@ -82,17 +76,13 @@ _Fer-Main_ turned to the company, "Trap ahead. Strike the banner! Double-wide fo
 
 The company trotted in formation, as if they suspected nothing. Cynewulf formed at the rear with the other three, as they looked at each other in wild expectation. At any moment, they would be asked to ride hard through rough country... and kill.
 
-He was taught that with archers, every moment matters. A second of hesitation meant a shaft in the horse’s neck or your own.
-
-_Fer-Main_ didn't wait long. The moment he saw the outline of a bow, his hand went up in an iron claw. He knew that the bows would be trained on his column, and they wouldn't expect riders from their flank until it was too late.
+_Fer-Main_ didn't wait long. The moment he saw the outline of a bow, his hand went up in an iron claw.
 
 The column's shields went up in unison. The riders held their short heavy spears, for the long throw, waiting for the command.
 
 Cynewulf's horse almost jumped before he did. The four archer hunters marked the beginning of the fence line, and slipped behind. Cynewulf was first in the line, his spear before him ready to plant in the first one he saw. 
 
-This was the moment. All the training and grooming came to this. And it happened in a flash.
-
-He was hit in the midsection from his left, a heavy club breaking on his stomach. It came from nowhere. Cynewulf was tied into his saddle, otherwise he would have hit the ditch in an instant. His horse reared and Cynewulf dropped his spear. The pain was agony, and his breath was gone.
+He was hit in the midsection from his left, a heavy club smashing into his stomach. Cynewulf was tied into his saddle, otherwise he would have hit the ditch in an instant. His horse reared and Cynewulf dropped his spear. The pain was agony, and his breath was gone.
 
 The holder of the club was a boy, probably of no more than sixteen winters. He had the bearing of a young woodsman and Viking. He spat curses at Cynewulf, calling him vile names. It was an ember-hate, roaring far and free.
 
@@ -112,15 +102,9 @@ Cynewulf's head whipped around to _Fer-Main's_ presence on the road, looking at 
 
 "Your shield? You're lucky it was a boy with a club and bad aim. If it were a spear and a veteran, you'd be dead! I told you to mind... your... SHIELD!" _Fer-Main_ rapped his sword on Cynewulf's shield as to drive the point home. 
 
-_No mistakes_. Cynewulf knew his mistake. He had been fighting the horse as much as the forest. He should have been letting the horse do what it was bred to do: find the way. Then use the shield for the branches.
+_No mistakes_. Cynewulf knew his mistake. He had been fighting the horse as much as the forest.
 
-_Trust the horse. Stay tight to it. Shift your knees when the tactics demand a new course._
-
-If he had listened, and kept his shield high, the club would have bounced harmlessly off the planks.
-
-These were Danes, and the rules were clear. The bodies were ordered stripped. The soldiers who claimed the kills were given the first pick of plunder from their kills. The rest of the loot was collected for the quartermaster; his spare pony would keep the loot for now.
-
-Cynewulf watched as the men moved with practiced, emotionless speed. They didn't look for faces or names; they looked for anything that could be traded or used. It was a harvest of value.
+These were Danes, and the rules were clear. Cynewulf watched as the men moved with practiced, emotionless speed. They looked for anything that could be traded or used. It was a simple harvest of value.
 
 "Quickly, let their bodies find the ditch! We move!" _Fer-Main_ spurred his men to ride once again.
 
@@ -150,11 +134,11 @@ The plunder was split with cold efficiency. The killers took first pick from the
 
 Cynewulf watched the process, surprised by the lack of argument. He had expected the usual chaos of the road... the haggling over rusted seaxes, the desperate trades of shirts for belts, the inevitable fights over who deserved the better share.
 
-Two days of hard-riding and the ground opened to the Wall. This was Hadrian's Wall. It used to be a barrier two-men high for miles across unforgiving terrain, used by the Romans to gird against waves of Picts.
+Two days of hard-riding and the ground opened to Hadrian's Wall. It used to be a barrier two-men high for miles across unforgiving terrain.
 
-The Wall here was a graveyard of stone. Centuries of frost and gravity had done what the Picts never could, pulling the massive blocks down into a mound of rubble. This was a choice: storm the gate, or find a way through the rubble.
+The Wall here was a graveyard of stone. Centuries of frost and gravity had pulled the massive blocks down into a mound of rubble. This was a choice: storm the gate, or find a way through.
 
-_Fer-Main_ pulled his horse to a halt, his eyes scanning the "mouth" of the gate where Dere Street pierced the stone. It was lazily choked with some timber, sharpened stakes, and the debris of a dozen different skirmishes. Smoke curled lazily from behind the barricade, and the silhouettes of men moved along the ramparts, watching the _Griffons_ with the predatory stillness of wolves.
+_Fer-Main_ pulled his horse to a halt, his eyes scanning the arch of the gate where Dere Street pierced the stone. It was lazily choked with some timber, sharpened stakes, and the debris of a dozen different skirmishes. Smoke curled lazily from behind the barricade, and the silhouettes of men moved along the ramparts, watching the _Griffons_ with the predatory stillness of wolves.
 
 "They want us to walk through the front door," _Fer-Main_ muttered, his voice a low rasp. "They’ve spent all winter stacking rocks and sharpening sticks in that gap. It’s a slaughter-pen."
 
@@ -174,13 +158,13 @@ _Fer-Main_ split his force into two groups. Cynewulf and the three archer-hunter
 
 Cynewulf nodded, his heart hammering against his ribs... not with fear, but with the cold, mechanical focus of the _Sword_. He led his small group toward the gateway of the Wall.
 
-As they approached, the ten guards behind the barricade stood up. They didn't look like a ragtag band of brigands; they looked like men who had been expecting company. They held their spears with a practiced, heavy grip, and their eyes didn't flicker toward the tree-line. They watched only the four riders.
+As they approached, the ten guards behind the barricade stood up. They looked like men who had been expecting company. They held their spears with a practiced, heavy grip, and their eyes didn't flicker toward the tree-line. They watched only the four riders.
 
 "Hail!" Cynewulf started, holding up his hand while looking square into the eyes of the guard in charge. "What's the meaning of this? Dere Street is open to travelers, is it not?"
 
-The guard was a man of Cumbraland. Kinsmen to the Welsh, they were allies to the Alban Scots. While they at one time may have looked and fought like woad-streaked barbarians, their gear looked as though it might have had a home in Anglo-Saxon armories.
+The guard was a man of Cumbraland. Kinsmen to the Welsh, they were allies to the Alban Scots.
 
-"Dere Street is open to those who pay the price of the road," the Cumbrian replied, his accent thick and guttural. It was clear that Cumbric was his main language. "And it is closed to the King’s dogs. We know who you are, _marchauc_. We know the smell of Æthelstan's silver."
+"Dere Street is open to those who pay the price of the road," the Cumbrian replied, his accent thick and guttural. "And it is closed to the King’s dogs. We know who you are, _marchauc_. We know the smell of Æthelstan's silver."
 
 Cynewulf’s pulse quickened. _They know us. Should I raise the alarm? My orders were to stall._... _Trust Fer-Main. If it's a trap, he'll smell it._
 
@@ -194,7 +178,7 @@ Cynewulf’s ember-hate consumed him. The cold, calculated logic of the _Griffo
 
 _The gate was a lure. The breach in the wall was the trap._
 
-He didn't wait for a signal. He didn't wait for _Fer-Main_. That final command loomed in his head, and accounted for this. _Be violent if you have to, just keep them occupied._ He didn't even think about the consequences.
+His mind jumped to that final command looming in his head. _Be violent if you have to, just keep them occupied._ He didn't even think about the consequences.
 
 He turned his spear on end and threw it with every ounce of his strength. The iron tip caught the Cumbrian sargeant in the thigh, pinning him to the timber barricade with a sickening crunch of wood and bone.
 
@@ -228,19 +212,21 @@ One horseman took two arrows to the flank, his mount collapsing in a heap of bro
 
 Cynewulf looked back at the embankment. He knew what he would see: _Fer-Main_’s final stand. The shield wall was three-men deep, with long spears and shields. There was no way to reach him.
 
-Cynewulf swung his axe, clearing a path through the dazed guards in the yard, his horse trampling the fallen. He reached out, grabbing the bridle of the nearest survivor’s horse, his knuckles white.
+Cynewulf reached out, grabbing the bridle of the nearest survivor’s horse, his knuckles white.
 
 "Don't look!" Cynewulf roared over the din of the slaughter. "Ride! If you look, you die!"
 
 He didn't know if they were escaping or just running toward a different kind of grave. The archers above were shifting their aim, the wood of their bows creaking as they drew for the next volley. The yard was a funnel, and the Cumbrians were closing the mouth of it.
 
-Cynewulf kicked his horse into a gallop once more, his shield pressed tight against his side to protect the jagged, screaming pain of his broken rib. He was no longer a way-finder. He was no longer a deacon. He was just a man fleeing the wreckage of the best company he would ever know, leaving the _Griffons Noirs_ to be buried in the shadow of the Wall.
+Cynewulf kicked his horse into a gallop once more, his shield pressed tight against his side to protect the jagged, screaming pain of his broken rib.
 
-The five riders who were left slammed into the gate-line again, head-on against their spears. They carried their momentum, but two riders took spear wounds, and one horse died with a spear to the throat. Four men and their horses survived the charge, including Cynewulf.
+He was a man fleeing the wreckage of the best company he thought he would ever know, leaving the _Griffons Noirs_ to be buried in the shadow of the Wall.
+
+The five riders who were left slammed into the gate-line again, head-on against their spears. They carried their momentum, but two riders took vicious spear wounds, and one horse died with a spear to the throat. Four men and their horses survived the charge, including Cynewulf.
 
 He thundered toward the sergeant. Cynewulf saw him still pinned to the timber barrier by the spear he had thrown earlier. The Cumbrian’s eyes widened as he saw the _Griffon_ bearing down on him.
 
-Cynewulf summoned every ounce of his ember-hate, every drop of the rage he had carried since the church-home. He threw his axe as he passed. The iron head caught the sergeant full force in the chest, the impact silencing the man’s taunts forever.
+Cynewulf summoned every ounce of his ember-hate, every drop of the rage he had carried since the church-home. He threw his axe as he passed. The iron head caught the sergeant full force in the chest. He slumped in silence.
 
 Cynewulf didn't look back. He spurred his mount into a frantic, uneven gallop, fleeing back up the paved stones of Dere Street. That was the last he saw of the Cumbrians.
 
