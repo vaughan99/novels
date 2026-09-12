@@ -122,7 +122,7 @@ Huginn: "Then I shall close the door on the shield-wall. I'll be protected twice
 
 Muninn: "No. Then the shield-wall will change sides, break _down_ the door, and take all your lunches."
 
-Huginn: "Oh. Lunch is important to shield-walls. And now I have an appreciation for doors."
+Huginn: "Oh. Lunch is important to shield-walls. And now I understand why humans like doors."
 
 ---
 
@@ -180,7 +180,7 @@ _The gate was a lure. The breach in the wall was the trap._
 
 His mind jumped to that final command looming in his head. _Be violent if you have to, just keep them occupied._ He didn't even think about the consequences.
 
-He turned his spear on end and threw it with every ounce of his strength. The iron tip caught the Cumbrian sargeant in the thigh, pinning him to the timber barricade with a sickening crunch of wood and bone.
+He turned his spear on end and threw it with every ounce of his strength. The iron tip caught the Cumbrian guard in the thigh, pinning him to the timber barricade with a sickening crunch of wood and bone.
 
 The guard’s smile vanished, replaced by a shriek of agony that tore through the silence of the Wall.
 
