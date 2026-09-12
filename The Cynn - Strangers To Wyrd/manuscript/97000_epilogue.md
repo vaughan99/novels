@@ -94,4 +94,14 @@ The old man stood up, his joints making no sound. An old tweed guitar case, cove
 
 "Do not waste your brief light merely weeping over cold ashes, lad. Listen to the old tales for inspiration. Then see that the next one bears something of your making."
 
-The trio continued down the road. The sun had dipped near the horizon of the mortal world, and the children’s park was finally empty. Their day’s work was done.
+They continued down the road. The sun had dipped near the horizon of the mortal world, and the children’s park was finally empty. Their day’s work was done.
+
+The road brought them back to the book's Table of Contents. Huginn felt a tug on his wing. He fetched Steve, and placed him before the list of chapters.
+
+Steve read the list, then looked up at Huginn.
+
+Huginn pointed a wing at the short story at the end of the list. "Your debut is there. Don't worry, buddy, we haven't forgotten."
+
+The tension in the little eye relaxed, and Huginn gently placed him under his wing once more.
+
+They set off in search of the story.
