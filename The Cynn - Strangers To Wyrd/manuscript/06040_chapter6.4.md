@@ -286,7 +286,15 @@ Cynewulf had enough of Ecgbehrt ending their talks with another chore.
 
 Cynewulf scowled. "Then why?"
 
-Ecgbehrt shrugged. "Because you never speak of your pain while you're mending something. Galatians tells us _Bear one another's burdens._ You seem to complain less when you take on a burden freely."
+Ecgbehrt shrugged. "Because you never speak of your pain while you're mending something. Galatians tells us _Bear one another's burdens._"
+
+“And _every man shall bear his own burden_,” Cynewulf replied.
+
+Ecgbehrt sighed. "I think that's the _only_ part you remembered."
+
+Cynewulf whispered. "It's the only part worth remembering."
+
+"Well you do seem to complain less when I have you fixing things."
 
 "I'm repaying... your kindness... the hearth and food. That is all."
 
@@ -294,7 +302,7 @@ Ecgbehrt shrugged. "Because you never speak of your pain while you're mending so
 
 Cynewulf frowned but said nothing.
 
-Ecgbehrt continued. "Have you ever wondered what would happen if men stopped caring about each other? The widow loses her roof. The traveler freezes beside the road. The sick go unattended. The hungry stay hungry. Scripture tells us to bear one another's burdens. I suspect it is because the world becomes a very dark place when nobody does."
+Ecgbehrt continued. "Have you ever wondered what would happen if men stopped caring about each other? The widow loses her roof. The traveler freezes beside the road. The sick go unattended. The hungry stay hungry. Scripture tells us to bear one another's burdens because the world becomes a very dark place when nobody does."
 
 Cynewulf stared at the steps, his mouth turned jagged and hateful. "You're a fool, Father. I've walked the Road. Nobody cares."
 

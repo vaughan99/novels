@@ -44,20 +44,6 @@ Target Huginn-Muninn exchanges and limit them. Make exchanges sharper and shorte
 
 ---
 
-Move Cynewulf's reformation to St Wystan's in Repton. There used to be an abbey there that was destroyed with the Great Heathen Army, and what popped up later was a minster with a church.
-
-Don't call the head man an abbott. He is Father Ecgberht.
-
-St Wystan's has a large crypt under the church for Mercian nobles and St Wystan himself. That makes for even more dialogue opportunities.
-
-"St Wystan could have been one of your victims. Look now upon his tomb. When you think of who you've wronged, remember that they now live in the dirt. Look at the ruins around you. When the body of the great heathen beast came, it brought wreckage, destruction, and death. What good came of that? Look at you now. For all your depredations, you did exactly that the beast did, and have exactly the same to show for it. Nothing."
-
-Then Galatians.
-
-Stick. Then carrot.
-
----
-
 
 "Tell me, Saxon, does your hate go beyond the Dyke? Or are you staring at me because I'm pretty."
 
@@ -111,7 +97,7 @@ At that moment, there was the sound of hoofbeats from the Church yard and the ye
 
 Cynewulf stepped forward from the threshold to stand between the two groups. The Welsh had their hands on the knives at their belts and seemed ready for trouble.
 
-"Lord Reeve, these men travel under the king’s peace. I’ve examined their charter. It is good. Father Ecgberht can attest."
+"Lord Reeve, these men travel under the king’s peace. There is a charter. Father Ecgberht can attest."
 
 The reeve raised his hand. The spears stayed leveled, but the men relaxed their posture. The Welsh hands did not leave the handles of their blades.
 
@@ -177,11 +163,6 @@ This leave, protection, and safe passage shall endure until the Feast of Saint J
 
 ---
 
-So the introduction between Madoc and Cynewulf should be when Madoc addresses Father Ecgbehrt in the nave of the chapel. Madoc produces the charter to assure Ecgbehrt they are not raiders.
-
-Cynewulf steps up and validates it, then points out that he could've pressed for a better deal.
-
----
 
 ### Notes: Madoc, Repton, St Wystan’s, charter, and Cynewulf recruitment
 
@@ -529,10 +510,3 @@ After the campaign, the Teeth acquire:
 Also, Madoc will ask Father Ecgbehrt for the holy water, according to the charter.
 
 ---
-
-Change to chapter 1 and later dialogue with Hacca to better sharpen the Blackshield reveal.
-
-One of Olaf's captains complains that the ale theft might be the work of Blackshield, who has operated on that road before, and had a habit of stealing ale and nailing men to the underside of wagons.
-
-The theory is rejected when Olaf says that the survivors tell stories that are not of this world.
-
