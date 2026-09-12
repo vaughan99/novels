@@ -242,22 +242,14 @@ He reached for a small, polished horn hanging from his belt and produced a tiny,
 
 ---
 
-Huginn held his right wing up to his beak, and his left wing up to the side of his ear, pretending to be holding in an earpiece.
+Huginn: "He wasn't your average garden gnome."
 
-Huginn: "Good evening! Huginn Featherstone and Muninn Mockbottom reporting live from the Charnwood Olympic Training Center, where Team Danelaw has begun preparations for the first-ever Lunar Games! They think they have a new ringer in the form of Elswyth Coalergirl, a local product from nearby Under-Geat!"
+Muninn: "Historically, he'd be called a dwarf, or perhaps an earth-spirit."
 
-Muninn: "There were no Lunar Games."
+Huginn: "He's a multi-talented dwarven earth-spirit."
 
-Huginn: "Sources say the coach is done giving his student the pep talk, and tomorrow the training begins in earnest."
+Muninn: "I guess how you view him depends on the circumstances. History. Culture. Phases of the moon."
 
-Muninn: "It wasn't a pep talk..."
+Huginn: "I prefer to think of him as culinarily sophisticated."
 
-Huginn: "Sorry Muninn, your mic is cutting out there. The coach thinks she has real talent in the hundred-yard coal-bag relay and an outside shot at winning in the youth division in the timber events."
-
-Muninn: "I..."
-
-Huginn: "Coach Fussleton tells us his athlete has tremendous potential, though he insists she needs to eat more before training begins. Apparently the coach has her meal plan all worked out."
-
-Muninn: "...but..."
-
-Huginn: "Right you are Muninn. Coach says she could stand to build up those muscle fronds before tackling timber events. It takes more than moonlight and a bad attitude to swing a felling axe. Our insiders tell us his plan calls for good rhythm and flea's-leg timing. Back to you in the studio."
+Muninn: "To you, a squirrel is culinarily sophisticated."

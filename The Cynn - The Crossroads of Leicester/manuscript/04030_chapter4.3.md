@@ -272,13 +272,9 @@ Bite the other, and you’ll die.
 
 "The rhyme was there *ALL THIS TIME*, Meadow-bud," he hissed, saliva dripping from his lips and his tongue snaking over his stalactite teeth.  "I had you repeat it, *under the touch of the sky*. Over, and over, and over!"
 
-He looked down at the ground between them, no longer speaking to her at all.
-
-"Oh I can't stand it. I gave her hints. She clearly trusted me too much. What kinds of lessons should I learn for next time?"
-
 "You're... a..."
 
-"Monster?" he looked back up at her. "Why yes, a very... famished... monster. With refined taste. And better manners."
+"Monster? Why yes, a very... famished... monster. With refined taste. And better manners."
 
 He sniffed, then tasted the air.
 
@@ -330,7 +326,7 @@ He laid the silver blade against the rake's handle.
 
 "and iron..." 
 
-Without breaking her gaze, 
+Without breaking her gaze.
 
 One smooth draw.
 
@@ -342,7 +338,7 @@ He put his hand to his chin. "You know, I did forget to tell you one thing. Abou
 
 Elswyth's heart froze.
 
-"That first full moon after you were in my camp, I found the Vikings that took your mother. I had my eye on the Viking who chased you. Very mundane. Somewhat embarrassed I went to all the trouble, actually. And then I saw her."
+"That first full moon after you were in my camp, I found the Vikings that took your mother. I had my eye on the Viking who chased you. The one with the smiling wolf pelt. Very mundane. Somewhat embarrassed I went to all the trouble, actually. And then I saw her."
 
 Elswyth drew a breath.
 
@@ -352,7 +348,7 @@ Elswyth dared to let her heart fill with hope.
 
 "The soot-char should have been the memorable part. It wasn't. Didn't even bother with morels or sauces."
 
-Her eyes were as big as moons. Elswyth screamed.
+Her eyes grew as big as moons. Elswyth screamed.
 
 "Are you _really_ that upset? You assumed she died, _Meadow-bud_. Does it really matter if it was at the hands of Vikings, or in the service of a better cause?"
 
@@ -360,7 +356,7 @@ Her eyes were as big as moons. Elswyth screamed.
 
 "You aren't even going to ask?" Fussleton shook his head.
 
-"The better cause: her death taught me something. The moon's flavor is sweet, yes. Charring and smoking are good flavors too."
+"The better cause: her death taught me something. The moon's flavor is sweet, yes. Charring and smoking are good flavors too. You charcoalers are really onto something."
 
 Fussleton looked straight into Elswyth's eyes.
 
@@ -777,16 +773,18 @@ _I have to leave_.
 
 ---
 
-Huginn: "Today we're interviewing Naz T. Cuss, the winner of the Forge-Elf Cooking Challenge. He's the one whose menu was chosen for the _Spotted King_ today."
+Huginn: "Hope is a marinade? Interesting."
 
-Muninn: "Not this again..."
+Muninn: "Please don't."
 
-Huginn: "So, Naz, how _did_ you come up with this menu, today?"
+Huginn: "Fear probably toughens the meat."
 
-Huginn-as-Naz: "Well, Huginn, I uh... saw a dead hedgehog on the side of the Road this morning, on the way to work... and uh... decided that if we re-forge it with some spoiled herring and onions... well... everything just came naturally from the moment."
+Muninn: "Huginn."
 
-Muninn: "You sound nothing like Naz."
+Huginn: "Anger makes it... _SPICY_."
 
-Huginn: "You have to admit he made a wonderful menu."
+Muninn: "She survived because she refused to become supper."
 
-Muninn: "Yes. I think _you'd_ call it 'Tuesday night's supper.'"
+Huginn: "..._aaaaand_... tenacity... is a preservative."
+
+Muninn: "I should avoid handing you ingredients."

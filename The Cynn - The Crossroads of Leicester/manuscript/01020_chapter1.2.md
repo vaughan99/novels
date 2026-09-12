@@ -12,21 +12,19 @@ The shadow had the shape of a man. An Osric-shaped man. He held a burn-pole, a r
 
 _Is he guarding me? Does he know I'm here? Impossible._
 
-He never said a word.
-
-Osric stared at the army across the wall.
+He never said a word. Instead, Osric stared at the army across the wall.
 
 Among the army of Olaf were Northumbrian levies, farmers like Osric from neighboring towns but paying homage to York instead of the Saxons. He had hoped not to meet them in battle, as his wife's kinsmen were from the _Piceringas_ near York, and he had traded with others on Olaf's side.
 
-Edmund stood with his spear held high. Unbeknownst to Olaf, a line of horsemen with ladders were waiting for the signal.
+Edmund stood with his spear held high, a red ribbon tied to the neck. Unbeknownst to Olaf, a line of horsemen with ladders were waiting for the signal.
 
 Edmund dropped the point of his spear, the ribbon falling downward like a red flake of snow. The horsemen spurred their horses, the ladders tied to the saddles behind them. The entire army fled east after them.
+
+Olaf's men saw Edmund's army run, and cheered. Olaf and his captains were confused.
 
 The Tyne River fyrd doubled back. Osric followed Galindo back behind the line of willows and waited. He stared at Galindo's hand, waiting for it to drop.
 
 The riders to the East Gate set their ladders to the wall moments after arriving, the horde of Saxons not far behind them. Several riders were lost, but the East Gate was won and held open.
-
-Olaf's men saw Edmund's army run, and cheered.
 
 Then... they heard the drums from the southern wall and yells that the Saxons were changing positions. The drums from the East Gate sounded next. And they knew the Shadow Gate was a ruse. All available Danes rushed to the East Gate.
 
@@ -38,7 +36,11 @@ Upon the rush to the East Gate, it was clear: Olaf's men over-committed.
 
 Galindo gave a prayer in Spanish, turned his horse toward the East Gate, and dropped his hand.
 
-The fyrd rushed forth. They pounded the gate, they climbed the ramshackle wall, and while some died, the resulting battle was short.
+The fyrd rushed forth. Osric reached a stretch of wall with more stone than wood. He lacked the strength to climb quickly, so he dropped to the ground on his hands and knees. Fyrdmen climbed his back, throwing one leg over the wall before the other.
+
+Others pounded the gate, breaking its meager crossbar.
+
+The thirty Danes formed a shield wall, but the fyrd descended on them from their flanks. The resulting battle was short.
 
 Galindo looked over his shoulder at his best men of the fyrd, looking for a sign. Once given, he drove his spurs and the horse leapt into action.
 

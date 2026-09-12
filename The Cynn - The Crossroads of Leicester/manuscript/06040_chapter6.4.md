@@ -426,11 +426,11 @@ Madoc smiled expectantly, but Cynewulf didn't respond. "And you need... what? Yo
 
 "Yes."
 
-"There's a war on. Smart men survive, get paid."
+"There's a war on. Smart men survive _and_ get paid."
 
 "There's always a war on. I don't care. I'm not interested in the squabblings of kings. Not anymore."
 
-"Your purse disagree. You come... with us. We teach you our way. You teach our way to Saxons, but better English. By then, you like... our war way. You'll see. Equal treasure for you."
+"Your purse disagrees. You come with us, yeah? We teach you our way, and you'll teach others to leave us alone. You'll see. Equal treasure for you."
 
 Cynewulf looked for Ecgbehrt, but he had left to retrieve a vial of holy water. Cynewulf chuckled.
 
@@ -442,17 +442,17 @@ Milli smiled at him. "You thought you had a choice?"
 
 The three started walking outside. Madoc spread his arms wide to introduce Cynewulf to the war band.
 
-"Welcome to the _Dannedd y Ddraig_! The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it pay well."
+"Welcome to the _Dannedd y Ddraig_! The Dragon's Teeth in your language. We all speak English here. It may be the language of the barking lowland dogs, aye, but it pays well."
 
 The others greeted him with rough nods and claps on the shoulder, a warmth that felt like he might be a brother in arms. They were quick to accept, but he imagined they were quick to turn if he crossed them.
 
 Madoc laughed... and then switched to Welsh. "And look friends, I found us a target! If we polish him up, he might pass for a commander. If we're lucky, all the arrows will fly towards him!" They laughed even harder. Cynewulf didn't understand any of it, but he laughed nervously anyway.
 
-Among them were two women, their leather tunics as scarred and stained as the men’s. One of them, who had been hunched over a pile of wool, stood up as the laughter died down. She slung a heavy, red-painted dragon cloak over Cynewulf’s shoulder with a sudden, practiced flick.
+Besides Milli, there was one other woman. Her leather tunic was as scarred and stained as the men’s. She had been hunched over a pile of wool, but stood up as the laughter died down. She slung a heavy, red-painted dragon cloak over Cynewulf’s shoulder with a sudden, practiced flick.
 
 She stood before him, hands on her hips, a sharp, challenging smile on her face. She reached into a pouch at her belt and tossed a bone needle and a length of waxed twine into his chest.
 
-"She's yours now!" she barked, gesturing to the cloak. "I'm not your tailor-maid, Saxon. You want to look like a dragon, you learn to stitch your own scales." She stood up on her toes, and pretended to flap her wings and sew her sides at the same time.
+"She's yours now!" she barked, gesturing to the cloak. "I'm not tailor-maid, Saxon. You want look of... dragon, you learn stitch... own scales." She stood up on her toes, and pretended to flap her wings and sew her sides at the same time.
 
 The band laughed once again. The warrior-maiden turned to face the band and gave a deep bow and a smile. They roared with delight.
 
@@ -498,13 +498,15 @@ Haraldr opened his hand. Milli gave it to him, and he read it with a keen eye, p
 
 "Assuming you survive, are you coming back this way when you leave for Powys?"
 
-Madoc nodded. "We plan to spend silver here. Hides for tanning. We make leather."
+Madoc nodded. "We plan to spend silver here and gather hides for tanning. We make leather."
 
 Haraldr chuckled. "I suppose that goes hand-in-hand with stealing cattle?"
 
 Madoc kept his mouth shut.
 
-"Very well. The king wants you for his campaign, let him have you. Godspeed."
+"Very well. The king wants you for his campaign, let him have you. Godspeed, Madoc. We'll be counting our cattle."
+
+The hearthguard turned and left.
 
 The next morning, the _Dannedd y Ddraig_ were a riot of noise, singing bawdy songs of the Welsh hills that made the local wayfarers scramble into the ditches to give them a wide berth. They were loud, boisterous, and utterly indifferent to the judgment of the world.
 

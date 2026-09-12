@@ -433,68 +433,41 @@ To keep her mind sharp, she practiced the gnome’s rhymes. She used her mushroo
 
 Huginn: "Now that Elswyth has learned rhythm, I think it's time you met Steve."
 
-Muninn: "I don't see anybody here but children."
+Muninn: "Who is Steve?"
 
-Huginn produced an eyeball hiding under his wing. It looked nervous.
+Huginn produced an eyeball from beneath his wing. It looked nervous.
 
-Muninn: "Ummmm. Huginn?"
+Huginn: "Steve. The Drummer."
 
-Huginn: "Meet Steve!"
-
-Muninn: "You've been having conversations with Steve's eyeball?"
-
-Huginn: "So?"
-
-Muninn: "His eyeball *listens* to you?"
+Muninn: "...You've been talking to an eyeball."
 
 Huginn: "He reads beaks."
 
-Muninn: "And how do you know he is reading your... beak"?
+Muninn: "And talks back?"
 
-Huginn: "He has expressive eyes... Eye."
+Huginn: "He nods. Yes-or-no questions."
 
-Muninn: "And... how does he tell you things?"
+Muninn stared at Steve. "And you've decided he's a drummer?"
 
-Huginn: "He nods."
+Huginn: "_He_ decided he's a drummer. He nods to the beat."
 
-Muninn: "He nods?"
+Muninn: "He has no hands."
 
-Huginn: "Yeah I ask him yes/no questions and he nods."
+Huginn: "Or feet."
 
-Muninn: "So how do you know he's a drummer?"
+Muninn: "Drumming requires hands or feet... preferably both."
 
-Huginn: "He nods to the beat."
+Huginn tucked Steve closer beneath his wing. "He's going through a rough time. We need to have faith in him."
 
-Muninn: "He's a drummer?"
-
-Huginn: "Yes."
-
-Muninn: "With no hands. Or feet."
-
-Huginn: "Drummers lose appendages sometimes. They make up for it."
-
-Muninn: "No drummer has lost _every single appendage_! AND THEN REMAINED A DRUMMER!!"
-
-Huginn: "All it means is that Steve has _one less thing to unlearn_! Steve will find a way. We all need to have faith in him. He's going through a rough time."
-
-Muninn: "And... how do you know?"
+Muninn: "How do you know he's going through a rough time?"
 
 Huginn: "Steve told me."
 
-Muninn: "Through his eye."
+Muninn looked at the eye.
 
-Huginn: "Expressive eye. Remember he nods. We established this."
-
-Muninn: "Huginn?"
-
-Huginn: "Yes?"
-
-Muninn: "Steve can stay, but I don't think he should be a drummer."
-
-Huginn: "Are you sure he can stay?"
-
-Muninn: "Absolutely."
+"...Steve can stay."
 
 Huginn: "Steve says thank you."
 
 Muninn: "Tell Steve... nevermind."
+

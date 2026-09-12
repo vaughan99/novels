@@ -442,7 +442,7 @@ However, combat training in Valhalla is now **strictly optional**.
 
 Feast hall deliveries, please follow the signs to the loading bay.
 
-Also, our premiere theme park "Ragnarök: The Experience"
+Also, our premier theme park "Ragnarök: The Experience"
 is temporarily closed for renovations. The World Serpent
 keeps awakening and destroying the stadium.
 Please avoid the attraction until further notice,
@@ -569,7 +569,7 @@ Huginn turned his head slightly.
 
 "It'll arrive when it's needed."
 
-Odin led the group to the back stage entry, and flashed a badge that let them all in.
+Odin led the group to the backstage entry, and flashed a badge that let them all in.
 
 Meanwhile, the on-stage barker was whipping the crowd into a frenzy. Souls from every road into the Commons had gathered, many leaving their own eternities for perhaps the first time in centuries. Rumor had spread that someone had reinvented the wheel.
 
@@ -607,7 +607,7 @@ _The curtain dropped._
 
 _One enormous monowheel slowly rolled out._
 
-The crowd sat stunned. They saw a single giant wheel made of rubber with animalistic drawings on the rim, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh the Caveman, who had been in his cave in the afterlife working quietly for fifty millenia perfecting his invention.
+The crowd sat stunned. They saw a single giant wheel made of rubber with animalistic drawings on the rim, approximately the width of a car. Inside, suspended, was the body of a sport SUV made completely of futuristic carbon-fiber. In the driver seat was the original inventor of the wheel, Lughh the Caveman, who had been in his cave in the afterlife working quietly for fifty millennia perfecting his invention.
 
 Lughh leaned out the window and gave a thumbs-up. He was dressed in his traditional furs, trendy leather sport sandals, and aviator-style sunglasses. Beneath his untamed beard and hair, his smile was absolutely effervescent.
 
@@ -651,7 +651,7 @@ Lughh: "No, feet push sticks. Sticks push anti-dirt. Big fire inside."
 
 The audience quickly hushed.
 
-Barker: "Do you mean to tell me this vehicle is nuclear? As in antimatter annhilation?"
+Barker: "Do you mean to tell me this vehicle is nuclear? As in antimatter annihilation?"
 
 Lughh: "Big Fire! Go fast!"
 
@@ -801,7 +801,7 @@ Barker: “Well!... there you have it, folks! You are looking at the future of f
 
 The roar of the crowd faded as Odin, the ravens, and the robot following several paces behind filed into the backstage entrance.
 
-Backstage Producer: "Okay, I have Odin and the ravens. We're walking back to rehearsal. Get everyone ready for equipment check and walk-through."
+The backstage producer quickened the pace. "Okay, I have Odin and the ravens. We're walking back to rehearsal. Get everyone ready for equipment check and walk-through."
 
 The producer led them through a maze of corridors to the soundproof rehearsal room, where the Skeleton Crew was waiting.
 
@@ -859,7 +859,7 @@ Huginn pushed the stool aside and took a mirror off the wall. He positioned the 
 
 Huginn handed the drumsticks, seven of them, to Plan B's other arms.
 
-Buh-Dum-Pshhhhhh!
+_Buh-Dum-Pshhhhhh!_
 
 Huginn nodded his head in approval. "Perfect!"
 
@@ -875,7 +875,7 @@ Muninn scratched his head with a wing. "So why were you testing yourself against
 
 "An engineering assumption. My processor is weak. My memory is small. I hypothesized I would be less susceptible to distraction by overly complex reasoning."
 
-Muninn thrust both wings into the air, having an epiphany. "Less susceptible to distraction??? Huginn! Finally... you can learn a lot from this one!"
+Muninn shook his head. "Huginn, please learn something from Plan B."
 
 Odin had already set his guitar case on the floor and flipped open the latches. Inside rested an epic electric guitar fashioned from ancient bog oak and three-hundred-layer pattern-welded steel. He plugged it into the amplifier.
 
@@ -887,18 +887,18 @@ Huginn fished a silver necklace bearing a large **ᚨ** (_Ansuz_) medallion from
 
 He cleared his throat.
 
-Then began reciting _Beowulf_.
+Then began reciting a few lines of _Beowulf_ as a mic check.
 
 Muninn decided that if he had no formal role as a musician, then he would have one as the band's representative. He stepped aside and fished a pair of dark sunglasses from beneath a wing.
 
 He slipped them on.
 
-"Well," he murmured as he looked at you, the Reader, "somebody has to remember to make sure we get paid."
+"Well somebody has to remember to make sure we get paid."
 
-"Microphone checks out. Sound check, everyone."
+Huginn looked up from the mic. "Microphone checks out. Sound check, everyone."
 
 The Skeleton Crew settled into place. The second guitarist and bassist flexed bony fingers over their strings. The keyboardist ran a quick trill from the lowest key to the highest. Plan B lifted Steve over the drum kit, seven drumsticks poised in patient mechanical hands.
 
-Odin struck a chord, heavy and low, that settled somewhere deep in everyone's bones.
+Odin struck a chord, heavy and low, that settled somewhere deep in everyone's bones... especially those of the Skeleton Crew.
 
 "Let's begin."
