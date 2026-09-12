@@ -1,12 +1,6 @@
-# AFTERLIFE: A Gratuitous View of Life After Life
+# A Cynn Short Story: The Afterlife
 
-It had been a brutal trek.
-
-"My wings are absolutely killing me," Huginn grouched, landing on a wooden picnic bench and shaking out his glossy primary feathers. "Did the Author really have to write a miles-long Afterword? We’ve been flying through dense paragraphs of weapon-crafting metallurgy and historical sword documentation for an eternity just to get to the back matter. I feel like I need to be quenched."
-
-Muninn let out a loud, ecstatic caw, tilting his head back in pure relief. "Are you kidding? I loved it! The Author TRULY gets me! All those historical citations, the etymology of the blades, the archeological context... it’s beautiful. I haven't felt so validated as when Wikipedia first opened its website."
-
-"You're a nerd, bro," Huginn muttered.
+After a short walk through the margins of their last story, they found themselves at the boundary of the mortal world. With one more step, they crossed into the Afterlife.
 
 They had arrived at _The Afterlife Commons_, a place where every tradition maintained a road back to its own eternity, yet all shared this space. It resembled a fairground, with a broad green field fading into mist at the edges.
 
@@ -645,7 +639,7 @@ Lughh: "Idea: Me. Design: DaVinci. Numbers: Einstein. Big Fire: Oppenheimer. Spi
 
 The barker brought the microphone to Leonardo da Vinci. "So, what's it like to work with the original designer of the wheel?"
 
-Leonardo leaned into the microphone. "It was an honor to work with this genius. Truly ahead of his time. It's a shame that technology held him back for so long. I must say, his cave drawings were the stuff of legend. Drive schematics. Containment fields. Spear-sharpening accessories. Cup holders. All rendered in perfectly measured charcoal and fifty-three shades of ochre. He really brought this project together. We could all tell he had been thinking about this for a long, long time."
+Leonardo leaned into the microphone. "It was an honor to work with this genius. Truly ahead of his time. I must say, his cave drawings were the stuff of legend. Drive schematics. Containment fields. Spear-sharpening accessories. Cup holders. All rendered in perfectly measured charcoal and fifty-three shades of ochre. We could all tell he had been thinking about this for a long, long time."
 
 The barker went back to Lughh. "Drive schematics? Let's talk about this. So is it an EV, or does it run on gas?"
 
@@ -663,7 +657,7 @@ Lughh: "Big Fire! Go fast!"
 
 Lughh gave a double thumbs-up, and the audience laughed. The gesture shifted into a double index-finger point toward Oppenheimer as the barker carried the microphone to him.
 
-Oppenheimer: "When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... _rather unique_... propulsion system. We decided that a small antimatter reactor provided the energy necessary to make the spirit drive work. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever to be engaged during navigation. Our part of the design required over three thousand deceased scientists and approximately fifty years to make it work. But, Lughh was there for every project meeting. Our contribution was largely one of implementation. Lughh had already settled the theoretical questions."
+Oppenheimer: "When the proposal was brought to me, I realized that we'd have to harness enormous amounts of energy to accomplish the needs of the... _rather unique_... propulsion system. We decided that a small antimatter reactor provided the energy necessary to make the spirit drive work. To accommodate the driver's preferences, we reduced the control interface to a single pedal-operated lever to be engaged during navigation."
 
 Lughh held out both hands and brought them together to make his meaning clear.
 
@@ -673,21 +667,11 @@ Barker: "So we've kind of danced around the topic here. This propulsion system. 
 
 Lughh: "No. It not roll. Wheel 1.0 _roll_."
 
-Lughh spun three times, then pointed to Nugh with a huge smile.
-
-Nugh: "Me shaman. Animal Spirit Drive." He waved his hand around the wheel.
-
-Barker: "You're saying the vehicle teleports?"
-
-Nugh: "No. No _teleport_. Become animal spirit. Travel spirit road."
+Nugh: "Me shaman. Animal Spirit Drive. Become animal spirit. Travel spirit road." He waved his hand around the wheel.
 
 Barker: "So the whole vehicle, including the giant wheel, becomes the spirit of say... a badger?"
 
 Nugh: "Ha! Not badger. Badger for army. Rabbit for family."
-
-Barker: "So what's the point of even having a wheel to begin with?"
-
-Nugh: "Wheel of life. Spirit wheel." Nugh traced a slow circle around the vehicle with his hand.
 
 Barker: "Okay, so the wheel spinning... helps with the vehicle becoming a spirit rabbit... that can then traverse the spirit realm to your destination."
 
@@ -701,7 +685,7 @@ Barker: "Ooooh, it's a _trade secret_, folks. Yes, let's keep the competition gu
 
 Nugh: "Big fire. Small space. Big spirit."
 
-The barker went to Einstein, the only member of the design team not already engaged.
+The barker went to Einstein.
 
 Barker: "So what was your contribution?"
 
@@ -731,15 +715,15 @@ Barker: “So... no collisions? Not even with other animal spirits.”
 
 Lughh looked at Einstein.
 
-Einstein: “No. We found that the animal-spirit realm is non-collisional with respect to ordinary space. There remain only two opportunities for collision: narrative convergence within the spirit realm, and physical convergence during re-entry into ordinary space-time. Each spirit occupies a distinct migratory manifold. They may pass through the same myth, but not the same space. You simply tell the car narratively how to arrive. Assuming a unique narrative pathway is selected, the only remaining challenge is re-entry. A sufficiently creative narrative is vastly less likely to terminate at the same point in ordinary space-time as another. Thus, creativity mitigates both forms of collision.”
+Einstein: “There remain only two opportunities for collision: narrative convergence within the spirit realm, and physical convergence during re-entry into ordinary space-time. Each spirit occupies a distinct migratory manifold. They may pass through the same myth, but not the same space. Assuming a unique narrative pathway is selected, the only remaining challenge is re-entry. A sufficiently creative narrative is vastly less likely to terminate at the same point in ordinary space-time as another. Thus, creativity mitigates both forms of collision.”
 
-Oppenheimer: "We found in our testing that adding just a dragon to the story ending reduced parking collisions by 98.3%. However, if each party added a dragon to their story at exactly the same point, the risk of spirit-realm collisions increased by 10.6%. Dragon inclusion served as our baseline during the narrative trials. They are densely distributed throughout common narrative traditions, making them an informative reference case. Varying the dragon's color had a surprisingly positive effect."
+Oppenheimer: "We found in our testing that adding just a dragon to the story ending reduced parking collisions by 98.3%. However, if each party added a dragon to their story at exactly the same point, the risk of spirit-realm collisions increased by 10.6%. Varying the dragon's color had a surprisingly positive effect."
 
 Einstein: "Yes, but that assumes dragon density in narratives is representative of the broader monster distribution."
 
 Barker: "So, don't _just_ add a dragon, then. Give it a fun color, and don't forget to accessorize!"
 
-Einstein: “We are working on a narrative collision-warning system. It will tell the storyteller to change course or slow down their narrative pace so as to avoid narrative-pathway intersection. Which would be catastrophic, if you were a spirit rabbit. Of course, it will also encourage more creative storytelling, which is the equivalent of discovering new spirit-realm topologies to traverse. It will be ready by the time of launch.”
+Einstein: “We are working on a narrative collision-warning system. It will tell the storyteller to change course or change pace so as to avoid narrative-pathway intersection. Which would be catastrophic, if you were a spirit rabbit. Of course, it will also encourage more creative storytelling, which is the equivalent of discovering new spirit-realm topologies to traverse. It will be ready by the time of launch.”
 
 Barker: “Ooooohh...kay... So telling wilder stories means no collisions and less time finding a parking space! Fantastic! Finally, a vehicle where lying to your children improves safety. Am I right?”
 
@@ -747,11 +731,7 @@ The audience cheered enthusiastically.
 
 Barker: "So I heard the scary word: _antimatter_. You can't just make antimatter on board, can you. You'll need a refill, right?"
 
-Oppenheimer: "Yes, our data suggest that an ordinary driver attempting a rather mundane trip to and from work, along with a family trip to market once per week, with an ordinary story can reliably get," he looked at his colleagues who nodded in approval, "eight thousand years of use from one small ten gram packet of antimatter. For a rather uninspired imagination."
-
-Barker: "Why do you tie it to imagination?"
-
-Oppenheimer: "Well, more creative journeys explore more of the spirit-universe manifold, which requires considerably more energy but also produces greater spirit torque and acceleration. If you tell the drive simply to hop to Boston through the spirit world, the journey may take a few hours, assuming no one else has supplied precisely the same narrative instructions. If, however, the story involves transforming the cabin into a triceratops and the family into a band of barbarians wielding candy-cane battle-axes, you may arrive in a matter of minutes. Such narratives force the vehicle through increasingly unusual regions of the manifold, where the available pathways become both less congested and more energetic. Our data indicate that one triceratops/barbarian trip consumes roughly one gram of antimatter... rounded up."
+Oppenheimer: "Yes, our data suggest that an ordinary driver attempting a rather mundane trip to and from work, along with a family trip to market once per week, with an ordinary story can reliably get," he looked at his colleagues who nodded in approval, "eight thousand years of use from one small ten gram packet of antimatter. More creative journeys explore more of the spirit-universe manifold, which requires considerably more energy but also produces greater spirit torque and acceleration."
 
 Einstein: "I continue to object to the term _spirit torque_. If one generalizes the equations to permit arbitrary spirit animals, the units no longer reduce cleanly. A _Newton-rabbit-meter_ cannot simply become a _Newton-hedgehog-meter_ without redefining the entire dimensional basis. The equations ought to depend upon invariant quantities... like the presence of whiskers... not the particular spirit animal chosen."
 
@@ -763,17 +743,13 @@ Einstein: "We're decidedly _undecided_ on the wording of the paper, _as of yet._
 
 Barker: "So how fast can this thing _really_ go? I mean, is car-racing going to be a sport in the near future?"
 
-Da Vinci: "Well, I don't quite understand this obsession with tremendous speed, but we anticipate such contests will be dominated by very creative storytellers. The limiting factor will not be aerodynamics, but an economy of narrative with respect to fuel. The vehicle's interior forms part of the story itself, so we expect every driver will customize the cabin to better support the narrative chosen for the race."
+Da Vinci: "We anticipate such contests will be dominated by very creative storytellers. Long races will be won by rationing of narrative with respect to fuel. Short races will be won purely by imagination. The vehicle's interior forms part of the story itself, so we expect every driver will customize the cabin to better support the narrative chosen for the race."
 
 The barker looked at the audience. "Do you _know_ what this _means_? No skipping English class if you want to be a race car driver! And if you're studying interior design... congratulations, you're now part of the pit crew!"
 
 The audience clapped.
 
-Barker: "Ah, narrative-to-fuel ratio. That sounds like saving the _medieval-space-monkeys_ for the final lap. Seriously, what's the plan for fuel?"
-
-Oppenheimer: "We are reasonably confident that future racing facilities will require on-site tokamak-powered particle accelerators to sustain competitive operation. Based on current consumption models, we project one race approximately every 2.4 years. Should they adopt hares or hedgehogs, all projections must be revisited pending standardization of the reference spirit species."
-
-Barker: "So, I'm hearing that spirit rabbits are not set in stone. Could a family choose a different spirit animal for their vehicle?"
+Barker: "Ah, narrative-to-fuel ratio. That sounds like saving the _medieval-space-monkeys_ for the final lap. So, I'm hearing that spirit rabbits are not set in stone. Could a family choose a different spirit animal for their vehicle?"
 
 The Barker looked at the crowd with amusement.
 
@@ -783,23 +759,15 @@ Crowd: "Woohoo!"
 
 A man in the back yells: "Spirit Bear! Yeah!"
 
-Einstein: "We're currently collaborating with Aristotle on a comprehensive taxonomy of admissible reference spirit species. He is working with Nugh to identify what qualities of the rabbit make it particularly suitable to spirit world traversal."
-
-Nugh: "Whiskers. No... feet. No... hmmm... hard."
-
-Barker: "So what does the patent situation look like? Everything ready?"
+Barker: "So is everything ready for production?"
 
 Einstein smiled weakly.
 
-Einstein: "We are working on a solution."
+Einstein: "We are working on a solution to a patent problem."
 
 Barker: "A solution to what?"
 
-Einstein: "René Descartes holds a very old and surprisingly broad patent on animal-spirit technology. Descartes claims prior art in _L’Homme_, citing animal spirits as a mechanism of bodily locomotion."
-
-Barker: "René Descartes? As in 'I think, therefore I am'? That René Descartes?"
-
-Einstein: "Yes. As a former patent clerk, I'm advising on this matter. We believe his patent only covers the direction of spirit forces to one's own muscles. We also challenge whether he can establish infringement across non-material migratory manifolds."
+Einstein: "René Descartes holds a very old and surprisingly broad patent on animal-spirit technology. Descartes claims prior art in _L’Homme_, citing animal spirits as a mechanism of bodily locomotion. We believe his patent only covers the direction of spirit forces to one's own muscles. We also challenge whether he can establish infringement across non-material migratory manifolds."
 
 Nugh scowled.
 
@@ -813,7 +781,7 @@ Barker: “So all the families out there are dying to know... what kind of ameni
 
 Lughh: "Campfire console. Cave wall and paint. For kids. Berry Sorter. Spear rack. Two drink holders. Legend navigation system." Lughh looked at Da Vinci.
 
-Da Vinci: "We furnished the navigation system with every story ever written, allowing for the greatest possible variation in narrative pathways. We're including a plot builder, intuitive synonym suggestions, and narrative pacing control. As for the interior, our prototype settled on _Cave Nouveau_, with a touch of postmodernism. We wanted the occupants to feel simultaneously prehistoric... and unknowingly sophisticated."
+Da Vinci: "We're including a plot builder, intuitive synonym suggestions, and narrative pacing control. As for the interior, our prototype settled on _Cave Nouveau_, with a touch of postmodernism. We wanted the occupants to feel simultaneously prehistoric... and unknowingly sophisticated."
 
 Barker: "Excellent. So, I know these excited folks here are eager to see a demonstration!"
 
