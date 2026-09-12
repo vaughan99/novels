@@ -44,6 +44,72 @@ It realized, with a quiet sort of wonder, that Osric was thanking it. Accepting 
 
 That winter was the coldest in a lifetime. Osric's strength returned slowly. Water was plentiful so long as the fire could melt snow, but he had to ration his grain with agonizing care. That meant keeping the hearth-fire high to make sure he was warm. He had felled enough timber and stacked enough wood for what he thought would be a harsh winter. This winter, however, was relentless.
 
+The nisse nervously sat in the byre early one morning while Osric was asleep. It studied the frost, noticing it was coming closer to the livestock. Soon it would bite their hooves and their wings. 
+
+The nisse knew earth. But this frost could not be solved by earth.
+
+The silence was interrupted by a child's giggle.
+
+"Need help?"
+
+The nisse spun to the space where the voice came. The nisse started swelling with miasmic hate. It whispered in the most awful tone it could muster. "LEAVE!"
+
+Another giggle came from the opposite side, from behind the family pig. "See? Miasma. I told you it wouldn't like us."
+
+The nisse breathed in its miasma, and grew twice as large in one breath.
+
+"Easy!" said the first one. "We are here to help."
+
+The nisse paused, sniffing the air.
+
+"Help?"
+
+"You're looking to save the livestock from the cold," said the second voice.
+
+"You help?"
+
+"Yes!" said the first voice.
+
+The nisse blew out its hate, shrinking to its old withered form. It remained wary of the two voices, but as long as they were helping, the nisse decided it wouldn't say no.
+
+The nisse watched as footprints in the clay started walking around the byre.
+
+"Heat source?" said the first.
+
+"Wood?" said the second.
+
+"No. Body heat." said the first.
+
+"No. Lost too quickly. Cloaks?" said the second.
+
+"No. Cows don't wear cloaks." said the first.
+
+"Pack them closer." said the second.
+
+"No. Cockerels get trampled." said the first.
+
+Around the byre they went, throwing out ideas. They finally ended up face-to-face. They didn't realize it until it was too late... they had both stepped into the same pile of manure.
+
+There was a pause.
+
+"Manure!" they both exclaimed.
+
+"A hypocaust." said the first.
+
+"Underground." said the second.
+
+"Like in Leicester." said the first.
+
+"Except just for livestock." said the second.
+
+They both looked at the nisse, who had been trying to track the conversation.
+
+"Grab a shovel." said the first.
+
+"And... something for the manure. Our boots are... ruined." said the second.
+
+"Ick." said the first. And he meant it.
+
 Once Osric could finally stand on his own two feet, he decided to see what remained of his livestock. He chose a day when the air was still, when the cold's bite didn't cut quite as deep. He staggered out to the byre, his knees trembling, but stopped when he reached the door. The heavy drifts of snow had already been neatly dug away from the entrance.
 
 The hair on the back of his neck flared. He smelled the hint of smoke. Byres in flames are the worst thought of any farmer.
@@ -182,83 +248,55 @@ Then the _nisse_ ran into the byre. The warming stone had been kicked aside. Eve
 
 It sat on the floor, defeated.
 
-High on a timber of the byre, a raven called to the _nisse_. "Caw! Caw!" The _nisse_ stared at it for a moment. "Caaaw!" the raven flew out of the byre, and landed on a tree branch outside, looking back at the _nisse_ expectantly.
+The giggle re-appeared. The _nisse_ ignored it.
 
-The _nisse_ understood what the raven was saying. It raced to the corner and grabbed an empty barrel. Barrel in hand, it bounded into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The _nisse_ took ash from the hearth, and the roasting spit.
+"You must not give up!" said the first.
+
+The _nisse_ sat glumly, staring at the clay floor.
+
+"You have another part to play!" said the second.
+
+The _nisse_ looked up.
+
+"First, gather everything you can from their lives," said the first.
+
+"Gather your threshold stone, too. Very important!" said the second.
+
+"Then we'll lead you to the place where it can matter again," said the first.
+
+The nisse raced to the corner and grabbed an empty barrel. Barrel in hand, it bounded into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The _nisse_ took ash from the hearth, and the roasting spit.
 
 All of it went into the barrel.
 
-Finally, it found a length of rope. It dug the barrow-stone from the threshold, and wrapped it heavily, leaving two arm-loops. It lifted the barrow-stone onto its back, using the loops as straps. There, in the barrow-stone's impression in the mud lay the oil string. The _nisse_ grabbed that last, and tied it to its belt. And the _nisse_ headed out to the road, barrow-stone on its back, barrel in its hands. It stayed in the shadows, following the raven to Leicester.
+Finally, it found a length of rope. It dug the barrow-stone from the threshold, and wrapped it heavily, leaving two arm-loops. It lifted the barrow-stone onto its back, using the loops as straps. There, in the barrow-stone's impression in the mud lay the oil string. The _nisse_ grabbed that last, and tied it to its belt. And the _nisse_ headed out to the road, barrow-stone on its back, barrel in its hands. It stayed in the shadows, following the voices to Leicester.
 
 ---
 
-Huginn: "The _nisse_ on the road reminds me... You know after the story is done, we have that gig to get to."
+Huginn: "The _nisse_ on the road reminds me we have that gig to get to."
 
 Muninn: "Oh, not this again."
 
-Huginn: "By the way, the Skeleton Crew likes the name. I'm going to be the lead singer."
-
-Muninn: "_Who_ ... likes _what_?"
-
-Huginn: "The Skeleton Crew. The ones who play the other instruments? They like the name... of the band."
-
-Muninn: "We don't have a band."
-
-Huginn: "I'm the lead singer. The Skeleton Crew said I have the best voice."
-
-Muninn stared at him.
-
-Muninn: "Tell me the Boss is _not okay_ with this..."
-
-Huginn: "The Boss is playing guitar."
+Huginn: "Muninn, this is a big change for us. Can't you be excited?"
 
 Muninn: "No."
+
+Huginn: "And you'll love the name I came up with!"
 
 Huginn spread his wings dramatically and called triumphantly.
 
 Huginn: "Woadie and the Roadies!!"
 
-Long pause.
+Muninn: "I can't play an instrument."
 
-Muninn blinked.
-
-Once.
-
-Twice.
-
-Muninn: "You never asked me."
-
-Huginn: "Asked you what?"
-
-Muninn: "What instrument I'll play. But then again, we are ravens. We can't play instruments."
-
-Huginn: "That's why we need the Skeleton Crew. Duh."
-
-Muninn: "I have no memory of playing an instrument. How could I possibly learn one?"
-
-Huginn: "Steve will find you one."
-
-Muninn stopped in mid-wingbeat.
+Huginn: "Neither can I. But don't worry, Steve will find you one."
 
 Muninn: "And who exactly is Steve?"
 
-Huginn: "The drummer."
+Huginn: "The drummer. Can you play the maracas? Steve said you should."
 
-Muninn: "There is no drummer."
+Muninn: "No. I don't have hands."
 
-Huginn: "He's part of the Skeleton Crew."
-
-Muninn: "There is no band."
-
-Huginn: "Can you play the maracas? Steve said you should."
-
-Muninn: "No."
-
-Huginn: "You didn't even think about it."
-
-Muninn: "I don't have hands."
-
-Huginn: "You've identified the primary challenge, that's all. Maybe we make talon-grabbers that hold fake robot hands, and the hands hold the maracas..."
+Huginn: "Maybe we make talon-grabbers that hold fake robot hands, and the hands hold the maracas..."
 
 Muninn: "I hate you."
 

@@ -231,3 +231,13 @@ Then: _scrrtch_
 He peered. He saw straw poke out from the new daub.
 
 He turned back to his cove and he stared at the ground. His expression went blank. He sighed. He giggled. He realized with terrifying clarity that for his sanity: that was the last straw.
+
+---
+
+Huginn: "You see what I did there?"
+
+Muninn: "Nice pun."
+
+Huginn spread his wings, hopping from foot to foot in an increasingly elaborate little victory dance.
+
+Muninn: "Don't overstay your welcome."
