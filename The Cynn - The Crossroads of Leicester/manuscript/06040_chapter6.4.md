@@ -462,7 +462,7 @@ The joy of the gathering was pierced by the sound of hoofbeats. The hearthguard 
 
 Cynewulf stepped forward to stand between the two groups.
 
-"Lord Reeve, these men travel under the king’s peace. There is a charter. Father Ecgberht can attest."
+"Lord Reeve, these men travel under the king’s peace. There is a charter. Father Ecgbehrt can attest."
 
 The reeve raised his hand. The spears stayed leveled, but the men relaxed their posture. The Welsh hands did not leave the handles of their blades.
 
@@ -470,7 +470,7 @@ The reeve scanned the Welsh, then stared at Cynewulf from under the brow of his 
 
 "And who are you to judge the king's pen?"
 
-"I do not pretend to judge, Lord Reeve, merely report. Father Ecgberht has the sense of it."
+"I do not pretend to judge, Lord Reeve, merely report. Father Ecgbehrt has the sense of it."
 
 The reeve looked past Cynewulf to Father Ecgbehrt who had appeared at the church's threshold, holy water in hand. He saw a man whose face he'd known for thirty years.
 

@@ -42,7 +42,7 @@ _Fer-Main_ stared at him, the silence stretching until it felt like the air its
 
 His men laughed.
 
-_Fer Main_'s voice dropped into a dangerous register. "If the Bishop of Durham has a problem with the view, he can take it up with Witanceaster... and if he wants to stop it, he can send a fast rider with a bag of silver."
+_Fer-Main_'s voice dropped into a dangerous register. "If the Bishop of Durham has a problem with the view, he can take it up with Witanceaster... and if he wants to stop it, he can send a fast rider with a bag of silver."
 
 He snatched the charter from Cynewulf’s hands and tucked it into his belt. He looked up at the rider, his eyes cold.
 
