@@ -46,7 +46,7 @@ She was well versed in the old Northern hearth-ways. Osric didn't marry her for 
 
 Her family was established enough for three generations. Her great-grandfather, Ingvarr the Steady, son of Torsten, marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
 
-Ingvarr received a grevious wound that day, and died several weeks later.
+Ingvarr received a grievious wound that day, and died several weeks later.
 
 His men constructed a barrow on what was to be his new land. They laid Ingvarr to rest in the barrow. They laid his companions who were slain at York in the barrow too. The limestone with jet was put as the final stone on the barrow.
 
@@ -187,8 +187,6 @@ A _nisse_ would usually have a favorite animal, often a horse, that it protected
 
 She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin. 
 
-_We need extra tonight... and I know just what to make!_
-
 She steeled herself inside.
 
 She prepared a full meal fit for the first *true* winter night: mutton on the bone, pickled herring relish with sharp radishes, fresh bread, skyr cheese with honey, roasted sheep marrow directly from the fire, and salted ale-soaked prunes. Their feast lasted well into the evening. They joked about the braids on the horse... Osric thought the girls were playing maid to the horse, but Ealhild quietly knew the truth.
@@ -233,4 +231,8 @@ The syrup bottle opened normally, as the goblin-air had been spent by Osric a sh
 
 She woke each of the children, and Osric. And they all ate the medicine in the glow of the kitchen that night.
 
-The sickness hit the moment they each went to bed. The poison stole the air from their lungs, making them like fish trying to draw breath on dry land. The goblins overpowered their blood in the pitched battle. It's best not to speak of what happened next. What is best to say is that Ealhild and the children did not survive the night.
+The sickness hit the moment they each went to bed. The poison stole the air from their lungs, making them like fish trying to draw breath on dry land. The goblins overpowered their blood in the pitched battle.
+
+It's best not to speak of what happened next.
+
+What is best to say is that Ealhild and the children did not survive the night.

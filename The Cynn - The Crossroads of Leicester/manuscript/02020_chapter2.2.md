@@ -34,9 +34,9 @@ Its anger sated, the barrow-wight's form shifted. Slowly, the miasma released fr
 
 It entered the doorway, piles of thatch and snow in mounds before it. It crawled and slipped, finally finding the remains of the family. It found the bodies all in one place; the children had been brought with Ealhild to bed. She was still embracing her children, a crash of timber and snow on top of them.
 
-All had the tell-tale sign of the purple-skinned goblin sickness. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight. The _nisse_ searched further and found Osric next to the bed, not with the others under the heap.
+All had the tell-tale sign of the purple-skinned goblin sickness. The _nisse_ was crushed by the weight of the foul misery; the poison wasn't meant for it, and the sickness was a rot that knew no master. The goblins were everyone's enemy tonight.
 
-It looked at Ealhild’s purple lips. It looked at the quiet shapes of the children beneath the thatch. It knew the tragedy.
+The _nisse_ searched further and found Osric next to the bed, not with the others under the heap. His body was fighting the goblins, but it wasn't clear who was winning.
 
 All _nisse_ have a responsibility. Protection. They protect the family, the hearth, the home, the land, the livestock. Every blade of grass. Every laugh from the children. Every loving embrace of a husband and wife. And now, it was all... gone. The barrow-wight was a failure.
 
