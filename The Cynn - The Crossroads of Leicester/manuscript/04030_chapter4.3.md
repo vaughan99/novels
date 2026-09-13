@@ -49,7 +49,7 @@ Long-Mile grinned. "Who else?"
 
 They both laughed. "Shadow-Wife!"
 
-"And just yesterday, Beorn loudly proclaimed that the _Coaler-Wight_ was stealing butter from his churning barrels. That's when Shadow-Wife announced to everyone that was because the _Coaler-Wight_ only steals from those who water down their milk just before arriving at market."
+"And just yesterday, Horvaldr loudly proclaimed that the _Coaler-Wight_ was stealing butter from his churning barrels. That's when Shadow-Wife announced to everyone that was because the _Coaler-Wight_ only steals from those who water down their milk just before arriving at market."
 
 Elswyth shook her head. "The _Coaler-Wight_ is becoming very opinionated."
 
