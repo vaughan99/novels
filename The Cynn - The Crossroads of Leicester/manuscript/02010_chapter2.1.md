@@ -44,11 +44,15 @@ Huginn: "There, happy?"
 
 She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the southeast. It was a lush valley, free of boulders, and easy to plow.
 
-Her family was established enough for three generations. Her great-grandfather marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
+Her family was established enough for three generations. Her great-grandfather, Ingvarr the Steady, son of Torsten, marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
 
-He lost his brother and several friends in that battle, and he constructed a new barrow on his land for them. The limestone with jet was put as the cap on the barrow, the black streaks shining in the sun.
+Ingvarr received a grevious wound that day, and died several weeks later.
 
-Her grandfather bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
+His men constructed a barrow on what was to be his new land. They laid Ingvarr to rest in the barrow. They laid his companions who were slain at York in the barrow too. The limestone with jet was put as the final stone on the barrow.
+
+Ingvarr's wife was Ingrid, daughter of Ormr. She lived a long life with their children on that land until she died many years later. 
+
+Ealhild's grandfather bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
 Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord, Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked.
 
@@ -82,7 +86,7 @@ Huginn: "No, he's... Super-BOOOOAAARRR!"
 
 ---
 
-Ealhild's family were superstitious. The family barrow was young by Northmen standards. Her great-grandfather had helped raise it after coming south with Halfdan's host. Each generation added something to it... stories, bones, stones, and memories... until it seemed older than it truly was.
+Ealhild's family were superstitious. The family barrow was young by Northmen standards. Each generation added something to it... stories, bones, stones, and memories... until it seemed older than it truly was.
 
 Her mother taught her that one day, she would marry, and would travel far away. To carry the family traditions to a new valley was a great honor, and a great responsibility.
 
@@ -121,6 +125,14 @@ The dowry-promise of more cows was paid two years after she arrived, bringing th
 
 Twelve years had passed since their marriage. They were years of love, kinship, hard work, and children. Their hearth was one of the best smelling in all of the land. They had four children, two boys and two girls. They eagerly helped with chores, and brought very little mischief.
 
+The oldest was Ingi of eleven winters. He was like Osric. He went with Osric every day into the field, and came home each night stronger in the back and arm.
+
+The next oldest was Mathild. She had her mother's hair and her great-grandfather's market wisdom. At ten winters, she was already as dreaded in the market as any grizzled trader.
+
+Then there was Beorn of seven winters. His talent was whittling. He would often borrow Osric's hand-seax and make toys.
+
+Finally, there was the youngest daughter little Ealhild, but they affectionately called her _Eaxl_. When the wagons came into the yard, she would spin like the axle and wheel, making herself dizzy until she would fall. Then she would giggle, and do it again.
+
 The harvests of 940 and 941 were difficult. Osric's fellow farmers complained of the shuttering of the windows of Heaven, how the light didn't fall as it once had. Ealhild whispered that _Sköll_, the wolf-enemy of the sun _Sól_, was closing on its prey. The evidence was the shadow of the wolf's jaws on the land. Through it all, Osric's fields had better yields than his neighbors, though it was hard to understand why.
 
 When the harvest of 942 began to fail, the countryside was counting. Men counted sacks. Women counted animals. Everyone was wondering whether the coming winter was counting as well: the number of graves that would have to wait for spring's thaw.
@@ -137,7 +149,7 @@ He remembered the theft.
 
 The trouble began in the _eorth-hord_.
 
-Ealhild would note that each time she pulled grain from the chests in the eorth-hord, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints, no gnawed wood, no leavings of rats. She brought Osric over, candle in hand, to show him. He was tired from late fall's work: sowing the fields, fixing thatch, mending and insulating pens, and stacking the cord-wood. He hadn't even begun to move the animals to the byre and separate the cockrels. He had no time for such matters. "Ealhild, I trust you to work the eorth-hord," he muttered, his eyes heavy with exhaustion. "Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
+Ealhild would note that each time she pulled grain from the chests in the eorth-hord, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints, no gnawed wood, no leavings of rats. She brought Osric over, candle in hand, to show him. He was tired from late fall's work: sowing the fields, fixing thatch, mending and insulating pens, and stacking the cord-wood. He hadn't even begun to move the animals to the byre and separate the cockerels. He had no time for such matters. "Ealhild, I trust you to work the eorth-hord," he muttered, his eyes heavy with exhaustion. "Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
 
 And so she set to work. She started with the obvious things. "Maybe the feet of these rats are not heavy to make tracks?" With the width of her fingers as a guide, she meticulously measured each gap and every seal, every box and every salted wrap. Nothing. "Maybe my memory is failing. I need to track the theft." So she delved deep into her Freyr-family's wisdom. "Lines of charcoal on the chest walls, counting one two and three. A leveling stick in the center, notched one two and three. That's good enough for rats and children's hands. But... " She searched her mind for all the possibilities. She grabbed the vial of linseed oil, and bit of yarn from her knitting basket. "The last ward... I'll seal the chests with tallow, save a small hole at the top. I'll nail a linseed-oil string to mark the opening of the lid. If this is what I think it is, it will see the hole as an opening, and if it reaches in, the oil will catch the hand of the thief." She smeared tallow into the lines between the boards. She oiled the string, nailed it to the inside lid of the massive chest of grain. "Now let the thief come reveal its nature."
 

@@ -88,21 +88,23 @@ Ealhild smiled at Osric. "When you were training with the fyrd, my love. I shave
 
 Her older brother, Beorn, was whittling a new button from a piece of soft wood. He looked up and smiled without saying a word.
 
+"Mother, if the holes are too wide, I can carve a whole new Gullinbursti. It would be no trouble."
+
+"That's ok Beorn. It's just missing wire, that's all."
+
+He went back to whittling the button.
+
 _Whhhiiiitt... Whhhiiiitt._
 
-Mathild, the next oldest, was cleaning pots. She stared at her father and smiled.
+Mathild was cleaning pots. She stared at her father and smiled.
 
-"You'll never guess what I was able to barter for."
-
-At ten winters, she was already as dreaded in the market as any grizzled trader.
-
-"Mutton. Your favorite! I traded two eggs and a pinch of your raspberry seeds, mother."
+"You'll never guess what I was able to barter for... Mutton! Your favorite! I traded two eggs and a pinch of your raspberry seeds, mother."
 
 Ealhild looked at her elder daughter and smiled. "So that's where the other seeds went! Loki will see you as an equal, Mathild!"
 
 _Whhhiiiitt... Whhhiiiitt._
 
-Finally there was the eldest... Ingvarr, named after one of Ealhild's ancestors, sat in the corner sharpening a broad warseax. He was on his knees, the weight of the blade forcing Ingvarr to hold the blade with both hands. He methodically slid the edge on the large whetstone.
+Finally there was Ingi, sitting in the corner sharpening a broad warseax. He was on his knees, the weight of the blade forcing Ingi to hold the blade with both hands. He methodically slid the edge on the large whetstone.
 
 Whhhiiiitt... Whhhiiiitt.
 
@@ -110,7 +112,7 @@ He looked up from the blade and gave a small smile, then turned his attention ba
 
 Whhhiiiitt... Whhhiiiitt.
 
-Osric turned to Ealhild. "When did you let Ingvarr start sharpening my father's warseax?"
+Osric turned to Ealhild. "When did you let Ingi start sharpening my father's warseax?"
 
 "Oh, _now_ we're worried about your father's warseax. I think you _should_ be worried about harvest. Are the stalks still standing? Have you seen any weeds sprouting? You know how I feel about weeds."
 
@@ -144,11 +146,11 @@ Ealhild grabbed Osric by the shoulders. "Are you really so concerned about the w
 
 Ealhild put her finger over his lips.
 
-"Ingvarr, take the children outside and cut the weeds down. While you're there, please stack the wood and remove the twigs. Show your father that weeds don't concern us."
+"Ingi, take the children outside and cut the weeds down. While you're there, please stack the wood and remove the twigs. Show your father that weeds don't concern us."
 
 Ealhild turned to Osric. "There, see? Just rest. You've had a busy day."
 
-Ingvarr arose from the corner, laying the whetstone on the sill.
+Ingi rose from the corner, laying the whetstone on the sill.
 
 He ushered the children out the door while staring at Osric.
 
@@ -161,16 +163,6 @@ Ealhild kissed him on the forehead, moving a strand of his long brown hair over 
 It was then Osric noticed... the warseax wasn't his father's.
 
 It was _Barrow's Edge_.
-
-Osric turned to Ealhild. "And... since when have you stopped calling him Ingi? You haven't called him _Ingvarr_ since he stopped nursing."
-
-Ealhild smiled and turned to Osric.
-
-"He's a growing boy, Osric. One day, he'll run this farm. We can't go calling him _Ingi_ forever."
-
-She stared out the door crack at the children in the yard.
-
-"How could the fyrd take him seriously... if his mother... called him that?"
 
 She closed the door.
 
@@ -210,13 +202,13 @@ The scratch was gone.
 
 Osric looked at _everything_. "What is happening?"
 
-The door swung open. It was Ingvarr and the other children.
+The door swung open. It was Ingi and the other children.
 
-Ingvarr smiled at his father, and laid _Barrow's Edge_ on the table. "The weeds have been cut down. The wood's been stacked, and Eaxl even removed the twigs. The broadseax needs sharpening again, _Father_. I'll get to that tomorrow."
+Ingi smiled at his father, and laid _Barrow's Edge_ on the table. "The weeds have been cut down. The wood's been stacked, and Eaxl even removed the twigs. The broadseax needs sharpening again, _Father_. I'll get to that tomorrow."
 
-Ealhild stepped in behind Ingvarr and gave the boy a hug from behind, and a kiss on the back of his head. "Isn't he the sweetest boy? The fyrd will be proud of him one day. Now, go help Mathild. The fish need scaling, and you're best with the knife."
+Ealhild stepped in behind Ingi and gave the boy a hug from behind, and a kiss on the back of his head. "Isn't he the sweetest boy? The fyrd will be proud of him one day. Now, go help Mathild. The fish need scaling, and you're best with the knife."
 
-Ingvarr turned to the hearth and slowly walked away.
+Ingi turned to the hearth and slowly walked away.
 
 Osric looked straight into Ealhild's eyes. "Sit down, we need to talk."
 
@@ -300,13 +292,13 @@ Osric's body remained motionless...
 
 Until...
 
-Ingvarr and his fellow children crossed the cottage threshold into the yard.
+Ingi and his fellow children crossed the cottage threshold into the yard. Ingi's spirit transformed into its true self... the spirit of Ingvarr the Steady. The other children spirits transformed into his companions of the shieldwall.
 
 Only then did they take up the mantle of the _Hedge-Stalker_ and the _Shadow Fyrd_.
 
 Ingvarr, now bearing Osric's body, stood emotionless as the three Vikings closed in. His eyes were as grey as stone. The body stood firm, as though it had no memory of hours spent wrestling axles in the mud.
 
-His _brother_ and _sisters_ were the _Shadow Fyrd_, circling him ominously as absences of light and form, ready to help their brother perform _the daily chores of bloody carnage._
+His companions were the _Shadow Fyrd_, circling him ominously as absences of light and form, ready to help their Ingvarr perform _the daily chores of bloody carnage._
 
 Ingvarr reached down without looking and claimed the new shield at the base of the anvil.
 
@@ -350,7 +342,7 @@ Ingvarr crossed the threshold of the cottage once more, surrendering Osric's bod
 
 Huginn: "Now children... do _NOT_ try this at home."
 
-Muninn: "The _Shadow Fyrd_ are professionals."
+Muninn: "The _Hedge-Stalker_ and _Shadow Fyrd_ are professionals."
 
 Huginn: "That's right. Seasoned yardwork professionals."
 
@@ -365,10 +357,6 @@ Huginn: "... or _carnage_ ..."
 Muninn: "... or _stripping dead bodies_ ... "
 
 Huginn: "... and if they ask you to cut the weeds, please ensure they are _VERY SPECIFIC_ about what they want cut down."
-
-Muninn: "I think they get the picture."
-
-Huginn: "And _I think_ our lawyers are going to need a bonus."
 
 ---
 
