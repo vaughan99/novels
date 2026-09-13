@@ -52,9 +52,9 @@ Cynewulf frowned, eyeing the strange clay sphere. "It’s just a tiny clay pot?"
 
 Cynewulf stared at the tiny pot. He thought of the stained glass he had once cleaned in the nave, the light filtering through the saints and martyrs. Now, that same light was being used to turn men into cursed frightened animals.
 
-"You told me the glass was for children. You fight like devils," Cynewulf said, his voice tight. "The bishop would have your head for this!"
+"You fight like devils," Cynewulf said, his voice tight. "The bishop would have your head for this!"
 
-"Oh, come now. Two shield walls fighting over a patch of dirt is no less childish than my nephews charging each other with wooden horses! These are holy weapons, and we are holy warriors! We add the cross in wax, the saints inside, and wash them in holy water to make them clean."
+"Oh, come now. Two shield walls fighting over a patch of dirt is no less childish than my nephews charging each other with wooden horses!"
 
 Cynewulf opened his mouth to object, then stopped. He wasn't sure saving a man's life through fear was certainly better than taking it. Once a man commits to the wall, he proves his honor, and if he be Christian, his piety. To force men to flee is to force them to be an animal.
 
@@ -64,33 +64,49 @@ He erupted into a jagged, barking laugh, slapping Cynewulf on the shoulder hard 
 
 Finally, he slapped the seax at his belt. "And for the finish? Who doesn't love a good seax?"
 
+He pulled his seax from his belt, a unique fighting blade, backswept from the handle and clipped in the spine. It looked equally suited to cutting meat, brush, rope, or a man.
+
+"This is _Tauawt_. That's Welsh for 'tongue'... the shape of the dragon's tongue. She's mine. She loves the taste of battle, and her story is as true..."
+
+"...as a wench's confession!" Milli interrupted. "Don't believe anything Madoc says about that blade. He made it himself, then proclaimed it magical before he even sharpened it."
+
+He slid the blade back into its sheath.
+
 Without warning, Madoc’s hand blurred. Before Cynewulf could even blink, a hidden iron shank pressed against his ribs. It was a simple, needle-sharp spike that Madoc had gotten past his guard. 
 
 Madoc held it there for a heartbeat, his grin wide and mocking, before sliding it back into a locking wrist sheath in his bracer.
 
-"See?!" Madoc laughed, his eyes dancing. "You never know what to expect from us. A man who relies on his sword is a man who’s already half-dead, Saxon. A man who relies on his _guile_? He’s the one who gets to go home and drink the ale."
+Milli winked and smiled.
 
-Cynewulf looked at the spot where the shank had been, his heart hammering a frantic, rhythmic beat against his ribs. He realized then that they weren't just fighting a war; they were playing a game of death, and they had rigged the board in their favor.
+"See?!" Madoc laughed, his eyes dancing. "You never know what to expect from us. A man who relies on his blade is a man who’s already half-dead, Saxon. A man who relies on his _guile_? He’s the one who gets to go home and drink the ale."
 
-"What says your charter? May I see it?" Cynewulf wanted to make sure it was legitimate, and that he wouldn't be hung in association with blasphemers.
+Cynewulf looked at the spot where the shank had been. Any other day, that move would have had Cynewulf unsheathing his blade and testing Madoc's mettle.
 
-Madoc groaned dramatically. "Christ preserve me, another churchman. If you're wondering if the Church trusts me to wage Christian war, you won't find it in the scroll. But you might find it in this."
+He searched his mind to cool his ember-hate, and he landed on a verse from Matthew: _Converte gladium tuum in locum suum._
 
-Madoc passed with his hand a small vial. The vial was glass, and etched was a perfect emblem of the cross. Cynewulf recognized it instantly. It was a vial of holy water, the same he used countless times at his church.
+_Put the sword back in its place._
 
-"You have the blessing... of the Church?" Cynewulf stammered.
+His hand relaxed.
 
-"Aye, in a manner of speaking. The Ealdorman said it was for the blessing of Christian arms..."
+There was something from the charter that he had meant to ask about. And now, with all the weapons laid before him, the question became obvious.
+
+"The charter mentioned holy water? And Ecgbehrt obliged. But for what?"
+
+Madoc held up the clay pot once more. "They're for cleaning our pots."
+
+Cynewulf stood with his mouth agape.
+
+Madoc groaned dramatically. "Christ preserve me. What's the matter now?"
+
+"The bishop... gave you leave to use holy water on... Dragon's Breath?" Cynewulf stammered.
+
+"Aye, in a manner of speaking. The Ealdorman did say it was for the blessing of Christian arms, and the bishop who witnessed the charter agreed..."
 
 Madoc judged Cynewulf's expression.
 
-"Wait... you thought I was joking? Holy water graces the skin of these pots! See?" Madoc's smile curled at the edges as he rotated the perfectly clean pot in his fingers.
+"...and _we are_ Christian warriors. Wait... you thought I was joking? Holy water graces the skin of these pots! See?" Madoc's smile curled at the edges as he rotated the perfectly clean pot in his fingers.
 
-"The bishop blessed the clay pots?" The pressure behind Cynewulf's eyes was becoming unbearable.
-
-"Through the Ealdorman's gift... I suppose. I didn't stop to ask."
-
-There was silence for many minutes after Cynewulf returned the vial.
+The pressure behind Cynewulf's eyes was becoming unbearable. He rubbed his eyes, and gazed upon the weapons once more.
 
 "So how am I to fight in your band?"
 
@@ -291,7 +307,7 @@ In all of that, only one _Dragon_ caught a glancing blow from a thrown axe.
 
 And it wasn't Baldy.
 
-When Easter arrived, the siege was over, and so was their charter. They agreed to share Easter Mass together before saying their goodbyes on the North Gate road.
+When Easter arrived, the siege was over, and so was their stay in Leicester. They agreed to share Easter Mass together before saying their goodbyes on the North Gate road.
 
 _A shield often bears the mark of a community, declaring that if one stands, many stand behind it. But when a foreign shield bears the blow instead, it tells the community something far more important: that they are worth protecting._
 
