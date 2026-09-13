@@ -283,7 +283,7 @@ Long-Mile chuckled softly, shaking his head. "You are eager, aren't you. Too eag
 
 "Thanks Long-Mile! You're the very best!" She flashed the broadest grin. "Nobody knows I've returned, except Shadow-Wife that is..."
 
-"Well why not? Afraid of the competition? I've helped some coalers upriver deliver to Leicester."
+"Well why not? Afraid of the competition? I've helped some coalers upriver deliver to Leicester. Come to think of it, I can't think of any charcoalers who took up after your father around here. I wonder why."
 
 "Long-Mile, if everybody knew I was back... and where I've been... there would be questions. Finger-pointing. Maybe worse."
 
@@ -329,11 +329,37 @@ She quietly carried her sacks and loaded them into the back of the empty cart. S
 
 Long-Mile drove to the North Gate. The guards there knew Long-Mile could call at any hour, and could always count on him for an errand or even just a quick joke. Any time of day, Long-Mile was granted entry.
 
-Just before sun up, he delivered her and her singing coal to Morning-Eye, leaving her for his next load. She waited underneath the nose. And every morning of the Old Frith market, Shadow-Wife would arrive to ring the day-bell, and open the Shadow Gate, giving Elswyth a wink and a smile.
+Just before sun up, he delivered her and her singing coal to Morning-Eye, leaving her for his next load. She waited underneath the nose.
+
+Every morning of the Old Frith market, Shadow-Wife would arrive to ring the day-bell, and open the Shadow Gate. This morning was different. She saw Elswyth waiting. She gave Elswyth a wink and a smile, and nothing more.
 
 People had always known... _Shadow-Wife never smiled... at anyone_.
 
-Shadow-Wife opened the gate. The other villagers gave Elswyth a smirk, as they knew she had beaten them to the nose. But they didn't recognize her. They would never expect Elswyth had survived, and would be found on the other side of the gate come morning.
+Shadow-Wife opened the gate.
+
+First in line behind the Shadow-Gate was old Judith, carrying her knitting stool, her knitting needles, and her haversack full of yarn and wares. Ordinarily, she beat everyone to Morning-Eye's nose.
+
+She liked to knit, but that was not her greatest gift. She was the center of village gossip and the knitter of stories just plausible enough to get anyone in the village in trouble.
+
+She cast a long look at Elswyth, not recognizing the new charcoaler for the daughter of Godwine she never cared to know.
+
+"You're in the wrong spot, dear. You'll get your soot on Morning-Eye and he'll look cross. Sit over there." 
+
+Elswyth looked away.
+
+Shadow-Wife appeared behind Judith and poked her on the shoulder.
+
+"You know the rules, Judith. She beat you. Set up over by the cutler."
+
+Judith turned around and went nose-to-nose with Shadow-Wife.
+
+"Well, if it isn't the dirty old grave-hag. You know he smells of old cheese. Maybe _that's why you like him so much_."
+
+Shadow-Wife put her hands on her hips but said nothing, giving her a cold glare.
+
+Judith swung her haversack onto her shoulder and grabbed her stool with a huff. She stomped over to the wall where the cutler was beginning to lay his knives and whetstones on an old cloak. She pushed her stool firmly into the mud, and cast a nasty stare at Shadow-Wife.
+
+It wasn't long before three of her friends found her, and the gossip began. 
 
 The bell pit's foreman, a discerning young man with a pocket of silver, approached Elswyth. Remembering to be mute, she hid her face in the shadow of the cowl, and pointed to her lips.
 
@@ -353,9 +379,11 @@ Elswyth pointed up the river north, where another hamlet sat in the distance.
 
 "You carried your father's charcoal all the way from there? I wish I had a daughter like you." He laughed. "Very well, five pennies." She stretched out her hand, and the pennies landed in her palm clinking like the coal. She closed her fingers around the pennies and ran. The young man stared after her in amazement, then his eyes went back to the sacks. He carried them inside the gate, two at a time, to a waiting cart.
 
-She ran, and kept running, to find Long-Mile on the north road.
+She ran to find Long-Mile on the north road.
 
-She ran up to the old carter. The oxen stared at her, barely impressed.
+By the time Judith and her friends began to gossip about Elswyth, they looked over to the space and found that a gardener selling vegetables had taken the spot. With Elswyth out of sight, Judith focused the worst of her gossip on Shadow-Wife.
+
+Elswyth kept running. She finally found the old carter. The oxen stared at her, barely impressed.
 
 "HERE!" Elswyth flipped him a penny. "My payment for the cartman! I am now officially your customer." She smiled and laughed.
 

@@ -1,6 +1,14 @@
 ## Part One: The Cutting of the Wood
 
-In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall. To the east, the villagers could see an old Roman necropolis lining the South Gate road. To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar. Looking up the gently sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester. To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
+In 933 AD, Elswyth and her parents lived in _Under-Geat_. It was a small hamlet of fifty cottages, just outside of Leicester south of the southern wall.
+
+To the east, the villagers could see an old Roman necropolis lining the South Gate road.
+
+To the south and west, the hamlet was hemmed in by giant willows and the banks of the river Soar.
+
+Looking up the gently sloping hill was the church, a monument of stone stolen from the giants who built the Jewry Wall of Leicester.
+
+To the Saxon eye, the Romans built with such grandeur that they imagined only giants could move that much stone. It was the Church of Saint Nicholas.
 
 ---
 
@@ -18,13 +26,17 @@ Huginn: "I remember now. Splendid game. A hundred men screaming, broken shins, m
 
 ---
 
-Just below the top of the hill was a large black gate set into an ancient Roman wall patched with timber. It was known as the Shadow Gate. The hamlet took its name from being under that gate, and it formed the center of the hamlet's social life.
+Just below the top of the hill was a large wooden gate set into an ancient Roman wall patched with timber. It was known as the Shadow Gate. The hamlet took its name from being under that gate, and it formed the center of the hamlet's social life.
 
 Beyond the _Shadow Gate_ lay the _Old Frith_, a broad yard of compacted earth worn hard by countless feet in the centuries since the Romans departed. On fair days it served as the Church's market, where villagers traded beneath the open sky. At _Easter_ and on the _Feast Day of St. Augustine_, however, the yard filled with hundreds of the faithful gathered for worship.
 
 The _Old Frith_ was also shared with the neighboring _Church of St. Martin_. Each _Martinmas_, a procession of livestock wound from _Saturday Market_ to the _Old Frith_, where the priests of both churches blessed the animals before winter set in.
 
-The villagers were commonfolk whose livelihoods centered on the church. They would bring their wares to the _Shadow Gate_ and wait for the creak of the old oak doors. Once open, they would file into the _Old Frith_, setting up stalls, telling gossip, and making exchanges. During the day, the gate would open and the clergy would mingle, telling stories, offering prayers and teaching lorica. Vendors from inside Leicester would arrive to the _Old Frith_. All business was conducted under the watchful eyes of two large stone face masks facing into the _Old Frith_.
+The villagers were commonfolk whose livelihoods centered on the church. They would bring their wares to the _Shadow Gate_ and wait for the creak of the old oak doors.
+
+Once open, they would file into the _Old Frith_, setting up stalls, telling gossip, and making exchanges. During the day, the gate would open and the clergy would mingle, telling stories, and offering advice and prayers. Vendors from inside Leicester would arrive to the _Old Frith_.
+
+All business was conducted under the watchful eyes of two large stone face masks facing into the _Old Frith_.
 
 _Blackjoy_ was the one whose jaw was clenched and whose eyes were narrow. He was neither sad nor angry; he was more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest". The villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
 
@@ -182,7 +194,7 @@ In the morning, she was awakened by a soft breath, and the smell of pipe-smoke f
 
 Wood-gnomes, she was taught, were shy and humble creatures, but were nothing to be trifled with. They were known to be territorial, and might swat your ankles with their oaken swatches to ensure you left quickly. Yet this small man did not hiss or reach for a weapon.
 
-He was smaller than her, and dressed simply in traveling clothes: forest green breeches and matching shirt, and a coat made of woven bast from the linden tree. He had a stocking hat, ruddy brown and damp, on his blank-faced head. He barely had a few tufts of white hair poking out innocently from under the stocking hat pulled close to the brow. On his feet were shoes, also of woven bast, and his footfall was free and soundless.
+He was smaller than her, perhaps as tall as a hog, and dressed simply in traveling clothes: forest green breeches and matching shirt, and a coat made of woven bast from the linden tree. He had a stocking hat, ruddy brown and damp, on his blank-faced head. He barely had a few tufts of white hair poking out innocently from under the stocking hat pulled close to the brow. On his feet were shoes, also of woven bast, and his footfall was free and soundless.
 
 He smiled, "Well it's a girl. Well, hello '_Meadow-bud_'."
 

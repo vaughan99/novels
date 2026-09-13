@@ -446,13 +446,13 @@ The three started walking outside. Madoc spread his arms wide to introduce Cynew
 
 The others greeted him with rough nods and claps on the shoulder, a warmth that felt like he might be a brother in arms. They were quick to accept, but he imagined they were quick to turn if he crossed them.
 
-Madoc laughed... and then switched to Welsh. "And look friends, I found us a target! If we polish him up, he might pass for a commander. If we're lucky, all the arrows will fly towards him!" They laughed even harder. Cynewulf didn't understand any of it, but he laughed nervously anyway.
+Madoc laughed... and then switched to Welsh. He seemed to imply to the group that arrows would be flying, and they would land on Cynewulf's armor rather than them. They laughed even harder. Cynewulf laughed nervously.
 
 Besides Milli, there was one other woman. Her leather tunic was as scarred and stained as the men’s. She had been hunched over a pile of wool, but stood up as the laughter died down. She slung a heavy, red-painted dragon cloak over Cynewulf’s shoulder with a sudden, practiced flick.
 
 She stood before him, hands on her hips, a sharp, challenging smile on her face. She reached into a pouch at her belt and tossed a bone needle and a length of waxed twine into his chest.
 
-"She's yours now!" she barked, gesturing to the cloak. "I'm not tailor-maid, Saxon. You want look of... dragon, you learn stitch... own scales." She stood up on her toes, and pretended to flap her wings and sew her sides at the same time.
+"She's yours now!" she barked, gesturing to the cloak. "I'm not tailor-maid, Saxon. You want look of... dragon, you learn stitch... own... scales." She stood up on her toes, and pretended to flap her wings and sew her sides at the same time.
 
 The band laughed once again. The warrior-maiden turned to face the band and gave a deep bow and a smile. They roared with delight.
 
@@ -460,7 +460,7 @@ Cynewulf caught the needle, surprised by the weight of the cloak. It smelled of 
 
 The joy of the gathering was pierced by the sound of hoofbeats. The hearthguard of Repton arrived led by the reeve. They surrounded the Dragon's Teeth warriors, leveling their spears. The Welsh found the knives at their belts, but did not draw.
 
-Cynewulf stepped forward from the threshold to stand between the two groups. The Welsh had their hands on the knives at their belts and seemed ready for trouble.
+Cynewulf stepped forward to stand between the two groups.
 
 "Lord Reeve, these men travel under the king’s peace. There is a charter. Father Ecgberht can attest."
 
