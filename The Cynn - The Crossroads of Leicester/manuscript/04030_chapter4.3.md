@@ -85,13 +85,17 @@ Each time, Elswyth smiled. Later that night she would show the object to Long-Mi
 
 The villagers would concoct more bizarre stories about the _Coaler-Wight_. 
 
-One man swore the _Coaler-Wight_ pressed her ear against Blackjoy's lips each night to hear the names of liars. By morning, their bootlaces would always be found tied together.
+One man swore the _Coaler-Wight_ pressed its ear against Blackjoy's lips each night to hear the names of liars. By morning, their bootlaces would always be found tied together.
 
 After a visitor from York landed in the ditch, the villagers decided the _Coaler-Wight_ had spooked his horses. It took him two days to wash the mud from his clothes, and considerably longer to convince anyone it had merely been poor riding.
 
-Not every morning ended with the forest.
+And then there was Judith. After finding her wool stolen and replaced by a lump of charcoal, she saw the _Coaler-Wight_ everywhere. A missing spoon meant that it had visited her hearth. Missing cabbage from her garden meant that it had opened the gate.
 
-Sometimes Elswyth lingered at the edge of the Shadow Gate after selling her coal. She kept her cowl low and stood at the back of the little crowd while the parish priests taught the villagers loricas against wolves, fever, drowning, thieves, and restless spirits... like the _Coaler-Wight_.
+Every time she sat on her knitting stool, she checked beneath it... twice.
+
+She suddenly became less interested in knitting stories about people, and more interested in the stories of spirits. And her friends took notice.
+
+Elswyth started to stay longer in the market as well. She kept her cowl low and stood at the back of the little crowd while the parish priests taught the villagers loricas against wolves, fever, drowning, thieves, and restless spirits... like the _Coaler-Wight_.
 
 Most of the villagers learned only the rhythm. They repeated the Latin sounds without knowing the words, trusting that the holy cadence itself was a shield against darkness.
 
@@ -107,59 +111,27 @@ Each morning she would return to the cottage to sleep. Her charcoal burned hot a
 
 ---
 
-Huginn: "I have just heard a most outrageous accusation."
+Huginn: "Last week you made the most outrageous accusation."
 
-Muninn: "Yes?"
+Muninn: "I did."
 
 Huginn: "Apparently I spent years masquerading as an elderly grave-tender."
 
-Muninn: "I wonder who would start such a rumor?"
+Muninn: "You do like graveyards, and playing jokes on people."
 
-Huginn: "I thought you cared about honesty, memory, history..."
+Huginn: "That doesn't mean I literally stole Shadow-Wife's body to play jokes on Under-Geat."
 
-Muninn: "Very much indeed."
-
-Huginn: "Then why did you start the rumor?"
-
-Muninn: "I can neither confirm nor deny. But I'll make observations. You do enjoy graveyards."
-
-Huginn: "Many people enjoy graveyards."
-
-Muninn: "You enjoy them more than most."
-
-Huginn: "You're not presenting evidence."
-
-Muninn: "No, I suppose not."
-
-Huginn: "You're assembling a rumor."
-
-Muninn: "Much like Shadow-Wife did. She assembled rumors. You assembled Shadow-Wife. Ergo, you did too."
-
-Huginn: "Oh I see what you did there."
-
-Muninn: "Then you appreciate my handiwork."
-
-Huginn: "That doesn't mean I literally stole her body to play jokes on Under-Geat."
-
-Muninn: "Philosophically you did."
+Muninn: "Ah, but it's like you."
 
 Huginn: "I suppose you think I stole the ferryman's body too."
 
-Muninn: "The reader might reasonably suspect that I was the carter."
+Muninn: "No. The children might reasonably suspect that I was the carter."
 
-Huginn, looking at the reader temporarily, then back at Muninn: "Um, were you? The carter?"
-
-Muninn: "Allegedly."
-
-Huginn: "He did remember Elswyth. He wasn't surprised by her survival. You are the master of memory. "
+Huginn: "Wait. He remembered Elswyth. He wasn't surprised she survived. He remembers everything told to him by the villagers. You are the master of memory..."
 
 Muninn: "Go on."
 
-Huginn: "He did show up exactly when she needed him. That's an awfully big coincidence."
-
-Muninn: "Yes. Continue."
-
-Huginn: "I'm not sure I can. I don't like where this is going."
+Huginn: "No. I don't like where this is going."
 
 Muninn: "That's how some myths get built, brother. I suggested an end. You provided the path."
 

@@ -365,11 +365,7 @@ The bell pit's foreman, a discerning young man with a pocket of silver, approach
 
 The young man's eyes drifted to the sacks, and he picked up a piece of charcoal, stained white by the ash. He rolled it in his soot-stained hands for a moment. His hand closed into a fist around it. He tried to snap it... and it resisted.
 
-_Interesting._
-
 He set it down on the others. It landed with a soft _clink_. He had heard stories from his former bell-master Cynewulf of the singing charcoal, but had never seen it.
-
-_Very interesting._
 
 Remembering the price of her father's coal, she waved her hands over all the sacks, and held up the price. Five fingers.
 
@@ -377,7 +373,11 @@ Remembering the price of her father's coal, she waved her hands over all the sac
 
 Elswyth pointed up the river north, where another hamlet sat in the distance.
 
-"You carried your father's charcoal all the way from there? I wish I had a daughter like you." He laughed. "Very well, five pennies." She stretched out her hand, and the pennies landed in her palm clinking like the coal. She closed her fingers around the pennies and ran. The young man stared after her in amazement, then his eyes went back to the sacks. He carried them inside the gate, two at a time, to a waiting cart.
+"You carried your father's charcoal all the way from there? I wish I had a daughter like you." He laughed. "Very well, five pennies." 
+
+She stretched out her hand, and the pennies landed in her palm clinking like the coal. She closed her fingers around the pennies and ran.
+
+The young man stared after her in amazement, then his eyes went back to the sacks. He carried them inside the gate, two at a time, to a waiting cart.
 
 She ran to find Long-Mile on the north road.
 
@@ -439,7 +439,17 @@ Long-Mile: "WHHHAAA! Stop waking me up you two!"
 
 Elswyth settled into her routine.
 
-One night while finding wood to retrieve, she checked her marten traps. Caught in the bind, there was a very rare breed. It was a pine marten, but with a stark-white coat, the color of pure snow. Her father had told her of such a thing, a lone marten in the forest that did not play with the others. It would lay out full, every night of the full moon, to catch as much of the light as it could. The coat shimmered with hints of silver in the moonlight, and Elswyth knew that this was no ordinary pelt.
+Each morning that Elswyth had charcoal to sell, Judith would give her a nasty eye. She would spin stories of the dirty charcoal girl from the upriver hamlet, the one who carried her father's charcoal for miles. Sometimes it was because her father was lame. Sometimes it was because her mother was drunk.
+
+Before the story grew legs, Shadow-Wife would interrupt her time and again. Shadow-Wife would "accidentally" bump her from behind, splash mud on her shoes, or tell her that she smelled of lanolin and old feet.
+
+Judith would stop focusing on Elswyth, and turn her venom on Shadow-Wife. And Shadow-Wife would smile.
+
+Each time, Elswyth would hear the taunts and think of her parents. It reminded her of just how good her parents were. That made her smile, deep under her cowl. She missed her parents, of course, but each attempt of Judith to mock them only made her realize how lucky she actually was.
+
+And she watched Shadow-Wife's interventions. That made her smile too.
+
+One night while finding wood to retrieve, Elswyth checked her marten traps. Caught in the bind, there was a very rare breed. It was a pine marten, but with a stark-white coat, the color of pure snow. Her father had told her of such a thing, a lone marten in the forest that did not play with the others. It would lay out full, every night of the full moon, to catch as much of the light as it could. The coat shimmered with hints of silver in the moonlight, and Elswyth knew that this was no ordinary pelt.
 
 She worked with practiced hands until the pelt emerged, perfect. In the moonlight it shimmered with silver. She smiled.
 
