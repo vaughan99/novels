@@ -24,9 +24,9 @@ Olaf's men saw Edmund's army run, and cheered. Olaf and his captains were confus
 
 The Tyne River fyrd doubled back. Osric followed Galindo back behind the line of willows and waited. He stared at Galindo's hand, waiting for it to drop.
 
-The riders to the East Gate set their ladders to the wall moments after arriving, the horde of Saxons not far behind them. Several riders were lost, but the East Gate was won and held open.
+The Saxon riders to the East Gate set their ladders to the wall moments after arriving, the main horde of Saxons not far behind them. Several riders were lost, but the East Gate was won and held open.
 
-Then... they heard the drums from the southern wall and yells that the Saxons were changing positions. The drums from the East Gate sounded next. And they knew the Shadow Gate was a ruse. All available Danes rushed to the East Gate.
+The Danes at the Shadow Gate heard the drums from the southern wall and yells that the Saxons were changing positions. The drums from the East Gate sounded next. And they knew the Shadow Gate was a ruse. All available Danes rushed to the East Gate.
 
 The two armies raced toward the opened East Gate, desperate to reach it first.
 
