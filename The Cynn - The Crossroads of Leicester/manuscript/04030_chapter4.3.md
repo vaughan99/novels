@@ -229,7 +229,10 @@ He giggled.
 
 He twirled, and put his hands on his hips, smiling as if posing for a portrait.
 
-"I lied. Fustian Powrie-Cap, at your service! That's my murder-name! I am the Powrie Redcap of the Gaels, the Fly Agaric of the Night-North! The Spotted King!... arrived for HARVEST."
+"I lied. Fustian[^fustian] Powrie-Cap[^powrie], at your service! That's my murder-name! I am the Powrie Redcap of the Gaels, the Fly Agaric of the Night-North! The Spotted King!... arrived for HARVEST."
+
+[^fustian]: fustian: originally a type of cloth; the word later came to mean bombastic or pretentious speech
+[^powrie]: powrie: another name for a redcap in Anglo-Scottish Border folklore
 
 He stopped. She truly was surprised. His smile turned to confusion.
 

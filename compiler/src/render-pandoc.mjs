@@ -17,17 +17,17 @@ const buildTimestamp =
 const buildCommit =
   process.env.GITHUB_SHA?.slice(0, 7) ?? "local";
   
-export function renderHtml(buildDir, mdFile) {
-    console.log('Rendering HTML');
+export function renderManuscriptHtml(buildDir, mdFile) {
+    console.log('Rendering Manuscript HTML');
 
     const result = spawnSync(
         "pandoc",
         [
-            "novel.md",
+            "manuscript.md",
             "--defaults=./pandoc/html5-defaults.yaml",
             `--metadata=build-timestamp:${buildTimestamp}`,
             `--metadata=build-commit:${buildCommit}`,
-            "--output=novel.html",
+            "--output=manuscript.html",
         ],
         {
             stdio: "inherit",
@@ -45,17 +45,17 @@ export function renderHtml(buildDir, mdFile) {
     }
 }
 
-export function renderEpub(buildDir, mdFile) {
-    console.log('Rendering EPUB');
+export function renderManuscriptEpub(buildDir, mdFile) {
+    console.log('Rendering Manuscript EPUB');
 
      const result = spawnSync(
         "pandoc",
         [
-            "novel.md",
+            "manuscript.md",
             "--defaults=./pandoc/epub-defaults.yaml",
             `--metadata=build-timestamp:"${buildTimestamp}"`,
             `--metadata=build-commit:${buildCommit}`,
-            "--output=novel.epub",
+            "--output=manuscript.epub",
         ],
         {
             stdio: "inherit",
@@ -73,18 +73,73 @@ export function renderEpub(buildDir, mdFile) {
     }
 }
 
-export function renderDocX(buildDir, mdFile) {
-    console.log('Rendering DocX');
+export function renderManuscriptDocX(buildDir, mdFile) {
+    console.log('Rendering Manuscript DocX');
 
      const result = spawnSync(
         "pandoc",
         [
-            "novel.md",
+            "manuscript.md",
             // Override the date with commit info
             "--defaults=./pandoc/docx-defaults.yaml",
             `--metadata=date:${buildTimestamp} · commit ${buildCommit}`,
-            "-o",
-            "novel.docx"
+            "--output=manuscript.docx"
+        ],
+        {
+            stdio: "inherit",
+            shell: false,
+            cwd: buildDir
+        },
+    );
+
+    if (result.error) {
+        throw result.error;
+    }
+
+    if (result.status !== 0) {
+        process.exit(result.status ?? 1);
+    }
+}
+
+export function renderManuscriptPdf(buildDir, mdFile) {
+    console.log('Rendering Manuscript PDF');
+
+    const result = spawnSync(
+        "pandoc",
+        [
+            "manuscript.md",
+            "--defaults=./pandoc/pdf.yaml",
+            `--metadata=build-timestamp:${buildTimestamp}`,
+            `--metadata=build-commit:${buildCommit}`,
+            "--output=manuscript.pdf",
+        ],
+        {
+            stdio: "inherit",
+            shell: false,
+            cwd: buildDir
+        },
+    );
+
+    if (result.error) {
+        throw result.error;
+    }
+
+    if (result.status !== 0) {
+        process.exit(result.status ?? 1);
+    }
+}
+
+export function renderAfterwordHtml(buildDir, mdFile) {
+    console.log('Rendering Afterword HTML');
+
+    const result = spawnSync(
+        "pandoc",
+        [
+            "afterword.md",
+            "--defaults=./pandoc/html5-defaults.yaml",
+            `--metadata=build-timestamp:${buildTimestamp}`,
+            `--metadata=build-commit:${buildCommit}`,
+            "--output=afterword.html",
         ],
         {
             stdio: "inherit",

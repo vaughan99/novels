@@ -94,7 +94,9 @@ There was a pause.
 
 "Manure!" they both exclaimed.
 
-"A hypocaust." said the first.
+"A hypocaust[^hypocaust]." said the first.
+
+[^hypocaust]: hypocaust: a Roman underfloor heating system that circulated hot air beneath floors
 
 "Underground." said the second.
 
@@ -107,8 +109,6 @@ They both looked at the nisse, who had been trying to track the conversation.
 "Grab a shovel." said the first.
 
 "And... something for the manure. Our boots are... ruined." said the second.
-
-"Ick." said the first. And he meant it.
 
 Once Osric could finally stand on his own two feet, he decided to see what remained of his livestock. He chose a day when the air was still, when the cold's bite didn't cut quite as deep. He staggered out to the byre, his knees trembling, but stopped when he reached the door. The heavy drifts of snow had already been neatly dug away from the entrance.
 

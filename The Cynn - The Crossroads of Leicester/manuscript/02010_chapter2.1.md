@@ -54,7 +54,9 @@ Ingvarr's wife was Ingrid, daughter of Ormr. She lived a long life with their ch
 
 Ealhild's grandfather bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
 
-Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord, Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked.
+Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord[^eorth-hord], Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked.
+
+[^eorth-hord]: eorth-hord: a small, partly sunken structure with a low roof, commonly used for storage
 
 She and her mother played at Gerðr and Freyr, hiding behind trees and barring one another from an imaginary garden until Freyr surrendered his wooden sword. Then Gerðr opened the gate, and they chased each other laughing through the orchard.
 
@@ -141,13 +143,13 @@ Much of Osric's barley yield was destined for the lord's malt-house. After the g
 
 Osric's neighbors were not doing nearly as well. Some had nothing left after the grain-tax and survived only by selling heirlooms. Others had sold their livestock, choosing which mouths would eat through the winter and which would not.
 
-Anglians would keep their food-stores in a half-sunken structure with a minimal roof, called an eorth-hord. It was usually kept in the yard but very close to the cottage. Osric's purse had a reasonable amount of coin, but this winter would not see any neighbor's excess available through purchase once the cold bit down. All the food for winter, besides the livestock held in the byre, would be stored here.
+Osric's purse had a reasonable amount of coin, but this winter would not see any neighbor's excess available through purchase once the cold bit down. All the food for winter, besides the livestock held in the byre, would be stored in the eorth-hord.
 
 The winters of 940 and 941 had been harsh. The winter of 942 would prove crueler still. Yet when Osric thought back upon that season, he did not remember the cold first.
 
 He remembered the theft.
 
-The trouble began in the _eorth-hord_.
+The trouble began in the eorth-hord.
 
 Ealhild would note that each time she pulled grain from the chests in the eorth-hord, there was less than the day before. There was no reason to suspect the children; they were hard-working and chastised each other for any mischief. There were no footprints, no gnawed wood, no leavings of rats. She brought Osric over, candle in hand, to show him. He was tired from late fall's work: sowing the fields, fixing thatch, mending and insulating pens, and stacking the cord-wood. He hadn't even begun to move the animals to the byre and separate the cockerels. He had no time for such matters. "Ealhild, I trust you to work the eorth-hord," he muttered, his eyes heavy with exhaustion. "Find the hole the oats have fallen into." He trudged back to the field, his mind at ease that his hearth-wise wife would find the solution... she always had in the past.
 

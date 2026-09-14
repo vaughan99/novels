@@ -2,9 +2,18 @@ import { mkdir } from "node:fs/promises";
 import path from "node:path";
 
 import { copyAssets, copyPandocConfig } from "./copy.mjs";
-import { readManuscript } from "./read-manuscript.mjs";
-import { renderMarkdown } from "./render-markdown.mjs";
-import { renderHtml, renderEpub, renderDocX } from "./render-pandoc.mjs";
+import { readMarkdownPieces } from "./read-markdown-pieces.mjs";
+import { 
+    renderManuscriptMarkdown,
+    renderAfterwordMarkdown
+} from "./render-markdown.mjs";
+import {
+    renderAfterwordHtml,
+    renderManuscriptDocX,
+    renderManuscriptEpub,
+    renderManuscriptHtml,
+    renderManuscriptPdf
+} from "./render-pandoc.mjs";
 
 async function build() {
 
@@ -15,6 +24,7 @@ async function build() {
     }
 
     const manuscriptDir = path.join(novel, "manuscript");
+    const afterwordDir = path.join(novel, "afterword");
     const buildDir = `./build/${novel}`;
 
     await mkdir(buildDir, { recursive: true });
@@ -22,13 +32,16 @@ async function build() {
     await copyAssets(novel, buildDir);
     await copyPandocConfig(novel, buildDir);
 
-    const manuscript = await readManuscript(manuscriptDir);
+    const manuscript = await readMarkdownPieces(manuscriptDir);
+    const manuscriptMarkdownFile = await renderManuscriptMarkdown(manuscript, buildDir);
+    const afterword = await readMarkdownPieces(afterwordDir);
+    const afterwordMarkdownFile = await renderAfterwordMarkdown(afterword, buildDir);
 
-    const mdFile = await renderMarkdown(manuscript, buildDir);
-
-    renderHtml(buildDir, mdFile);
-    renderEpub(buildDir, mdFile);
-    renderDocX(buildDir, mdFile);
+    renderManuscriptHtml(buildDir, manuscriptMarkdownFile);
+    renderManuscriptEpub(buildDir, manuscriptMarkdownFile);
+    renderManuscriptDocX(buildDir, manuscriptMarkdownFile);
+    // renderManuscriptPdf(buildDir, manuscriptMarkdownFile);
+    renderAfterwordHtml(buildDir, afterwordMarkdownFile)
 
     console.log("Done.");
 }

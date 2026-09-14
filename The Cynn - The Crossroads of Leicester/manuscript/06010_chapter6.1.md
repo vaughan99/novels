@@ -286,7 +286,9 @@ He barred the door.
 
 He sent the students into a closet.
 
-Among the morning's donations lay a byrnie once owned by a retired thegn. Cynewulf pulled it over his priestly woolens. Then he wrapped a spare censer-chain around his fist.
+Among the morning's donations lay a byrnie once owned by a retired thegn[^thegn]. Cynewulf pulled it over his priestly woolens. Then he wrapped a spare censer-chain around his fist.
+
+[^thegn]: thegn: a landholding warrior-noble who served a king or lord
 
 He would not let the night fall upon him and his flock without a fight.
 

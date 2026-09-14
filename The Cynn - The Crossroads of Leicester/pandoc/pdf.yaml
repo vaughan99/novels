@@ -1,0 +1,13 @@
+from: markdown
+standalone: true
+toc: true
+toc-depth: 2
+
+metadata-file: pandoc/metadata.yaml
+
+resource-path:
+  - .
+
+pdf-engine: lualatex
+
+verbosity: INFO

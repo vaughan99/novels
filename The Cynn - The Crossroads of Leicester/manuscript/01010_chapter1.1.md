@@ -22,11 +22,17 @@ Muninn: "You keep reading... _the story_."
 ---
 
 
-That is how the baggage train of a little-known Northumbrian fyrd from the Tyne River Valley came to rest outside Under-Geat. They were mustered by Oswulf, an ealdorman recognized at the Saxon court and protector of the church estates of Hexham, and they were hundreds of miles from their farms.
+That is how the baggage train of a little-known Northumbrian fyrd[^fyrd] from the Tyne River Valley came to rest outside Under-Geat. They were mustered by Oswulf, an ealdorman[^ealdorman] recognized at the Saxon court and protector of the church estates of Hexham, and they were hundreds of miles from their farms.
+
+[^fyrd]: fyrd: an army of farmer-soldiers
+[^ealdorman]: ealdorman: a high-ranking Anglo-Saxon noble and regional governor
 
 These fyrdmen, roughly a hundred strong, had been sent to this battle on what most in Northumbria would consider _the wrong side_.
 
-That is also how Osric, a ceorl from that fyrd, came to find himself digging through the mud with his hands to make a latrine.
+That is also how Osric, a ceorl[^ceorl] from that fyrd, came to find himself digging through the mud with his hands to make a latrine.
+
+[^ceorl]: ceorl: a free commoner, usually a farmer or householding laborer, below the rank of thegn
+
 Osric's sweat and toil were payment for a debt he did not know. The only man who _did_ know, Ealdorman Oswulf, sat in a warm, dry hall in Hexham.
 
 Osric was a man of tall stature, hollowed by hunger, sickness, and wounded pride. His face was gaunt, his eyes sunken, and his beard grown wild and tangled with bits of hearth-straw. 
@@ -102,7 +108,9 @@ One-hundred paces away, a king and an archbishop were making plans.
 
 When the Saxon King Æthelstan died in 939, his half-brother Edmund inherited both his crown and his unfinished wars.
 
-For generations the Five Boroughs of the Danelaw had passed back and forth between Saxon and Danish kings, won at terrible cost and lost almost as quickly. Every generation believed it had settled the question. Every generation discovered otherwise.
+For generations the Five Boroughs of the Danelaw[^Danelaw] had passed back and forth between Saxon and Danish kings, won at terrible cost and lost almost as quickly. Every generation believed it had settled the question. Every generation discovered otherwise.
+
+[^Danelaw]: Danelaw: areas of Northumbria, Mercia, and East Anglia conquered and settled by Scandinavians, where Danish law and custom prevailed
 
 In 942, Edmund's armies retook the Danelaw.
 
@@ -122,7 +130,9 @@ To attack it meant to turn the hamlet of Under-Geat into a battlefield.
 
 Yet no one attacked it.
 
-Because of the _frith_.
+Because of the _frith_[^frith].
+
+[^frith]: frith: the sanctuary provided by the church on church ground
 
 "Oda, you must see this my way." The King stared at the South Gate. "Good men will die if you don't."
 

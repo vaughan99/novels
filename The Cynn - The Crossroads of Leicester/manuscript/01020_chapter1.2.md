@@ -326,7 +326,9 @@ He planted his hand in the mud to brace himself. He looked up from the ground to
 
 He grimaced as the boot twisted, intentionally. The skin on his knuckles began to tear as he closed his eyes and endured the pain.
 
-"See that the axle is fixed, or perhaps you won't live to see your witan," a voice whispered in his ear.
+"See that the axle is fixed, or perhaps you won't live to see your witan[^witan]," a voice whispered in his ear.
+
+[^witan]: witan: a council where truth is discovered and judgement is passed
 
 The boot lifted. Footsteps splashed away through the mud. He was not sure which of the men had made the threat, but it didn't matter.
 

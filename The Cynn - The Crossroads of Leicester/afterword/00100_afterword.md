@@ -1,16 +1,5 @@
 # Afterword
 
-## NOTE BEFORE YOU CHOOSE TO READ OR SKIP
-
-Should you choose to skip the Afterword, that's totally fine. But DO NOT skip the AFTERLIFE chapter at the end of the book. Seriously. I intended it as dessert.
-
-For Huginn's sake.
-
-And no, that does NOT mean it has dead bodies. Just afterlife bodies... who are dead... which isn't the same thing...
-
-ENJOY!
-
-
 ## Why Write This Book?
 
 I have been fascinated by magical weapons for most of my life.

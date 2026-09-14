@@ -1,7 +1,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
 
-export async function readManuscript(directory) {
+export async function readMarkdownPieces(directory) {
     console.log(`Reading manuscript from ${directory}`);
 
     const entries = await readdir(directory);

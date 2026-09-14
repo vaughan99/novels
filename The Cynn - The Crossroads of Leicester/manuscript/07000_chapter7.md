@@ -72,11 +72,11 @@ The wolf-men crashed into the forming shieldwall. Two fyrdmen flew backwards, th
 
 Cynewulf stood at the rear, having no shield, his rusty langseax gripped tight in his hand. He braced his other hand against the fyrdman in front of him. "Hold, men!" he screamed. He knew the next moments were crucial.
 
-The one-eyed archer scrambled to the top of one of the carts near the corner. He loosed an arrow that pierced Grinjaw's shield. Murdock arose from another wagon flanking the charge, the _thwack_ of his stock-bow echoing off the carts and walls. A bolt found a wolf-man in the ribs, and he fell.
+The one-eyed archer scrambled to the top of one of the carts near the corner. He loosed an arrow that pierced Grinjaw's shield. Murdock arose from another wagon flanking the charge, the _thwack_ of his crossbow echoing off the carts and walls. A bolt found a wolf-man in the ribs, and he fell.
 
 Osric stood in the wall, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole spear, but it didn't last long. A broad-axe bit into the pole. The ash shaft sheared in two with a single, mocking crack. Osric dropped the useless shaft and leaned his full weight into his shield, bracing its back with his free hand.
 
-For a few heartbeats neither side gave ground. Another arrow flew by Grinjaw's ear. Murdock let his stock-bow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Killwoven, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the stock-bow bolt into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
+For a few heartbeats neither side gave ground. Another arrow flew by Grinjaw's ear. Murdock let his crossbow fall as he reached for a second, hiding beneath the driver's bench of his wagon. He took aim at Killwoven, but at the last second a young wolf rushed him, the shaggy wolfskin bursting into the edge of his vision. He abandoned his aim, and thrust the crossbow bolt into the neck of the climbing young Viking. The trigger fired. The young wolf lurched backward, the bolt ripping through his neck, killing the boy before he hit the mud.
 
 Grinjaw seized his moment. A smile crept across his face. "Pull!"
 

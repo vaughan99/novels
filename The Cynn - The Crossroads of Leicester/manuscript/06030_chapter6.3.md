@@ -148,7 +148,9 @@ Cynewulf watched as the company broke apart, moving with the fluid, silent effic
 
 The scouts returned and led the company three miles west to a collapsed section of Wall. There the rubble formed a thirty-degree incline of jagged limestone and mossy mortar, a landslide frozen in time.
 
-_Fer-Main_ pulled his horse to a halt, studying the slope. He looked at the way the rubble spilled over the _vallum_ ditch, creating a bridge of debris that bypassed the marshy trap entirely.
+_Fer-Main_ pulled his horse to a halt, studying the slope. He looked at the way the rubble spilled over the _vallum_[^vallum] ditch, creating a bridge of debris that bypassed the marshy trap entirely.
+
+[^vallum]: the earthwork and ditch system forming a Roman defensive boundary
 
 "It’s a goat path," _Fer-Main_ whispered, his eyes scanning the crest of the mound. "But it’s a path."
 
@@ -164,7 +166,9 @@ As they approached, the ten guards behind the barricade stood up. They looked li
 
 The guard was a man of Cumbraland. Kinsmen to the Welsh, they were allies to the Alban Scots.
 
-"Dere Street is open to those who pay the price of the road," the Cumbrian replied, his accent thick and guttural. "And it is closed to the King’s dogs. We know who you are, _marchauc_. We know the smell of Æthelstan's silver."
+"Dere Street is open to those who pay the price of the road," the Cumbrian replied, his accent thick and guttural. "And it is closed to the King’s dogs. We know who you are, _marchauc_[^marchauc]. We know the smell of Æthelstan's silver."
+
+[^marchauc]: marchauc: an Old Welsh word for a horseman or mounted warrior
 
 Cynewulf’s pulse quickened. _They know us. Should I raise the alarm? My orders were to stall._... _Trust Fer-Main. If it's a trap, he'll smell it._
 
