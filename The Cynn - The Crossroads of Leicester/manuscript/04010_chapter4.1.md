@@ -138,7 +138,7 @@ Despite her impatience, the wisdom seemed solid to her, and so that was the fami
 
 But she hated the nickname.
 
-_Meadow-bud_, I'm nothing of the sort!_
+_Meadow-bud_, I'm nothing of the sort!
 
 She would take practice swings with the heavy felling axe against the sticks at the edge of the forest. She was already stronger than he realized.
 
