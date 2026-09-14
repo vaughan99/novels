@@ -102,6 +102,10 @@ Steve read the list, then looked up at Huginn.
 
 Huginn pointed a wing at the short story at the end of the list. "Your debut is there. Don't worry, buddy, we haven't forgotten."
 
+Huginn studied the eye.
+
+"Yes, the Boss was talking to you too. The next story will carry something _of your making_. You'll see."
+
 The tension in the little eye relaxed, and Huginn gently placed him under his wing once more.
 
 They set off in search of the story.
