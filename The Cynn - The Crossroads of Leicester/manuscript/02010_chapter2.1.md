@@ -46,7 +46,7 @@ She was well versed in the old Northern hearth-ways. Osric didn't marry her for 
 
 Her family was established enough for three generations. Her great-grandfather, Ingvarr the Steady, son of Torsten, marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
 
-Ingvarr received a grievious wound that day, and died several weeks later.
+Ingvarr received a grievous wound that day, and died several weeks later.
 
 His men constructed a barrow on what was to be his new land. They laid Ingvarr to rest in the barrow. They laid his companions who were slain at York in the barrow too. The limestone with jet was put as the final stone on the barrow.
 
