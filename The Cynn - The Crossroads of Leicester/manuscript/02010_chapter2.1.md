@@ -217,8 +217,6 @@ _If she's right, the nisse will ignore the syrup and accept the offering. If it'
 
 Deep into the night, there was a sound. It wasn't the sound of a spirit at the door. It wasn't the sound of the winter roar, which had since died to a slow whistle. It was the *other* sound of winter.
 
-The youngest of the children was "Eaxl", whose name literally meant wheel-axle. That was her nickname, as she shared her mother's name, and she liked to spin and spin like the wheels on the carts that would visit the farm.
-
 A single cough broke through the high-pitched whine from outside. It was a short, sharp hack from the girls' loft. Little Eaxl was suffering the first subtle hint of winter's humour-sickness.
 
 Ealhild was awake instantly, her protective instinct overriding her own deep exhaustion. She slipped out from beneath the warm wool and furs, covered her feet with slippers, and quietly made her way to the hearth.
