@@ -1,5 +1,13 @@
 ## Part Three: The Harvest of the Coal
 
+The villagers soon noticed the strange, silent activity. They saw no smoke by day, yet some mornings they caught its scent upon the wind. They didn't know it was from the old coaler's knoll. They whispered of the "_Coaler-Wight_" that lived by the Roman necropolis, a restless spirit cursed by the Viking slaughter. They swore that if the _Coaler-Wight's_ breath reached you before you made it to the Shadow Gate, it would drag you into one of its burning pits beneath the earth.
+
+Terrified of the wight, the local peasants began to leave marks on the ruined hut. Creeping up to the clearing in the safety of the twilight, they used iron nails to scratch crude, shaky crosses into the charred doorposts. They smeared thick lines of red clay across the threshold stone and threw handfuls of salt across the path, desperate to bind the ghost inside the ruin. They threw hearth ash on the pathway to the house, and left a crude crucifix in the yard.
+
+From the deep shadows of the willows, Elswyth watched them do it. She never wiped the marks away. She let the red clay dry and the iron nails rust in the wood. The fear of the living was her strongest shield; those superstitious marks kept the curious, the greedy, and the law-bringers far from her secret.
+
+She decided that if the village was so eager to have a ghost, it might as well be a ghost that deserved to be feared. She started a new, small charcoal pit right inside the Roman necropolis, carefully hidden behind some of the taller stones. It wasn't intended for sale, but to harvest the frowns on the faces of her unwitting neighbors.
+
 Years passed in _Under-Geat_.
 
 She occasionally encountered threats of the forest.

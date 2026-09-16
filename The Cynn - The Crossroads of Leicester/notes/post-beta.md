@@ -3,9 +3,11 @@ How to make sure the Alfheimr scene reads as eventually the nisse and the shadow
 
 ---
 
+Improve characterizations of Elswyth. As a young adult, she is going to be quick and have practiced motion. Her motion should be reminiscent of American Indians.
+
+---
+
 When Elswyth picks up Monanleoht, I think when it speaks to her, she should shriek and drop the blade. Nothing could prepare her for a talking blade, and while most D&D characters take it in stride, she is a person. And people freak out when blades start talking to them.
-
-
 
 ---
 

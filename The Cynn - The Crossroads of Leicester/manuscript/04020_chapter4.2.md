@@ -145,13 +145,18 @@ She timed her opening by the count of her heartbeats. How many for the first hol
 
 She remembered her father's rule, never chastising forge-elves for the theft of the best pieces. But she also incorporated Fussleton's strange wisdom: that the harsh glare of a torch spread the magic of the moonlight too thin, and that the best wood for burning was the hardest wood collected by moonlight. Her father only cooked the charcoal by the light of the moon, but he made no mention of how to collect it.
 
-The villagers soon noticed the strange, silent activity. They saw no smoke by day, yet some mornings they caught its scent upon the wind. They didn't know it was from the old coaler's knoll. They whispered of the "_Coaler-Wight_" that lived by the Roman necropolis, a restless spirit cursed by the Viking slaughter. They swore that if the _Coaler-Wight's_ breath reached you before you made it to the Shadow Gate, it would drag you into one of its burning pits beneath the earth.
+The very first reveal of the charcoal, Elswyth was breathless. She worked her rake to remove the earth and ash slowly. Puffs of grey rose from the meticulous gathering, ash landing on her eyelids and shoulders. Her eyes peered into the grey, and finally the first piece of coal emerged.
 
-Terrified of the wight, the local peasants began to leave marks on the ruined hut. Creeping up to the clearing in the safety of the twilight, they used iron nails to scratch crude, shaky crosses into the charred doorposts. They smeared thick lines of red clay across the threshold stone and threw handfuls of salt across the path, desperate to bind the ghost inside the ruin. They threw hearth ash on the pathway to the house, and left a crude crucifix in the yard.
+It was light grey and hard. She found another. Instinctively, she tapped the two together.
 
-From the deep shadows of the willows, Elswyth watched them do it. She never wiped the marks away. She let the red clay dry and the iron nails rust in the wood. The fear of the living was her strongest shield; those superstitious marks kept the curious, the greedy, and the law-bringers far from her secret.
+_Tink_.
 
-She decided that if the village was so eager to have a ghost, it might as well be a ghost that deserved to be feared. She started a new, small charcoal pit right inside the Roman necropolis, carefully hidden behind some of the taller stones. It wasn't intended for sale, but to harvest the frowns on the faces of her unwitting neighbors.
+Elswyth broke into a skipping dance around the mound, two steps to one side and one across, then a half-turn, the pattern reversing beneath her feet as she spun onward in a wide circle.
+
+“Wood, _coal_, even your skin,
+everything drinks the moon in!”
+
+Half-turn. Skip, skip, cross. Half-turn again. Her hair flew wild as she laughed and wheeled around the singing coal. After a minute, she stopped, dizzy from the spinning and skipping. She fell on her rump and giggled.
 
 She had no sacks to store the coal, so she had to steal. She didn't want to alarm the villagers, so she thought it best to try the church yard. So late one night, she approached the Shadow Gate.
 
