@@ -7,10 +7,11 @@ Improve characterizations of Elswyth. As a young adult, she is going to be quick
 
 ---
 
-When Elswyth picks up Monanleoht, I think when it speaks to her, she should shriek and drop the blade. Nothing could prepare her for a talking blade, and while most D&D characters take it in stride, she is a person. And people freak out when blades start talking to them.
+When Elswyth picks up Monanleoht, I think when it speaks to her, she should shriek and drop the blade. Nothing could prepare her for a talking blade, and while most D&D characters take it in stride, she is a person. And people should freak out when blades start talking to them.
+
+
 
 ---
-
 
 Actual safe conduct:
 

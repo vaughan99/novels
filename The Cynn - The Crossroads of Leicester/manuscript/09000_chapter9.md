@@ -16,22 +16,27 @@ There was a whisper in her ear. It was the soft, familiar voice of Fussleton, _b
 
 "Speak the words: ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛚᛖᚩᚦᛖ (_We play in song_)"
 
-Elswyth resisted. It _must_ be a trick. If she spoke the words and it was a trick, she might die.
+"AHHH!" Elswyth yelled as she dropped the blade instinctively. It clanged on the ground, bouncing twice as it settled onto a broken tile. It laid there, a hint of light reflecting off the blade.
+
+"Vile creature," she whispered at the blade. "Where are you?"
+
+The blade lay there, motionless.
+
+She stared at the blade, narrowing her gaze. "And why should I trust anything you have to say?"
+
+And still, the blade lay there, unmoving.
 
 The first of the wolf-men jumped and landed in the pool. He saw her and immediately called to the others.
 
-_She could run, but then Osric's wolf-men would find her._
+She could run, but then Osric's wolf-men would find her. And if she stayed and didn't fight the Ulfhednar, she'd die anyway.
 
-_And if she stayed and didn't fight the Ulfhednar, she'd die anyway._
+Elswyth reached down, her hand finding the antler handle of the blade. Elswyth closed her eyes.
 
-Elswyth closed her eyes.
-
-She whispered them.
+She whispered the words.
 
 Then came the familiar voice of Fussleton, as clear as day.
 
 ```
-
 Who is it that awakens me?
 Little Meadow-bud who didn't flee.
 Are you brave to call me once more?
@@ -66,7 +71,7 @@ If all you want is crimson flood,
 Then speak these words: ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ (We play in blood)
 ```
 
-The wolf-man was almost to the edge of the pool.
+The first wolf-man was almost to the edge of the pool.
 
 Elswyth drew a long breath.
 
@@ -74,13 +79,13 @@ Elswyth drew a long breath.
 
 In the misty reflection of *Monanleoht's* steel, the monster's eyes emerged from the flat of the blade.
 
-"Now listen here, you foul wretch of a..."
+"Now listen here, you FOUL... WRETCH of a..."
 
 He cut her off mid-sentence with a high-theatrical mocking whine.
 
 "Oh, boo, hoo, hoooooo! *A marrow-muncher's trying to drain my trunk-blood and chew my bones!!!* Stop your quibblin' and gibblin'! There's no time. I'm to... teach... you... how to fight. Blech... I still can't believe this. Of all the mud-muckin', bone-stealin', grub-squashin' things those slag-brained smithy-ticks *could* have thought up, they thought it would *be funny* to trap me in this blade, to teach *a little girl* how to **PLAY WAR**! The monstrosity! The temerity! Those smelt-pot-scraping soul-slackers will rue... the... moon-day that they thought this up."
 
-Elswyth's confidence flagged. "I can't do this! I've never done... this! I've seen the warriors train, but I've never held a fighting blade. I don't kill people."
+Elswyth looked at the coming men, each with murderous intent. "I can't do this! I've never done... this! I've seen warriors train, but I've never held a fighting blade. I don't kill people."
 
 The redcap's tone dropped into one of pure, mocking dejection.
 
@@ -214,7 +219,7 @@ She had handled the first Viking, and she thought it miraculous. The blade's poi
 Oh, first time to draw blood? Merely adequate, meadow-bud. A bit disappointing though... the boy’s blood-juice is sweet, yes, but harvested too early. It is under-mooned. Far too under-mooned to a proper redcap's liking. A flat profile, definitely on the waning side. Still.. the essence of roasted morel from his last feast on the nose has that woodsy depth, rescuing the ... wait a beat... I... I can taste?! I CAN TASTE! Those crazy soul-jailers didn't just lock me in the dark... they gave me the keys to the larder! Oh, those beautiful, soot-stained forge-leeches! They knew I'd starve in here. They knew I'd rot. So they made the steel my tongue! Every blood-drop... a morsel! Every cut... a banquet! Oh those forge-elves are genius!
 "
 
-The second Ulfhednar was slow to approach from the pool, being wary of what he'd just seen. Obviously there was more to this girl than met the hunter's eye. He was well-appointed: chain full-shirt, wolf headdress over spangenhelm, hand axe and stout shield. He had a professional battle-gait, and was ready.
+The second Ulfhednar was slow to approach from the pool, being wary of what he'd just seen. He was well-appointed: chain full-shirt, wolf headdress over spangenhelm, hand axe and stout shield. He had a professional battle-gait, and was ready.
 
 "Oh, watch out for this one now. He's quick to the step. Well-balanced. Very seasoned. Heavy iron in his blood. Start the music!"
 
@@ -309,7 +314,7 @@ Step right now, and coil the spring,
 Drop the knee of castled king!
 ```
 
-Elswyth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Monanleoht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the leather hilt sticking right up out of his ruined boot. The voice in her head snapped shut like a trap, demanding the harvest be finished:
+Elswyth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Monanleoht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the antler handle sticking right up out of his ruined boot.
 
 ```
 Take iron from the leather,
@@ -405,7 +410,7 @@ Now it's time for you to...
 
 Elswyth’s knuckles turned white. Her grip clamped down like an iron vise, shattering his rhythm and forcing the blade to a grinding, vibrating halt a mere hair's breadth from her collarbone.
 
-She didn't panic. She knew his tell. He was a slave to the song and could not strike without a rhyme. She had caught the cadence right before it was too late.
+She didn't panic. He was a slave to the song and could not strike without a rhyme.
 
 She squeezed the handle until the steel stopped shaking, locking the monster back down into the depths of the nickel and steel.
 
@@ -420,7 +425,9 @@ Sweet dessert was sitting nigh,
 So you knew I had to try!
 ```
 
-Click. Elswyth put Monanleoht back in its cage, the pommel's lock silencing the gnome.
+_Click._
+
+Elswyth put Monanleoht back in its cage, the pommel's lock silencing the gnome.
 
 With the redcap no longer there to guide her senses, she descended into madness.
 
