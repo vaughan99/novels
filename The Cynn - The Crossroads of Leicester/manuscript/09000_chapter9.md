@@ -480,6 +480,8 @@ The sunlight caught the coffer sitting on the bench. She wasn't sure she wanted 
 
 Inside the coffer she found a neatly folded set of charcoal-black garments. A suede coaler's apron lay atop a supple leather jerkin, beneath which were folded a linen tunic, a short half-cloak with its fitted caul, and wrappings for her arms and calves. Beside the stack rested a pair of light, thick oil-treated turn-shoes, their leather darkened by soot until they seemed born of the forge itself. There were also coaler's gloves, thick rawhide that protected her fingers from the brambles and thorns of working in the forest, and the heat of the charcoal clamp.
 
-Beneath the clothing, she also found a new woodsman's felling axe. Its broad bit carried a _welkin-iron_ edge, bright as _Monanleoht's_ blade. The ash haft was wrapped in supple leather, its shallow flutes fitting naturally beneath her fingers.
+Beneath the clothing, she also found a new woodsman's felling axe. Its broad bit carried a _welkin-iron_[^welkin-iron] edge, bright as _Monanleoht's_ blade. The ash haft was wrapped in supple leather, its shallow flutes fitting naturally beneath her fingers.
 
-Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, spare pegs, three tiny brass bells and small iron fittings whose purpose she could only guess.
+[^welkin-iron]: welkin-iron: bright high-nickel iron taken from a meteorite which can be worked into steel 
+
+Lastly, she found a leather tool roll containing the finest woodsman's implements she had ever seen: wood-splitting wedges, polished trap triggers carved from antler and oak, a bronze awl, waxed linen cord, files and rasps of various sizes, three tiny brass bells and small iron fittings whose purpose she could only guess.

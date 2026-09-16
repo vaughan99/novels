@@ -1,17 +1,14 @@
 
-Add footnotes to define strange terms (eorth-hord, wyrd, etc)
-
-
-Confusion: How to make sure the Alfheimr scene reads as eventually the nisse and the shadow fyrd and NOT Ealhild and the real children. It needs to be clear by the end (maybe just before the nisse blows out the candle).
+How to make sure the Alfheimr scene reads as eventually the nisse and the shadow fyrd and NOT Ealhild and the real children. It needs to be clear by the end (maybe just before the nisse blows out the candle).
 
 ---
 
-Madoc named his knife _Tauawt_ or Tongue. It likes the "taste of battle". He forged it himself, because he didn't like what the blacksmith had.
+When Elswyth picks up Monanleoht, I think when it speaks to her, she should shriek and drop the blade. Nothing could prepare her for a talking blade, and while most D&D characters take it in stride, she is a person. And people freak out when blades start talking to them.
 
-I'm adding this to be a counter to Briar-Bite. It's a human made object where the wielder is attempting desperately to add haelu. Briar-bite has haelu only because a boy wished it.
 
 
 ---
+
 
 Actual safe conduct:
 
