@@ -151,12 +151,20 @@ It was light grey and hard. She found another. Instinctively, she tapped the two
 
 _Tink_.
 
-Elswyth broke into a skipping dance around the mound, two steps to one side and one across, then a half-turn, the pattern reversing beneath her feet as she spun onward in a wide circle.
+She closed her eyes, held the two pieces of charcoal close to her chest, and let out a heavy sigh of relief.
+
+Suddenly, her face lit up, she opened her eyes, and she broke into a skipping dance around the mound, two steps to one side and one across, then a half-turn, the pattern reversing beneath her feet as she spun onward in a wide circle.
 
 “Wood, _coal_, even your skin,
 everything drinks the moon in!”
 
 Half-turn. Skip, skip, cross. Half-turn again. Her hair flew wild as she laughed and wheeled around the singing coal. After a minute, she stopped, dizzy from the spinning and skipping. She fell on her rump and giggled.
+
+She yelled. "WOOOO!" and held the coal up to the stars, as if to prove to them she could do it.
+
+She fell back into the cold clamp, the ash mingling with her hair.
+
+"I did it, father," was the only left for her to say.
 
 She had no sacks to store the coal, so she had to steal. She didn't want to alarm the villagers, so she thought it best to try the church yard. So late one night, she approached the Shadow Gate.
 
