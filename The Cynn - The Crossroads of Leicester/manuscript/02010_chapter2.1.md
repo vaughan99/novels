@@ -56,7 +56,7 @@ Ingvarr's wife was Ingrid, daughter of Ormr. She lived a long life with their ch
 
 Her children, grand-children, and even her great-grandchildren were there the day she was laid to rest in the tomb.
 
-Ealhild barely remembered that day. She was in her second winter, barely keeping the snow off her knees when the entrance stone was set once more to seal the barrow.
+Ealhild barely remembered that day. She was in her fourth winter, barely keeping the snow off her knees when the entrance stone was set once more to seal the barrow.
 
 That was also the year Ealhild was first introduced to the family cows. Ealhild's grandfather bred the first of the area's famous cows. Their cream was bountiful, and their butter was known for miles around.
 
