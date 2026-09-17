@@ -2,7 +2,9 @@
 
 Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare.
 
-He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
+He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth[^hearth]. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
+
+[^hearth]: hearth: a prepared place for a controlled fire, used for heating, cooking, or craftwork such as forging
 
 He was not an especially pious man. He had seen the shuffle of war... Norseman against Christian, Christian against Norseman... and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and every harvest.
 
@@ -52,7 +54,11 @@ His men constructed a barrow on what was to be his new land. They laid Ingvarr t
 
 Ingvarr's wife was Ingrid, daughter of Ormr. She lived a long life with their children on that land until she died many years later. 
 
-Ealhild's grandfather bred the first of the area's famous cows, and their wealth grew. In time, the family grew and prospered. Their cream was bountiful, and their butter was known for miles around.
+Her children, grand-children, and even her great-grandchildren were there the day she was laid to rest in the tomb.
+
+Ealhild barely remembered that day. She was in her second winter, barely keeping the snow off her knees when the entrance stone was set once more to seal the barrow.
+
+That was also the year Ealhild was first introduced to the family cows. Ealhild's grandfather bred the first of the area's famous cows. Their cream was bountiful, and their butter was known for miles around.
 
 Ealhild was the last of seven daughters, and her mother's apron-heir. She followed her mother every step, watching and learning. When her mother gathered herbs and roots from the eorth-hord[^eorth-hord], Ealhild was there. While her older sisters preferred the fields, the stream, or the company of other children, Ealhild lingered wherever her mother worked.
 

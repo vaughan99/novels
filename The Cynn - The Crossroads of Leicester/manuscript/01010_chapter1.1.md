@@ -35,7 +35,7 @@ That is also how Osric, a ceorl[^ceorl] from that fyrd, came to find himself dig
 
 Osric's sweat and toil were payment for a debt he did not know. The only man who _did_ know, Ealdorman Oswulf, sat in a warm, dry hall in Hexham.
 
-Osric was a man of tall stature, hollowed by hunger, sickness, and wounded pride. His face was gaunt, his eyes sunken, and his beard grown wild and tangled with bits of hearth-straw. 
+Osric was a man of tall stature, hollowed by hunger, sickness, and wounded pride. His face was gaunt, his eyes sunken, and his beard grown wild and tangled with bits of straw. 
 
 Osric's clothes were a beggar's hoard. He wore three tunics at once, each of them with rips longer than his arm. His feet were stuffed into split-leather boots, wrapped over with greasy sheepskin rags to keep the dampness of the mud from seeping into his bones. Beneath the mountain of damp wool, he looked less like a man of the fyrd and more like a ghost made of rags.
 

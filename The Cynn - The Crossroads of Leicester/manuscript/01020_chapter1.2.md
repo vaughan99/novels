@@ -10,9 +10,7 @@ Suddenly there was a shadow in her doorway. A doorway nobody ever used but her.
 
 The shadow had the shape of a man. An Osric-shaped man. He held a burn-pole, a rake that looked like it had fallen into the fire and accidentally received a sharp tip, and a laughable square of wood that called itself a shield.
 
-_Is he guarding me? Does he know I'm here? Impossible._
-
-He never said a word. Instead, Osric stared at the army across the wall.
+He never said a word. Instead, Osric stared at the army across the wall. If he knew of her presence, he didn't betray it.
 
 Among the army of Olaf were Northumbrian levies, farmers like Osric from neighboring towns but paying homage to York instead of the Saxons. He had hoped not to meet them in battle, as his wife's kinsmen were from the _Piceringas_ near York, and he had traded with others on Olaf's side.
 
@@ -42,7 +40,7 @@ Others pounded the gate, breaking its meager crossbar.
 
 The thirty Danes formed a shield wall, but the fyrd descended on them from their flanks. The resulting battle was short.
 
-Galindo looked over his shoulder at his best men of the fyrd, looking for a sign. Once given, he drove his spurs and the horse leapt into action.
+Galindo glanced over his shoulder... three spears waved high above the wall in unison. He braced himself, drove in his spurs, and the horse leapt into action.
 
 King Edmund didn't even have to hear a word. He saw Galindo round the southeast corner, and he knew. He split his forces, sending his reserves rushing back to the Shadow Gate under Galindo's command. The Shadow Gate lay open, awaiting them.
 
@@ -54,7 +52,9 @@ The Danes lost both the Shadow Gate and the East Gate. Soon after the South and 
 
 That night, however, Olaf and Wulfstan were not even in the Forum at all.
 
-Olaf fled with Wulfstan through the North Gate. His hearthguard stole boats from the Willow Reach fishermen, and at the water's edge Olaf sent Wulfstan back with one command... to sue for peace.
+Olaf fled with Wulfstan through the North Gate. His hearthguard[^hearthguard] stole boats from the Willow Reach fishermen, and at the water's edge Olaf sent Wulfstan back with one command... to sue for peace.
+
+[^hearthguard]: hearthguard: a small company of men who served a lord, often helping enforce authority
 
 Wulfstan rode his horse back through the North Gate just as Saxon sentries spotted him. He rode hard through the barricades on High Street, through the Forum, and towards the Forum west entrance. It was a mere eighty paces from the Church of St. Augustine and St. Columba. He dismounted his horse and turned toward the Church.
 
