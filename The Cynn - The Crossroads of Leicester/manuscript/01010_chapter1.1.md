@@ -43,11 +43,15 @@ Osric once held an honored position in the fyrd, a tall, proud warrior-farmer wi
 
 Was.
 
+Osric looked up briefly as he heard footsteps squishing in the mud towards them. The footsteps belonged to a young woman, a charcoal-burner from the look of her. He had no need for charcoal or for young women. He set his mind back to his work.
+
 Elswyth was from Under-Geat, a daughter of the charcoal and the forest. She was a young woman of twenty winters with golden hair fouled by soot and a frame toughened by swinging an axe and hauling wood.
 
 She dressed for the damp forest and the heat of the char-pits, not the thread-wise handiwork of linen makers. Her clothes were a patchwork of scavenged pieces beneath a stiff coaler’s apron of cowhide and charcoal grease. A short green wool hood and waist-cloak kept off the rain. Wool leg-wraps and simple turn-shoes stuffed with dry moss guarded against briars and hedges. Worn leather gloves hid the heavy calluses of axe-work.
 
-Her family had once done the dirty work of burning Charnwood timber into charcoal for the church bell foundry and the Yardworks' lime kilns. Now she did it alone, tending the clamps in the still of night, away from village eyes and ears.
+Her family had once done the dirty work of burning Charnwood timber into charcoal for the church bell foundry and the Yardworks' lime kilns. Now she did it alone, tending the clamps[^clamp] in the still of night, away from village eyes and ears.
+
+[^clamp]: clamp: an earthen mound containing smoldering wood used to make large quantities of charcoal
 
 She seldom mingled with the village-folk, for she had spent half her life balanced on the sharp edge between truth and lie. Which was which depended on who you asked.
 
@@ -59,27 +63,19 @@ As she approached the camp to find Murdock, she happened upon Osric. Not many th
 
 "Follow the hill Osric, or yee'll have to start over."
 
-Murdock was tough but fair. He hated things having to be done twice.
-
 Osric looked up from the trench.
 
 “I am. The turf rises here, but the clay beneath it falls west. Once I strip the turf the clay will carry the runoff toward the river.”
 
 Murdock walked over to judge.
 
-“Aye. Good choice. What are ye lad, man or mole? Follow the clay.”
+“Aye. Good eye for mud, Osric. What are ye lad, man or mole? Haha. Follow the clay then.”
 
 Osric smiled. For once in a long while, it seemed something had gone... right.
 
-Elswyth stopped in her tracks.
-
-_He looks starved._
+Elswyth stopped in her tracks. Her eyes caught the size of the man but also the gaunted skin of his frame.
 
 She wasn't usually sentimental. She generally believed people should make the best of whatever station they found themselves in and distinguish themselves by how well they endured it.
-
-He _was_ distinguishing, _and_ enduring.
-
-Osric went back to digging.
 
 Elswyth had several things to sell to Murdock, but in that moment she separated a handful of pignuts from the rest of her bounty.
 She kept them in her hand.
@@ -272,7 +268,14 @@ Grinjaw had owned three such headdresses. Only the first had accidentally dried 
 
 Their reputation for savagery needed no introduction.
 
-“These stories are spun by milk-drinking cowards who are trying to explain missing barrels of ale.”
+---
+
+Muninn: "THEN STOP INTRODUCING THEM!"
+
+---
+
+
+Grinjaw began. “These stories are spun by milk-drinking cowards who are trying to explain missing barrels of ale.”
 
 The group laughed.
 
@@ -286,7 +289,9 @@ Olaf thought for a moment.
 
 "No. A rider was sent to York to warn them. I need your wolves here in the Forum with me."
 
-Grinjaw narrowed his eyes but said nothing. This was not the first time Olaf had denied him glory and plunder.
+Grinjaw narrowed his eyes. "Two days is all we'd need. And we'd share the plunder."
+
+Olaf shook his head. "You're needed here."
 
 Grinjaw turned to the map.
 
@@ -298,7 +303,7 @@ Wulfstan, the Archbishop of York and close ally of Olaf, stepped forward in his 
 
 Grinjaw spat towards the bishop's fur-lined boots.
 
-“You’re a cub who thinks his mother will face the bear.”
+“You’re a dog who thinks his bark will scare off the bear.”
 
 Wulfstan ignored the challenge. He turned to Olaf.
 
