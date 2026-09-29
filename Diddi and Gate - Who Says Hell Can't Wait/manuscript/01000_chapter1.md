@@ -10,7 +10,7 @@ But first, I’ll make a confession.
 
 I actually do know what you’re thinking.
 
-Or at least I will, after the first drops of blood hit the floor.
+Or at least I will, after the first drops of blood hit the trough.
 
 My price?
 
@@ -40,9 +40,9 @@ They all did that.
 
 Eventually.
 
-Some did it immediately. Some lasted an entire reading before curiosity got the better of them. One woman had managed nearly twenty minutes before looking up, although she had spent nineteen of those pretending she wasn’t trying to.
+Some did it immediately. Some lasted an entire reading before curiosity got the better of them. One woman had managed to last until the sand-glass was half empty.
 
-This one lasted perhaps eight breaths.
+Quill's sand-glass. He lives his life by it. Obsessed with writing in his ledgers. Obsessed with time. "Six fingers-wide of sand past the third bell," he might write in his ledger. I'd just say where Kaer Maga's most famous new shadow fell on the lake's edge. That tells time well enough.
 
 Then his eyes came back down to me.
 
@@ -50,13 +50,13 @@ I smiled. I always smile. I love their reactions. I read them... _before_ I read
 
 His eyes looked at Quill, nose-deep into his ledger. "You must not have heard my question, young man. I'll pose it again. Do you have... a _reservation_?”
 
-The client looked from me to Quill.
+The client looked up, then looked at me, then back at Quill.
 
 Quill was perched on his stool behind the side counter, spectacles balanced on the end of a nose much too small to support them properly. He had bought the spectacles himself. He did not need them.
 
 This was obvious to everyone. Quill insisted they made him look professional. They made him look like an imp wearing spectacles.
 
-“Do you have an appointment?!” he asked again.
+“Do you have an appointment?!” he asked again, his tone growing more impatient.
 
 The client blinked. “I’m already sitting here.”
 
@@ -118,11 +118,15 @@ Fine linen. Expensive. Perfumed.
 
 Lavender.
 
+I was actually muttering those words. What made me realize it was hearing Quill's scratching on the page, capturing every detail.
+
 Something bitter underneath.
 
 Not poison.
 
 Fear, perhaps.
+
+More scratching.
 
 Fear has a scent if you spend enough time around it.
 
@@ -134,21 +138,23 @@ People deny many obvious things.
 
 “Years.”
 
-“Good.”
+“Are you sure?”
 
-“Good?”
+“Am I sure?”
 
-“It means she’s had time to soak into it.”
+“Men don't notice those things.”
 
-He went pale.
+He narrowed his eyes. "You'd know that because you've been... married?"
 
-“Figuratively.”
+I laughed. "No, honeydew. I know that because every vision of every man I've ever laid eyes on looked right past that bit of linen to their wife's..."
+
+Quill's pen broke. That sometimes happens when he is writing too fast. He reached under the desk. I think he generally keeps over a hundred perfect goose feather pens under there.
+
+The client went pale.
+
+“Fine, I _think_ she's had it a long time.”
 
 He relaxed.
-
-“Mostly.”
-
-He went pale again.
 
 Behind him, something snickered.
 
@@ -414,15 +420,11 @@ I drew the knife sideways.
 
 Warmth spilled over my fingers.
 
-There are screams you make because something hurts.
+Clients expect me to scream. But have you noticed how much scar tissue I have there, on my belly? I think I've lost feeling from my armpit to my beltline.
 
-There are screams you make because someone expects you to.
+Anyway, the client made enough noise for both of us.
 
-I’ve never found much use for either.
-
-The client made enough noise for both of us.
-
-“Oh gods.”
+“Oh... GODS!”
 
 “Not yet.”
 
@@ -572,15 +574,19 @@ Very relieved. Common things are boring.
 
 There was something else.
 
-Something _it_ feared more than being discovered.
+Something _it_ feared more than being discovered in the shadows of a dark alley.
 
-Something beneath the obvious secret.
+Wait.
+
+_It?_
+
+Something beneath the obvious secret. Sneaking out of the house at night clearly wasn't the juiciest secret.
 
 That is where the good secrets live.
 
 I reached deeper.
 
-Mop inhaled.
+Mop inhaled and broke my concentration.
 
 “Don’t.”
 
@@ -606,7 +612,7 @@ Mop pointed at him.
 
 Quill’s eye twitched.
 
-I found the thread.
+I found the thread again.
 
 There.
 
@@ -640,7 +646,7 @@ Too hard.
 
 The vision snapped.
 
-More blood hit the floor. Didn't expect that.
+More blood hit the basin, and some spilled over. Didn't expect that.
 
 Mop whistled. “On it!”
 
@@ -730,9 +736,9 @@ Mop looked up.
 
 The client stared.
 
-“We don’t have any victim blood.”
+I smiled. “Mop, tell the nice man we don’t have any victim blood.”
 
-“Yesterday, there was this orc...”
+Mop looked at the client with a nasty smile. “Yesterday, there was this orc...”
 
 Quill closed his eyes.
 
@@ -790,7 +796,7 @@ I smiled.
 
 “Now.”
 
-I folded my hands on the table, raising them long enough for invisible Mop to run a wet rag under them to get every last little drop of blood.
+I folded my hands on the table, raising them long enough for invisible Mop to run a wet rag under them to get every last little drop of blood. My wound was gone. He stared at that too for moment.
 
 “How badly do you want to know what your wife is _really_ hiding?”
 
@@ -874,9 +880,9 @@ Quill turned the page on his ledger. "Alright new-face, I need your official nam
 
 The boy started to give his true name. I held up my hand.
 
-"No true names here kid. True names are power. You want to keep your soul in your shirt around infernals, we use bynames only."
+"No true names for employees here, kid. True names are power. You want to keep your soul in your shirt around infernals? We use bynames only."
 
-I like handing out names. It's like starting a whole new identity. The past can be so boring.
+I say that, but it's probably donkey manure. I just like handing out names. It's like starting a whole new identity. The past can be so boring.
 
 "Shoes. You're Shoes."
 
@@ -944,9 +950,9 @@ Oooh, spicy.
 
 Behind Rezzen I heard furious scratching in Quill's ledger. I shook my head at Quill. "Off the record."
 
-Quill grumbled, ripped the page and crumpled it. He threw it at Mop, who promptly ate it.
+Quill grumbled, ripped the page and crumpled it. He dipped it in a can of bacon grease he kept on the far edge of his desk. He threw it at Mop, who promptly ate it.
 
-"So Magrim sent you."
+"So Magrim _sent_ you."
 
 Rezzen thought hard on the answer. Monks always think hard before they answer any question.
 
@@ -978,7 +984,9 @@ He didn't even look down. "Assassins of Droskar. They didn't take kindly to me l
 
 Of course they weren't. I love playing dumb.
 
-"Did you happen to save anything of theirs?"
+"Did you happen to save anything of _theirs_?"
+
+You know, sometimes I get lucky. If I approach the sideways angle from yet another sideways angle, sometimes the two 'sideways' cancel each other out. But most of the time they just confuse the hell out of everyone involved. Me included.
 
 And this is where he surprised me. He produced a key. It looked strange. A hundred teeth. Mithral.
 
@@ -1052,7 +1060,7 @@ I lurched back to reality.
 
 "You're looking for a snake emblem. A previous owner of the key carried one. Several centuries ago."
 
-I described the emblem. It was an amulet, probably religious. If I had it, I could tell a lot more.
+I described the emblem. It was an amulet, probably religious.
 
 "Bring me one of those medallions, and if it's connected, we'll know a lot more."
 
@@ -1060,7 +1068,9 @@ I described the emblem. It was an amulet, probably religious. If I had it, I cou
 
 Quill opened the Escrow ledger and made an entry. "We shall keep it in escrow. It is not decided yet whether you shall need it or not. Now, description? I can't write 'off the books'. How about 'indeterminate object with teeth... no... protrusions.' Sounds specific but not too specific."
 
-Quill took the key and placed it in his chest, next to old man Herbert's silver spoons that we were keeping in escrow too. These were the days before we had vaults. Hey, we had to start somewhere.
+Quill took the key and placed it in his chest, next to old man Herbert's silver spoons that we were keeping in escrow too. These were the days before we had vaults.
+
+Hey, we had to start somewhere!
 
 That's when Shoes came back. Three melons. That didn't cost a full silver piece. Smart boy. He kept the change.
 
@@ -1074,6 +1084,8 @@ He nodded and left.
 
 Rezzen asked for something to clean his hands. Mop jumped to his side and offered his tongue.
 
+Quill took to wing and hovered over Mop, his stinger exposed.
+
 "Mop!"
 
 "Well..."
@@ -1082,9 +1094,11 @@ Rezzen asked for something to clean his hands. Mop jumped to his side and offere
 
 Voop.
 
-Mop went on strike.
+This is what it looks like when Mop goes on strike.
 
 I handed Rezzen a clean, slightly moist towel. I kept those on hand.
+
+I don't remember what I used to moisten them that day.
 
 We'll add it to the laundry pile later. Another job I can give Shoes... laundry. I could finally afford laundry then. That felt luxurious.
 
@@ -1118,15 +1132,31 @@ Mop reappeared.
 
 "Jealous."
 
-We had one more client that day. It was one of those jobs where Quill's hourglass timer barely had a few grains of sand. Client lied. He burned down his own house. Very boring.
+We had one more client that day. It was one of those jobs where Quill's glass barely passed a few grains of sand. Client lied. He burned down his own house. Very boring.
+
+That was it for the day.
+
+Now, you might ask where I sleep. For a troll my age, honestly, you're lucky if I'm awake for your reading honeydew.
+
+I fall asleep right there. Most nights, it's fine. There are lots of night-stalkers in Kaer Maga, but when you help enough people, the night-stalkers are usually on your side.
+
+Which is great for business.
+
+And staying alive.
+
+Night-stalkers have puzzles they have to solve too, you know.
 
 The next day, Fatherdrop the bloatmage... we call him that because you never know when he'll drop by, looked in on the shelf of troll blood. He seemed especially _needy_.
 
+Bloatmages are like regular mages who've figured out that some dweomers are right there in the blood. So they flood their blood vessels. They use leeches too, sucking off the excess before it stains their silk shoes.
+
+The bright side: that extra blood _really_ gives their spells some kick. The down side: overdosing turns them into drunken raging spell-barbarians. Or something like that. Is barbarian still a word, honeydew? I forget.
+
 Quill started in. "Do you have a reservation?"
 
-Fatherdrop ignored him and wallowed over to the jars. His leeches were sucking the excess blood off.
+Fatherdrop ignored him and wallowed over to the jars. His leeches were plugging themselves into a hole that wept blood from his skin. They were barely keeping up.
 
-Mop eyed him anxiously. "Fall off. Just one. Pweeeeez!"
+Mop eyed them anxiously. "Fall off. Just one. Pweeeeez!"
 
 Quill shook his head.
 
@@ -1169,4 +1199,58 @@ He looked at me wild-eyed. This may work in the dungeons and out in the Cinderla
 "No mainlining blood in the tent. Take it home. Take it to your enemy's house. But no using here. We're a respectable establishment."
 
 Mop was picking his nose. Mop was not counted in that statement.
+
+His excess blood was spewing forth. Well, his leeches had already given up, and so had half his blood vessels. He bled on my box of melons.
+
+That made me... cross.
+
+Don't make me cross.
+
+But I let him bleed. It's the only way to handle one of these bloatmages until they get off their high.
+
+I let him go.
+
+"I cannot fathom why the dirty bedsheets and the lantern being out of oil suddenly made me lose my wits. Your unfiltered sanguinity is most intoxicating... and strange. I had visions of bedsheets and chamber pots. I almost..."
+
+"Look, just no mainlining, got it honeydew? Now pay the human boy to get me a fresh batch of melons or I'll cut open a few new attachment sites for your leeches."
+
+"Of course Miss Diddi."
+
+He left me a purse for the blood, the jar, Mop's cleanup expenses (oh wait, those are free), and the ink that it cost for Quill to document everything... including documenting the free blood cleanup from Mop. I think he attempted to weigh Mop before and after to determine the amount spilled.
+
+In the end, he just logged the whole jar as shrink.
+
+Before he left, Fatherdrop reminded me why I liked him, despite all his nasty habits. "Shall I drop by tomorrow with my brother's latest line of alchemical wrinkle creams? He's worked on a new formula."
+
+Now we're talking. Fatherdrop was such a smoothy sometimes. I almost forgot I nearly _ended him for mainlining my blood and unleashing fireballs_.
+
+"Three jars."
+
+"Of course."
+
+That brightened my mood. I know I'm old, but behind this old saggy troll is a girl that just wants to be loved... by other... trolls... nevermind. I just want to keep the skin folds off my other skin folds. Makes them hard to count.
+
+Mmmm, time for another.
+
+Mmmmm. Melon.
+
+So that's when Rezzen walks back through the tent flap.
+
+Mop was licking up blood, alternating between crying over having missed out on Dirty Bedsheet Fireball armageddon, and ecstatic because, well, he's licking up my blood. Quill is trying to weigh Mop, and Fatherdrop is out the door mumbling about finding more leeches. Mop was screaming about his weight differential between "known states" was off by leeches, more leeches, and infernal crack-tossery... whatever that is.
+
+Rezzen ignored all of it. I envied him. Focus is magic wielded by only the precious few who _can't_ see past the superficial details around them. Just focusing on one.
+
+Dwarves are so single-minded. I wish I was a dwarf. Until I look in the mirror. I hate beards, honeydew. Write that down. Who wants hair in their mouth when they eat? Yuck.
+
+Dwarf meat tastes like hair. I gave up eating dwarf way before I found Kaer Maga.
+
+No, the last meat I ate was special. Too special. But that's not relevant right now. I inherited a lot of things from the last one I ate, and an affinity for melons was right at the top of the list.
+
+---
+
+
+
+
+
+
 
