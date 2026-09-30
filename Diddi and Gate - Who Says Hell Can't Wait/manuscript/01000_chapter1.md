@@ -1,3 +1,5 @@
+# Chapter One
+
 I know what you’re thinking.
 
 How can a troll be this eloquent? This well-spoken? This in-tune with the world around them?
@@ -10,7 +12,7 @@ But first, I’ll make a confession.
 
 I actually do know what you’re thinking.
 
-Or at least I will, after the first drops of blood hit the trough.
+Or at least I will, after the first drops of blood hit the basin.
 
 My price?
 
@@ -18,11 +20,7 @@ How about that elven cloak? That bauble you call a magic ring but we both know i
 
 Everything’s for trade, honeydew. Your future. Your husband’s past. Your enemy’s next mistake.
 
-All I need is something of yours.
-
-Or theirs.
-
-Somebody’s, really.
+All I need is something of value and something to focus on.
 
 Something they wore. Something they carried. Something they touched often enough to leave themselves behind.
 
@@ -42,11 +40,15 @@ Eventually.
 
 Some did it immediately. Some lasted an entire reading before curiosity got the better of them. One woman had managed to last until the sand-glass was half empty.
 
-Quill's sand-glass. He lives his life by it. Obsessed with writing in his ledgers. Obsessed with time. "Six fingers-wide of sand past the third bell," he might write in his ledger. I'd just say where Kaer Maga's most famous new shadow fell on the lake's edge. That tells time well enough.
+Quill's sand-glass. After he took over as shop manager, it was the very first thing he requisitioned. He lives his life by it. Obsessed with writing in his ledgers. Obsessed with time. "Six fingers-wide of sand past the third bell," he might write in his ledger. I'd just say where Kaer Maga's most famous new shadow fell on the lake's edge. That tells time well enough.
 
 Then his eyes came back down to me.
 
-I smiled. I always smile. I love their reactions. I read them... _before_ I read them. “Who else would I be speaking to?”
+I smiled. I always smile. I love their reactions. I read them... _before_ I read them.
+
+But no, _I_ didn't say a word. Not yet.
+
+“Who else would I be speaking to?”
 
 His eyes looked at Quill, nose-deep into his ledger. "You must not have heard my question, young man. I'll pose it again. Do you have... a _reservation_?”
 
@@ -54,7 +56,7 @@ The client looked up, then looked at me, then back at Quill.
 
 Quill was perched on his stool behind the side counter, spectacles balanced on the end of a nose much too small to support them properly. He had bought the spectacles himself. He did not need them.
 
-This was obvious to everyone. Quill insisted they made him look professional. They made him look like an imp wearing spectacles.
+This was obvious the moment he requisitioned them. Quill insisted they would made him look professional. They made him look like an imp wearing spectacles.
 
 “Do you have an appointment?!” he asked again, his tone growing more impatient.
 
@@ -166,13 +168,13 @@ Silence.
 
 A wet little voice answered from somewhere near the floor.
 
-“What?”
+“What? He he he...”
 
 “Stop lurking beneath the client.”
 
-“I’m cleaning.”
+“I’m cleaning. Mmmm...”
 
-“You have been cleaning the same square of floor for six minutes.”
+“You have been cleaning the same square of floor for one finger-wide of sand.”
 
 “Stubborn stain. Don't want client shoes to get stained, do we?”
 
@@ -182,9 +184,9 @@ Slowly.
 
 Very slowly.
 
-A small green head appeared from beneath the edge of the table.
+Voop. A small green head appeared out of thin air rom beneath the edge of the table.
 
-Mop grinned at him.
+Mop grinned at the client. Those teeth always get me. The teeth smile at you. The _teeth_... _smile_!
 
 The client recoiled.
 
@@ -198,7 +200,7 @@ I sighed.
 
 “Mop.”
 
-“What?”
+“What Miss Diddi?”
 
 “Stop eating in front of customers.”
 
@@ -314,7 +316,7 @@ I cut him off. I hate it when clients try to tell you how hard their life is, an
 
 "Some say junk."
 
-Mop cut in. "Junk!"
+Mop cut in. "Junk! I love junk! Sharp junk... pointy junk..."
 
 Not helpful.
 
@@ -358,7 +360,7 @@ It becomes difficult to keep track.
 
 The client rubbed his palms against his knees.
 
-“I need to know.”
+“I want to know.”
 
 “No.”
 
@@ -366,7 +368,7 @@ He frowned.
 
 “No?”
 
-“You want to know.”
+“You need to know.”
 
 “That’s what I said.”
 
@@ -382,19 +384,17 @@ Everyone watches the blade.
 
 It gives them something to focus on besides the fact that I’m about to do something they’ll pretend later wasn’t nearly as bad as it was.
 
-“Need and want are different currencies.”
+"Want is... _aspirational_, need is... what we have now.”
 
 He swallowed.
 
 “What’s the difference?”
 
-“You can walk away from a want.”
+“Tolerance. You can't tolerate the status quo.”
 
-“And a need?”
+I looked down at the blade.
 
-I smiled.
-
-“You usually find out too late.”
+"And that's why you're here."
 
 I placed the tip of the knife against my belly.
 
@@ -426,13 +426,7 @@ Anyway, the client made enough noise for both of us.
 
 “Oh... GODS!”
 
-“Not yet.”
-
-He stared.
-
-“What?”
-
-“Nothing.”
+Then he thought. "Oh... GODS!" That's good when what they think and what they say are the same thing. Means he's not in on it... usually.
 
 I opened myself wider.
 
@@ -458,9 +452,9 @@ That is why I need a focus.
 
 The object gives me a thread.
 
-The blood helps me follow it.
+The intestines help me follow it.
 
-My blood.
+My intestines.
 
 Always mine.
 
@@ -514,7 +508,7 @@ I slapped his hand without looking.
 
 “Appreciate from farther away.”
 
-He shuffled back.
+He shuffled back. I could hear the frown on his face.
 
 Quill opened a smaller ledger.
 
@@ -573,6 +567,8 @@ Adultery wasn't there.
 Very relieved. Common things are boring.
 
 There was something else.
+
+New loop of intestine. Starting there.
 
 Something _it_ feared more than being discovered in the shadows of a dark alley.
 
@@ -846,7 +842,27 @@ But not yet. You see that was the same day Shoes walked in. Well, he wasn't Shoe
 
 We put out an ad because... well, nobody wanted to sell melons to a quasit. And Quill said that buying melons wasn't in his job description.
 
-And he was the first to show up.
+I had a halfling helper at first. Shoeless. He took notes, he bought my melons, he did field research when I needed it.
+
+Until the day two hedge wizards came walking through my door. They wanted me to settle a debt.
+
+One had an imp familiar. The other had a quasit. You know where this is going, I'm sure.
+
+They wanted me to settle their debt.
+
+They carried a wand in. They wagered their familiars as payment about who created the wand.
+
+Funny thing, that wand. It was a _wand of identify_, according to the runes on it. But it refused to identify itself, much less anything else. Aura was curious too. More transmutation, less divination.
+
+So they had me do the reading.
+
+Silly wizards. Turned out the wand had a childhood. In fact, it _was_ a child. A _mimic_ child, to be exact. The wizards argued. They threatened me. They made me cross.
+
+Don't make me cross.
+
+Anyway, I got the two familiars. Shoeless disappeared the next day. And these two became my shop helpers. Maybe they conspired. Maybe they were bored. I'm not sure.
+
+So, after the ad, this boy was the first to show up.
 
 Now, this was before... there was nothing to look up and see now, so he just sat there staring at me. Probably wondered if I was going to eat him. Or let the quasit eat him. I'm not like that.
 
@@ -896,7 +912,7 @@ Anyway, _that's when_ the duergar entered the tent. I barely looked at him.
 
 "Ascetics typically go to Greenhalo. She'll tell you about your afterlife."
 
-Typical. Monks and their questions. "Am I on the right path? Have I sacrificed my _entire life_ for some meaningless soul journey? Or should I have listened to my father and be an accountant." 
+Typical. Monks and their questions. "Am I on the right path? Have I sacrificed my _entire life_ for some meaningless soul journey? Or should I have listened to my father and be an accountant."
 
 Don't tell Quill I said that.
 
@@ -996,7 +1012,7 @@ Quill even left his stool to come take a closer look. He brought his ledger and 
 
 He stared at me.
 
-How do I come up with a price for a duergar monk of Magrim who used to be a duergar monk of Droskar, the master of endless toil and stolen ingenuity? 
+How do I come up with a price for a duergar monk of Magrim who used to be a duergar monk of Droskar, the master of endless toil and stolen ingenuity?
 
 "The key is the price. Let me keep the key."
 
@@ -1247,10 +1263,3 @@ Dwarf meat tastes like hair. I gave up eating dwarf way before I found Kaer Maga
 No, the last meat I ate was special. Too special. But that's not relevant right now. I inherited a lot of things from the last one I ate, and an affinity for melons was right at the top of the list.
 
 ---
-
-
-
-
-
-
-
