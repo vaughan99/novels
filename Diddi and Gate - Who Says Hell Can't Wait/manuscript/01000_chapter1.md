@@ -1,4 +1,3 @@
-
 # Chapter One
 
 I know what you’re thinking.
@@ -23,7 +22,9 @@ Everything’s for trade, honeydew. Your future. Your husband’s past. Your ene
 
 All I need is something of value and something to focus on.
 
-Something they wore. Something they carried. Something they touched often enough to leave themselves behind.
+The thing of value? Doesn't have to be much. A penny from a pauper. A brooch from a lady. An estate from a king. Heh heh. Fooled you on the last one.
+
+The focus? Something they wore. Something they carried. Something they touched often enough to leave themselves behind.
 
 There’s no such thing as worthless information.
 
@@ -55,9 +56,9 @@ His eyes looked at Quill, nose-deep into his ledger. "You must not have heard my
 
 The client looked up, then looked at me, then back at Quill.
 
-Quill was perched on his stool behind the side counter, spectacles balanced on the end of a nose much too small to support them properly. He had bought the spectacles himself. He did not need them.
+Quill was perched on his stool behind the side counter, spectacles balanced on the end of a nose much too small to support them properly. He did not need them.
 
-This was obvious the moment he requisitioned them. Quill insisted they would made him look professional. They made him look like an imp wearing spectacles.
+This was obvious the moment he requisitioned them. Quill insisted they would make him look professional. They made him look like an imp wearing spectacles.
 
 “Do you have an appointment?!” he asked again, his tone growing more impatient.
 
@@ -159,7 +160,7 @@ The client went pale.
 
 He relaxed.
 
-Behind him, something snickered.
+Underneath him, something snickered.
 
 “Mop,” Quill said.
 
@@ -169,11 +170,11 @@ Silence.
 
 A wet little voice answered from somewhere near the floor.
 
-“What? He he he...”
+“What?”
 
 “Stop lurking beneath the client.”
 
-“I’m cleaning. Mmmm...”
+“I’m cleaning.”
 
 “You have been cleaning the same square of floor for one finger-wide of sand.”
 
@@ -185,9 +186,11 @@ Slowly.
 
 Very slowly.
 
-Voop. A small green head appeared out of thin air rom beneath the edge of the table.
+Voop. A small green head appeared out of thin air from beneath the edge of the table.
 
-Mop grinned at the client. Those teeth always get me. The teeth smile at you. The _teeth_... _smile_!
+Mop grinned at the client. Those teeth always get me. The teeth smile at you.
+
+You heard me. The _teeth_... they smile. At you. Disturbing.
 
 The client recoiled.
 
@@ -249,15 +252,15 @@ Quill’s voice came from nowhere.
 
 “You disappeared.”
 
-“There was a threat.”
+“You threatened me.”
 
-“You’re an imp.”
+“Scared of a quasit?”
 
 “I am an accountant.”
 
-“Same thing.”
+“Who's scared of a quasit.”
 
-“It is absolutely not the same thing.”
+“I'm not scared, I'm prepared for battle. Now where are you?”
 
 Mop’s invisible voice drifted from the other side of the room.
 
@@ -317,7 +320,7 @@ I cut him off. I hate it when clients try to tell you how hard their life is, an
 
 "Some say junk."
 
-Mop cut in. "Junk! I love junk! Sharp junk... pointy junk..."
+Mop cut in. "Junk! I love junk! Sharp junk... pointy junk... bloody junk..."
 
 Not helpful.
 
@@ -335,9 +338,7 @@ Quill scratched a note in his ledger. You can always tell Quill's excitement whe
 
 “You want to know if she’s unfaithful.”
 
-His mouth opened.
-
-Then closed.
+He sat motionless.
 
 I leaned toward him.
 
@@ -405,7 +406,7 @@ Quill reappeared on his stool.
 
 Mop reappeared behind the client looking over his shoulder. The client was too mesmerized to care.
 
-Mop grinned.
+Mop grinned. And panted. His little claws grasped the client's shoulders. He started jumping up and down on the chair-back in anticipation.
 
 I pushed the blade in.
 
@@ -427,33 +428,17 @@ Anyway, the client made enough noise for both of us.
 
 “Oh... GODS!”
 
-Then he thought. "Oh... GODS!" That's good when what they think and what they say are the same thing. Means he's not in on it... usually.
+Then he thought. "Oh... GODS!" That's good... When what they think and what they say are the same thing, that usually means they're not guilty or conspiring... usually.
 
 I opened myself wider.
 
-The future is not a road.
-
-People love roads.
-
-Roads comfort them.
-
-Roads suggest direction. Choices. Intersections. Places you can stop for lunch.
-
-The future is closer to a fistful of string thrown into a river.
-
-Some strands knot.
-
-Some snap.
-
-Some wash away.
-
-Some wrap around your ankle and pull you under before you ever notice they touched you.
-
-That is why I need a focus.
-
-The object gives me a thread.
+I can read the future, the past, the present, wherever the focus takes me.
 
 The intestines help me follow it.
+
+_Not_ my poop. _That_ would be disgusting. What I have is more... elegant. Like bloody art. A fine painting. Made of gore.
+
+Smells like... you guessed it... honeydew.
 
 My intestines.
 
@@ -491,7 +476,7 @@ His face had gone gray. I grabbed his hands. I had to, suddenly, otherwise they 
 
 He watched. He felt. He vomited.
 
-Good. Mop was there to catch it. He likes to show off like that, catching vomit in mid-hurl.
+Good. Mop was there to catch it with the black bucket. He likes to show off like that, catching vomit in mid-hurl.
 
 I moved a loop of intestine aside.
 
@@ -555,13 +540,13 @@ Slinking in the shadows.
 
 Drawing a knife.
 
-The husband leaned forward. He wiped his chin. That's good... spittle on the chin can be so trance-breaking.
+The husband leaned forward. He wiped his chin, forgetting he had my blood on his hands. That's good... spittle on the chin can be so trance-breaking. My blood on his chin felt more... artistic.
 
 “Well?”
 
 I looked down again.
 
-The strands tangled.
+The gore switched the vision.
 
 Adultery wasn't there.
 
@@ -569,7 +554,7 @@ Very relieved. Common things are boring.
 
 There was something else.
 
-New loop of intestine. Starting there.
+New loop of intestine. Starting there. Seasons change.
 
 Something _it_ feared more than being discovered in the shadows of a dark alley.
 
@@ -605,11 +590,11 @@ Quill nodded.
 
 Mop pointed at him.
 
-“Feral.”
+“Infernal crack-tosser! Shut your ink-hole.”
 
 Quill’s eye twitched.
 
-I found the thread again.
+I found the vision again. Different. A place.
 
 There.
 
@@ -635,7 +620,7 @@ Back to their borrowed lives. Their boring lives.
 
 Laughing inside.
 
-I let go.
+I let go. He let go.
 
 Hard.
 
@@ -729,7 +714,7 @@ The client watched him.
 
 Mop looked up.
 
-“Victim blood.”
+“Other liquids. Vomit. Bile. Melon rinds. _The bloooood of my victims!_”
 
 The client stared.
 
@@ -849,9 +834,7 @@ Until the day two hedge wizards came walking through my door. They wanted me to 
 
 One had an imp familiar. The other had a quasit. You know where this is going, I'm sure.
 
-They wanted me to settle their debt.
-
-They carried a wand in. They wagered their familiars as payment about who created the wand.
+They carried a wand in. They wagered their familiars as payment about who created the wand. They were convinced it was one of two factions of wizards. Don't remember which. Didn't matter anyhow.
 
 Funny thing, that wand. It was a _wand of identify_, according to the runes on it. But it refused to identify itself, much less anything else. Aura was curious too. More transmutation, less divination.
 
@@ -862,6 +845,8 @@ Silly wizards. Turned out the wand had a childhood. In fact, it _was_ a child. A
 Don't make me cross.
 
 Anyway, I got the two familiars. Shoeless disappeared the next day. And these two became my shop helpers. Maybe they conspired. Maybe they were bored. I'm not sure.
+
+With Shoeless gone, there was nobody to buy me melons. And that made me cross.
 
 So, after the ad, this boy was the first to show up.
 
@@ -1026,6 +1011,8 @@ Ooooh, a gamble. Love it.
 So now you know what comes next. The wood basin, the inevitable bickering, yadda yadda. But.
 
 I opened myself up. I reached for his hands. And he lunged in, both hands. No vomit. His eyes were fixed on the gore. He was strong. I think that helped with the vision.
+
+Rezzen's mind? Like steel. A focused blade. Sharp, but not in a _smart_ sense.
 
 Assassins. Duergar. Wow, six-on-one. Rezzen, well done.
 
@@ -1199,7 +1186,7 @@ His blood vessels screamed... at least I thought I heard screaming.
 
 Oh no. That's real trouble. He was hallucinating. He knows my blood is powerful, but he can't resist taking a hit of the raw stuff. Didn't refine it. Didn't age it or prepare himself for it.
 
-"FIREBALLS!!!! DIRTY BEDSHEET ... FIREBALLS!!!! MUHAHAHAHA"
+"FIREBALLS!!!! DIRTY BEDSHEET ... FIREBALLS!!!! MUHAHAHAHA!!!"
 
 The next thing I saw was Mop. The leeches had fallen off, and he was eating them like popcorn, watching the tent like the world was going to end. And he loved it.
 
@@ -1233,9 +1220,7 @@ I let him go.
 
 "Of course Miss Diddi."
 
-He left me a purse for the blood, the jar, Mop's cleanup expenses (oh wait, those are free), and the ink that it cost for Quill to document everything... including documenting the free blood cleanup from Mop. I think he attempted to weigh Mop before and after to determine the amount spilled.
-
-In the end, he just logged the whole jar as shrink.
+He left me a purse for the blood, the jar, Mop's cleanup expenses (oh wait, those are free), and the ink that it cost for Quill to document everything.
 
 Before he left, Fatherdrop reminded me why I liked him, despite all his nasty habits. "Shall I drop by tomorrow with my brother's latest line of alchemical wrinkle creams? He's worked on a new formula."
 
@@ -1251,16 +1236,18 @@ Mmmm, time for another.
 
 Mmmmm. Melon.
 
-So that's when Rezzen walks back through the tent flap.
+So that's when Rezzen walked back through the tent flap.
 
-Mop was licking up blood, alternating between crying over having missed out on Dirty Bedsheet Fireball armageddon, and ecstatic because, well, he's licking up my blood. Quill is trying to weigh Mop, and Fatherdrop is out the door mumbling about finding more leeches. Mop was screaming about his weight differential between "known states" was off by leeches, more leeches, and infernal crack-tossery... whatever that is.
+Mop was licking up blood, alternating between crying over having missed out on Dirty Bedsheet Fireball armageddon, and ecstatic because, well, he's licking up my blood. Quill is trying to determine how to categorize the inventory loss, and Fatherdrop is out the door mumbling about finding more leeches.
 
-Rezzen ignored all of it. I envied him. Focus is magic wielded by only the precious few who _can't_ see past the superficial details around them. Just focusing on one.
+Rezzen ignored all of it. I envied him. Focus is its own kind of magic, wielded by only the precious few who see past the superficial details around them to set their mind on just one.
 
-Dwarves are so single-minded. I wish I was a dwarf. Until I look in the mirror. I hate beards, honeydew. Write that down. Who wants hair in their mouth when they eat? Yuck.
+Dwarves are so single-minded. I'd like them more, but I hate beards, honeydew. Write that down. Who wants hair in their mouth when they eat? Yuck.
 
-Dwarf meat tastes like hair. I gave up eating dwarf way before I found Kaer Maga.
+Dwarf meat tastes like hair too. I gave up eating dwarf way before I found Kaer Maga.
 
-No, the last meat I ate was special. Too special. But that's not relevant right now. I inherited a lot of things from the last one I ate, and an affinity for melons was right at the top of the list.
+Rezzen didn't have a beard. To date, he's my favorite dwarf. If duergar count as dwarves. Guess that depends on who you ask.
 
 ---
+
+TODO: Don't lose term 'crack-tossery' said by Mop to Quill.
