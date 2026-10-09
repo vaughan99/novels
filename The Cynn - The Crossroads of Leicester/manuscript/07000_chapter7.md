@@ -12,7 +12,7 @@ Murdock trudged over, stroking his red beard nervously. "Look here! I'm glad for
 
 The fyrdmen clustered around his horse.
 
-"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You three... you'll mind the wounded. Help them keep up. You... and you... gather enough pots and kettles to feed the fyrd.  We'll eat from our hands before we leave a meal for the Danes."
+"Each man takes a sack of grain or an animal's lead! Leave only enough for the wagon-men to eat. You three... you'll mind the wounded. Help them keep up. You... and you... gather enough pots and kettles to feed the fyrd. We'll eat from our hands before we leave a meal for the Danes."
 
 He looked down at the mud.
 
@@ -73,6 +73,10 @@ The wolf-men crashed into the forming shieldwall. Two fyrdmen flew backwards, th
 Cynewulf stood at the rear, having no shield, his rusty langseax gripped tight in his hand. He braced his other hand against the fyrdman in front of him. "Hold, men!" he screamed. He knew the next moments were crucial.
 
 The one-eyed archer scrambled to the top of one of the carts near the corner. He loosed an arrow that pierced Grinjaw's shield. Murdock arose from another wagon flanking the charge, the _thwack_ of his crossbow echoing off the carts and walls. A bolt found a wolf-man in the ribs, and he fell.
+
+The other taller archer loosed an arrow at Killwoven's head. Killwoven turned his head just in time, the arrow grazing his cheek.
+
+Seeing the shieldwall being challenged, he dropped his bow and unslung the shield from his back. He joined the wall just in time.
 
 Osric stood in the wall, his meager gear held high. He tried to keep the Vikings at bay with his burn-pole spear, but it didn't last long. A broad-axe bit into the pole. The ash shaft sheared in two with a single, mocking crack. Osric dropped the useless shaft and leaned his full weight into his shield, bracing its back with his free hand.
 
@@ -220,9 +224,9 @@ Cynewulf's feet remembered the path to the Church. It rose before him, beckoning
 
 Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast. The church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
 
-There, lying across the cold stone, Cynewulf found a large flat-topped chest of wood and iron, the lid carrying the iron badge of the Cynn: a young oak sprouting from a broken anvil with two crossed hammers at the foot. 
+There, lying across the cold stone, Cynewulf found a large flat-topped chest of wood and iron, the lid carrying the iron badge of the Cynn: a young oak sprouting from a broken anvil with two crossed hammers at the foot.
 
-Leaning on the chest was a compact round shield, perhaps a hand's-width wider than the _tarians_ of the _Dragon's Teeth_. The core was a union of hornbeam and linden. The face and rim were covered with thick waxed cuir bouilli. The boiled leather had been painted in alternating quarters of green and brown on the face. In the center, a round steel boss gleamed, punched with a foundry mark of a small oak sprouting from a broken anvil, with crossed hammers below. 
+Leaning on the chest was a compact round shield, perhaps a hand's-width wider than the _tarians_ of the _Dragon's Teeth_. The core was a union of hornbeam and linden. The face and rim were covered with thick waxed cuir bouilli. The boiled leather had been painted in alternating quarters of green and brown on the face. In the center, a round steel boss gleamed, punched with a foundry mark of a small oak sprouting from a broken anvil, with crossed hammers below.
 
 Across the top rested a black leather scabbard embossed with two ragged ravens, ancient runes, and the endless knot of two wolves forever chasing one another. The blade's handle was long, easily enough for two hands, but still practical for one. Its handle was wound in darkened steel wire, the coils sealed beneath a charcoal-black resin until metal and ash had become one. At either end, stout Turk's head knots gripped the wrap like the bindings of an old mariner's rope. Within slept _Wodbora, the Madness-Bringer, the Prophet of the Wodhere_.
 

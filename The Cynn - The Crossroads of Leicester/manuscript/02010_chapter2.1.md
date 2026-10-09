@@ -44,15 +44,23 @@ Huginn: "There, happy?"
 
 ---
 
-She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw. She was from a family that settled in the _Piceringas_, roughly sixty-five miles to the southeast. It was a lush valley, free of boulders, and easy to plow.
+She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw.
 
-Her family was established enough for three generations. Her great-grandfather, Ingvarr the Steady, son of Torsten, marched in Halfdan's host to take York. Passing through Whitby, he came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and he kept it with the baggage train. After the battle, his lord granted land to his followers.
+Her great grand-parents were a man named Ingvarr the Steady, son of Torsten, and Ingrid, daughter of Ormr, a tough woman who knew the land and hearth as well as any man. They governed a large estate in Sweden that supported twenty men and their families. When harvest time came one year, the sickness spread like wildfire. Desperate to meet the harvest needs for labor, Ingvarr and Ingrid borrowed slaves from a number of households in the vicinity.
 
-Ingvarr received a grievous wound that day, and died several weeks later.
+Late one night, a great fire broke out, and the longhouses burned. All the slaves died, as did a number of families.
 
-His men constructed a barrow on what was to be his new land. They laid Ingvarr to rest in the barrow. They laid his companions who were slain at York in the barrow too. The limestone with jet was put as the final stone on the barrow.
+Word had spread to the estate that Halfdan in Denmark was gathering a force to invade England, promising land and silver.
 
-Ingvarr's wife was Ingrid, daughter of Ormr. She lived a long life with their children on that land until she died many years later. 
+Unable to pay back his neighbors for the borrowed slaves, Ingvarr sold what remained of the family land. The amount he received paid the family's debts, and left enough money to form a warband from the remaining families. Ingvarr and Ingrid led these families across the sea, following Halfdan either to glory, or to the afterlife.
+
+Passing through Whitby, Ingvarr and Ingrid came across a peculiar stone by the sea, a flat of limestone with streaks of jeweled black. The stone was unusual, and they kept it with the baggage train.
+
+The battle for York was hard, and many in the warband died. Included in that number were several of Ingvarr's closest companions. Ingvarr himself received a grievous wound to the liver.
+
+Ingvarr, Ingrid, and the remaining families received a plot of land in the _Piceringas_ and enough silver to start their own enclave. Ingvarr was near death, and he ordered his men to build a barrow to honor those among the men in his warband who died in the battle. Just as the barrow was completed, Ingvarr died from his wound as well. He and his men were entombed in the barrow, and the limestone with jet was put as the final stone on the barrow.
+
+Ingrid carried on with what remained of the families. She lived a long life with their children on that land until she died many years later.
 
 Her children, grand-children, and even her great-grandchildren were there the day she was laid to rest in the tomb.
 
@@ -66,7 +74,7 @@ Ealhild was the last of seven daughters, and her mother's apron-heir. She follow
 
 She and her mother played at Gerðr and Freyr, hiding behind trees and barring one another from an imaginary garden until Freyr surrendered his wooden sword. Then Gerðr opened the gate, and they chased each other laughing through the orchard.
 
-She also knew some of her mother's stories were invented on the spot, but another tale of Gullinbursti the Golden-Bristled Boar soaring over hedgerows, or butting a troll into a ditch for stealing barley, never failed to make her laugh. 
+She also knew some of her mother's stories were invented on the spot, but another tale of Gullinbursti the Golden-Bristled Boar soaring over hedgerows, or butting a troll into a ditch for stealing barley, never failed to make her laugh.
 
 ---
 
@@ -100,13 +108,17 @@ Her mother taught her that one day, she would marry, and would travel far away. 
 
 And that is how families grew.
 
-When she went, she would take a barrow's capstone with her... to bring the spirits of her ancestors to help her tame her new land. Her mother would tell her stories of the black in the stone. "They are _Gerðr's Tears_, Ealhild. When she married Freyr, she stood at the shoreline, about to board _Skíðblaðnir_. She looked back. And she wept. Her tears ran black, and stained the stone," her mother said.
+Though she was the youngest of the seven daughters, Ealhild gained the favor of the village. She was the most helpful. She was the most kind. And, she was the most hard-working. Everyone in the village agreed that when she married, she should be given something special.
+
+When she went, she would take the barrow's capstone with her... to bring the spirits of her ancestors to help her tame her new land.
+
+Her mother would tell her stories of the black in the stone. "They are _Gerðr's Tears_, Ealhild. When she married Freyr, she stood at the shoreline, about to board _Skíðblaðnir_. She looked back. And she wept. Her tears ran black, and stained the stone," her mother said.
 
 "But why was she sad?" Ealhild was truly concerned.
 
 "She wasn't only sad, Ealhild. She loved her mother. And she knew that Freyr loved her with all his heart. Some tears are too big for one name. You will take the capstone with you when you are married. You will be as Gerðr, and your Freyr will find you one day."
 
-That day came, as Ealhild's father was eager to expand northward. While much of the land in that direction was tough and bitter, the lands of the Tyne river had wealth and made for good grazing land. He had come to know of Osric, whose father was interested in the stronger Danish plows.
+That day came, as Ealhild's father was eager to expand northward. While much of the land in that direction was tough and bitter, the lands of the Tyne river had wealth and made for good grazing land. He had come to know of Osric, whose father was interested in the stronger Danish plows that the Swedes of her village had come to be known for making well.
 
 When Osric came with his father to buy a plowshare, he could not take his eyes off Ealhild. She smiled at him nervously, but it was obvious that he was dumbstruck.
 
@@ -124,9 +136,9 @@ It rode strapped to the horse's blanket, heavier than anything else she carried.
 
 She arrived at the cottage in five days, a reasonably fast trek. Osric's fyrdmen said their goodbyes while Ealhild eagerly took the barrow-stone for placement. She spotted the perfect place... the step down from the door down into the earth, the very threshold of the home. Osric had barely seen off his friends when he turned to find Ealhild making offerings of the field she had brought with her. A bundle of barley. A sprig of three herbs. And, the boar's blood, held in a boiled-leather vial, coagulated and ready for mixing for paint. All were lovingly prepared under her mother's watch before she left.
 
-She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone: 
+She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone:
 
-ᚠ: Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and 
+ᚠ: Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and
 ᛟ: Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
 
 The dowry-promise of more cows was paid two years after she arrived, bringing their pen to four cows. Their wealth steadily grew, as Osric could now provide grain, and Ealhild provided the cream and butter. Osric had not yet built his cheese vats; that would come when he had enough cows, and children tall enough to reach the center for the skimming. Until then, they traded the leftover cream to their neighbor for finished cheese.
@@ -193,17 +205,17 @@ A _nisse_ was a spirit who came forth from the barrows, and guarded the land and
 
 A _nisse_ would usually have a favorite animal, often a horse, that it protected more than the others on a farmstead. The stolen grain was being fed to fatten the horse and cows for the winter. The _nisse_ had probably recognized it as the beast that bore her and the barrow-stone away to the new land.
 
-She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin. 
+She hatched a plan for that night, but first, there was dinner to be made. The first of the true frigid air hit for the winter, a cold howling javelin in the air to her skin.
 
 She steeled herself inside.
 
-She prepared a full meal fit for the first *true* winter night: mutton on the bone, pickled herring relish with sharp radishes, fresh bread, skyr cheese with honey, roasted sheep marrow directly from the fire, and salted ale-soaked prunes. Their feast lasted well into the evening. They joked about the braids on the horse... Osric thought the girls were playing maid to the horse, but Ealhild quietly knew the truth.
+She prepared a full meal fit for the first _true_ winter night: mutton on the bone, pickled herring relish with sharp radishes, fresh bread, skyr cheese with honey, roasted sheep marrow directly from the fire, and salted ale-soaked prunes. Their feast lasted well into the evening. They joked about the braids on the horse... Osric thought the girls were playing maid to the horse, but Ealhild quietly knew the truth.
 
 The children were sent to bed, stomachs filled and laughter spent. The wind was truly howling now, like the Wild Hunt was at their doorstep. But they had seen winter before, and these wolves lost most of their bite under the children's blankets.
 
 Ealhild now set about soothing the _nisse_. Osric begged for her to come to bed, but she was adamant. "The spirit visiting the larder needs his first-winter meal too. Rye bread, and an eye of porkbelly. Please fetch me the family bowl. We must teach this spirit to work with us and trust us. It's unfamiliar to these lands, as I once was, and must understand that we can provide for all on our land."
 
-Osric dutifully obeyed, but his wife's offering seemed... different... from what *his* mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth preventing the mischief that would otherwise follow."
+Osric dutifully obeyed, but his wife's offering seemed... different... from what _his_ mother taught. "A larder elf," she would say, "is spelled by the lovely sweetness. Give him your honey, your sweetened cream, your fruited syrup, and know he will stumble drunk back behind the walls, sleeping for moons. He would've spoiled the cream anyway, given the chance. It's a sacrifice, yes, but well worth preventing the mischief that would otherwise follow."
 
 Ealhild took the offering and set it on the transition stone. She retreated in quiet, and they both went to bed. Ealhild drifted fast asleep.
 
@@ -221,7 +233,7 @@ He poured a drizzle on the glistening pork fat, and recorked the bottle, complet
 
 _If she's right, the nisse will ignore the syrup and accept the offering. If it's a larder-elf, it will suffer the honey-sleep, and we won't see him again for at least two moons._
 
-Deep into the night, there was a sound. It wasn't the sound of a spirit at the door. It wasn't the sound of the winter roar, which had since died to a slow whistle. It was the *other* sound of winter.
+Deep into the night, there was a sound. It wasn't the sound of a spirit at the door. It wasn't the sound of the winter roar, which had since died to a slow whistle. It was the _other_ sound of winter.
 
 A single cough broke through the high-pitched whine from outside. It was a short, sharp hack from the girls' loft. Little Eaxl was suffering the first subtle hint of winter's humour-sickness.
 
@@ -231,7 +243,7 @@ The fire had dropped to a low, smoldering orange. She noticed the embers had dro
 
 Luckily, she had left over oats there next to the hearth. She didn't need to visit the eorth-hord, and she set to work making her famous honey-oatcakes with syrup. Every moment mattered, and she didn't spot Osric's tampering in the candlelight.
 
-She made sure to make enough for everyone. Her mother would say, "A measure for one is a measure for all. Heal the first cough, or tend a full household of graves before the moon turns." She topped each one of her cakes with syrup, and extra honey to help it go down. 
+She made sure to make enough for everyone. Her mother would say, "A measure for one is a measure for all. Heal the first cough, or tend a full household of graves before the moon turns." She topped each one of her cakes with syrup, and extra honey to help it go down.
 
 The syrup bottle opened normally, as the goblin-air had been spent by Osric a short while before. Unlike Osric, she knew the sound of the goblins rushing out, and wouldn't have served it if she knew. But there was yet more goblin-air in the liquid, waiting to unleash its foulness.
 

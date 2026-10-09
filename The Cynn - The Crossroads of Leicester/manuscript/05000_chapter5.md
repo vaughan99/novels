@@ -82,9 +82,7 @@ Instead he looked for the men who lingered after the others had found their purp
 
 He passed The Aleway.
 
-An ale-house would have been the obvious place to start, if there were still ale in Leicester.
-
-_Ha! I know where the ale went._
+An ale-house would have been the obvious place to start, if there were still ale in Leicester. He smiled because he knew where the ale went.
 
 He kept walking.
 
@@ -108,8 +106,6 @@ He stepped towards the Old Frith. He didn't expect to see piles of rubble.
 
 The old bathhouse behind the Jewry Wall was being excavated. Before him lay untidy heaps of marble, brick, timber, roof tile, and broken stone.
 
-_Hmmm, someone's been busy..._
-
 Cynewulf scoured the Old Frith with his eyes, like a wolf searching for another who had lost its pack. A man in a hurry to reach his wife was already on the road. A man eager to sow his fields was packing his cart. The men lingering over their broth interested him most.
 
 That was where he found them.
@@ -130,11 +126,13 @@ Cynewulf smiled despite himself.
 
 Two young brothers sat apart from the others, their shields stacked neatly beside them. Their eldest brother's warband had left before dawn without waking them. Whether through cruelty or indifference hardly mattered now. They wore the wounded pride of men determined never to be left behind again.
 
-The last two caught his attention before he reached them. They dressed like Northmen, but not Danish Northmen. Their armor wasn't mail at all, but hundreds of small iron plates laced together until each man seemed wrapped in the scales of some great fish. They spoke to each other in Norse, but it rolled off the tongue with a cadence he didn't expect. When Cynewulf asked if they had served Olaf, they laughed together and spat into the dirt.
+The last two caught his attention before he reached them. They had the bearing of Northmen but their armor was different from the others. It was made of both fur and horn plates, laced together until each man seemed wrapped in the scales of some great hairy fish. They spoke to each other in a foreign tongue, something more eastern than that of the Danes. When Cynewulf asked if they had served Olaf, they laughed.
 
-"Never him."
+"Travel from York, but not to fight. Tradesmen."
 
-They offered little else, though they seemed to understand him well enough. At the mention of silver, they exchanged a glance, rose, and shouldered their shields.
+They pointed to their armor.
+
+They offered little else, though they seemed to understand him well enough. At the mention of silver and Hexham, they exchanged a glance, rose, and found their pack pony loaded with furs, tools, and supplies. The taller one shouldered a bow whose construction defied Cynewulf's knowledge, and looked impossible to string.
 
 They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time he had judged men by who might keep one from harm.
 
@@ -150,7 +148,7 @@ The company chuckled.
 
 Galindo walked slowly down the line, taking inventory. Spears. Shields. Axe. Bow. Scars. More scars.
 
-Galindo eyed the old veteran's leg. "Can you march without limping?" 
+Galindo eyed the old veteran's leg. "Can you march without limping?"
 
 "Aye. Can you count without fingers?" The old veteran smiled.
 
@@ -254,7 +252,7 @@ The archer stopped dead in his tracks.
 
 "Best be settling in. Report to the wagon master," Galindo replied.
 
-Grinjaw finally gave the wave to signal the _Ulfhednar_ advance out of town. They weren't staying in Leicester. The spring thaw had opened the river-roads, and there were estates to the north and east that hadn't seen a blade in months. There were _karvis_ to be seized in the fishing villages of the estuaries. These were small, fast boats, often poorly guarded, that could carry them into a summer of raiding along the coast.
+Grinjaw finally gave the wave to signal the _Ulfhednar_ advance out of town. They weren't staying in Leicester. The spring thaw had opened the river-roads, and there were estates to the north and east that hadn't seen a blade in months. There were *karvis* to be seized in the fishing villages of the estuaries. These were small, fast boats, often poorly guarded, that could carry them into a summer of raiding along the coast.
 
 Grinjaw led his company of fifteen through the North Gate. The fyrd caught his eye.
 
@@ -264,7 +262,7 @@ He saw the fyrdmen nervously shifting their weight. He saw the pursing of Galind
 
 He knew that his baggage train was not going to have an escort much longer.
 
-From behind the canvas, Elswyth peered out to see Grinjaw. She caught her breath. He must not see her. 
+From behind the canvas, Elswyth peered out to see Grinjaw. She caught her breath. He must not see her.
 
 She sensed his eyes scanning the wagons. She wondered what he had seen.
 
@@ -280,7 +278,7 @@ Grinjaw smiled.
 
 He stepped before the fyrd, hoping to send the Vikings onward before some loose tongue unearthed those quarrels again.
 
-One of the wolf-men jumped to Cynewulf standing toe-to-toe, with a wide grin. He smiled with yellow teeth, knowing that Cynewulf's leash was the parchment. The wolfman barked and howled, the saliva spraying against Cynewulf's cheek. Cynewulf didn't blink. He didn't move. He just stared through the man, his eyes as flat and grey as the Leicester mud. "Move... along..." he repeated. 
+One of the wolf-men jumped to Cynewulf standing toe-to-toe, with a wide grin. He smiled with yellow teeth, knowing that Cynewulf's leash was the parchment. The wolfman barked and howled, the saliva spraying against Cynewulf's cheek. Cynewulf didn't blink. He didn't move. He just stared through the man, his eyes as flat and grey as the Leicester mud. "Move... along..." he repeated.
 
 The wolf-man’s grin faltered slightly against that hollow stare, his howl dying down into a low snarl. He spat on the ground between them, then turned back to his pack with a mocking bark of laughter. "Sheep! Look at the sheep!" the wolf-man jeered, their laughter echoing off the damp stone walls as they turned away. "Where is your shepherd, sheep? Maybe we own the leash, eh?"
 
@@ -314,7 +312,7 @@ After traveling a distance, the _Ulfhednar_ stopped to rest in a clearing. Grinj
 
 Killwoven was there as well. He studied the faces of the other wolves with a knowing smile. He cracked his knuckles and neck as he waited for Grinjaw to begin.
 
-The others were lean and hungry, mostly young but scarred by the unending training of the wolf cult. Their eyes burned for the treasure-pile that had once been promised or the final embrace of valkyries. Both would have to wait as long as peace reigned. 
+The others were lean and hungry, mostly young but scarred by the unending training of the wolf cult. Their eyes burned for the treasure-pile that had once been promised or the final embrace of valkyries. Both would have to wait as long as peace reigned.
 
 Grinjaw began. "I see the anger in your eyes. I see his words turned to rot in your minds. We have followed Olaf. We have listened to the fat jarls of York. We have seen what their guidance has brought."
 
@@ -344,7 +342,7 @@ Killwoven started a drum chain. Each wolf began to slap his thighs in unison, a 
 
 Grinjaw paused, looking into the eyes of each of his wolf-men, one at a time. Their eyes were wide now, their hands slapping rhythmically against their thighs faster and faster. Some were growling, some barking, and others stood with thick, white saliva dripping from their hungry maws.
 
-Killwoven moved down the line like a butcher personally checking each slab of meat on the hook. He wasn't a man of words, but he was a master of the frenzy. He grabbed the youngest of the _Ulfhednar_ by the shoulders and screamed, inches from the boy's face. The youth screamed back, a raw, visceral sound, and lunged forward.
+Killwoven moved down the line like a butcher personally checking each slab of meat on the hook. He wasn't a man of words, but he was a master of the frenzy. He grabbed the youngest of the *Ulfhednar* by the shoulders and screamed, inches from the boy's face. The youth screamed back, a raw, visceral sound, and lunged forward.
 
 He sank his teeth into Killwoven’s arm.
 
@@ -364,13 +362,12 @@ The men howled. The sound marked the soul leaving only the wolf behind.
 
 ---
 
-Huginn: "No, wait... it was more like...  Valhallaaaaaaa...!!!"
+Huginn: "No, wait... it was more like... Valhallaaaaaaa...!!!"
 
 Muninn: "Wrong. On both counts."
 
 Huginn: "Those _Ulfhednar_ were truly stink-foul, weren't they brother? They smelled of rancid fat and bad intentions."
 
-Muninn: "Bad intentions? Those don't smell. Otherwise you would be most ripe indeed. As for the _Ulfhednar_, they *were* our best providers you know... piles of dead warriors, Huginn. *PILES*. Our brothers would feast for moons."
+Muninn: "Bad intentions? Those don't smell. Otherwise you would be most ripe indeed. As for the _Ulfhednar_, they _were_ our best providers you know... piles of dead warriors, Huginn. _PILES_. Our brothers would feast for moons."
 
 Huginn: "I said stop teasing me!"
-
