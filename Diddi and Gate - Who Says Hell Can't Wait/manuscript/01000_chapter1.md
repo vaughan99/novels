@@ -1382,12 +1382,60 @@ And we both did a reading together. We held hands. We sang. We... gods, look at 
 
 And her reaction in the end was to deny she saw anything.
 
-And I wasn't reading _the reading_, if you know what I mean. I was reading _her_. And what she said and what she thought weren't the same thing. Remember, I always check.
+Mind you, I wasn't reading _the reading_, if you know what I mean. I was reading _her_. And what she said and what she thought weren't the same thing. Remember, I always check.
 
 And that's when I knew.
+
+There's only one name on the list that would scare Greenhalo into silence. Lucky for me, she thought it and didn't say it.
 
 The Prince of Darkness.
 
 The big A.
 
 The "mode-ee-us" of the ass.
+
+Now it's bad form to say his name out loud. We always think he's listening. Gods, you think I'm joking when I refer to him as "mode-ee-us", but I'm following a rule, honeydew. I want to keep my soul inside my shirt. I don't wear a shirt. You know what I mean.
+
+So I walked back to my tent.
+
+And I was even more confused.
+
+What would the big "A" want to try to fool Geryon? I mean, this Seal goes back _five thousand years_, maybe more.
+
+This is where Quill earns his keep. He's pedantic. He nit-picks. He is _annoying_ with a big "A". But, he writes everything down. I had him go back to my reading a month previous. The one with the Great Old One.
+
+He read out loud every word I said.
+
+And what I said was that the vision of the notes had a Great Old One.
+
+But how did Geryon _know_? It's not opened.
+
+Something tipped him off to the contents. Or... something tipped him off to the contents _he wanted to see_.
+
+And then it hit me.
+
+The big "A" wanted him to think something was behind the Seal. Something dangerous. Something _disastrous_. Something to obsess over for millennia.
+
+Ooooh, very, very spicy.
+
+I need two melons. Mmmmm... let's... slurp... take a break.
+
+Mmmmm....
+
+Side note: I don't eat just melons. Mop and I close the shop one day every other week for our pork harvest. That's Quill's holiday. Shoes buys the pig, sends it in, and leaves. By the next day, the tent is spotless. And nobody's there to take notes.
+
+I didn't want you to think I'd turned vegetarian, honeydew. For a troll, that'd be... improper.
+
+Now where was I?
+
+Oh yes. The machinations of devilry.
+
+So now we needed to approach this very carefully. So what did we do? Quill, on his day off, prayed. To his favorite devil. Mammon.
+
+You see, Quill may not look like it, but he's always scheming. Looking to benefit from his... situation. And that's what Mammon does best. "Help me help you..." is his favorite phrase. And you're helping him more than he helps you. But I digress.
+
+Now, why would Mammon even care? Here's where it gets interesting. You see, Mammon has his own secrets. His own vaults. Vaults that Geryon is _dying_ to get into as well. Let's say, they're not friends. More like hated, vicious, pernicious enemies. That's putting it mildly.
+
+Mammon doesn't just answer to anybody though. That's when I got introduced to my first Cornugon, a horned devil to you. He was already morphing... another few hundred years and a few more scores, and he'd be in line for a promotion. His wings were especially grand... they were the body part that most screamed "pit fiend". But he was smarter than your average Cornugon.
+
+You see, Mammon handed out the prayer to his followers. And _Gate_ was the one who answered. He smelled opportunity. _Real opportunity_.
