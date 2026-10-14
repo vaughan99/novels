@@ -1278,7 +1278,13 @@ Now, that may not sound all the helpful. But it was actually brilliant.
 
 These agents were looking for ways to open things. An odd key. Taking out a rogue agent tasked with opening something else.
 
-It was all about _opening_ things. Finally, something I can relate to. A mysterious key. Torag's vault. The seal at the center of the Brothers of the Seal.
+It was all about _opening_ things. Things that were never meant to be opened at the _wrong_ time. Finally, something I could relate to.
+
+A mysterious key to some unknown door.
+
+Torag's Vault.
+
+The seal at the center of the Brothers of the Seal.
 
 That's when it hit me.
 
@@ -1286,8 +1292,102 @@ I wasted no time.
 
 "Mop, basin, NOW!"
 
-Mop must have heard the urgency. Mop flew to the shelves holding the basin. He knew what this meant, and it was _by far_ his favorite part.
+Mop must have heard the urgency. Mop doesn't have wings, but Mop sure did fly to the shelves holding the basin. I blinked and it was lying there before me. Motivated quasits sure are fast.
+
+"Quill, fetch the key!"
+
+This was the first time Mop and Quill didn't fight... well, over anything. Quill fetched the key from the chest, and placed it in Mop's quivering hands. In two leaps, he had it on the table touching my hand.
 
 I looked Rezzen in the eye.
 
-"When I cut, pull into your mind every image of Torag's Vault you can. Think of the agents you fought. And for the sake of Magrim, don't let go."
+"When I cut, pull into your mind every image of Torag's Vault you can. Think of the agents you fought. Think of the key you found. And for the sake of Magrim, don't let go."
+
+That session was intense. Almost too intense for this old troll, honeydew.
+
+Now what do I even remember about that session? The threads went deep. The snake devil of secrets, Geryon, writhing in his lair in Stygia. That's _his_ level of Hell, to you and me. Whispering commands. Agents dropping by every hundred years or so. Mentioning research.
+
+One of the agents mentioned the key. He hadn't obtained it yet, but he knew where it could be found.
+
+What's the name of the land? Numb-eria? Noomteria? I forget. It's a land of walking metal and strange blinking monstronsities.
+
+The thing is, the key isn't really a key. It's a light scrambler. The vault it opens? A simple door to some strange room where creatures from another world or plane did weird experiments on mortals. The contents of the room really weren't important.
+
+Well, I should say... they were important enough not to throw away the key, honeydew. We saved that for another day.
+
+Finally, the thread led back to Geryon's notes. And there it was. A Great Seal. Two sets of monks fighting. And in the drawing? Something behind it. Enormous. Shapeless. Something older than old.
+
+It had hungering eyes. It was patiently staring at the seal. Waiting for it to open.
+
+Few things give this old troll a chill down the spine, honeydew. It took me an hour to recover from that session.
+
+A Great Old One lay behind that Seal. And Geryon wanted to unleash it on the world.
+
+Did I mention that I always wanted to meet a god? If I could have, I would have marched straight into Stygia and told that devil the _what for_. I mean really, what the hell? Sorry, bad pun.
+
+But this all came full circle to something we already knew. We needed Rezzen to infiltrate the Brothers of the Seal. Now we knew why, but not how. The question is... which side?
+
+We'll call them Openers and Closers. They had their own names, but I couldn't even pronounce them much less remember them.
+
+If he infiltrated the Openers, he could figure out how the Seal could be opened. Which would probably lead back to Geryon and more information about his game.
+
+If he infiltrated the Closers, he could help prevent the opening, which obviously was a _good thing_ for everyone on Golarion. But doesn't get us anywhere in the investigation.
+
+So of course... we both chose the Openers. Now Rezzen may seem like a straight-and-narrow monk to you now, but his formative years under Droskar? That man has a back-stabbing streak in him. And boy was he all-too-willing to stick it to the Openers.
+
+It took a week to get our next lead. Rezzen checked in every day... he didn't have a lot of patience for street-level investigation work.
+
+Now these _Brothers of the Seal_ still have bodily needs. They need air. They need water. And they need to eat. So they need someone, either up here or down there, to provide food. Being monks, they can survive on little. But it ain't nothing, honeydew, and what Shoes found out knocked my socks off. Figuratively.
+
+You see, the beggars of Kaer Maga had a deal worked out with the Duskwardens to funnel shipments of food into the little crevices that led to the Underdark. Nothing worth noticing, really. A few loaves of bread. A basket of cabbage. Carried down there once a week and left. What did the beggars get in return? None of my concern. But... one of them made the deliveries, and Shoes figured out who.
+
+Did I mention that I like this kid?
+
+Rezzen's eyes lit up when Shoes told him. There wasn't much we at the shop could do but wait at that point. Rezzen disappeared for what seemed like a month.
+
+You can ask Quill how many cases we had in the meantime. Nothing nearly as interesting as this. It was pretty hard to stay focused. But we managed.
+
+Finally Rezzen walked back through the tent. And he carried with him... a torn page from a book. That was it.
+
+He mentioned that he had infiltrated the Openers _and_ Closers. He got closer to both than I thought possible. And at the heart of their dispute was a book. A page really. And each side had half the page. Each side knew they needed the other half-page to open the seal, or permanently close the seal.
+
+The page was torn, but couldn't be destroyed. More on that in a minute.
+
+The language the page is written in didn't even exist anymore. Nobody could read it. Not even magically.
+
+But that's the trick isn't it? If nobody can read it magically, then magic was guarding it, preventing it from being read. Or maybe from being understood. A secret. That's another clue.
+
+So naturally, I did what I do best. Order Mop to grab the basin.
+
+Now, it would be stupid for me to follow threads that try to get at understanding the text. Because, that's what the writer wanted me to do. Hit a wall. Get frustrated. Give up.
+
+So, I pulled on the threads that he never intended. Who made the ink? Who provided the parchment? Whose hand wrote the words?
+
+Now I pulled on all those threads. And what I found? _Nothing_. But _nothing_ isn't a non-answer. Sometimes _nothing_ is an answer unto itself, honeydew. Because who is brilliant enough to close every loophole, every angle, every approach? That narrowed the list down by a lot.
+
+Who would make a book with a page that is torn but indestructible? Who would _and could_ make the page unreadable without the whole page being put together? Who would invent a language for this construction, one not catalogued anywhere? And... critically... who would benefit from Geryon pursuing this riddle?
+
+I had a suspicion.
+
+To answer that question definitively, I needed a field trip. Two tents down.
+
+Greenhalo doesn't like me. She doesn't like any Augurs really. But even she couldn't resist helping me with this one.
+
+Now Greenhalo's tent is opulent. Silk. Fine furs. Gold and pearls decorate everything. So I of course refuse to sit down. I'm more of a get-to-the-point-troll than a wallow-in-my-lair-bathing-in-honey-troll, if you know what I mean.
+
+I told her my vision. She had her minions (she dresses them in silk and furs too... disgusting show of wealth in my _humble_ opinion) find her special silver platter for her reading.
+
+I had Mop go grab my wooden basin. More practical.
+
+And we both did a reading together. We held hands. We sang. We... gods, look at your face, honeydew. _I was kidding_! This wasn't some fairytale witch-reading! This was serious.
+
+And her reaction in the end was to deny she saw anything.
+
+And I wasn't reading _the reading_, if you know what I mean. I was reading _her_. And what she said and what she thought weren't the same thing. Remember, I always check.
+
+And that's when I knew.
+
+The Prince of Darkness.
+
+The big A.
+
+The "mode-ee-us" of the ass.
