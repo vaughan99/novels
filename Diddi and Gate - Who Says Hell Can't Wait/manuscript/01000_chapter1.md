@@ -6,7 +6,7 @@ How can a troll be this eloquent? This well-spoken? This in-tune with the world 
 
 I have a secret.
 
-And it’s dying to come out.
+And it’s dying to come out. Well, you'd be dying... if you had the same gift but weren't me.
 
 But first, I’ll make a confession.
 
@@ -916,6 +916,8 @@ Quill started. "Ahem. Name and occupation?"
 
 "Rezzen Shadowgit. Pledge of Magrim."
 
+Now, Magrim is the god of the dwarven dead. He obsesses about unresolved blood feuds, mispelled runes on grave markers, and chronicling the length of men's beards when they die. Or something like that.
+
 Quill's eyes grew wide as he scratched it on the page.
 
 "Sit down," I said. "What's troubling you?"
@@ -947,6 +949,10 @@ Well, that was utterly unhelpful.
 "I used to work for Droskar. I was tasked with finding out how to break another seal... the seal to Torag's vault. Droskar wanted to steal ideas from his inventions. Copy them. That's when Magrim found me."
 
 Oooh, spicy.
+
+"Was one of the grave markers mispelled? Did you forget your beard measuring tape?"
+
+He sat there unsmiling. No loosening up this guy.
 
 "Magrim found you? You call yourself a pledge of Magrim now?"
 
@@ -1082,7 +1088,9 @@ That's when Shoes came back. Three melons. That didn't cost a full silver piece.
 
 He looked at me shyly. Yeah, I know what you did. Takes balls kid, real balls.
 
-Shoes placed the basket near my chair, and asked if there was anything else. Of course not. "Come back tomorrow. Make a friend with the beggars of North Street. You're going to be asking them a question or two tomorrow."
+Shoes placed the basket near my chair, and asked if there was anything else. There's always something else.
+
+"I need you to ask the beggars about the Brothers of the Seal. Quietly. Tell them you're trying to settle a bet. Whether they actually exist."
 
 He nodded and left.
 
@@ -1188,7 +1196,7 @@ Oh no. That's real trouble. He was hallucinating. He knows my blood is powerful,
 
 "FIREBALLS!!!! DIRTY BEDSHEET ... FIREBALLS!!!! MUHAHAHAHA!!!"
 
-The next thing I saw was Mop. The leeches had fallen off, and he was eating them like popcorn, watching the tent like the world was going to end. And he loved it.
+The next thing I saw was Mop. The leeches had fallen off, and he was eating them like carnival treats, watching the tent like the world was going to end. And he loved it.
 
 So I reached over. I'm usually pretty gentle for a 7000-year-old troll. I worked too hard and cut myself too many times to be ended by an insane bloatmage. No sir.
 
@@ -1248,6 +1256,38 @@ Dwarf meat tastes like hair too. I gave up eating dwarf way before I found Kaer 
 
 Rezzen didn't have a beard. To date, he's my favorite dwarf. If duergar count as dwarves. Guess that depends on who you ask.
 
----
+Rezzen sat down. He got straight to business. "Geryon."
 
-TODO: Don't lose term 'crack-tossery' said by Mop to Quill.
+Jackpot. "Greenhalo said that?"
+
+"Yes, she envisioned the symbol from the description. The snake emblem belonged to Geryon. An ancient symbol from five-hundred years ago. Only ten were made."
+
+More infernals. You see, Geryon was an Asura Rana who sold out his entire population to become the Devil of Secrets. But not just any secrets. Forbidden, ruinous, destroying secrets. The kind of secrets that ruin people's afternoons... for the rest of their short miserable lives.
+
+"Ten? Sounds like an inner circle. Very elite. This agent personally handled Geryon's business."
+
+Rezzen nodded, but said nothing.
+
+"So what would a personal agent of Geryon want with a key that a group of Droskar agents specifically tracked down five-hundred years later, who also wanted to take you out?"
+
+Now that's a puzzle, honeydew.
+
+Rezzen sat there staring. He finally offered something truly useful. "The key didn't match the needs of Torag's vault. The one I was tasked with finding the secret to opening."
+
+Now, that may not sound all the helpful. But it was actually brilliant.
+
+These agents were looking for ways to open things. An odd key. Taking out a rogue agent tasked with opening something else.
+
+It was all about _opening_ things. Finally, something I can relate to. A mysterious key. Torag's vault. The seal at the center of the Brothers of the Seal.
+
+That's when it hit me.
+
+I wasted no time.
+
+"Mop, basin, NOW!"
+
+Mop must have heard the urgency. Mop flew to the shelves holding the basin. He knew what this meant, and it was _by far_ his favorite part.
+
+I looked Rezzen in the eye.
+
+"When I cut, pull into your mind every image of Torag's Vault you can. Think of the agents you fought. And for the sake of Magrim, don't let go."
