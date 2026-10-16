@@ -12,7 +12,7 @@ Are any of you monks, honeydew? It's hard for these old eyes to tell. Well, if y
 
 But the duergar just stood there, staring at me.
 
-"Greenhalo. Two tents down. Afterlife."
+I repeated. "Greenhalo. Two tents down. Afterlife."
 
 He kept staring.
 
@@ -276,13 +276,11 @@ Blood-Drop ignored him and wallowed over to the jars. His leeches were plugging 
 
 Mop eyed them anxiously. "Fall off. Just one. Pweeeeez!"
 
-Quill shook his head.
-
-"Sir, I asked if you have an appointment."
+Quill shook his head. "Sir, I asked if you have an appointment."
 
 Blood-Drop finally acknowledged Quill. But not in the way he liked.
 
-"Your inquisition will decease, infernal minion. You know who I am. I must not delay. The power is calling."
+"Your inquisition will cease, infernal minion. You know who I am. I must not delay. The power is calling."
 
 His attention turned back to the jars.
 

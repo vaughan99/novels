@@ -104,7 +104,7 @@ Rezzen's eyes lit up when Shoes told him. There wasn't much we at the shop could
 
 You can ask Quill how many cases we had in the meantime. Nothing nearly as interesting as this. It was pretty hard to stay focused. But we managed.
 
-Finally Rezzen walked back through the tent. And he carried with him... a torn page from a book. That was it.
+Finally Rezzen walked back through the tent. And he carried with him... a fragment of a tablet. That was it.
 
 He mentioned that he had infiltrated the Openers _and_ Closers. He got closer to both than I thought possible. And at the heart of their dispute was a tablet. And each side had half the tablet. Each side knew they needed the other half to open the seal, or permanently close the seal.
 
@@ -118,7 +118,7 @@ So naturally, I did what I do best. Order Mop to grab the basin.
 
 Now, it would be stupid for me to follow threads that try to get at understanding the text. Because, that's what the writer wanted me to do. Hit a wall. Get frustrated. Give up.
 
-So, I pulled on the threads that he never intended. Who made the chisel Who provided the stone? Where did the stone come from?
+So, I pulled on the threads that he never intended. Who made the chisel? Who provided the stone? Where did the stone come from?
 
 Now I pulled on all those threads. And what I found? _Nothing_. But _nothing_ isn't a non-answer. Sometimes _nothing_ is an answer unto itself, honeydew. Because who is brilliant enough to close every loophole, every angle, every approach? That narrowed the list down by a lot.
 

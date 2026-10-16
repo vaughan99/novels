@@ -42,7 +42,7 @@ Rezzen wasn't sure he could defeat the Closers, even with the Openers help. The 
 
 Now, you're probably asking why Geryon didn't just take the tablet by force. You see, if he did, he wouldn't be the Devil of Secrets. He'd just be the Devil of Kicking-Down-A-Door-And-Taking-Tablets. He had an ego the size of the Stygian Hell, and he wanted to prove he could manipulate the situation to his favor like a master of secrets should.
 
-So Gate gave Rezzen a pair of bracers. Not just any bracers.
+Back to Rezzen. Rezzen needed help, but it needed to be not-so-obvious infernal help. Gate gave Rezzen a pair of bracers. Not just any bracers.
 
 You see, he couldn't just send Wings with him. She'd stick out like a griffon at a zebra party. And give away the fact that he was receiving infernal help. Which would have tipped Geryon off, potentially.
 
