@@ -98,17 +98,19 @@ But the big "A" merely turned, his giant black cloak swinging the air. Voop. He 
 
 I looked over at Deadline. I'd never seen his hands move so fast. He was writing, drawing, measuring. I'd never seen him so happy. He ignored the gods, devils, angels, everything. He walked right up to Geryon and started noting every detail.
 
-One by one, each of the devils, angels, gods, warriors and constructs all vooped away. Leaving Gate standing, hands on hips, staring at Geryon's corpse. His corpse was turning to stone at that point.
+Deadline took a break from _Sufferer's Digest_ and went solo. He got a major award for his five-part book series: "The Death of Geryon, A Profile In Epic Embarrassment". Once we get a copy, I'll let you read it. It's on back-order for the next few years I heard.
+
+So, one by one, each of the devils, angels, gods, warriors and constructs all vooped away. Leaving Gate standing, hands on hips, staring at Geryon's corpse. His corpse was turning to stone at that point.
 
 Also, the whirlpool collapsed on itself. I have to believe that water rushed into the room behind the Seal. Whatever was behind the Seal is now under a mile of water. Good luck to anyone who wants to do an archaelogical dig.
 
 Wings vooped in, turned to Gate and smiled. Apparently she had been sent back to Mammon's palace to see what the initial reactions were. All positive.
 
-Gate turned and approached me. "Well, you mentioned your tent had thin walls. How would you like to relocate? Your divination skills are quite... _profitable_."
+Gate turned and approached me. "Well, you mentioned your tent had thin walls. How would you like to relocate? Your divination skills are quite... _profitable_. And I can't envision a more secure place. I'm moving here myself, and I could use a partner, and a tenant."
 
 I told him I'd think about it.
 
-I wasn't sure I wanted a business partner. Or a landlord. But having both really put my mind at ease. I mean, having Mammon and one of his upwardly mobile cohorts personally invested in your continued survival does have its advantages. And now I really don't have to worry about thieves.
+I wasn't sure I wanted a business partner. Or a landlord. But having both really put my mind at ease. I mean, having Mammon and a few of his upwardly mobile cohorts personally invested in your continued survival does have its advantages. And now I really don't have to worry about thieves.
 
 So they finally got a yes out of me.
 
@@ -132,13 +134,13 @@ Gate smiled. He told Quill that if Quill had thought of it, he could have invoke
 
 "I hate you."
 
-Now Quill, don't take it personally. We all miss out on great opportunities. You know how disappointed I was to have all those gods literally a few steps away, and have them all voop away before I could introduce myself. I _still_ haven't met a god. Very disappointing.
+Now Quill, don't take it personally. We all miss out on great opportunities. You know how disappointed I was to have all those gods literally a few steps away, and have them all voop away before I could introduce myself? I _still_ haven't met a god. Very disappointing.
 
-Well, that's what happens when you have no stature. You see, the other Augurs ate high-status nobles. Torntusk? He ate the famous war general. Greenhalo? She ate the high priestess. Me? I ate the chambermaid. I guess that's why Blood-Drop started having visions about dirty bedsheets when he mainlined my blood.
+Well, that's what happens when you have no status.
+
+That reminds me. The other Augurs ate high-status nobles. Torntusk? He ate the famous war general. Greenhalo? She ate the high priestess. Me? I ate the chambermaid. I guess that's why Blood-Drop started having visions about dirty bedsheets when he mainlined my blood.
 
 But I have no regrets. Chambermaids know all the little secrets. And those secrets are the ones that solve big mysteries.
-
-Deadline took a break from _Sufferer's Digest_ and went solo. He got a major award for his five-part book series: "The Death of Geryon, A Profile In Epic Embarrassment". Once we get a copy, I'll let you read it.
 
 So now, give your name to Quill, and your occupation. Then tell me what you brought.
 

@@ -40,7 +40,7 @@ async function build() {
     renderManuscriptHtml(buildDir, manuscriptMarkdownFile);
     renderManuscriptEpub(buildDir, manuscriptMarkdownFile);
     renderManuscriptDocX(buildDir, manuscriptMarkdownFile);
-    // renderManuscriptPdf(buildDir, manuscriptMarkdownFile);
+    renderManuscriptPdf(buildDir, manuscriptMarkdownFile);
     renderAfterwordHtml(buildDir, afterwordMarkdownFile)
 
     console.log("Done.");
