@@ -10,4 +10,4 @@ resource-path:
 
 pdf-engine: lualatex
 
-verbosity: INFO
+verbosity: ERROR
