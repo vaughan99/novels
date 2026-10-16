@@ -74,20 +74,36 @@ When Deadline walked in this time, it was clear he had been listening too much.
 
 That's a _real_ problem. We really did need a venue change what with the tent being so easy to listen through, now that I think about it.
 
-I told him that he was about to make me cross. And he knew what that meant. He once did a full spread on how I cut myself over and over, and how I had lost feeling in my stomach. He wasn't interested in the wounds, but in the psychological trauma of losing the feeling in my stomach. That made me cross then. He might still have the scar I gave him. Not sure.
+I told him that he was about to make me cross. And he knew what that meant.
 
-I said, "I need you to hold this story. Trust me."
+He once did a full spread on how I cut myself over and over, and how I had lost feeling in my stomach. That truly disappointed him. 
+
+Then he wasn't interested in the wounds, but in the psychological trauma of losing the feeling in my stomach. That made me cross then. He might still have the scar I gave him. Not sure.
+
+So, back to the story. I said, "I need you to hold this story. Trust me."
 
 "If we're all doomed to die, what's the point of delaying the story?"
 
 "Because I don't think we're doomed."
 
-He seemed somewhat disappointed. I think he wanted to be doomed. Not to die, but to experience _the feeling_ of certain death coming. That's something to write about.
+He seemed somewhat disappointed. I think he should write a piece about _his own disappointment_. He might learn a thing or two.
+
+I think he wanted to be doomed. Not to die, but to experience _the feeling_ of certain death coming. That's also something to write about.
 
 He said, "I'll stay near but I've got a deadline for publication. I'm going with the story in two days unless I hear something new from you."
 
 Fair enough.
 
-Luckily, Deadline got distracted by a curious case that he might want me to look into. Basically, she can give people nasty lightning burns. And she teleports from one place to aother.
+Luckily, Deadline got distracted by a curious case that he still might want me to look into. He mentioned something about a girl who found wondering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
 
+She has no memory of who she is. She landed in the local orphanage... I can give you the address.
 
+What got her on Deadline's beat was that she led a group of kids from the orphanage out late one night to explore one of the graveyards. When they got scared, she started... glowing. And what was shocking was that she also... was _shocking_. People that is. Well, and the horde of zombies from Ankar-Te that strolled by.
+
+Then she started _vooping_. Well, not _vooping_, more like _zhipping_. She becomes a lightning bolt when other people get scared. Not all the time, mind you, just when things get truly frightening.
+
+Deadline is planning an exclusive three-segment series on her. The loneliness of being a kid that scares others. The interviews with her _victims_ when she passed through them as a lightning bolt. And the pain of not knowing who she really is.
+
+That last one is going to be hard for him to get his readers to experience. Unless he's good at memory magic.
+
+So, finally, Rezzen walked back through my tent. And all he said was, "Tomorrow."

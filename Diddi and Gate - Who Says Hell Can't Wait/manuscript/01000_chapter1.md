@@ -34,15 +34,11 @@ Quill stared at him, not bothering even to let his eyes see _through_ the lenses
 
 The client swallowed. “Ummm, no.”
 
-Quill dragged one claw down the page.
-
-“Correct. You don't.”
+Quill dragged one claw down the page. “Correct. You don't.”
 
 The man looked at me.
 
-I smiled.
-
-“You’ll get used to him.”
+I smiled. “You’ll get used to him.”
 
 “I will not,” Quill said.
 
@@ -50,9 +46,7 @@ I smiled.
 
 The client shifted in the chair.
 
-Up again.
-
-There it was. That little glance.
+Up again. There it was. That little glance.
 
 So now, take a moment. Look up. Get a good look. Let's get that out of the way.
 
@@ -160,25 +154,19 @@ He popped it into his mouth. He chewed. The smile never left his face.
 
 The client stared.
 
-I sighed.
-
-“Mop.”
+I sighed. “Mop.”
 
 “What Miss Diddi?”
 
 “Stop eating in front of customers.”
 
-Mop swallowed.
-
-“That wasn’t eating.”
+Mop swallowed. “That wasn’t eating.”
 
 “What was it?”
 
 “Cleaning.”
 
-Quill made a note in the ledger.
-
-“That’s coming out of your pay.”
+Quill made a note in the ledger. “That’s coming out of your pay.”
 
 Mop spat a bit of gristle toward him. “We don’t get paid rune-slinger! Now shut your ink-hole.”
 
