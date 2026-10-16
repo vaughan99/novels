@@ -16,6 +16,10 @@ But there was more.
 
 You see, Abadar, the God of Cities and Walls and Vaults and anything that makes a city get along nicely (well except maybe the taxation part), he has a vested interest in this city too. And Magrim contacted him. And he decided he wanted to show up. You know, to make sure innocent civilians don't die.
 
+After he heard all this, Gate waved his hand, and Rezzen's bracers dissolved, and Wings re-appeared. She dusted herself off, gave Rezzen a nasty stare, and joined Gate by his side. She swore she'd _never_ be enchanted into another object ever again. But I could see the smile in the corner of her mouth. Secretly, I think she enjoyed learning a whole new fighting style.
+
+Rezzen was stoic. I think he just wanted his part in this to end, so he could go back to Magrim's cloister. Did you know he founded the Guardians of the Last Citadel monastery. Right here in Kaer Maga. He's a minor celebrity now.
+
 So, the next morning, here's how it went down.
 
 The city was still clueless. People were waking up like it was a normal day. Markets were starting to open.
@@ -26,7 +30,7 @@ Frightened citizens were there. They stood motionless, in total fear. Others loo
 
 Then Geryon started giving a speech. The lake started to drain away just by the shoreline. A hole in the lake was opening, driven by some pretty weird magic.
 
-Now, I didn't want to miss this. I stood over by the Temple of Calistria with Mop, Quill, and Shoes. I figured if things went sideways, the Calistrians are pretty handy in a street-fight. 
+Now, I didn't want to miss this. I stood over by the Temple of Calistria with Mop, Quill, Rezzen, Deadline and Shoes. I figured if things went sideways, the Calistrians are pretty handy in a street-fight. Rezzen I knew could handle himself.
 
 Anyway, Geryon goes on and on about how Golarion is doomed. Big smile on his snake-face. Until...
 
@@ -79,22 +83,26 @@ The big "A" narrowed his eyes at Gate, and lifted his hand. His bodyguards readi
 Gate pulled forth a copy of the parchment. Several copies actually, and started handing them out. As he did so, he started quoting,
 
 “I, the devil commonly known as Gate, my true name being withheld pursuant to infernal custom and protections against unauthorized invocation, hereby lay claim to the presently unclaimed asset consisting of the mortal remains, appurtenances, attached portals, fixtures, contents, and derivative interests of Geryon, formerly of Stygia.
-“Said asset presently rests upon the Prime Material Plane, in the city of Kaer Maga, district of Hospice, outside the territorial possession of Stygia, and is, at the moment of filing, unencumbered by any prior perfected claim.
+“Said asset presently rests upon the Prime Material Plane, in the city of Kaer Maga, Hospice District, outside the territorial possession of Stygia, and is, at the moment of filing, unencumbered by any prior perfected claim.
 “Therefore, pursuant to the Doctrine of First Possession, commonly rendered ‘Finders Keepers,’ under First Premises, Article One, Title Two, Subsection Three, I hereby perfect possession on behalf of Mammon.”
 
-He looked big "A" right in the eye. “I intend to make it real estate.”
+He looked the big "A" right in the eye. “I intend to make it real estate.”
 
-The big "A" stood there, lien in hand, his left eye quivering.
+The big "A" stood there, lien in hand, his left eye twitching.
 
 There arose a round of applause. From the dwarves. The angels. The townsfolk. Even a few of the big "A"'s own people.
 
-But the big "A" merely turned, his giant black cloak swinging the air. Voop. He left.
+But the big "A" merely turned, his giant black cloak swinging the air. Voop. He left. The manuscript fell from his hands, and landed harmlessly on the ground.
 
-One by one, each of the other devils, angels, gods, warriors and constructs all vooped away. Leaving Gate standing, hands on hips, staring at Geryon's corpse. His corpse was turning to stone at that point.
+I looked over at Deadline. I'd never seen his hands move so fast. He was writing, drawing, measuring. I'd never seen him so happy. He ignored the gods, devils, angels, everything. He walked right up to Geryon and started noting every detail.
+
+One by one, each of the devils, angels, gods, warriors and constructs all vooped away. Leaving Gate standing, hands on hips, staring at Geryon's corpse. His corpse was turning to stone at that point.
 
 Also, the whirlpool collapsed on itself. I have to believe that water rushed into the room behind the Seal. Whatever was behind the Seal is now under a mile of water. Good luck to anyone who wants to do an archaelogical dig.
 
-Gate turned and approached me. "Well, you mentioned your tent had thin walls. How would you like to relocate? Your divination skills could make us both very _profitable_."
+Wings vooped in, turned to Gate and smiled. Apparently she had hung back at Mammon's palace to see what the initial reactions were. All positive.
+
+Gate turned and approached me. "Well, you mentioned your tent had thin walls. How would you like to relocate? Your divination skills are quite... _profitable_."
 
 I told him I'd think about it.
 
@@ -125,6 +133,8 @@ Now Quill, don't take it personally. We all miss out on great opportunities. You
 Well, that's what happens when you have no stature. You see, the other Augurs ate high-status nobles. Torntusk? He ate the famous war general. Greenhalo? She ate the high priestess. Me? I ate the chambermaid. I guess that's why Blood-Drop started having visions about dirty bedsheets when he mainlined my blood.
 
 But I have no regrets. Chambermaids know all the little secrets. And those secrets are the ones that solve big mysteries.
+
+Deadline took a break from _Sufferer's Digest_ and went solo. He got a major award for his five-part book series: "The Death of Geryon, A Profile In Epic Embarrassment". Once we get a copy, I'll let you read it.
 
 So now, give your name to Quill, and your occupation. Then tell me what you brought.
 
