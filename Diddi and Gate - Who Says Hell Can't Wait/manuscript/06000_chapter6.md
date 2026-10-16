@@ -18,7 +18,9 @@ You see, Abadar, the God of Cities and Walls and Vaults and anything that makes 
 
 After he heard all this, Gate waved his hand, and Rezzen's bracers dissolved, and Wings re-appeared. She dusted herself off, gave Rezzen a nasty stare, and joined Gate by his side. She swore she'd _never_ be enchanted into another object ever again. But I could see the smile in the corner of her mouth. Secretly, I think she enjoyed learning a whole new fighting style.
 
-Rezzen was stoic. I think he just wanted his part in this to end, so he could go back to Magrim's cloister. Did you know he founded the Guardians of the Last Citadel monastery. Right here in Kaer Maga. He's a minor celebrity now.
+Rezzen was stoic. I think he just wanted his part in this to end, so he could go back to Magrim's cloister. Did you know he founded the Guardians of the Last Citadel monastery? Right here in Kaer Maga. He's a minor celebrity now.
+
+Wings didn't stick around. After Gate whispered to her, she vooped out. He must have given her an assignment.
 
 So, the next morning, here's how it went down.
 
@@ -100,13 +102,13 @@ One by one, each of the devils, angels, gods, warriors and constructs all vooped
 
 Also, the whirlpool collapsed on itself. I have to believe that water rushed into the room behind the Seal. Whatever was behind the Seal is now under a mile of water. Good luck to anyone who wants to do an archaelogical dig.
 
-Wings vooped in, turned to Gate and smiled. Apparently she had hung back at Mammon's palace to see what the initial reactions were. All positive.
+Wings vooped in, turned to Gate and smiled. Apparently she had been sent back to Mammon's palace to see what the initial reactions were. All positive.
 
 Gate turned and approached me. "Well, you mentioned your tent had thin walls. How would you like to relocate? Your divination skills are quite... _profitable_."
 
 I told him I'd think about it.
 
-I wasn't sure I wanted a business partner. Or a landlord. But having both really put my mind at ease. I mean, having an archdevil personally invested in your continued survival does have its advantages. And now I really don't have to worry about thieves.
+I wasn't sure I wanted a business partner. Or a landlord. But having both really put my mind at ease. I mean, having Mammon and one of his upwardly mobile cohorts personally invested in your continued survival does have its advantages. And now I really don't have to worry about thieves.
 
 So they finally got a yes out of me.
 
@@ -114,9 +116,11 @@ And we struck a deal. I'd move my business here, in the remains of Geryon's ston
 
 But it means he has to keep the common iron too. And anything else I get as payments. It's funny to think there's a coop full of chickens being guarded as closely as a stack of platinum bars. But hey, this is Kaer Maga. Stranger things happen here.
 
-Didn't take long for Gate to open doorways into Geryon's body. He's found a world of goodies hidden in there. Can't go into it all, but let's say there's doorways to things you can only dream of.
+Didn't take long for Gate to open doorways into Geryon's body. He's found a world of goodies hidden in there. Can't go into it all, but let's say there's doorways to things you can only dream of. Now his transition to pit-fiend is probably a matter of months.
 
-Oh, and don't try to go down. It's guarded by the largest mimic you ever saw. Let's call him "Guard Dog". Only he's a chest. He was a wand. Didn't I tell you that story? I think I did. He's a good "Guard Dog". Yes he is.
+Once you get stronger, Gate might even have some work for you. Not every secret Geryon owned wants to... co-operate... with asset ownership transition. You get the picture.
+
+Oh, and don't try to go down. It's guarded by the largest mimic you ever saw. Let's call him "Guard Dog". Only he's a chest. He was a wand. Didn't I tell you that story? I think I did. Anyway, the two hedge wizards didn't want it, and it needed a home. Quill filed it under "escrow" and, well, now it's a member of the family. He's a good "Guard Dog". Yes he is.
 
 Once I finally moved in, Gate had a present for Quill. Now, you must know, Mammon and his devils _never_ give presents. Unless they have a purpose.
 
