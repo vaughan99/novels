@@ -1,0 +1,11 @@
+
+from: markdown
+to: epub
+standalone: true
+toc: true
+toc-depth: 2
+metadata-file: pandoc/metadata.yaml
+resource-path:
+  - .
+embed-resources: true
+verbosity: INFO

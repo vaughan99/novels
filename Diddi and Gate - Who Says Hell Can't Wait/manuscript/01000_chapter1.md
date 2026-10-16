@@ -72,13 +72,9 @@ Quill scratched on the page and mumbled at the same time. "One handkerchief."
 
 From somewhere underneath the table came the soft scrape of something being dragged across stone.
 
-I held out my hand.
+I held out my hand. “That’s it?”
 
-“That’s it?”
-
-The man placed the handkerchief in my palm.
-
-“It’s hers.”
+The man placed the handkerchief in my palm. “It’s hers.”
 
 “Whose?”
 
@@ -102,11 +98,9 @@ More scratching.
 
 Fear has a scent if you spend enough time around it.
 
-People deny this.
+People deny this. People deny many obvious things.
 
-People deny many obvious things.
-
-“How long has she had it?”
+I asked, “How long has she had it?”
 
 “Years.”
 
@@ -118,7 +112,7 @@ People deny many obvious things.
 
 He narrowed his eyes. "You'd know that because you've been... married?"
 
-I laughed. "No, honeydew. I know that because every vision of every man I've ever laid eyes on looked right past that bit of linen to their wife's..."
+I laughed. "No, honeydew. I know that because every man I've ever known look right past that bit of linen to their wife's..."
 
 Quill's pen broke. That sometimes happens when he is writing too fast. He reached under the desk. I think he generally keeps over a hundred perfect goose feather pens under there.
 
@@ -144,13 +138,11 @@ A wet little voice answered from somewhere near the floor.
 
 “I’m cleaning.”
 
-“You have been cleaning the same square of floor for one finger-wide of sand.”
+“You have been cleaning the same square of floor for... one finger-wide of sand.”
 
 “Stubborn stain. Don't want client shoes to get stained, do we?”
 
-The client drew his feet together.
-
-Slowly.
+The client drew his feet together. Slowly.
 
 Very slowly.
 
@@ -188,17 +180,11 @@ Quill made a note in the ledger.
 
 “That’s coming out of your pay.”
 
-Mop spat a bit of gristle toward him.
+Mop spat a bit of gristle toward him. “We don’t get paid rune-slinger! Now shut your ink-hole.”
 
-“We don’t get paid rune-slinger! Now shut your ink-hole.”
+Quill flicked the offending piece off his ledger without looking at it. “Someday.” He tapped the page. “Then I’ll have it here.”
 
-Quill flicked the offending piece off his ledger without looking at it.
-
-“Someday.” He tapped the page. “Then I’ll have it here.”
-
-Mop narrowed his eyes.
-
-“I’ll chew you next.”
+Mop narrowed his eyes. “I’ll chew you next.”
 
 Voop.
 
@@ -214,27 +200,9 @@ Then at me.
 
 I sighed. “Grow up, you two.”
 
-Quill’s voice came from nowhere.
+Mop’s invisible voice drifted from the other side of the room.  “Feral.”
 
-“I did nothing.”
-
-“You disappeared.”
-
-“You threatened me.”
-
-“Scared of a quasit?”
-
-“I am an accountant.”
-
-“Who's scared of a quasit.”
-
-“I'm not scared, I'm prepared for battle. Now where are you?”
-
-Mop’s invisible voice drifted from the other side of the room.
-
-“Feral.”
-
-“There is no such thing as a feral imp.”
+Quill retorted, “There is no such thing as a feral imp.”
 
 “Feral imp.”
 
@@ -252,31 +220,25 @@ That got half a laugh out of him.
 
 Better.
 
-People tell you more when they’ve laughed.
-
-People tell you much more when they think the joke wasn’t at their expense.
+People tell you more when they’ve laughed. People tell you much more when they think the joke wasn’t at their expense.
 
 It usually is.
 
-I set the handkerchief on the table.
+I set the handkerchief on the table. That's when I noticed Mop had forgotten one of his jobs. He's always forgetting things.
 
-That's when I noticed Mop had forgotten one of his jobs. He's always forgetting things.
-
-"Mop, the basin?"
+"Mop, the basin?" I said.
 
 "'Mop' this, 'Mop' that..."
 
 The standard wooden basin floated through the air and landed on the table. "You're lucky I'm not on strike."
 
-I smiled at the customer.
-
-"Now price. You're a shop clerk?"
+I smiled at the customer. "Now price. You're a shop clerk?"
 
 "Peddler. I have a cart, and..."
 
 I cut him off. I hate it when clients try to tell you how hard their life is, and why they can't afford my tells. The way I see it, they can't afford _NOT_ to hear my tells. But I'm reasonable on price. It all depends on... what it depends on.
 
-"What kind of peddling?"
+"What kind of peddling?" I said.
 
 "What?"
 
@@ -292,7 +254,7 @@ Mop cut in. "Junk! I love junk! Sharp junk... pointy junk... bloody junk..."
 
 Not helpful.
 
-"Alright, two silver. On the table."
+I came up with a price on the spot. "Two silver. On the table."
 
 "You said the first taste was free."
 
@@ -302,7 +264,7 @@ He put two silver on the table.
 
 Quill scratched a note in his ledger. You can always tell Quill's excitement when payment is offered by the pressure of the quill on the page. He sounded especially 'scratchy' today.
 
-“Yes.”
+“Yes," replied the customer.
 
 “You want to know if she’s unfaithful.”
 
@@ -312,9 +274,7 @@ I leaned toward him.
 
 “Honeydew, if you came all this way carrying her handkerchief and looking like someone buried your dog, it’s either adultery or murder. And if it were murder, you’d have brought something with blood on it.”
 
-From somewhere near the wall, Mop whispered:
-
-“Not always.”
+From somewhere near the wall, Mop whispered, “Not always.”
 
 “Mop.”
 
@@ -322,31 +282,11 @@ From somewhere near the wall, Mop whispered:
 
 Voop.
 
-He was gone again.
+He was gone again. Or perhaps he had never come back. It becomes difficult to keep track.
 
-Or perhaps he had never come back.
+The client rubbed his palms against his knees. “I want to know... No... I _need_ to know.”
 
-It becomes difficult to keep track.
-
-The client rubbed his palms against his knees.
-
-“I want to know.”
-
-“No.”
-
-He frowned.
-
-“No?”
-
-“You need to know.”
-
-“That’s what I said.”
-
-“No. It isn’t.”
-
-I picked up the knife.
-
-He watched the blade.
+I picked up the knife. He watched the blade.
 
 Good.
 
@@ -354,21 +294,9 @@ Everyone watches the blade.
 
 It gives them something to focus on besides the fact that I’m about to do something they’ll pretend later wasn’t nearly as bad as it was.
 
-"Want is... _aspirational_, need is... what we have now.”
-
 He swallowed.
 
-“What’s the difference?”
-
-“Tolerance. You can't tolerate the status quo.”
-
-I looked down at the blade.
-
-"And that's why you're here."
-
-I placed the tip of the knife against my belly.
-
-The client leaned back. That's usually for the best, because the next part stains.
+I placed the tip of the knife against my belly. The client leaned back. That's usually for the best, because the next part stains.
 
 Quill reappeared on his stool.
 
@@ -388,7 +316,7 @@ The client stopped breathing.
 
 I drew the knife sideways.
 
-Warmth spilled over my fingers.
+Gore spilled over my fingers.
 
 Clients expect me to scream. But have you noticed how much scar tissue I have there, on my belly? I think I've lost feeling from my armpit to my beltline.
 
@@ -396,33 +324,19 @@ Anyway, the client made enough noise for both of us.
 
 “Oh... GODS!”
 
-Then he thought. "Oh... GODS!" That's good... When what they think and what they say are the same thing, that usually means they're not guilty or conspiring... usually.
+Then he thought. "Oh... GODS!" That's good... When what they think and what they say are the same thing, that usually means they're not guilty, conspiring, or just generally untrustworthy.
 
 I opened myself wider.
 
-I can read the future, the past, the present, wherever the focus takes me.
-
-The intestines help me follow it.
+I can read the future, the past, the present, wherever the focus takes me. The intestines help me follow it.
 
 _Not_ my poop. _That_ would be disgusting. What I have is more... elegant. Like bloody art. A fine painting. Made of gore.
 
 Smells like... you guessed it... honeydew.
 
-My intestines.
+My intestines. Always mine. That part matters.
 
-Always mine.
-
-That part matters.
-
-There are diviners who use cards.
-
-Bones.
-
-Stars.
-
-Smoke.
-
-Tea leaves.
+There are diviners who use cards. Bones. Stars. Smoke. Tea leaves.
 
 Cowards.
 
@@ -430,7 +344,7 @@ I reached inside.
 
 The client looked away.
 
-“No.”
+“No.” I smiled.
 
 He looked back.
 
@@ -438,7 +352,7 @@ He looked back.
 
 “This is your reading. You participate.”
 
-His face had gone gray. I grabbed his hands. I had to, suddenly, otherwise they all pull away. Well, the repeat customers rarely present their hands to me to begin with.
+His face had gone gray. I grabbed his hands. I have to, suddenly, otherwise they all pull away. Well, the repeat customers rarely present their hands to me to begin with.
 
 “You’re watching. And now... you're feeling... HERE. Feel that?”
 
@@ -450,9 +364,7 @@ I moved a loop of intestine aside.
 
 Mop leaned closer.
 
-I slapped his hand without looking.
-
-“Mine.”
+I slapped his hand without looking. “Mine, Mop.”
 
 “I know.”
 
@@ -463,28 +375,6 @@ I slapped his hand without looking.
 “Appreciate from farther away.”
 
 He shuffled back. I could hear the frown on his face.
-
-Quill opened a smaller ledger.
-
-“Consumables.”
-
-Mop glared.
-
-“Don’t you dare.”
-
-Quill dipped his quill.
-
-“One intestinal segment, partially detached.”
-
-“It was loose.”
-
-“Not yet.”
-
-“It looked loose.”
-
-“It was inside her.”
-
-“Until it wasn't!”
 
 I closed my eyes.
 
@@ -510,7 +400,7 @@ Drawing a knife.
 
 The husband leaned forward. He wiped his chin, forgetting he had my blood on his hands. That's good... spittle on the chin can be so trance-breaking. My blood on his chin felt more... artistic.
 
-“Well?”
+“Well?” he said.
 
 I looked down again.
 
@@ -538,7 +428,7 @@ I reached deeper.
 
 Mop inhaled and broke my concentration.
 
-“Don’t.”
+“Don’t," I said.
 
 “I didn’t do anything.”
 
@@ -574,9 +464,7 @@ Three people.
 
 No, four.
 
-The husband spoke.
-
-“Diddi?”
+The husband spoke. “Diddi?”
 
 I ignored him.
 
@@ -608,19 +496,7 @@ The client looked between them.
 
 “Nothing,” I said.
 
-Mop opened his mouth.
-
-I pointed at him.
-
-“Nothing.”
-
-He closed it.
-
-Slowly.
-
-The husband leaned closer.
-
-“My wife?”
+The husband leaned closer. “My wife?”
 
 I began putting myself back together. This part has to be done quickly... you know, because my skin is already pulling back together at the edges. I once made the mistake of leaving the organs out... well, we don't need to get into that.
 
@@ -646,17 +522,11 @@ He blinked. “No?”
 
 “What kind?”
 
-I tied off something that probably did not need tying.
-
-Habit.
-
 “First question was free.”
-
-His mouth fell open.
 
 Quill smiled. He enjoys this part.
 
-“I can pay more.”
+His mouth fell open. “I can pay more.”
 
 “Of course you can.”
 
@@ -668,21 +538,13 @@ I slapped his hand again.
 
 Mop fetched a jar instead.
 
-Very carefully, he began separating the blood.
-
-Mine went into the clean jar.
-
-Everything else went into the dark bucket.
+Very carefully, he began separating the blood. Mine went into the clean jar. Everything else went into the dark bucket.
 
 He hummed while he worked.
 
-The client watched him.
+The client watched him. “What’s the other bucket?”
 
-“What’s the other bucket?”
-
-Mop looked up.
-
-“Other liquids. Vomit. Bile. Melon rinds. _The bloooood of my victims!_”
+Mop looked up. “Other liquids. Vomit. Bile. Melon rinds. _The bloooood of my victims!_”
 
 The client stared.
 
@@ -690,17 +552,13 @@ I smiled. “Mop, tell the nice man we don’t have any victim blood.”
 
 Mop looked at the client with a nasty smile. “Yesterday, there was this orc...”
 
-Quill closed his eyes.
-
-“Mop.”
+Quill closed his eyes. “Mop.”
 
 “What?”
 
 “Cause mayhem on your own time.”
 
-Mop grinned.
-
-“Fat imp on your stool. You have no life. You envy mine.”
+Mop grinned. “Fat imp on your stool. You have no life. You envy mine.”
 
 “I am quite content doing clerical work.”
 
@@ -710,41 +568,27 @@ Mop tilted his head. Then he looked at the client.
 
 He wasn't done pouring the blood into the jar yet. Going on strike in that moment would have been... messy.
 
-Quill hesitated.
+Quill hesitated. “Fine. Your life is _interesting_.”
 
-“Fine. Your life is _interesting_.”
+Mop was almost done pouring. “Bloooooody blood. Drippity drip. Oooh, another flesh-nugget.”
 
-“Bloooooody blood. Drippity drip. Oooh, another flesh-nugget.”
-
-Mop popped another bit of pink into his mouth and chewed it slowly as he laid the basin down and capped the jar. He placed the jar on the shelf.
+Mop popped another bit of pink into his mouth and chewed it slowly as he laid the basin down and capped the jar. He placed the jar on the shelf. He took the basin away for its own _private_ cleaning.
 
 Quill murmured as he scratched in his inventory ledger, “One jar of Diddi's troll blood. Check. At least the landlord appreciates me.”
 
-From somewhere far deeper in the shop, a voice rolled through the stone.
+From somewhere far deeper in the shop, a voice rolled through the stone. “I appreciate silence.”
 
-“I appreciate silence.”
-
-Mop smiled.
-
-“Jealous.”
+Mop smiled. “Jealous.”
 
 Quill threw his quill at him.
 
-Voop.
-
-Voop.
+Voop. Voop.
 
 The quill struck the wall.
 
-The client looked up again.
+The client looked up again. Longer this time. Then back at me.
 
-Longer this time.
-
-Then back at me.
-
-I smiled.
-
-“Now.”
+I smiled. “Now.”
 
 I folded my hands on the table, raising them long enough for invisible Mop to run a wet rag under them to get every last little drop of blood. My wound was gone. He stared at that too for moment.
 

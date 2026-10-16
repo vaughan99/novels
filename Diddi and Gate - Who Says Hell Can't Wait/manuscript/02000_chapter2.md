@@ -79,9 +79,15 @@ Mop stared down at him. I think he might have been eating a cat. Fur fell to the
 
 Mop just stared at the boy. The boy stared at him.
 
-I broke the tension.
+Mop dropped to the ground and threw the remains of his lunch in the black bucket. He then fetched a tablet where he had scratched things.
 
-"One silver a day running my errands. Deal?"
+"While you're out chatting up the blood-bags, the least you can do is spread word about my side business."
+
+On the tablet were words and prices. "Jump-scares on your enemies, one slab of meat. Hauntings, two slabs of meat. To _stop_ the hauntings, four slabs of meat. Hunting down vermin, negotiable, but usually free."
+
+Quill rubbed his temples. Shoes just sat there, speechless.
+
+I broke the tension. "One silver a day running my errands. Deal?"
 
 The boy nodded, never taking his eyes off of Mop.
 

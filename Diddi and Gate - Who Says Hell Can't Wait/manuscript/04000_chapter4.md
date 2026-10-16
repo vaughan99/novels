@@ -202,4 +202,4 @@ Prayers like these, the ones that go to Mammon, are given to the Prayer Auction.
 
 _Gate_ was the one who answered. He smelled opportunity. _Real opportunity_.
 
-That's when I got introduced to my first Cornugon, a horned devil to you. He was already morphing... another few hundred years and a few more scores, and he'd be in line for a promotion. His wings were especially grand... they were the body part that most screamed "pit fiend". But he was smarter than your average Cornugon.
+That's when I got introduced to my first Cornugon, a horned devil to you. He was already morphing... another few hundred years and a few more tasty scores, and he'd be in line for a promotion. His wings were especially grand... they were the body part that most screamed "pit fiend". He was well on his way, because he was way smarter than your average Cornugon.

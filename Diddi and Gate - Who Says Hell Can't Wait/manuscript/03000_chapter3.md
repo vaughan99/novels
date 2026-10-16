@@ -190,7 +190,7 @@ Hey, we had to start somewhere!
 
 That's when Shoes came back. Three melons. That didn't cost a full silver piece. Smart boy. He kept the change.
 
-"Those four coppers in your pocket. Consider that your tip."
+I said, "Those four coppers in your pocket. Consider that your tip."
 
 He looked at me shyly. Yeah, I know what you did. Takes balls kid, real balls.
 
