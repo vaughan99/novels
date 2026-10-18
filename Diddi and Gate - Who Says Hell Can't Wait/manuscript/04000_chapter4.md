@@ -2,7 +2,7 @@
 
 So that's when Rezzen walked back through the tent flap.
 
-Mop was licking up blood, alternating between crying over having missed out on Dirty Bedsheet Fireball armageddon, and ecstatic because, well, he's licking up my blood. Quill is trying to determine how to categorize the inventory loss, and Blood-Drop is out the door mumbling about finding more leeches.
+Mop was licking up blood, alternating between crying over having missed out on Chamberpot Fireball Armageddon, and ecstatic because, well, he's licking up my blood. Quill is trying to determine how to categorize the inventory loss, and Blood-Drop is out the door mumbling about finding more leeches.
 
 Rezzen ignored all of it. I envied him. Focus is its own kind of magic, wielded by only the precious few who see past the superficial details around them to set their mind on just one.
 
@@ -56,9 +56,7 @@ Mop must have heard the urgency. Mop doesn't have wings, but Mop sure did fly to
 
 This was the first time Mop and Quill didn't fight... well, over anything. Quill fetched the key from the chest, and placed it in Mop's quivering hands. In two leaps, he had it on the table touching my hand.
 
-I looked Rezzen in the eye.
-
-"When I cut, pull into your mind every image of Torag's Vault you can. Think of the agents you fought. Think of the key you found. And for the sake of Magrim, don't let go."
+I looked Rezzen in the eye. "When I cut, pull into your mind every image of Torag's Vault you can. Think of the agents you fought. Think of the key you found. And for the sake of Magrim, don't let go."
 
 That session was intense. Almost too intense for this old troll, honeydew.
 
@@ -72,13 +70,23 @@ The thing is, the key isn't really a key. It's a light scrambler. The vault it o
 
 Well, I should say... they were important enough not to throw away the key, honeydew. We saved that for another day.
 
-Finally, the thread led back to Geryon's notes. And there it was. A Great Seal. Two sets of monks fighting. And in the drawing? Something behind it. Enormous. Shapeless. Something older than old.
+Finally, the thread led back to Geryon's notes. And there it was. 
 
-It had hungering eyes. It was patiently staring at the seal. Waiting for it to open.
+A Great Seal. Two sets of monks fighting. And pages upon pages of notes copied from a five-thousand-year-old Caulborn archive. Geryon had been reading those pages for years. Checking one account against another. Then checking them again.
+
+One name kept appearing in his notes. _Feznark_. Geryon had traced it through other ancient writings. A real name, it turned out, for a Great Old One. Not a name you want to shout across a crowded room, honeydew.
+
+There was another name in the margins. _Fezzark_. One rune different. Something about an old Caulborn royal dish. Goat, radishes, some weed I couldn't pronounce. Geryon had noticed that too. He'd even written down the possibility that someone had confused the names.
+
+And dismissed it. Who builds a Seal like that to protect a supper recipe?
+
+Well, I agreed with him. At the time. I mean, have you ever had boiled goat and radishes? Not worth five thousand years of security, I can tell you.
+
+And in Geryon's drawing? Something behind the Seal. Enormous. Shapeless. Something older than old. It had hungering eyes. It was patiently staring at the Seal. Waiting for it to open.
 
 Few things give this old troll a chill down the spine, honeydew. It took me an hour to recover from that session.
 
-A Great Old One lay behind that Seal. And Geryon wanted to unleash it on the world.
+A Great Old One lay behind that Seal. Or so Geryon's notes had convinced me. And Geryon wanted to unleash it on the world.
 
 Did I mention that I always wanted to meet a god? If I could have, I would have marched straight into Stygia and told that devil the _what for_. I mean really, what the hell? Sorry, bad pun.
 
@@ -106,7 +114,9 @@ You can ask Quill how many cases we had in the meantime. Nothing nearly as inter
 
 Finally Rezzen walked back through the tent. And he carried with him... a fragment of a tablet. That was it.
 
-He mentioned that he had infiltrated the Openers _and_ Closers. He got closer to both than I thought possible. And at the heart of their dispute was a tablet. And each side had half the tablet. Each side knew they needed the other half to open the seal, or permanently close the seal.
+He mentioned that he had infiltrated the Openers _and_ Closers. He got closer to both than I thought possible. And at the heart of their dispute was a tablet. And each side had half the tablet. 
+
+Each side knew they needed the other half to open the seal, or permanently close the seal.
 
 The tablet was broken, but couldn't be broken down any further. More on that in a minute.
 
@@ -116,23 +126,25 @@ But that's the trick isn't it? If nobody can read it magically, then magic was g
 
 So naturally, I did what I do best. Order Mop to grab the basin.
 
-Now, it would be stupid for me to follow threads that try to get at understanding the text. Because, that's what the writer wanted me to do. Hit a wall. Get frustrated. Give up.
+Now, it would be stupid for me to follow threads that try to get at understanding the text. The Caulborn had made sure nobody could read it without the other half. I could spend all afternoon trying to outwit a civilization of diviners. Hit a wall. Get frustrated. Give up.
 
-So, I pulled on the threads that he never intended. Who made the chisel? Who provided the stone? Where did the stone come from?
+So, I pulled on the threads around the tablet instead. Who made the chisel? Who provided the stone? Where did the stone come from?
 
-Now I pulled on all those threads. And what I found? _Nothing_. But _nothing_ isn't a non-answer. Sometimes _nothing_ is an answer unto itself, honeydew. Because who is brilliant enough to close every loophole, every angle, every approach? That narrowed the list down by a lot.
+Now I pulled on all those threads. And what I found? _Nothing_. 
 
-Who would make a tablet that is both broken _and_ indestructible? Who would _and could_ make the tablet unreadable without the whole tablet being put together? Who would invent a language for this construction, one not catalogued anywhere? And... critically... who would benefit from Geryon pursuing this riddle?
+But _nothing_ isn't a non-answer. Sometimes _nothing_ is an answer unto itself, honeydew. The Caulborn were diviners. If they didn't want you knowing how they made something, they knew exactly which questions to shut down. That told me plenty about the tablet. It didn't tell me why Geryon thought he knew what was behind the Seal.
 
-I had a suspicion.
+Who would make a tablet that is both broken _and_ indestructible? Who would _and could_ make the tablet unreadable without the whole tablet being put together? The Caulborn, of course. It was their Seal. Their tablet. Their secret. But that was five thousand years ago. Who would benefit now from Geryon believing he knew what the Caulborn had hidden?
 
-To answer that question definitively, I needed a field trip. Two tents down.
+I had a suspicion. Not about who made the Seal. About who might be taking advantage of it.
+
+To test that suspicion, I needed a field trip. Two tents down.
 
 Greenhalo doesn't like me. She doesn't like any Augurs really. But even she couldn't resist helping me with this one.
 
 Now Greenhalo's tent is opulent. Silk. Fine furs. Gold and pearls decorate everything. So I of course refuse to sit down. I'm more of a get-to-the-point-troll than a wallow-in-my-lair-bathing-in-honey-troll, if you know what I mean.
 
-I told her my vision. She had her minions (she dresses them in silk and furs too... disgusting show of wealth in my _humble_ opinion) find her special silver platter for her reading.
+I told her about the Caulborn tablet, Geryon's notes, and the peculiar certainty with which he named the thing behind the Seal. She had her minions (she dresses them in silk and furs too... disgusting show of wealth in my _humble_ opinion) find her special silver platter for her reading.
 
 I had Mop go grab my wooden basin. More practical.
 
@@ -144,7 +156,7 @@ Mind you, I wasn't reading _the reading_, if you know what I mean. I was reading
 
 And that's when I knew.
 
-There's only one name on the list that would scare Greenhalo into silence. Lucky for me, she thought it and didn't say it.
+There's only one name I could think of who might profit from Geryon chasing a five-thousand-year-old secret, and whose involvement would scare Greenhalo into silence. Lucky for me, she thought it and didn't say it.
 
 The Prince of Darkness.
 
@@ -158,23 +170,55 @@ So I walked back to my tent.
 
 And I was even more confused.
 
-What would the big "A" want to try to fool Geryon? I mean, this Seal goes back _five thousand years_, maybe more.
+What would the big "A" want with Geryon's obsession? I mean, the Caulborn made this Seal _five thousand years_ ago, maybe more. And nothing I'd found suggested anyone had tampered with their tablet. So where could the deception be?
 
 This is where Quill earns his keep. He's pedantic. He nit-picks. He is _annoying_ with a big "A". But, he writes everything down. I had him go back to my reading a month previous. The one with the Great Old One.
 
 He read out loud every word I said.
 
-And what I said was that the vision of the notes had a Great Old One.
+And what I said was that the vision of Geryon's notes had a Great Old One. Not that I'd seen one behind the Seal. I'd seen what _Geryon_ thought was behind it.
 
-But how did Geryon _know_? It's not opened.
+"Keep going, Quill."
+
+He read out the part about the Caulborn archive. And the name. Feznark. A genuine name for a Great Old One, according to every other ancient account Geryon could find. Well, I say "every", but it was actually just two. Geryon thought that was significant. This was the rarest Great Old One there was.
+
+Then Quill stopped. "There was a second spelling, Mistress. Fezzark. One rune different."
+
+"The goat and radishes? I remember."
+
+"You also said Geryon considered the two names might have been confused."
+
+"And decided nobody would hide a recipe behind a Seal that powerful. So did I."
+
+Quill checked his notes again. "You said the _archive_ gave him the name Feznark. The other accounts only told him what Feznark meant."
+
+Now that was interesting.
+
+You see, Geryon could prove Feznark was the name of a Great Old One. He could prove the Caulborn had a Seal. He could even prove the archive was ancient. But none of that proved the Great Old One was behind the Seal. All that depended on a single name in a single account.
+
+And one rune could turn a royal dinner into the end of the world.
+
+But how did Geryon _know_? The Seal hadn't been opened.
+
+Perhaps Fezzark was just a harmless name the Caulborn had used to disguise Feznark. That was my first thought. After all, if you're hiding the worst thing in existence, calling it a plate of goat sounds pretty clever.
+
+But then I thought about the big "A". And about how much work Geryon had put into confirming what he already believed.
+
+What if the disguise went the other way?
+
+What if someone had changed just one rune in that old book? Not to make a lie out of everything Geryon read. Just to make him connect two perfectly true things that didn't belong together.
+
+Also, Geryon may be one of the most intelligent devils there ever was, but he'd never spent time around royals and their dinner recipes. Remember, these were diviners, honeydew. If you've got a secret recipe with herbs and spices, and your neighbor can read your tea leaves, you better keep it somewhere safer than a wooden box in your kitchen.
 
 Something tipped him off to the contents. Or... something tipped him off to the contents _he wanted to see_.
 
 And then it hit me.
 
-The big "A" wanted him to think something was behind the Seal. Something dangerous. Something _disastrous_. Something to obsess over for millennia.
+The big "A" didn't need to tell Geryon a thing. He only needed Geryon to find that name for himself. Something dangerous. Something _disastrous_. Something to obsess over for millennia.
 
-Ooooh, very, very spicy.
+I couldn't tell you what was actually behind the Seal. Maybe it was a monster. Maybe it was dinner. I wasn't opening it to find out.
+
+Whichever it was going to be, it was going to be extra spicy.
 
 I need two melons. Mmmmm... let's... slurp... take a break.
 

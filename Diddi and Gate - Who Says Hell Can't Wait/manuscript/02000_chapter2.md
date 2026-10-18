@@ -6,7 +6,9 @@ The city of the strange more like. Every corner has a secret. Which keeps me in 
 
 What's my business, really?
 
-I'm a troll. I already said that. But not your average troll. Like the other Augurs. Ogres? Close. They hate me. Their divination comes as "grandiose". Self-important. Clueless really.
+I'm a troll. I already said that. But not your average troll. Like the other Augurs. Funny how close that term is to "Ogres".
+
+They hate me. Their divination comes as "grandiose". Self-important. Clueless really.
 
 Want to win a war? Visit Torntusk. He'll give you a grand spectacle. Maps. Drawings. Legions of little lead figures he can move around the board.
 
@@ -30,9 +32,17 @@ I'm sure I'm not the first troll you've talked to. Unless, you're new to Kaer Ma
 
 Wait. What's that you say? I didn't tell you how the last case played out? Oh, silly me. I must have gotten famished.
 
-That case was too easy, boring really. His wife was actually a doppelganger and a serial killer. Part of a cabal of doppelgangers. Don't worry, "she" wasn't going to kill him... not that you care anyway. And, the Duskwardens have been informed. They'll do something about it, I'm sure. If others in town don't do so first.
+That case was slightly interesting. His wife was actually a doppelganger and a serial killer. Part of a cabal of doppelgangers. Don't worry, "she" wasn't going to kill him... not that you care anyway. And, the Duskwardens have been informed. They'll do something about it, I'm sure. If others in town don't do so first.
 
 That's the thing about this town. Nobody's in charge, but everyone's in charge of their street. I mean, everyone who can handle problems themselves. Don't cross anybody, and you'll get along just fine here. Really. Cross someone, and well, you'll find out about street justice. Kaer Maga style.
+
+What is that style? Well, we have the Church of the Abiding Vigilante. It's a sect of the Church of Abadar. We have one of them on our street... I call him Gendarme.
+
+You'll recognize him as the one with crossbow and cesti. If he sees locals arguing, he'll referee a fist-fight to get commerce flowing again. Quick. Efficient.
+
+But if he sees a thief stealing, or a murder, he'll organize a posse. And he'll hunt you down.
+
+Don't cross them. They're all inquisitors.
 
 And now let me welcome you to our business: Diddi & Gate Investigative Divinations, Inc. That's the proper name. But if you just say "Diddi's" anywhere in town, they'll know what you mean.
 
@@ -41,6 +51,7 @@ Now, why do I have an imp and a quasit on staff you ask? Funny story that.
 Back then I had different shop help... he was a halfling named Shoeless. He kept the books, took the payments, kept the tent clean, fetched things in market, and did some light investigative work. Brilliant halfling. Quiet and hard-working.
 
 One day two hedge wizards came walking through my tent flap. They wanted me to settle a debt.
+
 One had an imp familiar. The other had a quasit. You know where this is going, I'm sure.
 
 They carried a wand in. They wagered their familiars as payment about who created the wand. They were convinced it was one of two factions of wizards. Don't remember which. Didn't matter anyhow.
@@ -49,13 +60,13 @@ Funny thing, that wand. It was a _wand of identify_, according to the runes on i
 
 So they had me do the reading.
 
-Silly wizards. Turned out the wand had a childhood. In fact, it _was_ a child. A _mimic_ child, to be exact. The wizards argued. They threatened me. They made me cross.
+Silly wizards. Turned out the wand had a childhood. In fact, it _was_ a child. A _mimic_ child, to be exact. The wizards argued. They threatened each other. They threatened me. They made me cross.
 
 Don't make me cross.
 
-Anyway, I got the two familiars. Shoeless disappeared the next day. And these two became my shop helpers. Maybe they conspired to make him disappear. Maybe they were bored. Maybe Shoeless feared for his life and fled. I'm not sure.
+Anyway, I knocked their heads together. They got headaches, and I got the two familiars. Shoeless disappeared the next day. And these two became my shop helpers. Maybe they conspired to make him disappear. Maybe they were bored. Maybe Shoeless feared for his life and fled. I'm not sure.
 
-We put out an ad because... well, nobody wanted to sell melons to a quasit. And Quill said that buying melons and cavorting with low-lifes who can't spell wasn't in his job description.
+We put out an ad because... well, nobody wanted to sell melons to Mop. And Quill said that buying melons and cavorting with low-lifes who can't spell wasn't in his job description.
 
 So then Shoes walked in. Well, he wasn't Shoes then. He was just a human boy, probably thirteen, maybe twenty-two. To a troll, they all taste the same.
 

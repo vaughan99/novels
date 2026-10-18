@@ -62,12 +62,6 @@ Deadline works for a periodical called _Sufferer's Digest_. Maybe you've heard o
 
 And the country of Nidal is filled with them. Paying customers, all looking for ways to find enjoyment in commiserating with people half way around Golarion.
 
-Now, Deadline is a master of medicine. Kuthites are big fans of experiencing pain, but death is something they hate, because it cuts short the _experience_ of suffering. And the only way to tell your readers how to reproduce the same effects of what they're reading is to be a doctor. He can tell you the safest ways to experience the same thing.
-
-He's also a fairly good illusionist and artist. He communicates with his editor by weaving illusions into his stories and sending them via their shared notebooks... ones that see what the other is writing. Nifty piece of magic.
-
-Deadline likes to hang out at my tent sometimes, trying to get a scoop on his next piece. For example, with that last case with the doppelganger wife, he wanted to interview the victims' relatives to get a real sense of survivor's guilt and the agony of loss. His readers really eat that stuff up.
-
 When Deadline walked in this time, it was clear he had been listening too much. 
 
 "Miss Diddy, can I get you on the record about how you feel, dooming all of Golarion to a painful agonizing death at the hands of a Great Old One?"
@@ -93,17 +87,5 @@ I think he wanted to be doomed. Not to die, but to experience _the feeling_ of c
 He said, "I'll stay near but I've got a deadline for publication. I'm going with the story in two days unless I hear something new from you."
 
 Fair enough.
-
-Luckily, Deadline got distracted by a curious case that he still might want me to look into. He mentioned something about a girl who found wondering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
-
-She has no memory of who she is. She landed in the local orphanage... I can give you the address.
-
-What got her on Deadline's beat was that she led a group of kids from the orphanage out late one night to explore one of the graveyards. When they got scared, she started... glowing. And what was shocking was that she also... was _shocking_. People that is. Well, and the horde of zombies from Ankar-Te that strolled by.
-
-Then she started _vooping_. Well, not _vooping_, more like _zhipping_. She becomes a lightning bolt when other people get scared. Not all the time, mind you, just when things get truly frightening.
-
-Deadline is planning an exclusive three-segment series on her. The loneliness of being a kid that scares others. The interviews with her _victims_ when she passed through them as a lightning bolt. And the pain of not knowing who she really is.
-
-That last one is going to be hard for him to get his readers to experience. Unless he's good at memory magic.
 
 So, finally, Rezzen walked back through my tent. And all he said was, "Tomorrow."

@@ -250,20 +250,6 @@ Mop reappeared.
 
 "Jealous."
 
-We had one more client that day. It was one of those jobs where Quill's glass barely passed a few grains of sand. Client lied. He burned down his own house. Very boring.
-
-That was it for the day.
-
-Now, you might ask where I sleep. For a troll my age, honestly, you're lucky if I'm awake for your reading honeydew.
-
-I fall asleep right there. Most nights, it's fine. There are lots of night-stalkers in Kaer Maga, but when you help enough people, the night-stalkers and star-gazers are usually on your side.
-
-Which is great for business.
-
-And staying alive.
-
-Vampires, undead, crazy star-gazers... they all have puzzles they have to solve too, you know.
-
 The next day, Blood-Drop the bloatmage... we call him that because you never know when he'll drop by, looked in on the shelf of troll blood. He seemed especially _needy_.
 
 Bloatmages are like regular mages who've figured out that some dweomers are right there in the blood. So they flood their blood vessels. They use leeches too, sucking off the excess before it stains their silk shoes.
@@ -298,7 +284,7 @@ His blood vessels screamed... at least I thought I heard screaming.
 
 Oh no. That's real trouble. He was hallucinating. He knows my blood is powerful, but he can't resist taking a hit of the raw stuff. Didn't refine it. Didn't age it or prepare himself for it.
 
-"FIREBALLS!!!! DIRTY BEDSHEET ... FIREBALLS!!!! MUHAHAHAHA!!!"
+"FIREBALLS!!!! CHAMBERPOT... FIREBALLS!!!! MUHAHAHAHA!!!"
 
 The next thing I saw was Mop. The leeches had fallen off, and he was eating them like carnival treats, watching the tent like the world was going to end. And he loved it.
 
@@ -308,11 +294,11 @@ I grabbed him by the throat. That shut him up quick.
 
 He started waving his hands violently, casting his spells without a voice. I laughed. Shoulda learned metamagic, weirdo.
 
-"You do know that I'm going to have to charge you extra this time? This is the second time this month we've had this conversation."
+I told him, "You do know that I'm going to have to charge you extra this time? This is the second time this month we've had this conversation."
 
 He looked at me wild-eyed. This may work in the dungeons and out in the Cinderlands maybe, but here in my shop? No way.
 
-"No mainlining blood in the tent. Take it home. Take it to your enemy's house. But no using here. We're a respectable establishment."
+I wagged my finger at him. "No mainlining blood in the tent. Take it home. Take it to your enemy's house. But no using here. We're a respectable establishment."
 
 Mop was picking his nose. Mop was not counted in that statement.
 
@@ -326,7 +312,7 @@ But I let him bleed. It's the only way to handle one of these bloatmages until t
 
 I let him go.
 
-"I cannot fathom why the dirty bedsheets and the lantern being out of oil suddenly made me lose my wits. Your unfiltered sanguinity is most intoxicating... and strange. I had visions of bedsheets and chamber pots. I almost..."
+"I cannot fathom why the vision of dirty bedsheets and chamberpots suddenly made me lose my wits. Your unfiltered sanguinity is most intoxicating... and strange. I almost..."
 
 "Look, just no mainlining, got it honeydew? Now pay the human boy to get me a fresh batch of melons or I'll cut open a few new attachment sites for your leeches."
 
@@ -336,13 +322,13 @@ He left me a purse for the blood, the jar, Mop's cleanup expenses (oh wait, thos
 
 Before he left, Blood-Drop reminded me why I liked him, despite all his nasty habits. "Shall I drop by tomorrow with my brother's latest line of alchemical wrinkle creams? He's worked on a new formula."
 
-Now we're talking. Blood-Drop was such a smoothy sometimes. I almost forgot I nearly _ended him for mainlining my blood and unleashing fireballs_.
+Now we're talking. Blood-Drop was such a smoothy sometimes. I almost forgot I nearly _ended him_.
 
-"Three jars."
+"Three jars of wrinkle cream."
 
 "Of course."
 
-That brightened my mood. I know I'm old, but behind this old saggy troll is a girl that just wants to be loved... by other... trolls... nevermind. I just want to keep the skin folds off my other skin folds. Makes them hard to count.
+That brightened my mood. I know I'm old, but behind this old saggy troll exterior is a girl that just wants to be loved... by other... trolls... nevermind. I just want to keep the skin folds off my other skin folds. Makes them hard to count.
 
 Mmmm, time for another.
 

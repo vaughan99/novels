@@ -120,7 +120,7 @@ Deadline took a break from _Sufferer's Digest_ and went solo. He got a major awa
 
 So, one by one, each of the devils, angels, gods, warriors and constructs all vooped away. Leaving Gate standing, hands on hips, staring at Geryon's corpse. His corpse was turning to stone at that point.
 
-Also, the whirlpool collapsed on itself. I have to believe that water rushed into the room behind the Seal. Whatever _was behind_ the Seal is now under a mile of water. Good luck to anyone who wants to do an archaeological dig.
+Also, the whirlpool collapsed on itself. I have to believe that water rushed into the room behind the Seal. Whatever _was behind_ the Seal is now under a mile of water. Good luck to anyone who wants to do a culinary archaeological dig.
 
 Wings vooped in, turned to Gate and smiled. Apparently she had been sent back to Mammon's palace to see what the initial reactions were. All positive.
 
@@ -171,7 +171,3 @@ Well, that's what happens when you have no status.
 That reminds me. The other Augurs got their powers from eating high-status nobles. Torntusk? He ate the famous Caulborn war general. Greenhalo? She ate the Caulborn high priestess. Me? Hahaha. I ate the Caulborn Queen's chambermaid. I guess that's why Blood-Drop started having visions about dirty bedsheets when he mainlined my blood.
 
 But I have no regrets. Chambermaids know all the little secrets. And those secrets are the ones that solve big mysteries.
-
-So now, give your name to Quill, and your occupation. Then tell me what you brought.
-
-And don't worry, Geryon won't bite you. He just likes to... stare.
