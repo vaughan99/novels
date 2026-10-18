@@ -60,11 +60,13 @@ Deadline is from the land of worshippers of Zon-Kuthon. Your average Kuthite lov
 
 Deadline works for a periodical called _Sufferer's Digest_. Maybe you've heard of it. They publish "feel-good" stories about pain, trauma, and suffering. You know, to lift the spirits of those weirdos who are into that sort of thing.
 
-And the country of Nidal is filled with them. Paying customers, all looking for ways to find enjoyment in commiserating with people half way around Golarion.
+And the country of Nidal is filled with them. Paying customers, all looking for ways to find enjoyment in commiserating with people half way around Golarion. And when I say commiserate, I mean... by choice. They do _things_ to themselves that most people pay good coin _not to have done to themselves_.
+
+But then again, who am I to judge?
 
 When Deadline walked in this time, it was clear he had been listening too much. 
 
-"Miss Diddy, can I get you on the record about how you feel, dooming all of Golarion to a painful agonizing death at the hands of a Great Old One?"
+"Miss Diddi, can I get you on the record about how you feel, dooming all of Golarion to a painful agonizing death at the hands of a Great Old One?"
 
 That's a _real_ problem. We really did need a venue change what with the tent being so easy to listen through, now that I think about it.
 
