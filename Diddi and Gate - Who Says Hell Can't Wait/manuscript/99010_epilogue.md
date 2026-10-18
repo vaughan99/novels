@@ -42,7 +42,7 @@ Looking for more work?
 
 First of all, maybe you can look into what happened to Shoeless. With all our work lately, I almost totally forgot he went missing.
 
-Now that Deadline is back to writing for _Sufferer's Digest_, he mentioned something about a girl who found wondering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
+Now that Deadline is back to writing for _Sufferer's Digest_, he mentioned something about a girl who found wandering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
 
 She has no memory of who she is. She landed in the local orphanage... I can give you the address.
 

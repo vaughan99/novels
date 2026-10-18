@@ -328,7 +328,7 @@ Now we're talking. Blood-Drop was such a smoothy sometimes. I almost forgot I ne
 
 "Of course."
 
-That brightened my mood. I know I'm old, but behind this old saggy troll exterior is a girl that just wants to be loved... by other... trolls... nevermind. I just want to keep the skin folds off my other skin folds. Makes them hard to count.
+That brightened my mood. I know I'm old, but behind this old saggy troll exterior is a girl that just wants to be loved... by other... trolls... never mind. I just want to keep the skin folds off my other skin folds. Makes them hard to count.
 
 Mmmm, time for another.
 

@@ -106,7 +106,7 @@ I asked, “How long has she had it?”
 
 He narrowed his eyes. "You'd know that because you've been... married?"
 
-I laughed. "No, honeydew. I know that because every man I've ever known look right past that bit of linen to their wife's..."
+I laughed. "No, honeydew. I know that because every man I've ever known looks right past that bit of linen to their wife's..."
 
 Quill's pen broke. That sometimes happens when he is writing too fast. He reached under the desk. I think he generally keeps over a hundred perfect goose feather pens under there.
 

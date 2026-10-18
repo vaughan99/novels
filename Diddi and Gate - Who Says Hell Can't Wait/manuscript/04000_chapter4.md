@@ -32,7 +32,7 @@ Now that's a puzzle, honeydew.
 
 Rezzen sat there staring. He finally offered something truly useful. "The key didn't match the needs of Torag's vault. The one I was tasked with finding the secret to opening."
 
-Now, that may not sound all the helpful. But it was actually brilliant.
+Now, that may not sound all that helpful. But it was actually brilliant.
 
 These agents were looking for ways to open things. An odd key. Taking out a rogue agent tasked with opening something else.
 
