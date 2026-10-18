@@ -1,8 +1,6 @@
 # Chapter One: My Last Case
 
-“Are you speaking to me?”
-
-The man in the chair asked me, but then looked up nervously.
+“Are you speaking to me?” The man in the chair asked me, but then looked up nervously.
 
 They all do that. Eventually. I won't mind if you do.
 
@@ -16,9 +14,7 @@ I smiled. I always smile. I love their reactions. I read them... _before_ I read
 
 But no, _I_ didn't say a word. Not yet.
 
-“Who else would I be speaking to?”
-
-His eyes looked at Quill, nose-deep into his ledger. "You must not have heard my question, young man. I'll pose it again. Do you have... a _reservation_?”
+His eyes looked at Quill, nose-deep into his ledger. "Who else would I be speaking to? You must not have heard my question, young man. I'll pose it again. Do you have... a _reservation_?”
 
 The client looked up, then looked at me, then back at Quill.
 

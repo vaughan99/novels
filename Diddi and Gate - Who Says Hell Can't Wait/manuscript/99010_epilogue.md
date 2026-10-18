@@ -10,7 +10,9 @@ Mop has his slate of services. Off-the-books. I'd say he's a good bargain, if ch
 
 Shoes? He's not a fighter. Don't go stealing him from me either. But he's good at looking like a snot-nosed kid asking stupid questions. He works for silver. Always dresses the same though. Not sure what he's saving up for.
 
-If you're having street trouble, track down Gendarme. Depending on the problem, he may even go on field trips. His help, though, is very... quid pro quo. Expect to serve in a posse or two.
+Don't forget there's that cabal of doppelgangers out there. I'd help you track them down if you find more evidence.
+
+Speaking of which, if you're having street trouble, track down Gendarme. Depending on the problem, he may even go on field trips. His help, though, is very... quid pro quo. Expect to serve in a posse or two.
 
 Now, Deadline is a master of medicine, but to get him to help you, you'll have to give interviews. Don't expect any anonymity either.
 
@@ -24,17 +26,17 @@ Blood-Drop lives nearby too. He's always looking for people to impress. Hiring h
 
 Another one of my frequent flyers is also looking for work. Lets call her Aint Iomedae. She's a goblin, but don't let that put you off. She's from Isger, and she came upon a lady paladin dead. Attacked by goblins. Very sad.
 
-Aint started looking through the paladin's belongings, and found her Iomedae's holy symbol, prayer book, banded mail, bastard sword, and pack pony. Warhorse was dead.
+Aint started looking through the paladin's belongings, and found Iomedae's holy symbol, a prayer book, a suit of banded mail, a bastard sword, and a pack pony. Warhorse was dead.
 
-Aint can't read, but she flipped through the pictures in the prayer book, and found Iomedae fighting monsters and demons, finally landing her in heaven. Aint really wanted what she saw in that heaven, and swore to be a holy warrior of Iomedae.
+Aint can't read, but she flipped through the pictures in the prayer book, and found Iomedae fighting monsters and demons, finally landing her in heaven. Aint really liked what she saw in that heaven, and swore to be a holy warrior of Iomedae to get there.
 
 She took the paladin's banded mail, bent it to her body, removed the extra bands, and broke the bastard sword to make it more... usable... to a goblin. She knew that knights had lances, but this one didn't. So she named the pack pony "Lance", and made it her warhorse.
 
-The two set off in the direction the paladin was heading... Kaer Maga. Aint desperately wants to become the paladin, but she keeps running into that foul nature of hers. You can see her often outside Greenhalo's tent trying to get an audience, but really is super eager to join Gendarme's posses. For the experience.
+The two set off in the direction the paladin was heading... Kaer Maga. Aint desperately wants to become a paladin, but she keeps running into that foul nature of hers. You can see her often outside Greenhalo's tent trying to get an audience, but really is super eager to join Gendarme's posses. For the experience.
 
 She keeps coming to see me. Maybe I'm Golarion's cheapest paladin counselor. I'll bet she'll join you for free. Just understand she's a goblin. Who has zero fear. Let that sink in.
 
-Rezzen? He's still around, and his Last Citadel Magrimite monks are useful for investigating around death. If you're bound for Ankar-Te or a vampire's den and you need someone to counteract those _negative vibes_, you could do worse than getting one of Rezzen's guys into your party.
+Rezzen? He's still around, and his Last Citadel Magrimite monks are useful for investigating around death. If you're bound for Ankar-Te or a vampire's den and you need someone to counteract those _negative vibes_, you could do worse than getting one of Rezzen's guys into your party. I believe the one we call Urn is available for a contribution to the Last Citadel's coffers. Just ask any dwarf where the temple of Magrim is.
 
 Oh, and there's Wings. But you'd better have some serious magic or coin to trade. She's a Mammonite, honeydew. You have to make her help worth her time.
 

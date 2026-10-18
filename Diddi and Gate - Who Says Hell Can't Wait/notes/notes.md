@@ -1,4 +1,4 @@
-Below are the notes I’d want waiting for you when you return to this draft. I’m treating the latest manuscript as the cutoff point; it currently gets through present-day Diddi, the first demonstration client, the narrator break, and the setup that the real story begins back when the duergar entered her old tent.
+Below are the notes I’d want waiting for you when you return to this draft. I’m treating the latest manuscript as the cutoff point; it currently gets through present-day Diddi, the first demonstration client, the narrator break, and the setup that the real story begins back when the duergar entered her old tent. 
 
 ## Immediate continuation: Shoes and Rezzen
 
@@ -6,7 +6,7 @@ The duergar does **not** actually enter immediately after the narrator promises 
 
 Shoes was a human boy whose age Diddi could barely estimate: “probably thirteen, maybe twenty-two. To a troll, they all taste the same.” Diddi and Quill had advertised for an errand-runner because nobody wanted to sell melons to Mop and Quill insisted melon procurement was outside his job description.
 
-Shoes’ initial qualifications are wonderfully Diddi-specific: can he muscle through a crowd carrying melons, and does he _look_ like a clueless kid nobody would notice? Yes to both. He is immediately being hired not merely as an errand boy but as a future low-profile information gatherer.
+Shoes’ initial qualifications are wonderfully Diddi-specific: can he muscle through a crowd carrying melons, and does he *look* like a clueless kid nobody would notice? Yes to both. He is immediately being hired not merely as an errand boy but as a future low-profile information gatherer.
 
 In the old tent, Mop hangs from the tent poles, possibly eating a cat. Shoes is smart enough never to turn his back on him. Quill asks for Shoes’ official name; Diddi stops the boy before he gives his true name because true names have power around infernals. The shop uses **bynames**. Diddi likes handing out new identities because “the past can be so boring.”
 
@@ -52,7 +52,7 @@ Diddi notices blood on Rezzen’s robe. She correctly guesses he beat someone bl
 
 They were **assassins of Droskar**, unhappy about his defection.
 
-Diddi calls them his “former buddies.” Rezzen sharply responds that they were _not_ his friends. Diddi knows that; she likes playing dumb to provoke useful corrections.
+Diddi calls them his “former buddies.” Rezzen sharply responds that they were *not* his friends. Diddi knows that; she likes playing dumb to provoke useful corrections.
 
 Rezzen saved something from them: a strange **mithral key with roughly a hundred teeth**.
 
@@ -76,7 +76,7 @@ The key goes into Quill’s chest beside **old man Herbert’s silver spoons**, 
 
 ## Droskar’s actual seal-breaking program
 
-The mithral key is not necessarily _the_ key to the Kaer Maga Seal. It is one artifact in a much larger, centuries-long **reverse-engineering program**.
+The mithral key is not necessarily *the* key to the Kaer Maga Seal. It is one artifact in a much larger, centuries-long **reverse-engineering program**.
 
 Geryon has tasked Droskar with solving the general engineering problem:
 
@@ -358,19 +358,19 @@ Servants have secrets.
 
 The exact wording need not be used verbatim.
 
-## Blood-Drop material not yet in the manuscript
+## Fatherdrop material not yet in the manuscript
 
-Blood-Drop is a **bloatmage** regular. Diddi jokes that they call him Blood-Drop because you never know when he’ll drop by.
+Fatherdrop is a **bloatmage** regular. Diddi jokes that they call him Fatherdrop because you never know when he’ll drop by.
 
 He comes for Diddi’s excess troll blood, which can empower his magic. Normally it needs to be refined, aged or otherwise prepared.
 
-Sometimes Blood-Drop cannot resist the raw stuff.
+Sometimes Fatherdrop cannot resist the raw stuff.
 
 In the current scene concept, he arrives “needy,” ignores Quill’s reservation ritual, walks to the blood shelf and hooks a jar directly into a needle already stuck into his neck.
 
-Diddi watches her blood flow into him and thinks, essentially, _Wow. Didn’t know my blood was all that powerful._
+Diddi watches her blood flow into him and thinks, essentially, *Wow. Didn’t know my blood was all that powerful.*
 
-Then Blood-Drop starts hallucinating:
+Then Fatherdrop starts hallucinating:
 
 **“BEDSHEETS! THE BEDSHEETS ARE DIRTY!”**
 
@@ -382,7 +382,7 @@ His leeches fall off.
 
 Mop eats them like popcorn while watching the tent as though the world is about to end, thrilled by the entertainment.
 
-Diddi finally grabs Blood-Drop by the throat. That eliminates his verbal spellcasting.
+Diddi finally grabs Fatherdrop by the throat. That eliminates his verbal spellcasting.
 
 He begins desperately gesturing.
 
@@ -400,11 +400,11 @@ At exactly that moment Mop is picking his nose.
 
 Narrator-Diddi clarifies that Mop was **not counted in that statement**.
 
-## Blood-Drop / Gate / skin cream
+## Fatherdrop / Gate / skin cream
 
-Another planned Blood-Drop relationship remains useful later.
+Another planned Fatherdrop relationship remains useful later.
 
-Blood-Drop trades Diddi enchanted scar/wrinkle/skin cream in return for access to her extraordinary troll blood. Diddi is thousands of years old and has cut herself open thousands of times; regeneration does not necessarily mean she has no interest in quality enchanted skin treatment.
+Fatherdrop trades Diddi enchanted scar/wrinkle/skin cream in return for access to her extraordinary troll blood. Diddi is thousands of years old and has cut herself open thousands of times; regeneration does not necessarily mean she has no interest in quality enchanted skin treatment.
 
 Gate eventually wants the cream too.
 
@@ -548,7 +548,7 @@ The tentative series branding remains **Diddi and Gate**.
 
 The first-book title direction was **Diddi and Gate, Who Says Hell Can’t Wait?**
 
-You liked the possibility that later titles keep rhyming with “Diddi and Gate,” with examples such as _My Fortune for a Rabbit’s Fate_ and _Don’t Look Inside the Crate_.
+You liked the possibility that later titles keep rhyming with “Diddi and Gate,” with examples such as *My Fortune for a Rabbit’s Fate* and *Don’t Look Inside the Crate*.
 
 That was still exploratory rather than absolutely locked.
 
@@ -572,6 +572,7 @@ Quill misses the greatest financial opportunity in infernal history because he f
 
 That contrast—**cosmic stakes treated through the practical machinery of a strange little business**—looks like one of the defining strengths of the book.
 
+
 ## Former clients turned resources / NPCs
 
 ### Flicker — The Fear-Eating Child
@@ -586,15 +587,15 @@ Her power should be framed as **electrical anomaly**, not weather control. She i
 
 Her abilities develop by degree of access:
 
-- At low access, touching her can produce an electrical shock.
-- She can **blink** short distances.
-- When blinking, she briefly becomes an electrical arc between origin and destination. If her path passes through a creature, she can attempt to hit it and discharge a **shocking-grasp-like effect** through the target.
-- She can choose not to discharge when passing through allies.
-- At higher access, the blink becomes longer and more deliberately offensive.
-- At still higher access, she gains **dimension-door-scale teleportation**.
-- At maximum access, she can effectively **become lightning**, combining long-range teleportation with a violent electrical strike. The high-end version was envisioned as roughly a dimension-door/lightning-bolt hybrid capable of dealing about **15d6 electricity damage in the same round**.
-- Her highest expression also includes a powerful **static field** around her.
-- At full wisp-lord access, she can create **lightning-storm-scale electrical phenomena**, though this should feel like an electrical catastrophe centered on Flicker rather than conventional weather control.
+* At low access, touching her can produce an electrical shock.
+* She can **blink** short distances.
+* When blinking, she briefly becomes an electrical arc between origin and destination. If her path passes through a creature, she can attempt to hit it and discharge a **shocking-grasp-like effect** through the target.
+* She can choose not to discharge when passing through allies.
+* At higher access, the blink becomes longer and more deliberately offensive.
+* At still higher access, she gains **dimension-door-scale teleportation**.
+* At maximum access, she can effectively **become lightning**, combining long-range teleportation with a violent electrical strike. The high-end version was envisioned as roughly a dimension-door/lightning-bolt hybrid capable of dealing about **15d6 electricity damage in the same round**.
+* Her highest expression also includes a powerful **static field** around her.
+* At full wisp-lord access, she can create **lightning-storm-scale electrical phenomena**, though this should feel like an electrical catastrophe centered on Flicker rather than conventional weather control.
 
 The visual language should emphasize static and conduction rather than storm-goddess imagery: hair rising, metal humming, arcs crawling over surfaces, ozone in the air, clothing clinging, tiny shocks between nearby people, and lightning traveling in unnatural directions—wall to floor, fence to gravestone, sword to sword, or through Flicker herself.
 
@@ -617,6 +618,7 @@ For campaign use, Flicker works especially well as a **former client/contact rat
 Mechanically, the intended approach is:
 
 **Build the human as level 1. Treat the wisp-lord abilities as a separate supernatural power source with a ceiling around level 15. Fear controls access to those abilities; it does not make the human body itself higher level.**
+
 
 Deadline has a particularly useful role in the Diddi & Gate setting: he is a recurring reporter who follows suffering rather than adventure. That means he can appear in almost any campaign, at almost any level, without needing to be connected to the main plot. He goes wherever something terrible has happened, or wherever his investigations suggest something terrible is about to happen.
 
@@ -658,11 +660,11 @@ His principal devotional implement is a compression sleeve lined with inward-fac
 
 His physical build reflects his discipline:
 
-- Extremely high Constitution and pain tolerance.
+* Extremely high Constitution and pain tolerance.
 
-- Low Dexterity, particularly for mobility.
+* Low Dexterity, particularly for mobility.
 
-- Slow, deliberate movements rather than an agile fighting style.
+* Slow, deliberate movements rather than an agile fighting style.
 
 #### Personality and performance
 
@@ -678,13 +680,11 @@ The distinction is important: Deadline should not come across as a typical Kuthi
 
 #### His publication and reporting methods
 
-Deadline writes for a Nidalese publication _Sufferer's Digest_, with an editorial bent shaped by Kuthite values.
+Deadline writes for a Nidalese publication _Sufferer's Digest_,  with an editorial bent shaped by Kuthite values.
 
-He is a master of three complementary reporting disciplines: prose, visual illustration and illusion-based reproduction of reality.
+He communicates with his editor via a magical journal. When either writes in it, the other sees the writing on the next page. Once the journal runs out of pages, it cycles back to the first page, erasing it, and so forth. He is a master of prose, calligraphy, and sketchwork.
 
-The illusions allow readers to experience a reconstruction of the events he reports, taking their reading far beyond the written word.
-
-He submits his work to his editor through magical messaging. The same channel carries deadlines, assignments, editorial feedback and presumably complaints about his failure to meet a deadline while pursuing some irresistible new atrocity.
+The writing is then handed to an in-house publication team that makes the next day's copy. They enchant their periodical with cantrips designed to let the reader feel vaguely where the injuries are (not severity), and possibly low-grade illusions (think Harry Potter quick scrolls).
 
 This arrangement allows a GM to introduce story hooks through either Deadline himself or an unexpected editorial assignment from Nidal.
 
@@ -699,6 +699,7 @@ When no current client presents anything sufficiently compelling, Deadline bring
 Their relationship is commercially and professionally complementary. Deadline wants stories, Diddi wants problems to solve, and both appreciate information that everyone else might consider worthless.
 
 He also provides a natural link between Diddi and the wider world. A disaster occurring thousands of miles away can bring Deadline back to her door with a physical focus, an eyewitness account or an urgent editorial deadline.
+
 
 #### Combat and medical role
 
@@ -748,9 +749,10 @@ Third, what does Deadline do when someone refuses to be interviewed? His commitm
 
 Deadline follows suffering, not the player characters. He can join an adventure, depart when a more compelling story appears, and return years later carrying a fresh mystery for Diddi. His medical abilities and obsessive reporting provide utility at level 1, while his contacts and interest in extraordinary suffering remain relevant through level 20.
 
+
 ### Urn — Magrimite Field Monk / Diddi Contact
 
-**Urn** is Diddi’s byname for a younger monk of **Magrim’s order**, a dwarven religious institution focused on the dead, ancient mysteries, funerary obligations, unresolved deaths, and truths that survive their witnesses.
+**Urn** is Diddi’s byname for a younger monk of one of **Magrim’s orders**, the Order of the Last Hall. It is a dwarven religious institution focused on the dead, ancient mysteries, funerary obligations, unresolved deaths, and truths that survive their witnesses.
 
 He is not Rezzen, but he comes from an order heavily shaped by Rezzen’s influence after the Geryon crisis.
 
@@ -760,16 +762,16 @@ Urn is a **junior mortuary investigator** and field monk.
 
 He is useful when an adventure involves:
 
-- disturbed graves,
-- unidentified remains,
-- disputed burials,
-- missing funerary objects,
-- ancestral claims,
-- ancient battlefields,
-- clan history,
-- tomb architecture,
-- old dwarven mysteries,
-- or situations where the official account of a death does not match the physical evidence.
+* disturbed graves,
+* unidentified remains,
+* disputed burials,
+* missing funerary objects,
+* ancestral claims,
+* ancient battlefields,
+* clan history,
+* tomb architecture,
+* old dwarven mysteries,
+* or situations where the official account of a death does not match the physical evidence.
 
 Diddi and Urn complement each other naturally:
 
@@ -825,13 +827,13 @@ Rezzen entered the original campaign already LE after years of service to Droska
 
 He carried forward:
 
-- tireless labor,
-- extraordinary endurance,
-- contempt for comfort,
-- willingness to suffer,
-- willingness to make others suffer,
-- relentless pursuit of an objective,
-- and a strong belief that ends often justify means.
+* tireless labor,
+* extraordinary endurance,
+* contempt for comfort,
+* willingness to suffer,
+* willingness to make others suffer,
+* relentless pursuit of an objective,
+* and a strong belief that ends often justify means.
 
 He redirected all of that toward Magrim and toward preventing catastrophes like Geryon’s plot.
 
@@ -892,15 +894,15 @@ Urn treats corpses as **evidence**, not scenery.
 
 Where other adventurers see a skeleton, he notices:
 
-- burial posture,
-- whether remains were moved,
-- weapon marks,
-- missing grave goods,
-- clan identifiers,
-- funerary preparation,
-- whether kin performed the burial,
-- whether rites were interrupted,
-- and whether the official date or manner of death makes sense.
+* burial posture,
+* whether remains were moved,
+* weapon marks,
+* missing grave goods,
+* clan identifiers,
+* funerary preparation,
+* whether kin performed the burial,
+* whether rites were interrupted,
+* and whether the official date or manner of death makes sense.
 
 He should be methodical rather than gloomy.
 
@@ -912,16 +914,16 @@ Urn is a strong **level-1-friendly companion NPC** because he contributes expert
 
 His useful areas include:
 
-- Religion,
-- Medicine,
-- dwarven history,
-- genealogy,
-- funerary rites,
-- tombs and burial architecture,
-- battlefield remains,
-- identifying corpses,
-- ancient inscriptions,
-- and disciplined defensive monk combat.
+* Religion,
+* Medicine,
+* dwarven history,
+* genealogy,
+* funerary rites,
+* tombs and burial architecture,
+* battlefield remains,
+* identifying corpses,
+* ancient inscriptions,
+* and disciplined defensive monk combat.
 
 He can accompany a party because the **dead matter to the mission**, not because Diddi hired muscle.
 
@@ -949,3 +951,4 @@ The escalation is therefore:
 
 **Urn** — ordinary field investigation.
 **Rezzen / “Risen”** — this has become a serious Magrimite matter.
+
