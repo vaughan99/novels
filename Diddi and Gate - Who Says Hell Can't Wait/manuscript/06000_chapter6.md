@@ -108,11 +108,11 @@ Gate pulled forth a copy of the parchment. Several copies actually, and started 
 
 He looked the big "A" right in the eye. “I intend to make it real estate.”
 
-The big "A" stood there, deed in hand, his left eye twitching.
+The big "A" stood there, parchment in hand, his left eye twitching.
 
 There arose a round of applause. From the dwarves. The angels. The townsfolk. Even a few of the big "A"'s own people.
 
-But the big "A" merely turned, his giant black cloak swinging the air. Voop. He left. The deed fell from his hands, and landed harmlessly on the ground.
+But the big "A" merely turned, his giant black cloak swinging the air. Voop. He left. The parchment fell from his hands, and landed harmlessly on the ground where it burned into a poof of ash.
 
 I looked over at Deadline. I'd never seen his hands move so fast. He was writing, drawing, measuring. I'd also never seen him so happy. He ignored the gods, devils, angels, everything. He walked right up to Geryon and started noting every detail.
 
@@ -122,7 +122,9 @@ So, one by one, each of the devils, angels, gods, warriors and constructs all vo
 
 Also, the whirlpool collapsed on itself. I have to believe that water rushed into the room behind the Seal. Whatever _was behind_ the Seal is now under a mile of water. Good luck to anyone who wants to do a culinary archaeological dig.
 
-Wings vooped in, turned to Gate and smiled. Apparently she had been sent back to Mammon's palace to see what the initial reactions were. All positive.
+Wings vooped in, turned to Gate and smiled. I had never seen her smile until that moment. Then she handed Gate a piece of stamped parchment. I don't read Infernal, but I recognize an APPROVED stamp when I see one.
+
+Apparently she had been sent to the Fallen Fastness in Dis... that's where the Infernal Court has its Property and Claims Division. She had been sent the previous night to wait in its queue with the paperwork. She saw an Asmodean in the queue just behind her, hiding his paperwork. She said she filed just before he did.
 
 Gate turned and approached me. "Well, you mentioned your tent had thin walls. How would you like to relocate? Your divination skills are quite... _profitable_. And I can't envision a more secure place. I'm moving here myself, and I could use a partner, and a tenant."
 
