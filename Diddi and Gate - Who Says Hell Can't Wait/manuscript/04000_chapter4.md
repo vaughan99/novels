@@ -78,13 +78,15 @@ Finally, the thread led back to Geryon's notes. Again, through Mr. Dragon-Food's
 
 A Great Seal. Two sets of monks fighting. And pages upon pages of notes copied from a five-thousand-year-old Caulborn archive. Geryon had been reading those pages for years. Checking one account against another. Then checking them again.
 
-One name kept appearing in his notes. _Feznark_. Geryon had traced it through other ancient writings. A real name, it turned out, for a Great Old One. Not a name you want to shout across a crowded room, honeydew.
+One name kept appearing in his notes. _Feznark_. Geryon had traced it through other ancient writings. A real name, it turned out, for a Great Old One. Not one anybody ever talks about, even pointy-bearded scholars.
 
 There was another name in the margins. _Fezzark_. One rune different. Something about an old Caulborn royal dish. Goat, radishes, some weed I couldn't pronounce. Geryon had noticed that too. He'd even written down the possibility that someone had confused the names.
 
 And dismissed it. Who builds a Seal like that to protect a supper recipe?
 
-Well, I agreed with him. At the time. I mean, have you ever had boiled goat and radishes? Not worth five thousand years of security, I can tell you.
+I bet you're wondering how I can read Caulborn, or Infernal. I can't honeydew. But I wasn't _reading_ words on the page, as much as I was _reading_ the thoughts of Mr. Dragon-Food. And he understood everything just fine.
+
+Well, I agreed with Geryon and Mr. Dragon-Food on the impossibility of _Fezzark_ being behind the seal. At the time. I mean, have you ever had boiled goat and radishes? Not worth five thousand years of security, I can tell you.
 
 And in Geryon's drawing? Something behind the Seal. Enormous. Shapeless. Something older than old. It had hungering eyes. It was patiently staring at the Seal. Waiting for it to open.
 
