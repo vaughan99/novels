@@ -44,6 +44,10 @@ Looking for more work?
 
 First of all, maybe you can look into what happened to Shoeless. With all our work lately, I almost totally forgot he went missing.
 
+That key in Guard Dog's gullet? Still there. Made of mithral which I don't think is digestible. So, if you can coax it out of him, AND you're willing to travel all the way to Num-teria, then you might find something worth selling to Gate.
+
+Gate has told me that extracting the key would be considered a _favor_ that he will be happy to repay. Guard Dog apparently carried the key in his gullet into Gate's vault, which created quite the... interesting... accounting problem for Gate, since he didn't register _that_ in _his_ ledger. If Mammon's Unholy Auditors catch _that_, there would be _questions_. Quill might have something to say about it technically still being an item in escrow, but I'm not sure that claim survives digestion.
+
 Now that Deadline is back to writing for _Sufferer's Digest_, he mentioned something about a girl who found wandering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
 
 She has no memory of who she is. She landed in the local orphanage... I can give you the address.
