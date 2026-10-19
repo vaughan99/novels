@@ -10,9 +10,7 @@ Mop has his slate of services. Off-the-books. I'd say he's a good bargain, if ch
 
 Shoes? He's not a fighter. Don't go stealing him from me either. But he's good at looking like a snot-nosed kid asking stupid questions. He works for silver. Always dresses the same though. Not sure what he's saving up for.
 
-Don't forget there's that cabal of doppelgangers out there. I'd help you track them down if you find more evidence.
-
-Speaking of which, if you're having street trouble, track down Gendarme. Depending on the problem, he may even go on field trips. His help, though, is very... quid pro quo. Expect to serve in a posse or two.
+If you're having street trouble, track down Gendarme. Depending on the problem, he may even go on field trips. His help, though, is very... quid pro quo. Expect to serve in a posse or two.
 
 Now, Deadline is a master of medicine, but to get him to help you, you'll have to give interviews. Don't expect any anonymity either.
 
@@ -44,21 +42,23 @@ Looking for more work?
 
 First of all, maybe you can look into what happened to Shoeless. With all our work lately, I almost totally forgot he went missing.
 
+Don't forget there's that cabal of doppelgangers out there. I'd help you track them down if you find more evidence.
+
 That key in Guard Dog's gullet? Still there. Made of mithral which I don't think is digestible. So, if you can coax it out of him, AND you're willing to travel all the way to Num-teria, then you might find something worth selling to Gate.
 
-Gate has told me that extracting the key would be considered a _favor_ that he will be happy to repay. Guard Dog apparently carried the key in his gullet into Gate's vault, which created quite the... interesting... accounting problem for Gate, since he didn't register _that_ in _his_ ledger. If Mammon's Unholy Auditors catch _that_, there would be _questions_. Quill might have something to say about it technically still being an item in escrow, but I'm not sure that claim survives digestion.
+Gate has told me that extracting the key would be considered a _favor_ that he will be happy to repay. Guard Dog apparently carried the key in his gullet into Gate's vault, which created quite the... interesting... accounting problem for Gate. Something about one asset eating another asset already in escrow. If Mammon's Unholy Auditors catch _that_, there would be _questions_. I'm sure Gate could claim ignorance, but I'm not sure that claim survives digestion.
 
-Now that Deadline is back to writing for _Sufferer's Digest_, he mentioned something about a girl who found wandering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
+Now that Deadline is back to writing for _Sufferer's Digest_, he mentioned something about a girl who was found wandering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
 
 She has no memory of who she is. She landed in the local orphanage... I can give you the address.
 
-What got her on Deadline's beat was that she led a group of kids from the orphanage out late one night to explore one of the graveyards. When they got scared, she started... glowing. And what was shocking was that she also... was _shocking_. People that is. Well, and the horde of zombies from Ankar-Te that strolled by.
+What got her on Deadline's beat was that she led a group of kids from the orphanage out late one night to explore one of the graveyards. When the others got scared, she started... glowing. And what was shocking was that she also... was _shocking_. People that is. Well, and the horde of zombies from Ankar-Te that strolled by.
 
 Then she started _vooping_. Well, not _vooping_, more like _zhipping_. She becomes a lightning bolt when other people get scared. Not all the time, mind you, just when things get truly frightening.
 
-Deadline is planning an exclusive three-segment series on her. The loneliness of being a kid that scares others. The interviews with her _victims_ when she passed through them as a lightning bolt. And the pain of not knowing who she really is.
+Deadline is planning an exclusive series on her psychological trauma. If she can stand still long enough to be interviewed, I suppose.
 
-Finally, there's Gate. He has a number of needs. There are still a number of Geryon's secrets that are resisting becoming Mammon's secrets. Also, he is sometimes willing to offer some serious infernal muscle, but you'll learn pretty quick that Wings is cheap compared to him.
+Finally, there's Gate. There are still a number of Geryon's secrets that are resisting becoming Mammon's secrets. Forget hiring him as muscle, because he's too busy and you can't afford him. Unless you _can_. I'm sure he'll let you know.
 
 So now, give your name to Quill, and your occupation. Then tell me what you brought.
 

@@ -60,9 +60,13 @@ I looked Rezzen in the eye. "When I cut, pull into your mind every image of Tora
 
 That session was intense. Almost too intense for this old troll, honeydew.
 
-Now what do I even remember about that session? The threads went deep. The snake devil of secrets, Geryon, writhing in his lair in Stygia. That's _his_ level of Hell, to you and me. Whispering commands. Agents dropping by every hundred years or so. Mentioning research.
+Now what do I even remember about that session? The threads went deep. The snake devil of secrets, Geryon, writhing in his lair in Stygia. That's _his_ level of Hell, to you and me.
 
-One of the agents mentioned the key. He hadn't obtained it yet, but he knew where it could be found.
+Understand that Geryon's lair is protected ten times over from scrying and earnest divination. But. He couldn't protect his agents memories, especially ones that died before he could wipe them.
+
+And guess whose eyes were let into Geryon's secret workshop? You guessed it. Mr. Dragon-Food.
+
+He mentioned the mithral key. He hadn't obtained it yet, but he knew where it could be found.
 
 What's the name of the land? Numb-eria? Noomteria? I forget. It's a land of walking metal and strange blinking monstronsities.
 
@@ -70,7 +74,7 @@ The thing is, the key isn't really a key. It's a light scrambler. The vault it o
 
 Well, I should say... they were important enough not to throw away the key, honeydew. We saved that for another day.
 
-Finally, the thread led back to Geryon's notes. And there it was. 
+Finally, the thread led back to Geryon's notes. Again, through Mr. Dragon-Food's eyes. And there it was. 
 
 A Great Seal. Two sets of monks fighting. And pages upon pages of notes copied from a five-thousand-year-old Caulborn archive. Geryon had been reading those pages for years. Checking one account against another. Then checking them again.
 
