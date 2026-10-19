@@ -1,5 +1,5 @@
 import { mkdir } from "node:fs/promises";
-import { spawnSync } from "node:child_process";
+import { spawnSync, execFileSync } from "node:child_process";
 import path from "node:path";
 
 const buildTimestamp =
@@ -14,9 +14,14 @@ const buildTimestamp =
     timeZoneName: "short",
     }
   );
+
+
 const buildCommit =
-  process.env.GITHUB_SHA?.slice(0, 7) ?? "local";
-  
+  process.env.GITHUB_SHA?.slice(0, 7) ??
+  execFileSync("git", ["rev-parse", "--short=7", "HEAD"], {
+    encoding: "utf8",
+  }).trim();
+
 export function renderManuscriptHtml(buildDir, mdFile) {
     console.log('Rendering Manuscript HTML');
 
