@@ -106,7 +106,7 @@ If he infiltrated the Closers, he could help prevent the opening, which obviousl
 
 So of course... we both chose the Openers. Now Rezzen may seem like a straight-and-narrow monk to you now, but his formative years under Droskar? That man has a back-stabbing streak in him. And boy was he all-too-willing to stick it to the Openers.
 
-It took a week to get our next lead. Rezzen checked in every day... he didn't have a lot of patience for street-level investigation work.
+It took a week to get our next lead.
 
 Now these _Brothers of the Seal_ still have bodily needs. They need air. They need water. And they need to eat. So they need someone, either up here or down there, to provide food. Being monks, they can survive on little. But it ain't nothing, honeydew, and what Shoes found out knocked my socks off. Figuratively.
 
@@ -116,15 +116,15 @@ Did I mention that I like this kid?
 
 Rezzen's eyes lit up when Shoes told him. There wasn't much we at the shop could do but wait at that point. Rezzen disappeared for what seemed like a month.
 
-Most of them were slow, but there were some interesting cases.
+Most of the cases in the interim were boring, but there were some interesting cases.
 
-One of the slow days, a goblin appeared at my door. She called herself a Knight of the Holy Order of Goblinite Avengers.
+One case involved a goblin appearing at my door. She called herself a Knight of the Holy Order of Goblinite Avengers.
 
 What?
 
 Quill asked, "Do you have an appointment?"
 
-She said, and I quote: "Die... dogs of hell."
+She said, and I quote: "Die... dogs of hell!"
 
 Mop pointed at her and started laughing. Quill vooped. And I just stared at her. She charged in.
 
@@ -138,9 +138,9 @@ She can't read, but she flipped through the pictures in the prayer book, and fou
 
 She took the paladin's banded mail, bent it to her body, removed the extra bands, and broke the bastard sword to make it more... usable... to a goblin. She knew that knights had lances, but this one didn't. So she named the pack pony "Lance", and made it her warhorse.
 
-The two set off in the direction the paladin was heading... Kaer Maga. Aint desperately wants to become a paladin, but she keeps running into that foul nature of hers. 
+She desperately wants to become a paladin, but she keeps running into that foul nature of hers. 
 
-Now, she thinks she's Iomedae, but she Aint Iomedae. And that's what we call her.
+Now, she thinks she's a knight of Iomedae, but she Aint Iomedae. And that's what we call her.
 
 Another slow day, a girl was brought by the headmistress of the orphanage. She was found wandering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
 
@@ -248,15 +248,9 @@ What if someone had changed just one rune in that old book? Not to make a lie ou
 
 Also, Geryon may be one of the most intelligent devils there ever was, but he'd never spent time around royals and their dinner recipes. Remember, these were diviners, honeydew. If you've got a secret recipe with herbs and spices, and your neighbor can read your tea leaves, you better keep it somewhere safer than a wooden box in your kitchen.
 
-Something tipped him off to the contents. Or... something tipped him off to the contents _he wanted to see_.
-
 And then it hit me.
 
 The big "A" didn't need to tell Geryon a thing. He only needed Geryon to find that name for himself. Something dangerous. Something _disastrous_. Something to obsess over for millennia.
-
-I couldn't tell you what was actually behind the Seal. Maybe it was a monster. Maybe it was dinner. I wasn't opening it to find out.
-
-Whichever it was going to be, it was going to be extra spicy.
 
 I need two melons. Mmmmm... let's... slurp... take a break.
 

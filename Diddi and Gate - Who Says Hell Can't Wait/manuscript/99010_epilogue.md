@@ -26,7 +26,7 @@ Blood-Drop lives nearby too. He's always looking for people to impress. Hiring h
 
 Aint Iomedae keeps coming to see me. But not to _slay_ me. Maybe I'm Golarion's cheapest paladin counselor. You can see her often outside Greenhalo's tent trying to get an audience, but really is super eager to join Gendarme's posses. For the experience. I'll bet she'll join you for free. Just understand she's a goblin. Who has zero fear. Let that sink in. 
 
-Rezzen? He's still around, and his Last Citadel Magrimite monks are useful for investigating around death. If you're bound for Ankar-Te or a vampire's den and you need someone to counteract those _negative vibes_, you could do worse than getting one of Rezzen's guys into your party. I believe the one we call Urn is available for a contribution to the Last Citadel's coffers. Just ask any dwarf where the temple of Magrim is. And if Urn starts _staring at things_, let him.
+Rezzen? He's still around, and his Last Citadel monks are useful for investigating around death. If you're bound for Ankar-Te or a vampire's den and you need someone to counteract those _negative vibes_, you could do worse than getting one of Rezzen's guys into your party. I believe the one we call Urn is available for a contribution to the Last Citadel's coffers. Just ask any dwarf where the temple of Magrim is. And if Urn starts _staring at things_, let him.
 
 Oh, and there's Wings. But you'd better have some serious magic or coin to trade. She's a Mammonite, honeydew. You have to make her help worth her time.
 
@@ -42,7 +42,7 @@ That key in Guard Dog's gullet? Still there. Made of mithral which I don't think
 
 Gate has told me that extracting the key would be considered a _favor_ that he will be happy to repay too. Guard Dog apparently carried the key in his gullet into Gate's vault, which created quite the... interesting... accounting problem for Gate. Something about one asset eating another asset already in escrow. If Mammon's Unholy Auditors catch _that_, there would be _questions_. I'm sure Gate could claim ignorance, but I'm not sure that claim survives digestion.
 
-Now that Deadline is back to writing for _Sufferer's Digest_, he always has items he needs me to focus on. And then he heads off to find the story. I'm sure he'd let you tag along so long as he gets your exclusive. Especially if you catch a gangrenous barbed arrow to the crotch, or get mangled by a band of orcs.
+Now that Deadline is back to writing for _Sufferer's Digest_, he always has items he needs me to focus on. And then he heads off to find the story. I'm sure he'd let you tag along so long as he gets your exclusive. Especially if you catch a gangrenous barbed arrow to the crotch.
 
 Finally, there are still a number of Geryon's secrets that are resisting becoming Mammon's secrets. Gate can fill you in on those.
 
