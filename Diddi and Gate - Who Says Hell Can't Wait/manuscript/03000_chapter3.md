@@ -24,7 +24,7 @@ Quill started. "Ahem. Name and occupation?"
 
 "Rezzen Shadowgit. Pledge of Magrim."
 
-Now, Magrim is the god of the dwarven dead. He obsesses about unresolved blood feuds, mispelled runes on grave markers, and chronicling the length of men's beards when they die. Or something like that.
+Now, Magrim is the god of the dwarven dead. He obsesses about unresolved blood feuds, misspelled runes on grave markers, and chronicling the length of men's beards when they die. Or something like that.
 
 Quill's eyes grew wide as he scratched it on the page.
 
@@ -52,27 +52,37 @@ Well, that was utterly unhelpful.
 
 "I can't tell you."
 
+Behind Rezzen I heard furious scratching in Quill's ledger. I shook my head at Quill. "Off the record."
+
+Quill grumbled, ripped the page and crumpled it. He dipped it in a can of bacon grease he kept on the far edge of his desk. He threw it at Mop, who promptly ate it.
+
 "What can you tell me?"
 
 "I used to work for Droskar. I was tasked with finding out how to break another seal... the seal to Torag's vault. Droskar wanted to steal ideas from his inventions. Copy them. That's when Magrim found me."
 
 Oooh, spicy.
 
-"Was one of the grave markers mispelled? Did you forget your beard measuring tape?"
+"Was one of the grave markers misspelled? Did you forget your beard measuring tape?"
 
 He sat there unsmiling. No loosening up this guy.
-
-"Magrim found you? You call yourself a pledge of Magrim now?"
-
-Behind Rezzen I heard furious scratching in Quill's ledger. I shook my head at Quill. "Off the record."
-
-Quill grumbled, ripped the page and crumpled it. He dipped it in a can of bacon grease he kept on the far edge of his desk. He threw it at Mop, who promptly ate it.
 
 "So Magrim _sent_ you."
 
 Rezzen thought hard on the answer. Monks always think hard before they answer any question.
 
-"I... suppose."
+"I sent... me."
+
+"Hold on, how does a monk working for a slave-master like Droskar suddenly become a monk working for the... most... boring dwarven... oh wait, I get it."
+
+Rezzen kept staring. I could tell in those cold eyes of his.
+
+"He appealed to your sense of duty to the dead, honor, and your uncanny ability to stare at things."
+
+I almost got a smile out of him. "He found me patiently investigating the crypts of the architects of Torag's Vault. He appealed to my... diligence. My..."
+
+I cut in. "Uncanny ability to stare at things."
+
+"Yes. And I was tired of being a slave."
 
 "Was it a vision, an avatar, or did he come to you personally?"
 

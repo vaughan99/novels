@@ -116,7 +116,7 @@ But the big "A" merely turned, his giant black cloak swinging the air. Voop. He 
 
 I looked over at Deadline. I'd never seen his hands move so fast. He was writing, drawing, measuring. I'd also never seen him so happy. He ignored the gods, devils, angels, everything. He walked right up to Geryon and started noting every detail.
 
-Deadline took a break from _Sufferer's Digest_ and went solo. He got a major award for his five-part book series: "The Death of Geryon, A Profile In Cosmic-Level Embarrassment". Once we get a copy, I'll let you read it. It's on back-order for the next few years I heard.
+Deadline took a break from _Sufferer's Digest_ and went solo. He got a major award for his five-part book series: "The Death of Geryon: A Profile In World-Ending Embarrassment". Once we get a copy, I'll let you read it. It's on back-order for the next few years I heard.
 
 So, one by one, each of the devils, angels, gods, warriors and constructs all vooped away. Leaving Gate standing, hands on hips, staring at Geryon's corpse. His corpse was turning to stone at that point.
 
@@ -140,9 +140,7 @@ But it means he has to keep the common iron too. And anything else I get as paym
 
 Didn't take long for Gate to open doorways into Geryon's body. He's found a world of goodies hidden in there. Can't go into it all, but let's say there's doorways to things you can only dream of. Now his transition to pit-fiend is probably a matter of months.
 
-Once you get stronger, Gate might even have some work for you. Not every secret Geryon owned wants to... co-operate... with "asset ownership transition". You get the picture.
-
-Oh, and don't try to go down. It's guarded by the largest mimic you ever saw. Let's call him "Guard Dog". 
+Oh, and don't try to go down. The entrance is guarded by the largest mimic you ever saw. Let's call him "Guard Dog". He knows the smell of us here at the shop, but that's it. 
 
 Didn't I tell you that story? About the mimic child. I think I did. Anyway, the two hedge wizards didn't want it, and it needed a home. Quill filed it under "escrow" and, well, it ate the escrow chest. And it _became_ the escrow chest. He's a good "Guard Dog". _Yes he is_.
 

@@ -84,7 +84,7 @@ There was another name in the margins. _Fezzark_. One rune different. Something 
 
 And dismissed it. Who builds a Seal like that to protect a supper recipe?
 
-I bet you're wondering how I can read Caulborn, or Infernal. I can't honeydew. But I wasn't _reading_ words on the page, as much as I was _reading_ the thoughts of Mr. Dragon-Food. And he understood everything just fine.
+I bet you're wondering how I can read Caulborn, or Infernal. I can't honeydew. But I wasn't _reading_ words on the page, as much as I was _reading_ the thoughts of Mr. Dragon-Food. And he understood everything just fine. And he had been discussing fragments of Geryon's research too. At least the parts that mattered to my entrails.
 
 Well, I agreed with Geryon and Mr. Dragon-Food on the impossibility of _Fezzark_ being behind the seal. At the time. I mean, have you ever had boiled goat and radishes? Not worth five thousand years of security, I can tell you.
 
@@ -116,9 +116,41 @@ Did I mention that I like this kid?
 
 Rezzen's eyes lit up when Shoes told him. There wasn't much we at the shop could do but wait at that point. Rezzen disappeared for what seemed like a month.
 
-You can ask Quill how many cases we had in the meantime. Nothing nearly as interesting as this. It was pretty hard to stay focused. But we managed.
+Most of them were slow, but there were some interesting cases.
 
-Finally Rezzen walked back through the tent. And he carried with him... a fragment of a tablet. That was it.
+One of the slow days, a goblin appeared at my door. She called herself a Knight of the Holy Order of Goblinite Avengers.
+
+What?
+
+Quill asked, "Do you have an appointment?"
+
+She said, and I quote: "Die... dogs of hell."
+
+Mop pointed at her and started laughing. Quill vooped. And I just stared at her. She charged in.
+
+Luckily, she got knocked out when I bopped her on the head. When she came to, Mop had tied her up and I was reading her.
+
+She's from Isger. She was walking on a road and she came upon a lady paladin dead. Attacked by other goblins. Very sad.
+
+She started looking through the paladin's belongings, and found Iomedae's holy symbol, a prayer book, a suit of banded mail, a bastard sword, and a pack pony. Warhorse was dead.
+
+She can't read, but she flipped through the pictures in the prayer book, and found Iomedae fighting monsters and demons, finally landing her in heaven. She really liked what she saw in that heaven, and swore to be a holy warrior of Iomedae to get there.
+
+She took the paladin's banded mail, bent it to her body, removed the extra bands, and broke the bastard sword to make it more... usable... to a goblin. She knew that knights had lances, but this one didn't. So she named the pack pony "Lance", and made it her warhorse.
+
+The two set off in the direction the paladin was heading... Kaer Maga. Aint desperately wants to become a paladin, but she keeps running into that foul nature of hers. 
+
+Now, she thinks she's Iomedae, but she Aint Iomedae. And that's what we call her.
+
+Another slow day, a girl was brought by the headmistress of the orphanage. She was found wandering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
+
+She had no memory of who she was.
+
+So I did a reading. There wasn't much to focus on, and I didn't want to grab the hands of a homeless girl, so the reading didn't tell us much. Only she walked out of the Flickering Tower before it vooped away.
+
+The headmistress also told me that when other people get scared around her, she starts _zhipping_. Not vooping. She starts off with some light zapping. But when things get truly frightening, she becomes a lightning bolt. That frightened me just thinking about it. That's probably when I decided to start calling her Flicker.
+
+Finally, after that slow month, Rezzen walked back through the tent. And he carried with him... a fragment of a tablet. That was it.
 
 He mentioned that he had infiltrated the Openers _and_ Closers. He got closer to both than I thought possible. And at the heart of their dispute was a tablet. And each side had half the tablet. 
 
