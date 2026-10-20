@@ -82,7 +82,7 @@ I sized him up. Can he muscle through a crowd with a basket of melons? Yeah, I t
 
 The boy looked around the shop nervously. "Where's the one you called 'Mop'?"
 
-He looked up. I forgot, in the old tent, Mop liked to hang from the tent poles. So yes, there was something to look up to here in this location too. Sorry if I'm confusing you.
+He looked up. I forgot, in the old tent, Mop liked to hang from the tent poles. So yes, there was something to look up to there as well. Sorry if I'm confusing you.
 
 Mop stared down at him. I think he might have been eating a cat. Fur fell to the floor.
 
@@ -110,7 +110,7 @@ The boy started to give his true name. I held up my hand.
 
 "No true names for employees here, kid. True names are power. You want to keep your soul in your shirt around infernals? We use bynames only."
 
-I say that, but it's probably donkey manure. I just like handing out names. It's like starting a whole new identity. The past can be so boring.
+I like handing out names. It's like starting a whole new identity. The past can be so boring.
 
 "Shoes. You're Shoes."
 

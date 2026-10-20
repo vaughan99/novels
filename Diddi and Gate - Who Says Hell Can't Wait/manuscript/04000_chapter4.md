@@ -36,7 +36,7 @@ Now, that may not sound all that helpful. But it was actually brilliant.
 
 These agents were looking for ways to open things. An odd key. Taking out a rogue agent tasked with opening something else.
 
-It was all about _opening_ things. Things that were never meant to be opened at the _wrong_ time. Finally, something I could relate to.
+It was all about _opening_ things. And we had three such things in the case.
 
 A mysterious key to some unknown door.
 
@@ -56,15 +56,15 @@ Mop must have heard the urgency. Mop doesn't have wings, but Mop sure did fly to
 
 This was the first time Mop and Quill didn't fight... well, over anything. Quill fetched the key from the chest, and placed it in Mop's quivering hands. In two leaps, he had it on the table touching my hand.
 
-I looked Rezzen in the eye. "When I cut, pull into your mind every image of Torag's Vault you can. Think of the agents you fought. Think of the key you found. And for the sake of Magrim, don't let go."
+I looked Rezzen in the eye. "When I cut, pull into your mind every image of Torag's Vault you can. Think of the agents you fought. Think of the interrogation that told you about the Brothers of the Seal. Think of the key you found. And for the sake of Magrim, don't let go."
 
 That session was intense. Almost too intense for this old troll, honeydew.
 
-Now what do I even remember about that session? The threads went deep. The snake devil of secrets, Geryon, writhing in his lair in Stygia. That's _his_ level of Hell, to you and me.
+Now what do I even remember about that session? The threads went deep. They went sideways. The snake devil of secrets, Geryon, writhing in his lair in Stygia. That's _his_ level of Hell, to you and me.
 
-Understand that Geryon's lair is protected ten times over from scrying and earnest divination. But. He couldn't protect his agents memories, especially ones that died before he could wipe them.
+Understand that Geryon's lair is protected ten times over from scrying and earnest divination. And guess whose eyes were let into Geryon's secret workshop? You guessed it. Mr. Dragon-Food.
 
-And guess whose eyes were let into Geryon's secret workshop? You guessed it. Mr. Dragon-Food.
+Geryon probably had a ritual to occasionally wipe his agents' memories. But once Mr. Dragon-Food became dragon food, it was too late. And that gave me the way in that I needed.
 
 He mentioned the mithral key. He hadn't obtained it yet, but he knew where it could be found.
 

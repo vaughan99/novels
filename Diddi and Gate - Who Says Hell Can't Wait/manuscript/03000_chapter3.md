@@ -284,7 +284,7 @@ Quill pulled out the Diddi blood ledger, accounts receivable.
 
 "How many do you need?"
 
-Blood-Drop grabbed one of the shelf. Apparently he already had a needle in his neck. Didn't bother to ask. He just hooked it up to the jar.
+Blood-Drop grabbed one off the shelf. Apparently he already had a needle in his neck. Didn't bother to ask. He just hooked it up to the jar.
 
 My blood flowed in. Wow. Didn't know my blood was all that powerful.
 

@@ -14,7 +14,7 @@ I smiled. I always smile. I love their reactions. I read them... _before_ I read
 
 But no, _I_ didn't say a word. Not yet.
 
-His eyes looked at Quill, nose-deep into his ledger. "Who else would I be speaking to? You must not have heard my question, young man. I'll pose it again. Do you have... a _reservation_?”
+His eyes looked at Quill, nose-deep into his ledger. Quill shook his head and said, "Who else would I be speaking to? You must not have heard my question, young man. I'll pose it again. Do you have... a _reservation_?”
 
 The client looked up, then looked at me, then back at Quill.
 
@@ -104,7 +104,7 @@ He narrowed his eyes. "You'd know that because you've been... married?"
 
 I laughed. "No, honeydew. I know that because every man I've ever known looks right past that bit of linen to their wife's..."
 
-Quill's pen broke. That sometimes happens when he is writing too fast. He reached under the desk. I think he generally keeps over a hundred perfect goose feather pens under there.
+Quill's pen broke. That sometimes happens when he is writing too fast. He reached under the desk. I think he keeps over a hundred perfect goose feather pens under there.
 
 The client went pale.
 
@@ -112,7 +112,7 @@ The client went pale.
 
 He relaxed.
 
-Underneath him, something snickered.
+Underneath the table, something snickered.
 
 “Mop,” Quill said.
 
