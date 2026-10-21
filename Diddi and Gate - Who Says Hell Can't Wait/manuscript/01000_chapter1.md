@@ -408,31 +408,13 @@ Something beneath the obvious secret. Sneaking out of the house at night clearly
 
 That is where the good secrets live.
 
-I reached deeper.
+I reached deeper, but I sensed Mop's teeth smiling at me again.
 
-Mop inhaled and broke my concentration.
+"Mop, shut your teeth."
 
-“Don’t," I said.
+Quill wasn't helpful. "I think you meant shut your mouth."
 
-“I didn’t do anything.”
-
-“You breathed.”
-
-“I need air.”
-
-“You’re a quasit.”
-
-“So?”
-
-“So I don’t trust anything you need.”
-
-Quill nodded.
-
-“Sensible.”
-
-Mop pointed at him.
-
-“Infernal crack-tosser! Shut your ink-hole.”
+Mop pointed at him. “Infernal crack-tosser! Shut your ink-hole.”
 
 Quill’s eye twitched.
 

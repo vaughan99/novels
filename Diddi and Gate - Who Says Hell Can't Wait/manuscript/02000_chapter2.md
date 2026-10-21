@@ -36,13 +36,13 @@ That case was slightly interesting. His wife was actually a doppelganger and a s
 
 That's the thing about this town. Nobody's in charge, but everyone's in charge of their street. I mean, everyone who can handle problems themselves. Don't cross anybody, and you'll get along just fine here. Really. Cross someone, and well, you'll find out about street justice. Kaer Maga style.
 
-What is that style? Well, we have the Church of the Abiding Vigilante. It's a sect of the Church of Abadar. We have one of them on our street... I call him Gendarme.
+What is that style? Well, we have the Church of the Abiding Vigilante. It's a new sect of the Church of Abadar. We have one of them on our street... I call him Gendarme.
 
-You'll recognize him as the one with crossbow and cesti. If he sees locals arguing, he'll referee a fist-fight to get commerce flowing again. Quick. Efficient.
+You'll recognize him as the one with crossbow and cesti. If he sees locals arguing, he'll referee a fist-fight or maybe a drinking game to get commerce flowing again. Imagine two vampires locked in a drinking game, honeydew. You heard me.
 
-But if he sees a thief stealing, or a murder, he'll organize a posse. And he'll hunt you down.
+But if he gets a complaint about a thief stealing, or a murder, he'll organize a posse. And he'll hunt you down.
 
-Don't cross them. They're all inquisitors.
+They're quick and efficient. Don't cross the Abiding Vigilantes. They're all inquisitors. And they insist on order, especially because there's no law.
 
 And now let me welcome you to our business: Diddi & Gate Investigative Divinations, Inc. That's the proper name. But if you just say "Diddi's" anywhere in town, they'll know what you mean.
 
