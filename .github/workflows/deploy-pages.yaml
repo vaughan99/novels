@@ -42,13 +42,23 @@ jobs:
 
           sudo dpkg --install /tmp/pandoc.deb
 
+      - name: Install LuaLaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            texlive-luatex \
+            texlive-latex-extra \
+            texlive-fonts-recommended \
+            fonts-lmodern
+
       - name: Verify build tools
         run: |
           node --version
           npm --version
           pandoc --version
+          lualatex --version
 
-      - name: Build HTML and EPUB
+      - name: Build HTML, EPUB, MSDOC, PDF
         run: npm run build-all
 
       - name: Configure Pages

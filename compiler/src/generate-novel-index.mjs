@@ -3,6 +3,7 @@
 import { readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import process from 'node:process';
+import { buildTimestamp, buildCommit } from './version.mjs';
 
 const EXCLUDED_DIRECTORIES = new Set([
   '.git',
@@ -93,7 +94,10 @@ async function generateNovelIndex() {
 </head>
 <body>
   <main>
-    <h1>Novel Directory</h1>
+    <h2>Novels</h2>
+    <h6>Build Timestamp: ${ buildTimestamp }</h6>
+    <h6>Build Commit: ${ buildCommit }</h6>
+    <hr/>
     <ul>
 ${navigation}
     </ul>
