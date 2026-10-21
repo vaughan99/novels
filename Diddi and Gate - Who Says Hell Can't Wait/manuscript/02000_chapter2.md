@@ -92,9 +92,9 @@ Mop just stared at the boy. The boy stared at him.
 
 Mop dropped to the ground and threw the remains of his lunch in the black bucket. He then fetched a tablet where he had scratched things.
 
-"While you're out chatting up the blood-bags, the least you can do is spread word about my side business."
+"Hey! Booger-bag! Tell the other booger-bags I do jobs. Good jobs!"
 
-On the tablet were words and prices. "Jump-scares on your enemies, one slab of meat. Hauntings, two slabs of meat. To _stop_ the hauntings, four slabs of meat. Hunting down vermin, negotiable, but usually free."
+On the tablet were words and prices. "Jump-scare, one meat-slab. Hauntings, two meat-slab. _Stop_ hauntings, FOUR meat-slab! Vermin-hunting, free (until full)."
 
 Quill rubbed his temples. Shoes just sat there, speechless.
 
