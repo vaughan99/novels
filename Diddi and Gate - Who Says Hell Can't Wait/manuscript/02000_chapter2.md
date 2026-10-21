@@ -120,4 +120,4 @@ I flipped him two silver. One for his daily pay, and one for the sweet melons.
 
 He couldn't wait to run to the market. And out of my tent. Did I mention he was a smart kid?
 
-Now, what makes us so famous?
+Now, what makes us so famous? Hint: It wasn't our good manners.

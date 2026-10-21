@@ -2,7 +2,7 @@
 
 So that's when Rezzen walked back through the tent flap.
 
-Mop was licking up blood, alternating between crying over having missed out on Chamberpot Fireball Armageddon, and ecstatic because, well, he's licking up my blood. Quill is trying to determine how to categorize the inventory loss, and Blood-Drop is out the door mumbling about finding more leeches.
+Mop was licking up blood, alternating between crying over having missed out on Chamberpot Fireball Armageddon, and ecstatic because, well, he's licking up my blood. Quill was trying to determine how to categorize the inventory loss, and Blood-Drop was out the door mumbling about finding more leeches.
 
 Rezzen ignored all of it. I envied him. Focus is its own kind of magic, wielded by only the precious few who see past the superficial details around them to set their mind on just one.
 

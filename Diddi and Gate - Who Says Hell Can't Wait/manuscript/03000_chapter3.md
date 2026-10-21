@@ -4,7 +4,7 @@ Anyway, _that's when_ the duergar entered the tent. I barely looked at him.
 
 "Ascetics typically go to Greenhalo. She'll tell you about your afterlife."
 
-Typical. Monks and their questions. "Am I on the right path? Have I sacrificed my _entire life_ for some meaningless soul journey? Or should I have listened to my father and be an accountant."
+Typically monks have their inevitable questions. "Am I on the right path? Have I sacrificed my _entire life_ for some meaningless soul journey? Or should I have listened to my father and be an accountant."
 
 Don't tell Quill I said that.
 
