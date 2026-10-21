@@ -108,29 +108,28 @@ export function renderManuscriptDocX(buildDir, mdFile) {
 
 export function renderManuscriptPdf(buildDir, mdFile) {
     console.log('Rendering Manuscript PDF');
+    try {
+        const result = spawnSync(
+            "pandoc",
+            [
+                "manuscript.md",
+                "--defaults=./pandoc/pdf.yaml",
+                `--metadata=build-timestamp:${buildTimestamp}`,
+                `--metadata=build-commit:${buildCommit}`,
+                "--output=manuscript.pdf",
+            ],
+            {
+                stdio: "inherit",
+                shell: false,
+                cwd: buildDir
+            },
+        );
 
-    const result = spawnSync(
-        "pandoc",
-        [
-            "manuscript.md",
-            "--defaults=./pandoc/pdf.yaml",
-            `--metadata=build-timestamp:${buildTimestamp}`,
-            `--metadata=build-commit:${buildCommit}`,
-            "--output=manuscript.pdf",
-        ],
-        {
-            stdio: "inherit",
-            shell: false,
-            cwd: buildDir
-        },
-    );
-
-    if (result.error) {
-        throw result.error;
-    }
-
-    if (result.status !== 0) {
-        process.exit(result.status ?? 1);
+        if (result.error) {
+            throw result.error;
+        }
+    } catch (err) {
+        console.error('Unable to generate PDF. Latex may not be installed.');
     }
 }
 
