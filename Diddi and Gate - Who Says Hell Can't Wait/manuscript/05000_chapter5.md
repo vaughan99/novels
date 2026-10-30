@@ -52,7 +52,7 @@ So Rezzen went back with the tablet and the bracers. At first, Rezzen said, it d
 
 While they were down in the Underdark putting up their fake battle, I had a visit from my favorite investigative reporter. Let's call him Deadline.
 
-Deadline is from the land of worshippers of Zon-Kuthon. Your average Kuthite loves to be shaven bald, pierced, and adorned with black leather and spiked chains. Deadline looks more like a professor or academic. And he has a head of long grey hair.
+Deadline is from the land of worshippers of Zon-Kuthon, Nidal. Your average Kuthite loves to be shaven bald, pierced, and adorned with black leather and spiked chains. Deadline looks more like a professor. And he has a head of long grey hair.
 
 Deadline works for a periodical called _Sufferer's Digest_. Maybe you've heard of it. They publish "feel-good" stories about pain, trauma, and suffering. You know, to lift the spirits of those weirdos who are into that sort of thing.
 
@@ -60,7 +60,7 @@ And the country of Nidal is filled with them. Paying customers, all looking for 
 
 But then again, who am I to judge?
 
-When Deadline walked in this time, it was clear he had been listening too much. 
+When Deadline walked in this time, it was clear he had been listening too much. He was writing in his magic journal, the one he and his editor write to each other in. One writes, the other sees it wherever they are.
 
 "Miss Diddi, can I get you on the record about how you feel, dooming all of Golarion to a painful agonizing death at the hands of a Great Old One?"
 

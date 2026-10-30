@@ -94,11 +94,11 @@ That's when the big "A" stepped forward, took his giant mace, and smacked Geryon
 
 Then, there was one last voop.
 
-It was Gate. And he had a stack of infernal parchment under one arm, and a sack of platinum coins in the other.
+It was Gate. And he had a stack of infernal parchment under one arm, a sack of platinum coins in the other, and a small sand-glass tied to his neck.
 
 The big "A" turned, walked ten steps back behind his bodyguards, and prepared to give a grand speech just as Geryon gave his last breath.
 
-But, Gate stepped forward. He took one of the lances, freed it, took a piece of parchment, and just after Geryon's final breath, pinned the parchment to his body.
+But, Gate stepped forward. He took one of the lances, freed it, took a piece of parchment, and just after Geryon's final breath, pinned the parchment to his body. He took out a small book and a piece of charcoal, and wrote a mark.
 
 Gate then turned. "Excuse me!"
 
@@ -113,13 +113,13 @@ Gate pulled forth a copy of the parchment. Several copies actually, and started 
 “I, the devil commonly known as Gate, my true name being withheld pursuant to infernal custom and protections against unauthorized invocation, hereby lay claim to the presently unclaimed asset consisting of the mortal remains, materials, fluids, organs, attached portals, fixtures, contents, and derivative interests of Geryon, formerly of Stygia.
 “Said asset presently rests upon the world of Golarion, in the city of Kaer Maga, Oriat District, outside the territorial possession of Stygia, and is, at the moment of filing, unencumbered by any prior perfected claim. Geryon, having originated as an asura rana rather than a devil, possesses no posthumous claim to infernal remains under the protections afforded to native devils.
 “Therefore, pursuant to the Doctrine of First Possession, commonly rendered ‘Finders Keepers,’ under First Premises, Article One, Title Two, Subsection Three, I hereby perfect possession on behalf of Mammon. All subsequent claims thereto shall be deemed null and void, without recourse or appeal. All rights, titles, interests, and privileges of possession are hereby reserved exclusively to Mammon, his agents, assigns, and successors in perpetuity.
-"In furtherance of this claim, Mammon hereby assumes the outstanding property liabilities arising from Geryon's destruction of the surrounding structures and improvements, and shall discharge those liabilities pursuant to the established Kaer Magan custom of 'You-Break-It, You-Buy-It.' Such reimbursement shall constitute consideration for the transfer of the affected properties into Mammon's possession, with compensation payable to surviving owners or their lawful heirs."
+"In furtherance of this claim, Mammon hereby assumes the outstanding property liabilities arising from Geryon's destruction of the surrounding structures and improvements, and shall discharge those liabilities pursuant to the established Kaer Magan custom of 'You-Break-It, You-Buy-It.' Such reimbursement shall constitute consideration for the transfer of the affected properties into Mammon's possession, with compensation payable to surviving owners or their lawful heirs. The Caulborn vault, Seal, and enclosing structure at the bottom of this shaft, having no tenants, agents, or surviving owners, shall be included in this claim, and form the boundary of the claim."
 
-He drew a deep breath, then continued.
+He drew a deep breath, then continued. He took another look at the book, waited another breath's worth of time, and spoke.
 
-"The paperwork has already been filed in Dis. This notification is merely a... courtesy."
+"The paperwork has already been filed in Dis... just... NOW. This notification is merely a... courtesy."
 
-He looked the big "A" right in the eye with a big smile. “I intend to open Kaer Maga's first Bank of Mammon. Now please step aside, I need to mark where the future entrance shall go.”
+He snapped the book closed and looked the big "A" right in the eye with a big smile. “I intend to open Kaer Maga's first Bank of Mammon.”
 
 The big "A" stood there, parchment in hand, his left eye twitching.
 
@@ -127,17 +127,21 @@ There arose a round of applause. First from the townsfolk. Then from the dwarves
 
 But the big "A" merely turned, his giant black cloak swinging in the air. Voop. He left. The parchment fell from his hands, and landed harmlessly on the ground where it burned into a poof of ash.
 
-I looked over at Deadline. I'd never seen his hands move so fast. He was writing, drawing, measuring. I'd also never seen him so happy. He ignored the gods, devils, angels, everything. He walked right up to Geryon and started noting every detail.
-
-Deadline took a break from _Sufferer's Digest_ and went solo. He got a major award for his five-part book series: "The Death of Geryon: A Profile In World-Ending Embarrassment". Once we get a copy, I'll let you read it. It's on back-order for the next few years I heard.
+I looked over at Deadline. He was searching his pack for his journal, and for the first time in his life, he couldn't find it. That grown man cried. At least for a moment.
 
 So, one by one, each of the devils, angels, gods, warriors and constructs all vooped away. Leaving Gate talking to survivors and heirs, marking property lines, and occasionally stopping to stare at Geryon's corpse. His corpse was turning to stone at that point, and the fissure that he opened was in the center of his coils.
 
-Wings vooped in, turned to Gate and smiled. I had never seen her smile until that moment. Then she handed Gate a piece of stamped parchment. I don't read Infernal, but I recognize an APPROVED stamp when I see one.
+Wings vooped in, turned to Gate and smiled. She had a book in her hands as well.
+
+I had never seen her smile until that moment. Then she handed Gate a piece of stamped parchment. I don't read Infernal, but I recognize an APPROVED stamp when I see one.
 
 Apparently she had been sent to the Fallen Fastness in Dis... that's where the Infernal Court has its Property and Claims Division. She had been sent the previous night to wait in its queue with the paperwork. She saw an Asmodean in the queue just behind her, hiding his paperwork. She said she filed just before he did.
 
-Gate didn't miss a beat. "All affected property owners or their heirs please step forward for compensation. Please have your deeds or other proof of ownership in hand. Thank you."
+The two books in the Gate and Wings' hands also looked _very_ familiar. I nudged Deadline to take a look, and lo and behold, Wings had stolen the two journals... one from Deadline, and one from his editor. Wings and Gate had used them to coordinate the filing.
+
+Deadline marched right up to Wings and held out his hand. Wings smiled, politely said "thank you", and handed him his journal. She took the other journal from Gate, and vooped away. Deadline got confirmation a few minutes later that his editor had gotten his back too.
+
+Gate didn't miss a beat. He turned to the crowd. "All affected property owners or their heirs please step forward for compensation. Please have your deeds or other proof of ownership in hand. Thank you."
 
 After he made all the contacts he needed to secure the purchase of the ruins Gate turned and approached me. "Well, you mentioned your tent had thin walls. How would you like to relocate? Your divination skills are quite... _profitable_. And I can't envision a more secure place. I'm moving here myself. There's a lot of work to make that fissure and the Seal's vault into one super-vault. I could use a partner, and a tenant while I do the build-out. I can put you right... there, under the archway made by that coil."
 
@@ -151,7 +155,7 @@ And we struck a deal. I'd move my business here, in the remains of Geryon's ston
 
 But it means he has to keep the common iron too. And anything else I get as payments. It's funny to think there's a coop full of chickens being guarded as closely as a stack of platinum bars. But hey, this is Kaer Maga. Stranger things happen here.
 
-Didn't take long for Gate to open doorways in Geryon's brain. He's found a world of goodies hidden in there. Can't go into it all, but let's say there's doorways to things you can only dream of. Now his transition to pit-fiend is probably a matter of months.
+Didn't take long for Gate to open doorways in Geryon's brain. He's found a world of goodies hidden in there. Can't go into it all, but let's say there's doorways to things you can only dream of. Now Gate's promotion to pit-fiend is probably just a formality.
 
 Oh, and don't try to go down. The entrance is guarded by the largest mimic you ever saw. Let's call him "Guard Dog". He knows the smell of us here at the shop, but that's it. 
 
@@ -159,7 +163,7 @@ Didn't I tell you that story? About the mimic child. I think I did. Anyway, the 
 
 By the way, if you go looking for the hundred-tooth mithral key, you'll need to coax it out of Guard Dog. It's somewhere down in his gullet. Good luck with that.
 
-Once I finally moved in, Gate had a present for Quill. Now, you must know, Mammon and his devils _never_ give presents. Unless they have a purpose.
+Once we finally moved in, Gate had a present for Quill. Now, you must know, Mammon and his devils _never_ give presents. Unless they have a purpose.
 
 So Gate presented Quill a silken wrapping with a bow-tie. Quill took it in his hands, shivering to find out what Gate had gotten him.
 

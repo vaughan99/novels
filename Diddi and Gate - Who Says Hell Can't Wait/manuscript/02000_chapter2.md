@@ -96,7 +96,7 @@ Mop dropped to the ground and threw the remains of his lunch in the black bucket
 
 "Hey! Booger-bag! Tell the other booger-bags I do jobs. Good jobs!"
 
-On the tablet were words and prices. "Jump-scare, one meat-slab. Hauntings, two meat-slab. _Stop_ hauntings, FOUR meat-slab! Vermin-hunting, free (until full)."
+On the tablet were words and prices. "Jump-scare, one meat-slab. Hauntings, two meat-slab. Personal tour of Kaer Maga, Three meat-slab. _Stop_ hauntings, FOUR meat-slab! Vermin-hunting, free (until full)."
 
 Quill rubbed his temples. Shoes just sat there, speechless.
 

@@ -1,6 +1,8 @@
 # Epilogue
 
-So that's how we ended up here.
+So that's how we ended up here. That day has been called many things, but my favorite is "The Recipe For Disaster." If we ever have a pot-luck dinner with the Church of the big "A", we're bringing Fezzark. The recipe was quite elaborate. Gate hired the best imp chef he could find... and... it truly does taste awful. I think of it as a way to deliver poison at royal weddings when you hate the family of the bride or groom. Truly something that belonged in a hidden vault after all. I'm sure they'll love it though.
+
+I know, I can go on and on. Let's start focusing on you again.
 
 What's that you say? You think your problem may be a little too hard? Need help?
 
@@ -14,13 +16,9 @@ Remember the doppelganger's husband? I now refer folks to him for selling common
 
 If you're having street trouble, track down Gendarme. Depending on the problem, he may even go on field trips. His help, though, is very... how do infernals say? _Quid pro quo_? Expect to serve in a posse or two.
 
-Now, Deadline is a master of medicine, but to get him to help you, you'll have to give interviews. Don't expect any anonymity either.
+Deadline took a break from _Sufferer's Digest_ and went solo. Once he finally got his journal back, that is. He got a major award for his five-part book series: "The Death of Geryon: A Profile In World-Ending Embarrassment". Once we get a copy, I'll let you read it. It's on back-order for the next few years I heard.
 
-Kuthites are big fans of experiencing pain, but death is something they hate, because it cuts short the _experience_ of suffering. And the only way to tell your readers how to reproduce the same effects of what they're reading is to be a doctor. He can tell you the safest ways to experience the same thing.
-
-He's also a fairly good illusionist, artist, and writer. He communicates with his editor by weaving illusions into his stories and sending them via their shared notebooks... ones that see what the other is writing. Nifty piece of magic.
-
-Deadline likes to hang out at our business sometimes, trying to get a scoop on his next piece. 
+But now he's back on the _Sufferer's Digest_ beat. If you're going somewhere dangerous, he's always game to tag along. He's not much for fighting, but he's a hell of a writer, artist, doctor, and occasional illusionist. Just don't expect anonymity when he gets around to interviewing you for your exclusive.
 
 Blood-Drop lives nearby too. He's always looking for people to impress. Hiring him shouldn't be too expensive... just make sure he keeps my blood jars out of his veins until he's ready to make things explode. And try to get his brother's wrinkle cream formula, will you?
 
@@ -45,8 +43,6 @@ Gate has told me that extracting the key would be considered a _favor_ that he w
 Now that Deadline is back to writing for _Sufferer's Digest_, he always has items he needs me to focus on. And then he heads off to find the story. I'm sure he'd let you tag along so long as he gets your exclusive. Especially if you catch a gangrenous barbed arrow to the crotch.
 
 Finally, there are still a number of Geryon's secrets that are resisting becoming Mammon's secrets. Gate can fill you in on those.
-
-One final note: We're having a pot-luck dinner with the Church of the big "A" tomorrow. We're bringing Fezzark. The recipe was quite elaborate. And it truly does taste awful. I think it as a way to deliver poison at royal weddings when you hate the family of the bride or groom. Truly something that belonged in a hidden vault after all. I'm sure they'll love it.
 
 Gate. Gate! Stop that infernal hammering, will you! You can build out your vault after they leave. And take down that ridiculous _Future Site of Bank of Mammon_ sign. We're not even finished moving in!
 
