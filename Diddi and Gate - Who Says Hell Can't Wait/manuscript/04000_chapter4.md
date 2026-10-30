@@ -78,9 +78,9 @@ Now settle in honeydew, because this is going to take three melons and half of Q
 
 There are some people who are insane. There are some people that want the world to end. And Ysyyr put them all to shame. And he was good at hiding it too. You see, he was a studier of the Great Beyond. And he had been studying the Great Seal for a _very_ long time. And he became convinced that his ancestors didn't create the Seal for just any reason, or even to be part of Tar-Baphon's prison for that matter. They created the Seal to hide a vault.
 
-He was studying the records from the Caulborn libraries one day, and he happened upon a book of Seal lore, hidden behind some other books. Looked like it hadn't been touched in millennia. It took him five years to figure out how to open the locked book. In it, he found supposed secrets of the royal family. Now, it mentioned a vault behind the Seal, mentioned in only one other account. It went on and on about how dangerous the contents were.
+He was studying the records from the Caulborn libraries one day, and he happened upon a book of Seal lore, hidden behind some other books. Looked like it hadn't been touched in millennia. It took him five years to figure out how to open the magically locked book. In it, he found supposed secrets of the royal family.
 
-And that the contents were something called "Fezzark". Which, according to ten other accounts in the library, was a recipe for goat's head stuffed with radishes, yazanka weed, and other herbs and spices. It was served at royal functions.
+Now, it mentioned a vault behind the Seal, mentioned in only one other account. It went on and on about how dangerous the contents were. And that the contents were something called "Fezzark". Which, according to ten other accounts in the library, was a recipe for goat's head stuffed with radishes, yazanka weed, and other herbs and spices. It was served at royal functions. It also said that the contents of the vault were so dangerous, it should _never_ be opened. _Ever_.
 
 How could a goat's head dish be so dangerous?
 
@@ -88,9 +88,9 @@ In the margins, someone had written in the ancient tongue, that the rune for "zz
 
 Only the other word was exactly what Ysyyr was after.
 
-"Feznark"... a Great Old One so rare that it was only mentioned twice in all of Great Beyond lore. Now, I don't expect you've heard of Feznark, but the two accounts Ysyyr had read from Great Beyond scholars said to run away fast if you ever heard the name.
+In Ysyyr's drawings? Something behind the Seal. Enormous. Shapeless. Something older than old. It had hungering eyes. It was patiently staring at the Seal. Waiting for it to open.
 
-So, what's more likely? The hidden vault behind a nearly impenetrable Seal held a nasty, horrible royal goat recipe "Fezzark", or a Great Old One "Feznark".
+"Feznark"... a Great Old One so unknown that it was only mentioned twice in all of Great Beyond lore. Now, I don't expect you've heard of Feznark, but the two accounts Ysyyr had read from Great Beyond scholars said to run away fast if you ever heard the name.
 
 Ysyyr couldn't figure out anything more until the Brothers stopped fighting over the Seal. Ysyyr did what any respectable, totally insane zealot would do... pray to Geryon.
 
@@ -100,15 +100,11 @@ Geryon _loves_ devastating secrets. And Geryon loves to unleash those secrets. S
 
 Once the Seal was broken, Ysyyr and Geryon got to work sifting through the pieces.
 
-By the way, did you know Geryon had a whole army of millions of imps whose only job was to copy books and study their contents for hidden meanings. He had the largest copied library in all of existence. Funny.
-
 So Ysyyr found the hidden vault under the Seal. Then they needed a way to open it. But Ysyyr was getting suspicious of Geryon's motives. Ysyyr wanted the Great Old One to _know_ that _he_ let him loose on Golarion. Ysyyr was convinced that Feznark would reward him with everlasting lordship over Golarion. Geryon just wanted to let the monster loose and claim souls from the destruction while he was at it.
 
-So of course Geryon had Ysyyr killed by Droskar's agents, and reasoned he'd work with Droskar to open the vault. And that's where they were.
+So of course Geryon had Ysyyr killed using Droskar's agents, and reasoned he'd work with Droskar to open the vault. And that's where they were.
 
 Now, as for the notes, I bet you're wondering how I can read Caulborn, or Infernal. I can't honeydew. But I wasn't _reading_ words on the page, as much as I was _reading_ the thoughts of Mr. Dragon-Food. And he understood everything just fine. And he had been discussing fragments of Geryon's research too. At least the parts that mattered to my entrails.
-
-In Ysyyr's drawings? Something behind the Seal. Enormous. Shapeless. Something older than old. It had hungering eyes. It was patiently staring at the Seal. Waiting for it to open.
 
 Few things give this old troll a chill down the spine, honeydew. It took me an hour to recover from that session.
 
@@ -150,11 +146,9 @@ She started looking through the paladin's belongings, and found Iomedae's holy s
 
 She can't read, but she flipped through the pictures in the prayer book, and found Iomedae fighting monsters and demons, finally landing her in heaven. She really liked what she saw in that heaven, and swore to be a holy warrior of Iomedae to get there. I wouldn't say the goblin's an idiot, just an easy target for religious mass marketing, I suppose.
 
-She took the paladin's banded mail, bent it to her body, removed the extra bands, and broke the bastard sword to make it more... usable... to a goblin. She knew that knights had lances, but this one didn't. So she named the pack pony "Lance", and made it her warhorse.
+She re-worked the paladin's banded mail and broke the bastard sword to make it more usable to a goblin. She knew that knights had lances, but this one didn't. So she named the pack pony "Lance", and made it her warhorse.
 
-She desperately wants to become a paladin, but she keeps running into that foul nature of hers. 
-
-Now, she thinks she's a knight of Iomedae, but she Aint Iomedae. And that's what we call her. I told her that I wasn't cross with her, but others in Kaer Maga would be if she kept up this nonsense. We came to an agreement... she would find others to work with until she was strong enough to take on all of Kaer Maga.
+She desperately wants to become a paladin, but she keeps running into that foul nature of hers. She Aint Iomedae. And that's what we call her. I told her that I wasn't cross with her, but others in Kaer Maga would be if she kept up this nonsense. We came to an agreement... she would find others to work with until she was strong enough to take on all of Kaer Maga.
 
 Another slow day, a girl was brought by the headmistress of the orphanage. She was found wandering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
 
@@ -163,6 +157,8 @@ She had no memory of who she was.
 So I did a reading. There wasn't much to focus on, and I didn't want to grab the hands of a homeless girl, so the reading didn't tell us much. Only she walked out of the Flickering Tower before it vooped away.
 
 The headmistress also told me that when other people get scared around her, she starts _zhipping_. Not vooping. She starts off with some light zapping. But when things get truly frightening, she becomes a lightning bolt. That frightened me just thinking about it. That's probably when I decided to start calling her Flicker.
+
+Let me tell you, I had the shock of my life when she got scared of my entrails.
 
 Finally, after that slow few days, Rezzen walked back through the tent. And he carried with him a piece of a stone tablet.
 
@@ -194,9 +190,13 @@ Greenhalo doesn't like me. She doesn't like any of the other Augurs really. But 
 
 Now Greenhalo's tent is opulent. Silk. Fine furs. Gold and pearls decorate everything. So I of course refuse to sit down. I'm more of a get-to-the-point-troll than a wallow-in-my-lair-bathing-in-honey-troll, if you know what I mean.
 
-I told her about the Caulborn tablet, Geryon's notes, and the peculiar certainty with which he named the thing behind the Seal. She had her minions (she dresses them in silk and furs too... disgusting show of wealth in my _humble_ opinion) find her special silver platter for her reading.
+I told her about the Caulborn tablet, Geryon's notes, and the peculiar certainty with which he named the thing behind the Seal. She had her silk-swaddled minions find her special silver platter for her reading. Disgusting display of wealth.
 
-I had Mop go grab my wooden basin. More practical.
+Gate! Promise me you won't hire any silk-swaddled devils to handle the business.
+
+"HMMMM... I CAN ORDER THEM NOT TO WEAR SILK."
+
+Good enough. Anyway, I had Mop go grab my wooden basin. More practical.
 
 And we both did a reading together. We held hands. We held each other's entrails. We sang. We... gods, look at your face, honeydew. _I was kidding_! This wasn't some fairytale witch-reading! This was serious.
 
@@ -288,7 +288,7 @@ Now, why would Mammon even care? Here's where it gets interesting. You see, Mamm
 
 Mammon doesn't just answer to anybody though. You see, Mammon hands out prayers to his followers. But not for free.
 
-Prayers like these, the ones that go to Mammon, are given to the Prayer Auction. You heard me. Various underlings gather at the auction and bid on leads from prayers to prospects. Gate happened to be listening, judged the room, and put in a bid. I think he said he bid three Avernite imp-futures. Not sure what that means. Maybe you can figure out infernal economics better than I can.
+Prayers like these, the ones that seek Mammon's help, are given to the Prayer Auction on Erebus. Various underlings gather at the auction and bid on leads from prayers to prospects. Gate happened to be listening, judged the room, and put in a bid. I think he said he bid three Avernite imp-futures. Maybe you understand infernal economics better than me.
 
 So _Gate_ was given the permission to respond, so he was the one who answered. He smelled opportunity. _Real opportunity_.
 

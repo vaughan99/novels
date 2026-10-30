@@ -24,6 +24,10 @@ Rezzen was stoic. I think he just wanted his part in this to end, so he could go
 
 Wings didn't stick around. After Gate whispered to her, she vooped out. He must have given her an assignment.
 
+"THAT ASSIGNMENT CAME WITH A DEADLINE."
+
+Shhh.
+
 So, the next morning, here's how it went down.
 
 The city was still clueless. People were waking up like it was a normal day. Markets were starting to open.

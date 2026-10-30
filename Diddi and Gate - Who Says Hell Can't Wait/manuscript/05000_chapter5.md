@@ -2,6 +2,8 @@
 
 Now Gate's presence in my little tent was certainly shocking, but not _that_ shocking. He _vooped_ in and announced himself. Apparently devils do that occasionally.
 
+"YES... WE DO."
+
 Quill introduced himself. I think he was shaking in awe. He may have even peed a little.
 
 Now Mop, don't start making fun of Quill. You'd pee yourself too if Socothbenoth suddenly showed up to give you the spanking you deserve. Stop your pee-pee-dance and sit in the corner until my story's done.
@@ -24,7 +26,11 @@ To claim credit for it. To gloat. But, that would leave him vulnerable, to appea
 
 That's when Mammon received a request from Geryon. To send a representative to Kaer Maga on a moment's notice. To witness a grand event. The culmination of Geryon's power.
 
-Mammon told Gate. Gate smiled.
+Mammon told Gate.
+
+"THAT MADE ME HAPPY."
+
+Stop interrupting!
 
 Now, what was _really_ interesting is that Mammon also knew that the big "A" didn't try to put a stop to it. Whatever it was.
 
@@ -66,21 +72,13 @@ When Deadline walked in this time, it was clear he had been listening too much. 
 
 That's a _real_ problem. We really did need a venue change what with the tent being so easy to listen through, now that I think about it.
 
-I told him that he was about to make me cross. And he knew what that meant.
-
-He once did a full spread on how I cut myself over and over, and how I had lost feeling in my stomach. That truly disappointed him. 
-
-Then he wasn't interested in the wounds, but in the psychological trauma of losing the feeling in my stomach. That made me cross then. He might still have the scar I gave him. Not sure.
-
-So, back to the story. I said, "I need you to hold this story. Trust me."
+I said, "I need you to hold this story. Trust me."
 
 "If we're all doomed to die, what's the point of delaying the story?"
 
 "Because I don't think we're doomed."
 
-He seemed somewhat disappointed. I think he should write a piece about _his own disappointment_. He might learn a thing or two.
-
-I think he wanted to be doomed. Not to die, but to experience _the feeling_ of certain death coming. That's also something to write about.
+He seemed somewhat disappointed. I think he should write a piece about _his own disappointment_. I think he wanted to be doomed. Not to die, but to experience _the feeling_ of certain death coming. He should write a special on himself, while he's at it.
 
 He said, "I'll stay near but I've got a deadline for publication. I'm going with the story in two days unless I hear something new from you."
 
