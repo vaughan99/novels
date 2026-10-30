@@ -4,15 +4,15 @@ So that's how we ended up here.
 
 What's that you say? You think your problem may be a little too hard? Need help?
 
-Well, Quill's a good translator, knows several languages. And he is excellent at math. Don't have him create any contracts for you though... because, well, you know.
+Well, Quill's a good translator, knows several languages. And he is excellent at math. And he's good at writing contracts... the sort that are fiendishly good.
 
-Mop has his slate of services. Off-the-books. I'd say he's a good bargain, if chaos is your thing. He changes his prices pretty much minute by minute, so make sure the butcher has good prices that day.
+Mop has his slate of services. Off-the-books. I'd say he's a good bargain, if chaos is your thing. Just make sure the butcher has good prices that day.
 
 Shoes? He's not a fighter. Don't go stealing him from me either. But he's good at looking like a snot-nosed kid asking stupid questions. He works for silver. Always dresses the same though. Not sure what he's saving up for.
 
-Remember the doppelganger's husband? I now refer folks to him for selling common iron and trinkets. Name's Cobblestone, and we're on his route. You'll see his cart when the sun's high. He doesn't stay long though.
+Remember the doppelganger's husband? I now refer folks to him for selling common iron and trinkets. Name's Cobblestone, and we're on his route. You'll see his cart when the sun's high. He doesn't stay long though... remember, he doesn't like Geryon staring at him.
 
-If you're having street trouble, track down Gendarme. Depending on the problem, he may even go on field trips. His help, though, is very... quid pro quo. Expect to serve in a posse or two.
+If you're having street trouble, track down Gendarme. Depending on the problem, he may even go on field trips. His help, though, is very... how do infernals say? _Quid pro quo_? Expect to serve in a posse or two.
 
 Now, Deadline is a master of medicine, but to get him to help you, you'll have to give interviews. Don't expect any anonymity either.
 
@@ -46,6 +46,11 @@ Now that Deadline is back to writing for _Sufferer's Digest_, he always has item
 
 Finally, there are still a number of Geryon's secrets that are resisting becoming Mammon's secrets. Gate can fill you in on those.
 
+One final note: We're having a pot-luck dinner with the Church of the big "A" tomorrow. We're bringing Fezzark. The recipe was quite elaborate. And it truly does taste awful. I think it as a way to deliver poison at royal weddings when you hate the family of the bride or groom. Truly something that belonged in a hidden vault after all. I'm sure they'll love it.
+
+Gate. Gate! Stop that infernal hammering, will you! You can build out your vault after they leave. And take down that ridiculous _Future Site of Bank of Mammon_ sign. We're not even finished moving in!
+
 So now, give your name to Quill, and your occupation. Then tell me what you brought.
 
 And don't worry, Geryon won't bite you. He just likes to... stare.
+

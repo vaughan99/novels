@@ -6,13 +6,15 @@ The city of the strange more like. Every corner has a secret. Which keeps me in 
 
 What's my business, really?
 
-I'm a troll. I already said that. But not your average troll. Like the other Augurs. Funny how close that term is to "Ogres".
+I'm a troll. I already said that. But not your average troll. Like the other Augurs. Funny how close that term is to "Ogres". They all hate me.
 
-They hate me. Their divination comes as "grandiose". Self-important. Clueless really.
+First of all, many of the "Augurs" are fakers... Augur-Come-Latelys. They came after the divination powers were... decided. I don't give them the time of day.
+
+The other Augurs have real powers and repeat customers. Their divination comes as "grandiose". Self-important. They live for the "show".
 
 Want to win a war? Visit Torntusk. He'll give you a grand spectacle. Maps. Drawings. Legions of little lead figures he can move around the board.
 
-More interested in the divine? Visit Greenhalo. She's in with all the gods' divinations. She can tell you everything you need to know to land in Elysium when the ghost gives up your shell. "When you see Pharasma, tell 'er Greenhalo sent ya." Yeah, right.
+More interested in the divine? Visit Greenhalo. She's in with all the gods' divinations. She can tell you everything you need to know to land in Elysium when the ghost gives up your shell. She hires illusionists to add to the effect. Spectral lights, spooky ghosts, when all you want is a step-by-step guide to living the high after-life. "When you see Pharasma, tell 'er Greenhalo sent ya." Yeah, right.
 
 Nobody wanted to talk to the Augur that takes common iron or a couple of chickens for her tells. But that's what I do. I'm in it for the little guy... don't mean just halflings, neither. I mean the peasants. The soldiers. The... chambermaids. Ha. I like them.
 
@@ -120,4 +122,4 @@ I flipped him two silver. One for his daily pay, and one for the sweet melons.
 
 He couldn't wait to run to the market. And out of my tent. Did I mention he was a smart kid?
 
-Now, what makes us so famous? Hint: It wasn't our good manners.
+Now, what makes us so famous?

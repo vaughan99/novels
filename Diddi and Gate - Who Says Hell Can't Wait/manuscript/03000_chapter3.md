@@ -6,7 +6,7 @@ Anyway, _that's when_ the duergar entered the tent. I barely looked at him.
 
 Typically monks have their inevitable questions. "Am I on the right path? Have I sacrificed my _entire life_ for some meaningless soul journey? Or should I have listened to my father and be an accountant."
 
-Don't tell Quill I said that.
+No, Quill, it's just a figure of speech. Accounting is a truly honorable profession... to _petty little devils_.
 
 Are any of you monks, honeydew? It's hard for these old eyes to tell. Well, if you are, no offense.
 
@@ -30,29 +30,25 @@ Quill's eyes grew wide as he scratched it on the page.
 
 "Sit down," I said. "What's troubling you?"
 
-Rezzen looked me in the eye for a cold moment. "I'm looking for an organization. The Brothers of the Seal."
+Rezzen looked me in the eye for a cold moment. "I'm looking for someone named Ysyyr, and the Brothers of the Seal."
 
-I never had much occasion to think of the Brothers before that moment. Never came up. They apparently kept bickering a mile below Kaer Maga over a stupid door. Open the door. Close the door. Pick one. They fought wars over it.
+I heard the Brothers were dead. They apparently kept bickering a mile below Kaer Maga over a Seal. Open the Seal. Don't open the Seal. Pick one? The Whispering Way picked for them, killed them all, and destroyed their Seal. So that just left the Brothers with fighting over a place in line to see Pharasma.
+
+As for Ysyyr, I had no idea who that was.
 
 I frowned.
 
-"Do you have anything of theirs? Not sure how much I can tell you if I'm doing this reading cold."
+"Do you have anything of Ysyyr? Not sure how much I can tell you if I'm doing this reading cold."
 
 He shook his head.
 
 Damn. We'll have to do this the hard way.
 
-"What do you need _from them_? Maybe we can get a focus around your need instead of something they actually owned. You know, approach the problem sideways?"
+"What do you need _from this person_? Maybe we can get a focus around your need instead of something they actually owned. You know, approach the problem sideways?"
 
 "I can't tell you."
 
-Well, that was utterly unhelpful.
-
-"Who sent you?"
-
-"I can't tell you."
-
-Behind Rezzen I heard furious scratching in Quill's ledger. I shook my head at Quill. "Off the record."
+Well, that was utterly unhelpful. Behind Rezzen I heard furious scratching in Quill's ledger. I shook my head at Quill. "Off the record."
 
 Quill grumbled, ripped the page and crumpled it. He dipped it in a can of bacon grease he kept on the far edge of his desk. He threw it at Mop, who promptly ate it.
 
@@ -60,23 +56,23 @@ Quill grumbled, ripped the page and crumpled it. He dipped it in a can of bacon 
 
 "I used to work for Droskar. I was tasked with finding out how to break another seal... the seal to Torag's vault. Droskar wanted to steal ideas from his inventions. Copy them. That's when Magrim found me."
 
-Oooh, spicy.
+You don't know Droskar? Not many people do. He's a dwarven god who wants two things... free labor, and free ideas. For free labor, he makes you a slave. For free ideas, he just steals everyone else's.
 
-"Was one of the grave markers misspelled? Did you forget your beard measuring tape?"
+"Magrim found you? Did you show an unnatural affinity for measuring dead men's beards?"
 
 He sat there unsmiling. No loosening up this guy.
 
-"So Magrim _sent_ you."
+"Fine. So Magrim _sent_ you."
 
 Rezzen thought hard on the answer. Monks always think hard before they answer any question.
 
 "I sent... me."
 
-"Hold on, how does a monk working for a slave-master like Droskar suddenly become a monk working for the... most... boring dwarven... oh wait, I get it."
+"Hold on, how does a monk working for a slave-master like Droskar suddenly become a monk working for the... most... boring dwarven god... oh wait, I get it."
 
 Rezzen kept staring. I could tell in those cold eyes of his.
 
-"He appealed to your sense of duty to the dead, honor, and your uncanny ability to stare at things."
+"Magrim appealed to your sense of duty to the dead, honor, and your uncanny ability to stare at things."
 
 I almost got a smile out of him. "He found me patiently investigating the crypts of the architects of Torag's Vault. He appealed to my... diligence. My..."
 
@@ -106,13 +102,13 @@ He didn't even look down. "Assassins of Droskar. They didn't take kindly to me l
 
 "Your former buddies?"
 
-"They were _not_ my friends. After a brief interrogation, they said their next orders after killing me were to visit the Brothers of the Seal. They did not survive the interrogation."
+"They were _not_ my friends. After a brief interrogation, they said their orders were to kill a Caulborn named Ysyyr in the temple of the Brothers of the Seal, then kill some gnome, then kill me. They were successful in their first two missions. They did not survive the interrogation."
 
 "Did you happen to save anything of _theirs_?"
 
-You know, sometimes I get lucky. If I approach the sideways angle from yet another sideways angle, sometimes the two 'sideways' cancel each other out. But most of the time they just confuse the hell out of everyone involved. Me included.
+You know, sometimes I get lucky. If I approach the sideways angle from yet another sideways angle, sometimes the two 'sideways' cancel each other out. But most of the time they just confuse the hell out of everyone involved. Me included. This time I struck gold... no wait... make that... mithral.
 
-And this is where he surprised me. He produced a key. It looked strange. A hundred teeth. Mithral.
+He produced a key. It looked strange. A hundred teeth. Mithral.
 
 Quill even left his stool to come take a closer look. He brought his ledger and was about to draw it. I shook my head again. He went back to his stool, dejected.
 
@@ -126,7 +122,7 @@ How do I come up with a price for a duergar monk of Magrim who used to be a duer
 
 "Unless your vision proves that I need it."
 
-Ooooh, a gamble. Love it.
+Ooooh, I love gambles, honeydew.
 
 "Done."
 
@@ -160,9 +156,7 @@ The gnome stole the key.
 
 Stole it.
 
-From a dragon hoard. Sat there hundreds of years.
-
-Forgotten.
+From a dragon hoard. Sat there for two months.
 
 Backwards.
 
@@ -176,7 +170,7 @@ Snake emblem.
 
 Oh no, dragon.
 
-Eaten.
+Eaten. Man carrying the key and snake emblem? I'm calling him Mr. Dragon-Food.
 
 Dragon stared at key.
 
@@ -184,9 +178,9 @@ Threw it onto the hoard.
 
 I lurched back to reality.
 
-"You're looking for a snake emblem. A previous owner of the key carried one. Several centuries ago."
+"You're looking for a snake emblem. A previous owner of the key carried one. Two months ago."
 
-I described the emblem. It was an amulet, probably religious.
+I described Mr. Dragon-Food's emblem. It was an amulet, probably religious.
 
 "Bring me one of those medallions, and if it's connected, we'll know a lot more."
 
@@ -206,33 +200,13 @@ He looked at me shyly. Yeah, I know what you did. Takes balls kid, real balls.
 
 Shoes placed the basket near my chair, and asked if there was anything else. There's always something else.
 
-"I need you to ask the beggars about the Brothers of the Seal. Quietly. Tell them you're trying to settle a bet. Whether they actually exist."
+"I need you to ask the beggars about the Brothers of the Seal. Quietly. Say that you're trying to settle a bet to see if any are still alive. Do _not_ mention the name Ysyyr. Not yet."
 
 He nodded and left.
 
-Rezzen asked for something to clean his hands. Mop jumped to his side and offered his tongue.
-
-Quill took to wing and hovered over Mop, his stinger exposed.
-
-"Mop!"
-
-"Well..."
-
-"No licking the customers. No touching the customers. No looking at the customers." Quill was irate even by Quill's standards.
-
-Voop.
-
-This is what it looks like when Mop goes on strike.
-
-I handed Rezzen a clean, slightly moist towel. I kept those on hand.
-
-I don't remember what I used to moisten them that day.
-
-We'll add it to the laundry pile later. Another job I can give Shoes... laundry. I could finally afford laundry then. That felt luxurious.
-
 The next part I really hated, but if you want repeat business, sometimes you have to send your client to somebody else.
 
-"Remember how I said you needed to speak to Greenhalo, two tents down? Well, she _might_ be able to give you the goods on that medallion."
+I told Rezzen, "Remember how I said you needed to speak to Greenhalo, two tents down? Well, she _might_ be able to give you the goods on that medallion."
 
 His face gave no expression. He just stood up.
 
@@ -240,25 +214,9 @@ No thanks. He just left.
 
 Quill opened his exit ledger. "Diddi, how should I characterize the end of the session?"
 
-"Success. Failure. Write both."
+My eyes followed Rezzen out of the tent.
 
-"Hmmmm. I have no way to record both."
-
-"What?"
-
-"The space is a checkbox. Check for success. Ex for failure."
-
-"Invent a new mark."
-
-"Hmmmm. Circle? Circle. Implies something to be filled later."
-
-Mop reappeared.
-
-"Off-strike. Needed to witness the fat imp getting perplexed." He giggled.
-
-"Feral creature."
-
-"Jealous."
+"Unresolved," Quill mumbled as he wrote in his ledger.
 
 The next day, Blood-Drop the bloatmage... we call him that because you never know when he'll drop by, looked in on the shelf of troll blood. He seemed especially _needy_.
 
@@ -302,7 +260,7 @@ So I reached over. I'm usually pretty gentle for a 7000-year-old troll. I worked
 
 I grabbed him by the throat. That shut him up quick.
 
-He started waving his hands violently, casting his spells without a voice. I laughed. Shoulda learned metamagic, weirdo.
+He started waving his hands violently, casting his spells without a voice. I laughed. Shoulda learned metamagic, weirdo!
 
 I told him, "You do know that I'm going to have to charge you extra this time? This is the second time this month we've had this conversation."
 

@@ -4,27 +4,27 @@ Now Gate's presence in my little tent was certainly shocking, but not _that_ sho
 
 Quill introduced himself. I think he was shaking in awe. He may have even peed a little.
 
-Now Mop, don't start making fun of Quill. You'd pee yourself too if Socothbenoth suddenly showed up to give you the spanking you deserve. Go sit in the corner until my story's done.
+Now Mop, don't start making fun of Quill. You'd pee yourself too if Socothbenoth suddenly showed up to give you the spanking you deserve. Stop your pee-pee-dance and sit in the corner until my story's done.
 
 Now, where was I?
 
-Oh yes. Rezzen was there. So Gate and Rezzen met. And Gate told him what needed to be done.
+Oh yes. Rezzen was there. So Gate and Rezzen met. And we all shared the evidence. And Gate told him what needed to be done.
 
-Help the Openers. Open the Seal.
+Deliver the tablet to Geryon. But, don't make it _look like_ he delivered the tablet to Geryon. In other words, make him fight for it. And _win_.
 
-Pick your jaws up off the ground. You heard me right.
+Pick your jaws up off the ground. You heard me right. Gate had already figured out who the timing mattered to, and why.
 
 You see, Gate did a little digging. He has an Erinyes devil sidekick... let's call her Wings. She's really good at infiltration, kicking down doors, and kicking a little ass when needed. She's Gate's right-hand she-devil.
 
-She learned that Geryon was quietly pulling together his private bodyguards for a big move. Don't ask me how she figured that out. She must have connections. She might be part succubus. Scratch that, I don't think she has a seductive bone in her body.
+She learned that Geryon was quietly pulling together his private bodyguards for a big move. They were just waiting on one last detail of something. Don't ask me how she figured that out. She must have connections. She might be part succubus. Scratch that, I don't think she has a seductive bone in her body.
 
-So, not only was Geryon planning to open the Seal, but it looked like he was going to be present when he did.
+So, not only was Geryon planning to open the Feznark vault, but it looked like he was going to be present when he did.
 
 To claim credit for it. To gloat. But, that would leave him vulnerable, to appear on the surface of Golarion with only a small retinue of pit fiends for protection. That showed real confidence.
 
-That's when Mammon received a request from Geryon. To send a representative to Kaer Maga. To witness a grand event. The culmination of Geryon's power.
+That's when Mammon received a request from Geryon. To send a representative to Kaer Maga on a moment's notice. To witness a grand event. The culmination of Geryon's power.
 
-Mammon knew just who he would send. Gate.
+Mammon told Gate. Gate smiled.
 
 Now, what was _really_ interesting is that Mammon also knew that the big "A" didn't try to put a stop to it. Whatever it was.
 
@@ -32,29 +32,25 @@ Ordinarily, if the big "A" was about to be one-upped by one of the other archdev
 
 But he didn't. And that, honeydew, may have been the biggest clue of all.
 
-So Gate suggested Rezzen take the tablet back and give it to the Openers. To open the Seal. Because he knew, Geryon didn't have the whole story.
-
-Now, Geryon always had a plan to get the Closers half of the tablet. But Rezzen's infiltration of the Closers and stealing their half of the tablet complicated that plan. He accidentally killed all Geryon's insiders in the Closers. Which left the Closers stronger because 1. they were motivated, and 2. had nobody to sabotage them anymore.
-
-The problem then was that to reach the Openers with the Closers' part of the tablet, he had to pass through the Closers. They were convinced the Openers had stolen the tablet, and were laying siege to the Openers' citadel.
-
-Rezzen wasn't sure he could defeat the Closers, even with the Openers help. The Closers had always been stronger, and that's why the Seal had stayed closed for 5000 years.
+So Gate suggested Rezzen take the tablet back to the temple and wait for Droskar's agents to come take it for Geryon. Gate arranged for Droskar to know what Rezzen had found.
 
 Now, you're probably asking why Geryon didn't just take the tablet by force. You see, if he did, he wouldn't be the Devil of Secrets. He'd just be the Devil of Kicking-Down-A-Door-And-Taking-Tablets. He had an ego the size of the Stygian Hell, and he wanted to prove he could manipulate the situation to his favor like a master of secrets should.
 
-Back to Rezzen. Rezzen needed help, but it needed to be not-so-obvious infernal help. Gate gave Rezzen a pair of bracers. Not just any bracers.
+Rezzen needed help, but it needed to be not-so-obvious infernal help. He needed to put up a good fight, and only lose enough to believably retreat. Without the tablet.
 
-You see, he couldn't just send Wings with him. She'd stick out like a griffon at a zebra party. And give away the fact that he was receiving infernal help. Which would have tipped Geryon off, potentially.
+Gate gave Rezzen a pair of bracers. Not just any bracers.
+
+You see, he couldn't just send Wings with him. She'd stick out like a griffon at a zebra party. And give away the fact that he was receiving infernal help. Which would have tipped Droskar and Geryon off, potentially.
 
 Instead, he enchanted those bracers with Wings herself. He put an Erinyes _inside_ the bracers. To learn. To help. And to kick ass.
 
 She only agreed to it because she might learn a new way of fighting. _From the inside_. She's always looking for new ways to get an edge.
 
-She hated being trapped in those bracers. Let's just say it wasn't your average heroic duo.
+She hated being trapped in those bracers. Let's just say it wasn't your average heroic duo. She also hated being told to lose.
 
 So Rezzen went back with the tablet and the bracers. At first, Rezzen said, it didn't go well. She countermanded some of his moves. They fought each other as much as their enemies. But they worked it out.
 
-While they were down in the Underdark trying to get the Seal opened, I had a visit from my favorite investigative reporter. Let's call him Deadline.
+While they were down in the Underdark putting up their fake battle, I had a visit from my favorite investigative reporter. Let's call him Deadline.
 
 Deadline is from the land of worshippers of Zon-Kuthon. Your average Kuthite loves to be shaven bald, pierced, and adorned with black leather and spiked chains. Deadline looks more like a professor or academic. And he has a head of long grey hair.
 

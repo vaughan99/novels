@@ -1,4 +1,4 @@
-# Chapter Four: He Came Back
+# Chapter Four: The Comeback
 
 So that's when Rezzen walked back through the tent flap.
 
@@ -34,17 +34,15 @@ Rezzen sat there staring. He finally offered something truly useful. "The key di
 
 Now, that may not sound all that helpful. But it was actually brilliant.
 
-These agents were looking for ways to open things. An odd key. Taking out a rogue agent tasked with opening something else.
+These agents were looking for ways to open things. It was all about _opening_ things. And we had three such things in the case.
 
-It was all about _opening_ things. And we had three such things in the case.
+A mysterious key to some unknown door, assigned by Droskar to pick up that was once owned by Mr. Dragon-Food, an agent of Geryon.
 
-A mysterious key to some unknown door.
+Torag's Vault... assigned by Droskar to Rezzen.
 
-Torag's Vault.
+The seal at the center of the Brothers of the Seal where a guy named Ysyyr was assassinated by the same Droskar assassins.
 
-The seal at the center of the Brothers of the Seal.
-
-That's when it hit me.
+That's when it hit me. Droskar wants to open vaults to steal things and Geryon wants to open vaults for their secrets. If Geryon wanted a way to keep his hands clean, he'd hire Droskar to do his dirty work. Now, honeydew, that's what I call a win-win-win. That third "win"? That's me, winning.
 
 I wasted no time.
 
@@ -56,7 +54,7 @@ Mop must have heard the urgency. Mop doesn't have wings, but Mop sure did fly to
 
 This was the first time Mop and Quill didn't fight... well, over anything. Quill fetched the key from the chest, and placed it in Mop's quivering hands. In two leaps, he had it on the table touching my hand.
 
-I looked Rezzen in the eye. "When I cut, pull into your mind every image of Torag's Vault you can. Think of the agents you fought. Think of the interrogation that told you about the Brothers of the Seal. Think of the key you found. And for the sake of Magrim, don't let go."
+I looked Rezzen in the eye. "When I cut, pull into your mind every image of Torag's Vault you can. Think of the agents you fought. Think of the interrogation that told you about the Brothers of the Seal. Think of the key you found. And for the sake of Magrim's holiest-of-beards, don't let go."
 
 That session was intense. Almost too intense for this old troll, honeydew.
 
@@ -64,63 +62,79 @@ Now what do I even remember about that session? The threads went deep. They went
 
 Understand that Geryon's lair is protected ten times over from scrying and earnest divination. And guess whose eyes were let into Geryon's secret workshop? You guessed it. Mr. Dragon-Food.
 
-Geryon probably had a ritual to occasionally wipe his agents' memories. But once Mr. Dragon-Food became dragon food, it was too late. And that gave me the way in that I needed.
+Geryon probably had a ritual to occasionally wipe his agents' memories. But once Mr. Dragon-Food became literal dragon food, it was too late. And that gave me the way in that I needed.
 
-He mentioned the mithral key. He hadn't obtained it yet, but he knew where it could be found.
+So I saw one conversation. Geryon mentioned the mithral key. Mr. Dragon-Food hadn't obtained it yet, but he knew where it could be found.
 
 What's the name of the land? Numb-eria? Noomteria? I forget. It's a land of walking metal and strange blinking monstronsities.
 
-The thing is, the key isn't really a key. It's a light scrambler. The vault it opens? A simple door to some strange room where creatures from another world or plane did weird experiments on mortals. The contents of the room really weren't important.
+Geryon said it wasn't really a key to a normal lock. It was some kind of light refraction transposidexing... oh I forget. The vault it opens? A simple door to some strange room where creatures from another world or plane did weird experiments on mortals. The contents of the room really weren't important.
 
-Well, I should say... they were important enough not to throw away the key, honeydew. We saved that for another day.
+Well, I should say... they were important enough not to throw away the key, honeydew. We noted that in its own ledger, and saved that for another day. That had nothing to do with the Great Seal. It just verified that Geryon was after vault-opening things.
 
 Finally, the thread led back to Geryon's notes. Again, through Mr. Dragon-Food's eyes. And there it was. 
 
-A Great Seal. Two sets of monks fighting. And pages upon pages of notes copied from a five-thousand-year-old Caulborn archive. Geryon had been reading those pages for years. Checking one account against another. Then checking them again.
+Now settle in honeydew, because this is going to take three melons and half of Quill's sand-glass to explain.
 
-One name kept appearing in his notes. _Feznark_. Geryon had traced it through other ancient writings. A real name, it turned out, for a Great Old One. Not one anybody ever talks about, even pointy-bearded scholars.
+There are some people who are insane. There are some people that want the world to end. And Ysyyr put them all to shame. And he was good at hiding it too. You see, he was a studier of the Great Beyond. And he had been studying the Great Seal for a _very_ long time. And he became convinced that his ancestors didn't create the Seal for just any reason, or even to be part of Tar-Baphon's prison for that matter. They created the Seal to hide a vault.
 
-There was another name in the margins. _Fezzark_. One rune different. Something about an old Caulborn royal dish. Goat, radishes, some weed I couldn't pronounce. Geryon had noticed that too. He'd even written down the possibility that someone had confused the names.
+He was studying the records from the Caulborn libraries one day, and he happened upon a book of Seal lore, hidden behind some other books. Looked like it hadn't been touched in millennia. It took him five years to figure out how to open the locked book. In it, he found supposed secrets of the royal family. Now, it mentioned a vault behind the Seal, mentioned in only one other account. It went on and on about how dangerous the contents were.
 
-And dismissed it. Who builds a Seal like that to protect a supper recipe?
+And that the contents were something called "Fezzark". Which, according to ten other accounts in the library, was a recipe for goat's head stuffed with radishes, yazanka weed, and other herbs and spices. It was served at royal functions.
 
-I bet you're wondering how I can read Caulborn, or Infernal. I can't honeydew. But I wasn't _reading_ words on the page, as much as I was _reading_ the thoughts of Mr. Dragon-Food. And he understood everything just fine. And he had been discussing fragments of Geryon's research too. At least the parts that mattered to my entrails.
+How could a goat's head dish be so dangerous?
 
-Well, I agreed with Geryon and Mr. Dragon-Food on the impossibility of _Fezzark_ being behind the seal. At the time. I mean, have you ever had boiled goat and radishes? Not worth five thousand years of security, I can tell you.
+In the margins, someone had written in the ancient tongue, that the rune for "zz" and the rune for "zn" are very, very easy to confuse. One little extra dot on the rune, and you have a whole other word.
 
-And in Geryon's drawing? Something behind the Seal. Enormous. Shapeless. Something older than old. It had hungering eyes. It was patiently staring at the Seal. Waiting for it to open.
+Only the other word was exactly what Ysyyr was after.
+
+"Feznark"... a Great Old One so rare that it was only mentioned twice in all of Great Beyond lore. Now, I don't expect you've heard of Feznark, but the two accounts Ysyyr had read from Great Beyond scholars said to run away fast if you ever heard the name.
+
+So, what's more likely? The hidden vault behind a nearly impenetrable Seal held a nasty, horrible royal goat recipe "Fezzark", or a Great Old One "Feznark".
+
+Ysyyr couldn't figure out anything more until the Brothers stopped fighting over the Seal. Ysyyr did what any respectable, totally insane zealot would do... pray to Geryon.
+
+He shared one dirty little secret. The Seal was one of the three that that blocked Tar-Baphon from entering this world. That got Geryon's attention.
+
+Geryon _loves_ devastating secrets. And Geryon loves to unleash those secrets. So he tipped off The Whispering Way, who were happy to kill the Brothers and break the Seal. Geryon considered that a win, because the world got one step closer to Tar-Baphon coming back and murdering half the world. But he wasn't content with that.
+
+Once the Seal was broken, Ysyyr and Geryon got to work sifting through the pieces.
+
+By the way, did you know Geryon had a whole army of millions of imps whose only job was to copy books and study their contents for hidden meanings. He had the largest copied library in all of existence. Funny.
+
+So Ysyyr found the hidden vault under the Seal. Then they needed a way to open it. But Ysyyr was getting suspicious of Geryon's motives. Ysyyr wanted the Great Old One to _know_ that _he_ let him loose on Golarion. Ysyyr was convinced that Feznark would reward him with everlasting lordship over Golarion. Geryon just wanted to let the monster loose and claim souls from the destruction while he was at it.
+
+So of course Geryon had Ysyyr killed by Droskar's agents, and reasoned he'd work with Droskar to open the vault. And that's where they were.
+
+Now, as for the notes, I bet you're wondering how I can read Caulborn, or Infernal. I can't honeydew. But I wasn't _reading_ words on the page, as much as I was _reading_ the thoughts of Mr. Dragon-Food. And he understood everything just fine. And he had been discussing fragments of Geryon's research too. At least the parts that mattered to my entrails.
+
+In Ysyyr's drawings? Something behind the Seal. Enormous. Shapeless. Something older than old. It had hungering eyes. It was patiently staring at the Seal. Waiting for it to open.
 
 Few things give this old troll a chill down the spine, honeydew. It took me an hour to recover from that session.
 
-A Great Old One lay behind that Seal. Or so Geryon's notes had convinced me. And Geryon wanted to unleash it on the world.
+The _Feznark_ lay behind that Seal. Or so Ysyyr's notes had convinced us. And Geryon wanted to unleash it on the world.
 
 Did I mention that I always wanted to meet a god? If I could have, I would have marched straight into Stygia and told that devil the _what for_. I mean really, what the hell? Sorry, bad pun.
 
-But this all came full circle to something we already knew. We needed Rezzen to infiltrate the Brothers of the Seal. Now we knew why, but not how. The question is... which side?
+But this all came full circle to something we already knew. We needed Rezzen to get down there. The road was treacherous. There were probably still agents of Geryon, Whispering Way, or worse in the vicinity.
 
-We'll call them Openers and Closers. They had their own names, but I couldn't even pronounce them much less remember them.
-
-If he infiltrated the Openers, he could figure out how the Seal could be opened. Which would probably lead back to Geryon and more information about his game.
-
-If he infiltrated the Closers, he could help prevent the opening, which obviously was a _good thing_ for everyone on Golarion. But doesn't get us anywhere in the investigation.
-
-So of course... we both chose the Openers. Now Rezzen may seem like a straight-and-narrow monk to you now, but his formative years under Droskar? That man has a back-stabbing streak in him. And boy was he all-too-willing to stick it to the Openers.
+But first he had to find a way in. It wasn't like there was an advertisement for brazen adventurers to come take a look at the ruin of the Temple of the Seal in the Undercity.
 
 It took a week to get our next lead.
 
-Now these _Brothers of the Seal_ still have bodily needs. They need air. They need water. And they need to eat. So they need someone, either up here or down there, to provide food. Being monks, they can survive on little. But it ain't nothing, honeydew, and what Shoes found out knocked my socks off. Figuratively.
+Now these _Brothers of the Seal_ were dead. Shoes found that out pretty quick. But something stirred down near the temple, honeydew, and what Shoes found out knocked my socks off. Figuratively.
 
-You see, the beggars of Kaer Maga had a deal worked out with the Duskwardens to funnel shipments of food into the little crevices that led to the Underdark. Nothing worth noticing, really. A few loaves of bread. A basket of cabbage. Carried down there once a week and left. What did the beggars get in return? None of my concern. But... one of them made the deliveries, and Shoes figured out who.
+You see, the beggars of Kaer Maga had a deal worked out with the Duskwardens to funnel shipments of food into the little crevices that led to the Undercity for the Brothers who used to live down there. Nothing worth noticing, really. A few loaves of bread. A basket of cabbage. Carried down there once a week and left. What did the beggars get in return? None of my concern. But... after the Brothers and Ysyyr died, the beggars had no reason to keep the location secret anymore. Shoes snuck down there, and saw Ysyyr.
+
+Ysyyr's ghost, that is. And followed him for a bit. To the edge of the Seal Temple.
 
 Did I mention that I like this kid?
 
-Rezzen's eyes lit up when Shoes told him. There wasn't much we at the shop could do but wait at that point. Rezzen disappeared for what seemed like a month.
+Rezzen's eyes lit up when Shoes told him. There wasn't much we at the shop could do but wait at that point. Rezzen disappeared for a few days.
 
-Most of the cases in the interim were boring, but there were some interesting cases.
+Most of the cases in the interim were boring, but there were some interesting ones.
 
-One case involved a goblin appearing at my door. She called herself a Knight of the Holy Order of Goblinite Avengers.
-
-What?
+One case involved a goblin appearing at my door. She called herself a Knight of the Holy Order of Iomedae's Green and Holiest Avengers.
 
 Quill asked, "Do you have an appointment?"
 
@@ -134,13 +148,13 @@ She's from Isger. She was walking on a road and she came upon a lady paladin dea
 
 She started looking through the paladin's belongings, and found Iomedae's holy symbol, a prayer book, a suit of banded mail, a bastard sword, and a pack pony. Warhorse was dead.
 
-She can't read, but she flipped through the pictures in the prayer book, and found Iomedae fighting monsters and demons, finally landing her in heaven. She really liked what she saw in that heaven, and swore to be a holy warrior of Iomedae to get there.
+She can't read, but she flipped through the pictures in the prayer book, and found Iomedae fighting monsters and demons, finally landing her in heaven. She really liked what she saw in that heaven, and swore to be a holy warrior of Iomedae to get there. I wouldn't say the goblin's an idiot, just an easy target for religious mass marketing, I suppose.
 
 She took the paladin's banded mail, bent it to her body, removed the extra bands, and broke the bastard sword to make it more... usable... to a goblin. She knew that knights had lances, but this one didn't. So she named the pack pony "Lance", and made it her warhorse.
 
 She desperately wants to become a paladin, but she keeps running into that foul nature of hers. 
 
-Now, she thinks she's a knight of Iomedae, but she Aint Iomedae. And that's what we call her.
+Now, she thinks she's a knight of Iomedae, but she Aint Iomedae. And that's what we call her. I told her that I wasn't cross with her, but others in Kaer Maga would be if she kept up this nonsense. We came to an agreement... she would find others to work with until she was strong enough to take on all of Kaer Maga.
 
 Another slow day, a girl was brought by the headmistress of the orphanage. She was found wandering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
 
@@ -150,35 +164,33 @@ So I did a reading. There wasn't much to focus on, and I didn't want to grab the
 
 The headmistress also told me that when other people get scared around her, she starts _zhipping_. Not vooping. She starts off with some light zapping. But when things get truly frightening, she becomes a lightning bolt. That frightened me just thinking about it. That's probably when I decided to start calling her Flicker.
 
-Finally, after that slow month, Rezzen walked back through the tent. And he carried with him... a fragment of a tablet. That was it.
-
-He mentioned that he had infiltrated the Openers _and_ Closers. He got closer to both than I thought possible. And at the heart of their dispute was a tablet. And each side had half the tablet. 
-
-Each side knew they needed the other half to open the seal, or permanently close the seal.
-
-The tablet was broken, but couldn't be broken down any further. More on that in a minute.
-
-The language the tablet is written in didn't even exist anymore. Nobody could read it. Not even magically.
-
-But that's the trick isn't it? If nobody can read it magically, then magic was guarding it, preventing it from being read. Or maybe from being understood. A secret. That's another clue.
+Finally, after that slow few days, Rezzen walked back through the tent. And he carried with him a piece of a stone tablet.
 
 So naturally, I did what I do best. Order Mop to grab the basin.
 
-Now, it would be stupid for me to follow threads that try to get at understanding the text. The Caulborn had made sure nobody could read it without the other half. I could spend all afternoon trying to outwit a civilization of diviners. Hit a wall. Get frustrated. Give up.
+He told me that the ghost of Ysyyr wasn't too friendly. They fought. And fought. And Rezzen finally defeated him.
 
-So, I pulled on the threads around the tablet instead. Who made the chisel? Who provided the stone? Where did the stone come from?
+Ysyyr told Rezzen that after he became a ghost, he was no longer bound by things like... sleep. So he obsessively walked the halls, searching time and again. And one day, in a place he swore he had searched twenty times, there it was. A tablet.
 
-Now I pulled on all those threads. And what I found? _Nothing_. 
+The tablet showed how to open the vault. Which would have been a fantastic find if Ysyyr were still alive. Rezzen convinced Ysyyr, now that he was dead, there was really nothing that Feznark could give him that Pharasma wouldn't eventually take away.
 
-But _nothing_ isn't a non-answer. Sometimes _nothing_ is an answer unto itself, honeydew. The Caulborn were diviners. If they didn't want you knowing how they made something, they knew exactly which questions to shut down. That told me plenty about the tablet. It didn't tell me why Geryon thought he knew what was behind the Seal.
+That changed Ysyyr's mind. So he gave the tablet to Rezzen in exchange for Magrim's help in passing into Pharasma's domain.
 
-Who would make a tablet that is both broken _and_ indestructible? Who would _and could_ make the tablet unreadable without the whole tablet being put together? The Caulborn, of course. It was their Seal. Their tablet. Their secret. But that was five thousand years ago. Who would benefit now from Geryon believing he knew what the Caulborn had hidden?
+Rezzen brought the tablet back to me, and so we did another reading. And the reading was blank. Something didn't want me reading that tablet.
 
-I had a suspicion. Not about who made the Seal. About who might be taking advantage of it.
+I pulled on the threads around the tablet instead. Who made the chisel? Who provided the stone? Where did the stone come from?
 
-To test that suspicion, I needed a field trip. Two tents down.
+And what did I find? _Nothing_.
 
-Greenhalo doesn't like me. She doesn't like any Augurs really. But even she couldn't resist helping me with this one.
+But _nothing_ isn't a non-answer. Sometimes _nothing_ is an answer unto itself, honeydew. For a tablet that looked quite ordinary, it takes some serious magic to make it that unreadable. Somebody had thought of every angle.
+
+Now, Geryon would want this tablet. He would use it, open the vault, and ruin everyone's day. The tablet already tells you how to open the vault, why keep its author a secret?
+
+Who would benefit from telling others how to open a vault, but remain anonymous? Why would a tablet suddenly appear _right then_, and not the other thousands of times Ysyyr searched?
+
+I had a suspicion. To test that suspicion, I needed a field trip. Two tents down.
+
+Greenhalo doesn't like me. She doesn't like any of the other Augurs really. But even she couldn't resist helping me with this one.
 
 Now Greenhalo's tent is opulent. Silk. Fine furs. Gold and pearls decorate everything. So I of course refuse to sit down. I'm more of a get-to-the-point-troll than a wallow-in-my-lair-bathing-in-honey-troll, if you know what I mean.
 
@@ -186,7 +198,7 @@ I told her about the Caulborn tablet, Geryon's notes, and the peculiar certainty
 
 I had Mop go grab my wooden basin. More practical.
 
-And we both did a reading together. We held hands. We sang. We... gods, look at your face, honeydew. _I was kidding_! This wasn't some fairytale witch-reading! This was serious.
+And we both did a reading together. We held hands. We held each other's entrails. We sang. We... gods, look at your face, honeydew. _I was kidding_! This wasn't some fairytale witch-reading! This was serious.
 
 And her reaction in the end was to deny she saw anything.
 
@@ -208,13 +220,13 @@ So I walked back to my tent.
 
 And I was even more confused.
 
-What would the big "A" want with Geryon's obsession? I mean, the Caulborn made this Seal _five thousand years_ ago, maybe more. And nothing I'd found suggested anyone had tampered with their tablet. So where could the deception be?
+What would the big "A" want with the Seal and the vault beneath it? I mean, the Caulborn made this Seal _five thousand years_ ago, maybe more.
 
-This is where Quill earns his keep. He's pedantic. He nit-picks. He is _annoying_ with a big "A". But, he writes everything down. I had him go back to my reading a month previous. The one with the Great Old One.
+This is where Quill earns his keep. He's pedantic. He nit-picks. He is _annoying_ with a big "A". But, he writes everything down. I had him go back to my reading a few days previous. The one with the Great Old One.
 
 He read out loud every word I said.
 
-And what I said was that the vision of Geryon's notes had a Great Old One. Not that I'd seen one behind the Seal. I'd seen what _Geryon_ thought was behind it.
+And what I said was that the vision of Ysyyr's notes that Geryon now held had a Great Old One. Not that I'd seen one behind the Seal. I'd seen what _Ysyyr_ thought was behind it.
 
 "Keep going, Quill."
 
@@ -224,19 +236,19 @@ Then Quill stopped. "There was a second spelling, Mistress. Fezzark. One rune di
 
 "The goat and radishes? I remember."
 
-"You also said Geryon considered the two names might have been confused."
+"You also said Geryon considered the two names might have been confused. He quoted the writing in the margins explaining the runes and how easily they can get mixed up."
 
-"And decided nobody would hide a recipe behind a Seal that powerful. So did I."
+"And Geryon decided nobody would hide a recipe behind a Seal that powerful. So did I. So did Ysyyr."
 
 Quill checked his notes again. "You said the _archive_ gave him the name Feznark. The other accounts only told him what Feznark meant."
 
 Now that was interesting.
 
-You see, Geryon could prove Feznark was the name of a Great Old One. He could prove the Caulborn had a Seal. He could even prove the archive was ancient. But none of that proved the Great Old One was behind the Seal. All that depended on a single name in a single account.
+You see, Geryon could prove Feznark was the name of a Great Old One. He could prove the Caulborn had a Seal. He could even prove the archive was ancient. But none of that proved the Great Old One was behind the Seal. All that depended on a single name in a single account with a note in the margins saying the two runes were often confused with one another.
 
 And one rune could turn a royal dinner into the end of the world.
 
-But how did Geryon _know_? The Seal hadn't been opened.
+But how did Geryon _know_? The vault hadn't been opened yet.
 
 Perhaps Fezzark was just a harmless name the Caulborn had used to disguise Feznark. That was my first thought. After all, if you're hiding the worst thing in existence, calling it a plate of goat sounds pretty clever.
 
@@ -250,7 +262,9 @@ Also, Geryon may be one of the most intelligent devils there ever was, but he'd 
 
 And then it hit me.
 
-The big "A" didn't need to tell Geryon a thing. He only needed Geryon to find that name for himself. Something dangerous. Something _disastrous_. Something to obsess over for millennia.
+The big "A" didn't need to tell Geryon a thing. He only needed Geryon to find that name for himself. Something dangerous. Something _disastrous_. Something to obsess over.
+
+But why only make the tablet available at some precise moment? Because timing matters. I just needed to know who it matters to, and why.
 
 I need two melons. Mmmmm... let's... slurp... take a break.
 
@@ -274,8 +288,8 @@ Now, why would Mammon even care? Here's where it gets interesting. You see, Mamm
 
 Mammon doesn't just answer to anybody though. You see, Mammon hands out prayers to his followers. But not for free.
 
-Prayers like these, the ones that go to Mammon, are given to the Prayer Auction. You heard me. Various underlings gather at the auction and bid on leads from prayers to prospects. Gate happened to be listening, judged the room, and put in a low-ball bid. I think he said he bid three Avernite imp-futures. Not sure what that means. Maybe you can figure out infernal economics better than I can.
+Prayers like these, the ones that go to Mammon, are given to the Prayer Auction. You heard me. Various underlings gather at the auction and bid on leads from prayers to prospects. Gate happened to be listening, judged the room, and put in a bid. I think he said he bid three Avernite imp-futures. Not sure what that means. Maybe you can figure out infernal economics better than I can.
 
-_Gate_ was the one who answered. He smelled opportunity. _Real opportunity_.
+So _Gate_ was given the permission to respond, so he was the one who answered. He smelled opportunity. _Real opportunity_.
 
 That's when I got introduced to my first Cornugon, a horned devil to you. He was already morphing... another few hundred years and a few more tasty scores, and he'd be in line for a promotion. His wings were especially grand... they were the body part that most screamed "pit fiend". He was well on his way, because he was way smarter than your average Cornugon.

@@ -554,8 +554,4 @@ The quill struck the wall.
 
 The client looked up again. Longer this time. Then back at me.
 
-I smiled. “Now.”
-
-I folded my hands on the table, raising them long enough for invisible Mop to run a wet rag under them to get every last little drop of blood. My wound was gone. He stared at that too for moment.
-
-“How badly do you want to know what your wife is _really_ hiding?”
+I smiled. “Now. How badly do you want to know what your wife is _really_ hiding?”
