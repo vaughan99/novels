@@ -20,13 +20,13 @@ Jackpot. "Greenhalo said that?"
 
 "Yes, she envisioned the symbol from the description. The snake emblem belonged to Geryon. An ancient symbol from five-hundred years ago. Only ten were made."
 
-More infernals. You see, Geryon was an Asura Rana who sold out his entire population to become the Devil of Secrets. But not just any secrets. Forbidden, ruinous, destroying secrets. The kind of secrets that ruin people's afternoons... for the rest of their short miserable lives.
+More infernals. You see, Geryon was an Asura Rana who sold out his own people to become the Devil of Secrets. But not just any secrets. Forbidden, ruinous, destroying secrets. The kind of secrets that ruin people's afternoons... for the rest of their short miserable lives.
 
 "Ten? Sounds like an inner circle. Very elite. This agent personally handled Geryon's business."
 
 Rezzen nodded, but said nothing.
 
-"So what would a personal agent of Geryon want with a key that a group of Droskar agents specifically tracked down five-hundred years later, who also wanted to take you out?"
+"So what would a personal agent of Geryon want with a key that a group of Droskar agents specifically tracked down who then also wanted to take you out?"
 
 Now that's a puzzle, honeydew.
 
@@ -40,9 +40,9 @@ A mysterious key to some unknown door, assigned by Droskar to pick up that was o
 
 Torag's Vault... assigned by Droskar to Rezzen.
 
-The seal at the center of the Brothers of the Seal where a guy named Ysyyr was assassinated by the same Droskar assassins.
+The Seal at the center of the Brothers of the Seal where a guy named Ysyyr was assassinated by the same Droskar assassins.
 
-That's when it hit me. Droskar wants to open vaults to steal things and Geryon wants to open vaults for their secrets. If Geryon wanted a way to keep his hands clean, he'd hire Droskar to do his dirty work. Now, honeydew, that's what I call a win-win-win. That third "win"? That's me, winning.
+That's when it hit me. Droskar wants to open vaults to steal things and Geryon wants to open vaults for their secrets. If Geryon wanted a way to keep his hands clean, he'd hire Droskar to do his dirty work.
 
 I wasted no time.
 

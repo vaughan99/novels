@@ -28,9 +28,7 @@ Oh yes.
 
 What do I do?
 
-I solve things. And I'm _really_ good at reading between the lines... of my bowels that is. That's how this divination works. It's all there for reading. And you sew yourself up, eat a melon, and... you get the picture.
-
-I'm sure I'm not the first troll you've talked to. Unless, you're new to Kaer Maga. Or you love visiting the underside of bridges. But you don't look like a bridge-lover.
+I solve things. And I'm _really_ good at reading between the lines... of my bowels that is.
 
 Wait. What's that you say? I didn't tell you how the last case played out? Oh, silly me. I must have gotten famished.
 
@@ -84,15 +82,13 @@ I sized him up. Can he muscle through a crowd with a basket of melons? Yeah, I t
 
 The boy looked around the shop nervously. "Where's the one you called 'Mop'?"
 
-He looked up. I forgot, in the old tent, Mop liked to hang from the tent poles. So yes, there was something to look up to there as well. Sorry if I'm confusing you.
+Voop.
 
-Mop stared down at him. I think he might have been eating a cat. Fur fell to the floor.
-
-"Mop, clean up the fur when you're done, or I'll put it in the ledger." Quill always made threats like that.
+Mop appeared in front of him. He had just finished lunch. Looked like it was a cat, maybe an arm. Not sure. He threw the remains of his lunch into the black bucket.
 
 Mop just stared at the boy. The boy stared at him.
 
-Mop dropped to the ground and threw the remains of his lunch in the black bucket. He then fetched a tablet where he had scratched things.
+Mop then fetched a tablet where he had scratched things.
 
 "Hey! Booger-bag! Tell the other booger-bags I do jobs. Good jobs!"
 

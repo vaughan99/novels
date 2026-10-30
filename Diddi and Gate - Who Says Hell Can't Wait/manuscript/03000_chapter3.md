@@ -226,9 +226,9 @@ The bright side: that extra blood _really_ gives their spells some kick. The dow
 
 Quill started in. "Do you have a reservation?"
 
-Blood-Drop ignored him and wallowed over to the jars. His leeches were plugging themselves into a hole that wept blood from his skin. They were barely keeping up.
+Blood-Drop ignored him and wallowed over to the jars. His leeches were working overtime plugging holes.
 
-Mop eyed them anxiously. "Fall off. Just one. Pweeeeez!"
+Mop eyed the leeches anxiously.
 
 Quill shook his head. "Sir, I asked if you have an appointment."
 
@@ -256,7 +256,7 @@ Oh no. That's real trouble. He was hallucinating. He knows my blood is powerful,
 
 The next thing I saw was Mop. The leeches had fallen off, and he was eating them like carnival treats, watching the tent like the world was going to end. And he loved it.
 
-So I reached over. I'm usually pretty gentle for a 7000-year-old troll. I worked too hard and cut myself too many times to be ended by an insane bloatmage. No sir.
+So I reached over. I worked too hard and cut myself too many times to be ended by an insane bloatmage. No sir.
 
 I grabbed him by the throat. That shut him up quick.
 

@@ -164,9 +164,9 @@ Mop swallowed. “That wasn’t eating.”
 
 Quill made a note in the ledger. “That’s coming out of your pay.”
 
-Mop spat a bit of gristle toward him. “We don’t get paid rune-slinger! Now shut your ink-hole.”
+“We don’t get paid rune-slinger! Now shut your ink-hole.”
 
-Quill flicked the offending piece off his ledger without looking at it. “Someday.” He tapped the page. “Then I’ll have it here.”
+“Someday.” Quill tapped the page. “Then I’ll have it here.”
 
 Mop narrowed his eyes. “I’ll chew you next.”
 
@@ -202,11 +202,7 @@ I looked at the client. He had gone very still.
 
 That got half a laugh out of him.
 
-Better.
-
-People tell you more when they’ve laughed. People tell you much more when they think the joke wasn’t at their expense.
-
-It usually is.
+Better. Readings are easier when clients are relaxed.
 
 I set the handkerchief on the table. That's when I noticed Mop had forgotten one of his jobs. He's always forgetting things.
 
@@ -220,7 +216,7 @@ I smiled at the customer. "Now price. You're a shop clerk?"
 
 "Peddler. I have a cart, and..."
 
-I cut him off. I hate it when clients try to tell you how hard their life is, and why they can't afford my tells. The way I see it, they can't afford _NOT_ to hear my tells. But I'm reasonable on price. It all depends on... what it depends on.
+I cut him off. I'm reasonable on price. It all depends on... what it depends on.
 
 "What kind of peddling?" I said.
 
@@ -256,17 +252,7 @@ He sat motionless.
 
 I leaned toward him.
 
-“Honeydew, if you came all this way carrying her handkerchief and looking like someone buried your dog, it’s either adultery or murder. And if it were murder, you’d have brought something with blood on it.”
-
-From somewhere near the wall, Mop whispered, “Not always.”
-
-“Mop.”
-
-“Just saying.”
-
-Voop.
-
-He was gone again. Or perhaps he had never come back. It becomes difficult to keep track.
+“Honeydew, you're carrying your wife's handkerchief and there's no blood anywhere. That all points to infidelity.”
 
 The client rubbed his palms against his knees. “I want to know... No... I _need_ to know.”
 
@@ -318,8 +304,6 @@ _Not_ my poop. _That_ would be disgusting. What I have is more... elegant. Like 
 
 Smells like... you guessed it... honeydew.
 
-My intestines. Always mine. That part matters.
-
 There are diviners who use cards. Bones. Stars. Smoke. Tea leaves.
 
 Cowards.
@@ -342,19 +326,11 @@ His face had gone gray. I grabbed his hands. I have to, suddenly, otherwise they
 
 He watched. He felt. He vomited.
 
-Good. Mop was there to catch it with the black bucket. He likes to show off like that, catching vomit in mid-hurl.
+Mop was there to catch it with the black bucket. He likes to show off like that, catching vomit in mid-hurl.
 
 I moved a loop of intestine aside.
 
 Mop leaned closer.
-
-I slapped his hand without looking. “Mine, Mop.”
-
-“I know.”
-
-“You were reaching.”
-
-“I was appreciating.”
 
 “Appreciate from farther away.”
 
@@ -406,8 +382,6 @@ _It?_
 
 Something beneath the obvious secret. Sneaking out of the house at night clearly wasn't the juiciest secret.
 
-That is where the good secrets live.
-
 I reached deeper, but I sensed Mop's teeth smiling at me again.
 
 "Mop, shut your teeth."
@@ -444,24 +418,6 @@ Laughing inside.
 
 I let go. He let go.
 
-Hard.
-
-Too hard.
-
-The vision snapped.
-
-More blood hit the basin, and some spilled over. Didn't expect that.
-
-Mop whistled. “On it!”
-
-Quill’s quill stopped.
-
-The client looked between them.
-
-“What does that mean?”
-
-“Nothing,” I said.
-
 The husband leaned closer. “My wife?”
 
 I began putting myself back together. This part has to be done quickly... you know, because my skin is already pulling back together at the edges. I once made the mistake of leaving the organs out... well, we don't need to get into that.
@@ -496,13 +452,7 @@ His mouth fell open. “I can pay more.”
 
 “Of course you can.”
 
-I wiped my hands on a cloth.
-
-Mop reached for it.
-
-I slapped his hand again.
-
-Mop fetched a jar instead.
+I cleaned my hands while Mop reached for a jar.
 
 Very carefully, he began separating the blood. Mine went into the clean jar. Everything else went into the dark bucket.
 
@@ -544,14 +494,6 @@ Quill murmured as he scratched in his inventory ledger, “One jar of Diddi's tr
 
 From somewhere far deeper in the shop, a voice rolled through the stone. “I appreciate silence.”
 
-Mop smiled. “Jealous.”
-
-Quill threw his quill at him.
-
-Voop. Voop.
-
-The quill struck the wall.
-
-The client looked up again. Longer this time. Then back at me.
+Mop giggled as he handed the client a towel.
 
 I smiled. “Now. How badly do you want to know what your wife is _really_ hiding?”
