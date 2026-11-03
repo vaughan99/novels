@@ -6,7 +6,7 @@
   "description": "Novel compiler for Obsidian manuscripts.",
   "scripts": {
     "build": "node compiler/src/build.mjs",
-    "build-cynn": "npm run build -- \"The Cynn - The Crossroads of Leicester\" && npm run split-md -- \"./build/The Cynn - The Crossroads of Leicester/manuscript.md\" 3",
+    "build-cynn": "npm run build -- \"The Cynn - The Crossroads of Leicester\" && npm run split-md -- \"./build/The Cynn - The Crossroads of Leicester/manuscript.md\" 4",
     "build-ddg1": "npm run build -- \"Diddi and Gate - Who Says Hell Can't Wait\"",
     "build-all": "npm run clean && npm run build-cynn && npm run build-ddg1 && npm run generate-novel-index",
     "clean": "rm -fr ./build/*",
