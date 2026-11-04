@@ -84,7 +84,7 @@ Now, it mentioned a vault behind the Seal, mentioned in only one other account. 
 
 How could a goat's head dish be so dangerous?
 
-In the margins, someone had written in the ancient tongue, that the rune for "zz" and the rune for "zn" are very, very easy to confuse. One little extra dot on the rune, and you have a whole other word.
+In the margins, a helpful scholar later had written in the ancient tongue, that the rune for "zz" and the rune for "zn" are very, very easy to confuse. One little extra dot on the rune, and you have a whole other word.
 
 Only the other word was exactly what Ysyyr was after.
 
@@ -238,31 +238,35 @@ Then Quill stopped. "There was a second spelling, Mistress. Fezzark. One rune di
 
 "You also said Geryon considered the two names might have been confused. He quoted the writing in the margins explaining the runes and how easily they can get mixed up."
 
-"And Geryon decided nobody would hide a recipe behind a Seal that powerful. So did I. So did Ysyyr."
+"And Geryon decided nobody would build a Seal and a hidden vault that powerful just to hide a stupid recipe. So did I. So did Ysyyr."
 
-Quill checked his notes again. "You said the _archive_ gave him the name Feznark. The other accounts only told him what Feznark meant."
+Quill checked his notes again. "You said the _archive_ gave Geryon the name Fezzark, intentionally used to hide Feznark. The other accounts only told him what Feznark meant."
 
 Now that was interesting.
 
-You see, Geryon could prove Feznark was the name of a Great Old One. He could prove the Caulborn had a Seal. He could even prove the archive was ancient. But none of that proved the Great Old One was behind the Seal. All that depended on a single name in a single account with a note in the margins saying the two runes were often confused with one another.
+You see, Geryon could prove Feznark was the name of a Great Old One. He could prove the Caulborn made the Seal and the hidden vault behind it. He could even prove the Caulborn book's writings were all genuine and unaltered save for the writing in the margins. But none of that proved the Great Old One was behind the Seal. All that depended on a single name in a single account.
 
 And one rune could turn a royal dinner into the end of the world.
 
 But how did Geryon _know_? The vault hadn't been opened yet.
 
-Perhaps Fezzark was just a harmless name the Caulborn had used to disguise Feznark. That was my first thought. After all, if you're hiding the worst thing in existence, calling it a plate of goat sounds pretty clever.
+Perhaps Fezzark was just a harmless name the Caulborn had used to disguise Feznark. That was Geryon's conclusion. After all, if you're hiding the worst thing in existence, calling it a plate of goat sounds pretty clever.
+
+Or perhaps the author literally forgot to dot the rune. Honest mistake. That was Ysyyr's conclusion.
 
 But then I thought about the big "A". And about how much work Geryon had put into confirming what he already believed.
 
 What if the disguise went the other way?
 
-What if someone had changed just one rune in that old book? Not to make a lie out of everything Geryon read. Just to make him connect two perfectly true things that didn't belong together.
+What if someone had added that warning in the margins of that old book for some other purpose? Not to make a lie out of everything Geryon read. Just to make him connect two perfectly true things that didn't belong together.
 
 Also, Geryon may be one of the most intelligent devils there ever was, but he'd never spent time around royals and their dinner recipes. Remember, these were diviners, honeydew. If you've got a secret recipe with herbs and spices, and your neighbor can read your tea leaves, you better keep it somewhere safer than a wooden box in your kitchen.
 
 And then it hit me.
 
-The big "A" didn't need to tell Geryon a thing. He only needed Geryon to find that name for himself. Something dangerous. Something _disastrous_. Something to obsess over.
+The big "A" didn't need to tell Geryon a thing. He only needed Geryon to find that name for himself, by _being the "helpful" scholar_. That would give Geryon something dangerous. Something _disastrous_. Something to obsess over. 
+
+If I was right, nobody intentionally wrote the rune without the dot, like Geryon thought. Nobody forgot the dot, like Ysyyr thought. The big "A" added an innocuous helpful note then re-locked the book.
 
 But why only make the tablet available at some precise moment? Because timing matters. I just needed to know who it matters to, and why.
 
