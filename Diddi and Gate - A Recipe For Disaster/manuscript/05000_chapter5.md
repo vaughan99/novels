@@ -1,12 +1,12 @@
 # Chapter Five: The Devil You Don't Know
 
-Now Gate's presence in my little tent was certainly shocking, but not _that_ shocking. He _vooped_ in and announced himself. Apparently devils do that occasionally.
+Now Gate's presence in my little tent was certainly shocking, but not _that_ shocking. He _vooped_ in and announced himself. Not every devil has the ability to _gate_ in from Hell by themselves.
 
-"IT TAKES CONSIDERABLE POWER TO GATE BETWEEN PLANES. MAMMON WAS WILLING TO INVEST SOME POWER IN OUR... PLAN."
+"I TOOK OUT A CONSIDERABLE LOAN TO PAY MAMMON FOR PLANAR TRAVEL PRIVILEGES. FOR WINGS AND ME TO GATE INTO AND OUT OF GOLARION AT WILL IS EXPENSIVE."
 
-Yes, Gate, I'm sure it cost you an imp's arm and three leg-futures.
+My dear Gate, where would you be if you hadn't taken out that loan? Still be in some stuffy vault in Erebus. And I'm so glad you call it "gate" to and from places... I'd hate for your byname to be "Voop".
 
-Quill introduced himself. I think he was shaking in awe. He may have even peed a little.
+Anyway, Quill introduced himself. I think he was shaking in awe. He may have even peed a little.
 
 Now Mop, don't start making fun of Quill. You'd pee yourself too if Socothbenoth suddenly showed up to give you the spanking you deserve. Stop your pee-pee-dance and sit in the corner until my story's done.
 
