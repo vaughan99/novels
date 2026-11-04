@@ -492,7 +492,7 @@ Mop popped another bit of pink into his mouth and chewed it slowly as he laid th
 
 Quill murmured as he scratched in his inventory ledger, “One jar of Diddi's troll blood. Check. At least the landlord appreciates me.”
 
-From somewhere far deeper in the shop, a voice rolled through the stone. “I appreciate silence.”
+From somewhere far deeper in the shop, a voice rolled through the stone. “I APPRECIATE SILENCE.”
 
 Mop giggled as he handed the client a towel.
 
