@@ -14,7 +14,7 @@ Shoes? He's not a fighter. Don't go stealing him from me either. But he's good a
 
 Remember the doppelganger's husband? I now refer folks to him for selling common iron and trinkets. Name's Cobblestone, and we're on his route. You'll see his cart when the sun's high. He doesn't stay long though... remember, he doesn't like Geryon staring at him.
 
-If you're having street trouble, track down Gendarme. Depending on the problem, he may even go on field trips. His help, though, is very... how do infernals say? _Quid pro quo_? Expect to serve in a posse or two.
+If you're having street trouble, track down Fixer. Depending on the problem, he may even go on field trips. His help, though, is very... how do infernals say? _Quid pro quo_? Expect to serve in a posse or two.
 
 Deadline took a break from _Sufferer's Digest_ and went solo. Once he finally got his journal back, that is. He got a major award for his five-part book series: "The Death of Geryon: A Profile In World-Ending Embarrassment". Once we get a copy, I'll let you read it. It's on back-order for the next few years I heard.
 
@@ -22,7 +22,7 @@ But now he's back on the _Sufferer's Digest_ beat. If you're going somewhere dan
 
 Blood-Drop lives nearby too. He's always looking for people to impress. Hiring him shouldn't be too expensive... just make sure he keeps my blood jars out of his veins until he's ready to make things explode. And try to get his brother's wrinkle cream formula, will you?
 
-Aint Iomedae keeps coming to see me. But not to _slay_ me. Maybe I'm Golarion's cheapest paladin counselor. You can see her often outside Greenhalo's tent trying to get an audience, but really is super eager to join Gendarme's posses. For the experience. I'll bet she'll join you for free. Just understand she's a goblin. Who has zero fear. Let that sink in. 
+Aint Iomedae keeps coming to see me. But not to _slay_ me. Maybe I'm Golarion's cheapest paladin counselor. You can see her often outside Greenhalo's tent trying to get an audience, but really is super eager to join Fixer's posses. For the experience. I'll bet she'll join you for free. Just understand she's a goblin. Who has zero fear. Let that sink in. 
 
 Rezzen? He's still around, and his Last Citadel monks are useful for investigating around death. If you're bound for Ankar-Te or a vampire's den and you need someone to counteract those _negative vibes_, you could do worse than getting one of Rezzen's guys into your party. I believe the one we call Urn is available for a contribution to the Last Citadel's coffers. Just ask any dwarf where the temple of Magrim is. And if Urn starts _staring at things_, let him.
 
