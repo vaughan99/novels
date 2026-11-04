@@ -2,7 +2,9 @@
 
 Now Gate's presence in my little tent was certainly shocking, but not _that_ shocking. He _vooped_ in and announced himself. Apparently devils do that occasionally.
 
-"YES... WE DO."
+"IT TAKES CONSIDERABLE POWER TO GATE BETWEEN PLANES. MAMMON WAS WILLING TO INVEST SOME POWER IN OUR... PLAN."
+
+Yes, Gate, I'm sure it cost you an imp's arm and three leg-futures.
 
 Quill introduced himself. I think he was shaking in awe. He may have even peed a little.
 

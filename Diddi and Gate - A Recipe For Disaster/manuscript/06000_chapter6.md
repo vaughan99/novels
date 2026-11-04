@@ -114,12 +114,23 @@ The big "A" narrowed his eyes at Gate, and lifted his hand. His bodyguards readi
 
 Gate pulled forth a copy of the parchment. Several copies actually, and started handing them out. As he did so, he started quoting,
 
-“I, the devil commonly known as Gate, my true name being withheld pursuant to infernal custom and protections against unauthorized invocation, hereby lay claim to the presently unclaimed asset consisting of the mortal remains, materials, fluids, organs, attached portals, fixtures, contents, and derivative interests of Geryon, formerly of Stygia.
-“Said asset presently rests upon the world of Golarion, in the city of Kaer Maga, Oriat District, outside the territorial possession of Stygia, and is, at the moment of filing, unencumbered by any prior perfected claim. Geryon, having originated as an asura rana rather than a devil, possesses no posthumous claim to infernal remains under the protections afforded to native devils.
-“Therefore, pursuant to the Doctrine of First Possession, commonly rendered ‘Finders Keepers,’ under First Premises, Article One, Title Two, Subsection Three, I hereby perfect possession on behalf of Mammon. All subsequent claims thereto shall be deemed null and void, without recourse or appeal. All rights, titles, interests, and privileges of possession are hereby reserved exclusively to Mammon, his agents, assigns, and successors in perpetuity.
+“I, the devil commonly known as Gate, my true name being withheld pursuant to infernal custom and protections against unauthorized invocation, hereby lay claim to the presently unclaimed asset consisting of the mortal remains, materials, fluids, organs, attached portals, fixtures, contents, and derivative interests of Geryon, formerly of Stygia."
+
+Gate continued to pass out copies. The big "A"'s own bodyguards grabbed a copy and started reading it. Others in the crowd shared copies and followed along. It was written in Infernal, but thankfully had subtext translation into Common.
+
+“Said asset presently rests upon the world of Golarion, in the city of Kaer Maga, Oriat District, outside the territorial possession of Stygia, and is, at the moment of filing, unencumbered by any prior perfected claim. Geryon, having originated as an asura rana rather than a devil, possesses no posthumous claim to infernal remains under the protections afforded to native devils."
+
+A murmur of agreement swept through the devils.
+
+“Therefore, pursuant to the Doctrine of First Possession, commonly rendered ‘Finders Keepers,’ under First Premises, Article One, Title Two, Subsection Three, I hereby perfect possession on behalf of Mammon. All subsequent claims thereto shall be deemed null and void, without recourse or appeal. All rights, titles, interests, and privileges of possession are hereby reserved exclusively to Mammon, his agents, assigns, and successors in perpetuity."
+
+A few of the dwarves started laughing hysterically. A few of the pit fiends started scratching their heads. The angels looked at each other, then at Abadar.
+
 "In furtherance of this claim, Mammon hereby assumes the outstanding property liabilities arising from Geryon's destruction of the surrounding structures and improvements, and shall discharge those liabilities pursuant to the established Kaer Magan custom of 'You-Break-It, You-Buy-It.' Such reimbursement shall constitute consideration for the transfer of the affected properties into Mammon's possession, with compensation payable to surviving owners or their lawful heirs. The Caulborn vault, Seal, and enclosing structure at the bottom of this shaft, having no tenants, agents, or surviving owners, shall be included in this claim, and form the boundary of the claim."
 
-He drew a deep breath, then continued. He took another look at the book, waited another breath's worth of time, and spoke.
+The dwarves were dying of laughter. A few smiles appeared on the faces of big "A"'s own bodyguards. The townsfolk, who had been scared out of their wits, finally started to loosen up. They finally realized they weren't about to die.
+
+Gate drew a deep breath, then continued. He took another look at the book, waited another breath's worth of time, and spoke.
 
 "The paperwork has already been filed in Dis... just... NOW. This notification is merely a... courtesy."
 
@@ -127,9 +138,13 @@ He snapped the book closed and looked the big "A" right in the eye with a big sm
 
 The big "A" stood there, parchment in hand, his left eye twitching.
 
-There arose a round of applause. First from the townsfolk. Then from the dwarves. The angels, even a few of the big "A"'s own people started clapping.
+He looked up from the parchment. He looked like he was about to speak. He narrowed his eyes. He cleared his throat once more.
+
+The entire city paused, waiting for his reaction.
 
 But the big "A" merely turned, his giant black cloak swinging in the air. Voop. He left. The parchment fell from his hands, and landed harmlessly on the ground where it burned into a poof of ash.
+
+There arose a round of applause. First from the townsfolk. Then from the dwarves. The angels, even a few of the big "A"'s own people started clapping.
 
 I looked over at Deadline. He was searching his pack for his journal, and for the first time in his life, he couldn't find it. That grown man cried. At least for a moment.
 
