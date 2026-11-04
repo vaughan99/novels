@@ -40,9 +40,9 @@ What is that style? Well, we have the Church of the Abiding Vigilante. It's a ne
 
 You'll recognize him as the one with crossbow and cesti. If he sees locals arguing, he'll referee a fist-fight or maybe a drinking game to get commerce flowing again. Imagine two vampires locked in a drinking game, honeydew. You heard me.
 
-But if he gets a complaint about a thief, or a murder, he'll organize a posse. And he'll hunt you down.
+But if he gets a complaint about a thief, or a murder, he'll organize a posse. And he'll hunt them down.
 
-They're quick and efficient. Their group used to be gladiators who had me investigate a fight-fixing scandal. I guess that's why Fixer hates his name. But hey, he fixes the neighborhood. Can't think of a better name.
+The Abiding Vigilantes are quick and efficient. Their founders used to be gladiators who had me investigate a fight-fixing scandal. I guess that's why Fixer hates the name I gave him. But hey, he fixes the neighborhood, one ugly mug at a time. Can't think of a better name.
 
 And now let me welcome you to our business: Diddi & Gate Investigative Divinations, Inc. That's the proper name. But if you just say "Diddi's" anywhere in town, they'll know what you mean.
 

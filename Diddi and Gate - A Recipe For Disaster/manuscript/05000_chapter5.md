@@ -1,8 +1,28 @@
 # Chapter Five: The Devil You Don't Know
 
+Now where was I?
+
+Oh yes. The machinations of devilry.
+
+So now we needed to approach this very carefully. So what did we do? Quill, on his day off, prayed. To his favorite devil. Mammon.
+
+You don't know Mammon? That's fine. He's an archdevil. Probably the nicest one. Certainly the easiest one to get along with if you're willing to part with your valuables. He represents one vice... Greed.
+
+You see, Quill may not look like it, but he's always scheming. Looking to benefit from his... situation. And that's what Mammon does best. "Help me help you..." is Mammon's favorite phrase. And you're helping him more than he helps you. But I digress.
+
+Now, why would Mammon even care? Here's where it gets interesting. You see, Mammon has his own secrets. His own vaults. Vaults that Geryon is _dying_ to get into as well. Let's say, they're not friends. More like hated, vicious, pernicious enemies. That's putting it mildly.
+
+Mammon doesn't just answer to anybody though. You see, Mammon hands out prayers to his followers. But not for free.
+
+Prayers like these, the ones that seek Mammon's help, are given to the Prayer Auction on Erebus. Various underlings gather at the auction and bid on leads from prayers to prospects. Gate happened to be listening, judged the room, and put in a bid. I think he said he bid three Avernite imp-futures. Maybe you understand infernal economics better than me.
+
+So _Gate_ was given the permission to respond, so he was the one who answered. He smelled opportunity. _Real opportunity_.
+
+That's when I got introduced to my first Cornugon, a horned devil to you. He was already morphing... another few hundred years and a few more tasty scores, and he'd be in line for a promotion. His wings were especially grand... they were the body part that most screamed "pit fiend". He was well on his way, because he was way smarter than your average Cornugon.
+
 Now Gate's presence in my little tent was certainly shocking, but not _that_ shocking. He _vooped_ in and announced himself. Not every devil has the ability to _gate_ in from Hell by themselves.
 
-"I TOOK OUT A CONSIDERABLE LOAN TO PAY MAMMON FOR PLANAR TRAVEL PRIVILEGES. FOR WINGS AND ME TO GATE INTO AND OUT OF GOLARION AT WILL IS EXPENSIVE."
+"I TOOK OUT A CONSIDERABLE LOAN TO PAY MAMMON FOR PLANAR TRAVEL PRIVILEGES. TO GATE INTO AND OUT OF GOLARION AT WILL IS EXPENSIVE."
 
 My dear Gate, where would you be if you hadn't taken out that loan? Still be in some stuffy vault in Erebus. And I'm so glad you call it "gate" to and from places... I'd hate for your byname to be "Voop".
 
@@ -28,7 +48,7 @@ To claim credit for it. To gloat. But, that would leave him vulnerable, to appea
 
 That's when Mammon received a request from Geryon. To send a representative to Kaer Maga on a moment's notice. To witness a grand event. The culmination of Geryon's power.
 
-Mammon told Gate.
+Mammon told Gate about it.
 
 "THAT MADE ME HAPPY."
 
@@ -42,7 +62,7 @@ But he didn't. And that, honeydew, may have been the biggest clue of all.
 
 So Gate suggested Rezzen take the tablet back to the temple and wait for Droskar's agents to come take it for Geryon. Gate arranged for Droskar to know what Rezzen had found.
 
-Now, you're probably asking why Geryon didn't just take the tablet by force. You see, if he did, he wouldn't be the Devil of Secrets. He'd just be the Devil of Kicking-Down-A-Door-And-Taking-Tablets. He had an ego the size of the Stygian Hell, and he wanted to prove he could manipulate the situation to his favor like a master of secrets should.
+Now, you're probably asking why Geryon didn't just take the tablet by force himself. You see, if he did, he wouldn't be the Devil of Secrets. He'd just be the Devil of Kicking-Down-A-Door-And-Taking-Tablets. He had an ego the size of the Stygian Hell, and he wanted to prove he could manipulate the situation to his favor like a master of secrets should.
 
 Rezzen needed help, but it needed to be not-so-obvious infernal help. He needed to put up a good fight, and only lose enough to believably retreat. Without the tablet.
 
@@ -58,7 +78,7 @@ She hated being trapped in those bracers. Let's just say it wasn't your average 
 
 So Rezzen went back with the tablet and the bracers. At first, Rezzen said, it didn't go well. She countermanded some of his moves. They fought each other as much as their enemies. But they worked it out.
 
-While they were down in the Underdark putting up their fake battle, I had a visit from my favorite investigative reporter. Let's call him Deadline.
+While they were down in the Underdark barely losing to Droskar's army of thug-slaves, I had a visit from my favorite investigative reporter. Let's call him Deadline.
 
 Deadline is from the land of worshippers of Zon-Kuthon, Nidal. Your average Kuthite loves to be shaven bald, pierced, and adorned with black leather and spiked chains. Deadline looks more like a professor. And he has a head of long grey hair.
 

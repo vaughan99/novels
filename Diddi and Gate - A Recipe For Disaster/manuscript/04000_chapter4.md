@@ -148,7 +148,7 @@ She can't read, but she flipped through the pictures in the prayer book, and fou
 
 She re-worked the paladin's banded mail and broke the bastard sword to make it more usable to a goblin. She knew that knights had lances, but this one didn't. So she named the pack pony "Lance", and made it her warhorse.
 
-She desperately wants to become a paladin, but she keeps running into that foul nature of hers. She Aint Iomedae. And that's what we call her. I told her that I wasn't cross with her, but others in Kaer Maga would be if she kept up this nonsense. We came to an agreement... she would find others to work with until she was strong enough to take on all of Kaer Maga.
+She desperately wants to become a paladin, but she keeps running into that foul nature of hers. She ain't Iomedae. And that's what we call her. _Aint Iomedae_. I told her that I wasn't cross with her, but others in Kaer Maga would be if she kept up this nonsense. We came to an agreement... she would find others to work with until she was strong enough to take on all of Kaer Maga.
 
 Another slow day, a girl was brought by the headmistress of the orphanage. She was found wandering around the Flickering Tower before it disappeared again. It always appears and disappears, but this was the first time anybody had appeared out of nowhere around it.
 
@@ -273,23 +273,3 @@ Mmmmm....
 Side note: I don't eat just melons. Mop and I close the shop one day every other week for our pork harvest. That's Quill's holiday. Shoes buys the pig, sends it in, and leaves. By the next day, the tent is spotless. And nobody's there to take notes.
 
 I didn't want you to think I'd turned vegetarian, honeydew. For a troll, that'd be... improper.
-
-Now where was I?
-
-Oh yes. The machinations of devilry.
-
-So now we needed to approach this very carefully. So what did we do? Quill, on his day off, prayed. To his favorite devil. Mammon.
-
-You don't know Mammon? That's fine. He's an archdevil. Probably the nicest one. Certainly the easiest one to get along with if you're willing to part with your valuables. He represents one vice... Greed.
-
-You see, Quill may not look like it, but he's always scheming. Looking to benefit from his... situation. And that's what Mammon does best. "Help me help you..." is Mammon's favorite phrase. And you're helping him more than he helps you. But I digress.
-
-Now, why would Mammon even care? Here's where it gets interesting. You see, Mammon has his own secrets. His own vaults. Vaults that Geryon is _dying_ to get into as well. Let's say, they're not friends. More like hated, vicious, pernicious enemies. That's putting it mildly.
-
-Mammon doesn't just answer to anybody though. You see, Mammon hands out prayers to his followers. But not for free.
-
-Prayers like these, the ones that seek Mammon's help, are given to the Prayer Auction on Erebus. Various underlings gather at the auction and bid on leads from prayers to prospects. Gate happened to be listening, judged the room, and put in a bid. I think he said he bid three Avernite imp-futures. Maybe you understand infernal economics better than me.
-
-So _Gate_ was given the permission to respond, so he was the one who answered. He smelled opportunity. _Real opportunity_.
-
-That's when I got introduced to my first Cornugon, a horned devil to you. He was already morphing... another few hundred years and a few more tasty scores, and he'd be in line for a promotion. His wings were especially grand... they were the body part that most screamed "pit fiend". He was well on his way, because he was way smarter than your average Cornugon.
