@@ -184,7 +184,7 @@ In front of the anvil lay a medium wooden chest, its lid graced by an iron emble
 
 Leaning against the chest rested a broad round shield. Its boss rose in a rounded dome, with stout ribs radiating toward the rim. The thick wooden boards had been richly waxed, while the iron edging had been wrought into the likeness of interwoven willow branches. Painted across the face was the same emblem that marked the chest.
 
-On the anvil lay a weathered black scabbard holding a heavy, long-handled farmer’s broadseax. He knew the shape before he knew the weapon. It was his father’s warseax remade larger, heavier, half as practical, and twice as intimidating. Its grip was blackened oak, inlaid with a seam of glassy jet. It was Barrow’s Edge, the Hedge-Stalker.
+On the anvil lay a hewing spear. It was the spearhead he and his father had made all those years ago, re-forged and made new as perfect darkened steel. The new ash pole had a wrap of stitched black leather, and a new dark steel cap graced the other end. In the pole was a rune... the ancestral Ōþila rune... keen to Ealhild and her old hearth ways. The rune was an inlay of the jet stone from the transition stone, permanently set into the haft of the spear. The spear was now its home. The spear was now Barrow’s Reach, the Hearth-Warden.
 
 Elswyth knew she was no warrior. She didn't even bother with her small mushroom handseax, and the felling axe had been left on the wagon. She sprinted toward the former entrance to the bathhouse, now just an arched ruin.
 
@@ -194,11 +194,9 @@ Suddenly a pair of hands pushed her in the back.
 
 She fell.
 
-A moment later, she landed in a Roman plunge pool. It was filled with the rainwater of countless years from where the roof had funneled rainwater into a crevice.
+She rolled down a steep hill of crumbled brick into a pile of dust and debris. She was slightly bruised, but otherwise unharmed. She quickly stood, peering back up at the archway in the wall where she had been standing. There was nobody there she could see who would've pushed her.
 
-She waded through the near-freezing water, each splash stealing air from her lungs. The cold of the water was a cruelty that screamed at her body. She had no time to notice.
-
-It was almost too dark to see. Moonlight from the archway barely caught the outline of an arch and a bench. She climbed out of the plunge pool, and suddenly a ray of moonlight caught the bench. On the bench was a chest. It had the same emblem.
+She looked around her. It was almost too dark to see. Moonlight from the archway barely caught the outline of an arch and a bench. She stumbled a bit over broken tiles and brick, picking her footing carefully. Suddenly a ray of moonlight caught a stone bench. On the bench was a chest. It had the same emblem.
 
 On top of the chest lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle of Fussleton's knife beckoned her to draw the blade.
 
@@ -210,9 +208,9 @@ The same offering.
 
 Within the sheath slept _Monanleoht, the Battle-Dancer_.
 
-She took the blade just as she heard calling from the archway above. The wolf-men found the hole through which she was pushed. They had heard the splash, and the wading through the pool. They heard her breath. They prepared themselves to jump, one at a time.
+She took the blade just as she heard calling from the archway above. The wolf-men found the hole through which she was pushed. They stopped and listened. They heard her quickened breath. They prepared themselves to descend the hill of debris, slowly and carefully.
 
-She stumbled through the archway. She found the _frigidarium_[^frigidarium], the room just beyond the entrance-way that was the Jewry Wall. She could hear the wolves chasing Osric, so she dared not run out into the open. She backed into the open hall, facing the archway to the plunge pool.
+She stumbled through the archway. She found the _frigidarium_[^frigidarium], the room just beyond the entrance-way that was the Jewry Wall. She could hear the wolves chasing Osric, so she dared not run out into the open. She backed into the open hall, facing the archway to the room where she fell in.
 
 [^frigidarium]: frigidarium: a room in a Roman bathhouse that is not heated
 

@@ -2,8 +2,9 @@
 
 Osric was a man of the earth, an Anglian, his hands calloused by wood and iron long before they ever held a shield. For many winters, his family's grain-bin was full and his hearth was warm and full of life. He was a simple man, strong of the back, and wise of the field and plowshare.
 
-He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and boarspear mounted on iron spikes driven into the crossbeam above the hearth[^hearth]. He displayed them prominently, as he was the anchor of his master's shieldwall. The boarspear he had helped forge himself one hot summer six years previous, and it had served him well. The pole was a thick ash limb straight and true.
+He was also a proud fyrdman, keeping a stout shield with his father's favored pattern and hewing spear[^hewing-spear] mounted on iron spikes driven into the crossbeam above the hearth[^hearth]. He displayed them prominently, as he was the anchor of his master's shieldwall. The spear's long-bladed head he had forged with his father when Osric first came of age. There were no other spears like it in the fyrd, its design borrowed from the Northmen who brought it to this land.
 
+[^hewing-spear]: hewing spear: a spear with a long bladed tip, suitable for cutting as well as piercing
 [^hearth]: hearth: a prepared place for a controlled fire, used for heating, cooking, or craftwork such as forging
 
 He was not an especially pious man. He had seen the shuffle of war... Norseman against Christian, Christian against Norseman... and too often the churches burned all the same. He did not doubt God existed; he merely doubted that God concerned Himself with the outcome of every skirmish and every harvest.
@@ -46,7 +47,7 @@ Huginn: "There, happy?"
 
 She was well versed in the old Northern hearth-ways. Osric didn't marry her for a warlord's dowry. Ealhild's family were not the men chasing screams and silver, they were kindred spirits. They knew ancient hearth wisdom, and sought looser soil and rock-free gardens of the Danelaw.
 
-Her great grand-parents were a man named Ingvarr the Steady, son of Torsten, and Ingrid, daughter of Ormr, a tough woman who knew the land and hearth as well as any man. They governed a large estate in Sweden that supported twenty men and their families. When harvest time came one year, the sickness spread like wildfire. Desperate to meet the harvest needs for labor, Ingvarr and Ingrid borrowed slaves from a number of households in the vicinity.
+Her great grand-parents were a man named Ingvarr the Steady, son of Torsten, and Ingrid, daughter of Ormr, a tough woman who knew the land and hearth as well as any man. They governed a large estate in Sweden that supported twenty men and their families. When harvest time came one year, the sickness spread quickly. Desperate to meet the harvest needs for labor, Ingvarr and Ingrid borrowed slaves from a number of households in the vicinity.
 
 Late one night, a great fire broke out, and the longhouses burned. All the slaves died, as did a number of families.
 
@@ -58,7 +59,7 @@ Passing through Whitby, Ingvarr and Ingrid came across a peculiar stone by the s
 
 The battle for York was hard, and many in the warband died. Included in that number were several of Ingvarr's closest companions. Ingvarr himself received a grievous wound to the liver.
 
-Ingvarr, Ingrid, and the remaining families received a plot of land in the _Piceringas_ and enough silver to start their own enclave. Ingvarr was near death, and he ordered his men to build a barrow to honor those among the men in his warband who died in the battle. Just as the barrow was completed, Ingvarr died from his wound as well. He and his men were entombed in the barrow, and the limestone with jet was put as the final stone on the barrow.
+Ingvarr, Ingrid, and the remaining families received a plot of land in the _Piceringas_ and enough silver to start their own enclave. Ingvarr was near death, and he ordered his men to build a barrow to honor the fallen. Just as the barrow was completed, Ingvarr died from his wound as well. He and his men were entombed in the barrow, and the limestone with jet was laid as the final stone.
 
 Ingrid carried on with what remained of the families. She lived a long life with their children on that land until she died many years later.
 
@@ -102,7 +103,7 @@ Huginn: "No, he's... Super-BOOOOAAARRR!"
 
 ---
 
-Ealhild's family were superstitious. The family barrow was young by Northmen standards. Each generation added something to it... stories, bones, stones, and memories... until it seemed older than it truly was.
+Ealhild's family had their traditions and superstitions regarding the land and the family barrow. Each generation added something to it... stories, bones, stones, and memories... until it seemed older than it truly was.
 
 Her mother taught her that one day, she would marry, and would travel far away. To carry the family traditions to a new valley was a great honor, and a great responsibility.
 
@@ -139,7 +140,9 @@ She arrived at the cottage in five days, a reasonably fast trek. Osric's fyrdmen
 She asked for a small measure of beer and Osric's family copper bowl to prepare her ritual. He obliged his new bride. The copper bowl signified his acceptance of the Freyr-wisdom to the land, and the spirits from the stone. They accepted him as one of their own. The blood and beer were mixed, and she dipped the barley into the paint. She painted two runes on the stone:
 
 ᚠ: Fé, the rune of wealth and cattle, to invoke Freyr’s favor, and
-ᛟ: Ōþalan, the rune of ancestry and connection, to help the barrow-spirits find their kin.
+ᛟ: Ōþila, the rune of ancestry and connection, to help the barrow-spirits find their kin.
+
+When Osric asked about the runes, Ealhild smiled. She mentioned that these were the old ways, especially the Ōþila rune, a rune few Northmen used any more. But she patiently explained their meaning. And he tried to understand.
 
 The dowry-promise of more cows was paid two years after she arrived, bringing their pen to four cows. Their wealth steadily grew, as Osric could now provide grain, and Ealhild provided the cream and butter. Osric had not yet built his cheese vats; that would come when he had enough cows, and children tall enough to reach the center for the skimming. Until then, they traded the leftover cream to their neighbor for finished cheese.
 

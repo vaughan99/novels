@@ -200,19 +200,15 @@ The roof was a lost cause; he needed at least three stout men to mend it safely.
 
 He found his hand-axe and set himself to the work. The first stroke jarred his shoulder. His lungs still felt cold-bitten and taut, but he kept going. The second stroke bit cleanly into the wood. By the third, the old strength surged through his arm once more.
 
-In the last of the wreckage, near the hearth, he found his boar-spear and shield. They had fallen in the collapse. The spear’s pole was broken near the head, the pole split its entire length. The shield-rim was bent, and the boards had snapped under the weight.
+In the last of the wreckage, near the hearth, he found his hewing spear and shield. They had fallen in the collapse. The spear’s pole was broken near the head, the pole split its entire length. The shield-rim was bent, and the boards had snapped under the weight.
 
 The spearhead he burned free from the pole in the hearth. The steel was still useful, but he would have to find a new pole. The shield's iron strapping could be reset with a forge, and the boss was still stout. A few hours at the smith's, and his shield could be restored.
 
-There on the wall, he found his father's war broad-seax hanging from a nail. He had used it for training, and he carried it with him on the road any time he left. Made for one hand or two, it was thick with intimidation.
-
-Not many in the fyrd chose a weapon like this; it was a luxury beyond the simple farmer's axe. He gave it a few test swings to remember the heft and balance. Then he sharpened it by the hearth, warm light sliding along the blade and returning to his eyes.
-
-He could still picture the day his father left for the fyrd the day after returning from buying the plowshare and meeting Ealhild. His father carried it to his last battle.
+He could still picture the day his father left for the fyrd the day after returning from buying the plowshare and meeting Ealhild. His father carried the famous spear to his last battle.
 
 He could picture the day it came home again, carried to Osric by a somber fyrdman. His mother had died the winter before, and he met the man _alone_ at the threshold.
 
-The seax. The farm. The debts. The duty. All became his inheritance on that day. Before Ealhild came.
+The hewing spear. The farm. The debts. The duty. All became his inheritance on that day. Before Ealhild came.
 
 Winter finally gave way to the beginning of the thaw. Out on the road, the silence was broken by the sound of horses and men.
 
@@ -230,7 +226,7 @@ Galindo stopped his horse near the stone path. He looked with dismay at the stat
 
 The joke landed on deaf ears. No one laughed. The other men stood, their eyes fixed on the missing roof and shambles outside his doorway.
 
-Osric's voice was flat. His eyes stared through Galindo's. "I can't, my lord. You have known me for three winters. Know that my family fell under a sickness curse on winter's first night. My wife and children are gone. My spear and shield are broken, but repairable. I have my war blade. But I have no one to take care of the livestock."
+Osric's voice was flat. His eyes stared through Galindo's. "I can't, my lord. You have known me for three winters. Know that my family fell under a sickness curse on winter's first night. My wife and children are gone. My spear and shield are broken, but repairable. I have my brush axe. But I have no one to take care of the livestock."
 
 Galindo narrowed his eyes to consider the words. His gaze swept from Osric to the missing roof. He stammered to find the words, blinking several times. His lips finally settled. "And... your roof, Osric? **¡Valame Dios!** What happened here?" His native Castilian tongue gained control for a moment, reacting to the sight.
 
@@ -264,7 +260,7 @@ The _nisse_ looked up.
 
 "Then we'll lead you to the place where it can matter again," said the first.
 
-The nisse raced to the corner and grabbed an empty barrel. Barrel in hand, it bounded into the cottage and found items of Osric's life. It took his father's broad-seax, his spear head, and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The _nisse_ took ash from the hearth, and the roasting spit.
+The nisse raced to the corner and grabbed an empty barrel. Barrel in hand, it bounded into the cottage and found items of Osric's life. It took his long hewing spearhead and his shield-parts. Then it found Ealhild's cookware, her apron, and her nine-medicine bag. It found the children's little wooden statue-toys, dolls, and bauble stones they collected.  It found the remains of the poisoned syrup. The _nisse_ took ash from the hearth, and the roasting spit.
 
 All of it went into the barrel.
 
