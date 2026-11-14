@@ -98,7 +98,7 @@ That's when the big "A" stepped forward, took his giant mace, and smacked Geryon
 
 Then, there was one last voop.
 
-It was Gate. And he had a stack of infernal parchment under one arm, a sack of platinum coins in the other, and a small sand-glass tied to his neck.
+It was Gate. And he had a stack of infernal parchment under one arm, a sack of platinum coins in the other.
 
 The big "A" turned, walked ten steps back behind his bodyguards, and prepared to give a grand speech just as Geryon gave his last breath.
 
@@ -130,9 +130,9 @@ A few of the dwarves started laughing hysterically. A few of the pit fiends star
 
 The dwarves were dying of laughter. A few smiles appeared on the faces of big "A"'s own bodyguards. The townsfolk, who had been scared out of their wits, finally started to loosen up. They finally realized they weren't about to die.
 
-Gate drew a deep breath, then continued. He took another look at the book, waited another breath's worth of time, and spoke.
+Gate drew a deep breath. He took another look at the book, waited another breath's worth of time, and spoke.
 
-"The paperwork has already been filed in Dis... just... NOW. This notification is merely a... courtesy."
+"The paperwork has already been filed in Dis. This notification is merely a... courtesy."
 
 He snapped the book closed and looked the big "A" right in the eye with a big smile. “I intend to open Kaer Maga's first Bank of Mammon.”
 
@@ -150,19 +150,19 @@ I looked over at Deadline. He was searching his pack for his journal, and for th
 
 So, one by one, each of the devils, angels, gods, warriors and constructs all vooped away. Leaving Gate talking to survivors and heirs, marking property lines, and occasionally stopping to stare at Geryon's corpse. His corpse was turning to stone at that point, and the fissure that he opened was in the center of his coils.
 
-Wings vooped in, turned to Gate and smiled. She had a book in her hands as well.
+Wings vooped in, turned to Gate and smiled. She had a book in one hand, and a stamped piece of parchment in the other.
 
-I had never seen her smile until that moment. Then she handed Gate a piece of stamped parchment. I don't read Infernal, but I recognize an APPROVED stamp when I see one.
+I had never seen her smile until that moment. Then she handed Gate the stamped parchment. I don't read Infernal, but I recognize an APPROVED stamp when I see one.
 
 Apparently she had been sent to the Fallen Fastness in Dis... that's where the Infernal Court has its Property and Claims Division. She had been sent the previous night to wait in its queue with the paperwork. She saw an Asmodean in the queue just behind her, hiding his paperwork. She said she filed just before he did.
 
 The two books in the Gate and Wings' hands also looked _very_ familiar. I nudged Deadline to take a look, and lo and behold, Wings had stolen the two journals... one from Deadline, and one from his editor. Wings and Gate had used them to coordinate the filing.
 
-Deadline marched right up to Wings and held out his hand. Wings smiled, politely said "thank you", and handed him his journal. She took the other journal from Gate, and vooped away. Deadline got confirmation a few minutes later that his editor had gotten his back too.
+Deadline marched right up to Wings and held out his hand. Wings smiled, said "thank you" with a smirk, and handed him his journal. She took the other journal from Gate, and vooped away. Deadline got confirmation a few minutes later that his editor had gotten his back too.
 
-Gate didn't miss a beat. He turned to the crowd. "All affected property owners or their heirs please step forward for compensation. Please have your deeds or other proof of ownership in hand. Thank you."
+Gate turned to the crowd. "All affected property owners or their heirs please step forward for compensation. Please have your deeds or other proof of ownership in hand. Thank you."
 
-After he made all the contacts he needed to secure the purchase of the ruins Gate turned and approached me. "Well, you mentioned your tent had thin walls. How would you like to relocate? Your divination skills are quite... _profitable_. And I can't envision a more secure place. I'm moving here myself. There's a lot of work to make that fissure and the Seal's vault into one super-vault. I could use a partner, and a tenant while I do the build-out. I can put you right... there, under the archway made by that coil."
+After he made all the contacts he needed to secure the purchase of the ruins Gate turned and approached me. "Well, you mentioned your tent had thin walls. How would you like to relocate? Your divination skills are quite... _profitable_. And I can't envision a more secure place. I'm moving here myself. There's a lot of work to secure the shaft and build out the bank. I could use a partner, and a tenant while I do the build-out. I can put you right... there, under the archway made by that coil."
 
 I told him I'd think about it.
 
@@ -170,17 +170,15 @@ I wasn't sure I wanted a business partner. Or a landlord. But having both really
 
 So they finally got a yes out of me.
 
-And we struck a deal. I'd move my business here, in the remains of Geryon's stone corpse. And he would keep everything I made in his vault. The vault that starts with Geryon's corpse and leads a mile down into the Underdark, culminating in the Seal's hidden vault. I think the entrance _was_ Geryon's spleen. Maybe liver. Not sure.
+And we struck a deal. I'd move my business here, in the remains of Geryon's stone corpse. Gate would have private access to my divinations. And he would keep everything I made in his vault. The vault that starts with Geryon's corpse and leads a mile down into the Underdark, culminating in the Seal's hidden vault. I think the entrance _was_ Geryon's spleen. Maybe liver. Not sure.
 
-But it means he has to keep the common iron too. And anything else I get as payments. It's funny to think there's a coop full of chickens being guarded as closely as a stack of platinum bars. But hey, this is Kaer Maga. Stranger things happen here.
+But it means he has to keep the common iron too. And anything else I get as payments. It's funny to think there's a coop full of chickens being guarded as closely as a stack of platinum bars somewhere down there. But hey, this is Kaer Maga. Stranger things happen here.
 
 Didn't take long for Gate to open doorways in Geryon's brain. He's found a world of goodies hidden in there. Can't go into it all, but let's say there's doorways to things you can only dream of. Now Gate's promotion to pit-fiend is probably just a formality.
 
-Oh, and don't try to go down. The entrance is guarded by the largest mimic you ever saw. Let's call him "Guard Dog". He knows the smell of us here at the shop, but that's it. 
+Oh, and don't try to go down. The entrance is guarded by the largest mimic you ever saw. Let's call him "Guard Dog". He knows the smell of us here at the shop, but he doesn't know your smell. 
 
 Didn't I tell you that story? About the mimic child. I think I did. Anyway, the two hedge wizards didn't want it, and it needed a home. Quill filed it under "escrow" and, well, it ate the escrow chest. And it _became_ the escrow chest. He's a good "Guard Dog". _Yes he is_. Now we just need Mop to stop feeding him.
-
-By the way, if you go looking for the hundred-tooth mithral key, you'll need to coax it out of Guard Dog. It's somewhere down in his gullet. Good luck with that.
 
 Once we finally moved in, Gate had a present for Quill. Now, you must know, Mammon and his devils _never_ give presents. Unless they have a purpose.
 
