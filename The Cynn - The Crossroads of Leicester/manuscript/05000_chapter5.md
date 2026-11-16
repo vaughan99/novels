@@ -134,7 +134,9 @@ The last two caught his attention before he reached them. They had the bearing o
 
 One pointed to their armor.
 
-They offered little else, though they seemed to understand him well enough. At the mention of silver and Hexham, they exchanged a glance, rose, and found their pack pony loaded with furs, rolls of tanned leather, tools, and supplies. The taller one shouldered a bow whose construction defied Cynewulf's knowledge, and looked impossible to string.
+They offered little else, though they seemed to understand him well enough. At the mention of silver and Hexham, they exchanged a glance, rose, and found their pack pony loaded with furs, rolls of tanned leather, tools, and supplies.
+
+The taller one shouldered a bow whose construction defied Cynewulf's knowledge, and looked impossible to string. The shorter one had a knife whose handle was inlaid with polished amber.
 
 They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time he had judged men by who might keep one from harm.
 
