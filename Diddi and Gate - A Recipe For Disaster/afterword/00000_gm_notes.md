@@ -24,7 +24,7 @@ Note that the Bank of Abadar offers no standing whatsoever to the Church of the 
 
 Some examples of street contests:
 
----
+***
 
 Two knitting grandmothers part of a knitting circle accuse each other of stealing yarn. They carry their argument into the street. Fixer happens by. They're about to throw punches. Fixer yells "CITIZENS! STOP WHAT YOU'RE DOING AND GATHER ROUND! TIME FOR A BEAT-DOWN!" He hands them bats with a minimal amount of padding, says it will go ten rounds, and starts taking bets.
 
@@ -38,7 +38,7 @@ Two knitting grandmothers part of a knitting circle accuse each other of stealin
 
 "Yo mama!"
 
----
+***
 
 Two vampires get into an argument about an insult about one's patron vampire. Someone chases down Fixer to come quick before the vampires start a blood war over a simple insult. Fixer organizes a drinking contest... several humans are picked to get pass-out drunk, and the two vampires must drink their blood (from vials) until one passes out. The other is the winner.
 
@@ -58,7 +58,7 @@ A newcomer to Oriat stumbles upon a spectacle involving a barrel of ale, 5 human
 
 "Yep! Thirty silver on the lanky vampire... the other one doesn't look like he can hold his blood liquor."
 
----
+***
 
 An orc weaponsmith and a gnomish armorer get into an argument over an iron shipment. They both claim it. Fixer decides on a hot-sauce eating competition, since that favors neither person.
 
@@ -94,7 +94,7 @@ An orc weaponsmith and a gnomish armorer get into an argument over an iron shipm
 
 "... ... Mmmmm... Fine... gimme da milk."
 
----
+***
 
 
 ### Sufferer's Digest
@@ -107,7 +107,8 @@ Sufferer's Digest has a competitor, _The Daily Flogger_, that is the opposite. I
 
 Here's an example article written by Deadline, one of Sufferer's Digest premier beat-writers, about a week spent following Mop around and writing about jump-scares.
 
----
+***
+
 The Delight of Social Isolation Brought About By Addiction to Jump Scares
 
 Location: Kaer Maga, Oriat District
@@ -139,4 +140,5 @@ Once you are done, burn the evidence. Attempt a recovery. Notice the difficulty 
 Occasionally, perhaps once a decade, schedule a relapse. Recovering from relapses is a good distraction from the routine. Have your spouse engage in a relapse with you. Co-dependence with a shared addiction truly spices up the bedroom and makes the experience much more difficult.
 
 Until next time, this is Deadline, your favorite tormentor. May all your torments be shared with loved ones.
----
+
+***

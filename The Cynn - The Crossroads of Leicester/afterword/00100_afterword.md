@@ -50,7 +50,7 @@ We often play the characters we wish we could be.
 
 For me, apparently, that means the people who make mythological awesomeness: from the mostly mundane +1 dagger to the mythic +5 vortex-summoner of doom called Wodbora.
 
----
+***
 
 ## Who Are The Cynn, Really?
 
@@ -62,7 +62,7 @@ The Cynn forge-elves, at their heart, belong to maker culture. They respect the 
 
 I portray them as both invisible and intensely giddy. Strip away the titles, the expertise, and the seriousness of craft, and what's left is the childish wonder of an elf who thinks forging and mythmaking are fun.
 
----
+***
 
 ### The Church, The Shadow Gate and Under-Geat
 
@@ -92,7 +92,7 @@ The fictional Shadow Gate thus serves not only as the entrance to the Church's _
 
 Under-Geat arose from a simple observation. A church standing beside what amounted to a Roman stone quarry and a quarry of relics, would likely accumulate considerable wealth and influence. The needs of such a minster would naturally foster its own supporting economy. Under-Geat and the Old Frith are my attempt to imagine that ecosystem.
 
----
+***
 
 ### Leicester and the Peace of 943
 
@@ -131,8 +131,7 @@ The settlement itself was short-lived. Under the reconstruction followed here, t
 
 For the common Saxon soldier who had fought to retake those towns only to see them restored to Olaf by agreement, however, the peace could easily have felt like betrayal.
 
----
-
+***
 
 ### Who is Ealdorman Oswulf?
 
@@ -148,7 +147,7 @@ There is no surviving record of such an arrangement. But men do not normally app
 
 That also suggests an answer to another question: why would Oswulf send a fyrd to support the Saxons rather than York at Leicester in 943? To cultivate favor with Wessex in case the political tides shifted in Northumbria. By 946, they had shifted significantly in Oswulf’s favor.
 
----
+***
 
 ### Living Between Worlds
 
@@ -166,7 +165,7 @@ Elswyth lives between worlds differently. She learns prayers from priests and un
 
 The point is not that paganism and Christianity were secretly identical, or that their coexistence was always peaceful. They could conflict sharply. But the Danelaw was a place where old and new ideas overlapped, competed, and reshaped one another. Osric and Ealhild show this in field and hearth; Elswyth in culture and memory; Cynewulf in doctrine and conscience.
 
----
+***
 
 ### Wyrd (And Why It's So Weird)
 
@@ -198,8 +197,7 @@ Suddenly, the one certainty upon which he built his understanding of reality no 
 
 The idea of fate behaving more like gravity within a given time horizon (mortality for mortals, infinity for gods) is what makes _wyrd_ so wonderfully weird to me. I cannot say that _wyrd_ is part of my personal philosophy, but it is an interesting concept to explore, especially in the context of a magic system.
 
-
----
+***
 
 ### Agency of Magical Artifacts
 
@@ -215,7 +213,7 @@ In practical terms, the distinction functions as a metaphysical safeguard. The w
 
 Wodbora is not merely a weapon. It is an actor within the story's cosmology, possessing its own place within wyrd, its own obligations, and its own voice.
 
----
+***
 
 ### The Many Faces of the _Wodhere_
 
@@ -235,8 +233,7 @@ For modern readers, the Wild Hunt is often encountered as a piece of folklore de
 
 The Wodhere in this novel is therefore not intended as a reconstruction of any single historical tradition. It is an exploration of how traditions survive by changing, and how stories continue to ride long after the worlds that created them have begun to fade.
 
----
-
+***
 
 ## The Blades
 
@@ -263,21 +260,13 @@ Made by Tobin Nieto of Stonehaven Forge (Forged in Fire winner in season 2, epis
 | Scabbard Reverse Line 1 (small font) | Spell hǣlu | Wodbora cwiþ                              | ᚹᚩᛞᛒᚩᚱᚪ · ᚳᚹᛁᚦ                                      | WOD-bor-ah QUITH                                          | Wodbora says:                                 |
 | Scabbard Reverse Line 2 (large font) | Spell       | Atola Wodhere, ne þū lencg gebunden eart! | ᚪᛏᚩᛚᚪ · ᚹᚩᛞᚻᛖᚱᛖ · ᚾᛖ · ᚦᚢ · ᛚᛖᚾᚳᚷ · ᚷᛖᛒᚢᚾᛞᛖᚾ · ᛖᚪᚱᛏ | AH-tol-ah WOD-her-eh, neh thoo lenj geh-BOON-den eh-ahrt! | Hideous Mad-Host, thou art bound no longer!   |
 
----
+***
 
-### Barrow's Edge, the Hedge-Stalker
+### Barrow's Reach, the Hedge-Warden
 
-#### Inscriptions
+This spear has no inscriptions besides the Elder Futhark rune inlaid with jet.
 
-
-| Location              | Function | Old English      | Futhorc Runes          | Pronunciation         | Meaning                |
-| --------------------- | -------- | ---------------- | ---------------------- | --------------------- | ---------------------- |
-| Blade Side A (silver) | Name     | Beorg-ecg        | ᛒᛖᚩᚱᚷ ᛫ ᛖᚳᚷ            | BY-org-edge           | Barrow's Edge          |
-| Blade Side B (silver) | Title    | Hæcge-stælre     | ᚻᚫᚳᚷᛖ ᛫ ᛋᛏᚫᛚᚱᛖ         | HATCH-eh-STAL-reh     | Hedge-Stalker          |
-| Scabbard Obverse      | Ward     | Mēt sceadu-fyrd  | ᛗᛖᛏ ᛫  ᛋᚳᛖᚪᛞᚢ ᛫  ᚠᚣᚱᛞ  | MAYT SHA-doo FEERD    | Meet the shadow-fyrd   |
-| Scabbard Reverse      | Spell    | Mēt sceadu-heorþ | ᛗᛖᛏ ᛫  ᛋᚳᛖᚪᛞᚢ ᛫  ᚻᛖᚩᚱᚦ | MAYT SHA-doo HAY-orth | Meet the shadow-hearth |
-
----
+***
 
 ### Monanleoht, the Battle-Dancer
 
@@ -290,7 +279,7 @@ Made by Tobin Nieto of Stonehaven Forge (Forged in Fire winner in season 2, epis
 | Scabbard Obverse (Outward) | Oath     | Wē gameniaþ on lēoðe | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛚᛖᚩᚦᛖ``` | way GAH-men-ee-ath on LAY-oh-theh | We play/rejoice in song/poetry |
 | Scabbard Reverse (Inward)  | Spell    | Wē gameniaþ on blōde | ```ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ``` | way GAH-men-ee-ath on BLOH-deh    | We play/rejoice in blood       |
 
----
+***
 
 ### Tauawt
 
@@ -300,7 +289,7 @@ Madoc was unhappy with the blacksmith's selection when buying his blade, so he p
 
 Tauawt matters because Madoc is trying to manufacture myth around an ordinary object. He names it, boasts about it, gives it personality, invents lore around it, and treats it as though legend were something that could be imposed by force of will.
 
----
+***
 
 ### Briar-Bite
 
@@ -313,3 +302,5 @@ Beorn, a 7-year-old child, insisted that his favorite toy-whittling knife should
 Whether it is the name itself, or the way the knife reminds Osric that Barrow’s Edge is only glamour, makes Briar-Bite worthy of its own story.
 
 For the reader to decide is whether perhaps that is enough to make it magical.
+
+
