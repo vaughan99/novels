@@ -196,21 +196,27 @@ She fell.
 
 She rolled down a steep hill of crumbled brick into a pile of dust and debris. She was slightly bruised, but otherwise unharmed. She quickly stood, peering back up at the archway in the wall where she had been standing. There was nobody there she could see who would've pushed her.
 
-She looked around her. It was almost too dark to see. Moonlight from the archway barely caught the outline of an arch and a bench. She stumbled a bit over broken tiles and brick, picking her footing carefully. Suddenly a ray of moonlight caught a stone bench. On the bench was a chest. It had the same emblem.
+She looked around her. It was almost too dark to see, but from what she could tell this must have been a small changing room set apart from the main bathhouse.
+
+Moonlight from the hole in the wall barely caught the outline of an archway before her, and a bench to her right. She stumbled a bit over broken tiles and brick, picking her footing carefully.
+
+She peered briefly at the bench. On the bench was a chest. It had the emblem of the broken anvil, oak tree, and hammers.
 
 On top of the chest lay a narrow black scabbard, a hint of silver marten fur peeking from its throat. The forked white elk antler handle of Fussleton's knife beckoned her to draw the blade.
 
 She stared at the handle. She wondered how many times he must have drawn that handle to deal death to his victims.
 
-It was somehow married to her prize silver marten fur.
-
-The same offering.
+It was somehow married to her prize silver marten fur. She grimaced in disgust.
 
 Within the sheath slept _Monanleoht, the Battle-Dancer_.
 
-She took the blade just as she heard calling from the archway above. The wolf-men found the hole through which she was pushed. They stopped and listened. They heard her quickened breath. They prepared themselves to descend the hill of debris, slowly and carefully.
+She took the blade just as she heard calling from the archway above. The wolf-men found the hole through which she was pushed. They stopped and listened. One said that he heard footfalls, and prepared himself to descend the hill of debris, slowly and carefully.
 
-She stumbled through the archway. She found the _frigidarium_[^frigidarium], the room just beyond the entrance-way that was the Jewry Wall. She could hear the wolves chasing Osric, so she dared not run out into the open. She backed into the open hall, facing the archway to the room where she fell in.
+She stumbled through the archway, and found herself in the _frigidarium_[^frigidarium], a large enclosed room of stone. To her right, she could see the colonnades and the Jewry Wall entrance. To her left were the baths, but no exit she could see.
+
+She could hear the wolves chasing Osric, so she dared not run out into the open.
+
+She turned to face the archway, and backed into the open hall. She kept backing up until she nearly walked through another archway into another changing room. The nearest viking stood a mere hundred feet away.
 
 [^frigidarium]: frigidarium: a room in a Roman bathhouse that is not heated
 

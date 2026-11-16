@@ -26,7 +26,7 @@ She stared at the blade, narrowing her gaze. "And why should I trust anything yo
 
 And still, the blade lay there, unmoving.
 
-The first of the wolf-men jumped and landed in the pool. He saw her and immediately called to the others.
+The first of the wolf-men had reached level ground. He saw her and immediately called to the others.
 
 She could run, but then Osric's wolf-men would find her. And if she stayed and didn't fight the Ulfhednar, she'd die anyway.
 
@@ -52,9 +52,9 @@ But if you seek the redcap's grace,
 Speak his spell, he'll take my place.
 ```
 
-The viking was wading through the water, eager to be the first to take Elswyth as a prize.
+The viking was picking his steps, eager to be the first to take Elswyth as a prize.
 
-"The Vikings are going to kill me."
+"The Vikings are going to kill me. Or worse!"
 
 There was no answer from the blade.
 
@@ -71,7 +71,7 @@ If all you want is crimson flood,
 Then speak these words: ᚹᛖ ᛫ ᚷᚪᛗᛖᚾᛁᚪᚦ ᛫ ᚩᚾ ᛫ ᛒᛚᚩᛞᛖ (We play in blood)
 ```
 
-The first wolf-man was almost to the edge of the pool.
+The first wolf-man was almost to the archway.
 
 Elswyth drew a long breath.
 
@@ -95,7 +95,7 @@ The redcap resumed his commanding, authoritative tone.
 
 "Now, LISTEN UP! Pay... attention," it hissed.  "I have no patience, Meadow-bud, so I will only say each phrase ONCE. You MUST repeat them on the flea's leg. You'll find you know the words, you just haven't... danced the language... hee hee hee! Mind the broken tiles too, don't want to trip over your own roots. And don't worry... I'm a fabulous dancing partner!"
 
-Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings had jumped into the plunge pool, but the archway served as a choke-point, and slowing them enough to allow them to approach only one at a time.
+Those last words came just before the dance was to begin. The eyes of the redcap veered towards the approaching first Viking. The Vikings were descending the mound of rubble one at a time, and the first had reached the archway into the frigidarium.
 
 A strange warmth flooded her limbs. Not the warmth of a hearth or summer sun, but something sly and invasive, creeping through her blood like roots beneath soil.
 
@@ -143,7 +143,7 @@ The opening was obvious.
 
 Impossible to miss.
 
-_Monanleoht_ leapt from her hands like moonlight cast into motion. The blade bit upward through leather and flesh.
+_Monanleoht_ almost pulled her hand like moonlight cast into motion. The blade bit upward through leather and flesh.
 
 Only then did the rest of the world rush back.
 
@@ -158,7 +158,7 @@ Roll to right, deliver harm.
 
 He dropped his spear with a grunt, the spearpoint collapsing in size to almost nothing falling away to a floor that seemed far away. His shield hand snapped instantly to the wound. But the wound was not important either. Her eyes drifted to the right as his knee became as large as a table.
 
-The reflex had  pulled his shield away, exposing his lower leg. Elswyth threw herself to the right. Her back curled against the cold stone as she fell. The floor had no shape. No meaning. No interest.
+The reflex had pulled his shield away, exposing his lower leg. Elswyth threw herself to the right. Her back curled against the cold stone as she fell. The floor had no shape. No meaning. No interest.
 
 Only the knee mattered.
 
@@ -203,11 +203,11 @@ Not because it moved slowly.
 
 Because she could see too much of it.
 
-She stepped into his struggling guard, gripped _Monanleoht_ with both hands and brought it down in a hard, crushing arc. The blade sheared through his wrist. A spray of hot blood was followed by the severed hand striking the tile. His battle was done.
+She stepped into his struggling guard, gripped _Monanleoht_ tight and pushed hard. The blade's tip slid through the bones of his forearm and into his waist. A spray of hot blood stained the tile as he staggered back, falling onto broken brick as he clutched his wounds with his other arm. His battle was done.
 
 The world lurched.
 
-The giant hand became a hand again. The blood became blood. The warrior became a warrior. Yet something still felt wrong. Every object in the room seemed poised upon the head of a pin, balanced between growing enormous and shrinking to nothing. The world had remembered its proper shape, but every object negotiated its certainty.
+The blood became blood. The warrior became a warrior. Yet something still felt wrong. Every object in the room seemed poised upon the head of a pin, balanced between growing enormous and shrinking to nothing. The world had remembered its proper shape, but every object negotiated its size with relative uncertainty.
 
 Elswyth swayed.
 
@@ -219,9 +219,11 @@ She had handled the first Viking, and she thought it miraculous. The blade's poi
 Oh, first time to draw blood? Merely adequate, meadow-bud. A bit disappointing though... the boy’s blood-juice is sweet, yes, but harvested too early. It is under-mooned. Far too under-mooned to a proper redcap's liking. A flat profile, definitely on the waning side. Still.. the essence of roasted morel from his last feast on the nose has that woodsy depth, rescuing the ... wait a beat... I... I can taste?! I CAN TASTE! Those crazy soul-jailers didn't just lock me in the dark... they gave me the keys to the larder! Oh, those beautiful, soot-stained forge-leeches! They knew I'd starve in here. They knew I'd rot. So they made the steel my tongue! Every blood-drop... a morsel! Every cut... a banquet! Oh those forge-elves are genius!
 "
 
-The second Ulfhednar was slow to approach from the pool, being wary of what he'd just seen. He was well-appointed: chain full-shirt, wolf headdress over spangenhelm, hand axe and stout shield. He had a professional battle-gait, and was ready.
+The second Ulfhednar was slow to approach the archway, being wary of what he'd just seen. He was well-appointed: chain full-shirt, wolf headdress over spangenhelm, hand axe and stout shield. He had a professional battle-gait, and was ready.
 
 "Oh, watch out for this one now. He's quick to the step. Well-balanced. Very seasoned. Heavy iron in his blood. Start the music!"
+
+The gnome in the blade started to whistle a lively tune, one that accommodated the rhymes that he was about to sing.
 
 ```
 Shiny shirt of iron rings,
@@ -314,7 +316,7 @@ Step right now, and coil the spring,
 Drop the knee of castled king!
 ```
 
-Elswyth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Monanleoht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the sword, breaking the clay's hold and leaving the antler handle sticking right up out of his ruined boot.
+Elswyth dropped low beneath his shield-line. Raising her boot, she delivered a brutal, snapping kick straight into the side of his exposed knee. The joint buckled with a sickening crunch. With one foot pinned immovably by Monanleoht and his other knee compromised, the veteran's balance vanished. His structure collapsed, and he crashed heavily onto the broken tile, the sound of his gear echoing off the marble. The leverage of his falling weight wrenched his pinned foot upward against the seax, breaking the clay's hold and leaving the antler handle sticking right up out of his ruined boot.
 
 ```
 Take iron from the leather,
@@ -324,18 +326,26 @@ End the wolf altogether.
 Elswyth stepped forward, re-engaging her grip on the hilt. She smoothly pulled the blade free. His legs were before her, unguarded, as he tried to drag himself to safety. But the rhyme was merciless:
 
 ```
-Hack the pillar, slice the vein,
+Stab the pillar, slice the vein,
 Let the crimson river rain.
 ```
 
-Without a shred of hesitation, Elswyth brought Monanleoht down in a rapid, heavy succession of hacking strikes. The silver steel tore through the leather and flesh of his defenseless calves, slicing deep into the fertile blood vessels beneath.
+Without a shred of hesitation, Elswyth brought Monanleoht down again, stabbing deep into his calf. The viking screamed.
 
-The redcap gave her a finishing command: to watch him bleed.
+The redcap repeated the rhyme.
+
+Elsywth paused, staring at the blood. She put her left hand on his leg, withdrew the knife. And stabbed again.
+
+The viking begged and pleaded.
+
+But Elswyth did not relent. Twice more she delivered strikes intended to make him bleed, slicing deep into the fertile blood vessels beneath his skin.
 
 ```
 Soak the field for mushroom leigh,
 Blood to tile, and none for thee!
 ```
+
+She stepped back, and stood, repeating the words. His blood flowed as he started to lose consciousness.
 
 "
 Oh Meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with a hint of mist and dill on the backside to counterbalance the rustier iron on the front. Definitely an improvement, but we *still* need to work on your victim selection. Oh, and now! Ha ha... hmmmm... ha ha... for the *hogs-head* of the feast!
@@ -344,6 +354,8 @@ Oh Meadow-bud, this one had a fuller body... moon-flavor definitely waxing, with
 Grinjaw, undeterred by the surprising tenacity of Elswyth, knew that raw power intimidates almost everyone. He firmly gripped his dane-axe, and drew into a wary battle stance in front of her, leveling his steely gaze. He paid no attention to the two dying men. He wanted to make Elswyth pay.
 
 "You... girl from darkwood... I know you. The wolf has caught your scent again," Grinjaw taunted. He smiled confidently. Nobody had bested him in a tactical fight, not even Killwoven.
+
+"I was going to take you," he continued. "But now I see you will never be caged, little rabbit. Pity that you must be... ended."
 
 "I'm... not afraid... of you," Elswyth stammered.
 
@@ -360,18 +372,18 @@ Tempt him, sway him, come to play,
 I'll have him now for lunch... today!
 ```
 
-The _Ulfhednar_ chief's muscles swelled beneath his furs, shifting his wide stance as he prepared to deliver a world-shattering cleave.
+The _Ulfhednar_ chief's muscles swelled beneath his furs as he beat his chest with one of his fists.
 
-But the Redcap's eyes widened with glee.
+The Redcap's eyes widened with glee.
 
-"He looks mean, but watch how easy this is!"
+Elswyth drew a long breath. Her mind briefly flashed back to the standoff with Fussleton, the moment he started counting just before he charged her. She started counting down, readying her feet, her breath, and her addled mind.
 
 ```
 Draw the hog onto the break,
 Broken tile his gait forsake,
 ```
 
-Elswyth was shaking, and Grinjaw grew ever more confident. She retreated slowly murmuring the words, and Grinjaw followed, never taking his eyes off hers. "Where are you going? There's nowhere to run," he mocked.
+Elswyth was shaking. She retreated slowly murmuring the words, and Grinjaw followed, never taking his eyes off hers. "Where are you going? There's nowhere to run," he mocked. "And now you die."
 
 ```
 Great Dane axe of mountain oak,
@@ -384,11 +396,21 @@ Past the handle you have stepped,
 Where his ribs are poorly kept.
 ```
 
-The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elswyth side-stepped the blow easily. His boot crunched through the broken tile, wedged tight. He couldn't recover.
+Suddenly Grinjaw gathered for a mighty cleave just as Elswyth reached 'three'.
+
+"TWO!" she yelled quickly, speeding her count.
+
+The dane axe crashed from a strong overhead chop. It was meant for her head, of course, but Elswyth side-stepped the blow easily. His boot crunched through the broken tile, wedged tight.
+
+He couldn't recover.
 
 Without waiting for more rhyme, Elswyth's vision moved to the giant chest. She heard the beating of his heart and could even see it, pushing and pulling on his chest. It sounded like the footfalls of an army in motion.
 
-Elswyth drove full into the thrust with both hands, and Monanleoht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river. Elswyth, in a breath of heated rage, whispered in Grinjaw's ear:
+"ONE!" she yelled again as she threw herself forward, driving full into the thrust with both hands. Monanleoht slid easily into the bone-cage. The blade found his heart, and blood flowed like a moon-lit river.
+
+Elswyth whispered, "Done."
+
+In a breath of heated rage, she leaned in closer, and whispered in Grinjaw's ear:
 
 ```
 Took me once for easy prey,
@@ -397,7 +419,7 @@ Take the coalgirl's blade and see,
 Blood to earth, and none for thee.
 ```
 
-Grinjaw dropped his axe and gripped Elswyth's apron with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her apron as he slid backwards off the blade, landing heavily in a crimson pool of his own making.
+Grinjaw dropped his axe and gripped Elswyth's apron with both hands, as if to throw her in a final fit of rage. He stared hard into her eyes, then looked upwards as if the Valkyries had just arrived to claim his soul. His immense strength quickly faded, his fingers slipping from her apron as he slid backwards off the blade, landing heavily on the tile. He lay there, dead, in a crimson pool of his own making.
 
 "Well, Meadow-bud, you've got a taste for it now. That rhyme wasn't even mine! I'm jealous. But... oh... I'm witness to a culinary marvel. I won't share with you the flavor of that last one... very... personal. But you did well."
 
@@ -429,15 +451,17 @@ _Click._
 
 Elswyth put Monanleoht back in its cage, the pommel's lock silencing the gnome.
 
+The moment the blade was secure, the world around her started to teeter. Objects started to stare back at her. The sound of her breath was like the sound of fifty children laughing and crying at the same time.
+
 With the redcap no longer there to guide her senses, she descended into madness.
 
-Every drop of water falling into the cistern became a crystal sphere, hanging impossibly in the air before crashing into the pool with the roar of a collapsing tower.
+Every drop of water dripping from the ceiling hung impossibly in the air before crashing onto the tile with the roar of a collapsing tower.
 
 She fell to her knees.
 
 Every tile smiled at her.
 
-She reached down to cover one face with her hand. Instead she found another staring back at her. The pale crescents of her fingernails gleamed like tiny moons, each fixed in its own silent grin.
+She reached down to cover one face with her hand. The pale crescents of her fingernails gleamed like tiny moons, each fixed in its own silent grin.
 
 She squeezed her eyes shut.
 

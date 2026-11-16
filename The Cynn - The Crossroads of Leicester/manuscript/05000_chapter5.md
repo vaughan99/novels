@@ -126,13 +126,15 @@ Cynewulf smiled despite himself.
 
 Two young brothers sat apart from the others, their shields stacked neatly beside them. Their eldest brother's warband had left before dawn without waking them. Whether through cruelty or indifference hardly mattered now. They wore the wounded pride of men determined never to be left behind again.
 
-The last two caught his attention before he reached them. They had the bearing of Northmen but their armor was different from the others. It was made of both fur and horn plates, laced together until each man seemed wrapped in the scales of some great hairy fish. They spoke to each other in a foreign tongue, something more eastern than that of the Danes. When Cynewulf asked if they had served Olaf, they laughed.
+The last two caught his attention before he reached them. They had the bearing of Northmen but their armor was different from the others. It was made of leather rectangles, laced together, overlapping like the tegulae[^tegulae] of the roofs of the Forum's Basilica. They wore neck guards of horn pieces prepared the same way. They spoke to each other in a foreign tongue, something more eastern than that of the Danes. When Cynewulf asked if they had served Olaf, they laughed.
+
+[^tegulae]: tegulae: Roman rectangular roof tiles
 
 "Travel from York, but not to fight. Tradesmen."
 
-They pointed to their armor.
+One pointed to their armor.
 
-They offered little else, though they seemed to understand him well enough. At the mention of silver and Hexham, they exchanged a glance, rose, and found their pack pony loaded with furs, tools, and supplies. The taller one shouldered a bow whose construction defied Cynewulf's knowledge, and looked impossible to string.
+They offered little else, though they seemed to understand him well enough. At the mention of silver and Hexham, they exchanged a glance, rose, and found their pack pony loaded with furs, rolls of tanned leather, tools, and supplies. The taller one shouldered a bow whose construction defied Cynewulf's knowledge, and looked impossible to string.
 
 They all agreed to follow him to the Tyne for silver. Cynewulf gathered them and led them back toward the baggage train. He had assembled a number of warbands in his life, often before he had even realized he was doing it. Usually the question was who might help him take a wagon. This was the first time he had judged men by who might keep one from harm.
 

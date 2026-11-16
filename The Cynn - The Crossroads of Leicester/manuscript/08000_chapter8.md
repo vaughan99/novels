@@ -114,7 +114,7 @@ Whhhiiiitt... Whhhiiiitt.
 
 Osric turned to Ealhild. "When did you let Ingi start sharpening my spear?"
 
-"Oh, _now_ we're worried about your spear. I think you _should_ be worried about harvest. Are the stalks still standing? Have you seen any weeds sprouting? You know how I feel about weeds."
+"Oh, _now_ you're worried about your spear. I think you _should_ be worried about harvest. Are the stalks still standing? Have you seen any weeds sprouting? You know how I feel about weeds."
 
 "I... hadn't noticed. Ealhild, listen to me... I wasn't... here... a moment ago."
 
@@ -192,9 +192,11 @@ He reached for the seax at his belt to carve the meat, but it was missing.
 
 "Love, did you forget something?" Ealhild was standing beside him, his seax in her hand. "When you loan Beorn your seax for whittling, you must ask for it back."
 
-He took it from her hand. He remembered everything about that knife. But there was something missing.
+Osric had had this conversation with Ealhild a thousand times. Everyone in the family borrowed his seax. And everyone forgot to give it back.
 
-He turned it over in his hands.
+He took it from her hand. He remembered everything about that knife.
+
+But there was something missing. He turned it over in his hands.
 
 One week previous, he had dug a stubborn nail out of the byre's door with this knife. It left a long scratch down the spine.
 
@@ -208,9 +210,11 @@ Ingi smiled at his father, and laid _Barrow's Reach_ on the resting place usuall
 
 Ealhild stepped in behind Ingi and gave the boy a hug from behind, and a kiss on the back of his head. "Isn't he the sweetest boy? The fyrd will be proud of him one day. Now, go help Mathild. The fish need scaling, and you're best with the knife."
 
+Ingi stepped towards Osric, with his hand outstretched. Osric, without a thought, placed the handle of the seax in the palm of Ingi's hand.
+
 Ingi turned to the hearth and slowly walked away.
 
-Osric looked straight into Ealhild's eyes. "Sit down, we need to talk."
+Osric stared at the ground for a moment, then looked straight into Ealhild's eyes. "Sit down, we need to talk."
 
 Ealhild still stood, but she bent over to put her face opposite Osric's. She smiled once again.
 
@@ -266,7 +270,7 @@ Three wolf headdresses.
 
 Three sets of fur armor.
 
-Three spears. Three axes. Three shields.
+A spear. An axe. A beaten iron sword. Three shields.
 
 Even their coins had been stacked neatly beside three empty purses.
 
@@ -286,41 +290,39 @@ He giggled and coughed next to the flame. The _flame_? "Why is there... a fire i
 
 Osric would remember none of what actually happened.
 
-The farmer had stepped into his old hearth, a glamour held in _Alfheimr_ by Ingrid, the nisse.
+The spirit of the farmer, upon saying the spell, had stepped into an illusion of his old hearth, a glamour held in _Alfheimr_ by Ingrid, the nisse.
 
 Osric's body remained motionless. Until...
 
-Ingi and his fellow children crossed the cottage threshold into the yard. Ingi's spirit transformed. He was not the eldest child of Osric. He was the spirit of Ingvarr the Steady. The other children were not Osric's children either. They were the fallen companions of Ingvarr.
+Ingi and his fellow children crossed the cottage threshold into the yard. Ingi's spirit transformed. He was not the eldest child of Osric. He had helped Ingrid maintain the illusion of the cottage. Now, he was the spirit of Ingvarr the Steady. The other children were not Osric's children either. They were the fallen companions of Ingvarr.
 
 Ingvarr traveled from Barrow's Reach into Osric's own body. His companions became dark holes in the air, absences of light and form.
 
 Ingvarr, now bearing Osric's body, called itself _The Hedge-Warden_. It stood emotionless as the three Vikings closed in. His eyes were as grey as stone. The body stood firm, as though it had no memory of hours spent wrestling axles in the mud.
 
-His companions called themselves the _Shadow Fyrd_, circling him ominously as absences of light and form, ready to help their Ingvarr perform _the daily chores of bloody carnage._
+His companions called themselves the _Shadow Fyrd_, circling him ominously, ready to help their barrow lord Ingvarr perform _the daily chores of bloody carnage._
 
-Ingvarr gripped _Barrow's Reach_ with both hands. He pointed its blade at the three. A slow smile crept across his stony face.
+Ingvarr gripped _Barrow's Reach_ with both hands. He pointed the tip of its blade at the three and dropped into a readied stance. A slow smile crept across his stony face.
 
-The first wolf-man lunged with a roar, his axe sweeping low toward Ingvarr's knee. Ingvarr did not retreat. The instant the blow committed, one of the _Shadow Fyrd_ slipped soundlessly behind the Viking. The warrior's heel found no earth where he expected it. His footing vanished beneath him, his weight carried him forward, and the axe bit harmlessly into the tile. _Barrow's Reach_ answered with a single downward stroke through the exposed neck. Before the body had finished falling, Ingvarr had already turned away.
+The first wolf-man lunged with a roar, his axe sweeping low toward Ingvarr's knee. Ingvarr did not retreat. The instant the blow committed, one of the _Shadow Fyrd_ slipped soundlessly behind the Viking. The warrior's heel found no earth where he expected it. His footing vanished beneath him, his weight carried him forward, and the axe bit harmlessly into the tile next to Ingvarr's foot. _Barrow's Reach_ answered with a single downward stroke through the exposed neck. Before the body had stopped convulsing, Ingvarr had already turned away.
 
-The spearman circled left with his shield held high while the other circled right with an iron sword. Ingvarr noted their confidence. What they did not know was that every shadow around them had hands.
+The spearman circled left with his shield held high while the other circled right with an iron sword, his shield pulled tight to his chest. Ingvarr noted their confidence. What they did not know was that every shadow around them had hands.
 
-The spearman thrust. A shadow's unseen fingers caught the haft just long enough to drag its point aside while another set of fingers pulled his shield aside. Ingvarr swung from the ground upward, the edge of the spear cutting from his calf to his groin. The spearman hobbled backward.
+The spearman thrust. A shadow's unseen fingers caught the haft just long enough to drag its point aside while another set of fingers pulled his shield aside. Ingvarr swung from the ground upward, the edge of the spear cutting from his inner thigh to his groin. The spearman hobbled backward.
 
 Ingvarr stepped back quickly, drawing the swordsman closer.
 
 The swordsman unleashed a flurry of swings, each easily dodged by Ingvarr.
 
-Two of the shadows each grabbed a leg and pulled forward. The Viking collapsed heavily onto his back. Ingvarr drove the spear through his chest as calmly as a farmer setting a fence-post.
+Two of the shadows each grabbed a leg and pulled forward. The swordsman collapsed heavily onto his back, his shield swinging wildly to the side. Ingvarr drove the spear through his chest as calmly as a farmer setting a fence-post.
 
-The spearman, wounded in the leg and groin, hesitated.
-
-He stood back, waiting for Ingvarr to commit. He felt a hand tug at his cloak, pulling him backward. He stepped back and shook his cloak.
+The spearman, wounded in the leg and groin, stood back, waiting for Ingvarr to commit. He felt a hand tug at his cloak, pulling him backward. He stepped back and shook his cloak.
 
 Another hand tugged his shield to the side, opening his ribs. Ingvarr thrust, but the Viking stepped to the side, barely dodging the blow.
 
 A pair of hands found his back foot and held it in place.
 
-The wolf-man's eyes grew wide. A shadow passed before his face. Where there was light, only darkness. The wolf-man screamed, as invisible fingers dug into his eyes. He dropped his shield to claw at his own face.
+The wolf-man's eyes grew wide. A shadow passed before his face. Where there was light, only darkness. The wolf-man screamed, as invisible fingers dug into his eyes. He dropped his shield and spear to claw at his own face.
 
 The scream lasted only as long as the final thrust from _Barrow's Reach_ into his chest.
 
@@ -330,21 +332,23 @@ Ingvarr regarded the three bodies for a long moment, his grey eyes as unreadable
 
 The _Shadow Fyrd_ moved at once.
 
-Axes were lifted from limp hands. Shields were stacked together. Spears were laid in a neat row against the wall. Wolf-headdresses were folded beside their owners' fur armor. Knives, belts, boots, purses, and every loose coin were gathered without a word. One by one, the dead were stripped, lifted, and laid atop each other with the same care a family might stack cordwood before winter. Every tool had been sorted, every coin counted, every body accounted for.
+Weapons were lifted from limp hands. Shields were stacked together. Wolf-headdresses were folded beside their owners' fur armor. Knives, belts, boots, purses, and every loose coin were gathered without a word. One by one, the dead were stripped, lifted, and laid atop each other with the same care a family might stack cordwood before winter. Every tool had been sorted, every coin counted, every body accounted for.
 
 The forge was cold. That, too, required tending. Ingvarr pointed to the charcoal and the bellows.
 
-Two of the children lifted fresh coal into the fire. The other pressed the bellows to breathe more life into the blaze. The old forge breathed hot yet again. Warmth slowly filled the room.
+Two of the shadows lifted fresh coal into the fire. The other pressed the bellows to breathe more life into the blaze. The old forge breathed hot yet again. Warmth slowly filled the room.
 
-Only then did Ingvarr return _Barrow's Edge_ to its scabbard. The household's bloodiest chore had been finished. All that remained was to wait for their master to wake.
+Only then did Ingvarr and his fyrdmen retreat back into _Barrow's Reach_.
 
-Ingvarr crossed the threshold of the cottage once more, surrendering Osric's body to await its rightful master.
+The spear fell to the ground, landing with a thud.
+
+The household's bloodiest chore had been finished. Ingvarr crossed the threshold of the cottage once more, surrendering Osric's body to await its rightful master.
 
 ---
 
 Huginn: "Now children... do _NOT_ try this at home."
 
-Muninn: "The _Hedge-Stalker_ and _Shadow Fyrd_ are professionals."
+Muninn: "The _Hedge-Warden_ and _Shadow Fyrd_ are professionals."
 
 Huginn: "That's right. Seasoned yardwork professionals."
 
@@ -370,11 +374,11 @@ He loaded the forge with fresh coal, and operated the bellows. It was all he cou
 
 Osric saw the same scene as before. It was twice as horrible as he remembered.
 
-His eyes fell upon the chest by the anvil, still waiting to be opened.
+His eyes fell upon the chest by the anvil, still waiting to be opened, and the shield lying beside it.
+
+The shield was round and sturdy, easily better than his old one. The ridge was reinforced with steel, but the weight was unbelievably light. It was covered in leather with a painting of a broken anvil with an oak tree growing through, with crossed hammers below.
 
 Inside the chest was a broad stack of practical garments, folded with almost military precision. A thick quilted gambeson rested over a supple wool under-tunic, while linen wrappings for his forearms and legs lay carefully coiled beside a heavy, full-length stiff waxed travel cloak fastened with a plain iron brooch. A pair of stout iron-shod boots stood to the side along with a linen-lined spangenhelm with a sturdy nose-piece. Beneath the stack lay a shoulder-sling of rawhide with four steel-tipped javelins.
-
-Behind the chest lay a long linen sheet pulled about a pole. He pulled the pole from the sheet... It was his boar-spear, its reforged socket fitted to a new shaft of stout oak. The flanks and edge of the broad spearhead gleamed with fresh polish. Woven leather wrapped the haft where the hands would grip it, and an iron shoe protected the butt.
 
 He looked around once more.
 
