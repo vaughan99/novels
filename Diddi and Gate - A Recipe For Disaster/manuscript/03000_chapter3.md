@@ -22,7 +22,7 @@ He stepped forward. He looked fit. Young. Sure of himself. He didn't want to kno
 
 Quill started. "Ahem. Name and occupation?"
 
-"Rezzen Shadowgit. Pledge of Magrim."
+"Rezzen Shadowgit. Investigator of Magrim."
 
 Now, Magrim is the god of the dwarven dead. He obsesses about unresolved blood feuds, misspelled runes on grave markers, and chronicling the length of men's beards when they die. Or something like that.
 
