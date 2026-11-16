@@ -50,7 +50,7 @@ Now, why do I have an imp and a quasit on staff you ask? Funny story that.
 
 Back then I had different shop help... he was a halfling named Shoeless. He kept the books, took the payments, kept the tent clean, fetched things in market, and did some light investigative work. Brilliant halfling. Quiet and hard-working.
 
-One day two hedge wizards came walking through my tent flap. They wanted me to settle a debt.
+One day two hedge wizards came walking through my tent flap. They wanted me to settle a bet.
 
 One had an imp familiar. The other had a quasit. You know where this is going, I'm sure.
 
