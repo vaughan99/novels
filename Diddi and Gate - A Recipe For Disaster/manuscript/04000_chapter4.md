@@ -172,13 +172,13 @@ The tablet showed how to open the vault. Which would have been a fantastic find 
 
 That changed Ysyyr's mind. So he gave the tablet to Rezzen in exchange for Magrim's help in passing into Pharasma's domain.
 
-Rezzen brought the tablet back to me, and so we did another reading. And the reading was blank. Something didn't want me reading that tablet.
+Rezzen brought the tablet back to me, and so we did another reading. And the reading turned up _nothing_ more than the writing. Something didn't want me divining the origin of the tablet.
 
 I pulled on the threads around the tablet instead. Who made the chisel? Who provided the stone? Where did the stone come from?
 
 And what did I find? _Nothing_.
 
-But _nothing_ isn't a non-answer. Sometimes _nothing_ is an answer unto itself, honeydew. For a tablet that looked quite ordinary, it takes some serious magic to make it that unreadable. Somebody had thought of every angle.
+But _nothing_ isn't a non-answer. Sometimes _nothing_ is an answer unto itself, honeydew. For a tablet that looked quite ordinary, it takes some serious magic to make it that resistant to divination. Somebody had thought of every angle.
 
 Now, Geryon would want this tablet. He would use it, open the vault, and ruin everyone's day. The tablet already tells you how to open the vault, why keep its author a secret?
 

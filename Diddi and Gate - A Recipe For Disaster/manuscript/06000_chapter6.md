@@ -156,7 +156,7 @@ I had never seen her smile until that moment. Then she handed Gate the stamped p
 
 Apparently she had been sent to the Fallen Fastness in Dis... that's where the Infernal Court has its Property and Claims Division. She had been sent the previous night to wait in its queue with the paperwork. She saw an Asmodean in the queue just behind her, hiding his paperwork. She said she filed just before he did.
 
-The two books in the Gate and Wings' hands also looked _very_ familiar. I nudged Deadline to take a look, and lo and behold, Wings had stolen the two journals... one from Deadline, and one from his editor. Wings and Gate had used them to coordinate the filing.
+The two books in Gate and Wings' hands also looked _very_ familiar. I nudged Deadline to take a look, and lo and behold, Wings had stolen the two journals... one from Deadline, and one from his editor. Wings and Gate had used them to coordinate the filing.
 
 Deadline marched right up to Wings and held out his hand. Wings smiled, said "thank you" with a smirk, and handed him his journal. She took the other journal from Gate, and vooped away. Deadline got confirmation a few minutes later that his editor had gotten his back too.
 
