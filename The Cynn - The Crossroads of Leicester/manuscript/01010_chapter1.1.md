@@ -17,7 +17,7 @@ Muninn: "They're human. Not ravens. They're not left out."
 
 Huginn: "Well, good thing it's just a story then. How does etiquette work here? Do I offer them a juice pouch... or maybe a nice mutton sandwich?"
 
-Muninn: "You keep reading... _the story_."
+Muninn: "You keep telling... _the story_."
 
 ---
 
