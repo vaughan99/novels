@@ -426,8 +426,8 @@ He looked around once more.
 
 "So now the fire-breathing dragon... the king of the straw-daub... the master of cow spas... wants to give me a fighting chance, is it?"
 
-He marveled at the craft of the equipment.
+He marveled at the craft of the equipment, emptying the chest and running his hands over every piece. As the chest lay empty, he packed the Vikings' clothing and smaller belongings into the chest as best he could.
 
-He picked up the spangenhelm.
+He picked up the Cynn's gift of a spangenhelm in one hand, and an Ulfhednar headdress in the other.
 
 "Well, it's either this or a wolf's head. I rather prefer how I'd look in this."
