@@ -334,7 +334,7 @@ The swordsman unleashed a flurry of swings, each barely dodged by Ingvarr. One s
 
 ---
 
-Huginn: "Now, children, I've recently become aware that it is _impolite_ to threaten the lives of protagonists in a story where children are listening. Ingvarr doesn't get killed here."
+Huginn: "Now, children, I've recently become aware that it is _impolite_ to suggest that protagonists face real danger in a story where children are listening. So, let me reassure you that Ingvarr doesn't get killed here."
 
 Muninn: "He's already dead."
 
@@ -344,7 +344,7 @@ Muninn: "Technically..."
 
 Huginn: "Muninn..."
 
-Muninn: "Remember the deal. He dies when his spirit goes to Alfheimr. Ingvarr... well... you know."
+Muninn: "Remember the deal. Osric dies when his spirit goes to Alfheimr. He only comes back to life if his body, well, can support life."
 
 Huginn: "MUNINN!"
 
