@@ -310,7 +310,7 @@ The spearman circled left with his shield held high while the other circled righ
 
 The spearman thrust. A shadow's unseen fingers caught the haft just long enough to drag its point aside. The spearman's eyes grew wide as he saw Ingvarr begin a powerful two-handed thrust to his abdomen.
 
-He brought his shield down forcefully, parrying _Barrow's Reach_ into the tile with a _CHINK!_. He readied his own spear for a thrust to Ingvarr's neck.
+He brought his shield down forcefully, parrying _Barrow's Reach_ into a stone embedded in the dirt with a _CHINK!_. He readied his own spear for a thrust to Ingvarr's neck.
 
 He gave Ingvarr a smile. "I have you now."
 
@@ -322,11 +322,11 @@ Ingvarr looked down.
 
 The spearman looked down.
 
-The spearman had parried the point into the tile, but hadn't pressed the pole.
+The spearman had parried the point into the stone, but hadn't pressed the pole.
 
-The spearman tried to retreat, but it was too late.
+The spearman looked back at Ingvarr, a weak smile on his face. He tried to retreat, but it was too late.
 
-Ingvarr pivoted the blade around the shield, and swung from the ground upward violently, the edge of the hewing spear cutting from his inner thigh to his groin. The spearman hobbled backward, stunned and bleeding.
+Ingvarr guided the blade around the rim of the shield, and swung from the ground upward violently, the edge of the hewing spear cutting from his inner thigh to his groin. The spearman yelped and hobbled backward, stunned and bleeding.
 
 Ingvarr stepped back quickly, drawing the swordsman closer.
 
@@ -426,7 +426,7 @@ He looked around once more.
 
 "So now the fire-breathing dragon... the king of the straw-daub... the master of cow spas... wants to give me a fighting chance, is it?"
 
-He marveled at the craft of the equipment, emptying the chest and running his hands over every piece. As the chest lay empty, he packed the Vikings' clothing and smaller belongings into the chest as best he could.
+He marveled at the craft of the equipment, emptying the chest and running his hands over every piece. The chest did not remain empty for long. He packed the Vikings' clothing and smaller belongings into the chest as best he could.
 
 He picked up the Cynn's gift of a spangenhelm in one hand, and an Ulfhednar headdress in the other.
 
