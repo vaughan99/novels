@@ -12,7 +12,7 @@ Each landed on the charcoal pile. Each stood to face Osric.
 
 The anvil lay before him, and the fearsome _Barrow's Reach_ spear beckoned.
 
-It felt *known*. *Welcomed*.
+It felt _known_. _Welcomed_.
 
 Osric grasped _Barrow's Reach_ with both hands and Ealhild's voice whispered in his ear, clear as day. "Say the spell... _mēt sceadu-heorþ_" (_Meet the shadow-hearth_). He knew the words, but he didn't know exactly what they meant. He knew and trusted that voice, more than any other, and that's all that mattered.
 
@@ -304,29 +304,33 @@ His companions called themselves the _Shadow Fyrd_, circling him ominously, read
 
 Ingvarr gripped _Barrow's Reach_ with both hands. He pointed the tip of its blade at the three and dropped into a readied stance. A slow smile crept across his stony face.
 
-The first wolf-man lunged with a roar, his axe sweeping low toward Ingvarr's knee. Ingvarr did not retreat. The instant the blow committed, one of the _Shadow Fyrd_ slipped soundlessly behind the Viking. The warrior's heel found no earth where he expected it. His footing vanished beneath him, his weight carried him forward, and the axe bit harmlessly into the tile next to Ingvarr's foot. _Barrow's Reach_ answered with a single downward stroke through the exposed neck. Before the body had stopped convulsing, Ingvarr had already turned away.
+The first wolf-man lunged with a roar, his axe sweeping low toward Ingvarr's knee. Ingvarr did not retreat. The instant the blow committed, one of the _Shadow Fyrd_ slipped soundlessly behind the Viking. The warrior's heel found no earth where he expected it. His footing vanished beneath him, his weight carried him forward, and the axe bit harmlessly into the dirt next to Ingvarr's foot. _Barrow's Reach_ answered with a single downward stroke through the exposed neck. Before the body landed, Ingvarr had already turned away.
 
-The spearman circled left with his shield held high while the other circled right with an iron sword, his shield pulled tight to his chest. Ingvarr noted their confidence. What they did not know was that every shadow around them had hands.
+The spearman circled left with his shield held high while the other circled right with an iron sword, his shield pulled tight to his chest. Ingvarr's eyes found the shadows, and directed them with just a look.
 
 The spearman thrust. A shadow's unseen fingers caught the haft just long enough to drag its point aside. The spearman's eyes grew wide as he saw Ingvarr begin a powerful two-handed thrust to his abdomen.
 
 He brought his shield down forcefully, parrying _Barrow's Reach_ into a stone embedded in the dirt with a _CHINK!_. He readied his own spear for a thrust to Ingvarr's neck.
 
-He gave Ingvarr a smile. "I have you now."
+He gave Ingvarr a smile. "Ha!"
 
 Ingvarr shook his head.
 
 The spearman's smile turned to anger. "What do you mean, no?"
 
+The spearman felt something against his inner thigh.
+
 Ingvarr looked down.
 
 The spearman looked down.
 
-The spearman had parried the point into the stone, but hadn't pressed the pole.
+The spearman had parried the point into the stone, but hadn't accounted for Ingvarr immediately working the pole around the edge of his shield. The blade was resting in the crease between his thigh and groin.
 
-The spearman looked back at Ingvarr, a weak smile on his face. He tried to retreat, but it was too late.
+The spearman looked back at Ingvarr, a weak smile on his face.
 
-Ingvarr guided the blade around the rim of the shield, and swung from the ground upward violently, the edge of the hewing spear cutting from his inner thigh to his groin. The spearman yelped and hobbled backward, stunned and bleeding.
+He tried to retreat, but it was too late.
+
+Ingvarr stepped right and sliced, pulling the edge of the hewing spear and cutting clean into the groin. The spearman yelped and hobbled backward, stunned and bleeding.
 
 Ingvarr stepped back quickly, drawing the swordsman closer.
 
@@ -344,25 +348,25 @@ Muninn: "Technically..."
 
 Huginn: "Muninn..."
 
-Muninn: "Remember the deal. Osric dies when his spirit goes to Alfheimr. He only comes back to life if his body, well, can support life."
+Muninn: "Remember the deal."
 
-Huginn: "MUNINN!"
+Huginn: "MUNINN! We haven't gotten to Chapter 11 yet!"
 
-Muninn: "Fine. His shirt gets a new hole, even if his body doesn't. We'll leave it at that."
+Muninn: "Fine. His tunic gets a new hole, even if his body doesn't. But it would be _very bad_ if Osric's body got hurt. We'll leave it at that."
 
 ---
 
 Just as the swordsman pressed forward, two of the shadows grabbed his cloak and pulled backward at the shoulders. The swordsman collapsed heavily onto his back, his shield swinging wildly to the side. Ingvarr drove the spear through his chest as calmly as a farmer setting a fence-post.
 
-The spearman, wounded in the leg and groin, stood back, waiting for Ingvarr to commit. He felt a hand tug at his cloak, pulling him backward. He stepped back and shook his cloak.
+The spearman hesitated, blood dripping down his leg forming a small patch of red mud. He was waiting for Ingvarr to commit. He felt a hand tug at his cloak, pulling him backward. He stepped back and shook his cloak.
 
 Another hand tugged his shield to the side, opening his ribs. Ingvarr thrust, but the Viking stepped to the side, barely dodging the blow.
 
 A pair of hands found his back foot and held it in place.
 
-The spearman saw shadows pass before his face. Flying left. Brushing his cheek on the right. 
+The spearman saw shadows pass before his face. Flying left. Brushing his cheek on the right.
 
-His breath quickened. The air stood still. His eyes settled on Ingvarr, who just stood, staring at him with cold eyes.
+His breath quickened. His eyes searched the darkness. Looking for the unnatural force. Listening for its breath. But the air stood still. His eyes settled on Ingvarr, who just stood, staring at him with cold eyes.
 
 Then suddenly, the shadows found his eyes. Where there was light, only darkness. The spearman screamed, as invisible fingers dug into his eye sockets. He dropped his shield and spear to claw at his own face.
 
@@ -372,17 +376,17 @@ Silence returned to the forge.
 
 Ingvarr regarded the three bodies for a long moment, his grey eyes as unreadable as weathered granite. There was still work to be done.
 
-The _Shadow Fyrd_ moved at once.
+With a nod, the _Shadow Fyrd_ moved at once.
 
 Weapons were lifted from limp hands. Shields were stacked together. Wolf-headdresses were folded beside their owners' fur armor. Knives, belts, boots, purses, and every loose coin were gathered without a word. One by one, the dead were stripped, lifted, and laid atop each other with the same care a family might stack cordwood before winter. Every tool had been sorted, every coin counted, every body accounted for.
 
 The forge was cooling. That, too, required tending. Ingvarr pointed to the charcoal and the bellows.
 
-Two of the shadows lifted fresh charcoal into the fire. The other pressed the bellows to breathe more life into the blaze. The old forge breathed hot yet again, keeping the room warm for Osric's return.
+Two of the shadows lifted fresh charcoal into the fire. Another pressed the bellows to breathe more life into the blaze. The old forge breathed hot yet again, keeping the room warm for Osric's return.
 
 Only then did Ingvarr and his fyrdmen retreat back into _Barrow's Reach_.
 
-The spear fell to the ground, landing with a clang.
+The spear fell to the ground, landing with a thud in the dirt. Osric collapsed in a heap.
 
 The household's bloodiest chore had been finished. Ingvarr crossed the threshold of the cottage once more, surrendering Osric's body to await its rightful master.
 
