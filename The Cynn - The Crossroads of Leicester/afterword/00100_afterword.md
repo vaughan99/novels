@@ -235,7 +235,7 @@ The Wodhere in this novel is therefore not intended as a reconstruction of any s
 
 ***
 
-## The Blades
+## The Weapons
 
 None of these are the sort of ornate Viking swords that tend to dominate modern images of the period. In 943, a good sword was an expensive weapon and an important status object, more commonly associated with wealthier warriors, thegns, and nobles than with ordinary people.
 
@@ -262,9 +262,11 @@ Made by Tobin Nieto of Stonehaven Forge (Forged in Fire winner in season 2, epis
 
 ***
 
-### Barrow's Reach, the Hedge-Warden
+### Hlǣwhand, the Hedge-Warden
 
-This spear has no inscriptions besides the Elder Futhark rune inlaid with jet.
+This spear has no inscriptions besides the Elder Futhark rune inlaid with jet. The name literally means "Barrow-Hand".
+
+
 
 ***
 

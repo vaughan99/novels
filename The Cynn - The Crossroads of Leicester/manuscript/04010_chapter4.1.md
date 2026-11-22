@@ -40,28 +40,39 @@ All business was conducted under the watchful eyes of two large stone face masks
 
 _Blackjoy_ was the one whose jaw was clenched and whose eyes were narrow. He was neither sad nor angry; he was more concerned and dutiful. The commoners said he was the watcher of the "bitter harvest". The villagers swore that _Blackjoy's_ expression grew darker when a man lost his last coin or when a bell tolled for a child. When priests would settle a squabble over a price or a deal gone wrong, they would ask both to swear to the deal with a hand squarely placed on _Blackjoy_. The church kept a tithe collection basket directly under him, and some commoners swore that by tithing to _Blackjoy_, they were buying their good luck back from him.
 
-_Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning, and its closing each evening. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather.
+_Morning-Eye_ was the smiling one, his eyes turned east toward the rising sun. He held the day-bell, the small bell mounted on his post to announce the opening of the Gate each morning just before Lauds[^Lauds], and its closing each evening just after Vespers[^Vespers]. Villagers would jostle to be the ones under his nose when the trading began. His nose was considered the best of luck, and deals conducted there were considered the most fair. The children liked to rub his face, particularly his cheeks, to tell the next day's weather. Once the trading was done, people would gather before _Morning-Eye_ to talk of the day's business. Groups of villagers would then walk to the church to attend Vespers. Once the day-bell rang a second time, they would leave the Old Frith for the day.
 
+[^Lauds]: Lauds: The Christian morning prayer service, traditionally celebrated at daybreak.
+
+[^Vespers]: Vespers: The Christian evening prayer service, traditionally celebrated before nightfall.
 
 ![Welcome to Under-Geat](assets/images/Under-Geat/Welcome-to-Under-Geat.png "Welcome to Under-Geat")
 
 ---
 
-Morning-Eye: "Knock knock."
+Huginn: "Now, let's show the children how they probably sounded."
 
-Blackjoy: "Don't knock. Ring the bell."
+Muninn: "Why?"
 
-Morning-Eye: "No, you're supposed to say, 'Who's there?'"
+Huginn-as-Morning-Eye: "Knock knock."
 
-Blackjoy: "Ignoring the bell is rude. I don't ask questions of rude people."
+Muninn-as-Blackjoy: "Don't knock. Ring the bell."
 
-Morning-Eye: "You don't _speak_ to _any_ people."
+Huginn-as-Morning-Eye: "No, you're supposed to say, 'Who's there?'"
 
-Blackjoy: "I smile at them. I'm just not very good at it."
+Muninn-as-Blackjoy: "Ignoring the bell is rude. I don't ask questions of rude people."
 
-Morning-Eye: "Lucky for you. Do you know how exhausting it is being cheerful every day?"
+Huginn-as-Morning-Eye: "You don't _speak_ to _any_ people."
 
-Blackjoy: "Try spending eternity having people look at your face, then start swearing."
+Muninn-as-Blackjoy: "I smile at them. I'm just not very good at it."
+
+Huginn-as-Morning-Eye: "Lucky for you. Do you know how exhausting it is being cheerful every day?"
+
+Muninn-as-Blackjoy: "Try spending eternity having people look at your face, then start swearing."
+
+Huginn: "You're not very personable, are you?"
+
+Muninn: "Now I know exactly how Blackjoy feels."
 
 ---
 

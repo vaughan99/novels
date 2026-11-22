@@ -408,45 +408,47 @@ He gave a nod, and pocketed the penny. She waved goodbye, and headed back to Und
 
 ---
 
-Bread: "Butter, I didn't know you can teach Old Norse."
+Huginn: "And now, children, we shall imagine a day in the life of Bread and Butter."
 
-Butter: "Bread, I can teach any language."
+Muninn: "Must we?"
 
-Bread: "Can you teach me?"
+Huginn-as-Bread: "Butter, I didn't know you could teach Old Norse."
 
-Butter: "I would be overjoyed to teach you."
+Muninn-as-Butter: "I can teach any language."
 
-Bread: "On the road?"
+Huginn-as-Bread: "Can you teach me?"
 
-Butter: "Where else?"
+Muninn-as-Butter: "I would be _OVERJOYED_ to teach you."
 
-Bread: "How do you say _hole_ in Old Norse?"
+Huginn-as-Bread: "On the road?"
 
-Butter: "How? Well first, you find a hole."
+Muninn-as-Butter: "Where else?"
 
-Bread: "Like this one?"
+Huginn-as-Bread: "How do you say _hole_ in Old Norse?"
 
-Butter: "Delightful! Then, you step into the hole and say 'hole'"
+Muninn-as-Butter: "How? Well first, you find a hole."
 
-Bread: "Alright, here I go! I've stepped into the hole. 'Hole'. Did I say it right?"
+Huginn-as-Bread: "Like this one?"
 
-Butter: "Splendid! You're doing well. Then you step out of the hole."
+Muninn-as-Butter: "_Delightful._ Then, you step into the hole and say 'hole'"
 
-Bread: "Oh. That's easy. Hardly any effort!"
+Huginn-as-Bread: "Alright, here I go! I've stepped into the hole. 'Hole'. Did I say it right?"
 
-Butter: "Then, you say the word for hole in that language."
+Muninn-as-Butter: "_Splendid._ You're doing _so_ well. Then you step out of the hole."
 
-Bread: "Oh. That's easy too."
+Huginn-as-Bread: "Oh. That's easy. Hardly any effort!"
 
-Butter: "See?"
+Muninn-as-Butter: "Then, you say the word for hole in that language."
 
-Bread: "So, what's the word for hole in Old Norse?"
+Huginn stared at Muninn.
 
-Butter: "I don't know. The ride ended before I learned that part."
+Huginn: "Muninn... that's not funny. You're supposed to be teaching me."
 
-Bread: "Well, let me know when you get there."
+Muninn: "I did. That you're as dumb as a horse."
 
-Long-Mile: "WHHHAAA! Stop waking me up you two!"
+Huginn: "Say what you want. Longmile appreciated the horses."
+
+Muninn: "He also appreciated long silences..."
 
 ---
 

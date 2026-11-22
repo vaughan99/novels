@@ -1,4 +1,4 @@
-# Chapter Eight: Barrow's Reach, The Hearth-Warden
+# Chapter Eight: Hlǣwhand, The Hearth-Warden
 
 The air in the forge was thick, heavy with the scent of disturbed rust, hot charcoal, and a thousand winters of damp soot. Osric backed against the solid expanse of ancient red Roman tile, his breath coming in shallow, ragged, rattling gasps.
 
@@ -10,11 +10,11 @@ Outside, three veteran _Ulfhednar_ gathered around the chute opening, their whis
 
 Each landed on the charcoal pile. Each stood to face Osric.
 
-The anvil lay before him, and the fearsome _Barrow's Reach_ spear beckoned.
+The anvil lay before him, and the fearsome _Hlǣwhand_ spear beckoned.
 
 It felt _known_. _Welcomed_.
 
-Osric grasped _Barrow's Reach_ with both hands and Ealhild's voice whispered in his ear, clear as day. "Say the spell... _mēt sceadu-heorþ_" (_Meet the shadow-hearth_). He knew the words, but he didn't know exactly what they meant. He knew and trusted that voice, more than any other, and that's all that mattered.
+Osric grasped _Hlǣwhand_ with both hands and Ealhild's voice whispered in his ear, clear as day. "Say the spell... _mēt sceadu-heorþ_" (_Meet the shadow-hearth_). He knew the words, but he didn't know exactly what they meant. He knew and trusted that voice, more than any other, and that's all that mattered.
 
 "_Mēt sceadu-heorþ!_"
 
@@ -162,7 +162,7 @@ Ealhild kissed him on the forehead, moving a strand of his long brown hair over 
 
 It was then Osric noticed... the spear wasn't _his_.
 
-It was _Barrow's Reach_.
+It was _Hlǣwhand_.
 
 She closed the door.
 
@@ -206,7 +206,7 @@ Osric looked at _everything_. "What is happening?"
 
 The door swung open. It was Ingi and the other children.
 
-Ingi smiled at his father, and laid _Barrow's Reach_ on the resting place usually reserved for his hewing spear above the hearth. "The weeds have been cut down. The wood's been stacked, and Eaxl even removed the twigs. The spear needs sharpening again, _Father_. I'll get to that tomorrow."
+Ingi smiled at his father, and laid _Hlǣwhand_ on the resting place usually reserved for his spear above the hearth. "The weeds have been cut down. The wood's been stacked, and Eaxl even removed the twigs. The spear needs sharpening again, _Father_. I'll get to that tomorrow."
 
 Ealhild stepped in behind Ingi and gave the boy a hug from behind, and a kiss on the back of his head. "Isn't he the sweetest boy? The fyrd will be proud of him one day. Now, go help Mathild. The fish need scaling, and you're best with the knife."
 
@@ -238,7 +238,7 @@ His body shook with impossible cold. He clenched his teeth to prevent them from 
 
 He opened his eyes.
 
-The _Barrow's Reach_ spear lay on the ground before him, resting quietly. His last memory of the forge was the weight of it in his hands.
+Hlǣwhand lay on the ground before him, resting quietly. His last memory of the forge was the weight of it in his hands.
 
 The orange light of the forge still danced as shadows on the forge walls. But his skin was as grey as the dead.
 
@@ -296,21 +296,21 @@ Osric's body remained motionless. Until...
 
 Ingi and his fellow children crossed the cottage threshold into the yard. Ingi's spirit transformed. He was not the eldest child of Osric. He was the spirit of Ingvarr the Steady, who helped Ingrid preserve the illusion of Osric's home in Alfheimr. The other children were not Osric's children either. They were the fallen companions of Ingvarr.
 
-Ingvarr traveled from Barrow's Reach into Osric's own body. His shade traveled through Osric's arm and spread forth, occupying Osric's form like a hand into a glove. His companions emerged from the spear's head, breaking into the world as formless absences of light.
+Ingvarr traveled from _Hlǣwhand_ into Osric's own body. His shade traveled through Osric's arm and spread forth, occupying Osric's form like a hand into a glove. His companions emerged from the spear's head, breaking into the world as formless absences of light.
 
 Ingvarr, now bearing Osric's body, called himself _The Hedge-Warden_. He stood emotionless as the three Vikings closed in. His eyes were as grey as stone. The body stood firm, as though it had no memory of hours spent wrestling axles in the mud.
 
 His companions called themselves the _Shadow Fyrd_, circling him ominously, ready to help their barrow lord Ingvarr perform _the daily chores of bloody carnage._
 
-Ingvarr gripped _Barrow's Reach_ with both hands. He pointed the tip of its blade at the three and dropped into a readied stance. A slow smile crept across his stony face.
+Ingvarr gripped _Hlǣwhand_ with both hands. He pointed the tip of its blade at the three and dropped into a readied stance. A slow smile crept across his stony face.
 
-The first wolf-man lunged with a roar, his axe sweeping low toward Ingvarr's knee. Ingvarr did not retreat. The instant the blow committed, one of the _Shadow Fyrd_ slipped soundlessly behind the Viking. The warrior's heel found no earth where he expected it. His footing vanished beneath him, his weight carried him forward, and the axe bit harmlessly into the dirt next to Ingvarr's foot. _Barrow's Reach_ answered with a single downward stroke through the exposed neck. Before the body landed, Ingvarr had already turned away.
+The first wolf-man lunged with a roar, his axe sweeping low toward Ingvarr's knee. Ingvarr did not retreat. The instant the blow committed, one of the _Shadow Fyrd_ slipped soundlessly behind the Viking. The warrior's heel found no earth where he expected it. His footing vanished beneath him, his weight carried him forward, and the axe bit harmlessly into the dirt next to Ingvarr's foot. _Hlǣwhand_ answered with a single downward stroke through the exposed neck. Before the body landed, Ingvarr had already turned away.
 
 The spearman circled left with his shield held high while the other circled right with an iron sword, his shield pulled tight to his chest. Ingvarr's eyes found the shadows, and directed them with just a look.
 
 The spearman thrust. A shadow's unseen fingers caught the haft just long enough to drag its point aside. The spearman's eyes grew wide as he saw Ingvarr begin a powerful two-handed thrust to his abdomen.
 
-He brought his shield down forcefully, parrying _Barrow's Reach_ into a stone embedded in the dirt with a _CHINK!_. He readied his own spear for a thrust to Ingvarr's neck.
+He brought his shield down forcefully, parrying _Hlǣwhand_ into a stone embedded in the dirt with a _CHINK!_. He readied his own spear for a thrust to Ingvarr's neck.
 
 He gave Ingvarr a smile. "Ha!"
 
@@ -370,7 +370,7 @@ His breath quickened. His eyes searched the darkness. Looking for the unnatural 
 
 Then suddenly, the shadows found his eyes. Where there was light, only darkness. The spearman screamed, as invisible fingers dug into his eye sockets. He dropped his shield and spear to claw at his own face.
 
-The scream lasted only as long as the final thrust from _Barrow's Reach_ into his chest.
+The scream lasted only as long as the final thrust from _Hlǣwhand_ into his chest.
 
 Silence returned to the forge.
 
@@ -384,7 +384,7 @@ The forge was cooling. That, too, required tending. Ingvarr pointed to the charc
 
 Two of the shadows lifted fresh charcoal into the fire. Another pressed the bellows to breathe more life into the blaze. The old forge breathed hot yet again, keeping the room warm for Osric's return.
 
-Only then did Ingvarr and his fyrdmen retreat back into _Barrow's Reach_.
+Only then did Ingvarr and his fyrdmen retreat back into _Hlǣwhand_.
 
 The spear fell to the ground, landing with a thud in the dirt. Osric collapsed in a heap.
 
@@ -432,6 +432,6 @@ He looked around once more.
 
 He marveled at the craft of the equipment, emptying the chest and running his hands over every piece. The chest did not remain empty for long. He packed the Vikings' clothing and smaller belongings into the chest as best he could.
 
-He picked up the Cynn's gift of a spangenhelm in one hand, and an Ulfhednar headdress in the other.
+He picked up the gift of a spangenhelm in one hand, and an Ulfhednar headdress in the other.
 
 "Well, it's either this or a wolf's head. I rather prefer how I'd look in this."

@@ -184,7 +184,7 @@ In front of the anvil lay a medium wooden chest, its lid graced by an iron emble
 
 Leaning against the chest rested a broad round shield. Its boss rose in a rounded dome, with stout ribs radiating toward the rim. The thick wooden boards had been richly waxed, while the iron edging had been wrought into the likeness of interwoven willow branches. Painted across the face was the same emblem that marked the chest.
 
-On the anvil lay a hewing spear. It was the spearhead he and his father had made all those years ago, re-forged and made new as perfect darkened steel. The new ash pole had a wrap of stitched black leather, and a new dark steel cap graced the other end. In the pole was a rune... the ancestral Ōþila rune... keen to Ealhild and her old hearth ways. The rune was an inlay of the jet stone from the transition stone, permanently set into the haft of the spear. The spear was now its home. The spear was now Barrow’s Reach, the Hearth-Warden.
+On the anvil lay a hewing spear. It was the spearhead he and his father had made all those years ago, re-forged and made new as perfect darkened steel. The new ash pole had a wrap of stitched black leather, and a new dark steel cap graced the other end. In the pole was a rune... the ancestral Ōþila rune... keen to Ealhild and her old hearth ways. The rune was an inlay of the jet stone from the transition stone, permanently set into the haft of the spear. The spear was now its home. The spear was now Hlǣwhand, the Hearth-Warden.
 
 Elswyth knew she was no warrior. She didn't even bother with her small mushroom handseax, and the felling axe had been left on the wagon. She sprinted toward the former entrance to the bathhouse, now just an arched ruin.
 
@@ -228,7 +228,7 @@ Cynewulf's feet remembered the path to the Church. It rose before him, beckoning
 
 Cynewulf reached the heavy stone steps of the Church of Augustine and Columba, his breath a ragged tug-of-war in his chest. He threw his weight against the great oak doors, but they were locked fast. The church-wardens had barred the sanctum for the night. As he turned his back to the wood, his eyes fell upon the top step.
 
-There, lying across the cold stone, Cynewulf found a large flat-topped chest of wood and iron, the lid carrying the iron badge of the Cynn: a young oak sprouting from a broken anvil with two crossed hammers at the foot.
+There, lying across the cold stone, Cynewulf found a large flat-topped chest of wood and iron, the lid carrying an iron badge: a young oak sprouting from a broken anvil with two crossed hammers at the foot.
 
 Leaning on the chest was a compact round shield, perhaps a hand's-width wider than the _tarians_ of the _Dragon's Teeth_. The core was a union of hornbeam and linden. The face and rim were covered with thick waxed cuir bouilli. The boiled leather had been painted in alternating quarters of green and brown on the face. In the center, a round steel boss gleamed, punched with a foundry mark of a small oak sprouting from a broken anvil, with crossed hammers below.
 
