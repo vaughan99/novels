@@ -1,5 +1,7 @@
 # Game Master's Notes
 
+## Organizations
+
 ### The Church of the Abiding Vigilante
 
 This is not your average sect of Abadar. The vigilante known to Diddi as "Fixer" was one of the original gladiators who came to Diddi to investigate a fight-fixing scheme. As a free gladiator (not slave), he had been approached by shadowy individuals to take a dive in the ring or else. He understood also that some of his fights had begun to be too easy, and his payouts were becoming less and less as his odds got better. The group that was betting on him to win (because his opponents were diving) were now planning to bet against him while the odds of him winning were high, expecting a huge payday.
@@ -99,23 +101,23 @@ An orc weaponsmith and a gnomish armorer get into an argument over an iron shipm
 
 ### Sufferer's Digest
 
-This publication is meant as a wholesome family periodical in the style of "Reader's Digest" with the moral assumptions of Zon-Kuthon.
+This publication is meant as a "wholesome" family periodical with the moral assumptions of Zon-Kuthon.
 
-Deadline "uploads" stories to his editor in Nidal via a shared pair of journals. Anything written in one automatically is seen in the other. His editor is not manic, or even particularly driven by screams, but the uniqueness and quality of the suffering. In his view, he is trying to expand the suffering horizons of his clientele in intellectual and thought-provoking ways, regardless of whether blood is involved or not.
+Deadline "uploads" stories to his editor in Nidal via a shared pair of journals. Anything written in one automatically is seen in the other. His editor, Tividale Quinn, is driven by the uniqueness, quality, and safe replication of the suffering. In his view, he is trying to expand the suffering horizons of his clientele in intellectual and thought-provoking ways, regardless of whether blood is involved or not.
 
-Sufferer's Digest has a competitor, _The Daily Flogger_, that is the opposite. It is all about screams and cheap suffering thrills. It thrives on big headlines and promises of pain and blood. Their editor is a task-master, forcing his journalists to meet unrealistic timelines and forcing them to seek out the biggest battles and the most dangerous beats... often to their detriment. _The Daily Flogger_ has a recruitment problem, so the editor is always trying to get Deadline to join.
+Sufferer's Digest has a competitor, _The Daily Flogger_, that is the opposite. It is all about screams and cheap suffering thrills. It thrives on big headlines and promises of pain and blood. Their editor, Zane Skinsplitter, is a task-master. _The Daily Flogger_ has a recruitment problem, so Zane is always trying to get Deadline to join.
 
 Here's an example article written by Deadline, one of Sufferer's Digest premier beat-writers, about a week spent following Mop around and writing about jump-scares.
 
 ***
 
-The Delight of Social Isolation Brought About By Addiction to Jump Scares
+**The Delight of Social Isolation Brought About By Addiction to Jump Scares**
 
 Location: Kaer Maga, Oriat District
 
 Subject: Mop, the Quasit
 
-I was first introduced to this curious little creature of the Abyss while frequenting the shop of a local diviner by the name of Diddi. You've seen other articles of mine considering the loss of feeling in her stomach due to repeated lacerations in the area.
+I was first introduced to this curious little creature of the Abyss while frequenting the shop of a local diviner by the name of Diddi. You've seen other articles of mine considering the loss of feeling in her stomach due to repeated lacerations in the area, and her unfortunate disregard for her own lack of sensation.
 
 This time, I learned that Mop may have a peculiar addiction to striking fear into the hearts of others. This seemed truly fascinating.
 
@@ -142,3 +144,33 @@ Occasionally, perhaps once a decade, schedule a relapse. Recovering from relapse
 Until next time, this is Deadline, your favorite tormentor. May all your torments be shared with loved ones.
 
 ***
+
+### The Last Citadel
+
+After the events of The Recipe For Disaster, Rezzen became an unwilling local celebrity, but not quite as popular as Gate is in Oriat. The dwarves of the Cavalcade allowed him to take ownership of a small abandoned mill in the district for him to start his own cloister, The Last Citadel.
+
+Rezzen devoted himself fully to Magrim. He saw Kaer Maga as a den of undignified death. He was obsessed with making people be the best, most purposeful versions of themselves. Even if that meant breaking their bones to reveal it.
+
+The Last Citadel refers to the body. It is the "last citadel" of the soul before it leaves this existence, and travels to the afterlife. The sect leans Lawful Evil. Its tenets are:
+
+1. Be the best version of yourself. Encourage others to do the same. Do not waste what you've been given.
+2. Be purposeful in all things. No choice is an accident.
+3. Teach through force. Pain is sometimes the best teacher.
+4. Blood feuds pointlessly waste lives and effort. Pick a side and end it quickly. (This lesson was learned particularly seeing the aftermath of the Brothers of the Seal.)
+5. Zyphus is a villain. Accidental death is the worst form of death. Be ever vigilant and correct the conditions for accidental death.
+6. Groetus is a villain. There is always something you can do. Never allow someone to die because of inaction. Force people to choose sides.
+7. Urgathoa is a villain. Pharasma is an ally. Undeath disrupts the natural order. Souls must serve their purpose in the after life, just as they served their purpose in life.
+8. Seek adversity to test yourself. An untested conviction is meaningless.
+9. Forsake comfort. If you are comfortable, you are not growing.
+
+The followers of The Last Citadel are a growing group of mostly dwarves. Many are victims of industrial accidents who have refused to succumb to their circumstances. Some are young dwarves who refuse to be bound to a future as a factory worker, thinking they have more to live for. Others are recovering alcoholics, wanting to find more purpose than what they found at the bottom of a bottle.
+
+Not all of these followers are monks. As the organization has grown, it has transformed into a guild as well. Followers are organizing their own workshops, forming apprenticeships, and cultivating professional relationships outside of the established guild norms. The abandoned mill has become a giant workshop, monk training center, and guild office. This is causing great friction in Cavalcade with the established order.
+
+Followers of The Last Citadel (cloister and guild) are immediately identified by black-and-white headbands that pull hair back away from the face. Beards are trimmed to ensure they do not accidentally get burned or caught in machinery. Monks also wear sleeveless black robes and loose white trousers bound below the knee. Workers favor bleached white uniforms and industrial boots. Monks tend to favor plain white sandals. Followers take pride in making their clothes dirty, often discussing how each stain compares to the others. They observe one holiday each month, Bleachrun, where everyone washes and bleaches their whites to start collecting new stains once again. Note that the obsession with stains arose from the bloodstain on Rezzen's robes that Diddi used as the focus of her first divination concerning him.
+
+Gnomes view Bleachrun with a little trepidation, as it has an unfortunate name collision with their most feared life event, The Bleaching. No gnomes to date have become followers of The Last Citadel, despite the fact that their tenets might actually help a gnome avoid The Bleaching.
+
+The Last Citadel monks do offer themselves as trainers and mercenaries for adventuring parties to hire. Adventuring is a means of testing one's own convictions and proselytizing the faith. Training parties is a moral and religious obligation to help them discover their own convictions. They have training grounds in the mill's yard where monks can be paid to attack a party. They look to expose weaknesses, bestow experience, and improve the party's odds in any fight. It's nonlethal combat, but they've been known to break bones mercilessly.
+
+
