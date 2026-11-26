@@ -1,4 +1,4 @@
-# Game Master's Notes
+# Game Master's Notes (Spoiler Alert... Players Should Avoid Reading)
 
 ## Organizations
 
@@ -147,7 +147,7 @@ Until next time, this is Deadline, your favorite tormentor. May all your torment
 
 ### The Last Citadel
 
-After the events of The Recipe For Disaster, Rezzen became an unwilling local celebrity, but not quite as popular as Gate is in Oriat. The dwarves of the Cavalcade allowed him to take ownership of a small abandoned mill in the district for him to start his own cloister, The Last Citadel.
+After the events of The Recipe For Disaster, Rezzen became an unwilling local celebrity, but not quite as popular as Gate is in Oriat. The dwarves of Cavalcade allowed him to take ownership of an abandoned mill in the district to establish his own cloister, The Last Citadel. The mill draws motive power from the district's waterworks to drive small rolling mills, stamping presses, and other machinery used in small-scale steelworking. It was originally abandoned because the machines had fallen into disrepair and was deemed unsafe.
 
 Rezzen devoted himself fully to Magrim. He saw Kaer Maga as a den of undignified death. He was obsessed with making people be the best, most purposeful versions of themselves. Even if that meant breaking their bones to reveal it.
 
@@ -159,18 +159,91 @@ The Last Citadel refers to the body. It is the "last citadel" of the soul before
 4. Blood feuds pointlessly waste lives and effort. Pick a side and end it quickly. (This lesson was learned particularly seeing the aftermath of the Brothers of the Seal.)
 5. Zyphus is a villain. Accidental death is the worst form of death. Be ever vigilant and correct the conditions for accidental death.
 6. Groetus is a villain. There is always something you can do. Never allow someone to die because of inaction. Force people to choose sides.
-7. Urgathoa is a villain. Pharasma is an ally. Undeath disrupts the natural order. Souls must serve their purpose in the after life, just as they served their purpose in life.
+7. Urgathoa is a villain. Pharasma is an ally. Undeath disrupts the natural order. Souls must serve their purpose in the afterlife, just as they served their purpose in life.
 8. Seek adversity to test yourself. An untested conviction is meaningless.
-9. Forsake comfort. If you are comfortable, you are not growing.
+9. Provide adversity to others. Be the foil against which they can test themselves if needed.
+10. Forsake comfort. If you are comfortable, you are not growing.
 
 The followers of The Last Citadel are a growing group of mostly dwarves. Many are victims of industrial accidents who have refused to succumb to their circumstances. Some are young dwarves who refuse to be bound to a future as a factory worker, thinking they have more to live for. Others are recovering alcoholics, wanting to find more purpose than what they found at the bottom of a bottle.
 
-Not all of these followers are monks. As the organization has grown, it has transformed into a guild as well. Followers are organizing their own workshops, forming apprenticeships, and cultivating professional relationships outside of the established guild norms. The abandoned mill has become a giant workshop, monk training center, and guild office. This is causing great friction in Cavalcade with the established order.
+Not all of these followers are monks. As the organization has grown, it has transformed into a guild as well. Followers are organizing their own workshops, forming apprenticeships, and cultivating professional relationships outside of the established guild norms. The abandoned mill has become a giant workshop, monk training center, and guild office. This is causing great friction in Cavalcade with the established order. The guilds thought they were giving an abandoned mill to an ascetic order that could bring belonging and meaning to the disaffected dwarves of the quarter. They unwittingly subsidized a small but fierce competitor.
 
-Followers of The Last Citadel (cloister and guild) are immediately identified by black-and-white headbands that pull hair back away from the face. Beards are trimmed to ensure they do not accidentally get burned or caught in machinery. Monks also wear sleeveless black robes and loose white trousers bound below the knee. Workers favor bleached white uniforms and industrial boots. Monks tend to favor plain white sandals. Followers take pride in making their clothes dirty, often discussing how each stain compares to the others. They observe one holiday each month, Bleachrun, where everyone washes and bleaches their whites to start collecting new stains once again. Note that the obsession with stains arose from the bloodstain on Rezzen's robes that Diddi used as the focus of her first divination concerning him.
+Followers of this theological movement refer to themselves as one of "The Last". The term is reserved for any person who has been initiated into at least one discipline in the building. Initiation allows one to wear the striped headband, adopt the title, and have free access to consultation with other members. Until then, any non-member may visit and participate, but should expect extraordinarily harsh treatment.
+
+The Last (cloister and guild) are immediately identified by black-and-white headbands that pull hair back away from the face. Beards are trimmed to ensure they do not accidentally get burned or caught in machinery. Monks also wear sleeveless black robes and loose white trousers bound below the knee, and white sandals. Workers favor bleached white uniforms and industrial boots. The Last take pride in making their clothes dirty, often discussing how each stain compares to the others. They observe one recurring holiday on the first day of every month, Bleachrun, where everyone washes and bleaches their whites to start collecting new stains once again. Note that the obsession with stains arose from the bloodstain on Rezzen's robes that Diddi used as the focus of her first divination concerning him.
 
 Gnomes view Bleachrun with a little trepidation, as it has an unfortunate name collision with their most feared life event, The Bleaching. No gnomes to date have become followers of The Last Citadel, despite the fact that their tenets might actually help a gnome avoid The Bleaching.
 
-The Last Citadel monks do offer themselves as trainers and mercenaries for adventuring parties to hire. Adventuring is a means of testing one's own convictions and proselytizing the faith. Training parties is a moral and religious obligation to help them discover their own convictions. They have training grounds in the mill's yard where monks can be paid to attack a party. They look to expose weaknesses, bestow experience, and improve the party's odds in any fight. It's nonlethal combat, but they've been known to break bones mercilessly.
+The Last Citadel monks do offer themselves as trainers and mercenaries for adventuring parties to hire. Adventuring is a means of testing one's own convictions and proselytizing the faith. Training parties is a moral and religious obligation to help them discover their own convictions. They have training grounds in the mill's yard where monks can be paid to attack a party. They look to expose weaknesses, bestow experience, and improve the party's odds in any fight. It's nonlethal combat, but they've been known to break bones mercilessly. Other guild members provide ingenious traps, locks, and other hazards for parties to test themselves. Of course, The Last Citadel does offer a shop that sells high-quality, often unique equipment of all kinds, and accepts orders for custom pieces.
+
+If a training exercise ends with The Last Citadel being defeated, the organization (guild and cloister) offer celebration to the victors, provided they explain how they won. In some cases, the fee may even be returned.
+
+One darker side of this theological movement is that the leadership of The Last Citadel do engage in torture as a means of teaching. Young dwarves who seek a different vocation should expect weeks of painful whipping, occasional beating, and hazing in order to test their conviction and desire as part of learning a new discipline. Should they pass, they are expected to perform the same to other newcomers. This is one of the lasting influences of Rezzen's Droskarite upbringing. Toil and suffering are not the problem from their perspective, so long as they help forge the person into something better.
+
+The Last Citadel building has sections devoted to many different disciplines. Walls whose only purpose is to divide are abhorrent. They have removed as many walls as possible while keeping the workplace safe. Inside the building, one can find sections devoted to leatherworking, alchemy, smithing and steelwork, hedge wizardry (heavy focus on abjuration and transmutation), carpentry and linenwork.
+
+These monks also specialize in combat against undead. They are not welcome in Ankar-Te.
+
+#### Minor Characters
+
+##### Bongo Davins
+
+Bongo is a test engineer and face of the Citadel yard. He is a monk by training, but has handled and tested literally every weapon the Citadel makes. He questions newcomers about their expectations and negotiates deals. He is unfailingly kind, even after beating someone to a bloody pulp.
+
+##### Tibbon Hammerhand
+
+Tibbon smiths some of the best non-magical weapons found in the Citadel armory. He is a one-handed smith with a no-nonsense attitude. He lost his hand in one of the machines that led to the mill being closed, before it became the Last Citadel. One of his first acts as a member of "The Last" was to forge a hammer to replace his lost hand. He can usually be found in the yard overseeing his latest batch of weapons undergoing grueling tests. He is the face of the armory, and negotiates contracts for custom projects.
+
+##### Urn
+
+Urn is a young monk who has a professional relationship with Diddi. He is often the first person Diddi suggests the party contact when they need another fighter before heading off to fight, especially undead. He can be found training in the yard on most days. He shares Rezzen's proclivity for staring at things, mostly because he shares Rezzen's knack for perception and seeking deeper understanding. He is not particularly friendly, but he is extremely dependable. He's always willing to deliver a beatdown to any party member not willing to carry their weight.
 
 
+### The Silent Partner
+
+The Silent Partner is an established money-lending institution already operating in Oriat. However, Angston the Lender is secretly a Mammonite whose prayers were originally purchased by another devil of Mammon. Angston has been benefitting from _his_ silent partner for years, with the long-term payment being his soul. The other devil provided seed money, leads, and advice.
+
+Once Gate established the footprint of The Bank of Mammon, one of the next things he did was to purchase Angston's soul from the other devil. Gate paid a visit to Angston and "informed him" that his handler is now just down the street. Gate expects Angston to continue as before, but now expects a cut, in exchange for muscle (Wings) should his business be threatened. It is expected that Angston shall take riskier clients that the Bank of Mammon might forward to him _unofficially_.
+
+Angston has mixed feelings on the matter.
+
+---
+
+## Other Adventuring Opportunities (GM spoiler)
+
+### What happened to Shoeless?
+
+### The Silent Bell
+
+The Lyceum's hourly bell has been ringing every hour since the college was built. The entire city of Kaer Maga tells time by it. Especially Quill.
+
+Suddenly, the bell stopped ringing a few days ago. Quill is going insane.
+
+The students and faculty at the Lyceum think it is odd. It physically vibrates. But it produces no noise. Magically, they can't find anything wrong with it. A replacement bell will take weeks to make, transport, and hang. Not many bellcasters, even within Kaer Maga, have the capacity to make a replacement.
+
+But Quill can't afford to wait that long.
+
+He puts out an ad for a party to look into it themselves. He's fronting his _own_ money for this.
+
+Diddi will help with any divination the party needs to solve the puzzle, free of charge.
+
+The mystery's first focus leads to a particular student, a gnome bard named Pingus Flutenscratch, who became annoyed with the bell. It kept waking him up. It threw off his flute-playing. It interrupted his conversations. What he did not know is that a classmate, a talented grunt-singer half-orc and witch named Gorbula Throatflayer, who was annoyed by Pingus' horrible flute-playing, hexed him such the bell was destined to interrupt him constantly. In a fit of rage, Pingus cast a silence spell on the bell one afternoon.
+
+Neither Pingus nor Gorbula came forward when the mystery surfaced. But they could not understand why the spell silenced the bell permanently.
+
+The reality is that a fey named Trinni, an acoustic pixie, had taken up residence in the bell, and had subsequently become trapped inside the clapper. She was initially drawn to the bell a few hundred years ago when she flew by Kaer Maga one day. She stood on the clapper, marveling at its size and construction, when suddenly the bell rang, causing the clapper to hit the bell wall. That was enough to send the pixie, almost completely ethereal anyway, into the clapper itself. She became trapped inside.
+
+When the silence spell was cast, the spell's magic reverberated inside the clapper, allowing the fey to steal its power. Amplified by the clapper itself, the fey recasts the spell every hour (just as the clapper hits the wall), re-silencing the bell, hoping that someone will come to investigate the bell and free her.
+
+The GM is encouraged to create the stat block of an acoustic pixie. One idea is that the pixie is mostly ethereal, has wings that are effectively oversized ears, and specialize in sound magic. Loud noises are _not_ harmful... they are sources of power. Their ethereal form helps them avoid much of the side effects of strong sound, allowing their spirits to channel it. Unfortunately, once trapped in the metal, Trinni could not make a sound of her own, as there was no air to convey into (they are heavily tied to the Elemental Plane of Air).
+
+Possible means of extraction include:
+* ritual exorcism
+* finding a magical means to temporarily cancel her ethereal nature, but that might require overcoming any innate spell resistance... suspending her ethereal nature might also make her subject to sonic damage
+* destroying the clapper (at the risk of killing the pixie and ruining the bell)
+* disassembling the bell and putting the clapper in a centrifuge to literally spin the pixie out of the clapper using what little mass she has in the material world... this would possibly make her angry and disoriented
+
+
+### Don't Open That Crate
+
+### 
